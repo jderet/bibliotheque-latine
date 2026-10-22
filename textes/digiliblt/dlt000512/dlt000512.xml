@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Epitome anonyma (quae gynaecia uocatur) recensio G</title>
+    <author>Vindicianus</author>
+    <respStmt>
+     <resp>Correzione linguistica</resp>
+     <name>Sara Mecca</name>
+    </respStmt>
+    <respStmt>
+     <resp>Codifica XML</resp>
+     <name>Nadia Rosso</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>digilibLT</publisher>
+    <pubPlace>Vercelli</pubPlace>
+    <date>2017</date>
+    <availability>
+     <p><ref target="http://creativecommons.org/licenses/by-nc-sa/3.0/it/"/></p>
+    </availability>
+    <idno>dlt000512</idno>
+   </publicationStmt>
+   <sourceDesc>
+    <p><hi rend="italic">Theodori Prisciani Euporiston libri III, cum physicorum fragmento et additamentis pseudoTheodoreis</hi>, editi a Valentino Rose ; accedunt Vindiciani Afri quae feruntur reliquiae Lipsiae 1894, pp. 428-463 (Bibliotheca Scriptorum Graecorum et Romanorum Teubneriana).</p>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <projectDesc>
+    <p>digilibLT. Biblioteca digitale di testi latini tardoantichi.</p>
+    <p>Progetto diretto da Raffaella Tabacco (responsabile della ricerca) e Maurizio Lana</p>
+   </projectDesc>
+   <editorialDecl>
+    <p><hi rend="bold">Modifiche apportate al testo dell'edizione di riferimento </hi></p>
+    <p>Si è inserito il dittongo "ae" laddove compariva la corrispondente "e" con segno grafico simile alla cediglia.</p> 
+     <p>Si è corretto l'errore di stampa al cap. 2 "qnomodo" in "quomodo".
+    </p>
+
+    <p><hi rend="bold">Note di trascrizione e codifica del progetto digilibLT </hi></p>
+    <p>Abbiamo riportato solo il testo stabilito dall'edizione di riferimento non seguendone
+     l'impaginazione. Sono stati invece esclusi dalla digitalizzazione apparati, introduzioni, note
+     e commenti e ogni altro contenuto redatto da editori moderni. </p>
+    <p> I testi sono stati sottoposti a doppia rilettura integrale per garantire la massima
+     correttezza di trascrizione</p>
+    <p>Abbiamo normalizzato le U maiuscole in V seguendo invece l'edizione di riferimento per la
+     distinzione u/v minuscole.</p>
+    <p> Non è stato normalizzato l'uso delle virgolette e dei trattini.</p>
+    <p> Non è stata normalizzata la formattazione nell'intero <hi rend="italic">corpus</hi>:
+     grassetto, corsivo, spaziatura espansa.</p>
+    <p>Sono stati normalizzati e marcati nel modo seguente i diacritici.<lb/> espunzioni:
+     <![CDATA[<del>testo</del>]]> si visualizza [testo] <lb/> integrazioni: <![CDATA[<supplied>testo</supplied> si visualizza <testo>]]><lb/>
+     <hi rend="italic">loci desperati</hi>: <![CDATA[ <unclear>testo</unclear> o <unclear/> testo]]>
+     si visualizzano †testo† e †testo<lb/> lacuna materiale: <![CDATA[<gap/>]]> si visualizza
+     [...]<lb/> lacuna integrata dagli editori:
+     <![CDATA[<supplied><gap/></supplied> si visualizza <...>]]>
+    </p>
+    <p>Sono stati marcati i termini in lingua greca
+     <![CDATA[<foreign xml:lang="grc">αβγ</foreign>]]>
+    </p>
+    <p>Ulteriori informazioni sulle norme di trascrizione e codifica su <ref
+      target="http://digiliblt.lett.unipmn.it/upload/docs/note_di_trascrizione_e_di_codifica.pdf"
+      >Note di trascrizione e codifica di testi latini tardoantichi
+      [http://digiliblt.lett.unipmn.it/upload/docs/note_di_trascrizione_e_di_codifica.pdf]</ref></p>
+   </editorialDecl>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="la">Latino</language>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+
+ <text>
+
+
+  <body>
+   <div><head>Incipit epistola de conpaginibus et de conceptione infantis.</head>
+    <div type="cap" n="1"><p> Professa officia nostra nam in expon(en)tibus omnibus quattuor esse oportet. Scientiam memoriam consilium virtutem. quam potantis sui cognationibus et elimentis probationibus tutaverunt. ut invenirent tantam rationem interrogationibus quibus ossibus et nervis vel venis et quibus commissuris omnes contineamur. vel quomodo in utero materno cognuscamur vel portemus. cum sit huius artis medicinae grecis actoris placuit quosdam qui huius modi sermone ignorant in latino interpretari anatomicorum. Haec est superiorum sectarum rationem vobis exponere.
+    </p></div><div type="cap" n="2"><p> Maiores enim nostri hoc est priores vel antiquis in alexandria gentibus medicinae <hi rend="expanded">Lupione uel Opphi et Erofilo herasque servatus Asclepiades et Yppocras et Apollonio et</hi> ceteris anatomicis. Id est securioribus quibus licuit mortuus aperire et temptarent ut scirent unde pereclitarent vel mortui fuissent homines. sed hoc nobis facere non licet quia prohibitum est nobis. et ideo haec explicare nobis oportet. Rationem vobis reddimus quomodo contineamur omnem corpus hominis et conpo<supplied>sicionem vene membrorum</supplied> quibus articulis quibus conmisuris. quibus ossibus quibus venis vel nervis vel conpaginibus. a principio omnium maiorum rationem incipiamus.
+    </p></div><div type="cap" n="3"><p> Caput  noster commissuras habet quinque. sicut diximus simacus anatomicorum <hi rend="expanded">Lupio et Erophilus</hi> sicatartis. habent masculi calvariae commissuras quinque arteria continentes. femina vero in circuitu unde agnoscitur calvariae feminae quod greci dicitur non uadena et latinae quod est membrano cui superposita est cutis. Habet autem <hi rend="expanded">capillos</hi> non propter decor<hi rend="italic">e</hi>m sed a fronte corpore conspecta membrana est etiam. ut iberni temporis cerebrum nostrum bestiendum calefaciat et extate temporis spatiose solis calore cerebro extuare non permittas.
+    </p></div><div type="cap" n="4"><p> Huic ergo calvariae subiecent tempora que continetur spiritales venibus venas cerebri quibus positae sunt <hi rend="expanded">supercilia</hi>. quae sunt capillus vestitas. quare ipse copiosus sanguis per fronte discenderit aposita obtenatione capillorum continetur. donec apollicio sudor collectus oculis obesse non possit.
+    </p></div><div type="cap" n="5"><p> <hi rend="expanded">Oculi</hi> autem ipse contineantur cum exvasisse crebra hoc est ventris cerebelli. duo foramina uriuntur per quas singulas radices tenuissimae bene de parte dextra. in sinistra autem uului oculorum continetur. <hi rend="expanded">Tunicas</hi> quattuor. quomodo intenditur. prima tunica cerat uedis dicitur. secunda vero raguaedis tertia vero ministruedis. quarta autem cristaluedis. Nigella vero eorum urbis irae appellantur. in medio autem urbium actus vel pupillae appellantur per quas visum cernimus. Alii autem dicunt non esse in oculis tunicas sed humorem. sicat sole in qua balasin nasci. dominantur autem in oculis humores tres salsus humidus et frigidus. <hi rend="expanded">asclepiades</hi> ore suodicente humores qui nobis in oculis visum reddit diversis coloribus variantur.
+    </p></div><div type="cap" n="6"><p> Quod sunt vene in <hi rend="expanded">gutore</hi> maiores quod sanguineas vocatur quattuor. duo qui organi dicuntur et deavisceribus venientes
+    </p></div><div type="cap" n="7"><p> Subposita oculis quas <hi rend="expanded">maculas</hi> vocamus. quibus coerit plata noster id est et dentium. sed et dentes autem eis habemus XXX et II. et femina vero dentes XXX. de quibus <hi rend="expanded">Apollonius</hi> magnus sic ait ge<supplied>mini</supplied> dentes us usque ad caninus. singulas habentes radices. alii vero inferiores qui molares dicuntur habent binas et ternas radices.
+    </p></div><div type="cap" n="8"><p> Nam palatum a quibusdam dicitur oraniscus vel iroa supra iacit <hi rend="expanded">lingua</hi> cuius radices coperiunt canalem spiritalem et <del>i</del>stomacum pataorus simile. qui utrumque carnalem modo cludit modo aperit. aperit autem spiritalem qui (quando) loquimur cludit autem quem manducamus. Vnde hoc in quibus possumus scire si quando epulamus. et inter epulas risus nascitur organae insuitae suco ex cibo et potu aliquid extraxerit statim tussis insequitur. donec implent spirito trahent quod aevaserat annestio quid in suas iterum revocat vocis vel paris.
+    </p></div><div type="cap" n="9"><p> Huic ergo lingua dextra levaque sublingua sunt positi quod autem super pende illis super alias carnales unum qua cibo vel potu instomaco membranus dicitur. coniungitur autem gurgulione et pulmone.
+    </p></div><div type="cap" n="10"><p> <hi rend="expanded">Pulmo</hi> autem noster et in modo causae ferrari follis. taliter ipsum trahit et implet pectoris locum. Nam ibi et istomacus et ventre et cor iunctum est inter duas pennas pulmonis <supplied>in medium est penne autem pulmonum. IIII</supplied>. nam et foramine sunt inpulmones. quatuordecim quas greci principes vocant.
+    </p></div><div type="cap" n="11"><p> <hi rend="expanded">Cor</hi> autem nostrum venas habet quattuor duas spiritales et duas sanguinales. qui spiri-tales sunt continent pulmones que sunt sanguinales continent iecor. Hoc est ficato per quam spiritus et corpus factum est. Congregatio venarum unde sanguis effunditur et sic vene pulsum reddunt. Pulsus autem nutritur per modum vene que recipiunt sanguinem vel expellunt.
+     Cor noster  ungtus est et ad pulmones et a<supplied>ca</supplied>cumen eius a sinistro mamillae inclinantur in sinistro latere quod graeci <hi rend="expanded">precordia</hi> toracis apellant. habens in circuito membrana velut castra in quo<del>d</del> adsiduae minuetur inde respiratio nascitur. cingens extremas partes pulmones. 
+    </p></div><div type="cap" n="12"><p> Superposita sunt precordia quod greci <hi rend="expanded">frenans vel diafragma</hi> vocant. continent pulmones et ficato pennas subiecentes venter et intestina continens latera et espina. Vene autem eius abet orificium duos etsi a proximo membrano quod greci procausdion vocant in sinistram partem inclinatur. Alia vero in dextra parte circa sedem quos positum est extensus usque ad longum quod greci lacon dicunt. continens renes et ilia et iocinera et vesica viridem plena humorem quod greci colen vocant in sinistra parte positum est splen oblongo coniunctum est ventriculo continens membrana denue. Habens pinguissimas venas que intestinas vel ventrem tegent et calefaciunt quod greci epeplus vocant. latinae obmento vel mappa dicitur extensum est usque ad ilia subvocent colo intestino continens longitudinem palmorum quattuor in inguine dextro partis ponitur.
+    </p></div><div type="cap" n="13"><p> Coniunctum est <hi rend="expanded">vesica</hi> habet vesica collum longum iuncta deretro illic iuncta sunt foramina tenuissima et vene ab ispine medullis venientibus in testiculi semen administrant quod greci spermaticus purus vocant. Haec est seminis foramina testes autem iunctae sunt et nervis vel venis genuissimis inserti sunt.
+    </p></div><div type="cap" n="14"><p> Apeudismemon arcus espinectus dactuleus. si quis greci et cautoris multis nominibus <hi rend="expanded">anum</hi>  vocaverunt apeudismenon extalem dixerunt. et quod eustes greci rectum dicatur vel arcus. isfinctus eo quod secundum naturam constringit dactuleos. quod est anulo greci alo dactulaedin dicunt. Latinae autem anum vocant. eo quod in rotundo constringat in modum anuli.
+    </p></div><div type="cap" n="15"><p> Cui similitudo est <hi rend="expanded">matrix</hi> conpositione habet cocurbitae medicinales. quod tunicas habet matrix quattuor duas intro carnosas. et duas fores nervosas. cuius mensura est orificium. in corporis puellaris orificium digitorum quattuor mulieris autem digitorum sex ubi positae sunt vel in quale parte corporis ipsius caverna. in dextra parte et in sinistra qui urina dimittunt. sed similiter femina testiculus continere quos dedemus vocant. latine testes.
+    </p></div><div type="cap" n="16"><p> Quod similiter feminae sicut viri continent. ita et femine quae habet <hi rend="expanded">testiculus</hi> denique parandi viris. sed non eius conpositiones habentes sicut viris sed minores et molliores adeo a quibusdam calidam et a quibusdam iurae dicuntur. Constat ergo una ratione esse feminis et masculis sed mulieres habent similiter cum tunicas quattuor. prima appellatur fereco. secunda. facon. tertia. perefenion. quarta genuissima arcus apellatur.
+    </p></div><div type="cap" n="17"><p> Similiter <hi rend="expanded">vulva</hi> prima cuius subiacent membrana vulva qui continet facto quod greci cincion culpon vocant. Nam quomodo est masculi deretro sic et vulve collum. sicut minuetur adest vulvae naturaliter mollis. constat autem tuniculis firmissimis sicut duabus extensior. et carnosa est. et carnosa interior et nervosa haec superposita est directa intestina diuscervis vel capita tribus per quas foraminibus porregetur usque ad longum inque(i)ris venerias perfice(i)tur.
+    </p></div><div type="cap" n="18"><p> Nam cum <hi rend="expanded">concipiamur</hi> natura volente ex viri seminae et mulieris sanguinem. quamvis ipsum sanguinem sed unde et maiores nostri quos natos sanguineos vocaverunt. Vnde summus autor. et <hi rend="expanded">Yppocrasistratus</hi> sic ait. namquae vero ex semine mulieris et sanguine glorior natio esse scio. quid dicant quomodo semen. Sanguinem sumpsit cum sanguis sit blabu et semen candidus certum rationem docebo. quem admodum in mare ocianum est vel quod illa natura tribuit. si quando tempestates beneficium inparasset. et inscapulosus fluctus conlesus ispumam magnam facit vel quem admodum vino nigro in calicae quoagito multam ispumam habentem faciat. similiter rationem et sanguis a sublima ossarum repercussus <del>i</del>spumam albidam facit necesse est ergo ut concipiamus ex viri semine et mulieris sanguine. Nam quotienscumque mulieribus suave abentibus casum facimus. mulieres si conciperent greges etosse <supplied><gap/></supplied> queruntur infante sed quicquid ego <supplied>cum</supplied> muliere iscrova habeate cetum facis non concepit merito maior fuit fortasse pars sanguinis. et minor pars seminis et lavabit illam minorem partem seminis maior pars sanguinis.
+    </p></div><div type="cap" n="19"><p> <hi rend="expanded">Temporibus autem infans componendus</hi>. ad que et conlocare in utero materno manifestum est septem dunion sero septem ispatia continetur infans et nascitur. septimo anno infante dentes cadere vel septenae pueresse in hoc aliquibus mamillas obingere et tertio septeno .I. et XXI. anno barbas maturare septimo die egrus pereclitare. Qui multi septem estellis omnia ministrare sic infans in utero materno formare. atque conponi cursum et lunae veterum determinare. est autem numerus quod mihi sic videtur fiat septies multiplicatus ita parto consumere sed figuram hominis infans accipiat. primo autem die quadragesima dico. hos  autem numerus aut natus daturae septies multiplicamus. Oportet ita ergo quicumque vel dies. XXX. in utero materno figuram hominis acceperit septimo mense nascitur. hoc septies duplicit iterum dies exquod sunt menses VII. si que <supplied>autem dies XL</supplied> utero materno figuram hominis acceperit nono mense intrante decimo nascitur. Hoc septies duplicit fiunt dies. CCLXXX (L), qui sunt menses VIII. et dies. X. ita ergo ut diximus septimo autem mense qui nati fuerint vitalesunt. Qui autem non impleverint numero supradicto legitimus partus non est.
+    </p></div><div type="cap" n="20"><p> Manifestum infantem in utero materno sic temporibus formare. et quomodo intendo primo mense iactatur seminis noster in utero materno generat umbilicum et facit mense secundo expressione corporis faciat menses tertius qui priorem formatum. invenit corpus. Tribuit enim quarto mense ungulas accepit pectus et capillus aeducit et motum facit infantem. adeo totum quarto mense nausiatur quinto mense facit caracterem similem patris aut matris vel proximum parentem. mense sexto adducit nervorum confirmationem septimo mense medullam confortat. mense octavo ossa dura facit. mense nono maturum movit infantem. et sic perfectum et rerum naturae beneficium de tenebris ad lucem ducit infantem.
+    </p></div><div type="cap" n="21. 1"><p> Continetur autem in utero sic summam capitis partem crinibus continetur. genua autem oculi sunt posita  unde hec tumentia et concava oculi adeo quam primo ille nomina rerum natura posuit genu et gene. Denique cum agro dolore aut iniuriam acceperint homines ad genua se prosternant. statim lacrimantur oculi eorum natura movisse *olem in utero materno. per novem mensis sociatus fuisset. sed multus audio dicentes si natus et infans cum tangit terra vocem dat. Hoc se(i) essent mulieres qui nave pariant multos (mutos) nutrirent.
+    </p></div><div type="cap" n="21. 2"><p> Vt sciar mulier cum pregnans fuerit <hi rend="expanded">in dextra parte</hi> constabilit semen suum haec sí puero habebit mense sexto semis. septimo mense factus ipse octabo habuerit sed <hi rend="expanded">in sinixtra parte</hi> adhùc oculus tumidus mulier habebit. Tunc constabilit in dextra parte puer. deinde puella mense quinto sextosemis vertit in sinistra parte oculus mulier clarus et rubeus habebat.
+    </p></div><div type="cap" n="22"><p> Cur ergo infans non <hi rend="expanded">loquitur</hi> sed magis balbitant. certa ratio est quia dentes non habent musigant. Dentes autem nostri ut organi sunt. genus quibus modolatrix est lingua infantis quam diu duos dentes non habent vagentur balbitant. ad ubi duos vel tres vel quattuor habent musicant et adeos locuntur.
+    </p></div><div type="cap" n="23"><p> <hi rend="expanded">Dentes</hi> autem nostri qui sicuidentur cometis qui dati sunt nobis ad precidendum elimentum. Alii vocantur quinodenti latine canini dicuntur. alii dedicuntur. sed dentes nostri quid esse potatis ossa dicentis ergo se ossa sunt dentes nostri cur ergo omnes ossa rara sanguinem est quam mittunt ergo si dentes nostri ossa sunt. cur ergo omnes ossa medulla habent <supplied>dentes vero medulla</supplied> non habent quia evores sunt omnes ossa curantur. et ad locum revocantur. dentes autem nostri sublati ad locum revocare non possunt.
+    </p></div><div type="cap" n="24"><p> In dentibus nostris queris vitia in eis est. reddam vobis rationem. quia humor est nequissimus qui de capite descendit. sicut omnes autores dixerunt <hi rend="expanded">melliadis</hi> dixit. me<supplied>o</supplied>llidis adsiduae petra curat humida gutta <hi rend="expanded">aristoto<supplied>e</supplied>lis</hi> dixit. Stilicidia guttandi lapidem cavet. <hi rend="expanded">Lupio</hi> dixit gutta cavet lapidem non ponere (pondere) sed potius sepe cadendum tamen capitis humoris sed se diffunderit facit ulcera amara in capite. alopicias et nimius dolores omnia ora pulmonum et tocius corporis vertiginem et tenebras facit occulorum. Fistulas sub palpebris reu<del>s</del>matismus generat et lippitudines nutriunt et capillorum nocet et caligines et alburas oculorum et cyrirgia in nares polipum in dentibus cancer sub lingua quod dicitur rana ibi nocet et dolor dentium. Inde epilempticis efficiuntur et humores gingivarum  et dentium denudationes et commovent. fauces exinde obtumiscunt. et omnes vicinae partes mala omnes obtineant cum patiantur deinde fit ut aliquid neque calidum neque frigidum in ore continere non possunt. et si aliquid gustaverint statim morsus cum suo sanguine incipiunt commedere.
+    </p></div><div type="cap" n="25"><p> Sunt autem naturales officio cum quibus infantes nascuntur. sensus gustus. et <supplied>s</supplied>apor. sunt et alia irae motus. intellectus. et risus. Ista omnia et anima et corporis totius sunt adiutoria prima corporis sunt auxilia et aegestiones preu(b)entia quamdiu spiritus in suo reget corpore.</p>
+     <p>[Incipit epistola ypocratis de pectus autem nimium pregravatum . . .</p></div>
+    </div>
+    
+    
+  </body>
+ </text>
+
+</TEI>

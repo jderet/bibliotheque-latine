@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Epitome anonyma (quae gynaecia uocatur) recensio E</title>
+    <author>Vindicianus</author>
+    <respStmt>
+     <resp>Correzione linguistica</resp>
+     <name>Sara Mecca</name>
+    </respStmt>
+    <respStmt>
+     <resp>Codifica XML</resp>
+     <name>Nadia Rosso</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>digilibLT</publisher>
+    <pubPlace>Vercelli</pubPlace>
+    <date>2017</date>
+    <availability>
+     <p><ref target="http://creativecommons.org/licenses/by-nc-sa/3.0/it/"/></p>
+    </availability>
+    <idno>dlt000531</idno>
+   </publicationStmt>
+   <sourceDesc>
+    <p><hi rend="italic">Theodori Prisciani Euporiston libri III, cum physicorum fragmento et additamentis pseudoTheodoreis</hi>, editi a Valentino Rose ; accedunt Vindiciani Afri quae feruntur reliquiae Lipsiae 1894, pp. 464-466 (Bibliotheca Scriptorum Graecorum et Romanorum Teubneriana).</p>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <projectDesc>
+    <p>digilibLT. Biblioteca digitale di testi latini tardoantichi.</p>
+    <p>Progetto diretto da Raffaella Tabacco (responsabile della ricerca) e Maurizio Lana</p>
+   </projectDesc>
+   <editorialDecl>
+    <p><hi rend="bold">Modifiche apportate al testo dell'edizione di riferimento </hi></p>
+    <p>Si è inserito il dittongo "ae" laddove compariva la corrispondente "e" con segno grafico simile alla cediglia.</p>
+
+    <p><hi rend="bold">Note di trascrizione e codifica del progetto digilibLT </hi></p>
+    <p>Abbiamo riportato solo il testo stabilito dall'edizione di riferimento non seguendone
+     l'impaginazione. Sono stati invece esclusi dalla digitalizzazione apparati, introduzioni, note
+     e commenti e ogni altro contenuto redatto da editori moderni. </p>
+    <p> I testi sono stati sottoposti a doppia rilettura integrale per garantire la massima
+     correttezza di trascrizione</p>
+    <p>Abbiamo normalizzato le U maiuscole in V seguendo invece l'edizione di riferimento per la
+     distinzione u/v minuscole.</p>
+    <p> Non è stato normalizzato l'uso delle virgolette e dei trattini.</p>
+    <p> Non è stata normalizzata la formattazione nell'intero <hi rend="italic">corpus</hi>:
+     grassetto, corsivo, spaziatura espansa.</p>
+    <p>Sono stati normalizzati e marcati nel modo seguente i diacritici.<lb/> espunzioni:
+     <![CDATA[<del>testo</del>]]> si visualizza [testo] <lb/> integrazioni: <![CDATA[<supplied>testo</supplied> si visualizza <testo>]]><lb/>
+     <hi rend="italic">loci desperati</hi>: <![CDATA[ <unclear>testo</unclear> o <unclear/> testo]]>
+     si visualizzano †testo† e †testo<lb/> lacuna materiale: <![CDATA[<gap/>]]> si visualizza
+     [...]<lb/> lacuna integrata dagli editori:
+     <![CDATA[<supplied><gap/></supplied> si visualizza <...>]]>
+    </p>
+    <p>Sono stati marcati i termini in lingua greca
+     <![CDATA[<foreign xml:lang="grc">αβγ</foreign>]]>
+    </p>
+    <p>Ulteriori informazioni sulle norme di trascrizione e codifica su <ref
+      target="http://digiliblt.lett.unipmn.it/upload/docs/note_di_trascrizione_e_di_codifica.pdf"
+      >Note di trascrizione e codifica di testi latini tardoantichi
+      [http://digiliblt.lett.unipmn.it/upload/docs/note_di_trascrizione_e_di_codifica.pdf]</ref></p>
+   </editorialDecl>
+   <charDecl>
+    <char xml:id="char1">
+     <charName>g cum linea suprascripta</charName>
+     <desc>g cum linea suprascripta (=Graeci)</desc>
+    </char>
+    
+    <char xml:id="char2">
+     <charName>d cum linea transuersa</charName>
+     <desc>d cum linea transuersa</desc>
+    </char>
+    
+    <char xml:id="char3">
+     <charName>n cum linea suprascripta</charName>
+     <desc>n cum linea suprascripta</desc>
+    </char>
+    
+    <char xml:id="char4">
+     <charName>q cum linea suprascripta</charName>
+     <desc>q cum linea suprascripta</desc>
+    </char>
+    
+    <char xml:id="char5">
+     <charName>ms cum linea suprascripta</charName>
+     <desc>ms cum linea suprascripta</desc>
+    </char>
+    
+    <char xml:id="char6">
+     <charName>m cum linea suprascripta</charName>
+     <desc>m cum linea suprascripta</desc>
+    </char>
+    
+    <char xml:id="char7">
+     <charName>a cum linea suprascripta</charName>
+     <desc>a cum linea suprascripta</desc>
+    </char>
+    
+   </charDecl>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="la">Latino</language>
+   </langUsage>
+  </profileDesc>
+  
+ </teiHeader>
+
+ <text>
+
+
+  <body>
+   <div><head>Incipit actio iusti medici de mulieria Genechia.</head>
+    <div type="cap" n="1"><p> Quomodo in utero materno contenimus vel portemus cum sit artis medicinae grecis auctoribus placuit preter quod huiusmodi sermonis ignorat in latino. Interpretationem nobis hanc in peioribus in virtute domini agentibus medicina <hi rend="expanded">lupi et pilupio erofilo et erasistrado. yppo. et apolon.</hi> et ceteri anatomici. philosophis licuit discutere. ut scirent unde et quomodo mortuum esset hominis facere non licuit. Et ideo hoc esemplare. oratio vobis redditur. Quomodo contineamus
+    </p></div><div type="cap" n="13"><p> longaone vero iuxta est vesica habens collo longo et collo iuncto veretro a quo collo vesica non tenetur. Vesica autem inter duos renes continetur et current illi dextera levaque. Nervia que testiculi continent quod <g ref="#char1">g</g> gremastaris vocant. iuncti sunt foramina per quem lenissime bene ad spinae medulle in testiculis semen administrant. quod greci spermaticus prorus vocant.
+    </p></div><div type="cap" n="16"><p> Sed similiter et feminae testiculus sicut et viris contere femina inquid habet testiculus denique et parent. sed non huius compositionem habent sicut et viri sed minoris et mollioris. Adeo quecumque similis habent ut viris a quibusdam coliosi et molioso dicuntur. Constat ergo unam naturam esset viris et femini sed mulier inquid vulvam simili. et testiculis tonici vero quantum quorum prima sicut esti dicitur. secunda epe(se)ro. et his tertia petreimon. quarta tenuissima tar<g ref="#char2">d</g> appellatur.
+    </p></div><div type="cap" n="17"><p> Similiter vulva habet. prima autem mollis membranum vulva. et quo continetur quod <g ref="#char1">g</g> gention golfon vocant. Sed quomodo est masculi veretrum ita ut vulva collum sicut <hi rend="expanded">accius iustus Vulva</hi>. Naturaliter mollis est. Constat tonicis duabus firmissimus. exterior nervosa interior carnosa. haec superpositum est. et degesta intestinis. Cuius cervix cum tribus foraminibus porrigit quod ad longationem. in qua regio venerior usus perficitur.
+    </p></div><div type="cap" n="18"><p> Quam cum concipit naturam volentes inuerissimi Ne in mulieribus sanguine. quamvis et ipse semen sanguini est. Vnde et maiores nostros <supplied>hoc</supplied> priores cognatos. consanguines vocaverunt. Vnde sumum auctor. hoc est <hi rend="expanded">humerus</hi>. greci latini. hoc ait. Nam quomodo semine id est sanguinum. sed cum sit candidum certa ratione abit. sed sicut mare ab africon. hoc tempus rubor. vol. quod illi natura tribuit. sed et quando tempestate beneficium densas et scopulus colesa spuma facit albam. et quem admodum vinum nigrum in calice agitatum spumam albam fecit necesse est. Concipimus autem viris semine et mulieris sanguine. sed non statim formatur infans in utero materno sed temporibus confirmatur. Nam quotienscumque coetum cum mulieribus fiet conceperunt grex infantium sequerentur sicut animalia. Certum autem tempore concipiunt mulieres aut incipientem sanguinem aut deficientem. Sed quidam cum mulierem menstruam habentem coetum faciunt non concepit meritum quia cum maior fuisset pars sanguinis mulieris menstruis et minoris semine elutum est illi aut magis maior pars sanguinis.
+    </p></div><div type="cap" n="19"><p> Temporibus autem infantum componi atque conlocare manifestum est tempestatis quotiens septimo mense septimo anno infanto dentes cadere. bis. septimo popescere et noclientibus mamillis semen generare. ter septimo. hoc est XXI a<g ref="#char3">n</g> barba maturare. septimo die egros periclitare. Quid multis septimo est illis omnia ministrare. sic infans in utero mater(no) firmare atque componi. cursus solis aut lunae viam cum erugitur manere. manifestum est autem numerus. <g ref="#char4">q</g> haec fiet septies multiplicare et ita partus consumare. Sed et figuram hominis accepit. Primo autem XL. diebus. aliquando et XXX. intra utero materno figuram hominis acciperit septimo mense nascitur. hoc septies duplicans fiunt dies CCXVI. qui faciunt menses VII. et dies VI. Quae aut die XL figuram hominis acciperit VIIII mense nascitur intrante X nascitur. hoc nonies duplicans fiunt CCLXXX dies qui faciunt menses VIIII et dies X. Quare ergo ut diximus VII mense qui nati fuerint vitales erunt. Qui autem non impleverunt numerum super scriptum. legitimus partus non erit.
+    </p></div><div type="cap" n="20"><p> Manifestum est infantem in utero sic firmare quomodo intendit primum status seminis. in utero materno generare umbilicum et facit congregationis signum. Secundum mensis expressionem corporis qui exteriora convenit formatum corpus IIII mense annimatus unguis accipiat sic. et capillus ducit. motum facit infantem IIII° mense contertia mater nausiatur et formatus est infans. quinto mense ossa confirmat nervia et venas per quo salitur fetus. sexto mense medullam confirmat et capillorum adducit quotis sumendi. etiam mulieribus crebriores fiunt nausiae VII° <g ref="#char5">ms</g> nervorum facit fortitudinem et elimentum accepit in quo regitur. VIII° <g ref="#char5">ms</g> maturum movet corpus et accepit anelitum. VIIII° <g ref="#char5">ms</g> perfecta omnia (o<g ref="#char5">ms</g>) maturitatem evolvit infantem de tenebris adducit.
+    </p></div><div type="cap" n="21"><p> Nam sic vulvam iactatur. sive in latus aut supine aut summa pars capitis medio ventrem conlocat(ur). genua autem nostra oculis supposita sunt. et quia sunt eminentia. concava fasciunt speciem lu<g ref="#char6">m</g> vel ad quorum conpressionem format nausus. Ideo quae dictae sunt genuae. qu<g ref="#char7">a</g> genibus nixerunt. Hanc rem si <g ref="#char4">q</g> dol’ coacta sunt potentiorem rogat. Non dicit per culmen corporis caput. sed rogo inquit per genuam. Continuo etiam oculi lacrimantur quia natum quod volunt in utero materno quibus sociata fuissent utrum gemit. Illa dum parit vagit. Ille dum nascitur ament nondum hilaritatis vitam adhibiturum etiam luctum gerit oculus quae vix bene parentibus effundent. Lacrimas vagit una lis suos persequitur. et antequam sciat flore novit. scient videlicet menses hominum et illa caelestis origo infelicitatem praedicat. sed multis audio se quando dicentes. Hoc infans cum tetigit terram 
+     vocem dat. hoc si scit mulieribus qui in nave pereunt vitalis esset partus.
+    </p></div><div type="cap" n="21.2"><p> ut scias quid mulier pregnans in utero habuerit in dextera parte stabiliet semen suum septimo mense movet. in sinistra parte et oculus mulier tumidus habet et tarde ambulavit. Si puerum habuerit stabiliet semen suum in sinistra parte septimo mense vertit se in dexteram partem et oculos mulier clausus habebit.
+    </p></div><div type="cap" n="22"><p> Cur ergo infans non loquitur sed vagitum. certa ratio est. quia quae dentes non habet non formas illa dum loquitur. Dentes autem nostri. organeca sunt. quorum modo flagerit lingua.</p>
+    <p>[Incipit de mulieria.</p></div>
+   </div>
+   
+  </body>
+ </text>
+
+</TEI>

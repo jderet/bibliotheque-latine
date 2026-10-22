@@ -1,0 +1,2007 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title> Partitiones </title>
+                <author> Priscianus </author>
+                <respStmt>
+                    <resp>Transcodifica di base da rtf a xml-tei</resp>
+                    <name>Piero Colombo - Step srl</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Testo </resp>
+                    <name>Marinone, CD-GL, adeguato su edizione Passalacqua</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Adeguamento testo su nuova edizione</resp>
+                    <name>Gianmario Cattaneo</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Controllo marcatura XML-TEI</resp>
+                    <name>Gianmario Cattaneo - Alice Borgna </name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>digilibLT</publisher>
+                <pubPlace>Vercelli</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <p>
+                        <ref target="http://creativecommons.org/licenses/by-nc-sa/3.0/it/"/>
+                    </p>
+                </availability>
+                <idno>DLT000423</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Prisciani Caesariensis <hi rend="italic">Opuscula </hi>. Vol. II: <hi
+                        rend="italic">Institutio de nomine et pronomine et verbo; Partitiones
+                        duodecim versuum Aeneidos principalium </hi>. Edizione critica a cura di M.
+                    Passalacqua, Roma, Edizioni di storia e letteratura, 1999, pp. 45-128. </p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc xmlns="http://www.tei-c.org/ns/1.0">
+            <projectDesc>
+                <p>digilibLT. Biblioteca digitale di testi latini tardoantichi.</p>
+                <p>Progetto diretto da Raffaella Tabacco (responsabile della ricerca) e Maurizio
+                    Lana</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>
+                    <hi rend="bold">Note di trascrizione e codifica del progetto digilibLT</hi>
+                </p>
+                <p>Abbiamo riportato solo il testo stabilito dall'edizione di riferimento non
+                    seguendone l'impaginazione. Sono stati invece esclusi dalla digitalizzazione
+                    apparati, introduzioni, note e commenti e ogni altro contenuto redatto da
+                    editori moderni.</p>
+                <p>I testi sono stati sottoposti a doppia rilettura integrale per garantire la
+                    massima correttezza di trascrizione</p>
+                <p>Abbiamo normalizzato le U maiuscole in V seguendo invece l'edizione di
+                    riferimento per la distinzione u/v minuscole.</p>
+                <p>Non è stato normalizzato l'uso delle virgolette e dei trattini.</p>
+                <p> Non è stata normalizzata la formattazione nell'intero <hi rend="italic"
+                        >corpus</hi> : grassetto, corsivo, spaziatura espansa. </p>
+                <p> Sono stati normalizzati e marcati nel modo seguente i diacritici. <lb/>
+                    espunzioni: <![CDATA[<del>testo</del>]]> si visualizza [testo] <lb/>
+                    integrazioni: <![CDATA[<supplied>testo</supplied> si visualizza <testo>]]>
+                    <lb/>
+                    <hi rend="italic">loci desperati</hi> :
+                    <![CDATA[ <unclear>testo</unclear> o <unclear/> testo]]> si visualizzano †testo†
+                    e †testo <lb/> lacuna materiale: <![CDATA[<gap/>]]> si visualizza [...] <lb/>
+                    lacuna integrata dagli editori:
+                    <![CDATA[<supplied><gap/></supplied> si visualizza <...>]]>
+                </p>
+                <p> Sono stati marcati i termini in lingua greca
+                    <![CDATA[<foreign xml:lang="grc">αγβ</foreign>]]>
+                </p>
+                <p> Ulteriori informazioni sulle norme di trascrizione e codifica su <ref
+                        target="http://digiliblt.lett.unipmn.it/upload/docs/note_di_trascrizione_e_di_codifica.pdf"
+                        >Note di trascrizione e codifica di testi latini tardoantichi
+                        [http://digiliblt.lett.unipmn.it/upload/docs/note_di_trascrizione_e_di_codifica.pdf]</ref>
+                </p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la">Latino</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <milestone unit="page" n="p. 519 vol. III Keil"/>
+            <milestone unit="page" n="p. 45 Passalacqua"/>
+            <head>Prisciani Grammatici partitiones duodecim versuum Aeneidos principalium</head>
+            <p>
+                <quote type="poetry"> ‛Arma uirumque cano Troiae qui primus ab oris’ </quote>
+            </p>
+            <p> Versus genere uniformis, specie dactylicus, compositione simplex, nec similis
+                pedibus, depositione terminalis in disyllabum, qui diuiditur in caesuras per cola
+                quidem in nouem, per commata uero in duas, semiquinariam et semiseptenariam, per
+                pedes in quinque. Quid est genere uniformis? Quia generalia metra nouem sunt, id est
+                dactylicum, anapaesticum, iambicum, trochaicum, choriambicum, paeonicum, ionicum a
+                maiore, ionicum a minore, antispasticum; et sunt in quibusdam generibus diuersae
+                species uersuum, ut choriambicum asclepiadeum ex spondeo et duobus choriambis et
+                pyrrichio, choriambicum glyconium ex spondeo choriambo et pyrrichio. Similiter alia
+                huius generis plura inueniuntur metra, ut etiam illud Horatianum <lb/>
+                <quote type="poetry">‘Lydia dic per omnes’</quote>, <lb/> quod habet choriambum et
+                bacchium; dactylicum uero uniforme <milestone unit="page" n="p. 46 Passalacqua"/>
+                est. Quid est specie dactylicus? Quia legitimos pedes dactylos accipit et spondeos
+                qui in dactylos resoluuntur ratione temporum. Quid est compositione simplex? Quia
+                sunt uersus ex diuersis generibus metrorum compositi, quales inuenis apud Horatium
+                et alios lyricos mixtos ex dactylis et iambis, ut est apud Flaccum <lb/>
+                <quote type="poetry">‘scribere uersiculos amore percussum graui’</quote>
+                <lb/> (est enim penthemimeris heroica cum dimetro iambico); heroicus uero simplex
+                est compositione, id est a pedibus unius speciei componitur. Quid est nec similis
+                pedibus? Quia licet uel dactylos uel spondeos ponere. Quid <milestone unit="page"
+                    n="p. 460 vol. III Keil"/> est depositione terminalis in disyllabum?
+                Catalecticos dicunt, quibus deest in fine aliquid, acatalectos, quibus nihil deest;
+                heroicus autem qui legitimos habet dactylos, qui trisyllabi sunt, ideo in disyllabum
+                uult desinere et minuit in fine unam syllabam, ne sit impedimento sequenti uersui
+                quin celeriter incipiat. Praeterea dicuntur hypercatalecti, quibus abundat una uel
+                duae syllabae, ut nouenarium pindaricum, quod, cum sit dimetrum iambicum, habet
+                tamen unam syllabam plus in fine: Horatius <lb/>
+                <quote type="poetry">‘siluae laborantes geluque’</quote>. <lb/> Brachycatalecti
+                quoque dicuntur in iambicis et similibus quibus deest una uel duae syllabae, ut est
+                senarium iambicum colobon, ut Horatius <lb/>
+                <quote type="poetry">‘mea renidet in domo lacunar’</quote>. </p>
+            <p> Per cola diuisio separat integras partes orationis, per pedes uero secundum metri
+                rationem et per commata similiter. Commata autem sunt tria, tertia trochaica
+                semiquinaria et semiseptenaria; <milestone unit="page" n="p. 47 Passalacqua"/>
+                quarta enim bucolica magis passio est sicut hemiepes et quarta trochaica et quae
+                inueniuntur per singulos pedes. Caesurae uero cursum et rythmum leuiorem solent
+                facere et necesse est uel unam uel duas caesuras in uersu inueniri; nam tres
+                rarissime possunt in eodem uersu esse. Nam si semiquinariam habet, trochaicam habere
+                raro potest, nisi quando monosyllaba intersit dictio, ut <lb/>
+                <quote type="poetry">‘munera clara dedit dat et idem debita patri’</quote>. <lb/> et
+                e contrario, si tertiam trochaicam habet, semiquinariam habere raro potest. Per
+                pedes in quinque diuiditur hic uersus caesuras quia sex pedes quinque habent
+                interruptiones. Quot figurarum est heroicus uersus? Triginta et duarum. Quomodo?
+                Quia quinque dactylos uel quinque spondeos habentes unius sunt figurae; similiter
+                quattuor uero dactylos et unum spondeum habentes quinque faciunt figuras, et e
+                contrario ex quattuor spondeis et uno dactylo quinque figurarum est. Vnus enim inter
+                quattuor mutans loca quinque facit figuras. Sic et duo spondei inter tres dactylos
+                et duo dactyli inter tres spondeos mutantes loca denas faciunt figuras. Habemus
+                igitur tres modos, et primus singulas figuras habet ex quinque similibus: pone
+                igitur duas figuras; secundus, qui ex quattuor et uno, quinas: pone et hic decem
+                figuras; tertius modus est ex duobus et tribus diuersis commutatis in quo denae
+                inueniuntur figurae: adde etiam uiginti. omnes igitur sunt triginta et duae figurae.
+                Et ut scias aliam rationem numeri figurarum, in omni metro computa quot pedes
+                accipiunt singula loca et <milestone unit="page" n="p. 461 vol. III Keil"/>
+                multiplica numerum pedum quos accipiunt singula loca priora et numerum pedum quos
+                accipiunt loca sequentia. Vt in heroico primus locus accipit duos pedes, hoc est
+                dactylum et spondeum, similiter secundus duos: bis duo, quattuor. Tertius similiter
+                duos: bis quattuor, octo. Quartus quoque duos: bis octo, sedecim. Et quintus duos:
+                bis sedecim, triginta et duo. Et in iambico <milestone unit="page"
+                    n="p. 48 Passalacqua"/> similiter primus locus accipit quinque pedes, secundus
+                tres: ter quinque quindecim; tertius quoque quinque: quinquies quindecim,
+                septuaginta et quinque; quartus tres: ter septuaginta et quinque, ducenti uiginti et
+                quinque; quintus quinque: quinquies ducenti uiginti quinque, mille centum uiginti
+                quinque. Sic in omni metro, in quo diuersorum pedum sunt eadem loca capacia, ut in
+                anapaestico et trochaico, hac ratione figuras potes inuenire. Nam in illis metris in
+                quibus singula loca fixos habent pedes, id est singulos, unius sunt figurae, ut in
+                asclepiadeo ac sapphico hendecasyllabo et similibus. </p>
+            <p>
+                <quote type="poetry">‛Arma uirumque cano Troiae qui primus ab oris’</quote>. </p>
+            <p> Scande uersum. Armaui rumqueca noTroi aequi primusab oris. Quot habet figuras?
+                Decem. Quare? Quia constat ex tribus dactylis et duobus spondeis. Quot caesuras
+                habet? Semiquinariam et semiseptenariam. Quomodo semiquinariam? Arma uirumque cano.
+                Et semiseptenariam? Arma uirumque cano Troiae. Quot partes orationis habet iste
+                uersus? Nouem. Quot nomina? Sex, arma, uirum, Troiae, qui, primus, oris. Quot uerba?
+                Vnum, cano. Quot praepositiones? Vnam, ab. Quot coniunctiones? Vnam, que.</p>
+            <p> Arma quae pars orationis est? Nomen. Quale? Appellatiuum. Cuius est speciei?
+                Generalis. Cuius generis? Neutri. Quare? quia <milestone unit="page"
+                    n="p. 49 Passalacqua"/> omnia nomina quae in plurali numero in a desinunt, sine
+                dubio neutri generis sunt. Cur singulare eius in usu non est? Quia multas et uarias
+                res hoc nomen significat. Arma enim dicuntur instrumenta non solum bellica sed etiam
+                omnia, ut Virgilius de agrestibus in primo georgicon <lb/>
+                <quote type="poetry">‘dicendum, duris quae sint agrestibus arma’</quote>. <lb/>
+                Nautarum quoque instrumenta et pistorum arma dicuntur; Virgilius in quinto Aeneidos<lb/>
+                <quote type="poetry">‛colligere arma iubet ualidisque incumbere remis’</quote>.
+                <lb/> Idem in primo <milestone unit="page" n="p. 462 vol. III Keil"/>
+                <lb/>
+                <quote type="poetry">‘Cerealiaque arma <lb/> expediunt’</quote>. </p>
+            <p> Cum igitur sit homonymon, quod quidam uniuocum dicunt, et uarias res significet,
+                singulae earum habent sua nomina, ut scutum galea lorica hasta gladius et cetera.
+                Non igitur opus est in hoc nomine singularis numerus cum semper in plurali
+                significatione ponatur. Potest autem et differentiae causa huius singulare taceri,
+                ne ab armo, artu corporis, obliqui eius casus proferri existimentur, hic armus huius
+                armi. Cuius est figurae? Simplicis. Fac ab eo compositum. Armiger armipotens
+                semermis inermis et inermus. Cuius est casus in hoc loco? Accusatiui. Vnde hoc
+                certum est? A structura, id est ordinatione et coniunctione sequentium; cano
+                    <milestone unit="page" n="p. 50 Passalacqua"/> enim uerbum accusatiuo iungitur,
+                ergo si quando inuenias talem ordinationem, pone loco neutri masculinum uel
+                femininum, quorum accusatiui non sunt similes nominatiuis, et manifestatur tibi
+                casus ut in hoc uersu ‘cano uirum’ dixit; similiter ‘cano illam rem’ dicimus, ex
+                quibus neutra quoque sine dubio potes intellegere secundum quem casum proferuntur
+                tam in singulari quam in plurali numero. Nec solum tamen in neutro genere, in quo
+                nominatiuus et accusatiuus et uocatiuus similes sunt sed etiam in aliis generibus,
+                si quos inuenias similes casus et dubites, secundum quem positi sunt, eandem
+                structuram compone cum illis qui non sunt similes, et solues tibi dubitationem; ut
+                puta si dicas ‘oratoribus utor magistris’ et dubites utrum datiuus an ablatiuus sit
+                casus, non solum, quod utor uerbum semper ablatiuo coniungitur hoc possis agnoscere,
+                sed etiam si secundum singularem numerum hanc eandem ordines orationem dicendo
+                ‘oratore magistro utor’. Omnia enim in e terminantia ablatiuum masculina uel
+                feminina nulli alteri eum casum similem habent. Quotae est declinationis arma?
+                Secundae. Quare? Quia genetiuum armorum facit. Omnia autem neutra pluralia a finalem
+                nominatiui in o conuertunt et addita rum faciunt genetiuum si sint secundae
+                declinationis. Illud quoque possumus dicere, quod alterius declinationis nominatiuus
+                in ma desinens in plurali numero non inuenitur nisi secundae, ut prima primorum
+                summa summorum. Fac deriuatiuum ab eo. Armarium armamentum armamentarium armillae,
+                quae nunc brachialia uocant; sic Cicero in quarto de re publica: armentum et ab eo
+                armentarius. Dic uerbum denominatiuum: armo armas armat. Vnde certum est quando
+                uerbum a nomine et quando nomen a uerbo nascitur? Ex ipsa significatione <milestone
+                    unit="page" n="p. 51 Passalacqua"/> et natura rerum. Nam non possumus dicere
+                    <milestone unit="page" n="p. 463 vol. III Keil"/> armo nisi prius sint arma,
+                quibus armemus aliquem. <del>nec auro auras nec subaero subaeras, unde Persius <lb/>
+                    <quote type="poetry">‘nequa subaerato mendosum tinniat auro’</quote>, <lb/> nisi
+                    prius sit aurum et ferrum</del> Contra autem a uerbo nascitur nomen quod non
+                potest esse in aliquo, nisi prius actus uerbi in eo intellegatur, ut, si dicas
+                lector, intellego eum prius legere et sic ei id nomen do. Ergo armo, sicut diximus,
+                uerbum est denominatiuum, quod a nomine nascitur, lector autem nomen uerbale. Dic
+                passiuum eius. Armor. Declina. Armor, armaris uel armare, armatur et cetera. Dic
+                participia actiua. Armans armaturus. Passiua. Armatus et armandus. Fac nomen uerbale
+                a participio praeteriti temporis. Armator et armatrix. Cur? Quia omnia participia
+                praeteriti temporis us in or conuertentia faciunt nomen uerbale in omni coniugatione
+                masculinum ex quo iterum or in rix mutantes facimus femininum, nisi euphonia, id est
+                sonus, prohibeat, quod euenit in illis quae in sor desinunt, ut pransor cursor
+                tonsor. Nemo enim dicit pransrix cursrix tonsrix propter asperitatem
+                pronuntiationis. Vnde et Terentius ‘tonstrina’ dixit euphoniae causa addens contra
+                regulam t. Sicut enim a doctore doctrina consonantes eas habuit quas suum
+                primitiuum, sic debuit etiam tonstrina absque t esse nisi sonoritas coegisset.
+                Defenstrix quoque Cicero in Timaeo protulit addita t. Fac alia deriuatiua ab eodem
+                supra dicto participio. Armatio armatura quae rem ipsam significant. Et sciendum
+                quod plerumque nomina rerum eandem habent participiis praeteriti temporis
+                terminationem, declinatione tamen differunt. Nam nomina quartae sunt, participia
+                    <milestone unit="page" n="p. 52 Passalacqua"/> uero secundae, ut iudicatus
+                    <foreign xml:lang="grc">ὁ κριθείς</foreign> secundae est, huius iudicati,
+                iudicatus uero <foreign xml:lang="grc">ἡ κρίσις</foreign> huius iudicatus; monitus
+                    <foreign xml:lang="grc">ὁ ὑπομνησθείς</foreign> huius moniti, monitus <foreign
+                    xml:lang="grc">ἡ ὑπόμνησις</foreign> huius monitus; lectus <foreign
+                    xml:lang="grc">ὁ ἀναγνωσθείς</foreign> huius lecti, lectus <foreign
+                    xml:lang="grc">ἡ ἀνάγνωσις</foreign> huius lectus; aditus <foreign
+                    xml:lang="grc">ὁ προσελευθείς</foreign> huius aditi, aditus <foreign
+                    xml:lang="grc">ἡ προσέλευσις </foreign> huius aditus. Quidam autem stulte et
+                contra usum auctorum participii paenultimam producunt et dicunt se hoc facere
+                differentiae causa. Nullum enim participium ueniens a uerbis in eo desinentibus,
+                siue secundae seu quartae sint coniugationis, i productam habet ante tus, ut moneo
+                monitus habeo habitus praetereo praeteritus: Virgilius in octauo <lb/>
+                <quote type="poetry">‘o mihi praeteritos referat si Iuppiter annos’</quote>;<lb/>
+                obeo obitus: idem in decimo <lb/>
+                <quote type="poetry">‘morte obita qualis fama est uolitare figuras’</quote>;<lb/>
+                adeo quoque aditus: Ouidius in fastis <milestone unit="page"
+                    n="p. 464 vol. III Keil"/><quote type="poetry">
+                    <lb/> ‘sol aditus quam quaeris, ait, ne uana labores <lb/> nupta Iouis fratri
+                    tertia regna tenet’</quote>. <lb/> De aditus quantum ad praesens sufficienter
+                diximus; latius autem de participio tractatum est in libro singulari. Nunc hoc etiam
+                sciendum, quod genetiuus quoque supradicti participii paene in omnibus adsumpta o
+                facit rei nomen, ut iudicati iudicatio orati oratio moniti monitio lecti lectio i
+                paenultima in omnibus correpta. Quamuis igitur regula det nobis copiam, tam in us
+                quam in io terminationibus uti in significationibus rerum, tamen auctorum usus nobis
+                magis sunt obseruandi. Illud quoque sciendum, quod multa nomina uerbalia participiis
+                futuri temporis similia inueniuntur, et a passiuis quidem semper, ut amandus nomen
+                    <foreign xml:lang="grc">ὁ φιλητέος</foreign>, <foreign xml:lang="grc">ὁ
+                    φιληθησόμενος</foreign> participium, docendus nomen <milestone unit="page"
+                    n="p. 53 Passalacqua"/>
+                <foreign xml:lang="grc"> ὁ διδακτέος</foreign>, <foreign xml:lang="grc">ὁ
+                    διδαχθησόμενος</foreign> participium; legendus nomen <foreign xml:lang="grc">ὁ
+                    ἀναγνωστέος</foreign>, participium <foreign xml:lang="grc">ὁ
+                    ἀναγνωσθησόμενος</foreign>; adeundus nomen <foreign xml:lang="grc">ὁ
+                    προσελευστέος</foreign>, participium <foreign xml:lang="grc">ὁ
+                    προσελευσθησόμενος</foreign>. Et in futuri quidem temporis participiis passiuis
+                hoc euenit semper, in actiuis autem non semper, sed in quibusdam, et hoc in
+                femininis, ut armatura nomen<foreign xml:lang="grc"> ἡ ὅπλισις</foreign> participium
+                    <foreign xml:lang="grc">ἡ ὁπλίσουσα</foreign>, litura nomen <foreign
+                    xml:lang="grc">ἡ ἀπαλοιφή</foreign> participium <foreign xml:lang="grc">ἡ
+                    ἀπαλείψουσα</foreign>, scriptura nomen <foreign xml:lang="grc">ἡ γραφή</foreign>
+                participium <foreign xml:lang="grc">ἡ γράψουσα</foreign>. Est autem inuenire nomina
+                adiectiua hominum et mobilia in omnibus similia participiis praeteriti temporis,
+                etiam in declinatione, ut doctus nomen<foreign xml:lang="grc"> ὁ
+                    εὐπαίδευτος</foreign> participium <foreign xml:lang="grc">ὁ
+                παιδευθείς</foreign>, armatus nomen <foreign xml:lang="grc">ὁ ὁπλίτης</foreign>
+                participium <foreign xml:lang="grc">ὁ ὁπλισθείς</foreign>. Et sciendum quod, si sint
+                nomina mobilia, non possunt eadem etiam rerum esse, ut doctus armatus; et contra, si
+                sint rerum, non etiam hominum adiectiua, ut monitus aditus. Sunt etiam quaedam rerum
+                uocabula, quae participiis neutris praeteriti temporis similia sunt, ut factum nomen
+                    <foreign xml:lang="grc">τὸ ἔργον</foreign>, participium <foreign xml:lang="grc"
+                    >τὸ γεγονός</foreign>, uisum nomen <foreign xml:lang="grc">ἡ ὀπτασία</foreign>,
+                participium <foreign xml:lang="grc">τὸ ὁραθέν</foreign>. Est etiam quando praesentis
+                temporis participiis similia inueniuntur nomina adiectiua, ut sapiens nomen<foreign
+                    xml:lang="grc"> ὁ σοφός</foreign>, participium <foreign xml:lang="grc">ὁ
+                    φρονῶν</foreign>, amans nomen<foreign xml:lang="grc"> ὁ ῆραστής</foreign>,
+                participium <foreign xml:lang="grc">ὁ ῆρῶν</foreign>. Sed nomen genetiuo,
+                participium autem ablatiuo coniungitur secundum uerbi iuncturam, ut <lb/>
+                <quote type="poetry"> ‘natus et ipse dea’</quote>
+                <lb/>
+                <foreign xml:lang="grc">ὁ τεχθεὶς ἐκ θεᾶς</foreign>: natus autem deae <foreign
+                    xml:lang="grc">ὁ υἱὸς θεᾶς</foreign> dicitur. </p>
+            <p>
+                <milestone unit="page" n="p. 54 Passalacqua"/> Virum, quae pars orationis est?
+                nomen. quid est nomen? Pars orationis uniuscuiusque rei suppositae communem uel
+                propriam qualitatem significans. Quot accidunt nomini? Quinque, qualitas siue
+                species, genus, <milestone unit="page" n="p. 465 vol. III Keil"/> numerus, figura,
+                casus siue declinatio. Nam comparatio non bene inter accidentia potest poni, quia
+                non est generale accidens nec in omnibus inuenitur nominis speciebus sicut
+                supradicta quinque. Non est enim species nominis, in qua non inuenias et qualitatem
+                et genus et numerum et figuram et casum; comparatio autem nisi in adiectiuis non
+                inuenitur. Dic igitur, uir cuius est speciei? Primitiuae (potest tamen et a uireo
+                uerbo esse deriuatum), et est appellatiuum et significat corpus animale. Cuius est
+                generis? Masculini. Vnde hoc possumus scire? Tam ab ipsa natura eius quod
+                significat, quam a terminatione et declinatione. Omnia enim in ir desinentia, quae
+                propria sunt hominum, masculina sunt et secundae declinationis, ut uir uiri leuir
+                leuiri Treuir Treuiri et similia. Cur per u scribitur? Quia omnia nomina a ui
+                syllaba incipientia per u scribuntur exceptis bitumen et bilis, quando fel
+                significat, et illis quae a bis aduerbio componuntur, ut biceps bipatens biuium. Cur
+                sonum uidetur habere in hac dictione i uocalis y litterae Graecae? Quia omnis dictio
+                a ui syllaba breui incipiens d uel t uel m uel r uel x sequentibus hoc sono
+                pronuntiatur, ut uideo uidebam uidebo; quia in his temporibus ui corripitur, mutauit
+                sonum in y; in praeterito autem perfecto et in aliis in quibus producitur naturalem
+                seruauit sonum, ut uidi uideram uidissem uidero. Similiter uitium mutat sonum, quia
+                corripitur; uita autem non mutat quia producitur; similiter uim mutat quia
+                corripitur; uimen autem non producitur ideoque non mutat; similiter uir et uirgo
+                mutant quia corripiuntur, uirus autem et uires non mutant quia producuntur; uix
+                mutat quia corripitur, uixi non mutat quia <milestone unit="page"
+                    n="p. 55 Passalacqua"/> producitur. Hoc idem plerique solent etiam in illis
+                dictionibus facere in quibus a fi breui incipiunt syllabae sequentibus supra dictis
+                consonantibus, ut fides perfidus confiteor infimus firmus. Sunt autem qui non adeo
+                hoc obseruant, cum de ui nemo fere dubitat. Cuius est numeri uirum? Singularis. Dic
+                pluralem. Viri. Cuius figurae? Simplicis. Fac ab eo compositum. Semiuir, duumuir,
+                triumuir, quinqueuir, septemuir, decemuir, centumuir, leuir <del>frater
+                mariti</del>, uirbium quoque uirum bis dictum tradunt, uiripotens, uirago et uirgo,
+                uir illustris, uir deuotus, uir magnificus, uir spectabilis, quae omnia ideo
+                composita accipimus quia sub uno accentu pronuntiantur. cuius est casus uirum?
+                Accusatiui singularis. Fac ab eo deriuatiua. Hic et haec uirilis et hoc uirile et
+                uirilitas; uirtutem quoque hinc quidam deriuari uolunt. Fac aduerbium. Viritim, quod
+                Graeci <foreign xml:lang="grc">ἀνδρακάς</foreign> dicunt, id est per singulos uiros. </p>
+            <p> Que quae pars orationis? Coniunctio. Quid est coniunctio? Pars orationis connectens
+                ordinansque sententiam. Quot accidunt coniunctioni? Tria, potestas ordo figura.
+                Cuius est potestatis? Copulatiuae. Cuius <milestone unit="page"
+                    n="p. 466 vol. III Keil"/> ordinis? Postpositiui. Cuius figurae? Simplicis. Quem
+                habet accentum? Haec et aliae duae coniunctiones, ue scilicet et ne, apud Latinos
+                sunt inclinatiuae, quas Graeci <milestone unit="page" n="p. 56 Passalacqua"/>
+                <foreign xml:lang="grc">ἐγκλιτικάς</foreign> uocant; solent enim suos accentus in
+                extrema syllaba praecedentis dictionis remittere ut uirumque subiectisue tantone. Ne
+                autem saepissime e abiciens apostropho notatur non solum uocali sed etiam consonante
+                subsequente ut <lb/>
+                <quote type="poetry">‘tanton me crimine dignum’</quote>. <lb/> Fac compositum ab eo
+                quod est que: atque neque quoque. Nec quoque a neque factum est per apocopen
+                extremarum uocalium et, quia in fine syllabae q scribi non poterat, transiuit in c. </p>
+            <p> Cano quae pars orationis est? Verbum. Quid est uerbum? Pars orationis cum tempore et
+                modis et significationibus. Quot accidunt uerbo? Modi formae significationes
+                coniugationes numeri figurae tempora personae quoque in plerisque. Cuius est modi
+                cano? Indicatiui. Cuius formae? Perfectae. Quam aliam formam habet hoc uerbum?
+                Frequentatiuam. Quae est? Canto cantas cantat. A participiis enim praeteritis solent
+                fieri frequentatiua plerumque, ut habitus habito habitas habitat, scriptus scripto
+                scriptas scriptat, cursus curso cursas cursat, domitus domito domitas domitat,
+                uolutus uoluto uolutas uolutat. Ideo autem diximus plerumque quia ago agito facit et
+                lego legito et nosco noscito et scisco sciscitor. Cuius est significationis cano?
+                Actiuae. Cur? Quia facit passiuum canor. Cuius est coniugationis? Tertiae correptae.
+                Vnde hoc certum est? Quia et prima persona ante o consonantem habet, quod in tertia
+                producta siue quarta coniugatione inueniri non potest, et quod non solum in secunda
+                persona is finalis corripitur, cano canis, sed etiam in plurali numero in prima et
+                secunda persona i paenultima <milestone unit="page" n="p. 57 Passalacqua"
+                />corripitur. Itaque antepaenultima in his acuitur personis, ut canimus canitis; nec
+                non imperatiuus et infinitiuus e correptam habentes, sicut etiam Donatus docet,
+                manifestissime id ostendunt. Cuius est numeri? Singularis. Dic pluralem. Canimus.
+                Cuius figurae? Simplicis. Fac compositum ab eo. Succino occino concino. Cuius est
+                temporis? Praesentis. Dic praeteritum perfectum. Cecini. Cur? Quia uerba in no
+                desinentia si tertiae sint coniugationis in ui faciunt praeteritum, ut sterno straui
+                cerno creui sperno spreui lino leui; pono quoque antiqui posiui secundum analogiam
+                dicebant quod nunc posui dicimus. Cano autem ideo cecini dixerunt ne, si caui
+                secundum analogiam dicerent, non a cano nasci uideretur, sed ab eo <milestone
+                    unit="page" n="p. 467 vol. III Keil"/> quod est caueo. Ab eo tamen composita in
+                ui diuisas faciunt praeteritum, concino concinui succino succinui occino occinui.
+                Dic participia actiua. Canens et canturus. Passiua. Cantus et canendus. Fac ab eis
+                nomina. Cantus <foreign xml:lang="grc">ὴ ᾠδή</foreign> et cantio et cantor et
+                cantrix et cantilena, et a frequentatiuis (duo autem sunt, canto et cantito)
+                cantatus et cantatio et cantator et cantatrix. Concinnus quoque a canendo compositum
+                est. </p>
+            <p>Troiae quae pars orationis est? Nomen. Quale? Proprium. Cuius speciei? Deriuatiuae; a
+                Troe enim rege nominata est Troia. Dic ab eo alia deriuata. Troianus Troicus; Tros
+                quoque quando pro appellatiuo, id est gentili, accipitur. Et sciendum quod pleraque
+                gentilium et propria solent esse ipsorum conditorum urbium siue gentium, ut Italus
+                Danaus Latinus Tros. Cur Troia, cum apud Graecos oe diphthongon in priore habeat,
+                syllaba non seruat etiam <milestone unit="page" n="p. 58 Passalacqua"/> apud nos?
+                Quia in disyllabis, in quibus ae uel oe diphthongi antecedunt sequente uocali,
+                dieresin solent facere Latini plerumque et pro consonante duplici accipere i et eam
+                a priore subtrahere syllaba et adiungere sequenti, quamuis antiqui solebant duas ii
+                scribere et alteram priori subiungere alteram praeponere sequenti, ut Troiia Maiia
+                Aiiax. Hanc tamen consuetudinem Latini habuerunt Aeoles imitantes qui <foreign
+                    xml:lang="grc">κοῖλον</foreign> per diuisionem dicunt, <foreign xml:lang="grc"
+                    >κόιλον</foreign> et multa similiter diuidunt. </p>
+            <p> Qui quae pars orationis est? A quibusdam pronomen hoc esse putatur sed non recte;
+                proprie enim pronomen est quod pro nomine proprio ponitur et personam finitam habet.
+                Ergo, cum quis et qui et qualis talis et quantus tantus et similia uel interrogatiua
+                uel relatiua nec finitas habeant personas, nec loco proprium nominum accipiantur,
+                non sunt pronomina dicenda sed potius nomina. Nec mirum si quaedam ex ipsis
+                declinationem habeant pronominum, cum pronomina quoque multa, de quibus non est
+                dubitatio, quod pronomina sunt, nominum habeant declinationem, ut meus tuus noster
+                uester. Et sciendum quod qui pro quis ponitur, quis autem pro qui non, et quod omnia
+                huiuscemodi nomina relatiua per se acuuntur, in contextu autem orationis grauantur,
+                id est pro acuto in fine grauem accentum accipiunt. Hoc tamen ipsum qui pro aduerbio
+                quoque saepe inuenitur quando accipitur pro quomodo (est etiam ablatiuus). Fac ab eo
+                compositum. Quisquis <milestone unit="page" n="p. 59 Passalacqua"/> quisque aliquis
+                uel aliqui siquis nequis quisquam quicumque quispiam quidam quin, quod significat
+                qui non et cur non et ut non et nec non, atqui et atquin. </p>
+            <p> Primus quae pars orationis est? Nomen. Cuius est speciei? <milestone unit="page"
+                    n="p. 468 vol. III Keil"/> ordinalis et est a Graeco. Cuius est gradus?
+                Superlatiui. Vnde hoc certum est? Quia omnibus solet numeris praeponi et genitiuo
+                plurali semper coniungitur, quod suum est superlatiui, ut primus illorum. Ergo
+                praepositiuus illorum est nominum superlatiuus, quae numerum significant a tribus et
+                ultra. Nam comparatiuus eiusdem prior, quia ad unum solet fieri, semper inter duos
+                ponitur. Quod autem comparatiuum est prior ostendit etiam neutrum quod ab eo
+                nascitur, prius. Nullum enim nomen in or desinens commune in us facit neutrum nisi
+                sit comparatiuum ut hic et haec melior et hoc melius, hic et haec doctior et hoc
+                doctius; sic ergo hic et haec prior et hoc prius. Fac aduerbium. Prime et primum et
+                primo. Fac deriuatiuum nomen. Primitiae primitiuus primitiua primitiuum primarius
+                primulum primores priscus pristinus primas primatis. Cur in fine circumflectitur
+                primas? Quia antiqui hic et haec primatis dicebant paenultimam circumflectentes; ti
+                igitur concisa mansit accentus integer in eadem a littera quae extremae syllabae
+                facta est, quae erat in pleno paenultima. Ergo hoc idem in omnibus similibus
+                obseruandum est ut Arpinas Sufenas Capenas et similibus aliis. Fac composita a
+                primo. Primordium principium primipilarius primicerius decemprimi, quomodo
+                decemuiri, primogenitus <foreign xml:lang="grc">πρωτότοκος</foreign> primotinus
+                    <foreign xml:lang="grc">πρώιμος</foreign> quomodo serotinus <foreign
+                    xml:lang="grc">ὄψιμος</foreign> pridieprinceps. </p>
+            <p>
+                <milestone unit="page" n="p. 60 Passalacqua"/> Ab quae pars orationis est?
+                Praepositio. Quid est praepositio? Pars orationis quae praeposita aliis partibus
+                orationis significationem earum aut complet aut mutat aut minuit; complet ut facio
+                perficio, mutat ut doctus indoctus, minuit ut rideo subrideo. Cui casui coniungitur
+                ab praepositio? Ablatiuo. In appositione sola an etiam in compositione aliis
+                partibus orationis praeponitur? Praeponitur tam in compositione quam in appositione,
+                sed in compositione cum nominatiuo et cum eius declinatione uel illis dictionibus
+                quae carent casibus, in appositione uero cum ablatiuo casualium tantum, ut abduco
+                abducens abducentis abigo abigens abigentis. Et sciendum quod eandem significationem
+                habent a ab abs; et a quidem uel abs <milestone unit="page" n="p. 469 vol. III Keil"
+                /> uocali sequente non ponimus; ab uero non solum uocalibus sequentibus, sed etiam
+                consonantibus quibusdam non male sonantibus antecedente ab ut abduco abdo; abs uero
+                sequente q, ut abs quolibet, uel c, ut abscondo, uel t, ut abstraho. Quo accentu
+                pronuntiatur ab? Per se acuto, in uersu uero graui sicut et aliae omnes
+                praepositiones in suo loco positae, id est praepositiuae. Nam est quando mutato
+                ordine postponuntur et mutant accentum, ut te propter eundem propter: hic
+                paenultimum acutum habet accentum, quod si praeponeretur, sine dubio grauaretur. </p>
+            <p> Oris quae pars orationis est? Nomen. Cuius numeri? Pluralis. Dic singularem. Ora.
+                Quando habet aspirationem hora? Quando tempus significat; quando autem fines, sine
+                aspiratione est, et quando plurale est neutri generis est a singulari quod est os. </p>
+            <p>
+                <milestone unit="page" n="p. 61 Passalacqua"/>
+                <quote type="poetry"> ‛Conticuere omnes intentique ora tenebant’ </quote>
+            </p>
+            <p> Scande uersum. Conticu ereom nesin tentique orate nebant. Dic caesuras.
+                Semiquinaria, conticuere omnes. Quot habet figuras? Decem. Quare? Quia habet duos
+                dactylos et tres spondeos. Tracta pedes. Conticuere omnes et cetera. Quot partes
+                orationis habet? Sex. Quot nomina? Duo. Quae? Omnes ora. Quot uerba? Duo, conticuere
+                tenebant. Quid aliud habet? Participium intenti et coniunctionem que.</p>
+            <p> Conticuere quae pars orationis? Verbum. Quale? Perfectum. Quo modo dictum?
+                Indicatiuo, coniugationis secundae. Cur secundae? Quia in praesenti tempore secunda
+                persona in es productam desinit, conticeo contices, quamuis a prima quoque persona
+                hoc manifestum est in hac coniugatione. Omnia enim uerba in eo desinentia secundae
+                sunt coniugationis exceptis paucis primae coniugationis (quae fere sunt haec beo
+                beas creo creas screo screas meo meas nauseo nauseas laqueo laqueas calceo calceas)
+                et quartae eo is queo quis et quae ex his componuntur. Cuius est significationis?
+                Actiuae. Dic passiuum. Conticeor. Cuius est numeri? Pluralis. Cuius figurae?
+                Compositae. Ex quibus? Ex integro et corrupto. Nam con praepositio est integra,
+                quamuis separata in appositione non potest inueniri sed semper in compositione;
+                ticuere autem corruptum est, quia a, quod habuit integrum, mutauit in i, ticuere pro
+                tacuere. Cuius est personae? Tertiae pluralis, quae tam in re quam in runt in hoc
+                tempore finitur. Cuius est <milestone unit="page" n="p. 470 vol. III Keil"/>
+                temporis? Praeteriti perfecti. Dic primas eius personas in omni tempore per singulos
+                    <milestone unit="page" n="p. 62 Passalacqua"/> modos. Indicatiuo conticeo
+                conticebam conticui conticueram conticebo. Imperatiuum totum dic. Contice conticeat
+                conticeamus conticete conticeant; conticeto tu, conticeto ille, conticetote,
+                conticeant uel conticento. Optatiuo utinam conticerem conticuissem conticeam;
+                subiunctiuo cum conticeam conticerem conticuerim conticuissem conticuero; infinito
+                conticere, conticuisse, conticitum ire. Impersonalia indicatiuo conticetur,
+                conticebatur, conticitum est uel fuit conticitum erat uel fuerat conticebitur;
+                imperatiuo conticeatur conticetor; optatiuo utinam conticeretur conticitum esset uel
+                fuisset conticeatur; subiunctiuo cum conticeatur, conticeretur, conticitum sit uel
+                fuerit, conticitum esset uel fuisset, conticitum erit uel fuerit. infinita
+                impersonalium similia sunt passiuis: conticeri conticitum esse uel fuisse conticitum
+                iri. Quid ergo interest inter infinita impersonalium et passiuorum? Quod
+                impersonalibus infinitis necesse est et uerbum et pronomen siue nomen adiungere ut
+                taceri a me uolo, id est tacere uolo; sin autem uerbum tantum addas dicendo taceri
+                uolo, passiuum ostendis sine dubio. Licet tamen passiuo etiam adiungere ablatiuum
+                casum, sed ut subiungatur accusatiuus primae uel secundae uel tertiae personae ut
+                legi uolo me a te, legi uis te a me, legi uolo illum a me uel a te, legi ille se
+                uult a me uel a te. Ecce hic passiuum est sine dubio, quia et nominatiuum et
+                accusatiuum et ablatiuum adiunxi infinito quod si esset impersonale fieri non
+                posset. Nam taceri a me uolo dicimus pro tacere uolo; taceri autem illum <milestone
+                    unit="page" n="p. 63 Passalacqua"/> uolo eam personam pati ostendit quam protuli
+                per accusatiuum casum. In impersonalibus autem pati quidem neminem significamus,
+                agere autem eam personam ostendimus, quam per ablatiuum casum proferimus, ut taceri
+                a me uolo pro tacere uolo, taceri a te uolo pro tacere te, taceri ab illo uolo pro
+                tacere illum. Cur conticitum ire facit futurum? Quia per formam participii
+                praeteriti temporis neutri et infinitum ire uel iri tam actiuum quam passiuum
+                profertur, ut tacitum ire et tacitum iri <del>uel futurum actiui participium et esse
+                    uel fuisse, taciturum esse uel fuisse. Taciturus est enim participium futuri,
+                    praeteriti uero tacitus tacita tacitum</del>. Ergo in neutris uerbis, quamuis
+                non sint participia praeteriti, ad similitudinem habentium haec proferimus ut statum
+                ire sicut <milestone unit="page" n="p. 471 vol. III Keil"/> amatum ire et duo supina
+                tacitum tacitu statum statu ex quo staturus ut amatum amatu amaturus. Sic in ceteris
+                quoque. Cur conticui facit praeteritum perfectum? Quia omnia in ceo desinentia
+                mutant eo in ui diuisas et faciunt supra dictum tempus, ut arceo arcui iaceo iacui
+                excepto mulceo mulsi. Fac inchoatiuum ab eo quod est conticeo. Conticesco; quidam
+                tamen conticisco protulerunt sed regula magis in inchoatiuis e paenultimam flagitat
+                in his quae a uerbis secundae declinationis deriuantur, ut horreo horresco ferueo
+                feruesco caleo calesco. Inueniuntur enim ab aliis quoque coniugationibus sed raro ut
+                amasco hisco labasco scisco. Declina passiuum. Indicatiuo conticeor conticebar
+                conticitus sum uel fui conticitus eram uel fueram conticebor; imperatiuo conticere
+                conticeatur conticeamur <milestone unit="page" n="p. 64 Passalacqua"/> conticemini
+                conticeantur, conticetor tu conticetor ille conticeminor conticeantur uel
+                conticentor; optatiuo utinam conticerer conticitus essem uel fuissem conticear;
+                subiunctiuo cum conticear conticerer conticitus sim uel fuerim, conticitus essem uel
+                fuissem conticitus ero uel fuero. Infinita conticeri conticitum esse uel fuisse
+                conticitum iri. Dic participia. Conticitus conticendus. Cur solent Romani
+                praeteritum perfectum in or terminantium uerborum et omnia tempora quorum regula a
+                praeterito perfecto nascitur per participia declinare? Quia apud Graecos quoque in
+                plurimis uerbis in quibus secunda et tertia persona indicatiui deficit in praeterito
+                per participium eas declinant et optatiui quoque et subiunctiui praeterita, ut
+                    <foreign xml:lang="grc">τέτυμμαι τέτυψαι τέτυπται τετύμμεθα τετυμμένοι ἐστέ
+                    τετυμμένοι εἰσίν</foreign>. Sic et optatiua et subiunctiua, quod Romani in
+                omnibus in or terminantibus faciunt. Et sciendum quod a participio, ut supra dictum
+                est, praeteriti temporis solent nasci infinita futuri tam actiua quam passiua, ut
+                conticitum ire et conticitum iri et passiui quoque siue impersonalis praeteritum
+                infinitum, ut conticitum esse uel fuisse et supina duo conticitum conticitu et
+                futuri participium actiuum conticiturus. Et haec quidem a participio praeteriti. A
+                participio uero praesentis – quod nascitur in prima quidem et secunda coniugatione a
+                secunda persona cum extremae syllabae interponimus n, ut amas amans doces docens; in
+                tertia uero et quarta a prima persona mutata o in ens, ut lego legens facio faciens
+                audio audiens uenio ueniens, exceptis eo et queo et quae ex his componuntur (haec
+                enim ante e i habent in nominatiuis participiorum: nam iens et quiens faciunt
+                participia; in genetiuo uero per transmutationem i in e et e in u u declinantur iens
+                euntis, <milestone unit="page" n="p. 65 Passalacqua"/> quiens queuntis contra omnium
+                participiorum morem) – a praesenti uero participio actiuo nascitur futurum passiui s
+                finali abiecta et addita dus, ut <milestone unit="page" n="p. 472 vol. III Keil"/>
+                amans amandus docens docendus legens legendus faciens faciendus audiens audiendus;
+                iens autem et quiens et ex his composita a genetiuo faciunt futurum, adiens adeuntis
+                adeundus. Gerundia quoque tria a participio futuri nascuntur ex tribus eius casibus,
+                id est genetiuo datiuo accusatiuo, amandi amando amandum docendi docendo docendum
+                faciendi faciendo faciendum audiendi audiendo audiendum eundi eundo eundum. Dic
+                nomen uerbale ex eo quod est conticeo. Conticitor conticitrix quae, quamuis regula
+                concedat dicere, tamen, nisi in usu inueniamus auctorum, non temere debemus
+                proferre. Ipsa res conticinium. A taceo simplici fit taciturnus et taciturnitas et
+                taciturius et tacitus participiale. </p>
+            <p> Omnes quae pars orationis est? Nomen. Quale? Appellatiuum. Cuius est speciei?
+                Numeralis. Omnia autem numerorum significatiua appellatiua sunt, quamuis sint
+                quaedam cognomina propria quae uocem quidem habent numerorum non tamen etiam
+                significationem ut Quintus Catulus Decimus Brutus. Potest habere comparationem hoc
+                nomen? Non. Quare? Quia nullum nomen numerum significans comparationem potest
+                habere, cum unusquisque numerus in se constat nec augeri aut minui in sua qualitate
+                potest excepto prior quod de duobus ordinem significat. Cuius est generis hoc nomen?
+                Communis. Cur? Quia omnia in is desinentia si apud Graecos uel communia sint uel
+                mobilia, quae illi trigene uocant, apud nos sine dubio communia sunt, ut <foreign
+                    xml:lang="grc">πᾶς πᾶσα πᾶν</foreign> hic et haec <milestone unit="page"
+                    n="p. 66 Passalacqua"/> omnis et hoc omne, <foreign xml:lang="grc">χρήσιμος
+                    χρησίμη χρήσιμον</foreign> hic et haec utilis et hoc utile, <foreign
+                    xml:lang="grc">ὁ δύσκολος ἡ δύσκολος τὸ δύσκολον</foreign> hic et haec
+                difficilis et hoc difficile. Cuius est numeri? Pluralis. Et sciendum quod hoc nomen,
+                id est omnis, eandem uim habet significationis, siue singulariter siue pluraliter
+                proferatur (omnis enim homo, si dicam, et omnes homines idem significo) et omnia
+                quae similem uim habent id est cunctus et cuncti et uniuersus et uniuersi. Cuius est
+                figurae? Simplicis. Fac ab eo compositum. Omnipotens omnifariam omniparens omnigena.
+                Vergilius in octauo <lb/>
+                <quote type="poetry">‘omnigenumque deum monstra’</quote>. <lb/> Fac aduerbium
+                simplex. Omnino. Cuius est casus? Nominatiui hic. Idem tamen est etiam uocatiuus in
+                omni plurali numero. Accusatiuus uero <milestone unit="page"
+                    n="p. 473 vol. III Keil"/> huiuscemodi nominum, id est quae nominatiuum et
+                genetiuum singularem similem habent, pluralis tam in es productam quam in is longam
+                terminant. </p>
+            <p> Intenti quae pars orationis est? Participium. Quid est participium? Pars orationis
+                partem capiens nominis partem uerbi. Quot accidunt participio? Sex. Quae? Genus
+                casus tempus significatio tempus numerus figura. Cuius est generis? Masculini. Cuius
+                numeri? Pluralis. Dic singulare. Intentus intenta intentum. Et sciendum quod omnia
+                participia praeteriti et futuri temporis mobilia sunt et in masculino quidem et in
+                neutro genere secundum nomina secundae declinationis declinantur; in feminino uero
+                primam declinationem seruant. Praesentis autem temporis participia communia sunt
+                trium generum ut hic et haec et hoc amans et tertiae declinationis. <milestone
+                    unit="page" n="p. 67 Passalacqua"/> Sciendum tamen quod sunt quaedam uerba,
+                quorum significatio ad solos mares uel ad solas feminas pertinet; ad mares ut futuo,
+                cuius participium quoque ad mares solos pertinet, futuens; nemo enim dicit haec
+                futuens, nisi figurate in epicoenis nominibus animalium ut haec aquila futuens quod.
+                quamuis femininum proferamus, tamen marem intellegimus. Sic etiam in feminino: nubo
+                uir non dicit nisi si abneget sexum et quasi femina loquatur. Ergo nubens quoque
+                proprie de femina dicitur; nisi quod possumus figurate masculinis quoque generibus
+                talia adiungere si dicam ‘magnus est ignis nubens mihi’ pro amata dicens. Cuius est
+                casus intenti? Nominatiui; idem tamen est et uocatiuus. Cuius est significationis?
+                Hoc primum debes scire, quod significatio participiorum tam a generibus uerborum
+                quam a formis sumitur; ergo a quinque generibus, id est actiuis neutris passiuis
+                communibus deponentibus, totidem nascuntur species participiorum et a formis
+                quattuor, id est perfecta meditatiua inchoatiua frequentatiua, totidem formae
+                participiorum dicuntur. Cuius est speciei? Passiuae. Nascitur enim ab intendor uerbo
+                passiuo. Cuius est formae? Eius cuius est uerbum ex quo nascitur, id est perfectae.
+                Potest aliam formam habere hoc uerbum? Frequentatiuam, intentor intentaris, ex quo
+                participium intentatus. Cuius est temporis? Praeteriti. Cuius figurae? Compositae.
+                Ex quibus? Ex duobus integris et sciendum, quod simplex eius in usu tam per tus quam
+                per sus inuenitur, tentus et tensus. Lucanus in secundo <lb/>
+                <supplied><quote type="poetry">‘tensisque rudentibus actae’</quote>;<lb/> idem in
+                    primo</supplied><lb/>
+                <quote type="poetry">‘et uarias ignis tenso dedit aere formas’</quote>. <lb/>
+                <milestone unit="page" n="p. 68 Passalacqua"/> Tentus tamen etiam a teneor fit.
+                Potest tamen etiam nomen esse intentus unde intentior intentissimus. Tentorium
+                quoque hinc deriuatur et tentigo et tenor. </p>
+            <milestone unit="page" n="p. 474 vol. III Keil"/>
+            <p> Que quae pars orationis est? Coniunctio. Qualis? Copulatiua. Cuius ordinis?
+                Postpositiui. </p>
+            <p> Ora quae pars orationis est? Nomen appellatiuum, neutrum plurale, simplex, casus in
+                hoc loco accusatiui (idem tamen est semper in neutris nominatiuus et accusatiuus et
+                uocatiuus). Dic singulare. Os oris. Nam si correpte os dicas aliud significat et
+                ossis dicis genetiuum. Fac diminutiuum. Oscillum osculum et ex hoc osculor
+                oscularis; ostium quoque inde deriuatur ex quo ostiarius et ostiatim. deriuatur, ex
+                quo ostiarius et ostiatim. Oro quoque uerbum ab ore est et oraculum. </p>
+            <p> Tenebant quae pars orationis est? Verbum actiuum perfectum indicatiuo modo dictum,
+                temporis praeteriti imperfecti, numeri pluralis, personae tertiae, coniugationis
+                secundae. Declina. Teneo tenebam et cetera. Quam aliam formam facit hoc uerbum?
+                Frequentatiuam tento tentas; composita attineo retineo contineo sustineo pertineo
+                continens continentia retinaculum; deriuatiua tenax tenacitas. </p>
+            <p>
+                <quote type="poetry"> ‛Postquam res Asiae Priamique euertere gentem’ </quote>
+            </p>
+            <p> Scande uersum. Postquam res Asi aePria miquee uertere gentem. Quas habet caesuras?
+                Semiquinariam et semiseptenariam. <milestone unit="page" n="p. 69 Passalacqua"/>
+                Quot figuras? Decem. Habet enim tres dactylos et duos spondeos. Diuide singulos
+                pedes. Postquam resAsi aePria miquee uertere gentem. Quot partes orationis habet hic
+                uersus? Septem. Quot nomina? Quattuor. Quae? Res Asiae Priami gentem. Quot uerba?
+                Vnum, euertere. Quid aliud? Aduerbium postquam et coniunctionem que. </p>
+            <p> Postquam quae pars orationis est? Aduerbium. Quid est aduerbium? Pars orationis quae
+                adiecta uerbo significationem eius explanat atque implet. Quot accidunt aduerbio?
+                Significatio et figura. Comparatio enim non omnibus accidit aduerbiis; accidentia
+                uero debent generalia esse et communia omnibus speciebus eius dictionis cui
+                accidunt. Ergo melius est pro comparatione addere accidentibus aduerbio speciem.
+                quaedam enim aduerbiorum sunt <foreign xml:lang="grc">πρωτότυπα</foreign>, id est
+                primitiua uel primae positionis, <milestone unit="page" n="p. 475 vol. III Keil"/>
+                quaedam deriuatiua. Primitiua ut saepe satis, deriuatiua ut saepius satius. Postquam
+                igitur cuius est significationis? Temporis. Cuius figurae? Compositae. Ex quibus? Ex
+                duobus integris post et quam. Quem habet accentum? Si per se proferatur uel
+                praepostere acutum, in uersu autem grauem. Dic deriuatiuum a post. Posterus postera
+                posterum posteritas, huius comparatiuum posterior, superlatiuum postremus; et aliud
+                posticus postica posticum et postea et posthaec et postmodo. Postes quoque inde
+                uidentur dictae quod post fores stant, postumus etiam ab hoc est compositum et
+                postliminium et pomoerium quasi post murum et posthabeo. </p>
+            <p> Res quae pars orationis est? Nomen. Quid est nomen? Pars orationis et cetera. Quot
+                accidunt nomini? Quinque. Quae? Species <milestone unit="page" n="p. 70 Passalacqua"
+                /> genus numerus figura casus. Cuius est speciei? Appellatiuorum generalis; quamuis
+                enim quidam grammatici incorporalia soleant res dicere, tamen uera ratione omnia
+                quae sunt siue corporalia siue incorporalia res possunt nominari, sicut hic ‘res
+                Asiae’ dixit pro opes, et res publica et res familiaris et res uxoria. Ergo, sicut
+                supra diximus, significationem habet generalem et est primitiuum. Fac igitur ab eo
+                deriuatiuum. Recula. Quidam et reum inde dictum putant quod rei alicui obnoxius est.
+                Cuius est generis? Feminini. Cur? Quia omnia nomina quintae declinationis feminina
+                sunt excepto dies, quod in singulari numero tam masculinum quam femininum inuenitur,
+                in plurali uero masculini dumtaxat. Est etiam quod ab eo componitur, hoc est
+                meridies, masculinum. Cur autem quintae est declinationis? In regulis quas de nomine
+                scripsimus inuenies. Cuius est numeri? Hic pluralis. Vnde hoc possumus scire? Quia
+                addit euertere; uerbum enim euerto accusatiuo singulari uel plurali necesse est
+                adiungi; singularis autem accusatiuus rem est. Cuius est figurae? Simplicis. Fac
+                compositum ex eo quod est res. Respublica resuxoria. Cuius est casus? Accusatiui
+                pluralis. Omne autem nomen quintae declinationis nominatiuum singularem et uocatiuum
+                et nominatiuum pluralem et accusatiuum et uocatiuum similem habet. Dic regulam in es
+                productam terminatorum nominum consonante antecedente. Omnia nomina in es productam
+                terminantia consonante antecedente tertiae sunt declinationis ut <milestone
+                    unit="page" n="p. 71 Passalacqua"/> Verres Verris Vlixes Vlixis Achilles
+                Achillis; et omnia pares habent syllabas in nominatiuo et genetiuo exceptis locuples
+                locupletis merces mercedis heres heredis Ceres Cereris pes pedis et praeterea
+                quintae declinationis res rei spes spei fides fidei. Antiqui uero et plebes plebei
+                dicebant quod nunc plebs plebis dicimus et fames famei quod nunc famis. </p>
+            <milestone unit="page" n="p. 476 vol. III Keil"/>
+            <p> Asiae quae pars orationis est? Nomen. Quale? Proprium. Omnia enim nomina
+                prouinciarum et urbium et montium et fluuiorum et hominum et deorum uel aliarum
+                rerum indiuiduarum propria sunt. Cuius est speciei? Primitiuae. Fac ab eo
+                deriuatiuum. Asius Asia Asium, nec mirum; in multis enim prouinciarum nominibus
+                inuenis similia esse deriuatiua primitiuis et appellatiua propriis, ut Italus
+                proprium est et gentile. Similiter Danaus Latinus Hispanus Siculus et Sicanus. Dic
+                et aliud deriuatiuum ab eo quod est Asia. Asianus et Asiaticus; et inuicem supra
+                dicta tria pro sese proferri possunt. Proprie autem Asius et Asiaticus possessia
+                sunt. Inueniuntur autem haec eadem etiam propria ut Scipio Asiaticus, Asianus
+                gentile, Asiaticus uictoriae. Cuius declinationis est Asia? Primae. Quare? Quia
+                omnia in a desinentia masculina uel feminina uel communia primae sunt declinationis.
+                Cur, cum litterarum nulla mutatio facta sit, accentus mutatur? Quia a finalis apud
+                Graecos producitur, apud nos correpta est. Accentus quoque apud nos mutatio facta
+                est; hoc tamen scire debemus, quod, siue temporis siue litterarum fiat in nominatiuo
+                commutatio, melius facimus si accentum ad <milestone unit="page"
+                    n="p. 72 Passalacqua"/> latinitatem proferimus. Patronymica per omnes casus
+                magis Graecorum sibi defendunt accentum quia seruant Graecum nominatiuum, ut
+                Priamides Priamidae. Licet tamen etiam in illis accentum seruare Latinum quae, cum
+                sint Graeca, non tamen aliena uidentur formulis terminationum Latinarum ut Creusa
+                Arethusa; quae cum Latine proferuntur licet ea etiam in nominatiuo circumflecti in
+                paenultima syllaba. Non est tamen absurdum etsi Graecum accentum seruabimus in
+                nominatiuo dumtaxat. </p>
+            <p> Priami quae pars orationis est? Nomen. Quale? Proprium. Cuius est speciei?
+                Deriuatiuae <foreign xml:lang="grc">ἀπὸ τοῦ πρίασθαι</foreign>. Fac ab eo
+                deriuatiuum possessiuum. Priameius Priameia Priameium, patronymicum Priamides,
+                Priamis. Cuius est generis? Masculini, numeri singularis, figurae simplicis, casus
+                genetiui, declinationis secundae. Quare? Quia omnia nomina cuiuscumque generis apud
+                Graecos in <foreign xml:lang="grc">ος</foreign> desinentia nominatiuo apud nos
+                mutant <foreign xml:lang="grc">ος</foreign> in us et secundae sunt declinationis, ut
+                    <foreign xml:lang="grc">Πρίαμος</foreign> Priamus Priami, <foreign
+                    xml:lang="grc">Κῦρος </foreign> Cyrus Cyri, <foreign xml:lang="grc"
+                    >Κύπρος</foreign> Cyprus Cypri, <foreign xml:lang="grc">Πύλος</foreign> Pylus
+                Pyli, <foreign xml:lang="grc">πέλαγος</foreign> pelagus pelagi; nam genus genero
+                magis Latinum est quomodo munus munero. Quibus enim huiuscemodi adiacent uerba sine
+                dubio Latina sunt. </p>
+            <p> Que quae pars orationis est? Coniunctio. Cuius potestatis est? Copulatiuae, ordinis
+                postpositiui, figurae simplicis. Fac ab eo compositum. <milestone unit="page"
+                    n="p. 477 vol. III Keil"/> Atque neque itaque quoque. Cuius est accentus?
+                Encliticum est, id est suum accentum inclinat in syllabam extremam antepositae
+                dictionis; hoc autem et aliae duae coniunctiones habent, ne et ue. </p>
+            <p> Euertere quae pars orationis est? Verbum. Cuius modi? Infiniti, <milestone
+                    unit="page" n="p. 73 Passalacqua"/> formae perfectae, coniugationis tertiae
+                correptae. Quare? Quia e correptam habet paenultimam. Cuius generis uel
+                significationis? A ctiuae, figurae compositae. Ex quibus? Ex duobus integris, e
+                praepositione et uerto uerbo. Temporis praesentis et praeteriti imperfecti: numeros
+                enim et personas infinita non habent unde et nomen acceperunt a defectione numerorum
+                et personarum. Declina. Euerto euertebam euerti euerteram euertam; imperatiuo modo
+                euerte euertito; optatiuo utinam euerterem euertissem euertam; subiunctiuo modo cum
+                euertam euerterem euerterim euertissem euertero; infinitiuo euertere euertisse
+                euersum ire uel euersurum esse. Impersonalia euertitur euertebatur euersum est uel
+                euersum fuit, euersum erat uel euersum fuerat, euertetur; imperatiuo euertatur
+                euertitor; optatiuo utinam euerteretur, euersum esset uel fuisset euertatur;
+                subiunctiuo cum euertatur euerteretur euersum sit uel fuerit euersum esset uel
+                euersum fuisset euersum erit uel fuerit; infinitiuo euerti euersum esse uel fuisse
+                euersum iri. Gerundia uel participialia euertendi euertendo euertendum euersum
+                euersu. Participia actiua euertens euersurus passiua euersus euertendus. Cur euerto
+                euerti praeteritum facit? Quia hoc solum ante t r habuit in hac coniugatione, id est
+                tertia, et mutauit o in i et fecit praeteritum. In participio tamen praeterito
+                passiui pro t s habuit, euersus. Etiam euerror uerbum euersus facit participium
+                eiusdem temporis. Fac ab eo frequentatiuum. Euerso euersas euersat. Et sciendum quod
+                plerumque solent frequentatiua a participiis praeteriti temporis fieri, ut scribo
+                scriptus et scripto scriptas scriptat, domo domitus domito domitas domitat, curro
+                    <milestone unit="page" n="p. 74 Passalacqua"/> cursus curso cursas cursat et
+                cursito cursitas cursitat; ergo uerto uersus uerso uersas uersat. Hinc est et
+                uersutus et Vertumnus et uertex et uertigo et uerticulum et uersura. </p>
+            <p> Gentem quae pars orationis est? Nomen. Quale? Appellatiuum, generis feminini, numeri
+                singularis, figurae simplicis, casus accusatiui. Dic nominatiuum. Gens gentis.
+                Quare? Quia omnia in ns et rs et ls desinentia interpositione ti faciunt genetiuum
+                ut mons montis Mars Martis puls pultis, exceptis differentiae causa frons et lens,
+                quae, cum faciunt per tis genetiuum, significat Graece frontis <foreign
+                    xml:lang="grc">τὸ μέτωπον</foreign> et lentis <foreign xml:lang="grc">τὴν
+                    φακἡν</foreign>, cum <milestone unit="page" n="p. 478 vol. III Keil"/> autem per
+                dis faciunt genetiuum, significat frondis <foreign xml:lang="grc">τὴν
+                    φυλλάδα</foreign>, lendis autem <foreign xml:lang="grc">τὸ κονίδιον</foreign>.
+                Fac ab eo derivativum. Hic et haec gentilis et hoc gentile. uidetur etiam genus a
+                gente deriuari, unde et genius et generalis et generosus et composita indigena
+                ingenuus degener. </p>
+            <p>
+                <quote type="poetry"> ‛At regina graui iam dudum saucia cura’ </quote>
+            </p>
+            <p> Scande uersum. Atre ginagra uiiam dudum saucia cura. Dic caesuras. Semiquinaria at
+                regina graui. Quot figurarum est? Decem. Habet enim tres spondeos et duos dactylos.
+                Tracta <supplied>pedes. Atre ginagra uiiam dudum saucia cura</supplied>. Partes
+                orationis quot habet? Septem. Quot nomina? Quattuor, regina graui saucia cura.
+                    <milestone unit="page" n="p. 75 Passalacqua"/> Et quid aliud? Vnam coniunctionem
+                at et duo aduerbia iam, dudum. </p>
+            <p>At quae pars orationis est? Coniunctio. Quid est coniunctio? Pars orationis adnectens
+                ordinansque sententiam. Quot accidunt coniunctioni? Tria, potestas ordo figura.
+                Cuius est potestatis? Copulatiuae,; est tamen etiam et aduersatiuae quam Graeci
+                    <foreign xml:lang="grc">ἐναντιωματικόν</foreign> uocant sicut etiam hic. Nam
+                Aenea quiescente regina turbatur quod est contrarium. Cuius est ordinis? Communis.
+                Licet enim etiam postponere eam quomodo et; sed metri causa quod fere in omnibus
+                potest inueniri praepositiuis coniunctionibus. Cuius figurae est? Simplicis. Fac ab
+                eo compositum. Atque. Quem habet accentum? Grauem in uersu quomodo omnes
+                praepositiuae coniunctiones. </p>
+            <p> Regina quae pars orationis est? Nomen. Quid est nomen? Pars orationis et reliqua.
+                Quot accidunt nomini? Qualitas et reliqua. Cuius est speciei? Deriuatiuae. Dic
+                primitiuum. Rex. Hoc quoque unde nascitur? A rego uerbo unde genetiuum in gis
+                terminat. Dicitur autem hoc nec in totum fixum nec in totum mobile; et omnia
+                quaecumque masculinum tertiae habent declinationis femininum faciunt primae, ut rex
+                regina, leo leaena et lea, draco dracaena, hospes hospita, sospes sospita, leno
+                lena, strabo straba et siqua similia <milestone unit="page" n="p. 479 vol. III Keil"
+                /> inueniuntur. Est autem hoc nomen, id est rex et regina, uerbale, quia a uerbo
+                nascitur. Ex hoc tamen quoque fit uerbum denominatiuum, id est a nomine deriuatum,
+                regno regnas regnat. Quale est? Appellatiuum generis feminini, numeri singularis,
+                figurae simplicis, casus hic nominatiui, declinationis primae. <milestone
+                    unit="page" n="p. 76 Passalacqua"/> Quae nomina ex eo deriuantur? A rege regius
+                et regalis. Et quid interest inter regius et regalis? Regius possessiuum, regalis
+                uero ad claritudinem pertinet, id est dignus rege. Dic diminutiuum eius. Regulus et
+                regillus quae etiam propria inueniuntur. Inde puto etiam regulam dici, qua mensura
+                exaequatur, quasi mensuram regens. Dic compositum ex eo. interrex, regificus. </p>
+            <p> Graui quae pars orationis est? Nomen. Quale? Adiectiuum. cuius speciei? Primitiuae,
+                generis communis (omnia enim adiectiua in is desinentia communia sunt et in e
+                faciunt neutrum), numeri singularis, figurae simplicis, casus ablatiui (omnia enim
+                supra dictae formae nomina in i terminant ablatiuum). Fac ab eo deriuatiuum. Grauior
+                grauissimus grauitas et grauida. Hinc et grandis et grando et uerbum grauo. </p>
+            <p> Iam quae pars orationis? Aduerbium. Quid est aduerbium? Pars orationis quae adiecta
+                uerbo significationem eius explanat atque implet. Quot accidunt aduerbio? Tria.
+                Quae? Species significatio figura. Cuius est speciei? Primitiuae, significationis
+                temporalis, figurae simplicis. Quem habet accentum? Grauem ut omnia fere monosyllaba
+                praepositiua nisi differentiae ratio prohibeat; ut ne, quando <foreign
+                    xml:lang="grc">μή</foreign> significat, grauatur, quando uero <foreign
+                    xml:lang="grc">τὸ πάνυ</foreign> circumflectitur; sic, quando similitudinis est,
+                circumflectitur, quando iurandi grauatur ut Virgilius in bucolicis <lb/>
+                <quote type="poetry"> ‘sic tua Cyrneas fugiant examina taxos’ </quote>. </p>
+            <p> Dudum quae pars orationis? Adverbium est temporis. Et sciendum quod utrumque, hoc
+                est iam et dudum, non solum de praeterito tempore dicitur sed etiam de futuro ut in
+                secundo Aeneidos <lb/>
+                <milestone unit="page" n="p. 77 Passalacqua"/>
+                <quote type="poetry">‘iam dudum sumite poenas’</quote>, <lb/> quomodo etiam quando
+                aliquando olim umquam. Haec enim omnia tam praeteritum quam futurum possunt
+                significare et putant quidam dudum quasi tliu dum dici; haec enim syllaba. id est
+                dum, solet expletiua inueniri ut quidum agedum adesdum. </p>
+            <p> Saucia quid est? Nomen. Quale? Appellatiuum. Cuius speciei? Deriuatiuae siue
+                participialis. Nam a participio sauciatus nascitur saucius quomodo a lassatus lassus
+                et a laceratus lacerus uel lacer; sic. enim Ouidius in sexto metamorphoseon <lb/>
+                <supplied>
+                    <quote type="poetry">‘saepe sua lacerum repetisse libidine corpus’
+                    </quote></supplied>
+            </p>
+            <p> Cura quid est? Nomen. Quale? Appellatiuum ipsius rei; potest <milestone unit="page"
+                    n="p. 480 vol. III Keil"/> tamen et dea aliqua intellegi. Scimus enim quod
+                Virgilius in sexto Aeneidos apud inferos inter monstra habitantia in faucibus
+                inferorum ponit etiam curas quasi deas aliquas, dicens <lb/>
+                <quote type="poetry">‘luctus et ultrices posuere cubilia Curae’ </quote>. <lb/> Et
+                quaeritur uerbum ex re an res ex uerbo nascitur; potius antecedit uerbi actus sine
+                quo res esse non potest; nec enim cursus intellegi potest sine currente nec
+                cogitatio sine cogitante: sic ergo nec cura sine curante. Videtur ergo esse
+                deriuatiuum uerbale a uerbo curo curas curat. Dic nomina deriuatiua ex eo. Curiosus
+                curagulus curator curatio curatura curia curialis; composita securus scurra obscurus
+                triscurrium. Et quidam putant ab eo curam dici, quod cor agitat. </p>
+            <p><milestone unit="page" n="p. 78 Passalacqua"/>
+                <quote type="poetry"> ‛Interea medium Aeneas iam classe tenebat’ </quote>
+            </p>
+            <p> Scande uersum. Intere amedi umaene asiam classete nebat. Quot habet caesuras? Vnam
+                semiseptenariam, interea medium Aeneas. Quot figurarum est? Decem, habet enim tres
+                dactylos et duos spondeus. Tracta singulos pedes. Intere et cetera. Quot partes
+                orationis habet uersus iste? Sex. Quot nomina? Tria. Quae? Medium Aeneas classe.
+                Quot uerba? Vnum, tenebat. Quid aliud? Duo aduerbia, interea et iam. </p>
+            <p> Interea quae pars orationis? Aduerbium. Quid est aduerbium? Pars orationis et
+                cetera. Quot accidunt aduerbio? Tria significatio species figura; nam comparatio non
+                est generale accidens omni aduerbio, speciem autem omnia habent aduerbia. Sunt enim
+                uel primitiua uel deriuatiua. Cuius est significationis hoc aduerbium? Temporis,
+                potest tamen esse et loci. Cuius speciei? Deriuatiuae, ab in enim deriuatur inter ex
+                quo hoc aduerbium componitur. Cuius est figurae? Compositae. Ex quibus? Ex integro
+                et corrupto, inter et ea. Ideo autem corruptum dicimus ea quia cum sit neutrum
+                plurale corripi debuit sed, quia factum est adverbium, producit a. In omni enim
+                aduerbio a finalis producitur excepto ita; potest tamen et ablatiuus intellegi
+                singularis qui in compositione solet huiuscemodi inueniri ut quacirca
+                quapropter.</p>
+            <p> Medium quae pars orationis? Nomen. Quid est nomen? <milestone unit="page"
+                    n="p. 481 uol. III Keil"/>
+                <milestone unit="page" n="p. 79 Passalacqua"/> Secundum Donatum pars orationis eum
+                casu corpus aut rem proprie communiterue significans; secundum Apollonium pars
+                orationis quae singularum corporalium rerum uel incorporalium sibi subiectarum
+                qualitatem propriam uel communem manifestat. Quot accidunt nomini? Sex, qualitas
+                species genus numerus figura casus; nam comparatio generale accidens non est. Quale
+                est hoc nomen? Appellatiuum. Cuius speciei? Adiectiuae; est tamen et ad aliquid et
+                mobile. Et uidetur etiam deriuatiuum esse a modo, hoc est a mensura unde est et
+                modius, et differentiae causa medius mutauit o in e; uel a Graeco dictum est
+                    <foreign xml:lang="grc">μέσος</foreign> medius. Sciendum tamen quod omnia
+                adiectiua appellatiuorum in us desinentia mobilia sunt excepto uetus ueteris quod
+                antiquissimi uetet dicebant. Cuius est generis? Neutri. Dic masculinum. Medius ex
+                quo fit media medium; omnia enim tam in us quam in er desinentia adiectiua, si sint
+                secundae declinationis, cum apud Graecos uel communia inueniuntur uel mobilia sunt,
+                ut <foreign xml:lang="grc">ὁ εὐτυχὴς καὶ ἡ εὐτυχὴς καὶ τὸ εὐτυχές</foreign> hic
+                fortunatus haec fortunata hoc fortunatum, <foreign xml:lang="grc">ὁ ἀγαθὸς ἡ ἀγαθὴ
+                    τὸ ἀγαθόν</foreign> bonus bona bonum, <foreign xml:lang="grc">ὁ ὁπλοφόρος ἡ
+                    ὁπλοφόρος τὸ ὁπλοφόρον</foreign> armiger armigera armigerum, <foreign
+                    xml:lang="grc">ὁ ἱερὸς ἡ ἱερὰ τὸ ἱερόν</foreign> sacer sacra sacrum. Cuius est
+                numeri? Singularis, figurae simplicis, casus hic accusatiui; tenebat enim uerbum
+                accusatiuum exigit. Est tamen in onmibus neutris idem casus nominatiuus et
+                accusatiuus et uocatiuus. Cuius est declinationis? Secundae; omnia enim in um
+                desinentia sine dubio secundae sunt. Fac ab eo deriuatiuum. Medietas mediocris
+                meditullium; mediastinus quoque inde uidetur componi quia medias <milestone
+                    unit="page" n="p. 80 Passalacqua"/> partes balnei tenet, hoc est in medio
+                lauantium stat. Dic aliud compositum. Mediterraneus et mediana; aduerbium medie.
+                Verbum ab eo compositum dimidio dimidias dimidiat unde et dimidiatus. </p>
+            <p> Aeneas quae pars orationis? Nomen. Quale? Proprium. Cuius est speciei? Primitiuae,
+                generis masculini, numeri singularis, figurae simplicis, casus nominatiui. Quotae
+                est declinationis? Primae. Cur? Quia omnia Graeca in as desinentia, si apud illos
+                per <foreign xml:lang="grc">ου</foreign> diphthongon efferunt genetiuum, apud nos
+                sine dubio primae sunt declinationis <foreign xml:lang="grc">Αἰνείας Αἰνείου
+                </foreign> Aeneas Aeneae. Antiqui tamen huiuscemodi nomina absque s solebant
+                proferre, quod Terentius ubique facit, Sosia Byrria Chaerea Geta ponens, ut in
+                Andria <lb/>
+                <quote type="poetry"> ‘aut tu aut hic Byrria’ </quote>
+                <lb/> et Iuuenalis <lb/>
+                <quote type="poetry"> ‘ceu Marsya uictus’ </quote>. <lb/>
+                <milestone unit="page" n="p. 482 vol. III Keil"/> Fac deriuatiuum ab eo quod est
+                Aeneas. Possessiuum Aeneius Aeneia Aeneium et secundum Apuleium Aeneanicus Aeneanica
+                Aencanicum; sic enim ponit in epitomis historiarum ‘Aeneanica gens’. Patronymicum
+                Aeneades secundum analogiam; nam in as uel in es desinentia si faciunt in <foreign
+                    xml:lang="grc">ου</foreign> genetiuum Graecum in ades faciunt patronymica.
+                Itaque hoc ubique usus est poeta ut in octauo Aeneidos <lb/>
+                <quote type="poetry">‘Aeneadae in ferrum pro libertate ruebant’ </quote>
+                <lb/> et in primo <lb/>
+                <quote type="poetry">‘defessi Aeneadae’</quote>
+                <lb/><milestone unit="page" n="p. 81 Passalacqua"/> in uno tamen loco auctoritate
+                poetica usus Aenides dixit: in nono <lb/>
+                <quote type="poetry">‘sit satis Aenide telis inpune Numanum <lb/> oppetiisse
+                    tuis’</quote>, <lb/> quasi ab Aeneus nominatiuo, sicut a Peleus Pelides. Vnde
+                etiam poemati suo Aeneis inscripsit, quod est femininum Aeneidae, quod per
+                synaeresin Aeniden dixit, sicut pro Peleides Pelides. Ceterum secundum analogiam ab
+                Aeneade Aeneas debebat dici. </p>
+            <p> Iam quae pars orationis? Aduerbium. Cuius est significationis? Temporalis. Cuius est
+                speciei? Primitiuae, figurae simplicis. Quem accentum recipit? Per se acuitur, in
+                uersu autem grauatur nisi encleticum ei adiungatur: tunc enim acuitur. </p>
+            <p> Classe quae pars orationis? Nomen. Quale? Appellatiuum. Cuius speciei? Secundum
+                quosdam deriuatiuae: quidam enim deriuatum esse <foreign xml:lang="grc">ἀπὸ τῶν
+                    κάλων</foreign> putant; est autem <foreign xml:lang="grc">ὁμώνυμον</foreign> uel
+                uniuocum. Nam plura significat, id est et nauium multitudinem et hominum collegia,
+                quae Graeci <foreign xml:lang="grc">σπείρας</foreign>uocant, et equitum ordines. Fac
+                deriuatiuum. Classicus classica classicum; sonitus quoque tubarum classica inde
+                nominatur quia classes equitum ordines uocantur, ut dictum est, qui maxime utuntur
+                tubis. </p>
+            <p> Tenebat quae pars orationis? Verbum. Quid est uerbum? Secundum Donatum pars
+                orationis cum tempore et persona sine casu, secundum alios pars orationis cum
+                tempore et modis sine casu actum uel passionem significans. Non enim omnia uerba
+                personas <milestone unit="page" n="p. 82 Passalacqua"/> habent, ut infinita et
+                impersonalia et gerundia; oportet autem definitiones generales esse. Quot accidunt
+                uerbo? Qualitas coniugatio genus numerus figura tempus <milestone unit="page"
+                    n="p. 483 vol. III Keil"/> persona. Qualitas uerborum in quo est? In modis et in
+                formis. Cuius est modi? Indicatiui, formae perfectae, coniugationis secundae (teneo
+                tenes), generis siue significationis actiuae, numeri singularis, figurae simplicis,
+                temporis praeteriti imperfecti, personae tertiae. Declina. Praesens teneo,
+                praeteritum imperfectum tenebam, praeteritum perfectum tenui, plusquamperfectum
+                tenueram, futurum tenebo; imperatiuo modo ad secundam et tertiam personam temporis
+                praesentis tene teneat tenete teneant, futuri teneto tu teneto ille tenetote teneant
+                uel tenento; optatiuo modo tempore praesenti et praeterito imperfecto utinam tenerem
+                praeterito perfecto et plusquam perfecto tenuissem, futuro teneam; subiunctiuo modo
+                tempore praesenti eum teneam praeterito imperfecto eum tenerem praeterito perlecto
+                eum tenuerim plusquamperfecto cum tenuissem futuro cum tenuero; infinitiuo modo
+                numeris et personis tempore praesenti tenere praeterito tenuisse futuro tentum ire.
+                Dicitur tamen et a tendo tendis tentum ire sed in illo etiam tensum ire possumus
+                dicere, in hoc autem tentum ire dumtaxat. Et similiter in omnibus quae per
+                huiuscemodi uoces participiales proferuntur. Sunt autem supina duo et infinitum
+                futurum nec non etiam <milestone unit="page" n="p. 83 Passalacqua"/> praeteritum in
+                passiuis et infinita impersonalium quae similia sunt passiuis tentum esse uel fuisse
+                et tensum esse uel fuisse tentum iri et tensum iri. Et quae differentia est inter
+                infinita passiui et impersonalis? Quia passiuum uerbo eget tantummodo ut amari uolo:
+                ostendo enim pati me uelle aliquid ab alio; impersonalis uero infinitum non solum
+                uerbo, utpote infinitum, sed etiam certa aliqua persona siue per pronomen siue per
+                nomen eget utpote impersonale. Si enim dicam amari a me uolo pro amare accipitur
+                quod est actiuum: impersonale enim semper actiuam uim habet. Gerundia tenendi
+                tenendo tenendum tentum tentu; participia ueniunt a uerbo actiuo duo praesentis
+                temporis et futuri: praesentis tenens futuri tenturus. Declina etiam passiuum.
+                Indicatiuo modo tempore praesenti teneor praeterito imperfecto tenebar praeterito
+                perfecto tenlus sum uel fui plusquamperfeeto tentus eram uel fueram futuro tenebor;
+                imperatiuo modo tempore praesenti ad secundam et tertiam personam tenere teneatur
+                teneamur tenemini teneantur, futuri tenetor tu tenetor ille teneminor teneantur uel
+                teneutor; optatiuo modo tempore praesenti et praeterito imperfecto utinam tenerer,
+                praeterito perfecto et plusquamperfceto tentus essem uel fuissem, futuro utinam
+                tenear; subiunctiuo modo tempore praesenti cum tenear praeterito imperfecto cum
+                tenerer, praeterito perfecto cum <milestone unit="page" n="p. 84 Passalacqua"/>
+                tentus sim uel fuerim, praeterito <milestone unit="page" n="p. 484 vol. III Keil"/>
+                plusquamperfecto cum tentus essem uel fuissem finium cum tentus ero uel fuero.
+                Infinita teneri lentum esse uel fuisse tentum iri; participia ueniunt a uerbo
+                passiuo duo praeteriti tentus futuri tenendus. Nomen uerbale tentor, femininum
+                tentrix, ipsa res tentio. Cur teneo tenui et teneor tentus sum facit praeteritum?
+                Quia omnia in neo desinentia sic faciunt praeteritum ut moneo monui et moneor
+                monitus sum, seneo senui, exceplis maneo mansi ei maneor mansus sum et neo neui neor
+                netus sum. </p>
+            <p>
+                <quote type="poetry"> ‛Sic fatur lacrimans classique immittit habenas’ </quote>
+            </p>
+            <p> Scande uersum. Sic fa turlacri mansclas siqueim mittitha benas. Dic caesuras.
+                Semiquinariam, <supplied>sic fatur lacrimans</supplied>, et semiseptenariam sic
+                fatur lacrimans classique. Quot figurarum est iste uersus? Decem. Cur? Quia habet
+                duos dactylos et tres spondeos. Tracta singulos pedes. Sic fatur et cetera. Quot
+                partes orationis habet iste uersus? Septem. Quot nomina? Duo. Quae? Classi habenas.
+                Quot uerba? Duo fatur immittit. Quot participia? Vnum, lacrimans. Quid aliud?
+                Aduerbium sic et coniunctionem que. Tracta singulas partes. </p>
+            <p> Sic quae pars orationis? Aduerbium. Quid est aduerbium? Pars orationis quae adiecta
+                uerbo significationem eius explanat atque implet. Quot accidunt aduerbio? Tria
+                significatio species figura. Cuius est significationis? Similitudinis, speciei
+                primitiuae, figurae simplicis; et sciendum quod omnia in c desinentia producuntur
+                excepto donec (nam nec inter coniunctiones ponunt). Quem <milestone unit="page"
+                    n="p. 85 Passalacqua"/> accentum habet sic? Circumflectitur, nisi sit iurandi:
+                tunc enim grauatur ut apud Vergilium in bucolico <lb/>
+                <quote type="poetry"> ‘sic tua Cyrneas fugiant examina taxos’</quote>
+                <lb/> et quando ut uel uti subiungitur ei ut sicut dixit sic uti iussit. </p>
+            <p> Fatur quae pars orationis? Verbum. Quid est uerbum? Pars orationis cum tempore et
+                modis sine casu actum uel passionem significans. Verbo quot accidunt? Septem.
+                Qualitas coniugatio genus numerus figura tempus persona. Qualitas uerborum in quo
+                est? In modis et in formis. Cuius est modi? Indicatiui, formae perfectae,
+                coniugationis primae. Cuius est generis uel significationis? Deponentis numeri
+                singularis figurae simplicis temporis praesentis personae tertiae. Declina. For
+                fabar fatus sum uel fui fatus eram uel fueram fabor; imperatiuo modo <milestone
+                    unit="page" n="p. 485 vol. III Keil"/> tempore praesenti fare fetur femur famini
+                fentur. Nam in prima coniugatione imperatiuo modo secunda persona paenultimam habet
+                a, tertia uero e, quam seruant prima et tertia pluralis persona; nam secunda
+                indicatiuum sequitur suum in omni coniugatione ut amare ametur amemur amamini
+                arnentur. In secunda uero coniugatione secunda quidem persona e productam habet
+                paenultimam, tertia autem a post e quam seruant prima et tertia pluralis persona; ut
+                docere doceatur doceamur docemini doceantur, in tertia coniugatione e correptam
+                habet paenultimam secunda persona ut legere. tertia uero a quam seruant prima et
+                secunda pluralis ut legere legatur legamur legimini <milestone unit="page"
+                    n="p. 86 Passalacqua"/> legantur; in quarta i productam habet paenultimam ut
+                munire, tertia uero persona a post i, quam seruant prima et tertia pluralis ut
+                munire muniatur muniamur munimini muniantur. Sed haec in regulis uerbalibus latius
+                tractata inuenies. Futuro fator tu fator ille faminor femur uel fautor; optatiuo
+                modo tempore praesenti et praeterito imperfecto utinam farer, perfecto et
+                plusquamperfecto fatus essem uel fuissem, futuro fer; subiuctiuo modo tempore
+                praesenti cum fer, praeterito imperfecto farer praeterito perfecto fatus sim uel
+                fuerim plusquamperfecto fatus essem uel fuissem futuro fatus ero uel fuero;
+                infinitiuo modo tempore praesenti fari praeterito fatum esse uel fuisse futuro fatum
+                iri; gerundia fandi fando fandum fatum fatu; participia ueniunt a uerbo deponenti
+                tria, praesens praeteritum et futurum: praesens fans unde et infans qui loqui non
+                potest, praeteritum fatus fata fatum, futurum faturus fatura faturum. Et sciendum
+                quod in omni verbo quod habet participium praeteriti temporis, ex hoc per
+                interpositionem ru facimus futurum ut amatus amaturus doctus docturus dictus
+                dicturus; sic et fatus faturus. Exceptis paucis, mortuus moriturus in quo secundum
+                analogiam moritus debuit esse praeteritum (nullum enim participium geminat u);
+                similiter orior ortus oriturus pro orturus, partus petriturus erutus eruiturus
+                cassus cariturus. Sed <milestone unit="page" n="p. 87 Passalacqua"/> sed haec quoque
+                in regulis uerborum latius tractauimus. Cur impersonale non habet hoc uerbum? Quia
+                nullum in r desinens generat ex se impersonale, id est nec passiuum nec commune nec
+                deponens, excepto uno misereor quod miseret impersonale facit ex contrario illorum
+                quae ex actiuis uel neutris nascuntur. Nam pleraque illorum uel magis omnia exceptis
+                paucis passiuam habent declinationem tertiarum <milestone unit="page"
+                    n="p. 486 vol. III Keil"/> personarum ut statur sedetur amatur quiescitur itur.
+                Excepta uero sunt contingo contingit, placeo placet, euenio euenit et uaco uacat
+                iuuo iuuat in quibus tertiae similia sunt actiuae personae uel impersonalia
+                impersonalia; nm paenitet taedet piget pudet licet libet positiua sunt quamuis liceo
+                et libeo dicatur sed alterius sunt significationis. Libeo enim <foreign
+                    xml:lang="grc">τὸ πελιδνοῦμαι</foreign>, liceo uel liceor<foreign xml:lang="grc"
+                    > ὑπερθεματίζω</foreign> significat. Antiquissimi tamen et paeniteo et pudeo et
+                pigeo et misereo dicebant. Nomen uerbale uel participiale fandus fanda fandum;
+                pleraque enim uerba etiam si participia futura passiua non habent, nomina tamen
+                formae huiuscemodi pleraque habere inueniuntur. Praeteriti quoque pleraque
+                participia in tus desinunt et mutant us in or et faciunt nomen uerbale: ut amatus
+                amator doctus doctor lectus lector munitus munitor; sic ergo fatus fator possumus
+                dicere. Antiqui tamen etiam passiue proferebant fatus pro dictus dicentes: unde
+                fatum dictum et iussum dei. Id enim dicit esse Plato fatum uoluntatem et iussionem
+                dei. Fac compositum ab eo quod est for. Adfor adfaris adfatur ut apud Vergilium in
+                secundo Aeneidos <lb/>
+                <quote type="poetry"> ‘adfaturque deos et sanctum sidus adorat’ </quote>. </p>
+            <p>
+                <milestone unit="page" n="p. 88 Passalacqua"/> Et sciendum quod rarissime simplicis
+                prima persona inuenitur in usu, for quomodo et dor. Ipsa res fatus et fatio et
+                fatum. Inde putant quidam etiam fas et nefas dictum, id est quod iustum est dici uel
+                taceri, ex quo fasti et nefasti dies et fasti <foreign xml:lang="grc">τὰ
+                    ἡμερολόγια</foreign>. Cur participium huius uerbi praeterito tempore a habet
+                ante tus? Quia omnia quae in aui faciunt praeteritum in actiuis et omnia communia et
+                deponentia primae coniugationis in atus, a paenultima producta, praeteriti
+                participium faciunt ut amo amaui amatus osculor osculatus criminor criminatus. </p>
+            <p> Lacrimans quae pars orationis? Participium. Quid est participium? Pars orationis
+                partem capiens nominis partemque uerbi. Quot accidunt participio? Septem. Quae?
+                Genus numerus figura casus tempus significatio forma. Cuius est generis? Communis
+                trium generum. Omnia enim participia praesentia trium generum sunt et in duas
+                desinunt consonantes, n et s. Nam etsi naturaliter quaedam uerba ad solos pertinent
+                    <milestone unit="page" n="p. 487 vol. III Keil"/> mares ut fumo deuirgino, uel
+                ad feminas ut futuor nubor deuirginor, possumus tamen haec in alterum sexum
+                transferre uel figurate uel per irrisionem uel per epicoena, ut si dicam ‘bona anima
+                est quae istant uirginem deuirginauit’ uel ‘bonus animus est qui illi marito
+                nupsit’. Bene igitur dicitur quod omnia uerba et participia apta sunt ut ad omne
+                possint genus dici. Cuius est casus? Hic nominatiui, potest autem esse et uocatiui;
+                omnia enim siue nomina siue participia nominatiuum et uocatiuum similem habent,
+                exceptis Graecis et in us desinentibus secundae declinationis, cuius propria si ante
+                us i habucrint, abiecta us faciunt uocatiuum ut Vergilius Vergili Terentius Terenti.
+                Alia uero omnia us in e conuertentia faciunt uocatiuum ut Turnus Turne <milestone
+                    unit="page" n="p. 89 Passalacqua"/>socius socie myrtus myrte. Virgilius in
+                bucolico <quote type="poetry"> ‘et uos, o lauri, carpam et te, proxima
+                    myrte’</quote>. <lb/> Est tamen etiam in huiuscemodi inuenire saepe uel
+                euphoniae uel metri causa nominatiuum pro uocatiuo positum, ut Lucanus in secundo <lb/>
+                <quote type="poetry">‘degener o populus uix saecula longa decorum’</quote>
+                <lb/> populus pro popule et Virgilius in octauo Aeneidos<lb/>
+                <quote type="poetry">‘corniger Hesperidum fluuius regnator aquarum’</quote>
+                <lb/> fluuius pro fluuie. Cuius est temporis? Praesentis. Nulla enim participia in
+                duas consonantes desinentia temporis praeteriti uel futuri inueniuntur. Sciendum
+                autem quod, quomodo participia praeteriti temporis coniuncta cum uerbis temporis
+                praesentis praeteritum tempus significant ut lectus sum es est, sic participia
+                praesentis si coniungantur cum uerbis praeteriti temporis loco praeteriti temporis
+                accipiuntur ut amans feci studens legi. Cuius est significationis? Actiuae. Nascitur
+                enim a uerbo lacrimo lacrimas lacrimat cuius actiuum uim passiuam passiuum uim
+                actiuam uidetur habere. Nam patitur dolorem qui lacrimat et facit qui lacrimatur.
+                Multa tamen similia inueniuntur ut lugeo et lugeor ploro et ploror. Cuius est
+                formae? <supplied><gap/></supplied> Formas suorum uerborum uel species habent
+                participia, ut lecturio lecturiens feruesco feruescens curso cursans cursito
+                cursitans. Cuius est numeri? Singularis. figurae simplicis. Cui casui adiungitur?
+                Accusatiuo, lacrimans illum. Necesse est enim omnia participia his casibus adiungi
+                quibus et uerba ex quibus nascuntur ut lacrima illum lacrimans illum inuideo tibi
+                inuidens tibi misereor tui miserens tui. Nam si ad alium transeant, perdunt uim
+                participii et ad nomina transferuntur ut, si dicam amans illum, participium est quia
+                et amo illum <milestone unit="page" n="p. 488 vol. III Keil"/> dicimus; sin autem
+                amans illius, nomen est, quod significat <foreign xml:lang="grc">ὁ ἐραστἡς
+                        <milestone unit="page" n="p. 90 Passalacqua"/> ἐκείνου</foreign>, unde et
+                comparationem accipit amantior amantissimus. Similiter timens illum et timens
+                illius, fugiens illum et fugiens illius, ut Terentius in Phormione ‘fugiens litium’.
+                Semper tamen ex participio praesentis temporis et tria gerundia uel participialia
+                solent nasci ablata s et addita di do dum ut amans amandi amando amandum, lacrimans
+                lacrimandi lacrimando lacrimandum et participium futuri passiuum lacrimandus. A
+                lacrimor est tamen etiam nomen <foreign xml:lang="grc">ὁ δακρυτέος</foreign>. Quotae
+                est declinationis lacrimans? Tertiae; omnia enim participia praesentis temporis
+                tertiae sunt declinationis utpote in duas desinentia consonantes. Praeteriti uero
+                participia temporis et futuri cum sint mobilia masculinum et neutrum secundae habent
+                declinationis femininum uero primae, ut hic et haec et hoc lacrimans, lacrimatus
+                lacrimata lacrimatum, <del>lacrimandus lacrimanda lacrimandum</del> lacrimaturus
+                lacrimatura lacrimaturum.</p>
+            <p> Classi: superius de hoc sufficienter tractauimus. </p>
+            <p> Que quae pars orationis? Coniunctio. Quid est coniunctio? Pars orationis adnectens
+                ordinansque sententiam. Quot accidunt coniunctioni? Tria potestas ordo figura. Cuius
+                est potestatis? Copulatiuae, ordinis postpositiui; est autem enclitica et haec et
+                aliae duae coniunctiones ue et ne. Ne antem solet etiam abiecta e encliticam uim
+                possidere ut ‘Pyrrin’, ‘tanton’; quae enclitica, que ue ne, praepositionibus ante se
+                positis non erigunt extremae syllabae fastigium ut propterque illum, intente homines
+                praeterne deos. <milestone unit="page" n="p. 91 Passalacqua"/> Cuius est figurae
+                que? Simplicis; composita que postponitur, ut atque quoque iamque. Syllabice quoque
+                additur in fine et uim coniunctionis amittit encliticae, ut undique denique itaque,
+                quando antepaenultimo acuto profertur, id est quando coniunctio est rationalis.
+                Vtraque et pleraque quaerunt, cum sint una pars orationis nec que diuisa uel pro
+                coniunctione accipitur, cur non tertium ab ultima acutum habuerunt. In quo possumus
+                dicere quod accentus masculinorum et neutrorum, quia paenultimus est acutus, acuit
+                etiam feminina in suam legem concidentia. Nec mirum euphoniae causa hoc in his
+                euenisse cum in aliis quoque quibusdam compositis hoc idem inuenitur ut calefacis
+                tepefacis suauerubens, quae omnia debent secundum analogiam antepaenultimum habere
+                acutum, paenultimum tamen habuerunt. </p>
+            <p> Immittit quae pars orationis est? Verbum. Cuius modi? Indicatiui formae perfectae
+                coniugationis tertiae correptae generis actiui numeri <milestone unit="page"
+                    n="p. 489 vol. III Keil"/> singularis figurae compositae. Ex quibus? Ex corrupto
+                et integro. Nam in praepositio mutauit n in m quia sequens uerbum ab m incipit.
+                Solet enim, p uel m uel b sequente, n in m conuerti ut compono impono committo
+                immitto comburo imbuo. Cuius est temporis? Praesentis personae tertiae. Declina.
+                Indicatiuo modo tempore praesenti immitto, praeterito imperfecto immittebam,
+                praeterito perfecto immisi, plusquamperfecto immiseram, futuro immittam; imperatiuo
+                modo tempore praesenti immitte immittat immittamus immittite immittant, futuro
+                immittito tu immittito ille immittote immittant uel immittunto; optatiuo modo
+                tempore praesenti et praeterito imperfecto utinam immitterem, praeterito perfecto et
+                plusquamperfecto utinam immisissem, futuro utinam <milestone unit="page"
+                    n="p. 92 Passalacqua"/> immittam; subiunctiuo modo tempore praesenti cum
+                immittam, praeterito imperfecto cum immitterem, praeterito perfecto cum immiserim,
+                praeterito plusquamperfecto cum immisissem, futuro cum immisero; infinita immittere
+                immisisse immissum ire. Impersonalia immittitur immittebatur immissum est uel fuit
+                immissum erat uel fuerat immittetur; imperatiuo immittatur; optatiuo utinam
+                immitteretur immissum esset uel fuisset immittatur; subiunctiuo cum immittatur
+                immitteretur immissum sit uel fuerit immissum esset uel fuisset immissum erit uel
+                fuerit; infinita immitti immissum esse uel fuisse immissum iri; gerundia immittendi
+                immittendo immittendum immissum immissu; participia actiua immittens immissurus.
+                Passiuum immittor immittebar immissus sum uel fui immissus eram uel fueram immittar;
+                imperatiuo immittere immittatur immittamur immittimini immittuntur, immittitur tu
+                immittitur ille immittiminor immittuntur uel immittuntur; optatiuo utinam immitterer
+                immissus essem uel fuissem immittar; subiunctiuo cum immittat immitterer immissus
+                sim uel fuerim immissus essem uel fuissem immissus ero uel fuere; infinitiuo immitti
+                immissum esse uel fuisse immissum iri; participia passiua immissus immittendus;
+                nomen uerbale immissor, ipsa res immissiu. Cur immitto immisi facit praeteritum? In
+                to desinentia uerba c quidem antecedente tria sunt, quorum unum in xi facit
+                praeteritum perfectum, flecto <milestone unit="page" n="p. 93 Passalacqua"/> flexi,
+                duo autem in xui, necto nexui, pecto pexui uel pectui (sic Asper de uerbo; Charisius
+                uero pexi protulit). E breui antecedente in eandem to syllabam terminantia duo
+                inueniuntur, quorum alterum in ui syllabam, alterum in ui <milestone unit="page"
+                    n="p. 490 vol. III Keil"/> disiunctas facit praeteritum perfectum, peto petiui,
+                meto messui: Marcus Cato in secundo originum<quote type="prose"> ‘in campo Tiburti
+                    ubi hordeum demessuit’ </quote>; Cassius Hemina in tertio annalium <quote
+                    type="prose"> ‘ubi hordeum demessuerunt’</quote>. R antecedente duo uerto uerti
+                sterto stertui; t antecedente unum mitto misi; s unum sisto steti, quod etiam a sto
+                steti fit. Cum igitur in si faciunt praeteritum perfectum, supina in sum uel su
+                faciunt ut laesi lusi risi arsi, laesum lusum risum arsum, laesu lusu risu arsu;
+                unde et laesus lusus risus arsus, laesurus lusurus risurus arsurus. Fac alia a uerbo
+                mitto composita. Amitto demitto summitto committo admitto permitto promitto
+                praemitto emitto omitto remitto. Ab admitto admissarius ab emitto emissarius
+                nascitur et a simplici missus hic et haec missilis et hoc missile. Possumus et hic
+                et haec missibilis et hoc missibile dicere quomodo penetralis et penetrabilis
+                docilis docibilis. </p>
+            <p> Habenas quae pars orationis? Nomen. Quale? Appellatiuum. Cuius speciei? Deriuatiuae.
+                Vnde deriuatur? A uerbo habeo, unde etiam aspirationem habet et per b mutam
+                scribitur. Nam auena, quae <foreign xml:lang="grc">τὸν βρόμον </foreign> significat,
+                et sine aspiratione est et per u scribitur. Est igitur habena cum aspiratione nomen
+                uerbale. Cuius generis? Feminini, numeri pluralis, figurae simplicis, casus
+                accusatiui, <milestone unit="page" n="p. 94 Passalacqua"/> declinationis primae.
+                Omnia enim in a desinentia declinationis primae sunt exceptis neutris quae Graeca
+                sunt et apud Graecos in <foreign xml:lang="grc">τος</foreign> faciunt genetiuum.
+                Apud nos autem <foreign xml:lang="grc">τος</foreign> in tis conuertentia tertiae
+                sunt declinationis, ut<foreign xml:lang="grc"> τόρευμα τορεύματος</foreign> toreuma
+                toreumatis, <foreign xml:lang="grc">σχῆμα σχήματος</foreign> schema schematis.
+                Litterarum uero nomina tam in a quam in quascumque alias litteras desinentia et apud
+                nos et apud Graecos indeclinabilia sunt, ut <foreign xml:lang="grc">ἄλφα βῆτα
+                    γάμμα</foreign>. Non recte enim Donatus digammon posuit. Ab habeo fit habito
+                habitudo habitaculum habitalis; composita inhibeo cohibeo perhibeo prohibeo exhibeo
+                adhibeo. </p>
+            <p>
+                <quote type="poetry"> ‛Tu quoque litoribus nostris Aeneia nutrix’ </quote>
+            </p>
+            <p> Scande uersum. Tuquoque litori busnos trisae neia nutrix. Quot caesurus habet? Duas,
+                semiquinariam tu quoque litoribus <milestone unit="page" n="p. 491 vol. III Keil"/>
+                et semiseptenariarn tu quoque litoribus nostris. Quot figurarum est? Decem. Habet
+                enim tres dactylus et duos spondeos. Tracta singulos pedes. Tu quoque et cetera.
+                Quot habet partes orationis? Sex. Quot nomina? Tria. Quae? Litoribus Aeneia nutrix.
+                Quot pronomina? Duo, tu nostris. Quid aliud? Coniunctionem quoque. Tracta singulas
+                partes. </p>
+            <p> Tu quae pars orationis? Pronomen. Quid est pronomen? Pars orationis quae pro nomine
+                posita tantundem paene significat personamque recipit. Ideo autem paene quia
+                substantiam tantum <milestone unit="page" n="p. 95 Passalacqua"/> significat, non
+                tamen etiam qualitatem quomodo nomen. Bene igitur uidentur fecisse qui carentia
+                personis finitis separant a pronominibus; nam pronomen proprie est quod pro nomine
+                proprio ponitur. Itaque quia propria nomina plus aliis onmibus nominibus finita sunt
+                (certam enim aliquam rem significant) pronomen quoque, quod loco proprii nominis
+                accipitur, debet finitas habere personas. Sunt igitur pronomina, de quibus nulla
+                dubitatio est, primitiua quidem primae personae ego et obliqui casus eiusdem
+                pronominis, secundae tu, tertiae uero sex sui ille iste ipse hic is; deriuatiua
+                primae personae meus noster nostras, secundae tuus uester uestras, tertiae suus.
+                Haec tam apud nos quam apud Graecos pronomina ab omnibus accipiuntur. Cetera uero
+                quae sunt infinita uel interrogatiua uel relatiua substantiae uel qualitatis uel
+                quantitatis uel numeri - substantiae infinitum uel interrogatiuum quis, relatiuum
+                qui; qualitatis interrogatiuum uel infinitum uel relatiuum qualis (significat enim
+                    <foreign xml:lang="grc">ποῖος</foreign> paenultimo circumflexo et <foreign
+                    xml:lang="grc">ποιός</foreign> ultimo acuto et <foreign xml:lang="grc"
+                    >ὁποῖος</foreign>) redditiuum talis; quantitatis interrogatiuum uel infinitum
+                uel relatiuum quantus (significat enim <foreign xml:lang="grc">πόσος</foreign>
+                paenultimo acuto quod est interrogatiuum, et <foreign xml:lang="grc">ποσός</foreign>
+                ultimo acuto quod est infinitum, et <foreign xml:lang="grc">ὁπόσος</foreign> quod
+                    <milestone unit="page" n="p. 492 vol. III Keil"/> est relatiuum) redditiuum
+                tantus; numeri et interrogatiuum et infinitum et relatiuum quot (significat enim
+                    <foreign xml:lang="grc">πόσοι</foreign> paenultimo acuto <supplied>quod est
+                    interrogatiuum et <foreign xml:lang="grc">ποσοί</foreign> ultimo acuto
+                </supplied> quod est infinitum et <foreign xml:lang="grc">ὁπόσοι</foreign>, quod est
+                relatiuum), redditiuum tot. Deriuantur ab eo quod est quis cuius cuia cuium et
+                cuias, et ab eo quod est quot quotus et quotenus (quibusdam ab eo quod est tot
+                uidetur esse totus sed alia uidetur esse significatio) – haec <milestone unit="page"
+                    n="p. 96 Passalacqua"/> tamen omnia praedicta plerique Latinae artis scriptores
+                pronomina esse infinita dixerunt. Nec mirum cum Didymus quoque et multi alii
+                uetustissimi Graecorum inter articulos haec numerauerunt; Romani uero, cum articulos
+                non habent inter pronomina haec posuerunt. Tanta autem uidetur esse cognatio
+                articulorum et pronominum quod Stoici in una parte orationis utrumque esse putant,
+                articulos finitos dicentes pronomina. Quae uero grammatici Graecorum articulos
+                ponunt, illi infinitos dicebant esse articulos nec non etiam supra dictas dictiones
+                quas Apollonius et Herodianus et Dionysius inter nomina rationabiliter posuerunt.
+                Haec autem latius in libro qui est de pronomine tractauimus sed, ut breuiter dicam,
+                loco propriorum nominum non possunt accipi ea quae generalia sunt etiam
+                appellatiuorum. Nam dicentes quis interrogamus de omni substantia, uel qualis de
+                omni qualitate, uel quantus de omni quantitate, uel quot de omni numero. Pronomen
+                autem definitae alicuius personae uult esse et rem certam significare. Quot accidunt
+                pronomini? Sex, species genus numerus figura persona casus. Cuius est speciei?
+                Primitiuae. Fac ex eo deriuatiuum. Tuus tua tuum et aduerbium tuatim et per
+                epectasin tute, te correpta, ut <lb/>
+                <quote type="poetry">‘o Tite tute Tati tibi tanta tyranne tulisti’</quote>. <lb/>
+                Cuius est generis? Communis trium generum; quomodo enim apud Graecos <foreign
+                    xml:lang="grc">ἐγώ σύ οὗ</foreign> trium sunt communia generum, sic apud nos ego
+                tu mei tui sui: numeri singularis, figurae simplicis, personae secundae, casus
+                nominatiui et uocatiui. hic autem magis nominatiuus est cum per apostrophen dicitur,
+                quae exigit nominatiuum et <milestone unit="page" n="p. 97 Passalacqua"/> cum quoque
+                coniunctum quod ad alios nominatiuos relatum est, id est ut Misenus et Palinurus tu
+                quoque. </p>
+            <p> Quoque quae pars orationis? Coniunctio. Accipitur enim pro et tu. Est tamen etiam
+                loco aduerbii inuenire lianc dictionem positam ut in primo Aeneidos <milestone
+                    unit="page" n="p. 493 vol. III Keil"/>
+                <lb/>
+                <quote type="poetry">‘multa quoque et bello passus dum conderet urbem’</quote>
+                <lb/> Hic enim pro similiter necesse est id accipi cum sequitur et. Quid est
+                coniunctio? Pars orationis adnectens ordinansque sententiam. Quot accidunt
+                coniunctioni? Tria potestas ordo figura. Cuius est potestatis quoque? Copulatiuae
+                ordinis postpositiui (uetustissimi tamen solebant etiam praeponere eam), figurae
+                compositae ex corrupto et integro: quo enim corripitur; quod si produceretur esset
+                integra pars. Quem accentum habet? Paenultimum acutum: omnes enim fere coniunctiones
+                postpositae generalem seruant accentuum regulam. </p>
+            <p> Litoribus quae pars orationis? Nomen. Quale? Appellatiuum generis neutri numeri
+                pluralis figurae simplicis casus datiui declinationis tertiae. Cur? Quia omnia in us
+                desinentia neutra tertiae sunt et in ris faciunt genetiuum; excipitur pus
+                indeclinabile et uirus quod Lucretius secundae posuit declinationis <lb/>
+                <quote type="poetry"> ‘diri primordia uiri’ </quote>. </p>
+            <p> Pelagus uero Graecum est, hoc pelagus pelagi, et uulgus uulgi tam masculinum quam
+                neutrum. Quot differentias habet paenultima syllaba genetiui in ris terminantium
+                supra dictorum neutrorum? Si uerbis adiaceant, quae e correptam paenultimam
+                habuerint, seruant e ante ris genetiui ut munem munus muneris uulnero uulnus
+                uulneris sidero sidus sideris (ex quo componitur considero et <milestone unit="page"
+                    n="p. 98 Passalacqua"/> desidero) latero latus lateris opero opus operis. Si
+                uero monosyllaba sint et producuntur in nominatiuo et seruant u ante ris genetiui
+                quoque productam ut ius iuris tus turis rus ruris plus pluris. Si uero sint
+                comparatiua masculinorum eorumdemque femininorum sequuntur genetiuum, id esto
+                paenultimam seruant ante ris, ut minus minoris maius maioris quia minor minoris
+                maior maioris. Alia uero omnia o correptam habent ante ris, ut corpus corporis
+                pectus pectoris litus litoris pignus pignoris et pigneris fenus fenoris et feneris,
+                quamuis uerba eorum magis e habent paenultimam pignero et fenero. Fac ab eo quod est
+                litus deriuatiuum. Litoreus et litoralis. Quidam autem litus <foreign xml:lang="grc"
+                    >ἀπὸ τῶν λιτῶν</foreign> uolunt esse quia proficiscentes et reuertentes solent
+                ibi uota concipere. </p>
+            <p> Nostris quae pars orationis? Pronomen. Quale? Deriuatiuum possessiuum. Ex quo casu
+                solent deriuari? Ex genetiuo ut nos uostrum uel nostri noster; idque sine dubio ex
+                singulari numero ostenditur, ego mei meus tu tui tuus sui suus; unde et paenultimae
+                corripiuntur. Cuius est generis? Hic neutri; sciendum tamen quod omnis datiuus et
+                ablatiuus pluralis tam in nominibus mobilibus quam in pronominibus et participiis
+                communis est trium generum. Cuius est numeri? Pluralis figurae simplicis casus hic
+                datiui. Omnis autem datiuus et ablatiuus pluralis similes sunt, ut <milestone
+                    unit="page" n="p. 494 vol. III Keil"/> dictum est. Et unde possumus scire
+                differentiam? A iunctura et ordinatione, id est <foreign xml:lang="grc">ἀπὸ τῆς
+                    συντάξεως</foreign>, quae facile potest sciri ex singularium iunctura quae non
+                habent similes datiuum et ablatiuum ut in omnibus primae declinationis nominibus et
+                tertiae in e terminantibus ablatiuum et quartae et quintae. In his enim manifeste
+                ostendit casus differentiam. Cum igitur uerbum dedisti datiuum exigit, <milestone
+                    unit="page" n="p. 99 Passalacqua"/> si quid supra dictarum declinationum nomen
+                ordines, necesse est datiuum adiungere, dedisti poetae uel homini uel senatui uel
+                rei. Et nota quod quattuor habent declinationum differentias pronomina. Sunt enim
+                quae tam genetiuum quam datiuum in i terminant, quae sunt tria et communia trium
+                generum ut ego mei mihi tu tui tibi sui sibi. Sunt quae genetiuum in ius datiuum
+                uero in i proferunt qui casus communes sunt trium generum ut ille illius illi ipse
+                ipsius ipsi iste istius isti hic huius huic is eius ei. Sunt alia quae sequuntur
+                secundae declinationis mobilium regulam qualia sunt possessiua haec meus tuus suus
+                noster uester. Sunt alia tertiae declinationis nominum declinationem seruantia ut
+                nosrras uestras nostratis uestratis. </p>
+            <p> Aeneia quae pars orationis? Nomen. Quale? Appellatiuum; quamuis enim possessoris
+                proprium nomen significet tamen omnis possessio eius commune hoc nomen potest
+                habere, ut Aeneia mater Aeneia mensa Aeneia facies Aeneia manus Aeneia nutrix
+                Aeneius ager Aeneius filius Aeneius ensis Aeneium lumen Aeneium munus Aeneium
+                regnum. Generis feminini numeri singularis figurae simplicis declinationis primae.
+                Ex quo nomine deriuatur? Ab Aenea de quo in superioribus latius tractauimus. </p>
+            <p> Nutrix quae pars orationis? Nomen. Quale? Appellatiuum uel deriuatiuum. Cuius
+                speciei deriuatiuorum? Verbalis. Ex quo uerbo masculinum eius nascitur? A nutrio.
+                Solent autem in tor uerbalia in trix facere. feminina mutata or in rix, ut lector
+                lectrix amator amatrix accusator accusatrix. In supra dicto uero euphoniae causa uel
+                alternitatis, id est <foreign xml:lang="grc">παραλληλότητος</foreign>, tri syllaba
+                subtracta est <milestone unit="page" n="p. 100 Passalacqua"/> contra regulam. Cum
+                nutritor enim sit masculinum debuit femininum nutritrix esse sed absurditas. soni
+                minuit syllabam. A quo uerbo deriuatur? A nutrio nutris nutrit. Declina uerbum.
+                Nutrio uerbum actiuum indicatiuo modo dictum temporis praesentis numeri singularis
+                figurae simplicis coniugationis quartae personae primae quod declinabitur sic:
+                nutrio nutris nutrit et pluraliter nutrimus nutritis nutriunt. Eodem rnodo tempore
+                praeterito imperfecto nutriebam nutriebas nutriebat nutriebamus nutriebatis
+                nutriebant, tempore praeterito perfecto nutriui nutriuisti nutriuit nutriuimus
+                nutriuistis nutriuerunt uel nutriuere, praeterito plusquamperfecto nutriueram
+                nutriueras nutriuerat nutriueramus nutriueratis <milestone unit="page"
+                    n="p. 495 uol. III Keil"/> nutriuerant, futuro nutriam nutries nutriet nutriemus
+                nutrietis nutrient; imperatiuo modo tempore praesenti ad secundam et tertiam
+                personam nutri nutriat, nutriamus nutrite nutriant, tempore futuro nutrito tu
+                nutrito ille nutritote nutriant uel nutriunto; optatiuo modo tempore praesenti et
+                praeterito imperfecto utinam nutrirem nutrires nutriret nutriremus nutriretis
+                nutrirent, tempore praeterito perfecto et t plusquamperfecto utinam nutriuissem
+                nutriuisses nutriuisset nutriuissemus nutriuissetis nutriuissent; tempore futuro
+                utinam nutriant nutrias nutriat nutriamus nutrialis nutriant; subiunctiuo modo
+                tempore praesenti cum nutriam nutrias nutriat nutriamus nutriatis nutriant; eodem
+                modo tempore praeterito imperfecto cum nutrirem nutrircs nutriret nutriremus
+                nutriretis nutrirent; eodem modo tempore praeterito perfecto cum nutriuerim
+                nutriueris nutriuerit nutriuerimus nutriueritis <milestone unit="page"
+                    n="p. 101 Passalacqua"/> nutriuerint; eodem modo tempore praeterito
+                plusquamperfecto cum nutriuissem nutriuisses nutriuisset nutriuissemus nutriuissetis
+                nutriuissent; eodem modo tempore futuro cum nutriuero nutriueris nutriuerit
+                nutriuerimus nutriueritis nutriuerint; infinitiuo modo numeris et personis tempore
+                praesenti nutrire, praeterito nutriuisse, futuro nutritum ire. Impersonalia nutritur
+                nutriebatur nutritum est uel fuit nutritum erat uel fuerat nutrietur; imperatiuo
+                nutriatur nutritor; optatiuo utinam nutriretur nutritum esset uel fuisset nutriatur;
+                subiunctiuo cum nutriatur nutriretur nutritum sit uel fuerit nutritum esset uel
+                fuisset nutritum erit uel fuerit; infinitiuo nutriri nutritum esse uel fuisse
+                nutritum iri; gerundia uel participialia nutriendi nutriendo nutriendum nutritum
+                nutritu. Participia ueniunt a uerbo actiuo duo praesens nutriens futurum nutriturus
+                nutritura nutriturum. Eius passiuum indicatiuo modo nutrior nutriebar nutritus sum
+                uel fui nutritus eram uel fueram nutriat, imperatiuo modo nutrire nutriatur
+                nutriamur nutrimini nutriantur, futuro nutritor tu nutritor ille nutriminor
+                nutriantur uel nutriuntur, optatiuo modo utinam nutrirer nutritus essem uel fuissem
+                nutriar, subiunctiuo modo cum nutriar nutrirer nutritus sim uel fuerim nutritus
+                essem uel fuissem nutritus ero uel fuero, infinitiuo modo nutriri nutritum esse uel
+                fuisse nutritum iri. Participia ueniunt a uerbo passiuo: praeteritum nutritus
+                nutrita nutritum futurum nutriendus nutrienda nutriendum. Nomen uerbale nutritor
+                nutrix, ipsa res nutritio. Fac ab eo deriuatiuum. Nutricula quod est diminutiuum, ut
+                Iuuenalis <lb/>
+                <quote type="poetry">
+                    <milestone unit="page" n="p. 102 Passalacqua"/> ‘Gallia uel potius nutricula
+                    causidicorum’</quote>. </p>
+            <milestone unit="page" n="p. 496 vol. III Keil"/>
+            <p>
+                <quote type="poetry"> ‛Vt belli signum Laurenti Turnus ab arce’ </quote>
+            </p>
+            <p> Scande uersum. Vtbel lisi gnumLau renti Turnusab arce. Quot caesuras habet?
+                Semiquinariam. Quomodo? Vt belli signum. Quot figurarum est? Quinque. Quare? Quia
+                constat ex quattuor spondeis et uno dactylo. Tracta singulos pedes. Vtbel spondeus
+                ex duabus longis et cetera. Quot partes orationis habet? Septem, ut belli signum
+                Laurenti Turnus ab arce. Quot nomina? Quinque, belli signum Laurenti Turnus arce.
+                Quid aliud? Aduerbium ut et praepositionem ab. </p>
+            <p> Vt quae pars orationis? Hic aduerbium temporale, alias autem similitudinis potest
+                esse. Et adiecta tamen i eandem habet significationem, uti; cui adicitur nam et fit
+                aduerbium optandi utinam; similiter cum uel compositum uelut et ueluti aduerbium
+                similitudinis est et quando <foreign xml:lang="grc">ἵνα</foreign> uel <foreign
+                    xml:lang="grc">ὅτι</foreign> Graecum significat pro coniunctione causali
+                accipitur. Est etiam quando optativum esr ut Terentius in Phormione <lb/>
+                <quote type="poetry"> ‘ut illum di deaeque omnes perdant’ </quote>. </p>
+            <p> Belli quae pars orationis? Nomen. Quale? Appellatiuum. Cuius speciei? Deriuatiuae.
+                Vnde deriuatur? Ab ea quod est bonum bellum diminutiuum est. Per antiphrasin igitur,
+                hoc est per contradictionem, pro malo bellum dicitur, id est quod malo hominum est
+                inuentum. A bono ergo masculinum bonus bellus, femininum bona <milestone unit="page"
+                    n="p. 103 Passalacqua"/> bella, neutrum quod est bonum bellum facit. Omnia enim
+                in us desinentia masculina geminant l in diminutiuis, ut geminus gemellus et gemina
+                gemella et geminum gemellum. Et sciendum quod inueniuntur etiam ipsorum
+                diminutiuorum comparatiua et superlatiua, quomodo comparatiuorum diminutiua, quae
+                apud Graecos non inuenis unde et Terentius in Adelphis<lb/>
+                <quote type="poetry">‛atque unum quicquid, quod quidem erit bellissimum <lb/>
+                    carpam’</quote>. </p>
+            <milestone unit="page" n="p. 497 uol. III Keil"/>
+            <p> Ex bello, quod bonum significat, bellaria dicuntur <foreign xml:lang="grc">τὰ
+                    τραγήματα</foreign>. Dic ab eo quod est bellum, quod pugnam significat,
+                deriuatiuum aliud. Bellicus bellica bellicum et ex hoc bellicosus bellicosa
+                bellicosum. Bellienus quoque proprium a bello est deriuatum; bello bellas uerbum ex
+                quo bellax quod est trium generum (bellator enim bellatrix facit). Ab eo est etiam
+                Bellona dea bellorum; duellum antiqui dicebant pro bellum ex quo perduellio. A bello
+                compositum bellipotens et belliger et imbellis et rebellis et rebello uerbum;
+                debello quoque compositum uerbum: inde etiam debellatum est. Belli enim portae,
+                quamuis duae sint partes, pro uno tamen nominc proprio accipiuntur, quod significat
+                fores templi Iani. </p>
+            <p> Signum quae pars orationis? Nomen. Quale? Appellatiuum. Cuius speciei? Primitiuae.
+                Fac ab eo deriuatiuum. Diminutiuum sigillum, uerbum signo signas et signio signis et
+                ex eo compositum insignia insignis unde insignitus. Praeterea significo significas
+                significat et signifer et antesignanus, hoc est propugnator signorum, et designo
+                unde designatus et resigno, ut Vergilius in quarto <lb/>
+                <quote type="poetry"> ‘et lumina morte resignat’ </quote>. <lb/> Est autem uniuocum,
+                id est <foreign xml:lang="grc">ὁμώνυμον</foreign>: significat enim <foreign
+                    xml:lang="grc">τὴν <milestone unit="page" n="p. 104 Passalacqua"/> σφραγῖδα καὶ
+                    τὸ ἄγαλμα καὶ τὸ τῶν πολέμων σημῖεον τὸ ἐν τῷ κοντῷ καὶ τὸ σύνθημα</foreign>; ut
+                in eodem libro <lb/>
+                <supplied><quote type="poetry">‘Tellus et pronuba Iuno <lb/> dant
+                    signum’</quote>;<lb/> idem in septimo</supplied>
+                <lb/>
+                <quote type="poetry"> ‘it bello tessera signum’ </quote><lb/>
+                <foreign xml:lang="grc">καὶ τὴν σάλπιγγα</foreign>, ut Lucanus <supplied><gap/> et
+                    Virgilius in decimo</supplied>
+                <lb/>
+                <quote type="poetry">‘signa canunt’</quote>.</p>
+            <p> Laurenti quae pars orationis? Nomen. Quale? Appellatiuum. Cuius speciei?
+                Deriuatiuae. Cuius speciei deriuatiuorum? Possessiuum; est tamen etiam patriae si
+                est ablatiuus ab eo quod est hic et haec et hoc Laurens huius Laurentis. Potest
+                tamen et proprium ipsius ciuitatis esse si genetiuus accipitur hoc Laurentum huius
+                Laurenti, ut sit ab arce Laurenti, hoc est ab arce urbis Laurenti. Sed si est ab eo
+                quod est hic et haec et hoc Laurens, ab hoc <milestone unit="page"
+                    n="p. 498 vol. III Keil"/> et ab hac et ab hoc Laurenti pro Laurentina posuit
+                unde Lucanus <lb/>
+                <quote type="poetry">‘Laurentinosque penates’</quote>. <lb/> Laurentum nominatum est
+                a lauro inventa in arce teste ipso poeta. Compositum ab eo quod est laurus lauriger
+                unde <quote type="poetry">‘laurigeros currus’</quote>; a laurus etiam laureatus et
+                laureata et laureatum: Cicero <quote type="prose">‘fasces laureatos’</quote>, hoc
+                est uictoria laurum habentes. Ex eo proprium Laurentius Laurentia comprehensiuum,
+                quod Graeci <foreign xml:lang="grc">περιεκτικόν</foreign> uocant, lauretum ueluti
+                myrtetum rosetum. Dic deriuatiuum. Laureus quomodo myrteus corneus. Dic aliud
+                deriuatiuum. Laurentius proprium et Laurentia. Laurus quotae est declinationis?
+                Inuenitur et secundae et quartae declinationis: est enim exceptum. Omnia enim
+                arborum nomina in us desinentia et feminina sunt et secundae declinationis ut
+                cupressus cupressi <milestone unit="page" n="p. 105 Passalacqua"/> myrtus myrti
+                ulmus ulmi ornus orni pyrus pyri, exceptis quinque quae tam secundae quam quartae
+                inueniuntur quercus laurus pinus cornus ficus. Laurea quoque pro lauro accipitur. </p>
+            <p> Turnus quae pars orationis est? Nomen. Quale? Proprium. Cuius speciei? Vniuocae;
+                potest enim etiam appellatiuum intellegi piscis nomen fluuialis. Fac ab eo
+                possessiuum. Turnius Turnia Turnium sicut a Saturno Saturnius Saturnia Saturnium.
+                Patronymicum potest secundum analogiam dici Turnides; sed raro in Latinis nominibus
+                solent eiusmodi formae patronymicae fieri, quamuis poeta Scipiadas figurauerit a
+                Scipione (sed et ipsum <foreign xml:lang="grc">ἀπὸ τοῦ Σκιπίωνος</foreign>), quod
+                Graecum esse uidetur. </p>
+            <p> Ab quae pars orationis? Praepositio. Cui casui seruit? Ablatiuo. Quid interest inter
+                ab et a et abs? Quod consonante sequente a scribendum plerumque est, uocali uero
+                omnimodo ab. Inuenitur ab etiam consonantibus sequentibus sed quae non aspere post b
+                sonant. A uero uocali sequente, nisi loco sit consonantis, id est i uel u, numquam
+                inuenitur, ut a Ioue a Venere. Abs autetn q uel t uel c sequentibus paucis
+                anteponitur tam in appositione quam in compositione, in appositione ut abs te pro a
+                te et in compositione abstuli absconde absque ullo malo pro sine ullo malo. </p>
+            <p> Arce quae pars orationis? Nomen. Quale? Appellatiuum. Cuius speciei? Deriuatiuae.
+                Vnde deriuatur? Ab arceo uerbo arx, quae arcet facile munimento suo hostes. Inde
+                etiam summitates montium, ex quibus facile possunt depelli hostes, arces dicuntur et
+                arcus quod longe arceat similiter hostes. Declina uerbum. Arceo arces arcet. Cuius
+                est <milestone unit="page" n="p. 499 vol. III Keil"/> significationis? Actiuae.
+                Quotae est coniugationis? Secundae. Arceo uerbum actiuum indicatiuo modo <milestone
+                    unit="page" n="p. 106 Passalacqua"/> dictum tempore praesenti arceo, praeterito
+                imperfecto arcebam, praeterito perfecto arcui, plusquamperlecto arcueram, futuro
+                arcebo; imperatiuo modo tempore praesenti arce arceat arceamus arcete arceant,
+                futuro arceto tu arceto ille arcetote arceant, optatiuo modo tempore praesenti et
+                praeterito imperfecto utinam arcerem, praeterito perfecto et plusquamperfecto
+                arcuissem, futuro arceam; subiunctiuo modo tempore praesenti cum arceam imperfecto
+                arcerem, perfecto arcuerim, plusquamperfecto arcuissem, futuro arcuero. Infinitiuo
+                modo tempore praesenti arcere, praeterito arcuisse, futuro arcitum ire uel arciturum
+                esse; gerundia uel participialia arcendi arcendo arcendum arcitum arcitu. Participia
+                ueniunt a uerbo actiuo duo, praesentis temporis et futuri, praesentis arcens futuri
+                arciturus. Declina passiuum. Arceor arceris uel arcere arcetur arcebar arcitus sum
+                uel fui secundum analogiam quamuis in usu deficit (compositum tamen eius coerceor
+                coercebar coercitus sum in frequenti est usu); plusquamperfecto arcitus eram uel
+                fueram, futuro arcebor, imperatiuo modo tempore praesenti arcere arceatur arceamur
+                arcemini arceantur, futuro arcetor tu arcetor ille arceminor arceantur uel arcentor;
+                optatiuo modo utinam arcerer, praeterito perfecto et plusquamperfecto arcitus essem
+                uel fuissem, futuro arcear; subiunctiuo cum arcear, praeterito imperfecto arcerer,
+                praeterito perfecto arcitus sim uel fuerim, praeterito plusquamperfecto arcitus
+                essem uel fuissem, futuro arcitus ero <milestone unit="page" n="p. 107 Passalacqua"
+                /> uel fuero; infinitiuo praesenti arceri, praeterito arcitum esse uel fuisse,
+                futuro arcitum iri; gerundia uel participialia communia sunt autem tam in actiuo
+                quam in passiuo: arcendi arcendo arcendum arcitum arcitu. Participia ueniunt a uerbo
+                passiuo duo, praeteriti et futuri, praeteriti arcitus futuri arcendus. </p>
+            <p>
+                <quote type="poetry"> ‛Atque ea diuersa penitus dum parte geruntur’</quote>
+            </p>
+            <p> Scande uersum. Atqueea diuer sapeni tusdum partege runtur. Quot caesuras habet iste
+                uersus? Duas, semiquinariam atque ea diuersa, et semiseptenariam atque ea diuersa
+                penitus. Quot figurarum est iste uersus? Decem. Quare? Quia constat ex tribus
+                dactylis et duobus <milestone unit="page" n="p. 500 vol. III Keil"/> spondeis.
+                Tracta singulos pedes. Atque ea dactylus ex una longa et duabus breuibus et cetera.
+                Quot partes orationis habet iste uersus? Septem, atque ea diuersa penitus dum parte
+                geruntur. Quot habet nomina? Duo. Quae? Diuersa et parte. Quot uerba? Vnum,
+                geruntur. Quot pronomina? Vnum, ea. Quot aduerbia? Duo, penitus et dum. Quot
+                coniunctiones? Vnam, atque. </p>
+            <p>Atque quae pars orationis? Coniunctio. Cuius est potestatis? Copulatiuae, ordinis
+                communis tam praepositiui quam postpositiui inuenitur. Sed raro postponitur quomodo
+                etiam. Et quid interest inter que et ac et atque? Quia que semper postpositiua est
+                et enclitica et significat non modo et sed etiam <foreign xml:lang="grc"
+                    >τε</foreign>Graecam quando repletiua est. Ac autem semper praepositiua est et
+                accipitur etiam pro aduerbio similitudinis quomodo atque, ut <lb/>
+                <quote type="poetry">
+                    <milestone unit="page" n="p. 108 Passalacqua"/> ‘haud secus ac iussi
+                    faciunt’</quote>. <lb/> Et autem tam praepositiua quam postpositiua copulationem
+                solam significat. Cuiuis est figurae atque? Compositae. Ex quibus? Ex duobus
+                integris at et que. Quem habet accentum? Praepositiua omnis coniunctio et
+                praepositio grauatur, postpositiua autem generalem accentum seruat dictionum. </p>
+            <p> Ea quae pars orationis? Pronomen. Quale? Subiunctiuum uel relatiuum. Primitiuum est
+                an deriuatiuum? Primitiuum. Quot sunt pronomina indubitabilia? Primitiua quidem
+                octo, primae personae ego, secundae tu, tertiae sex ille ipse iste hic is sui. Et
+                quare prima et secunda persona singulas habent uoces, tertia autem tot etiam
+                diuersas? Quia prima et secunda praesentes semper sunt et iuxta se collocantur et
+                demonstratiuae sunt; tertia autem modo iuxta collocatur modo longe modo praesens
+                modo absens modo demonstratiua modo relatiua modo discretiua. Quid interest inter
+                hic et iste et is? Quia hie praepositium est et demonstratiuum et in declinatione
+                nominum a grammaticis pro articulo accipitur, iste uero demonstratiuum est, is
+                subiunctiuum uel relatiuum, ille potest et in loco aliquo longe posito esse
+                demonstratiuum et relatiuum potest tamen idem esse et eum significantia aliqua
+                proferri, ut <lb/>
+                <quote type="poetry"> ‘sic Iuppiter ille monebat’</quote>. <lb/> Ipse autem et
+                relatiuum et discretiuum est; relatiuum est ut <lb/>
+                <quote type="poetry"> ‘ipse modo Aeneas, nostri si tanta cupido est’ </quote>;<lb/>
+                discretiuum est ut ego ipse, tu ipse, ille ipse: <lb/>
+                <milestone unit="page" n="p. 501 vol. III Keil"/><quote type="poetry"> ‘quaeque ipse
+                    miserrima uidi’ </quote>. <lb/> Ideo autem discretiuum dicitur, quia discernit
+                personam cui coniungitur, ostendens per se facere et non per alium, ut <quote
+                    type="poetry">‘quaeque ipse miserrima uidi’</quote>, hoc est ipse per me, non
+                per alium. Dic <milestone unit="page" n="p. 109 Passalacqua"/> deriuatiua pronomina
+                quot sunt. deriuatiua pronomina quot sunt. Septem, meus tuus suus noster uester
+                nostras uestras. Quot sunt declinationes pronominum? Quattuor, una illorum quae in i
+                iaciunt genetiuum et datiuum, ut mei mihi tui tibi sui sibi, altera eorum quae in
+                ius habent genitiuum, ut illius huius, tertia quae secundum mobilia declinantur
+                nomina meus tuus suus noster uester, quarta quae tertiam nominum declinationem
+                sequitur nostras uestras. Quae sunt dubia? Quae Stoici quidem antiquissimi inter
+                articulos <del>cum praepositionibus</del> ponebant, Romani autem inter pronomina
+                infinita uel interrogatiua uel relatiua uel redditiua, Dyonisius uero et Apollonius
+                et Herodianus rationabiliter inter nomina. Sunt autem substantiae uel qualitatis uel
+                quantitatis uel numeri <del>infinita</del>. Substantiae ut quis, quod tam
+                interrogatiuum est quam infinitum, cuius relatiuum est qui, quod per se quidem
+                acuitur, in lectione uero grauatur. Inuenitur tamen etiam pro quis atque tum
+                circumfiectitur. Obliqui autem eorum casus, quando relationem significant,
+                grauantur. Qualitatis qualis, quod paenultimam circumflectit quando interrogatiuum
+                est; quando uero infinitum est uel relatiuum, acuitur ultima quae tamen in lectione
+                sopitur: eius redditiuum talis. Dic quantitatis. Quantus quod similiter tria
+                significat, interrogationem quando paenultima acuitur, quando uero ultima infinitum
+                uel relatiuum est, quod similiter in lectione sopitur; eius redditiuum tantus.
+                Numeri quot, quod similiter tria significat, interrogationem infinitionem
+                relationem, sed quando interrogatiuum est acuitur, quando autem relatiuum uel
+                infinitum in lectione grauatur; eius redditurum tot. Dic deriuatiuum ab eo quod est
+                quis. Cuius cuia cuium quae sunt possessiua infinita quae Graeci non habent.
+                Praeterea hic et haec cuias et hoc cuiate huius cuiatis, quae sunt gentilia
+                infinita. Et sciendum quod haec declinationem pronominum habent quis uel qui cuius,
+                et eam tamen inaequalem cum accusatiuum quem facit <milestone unit="page"
+                    n="p. 110 Passalacqua"/> et ablatiuum a quo uel a qui et datiuum pluralem quibus
+                uel quis. Quae sunt alia nomina quae declinationem pronominum habent? In us quidem
+                desinentia sex unus ullus nullus solus totus alius, in er uero duo uter et alter et
+                ex his composita excepto neuter neutri. Dic nominatiuum ab eo quod est ea.
+                Masculinum eius is femininum ea neutrum id. Quid habet notandum <milestone
+                    unit="page" n="p. 502 vol. III Keil"/> hoc pronomen? Quod nominatiuum pluralem
+                masculinum tam in ei facit quam in ii et datiuum et ablatiuum tam in eis quam in iis
+                et quamuis i duplicetur pro una accipitur syllaba in metris quomodo di et dis pro
+                dei et deis. Fac ab eo quod est is compositum. Idem eiusdem. Et quid interest inter
+                neutrum et masculinum? Quod masculinum producitur, neutrum uero corripitur. </p>
+            <p> Diuersa quae pars orationis? Nomen. Quale? Appellatiuum. Cuius speciei? Deriuatiuae.
+                Vnde deriuatur? A uertor uerbo uersus participium, et a participio factum est nomen
+                compositum diuersus diuersa diuersum; generis hic feminini numeri singularis quando
+                femininum est, quando uero neutrum pluralis. Et notandum quod omnia mobilia in a
+                facientia femininum et nomina et pronomina et participia similem habent femininum
+                singulare et neutrum plurale ut primus prima primum, pulcher pulchra pulchrum,
+                armiger armigera armigerum, satur satura saturum, illc illa illud, iste ista istud,
+                is ea id, hic haec hoc: haec et singulare est femininum et plurale neutrum. Nec non
+                etiam quis quae quod: quae tam singulare est femininum quam plurale neutrum.
+                Participia quoque amaturus amatura amaturum amatus amata amatum. Cuius est numeri?
+                Singularis quia femininum est in hoc uersu, figurae compositae. Ex quibus? Ex duobus
+                integris, id est ex di praepositione, quae separatim non inuenitur per se, et uersa.
+                Sunt autem inseparabiles praepositiones, id est quae per se separatae numquam
+                possunt inueniri, hae: di dis re se am con; quas tamen praepositiones ideo dicimus
+                quia interpraetatio quoque earum apud Graecos <milestone unit="page"
+                    n="p. 111 Passalacqua"/>praepositiones eas ostendit et praepositiuum locum sibi
+                semper in compositione defendunt. Diuersus tamen apud Latinos frequenter non solum
+                pro uarius sed etiam pro separatus accipitur et discretus ex quo etiam deriuatur
+                diuersitas. </p>
+            <p>Penitus quae pars orationis? Aduerbium. Cuius significationis est? Hic localis, alias
+                qualitatis; significat enim prorsus uel intima parte ut <lb/>
+                <quote type="poetry">‘et causas penitus temptare latentis’</quote>.<lb/> Et hic
+                tamen similem habet significationem penitus, id est in penitissima parte, hoc est
+                intima, Italiae. Antiqui enim et penitior et penitissimus ab eo solebant dicere
+                uelut ulterior ultimus. Cuius est speciei? Primitiuae. Ex eo enim nomen penitior et
+                penitissimus nascitur et aduerbium comparatiuum penitius superlatiuum penitissime.
+                Cuius est figurae? Simplicis. <milestone unit="page" n="p. 503 vol. III Keil"/>
+            </p>
+            <p>Dum quae pars orationis? Aduerbium temporale, quomodo hic. Est autem etiam coniunctio
+                causalis quando pro <foreign xml:lang="grc">ἵνα</foreign> Graeca coniunctione
+                accipitur ut <lb/>
+                <quote type="poetry">‘multa quoque et bello passus dum conderet urbem’</quote>
+                <lb/> Et sciendum quod aduerbium indicatiuo coniungitur, coniunctio uero
+                subiunctiuo. Est tamen etiam pro coniunctione repletiua, ut <lb/>
+                <quote type="poetry">‘Sosia <lb/> adesdum paucis te uolo’</quote>
+                <lb/> et <lb/>
+                <quote type="prose">‘nedum illi corruptis moribus uictoriae temperarent’</quote>.
+                <lb/> Ex eo deriuatur dudum. Post nec quoque uel post non uel post haud posita
+                aduerbium est temporale ut necdum nondum haud dum.</p>
+            <p>Parte quae pars orationis? Nomen. Quale? Appellatiuum. Cuius speciei? Primitiuae,
+                generis feminini, numeri singularis, figurae simplicis, casus ablatiui. Cur pars
+                partis facit? Quia omnia in rs uel ls uel ns desinentia interposita ti faciunt
+                genetiuum ut pars partis puls pultis mons montis exceptis a corde compositis quia d
+                    <milestone unit="page" n="p. 112 Passalacqua"/> habent pro t, ut uecors uecordis
+                concors concordis discors discordis. Seruant enim primitiui consonantem genetiui: et
+                differentiae causa frons frondis <foreign xml:lang="grc">ἡ φυλλάς</foreign> et lens
+                lendis <foreign xml:lang="grc">τὸ κονίδιον</foreign>; praeterea glans glandis
+                libripens libripendis quia a pendo uerbo componitur. Fac ab eo quod est pars
+                deriuatiuum. Diminutiuum particula, uerbum uero partio et partior, quod in eadem
+                inuenitur significatione, et ex eo composita dispertio et dispertior et impertio et
+                impertior. Dic ab eo compositum. Participium et participo participas participat.
+                Similiter componuntur ab eo expers expertis particeps participis et proportio et
+                bipertitus et tripertitus et similia. </p>
+            <p>Geruntur quae pars orationis? Verbum. Quale? Perfectum. Quo modo dictum? Indicatiuo.
+                Cuius coniugationis? Tertiae, significationis passiuae numeri pluralis figurae
+                simplicis temporis praesentis personae tertiae. Declina. Gero geris gerit et cetera.
+                Quare praeteritum gessi facit? Quia in ro desinentia tertiae coniugationis in ui
+                faciunt perfectum (quaero quaesiui tero triui) exceptis uro ussi gero gessi curro
+                cucurri, ex quo composita licet ut uel duplicent in praeterito perfecto cu uel non:
+                decurro decucurri et decurri, percurro percucurri et percurri. Quare gessi gestus
+                facit participium? Quomodo et ussi ustus. Quaesiui quoque quaestus <foreign
+                    xml:lang="grc">ὁ πόρος</foreign> differentiae causa facit; nam quaesitus
+                    <foreign xml:lang="grc">ὁ ζητηθείς</foreign>. Fac frequentatiuum. Gesto gestas
+                gestat: a participiis enim praeteriti plerumque fiunt frequentatiua; et a gesto
+                gestio gestis, id est motu corporis significo gaudium. Dic ab eo alia deriuatiua.
+                Gerulus unde componitur nugigerulus; inde est etiam gesticulor gesticularis uel
+                gesticulare et ipsa res gesticulatio. <milestone unit="page"
+                    n="p. 504 vol. III Keil"/></p>
+            <p>
+                <milestone unit="page" n="p.113 Passalacqua"/>
+                <quote type="poetry">‛Panditur interea domus omnipotentis Olympi’</quote>. </p>
+            <p> Scande uersum. Panditur intere adomus omnipo tentisO lympi. Quot caesuras habet hic
+                uersus? Vnam. Quam? Semiquinariam. Quomodo? Panditur interea. Quot figurarum est
+                iste uersus? Vnius. Quare? Quia quinque dactylos habet. Tracta singulos pedes.
+                Panditur dactylus ex una longa et duabus breuibus et cetera. Quot partes orationis
+                habet hic uersus? Quinque. Quot nomina? Tria, domus omnipotentis Olympi. Quot uerba?
+                Vnum, panditur. Quid aliud? Aduerbium, interea. </p>
+            <p> Panditur quae pars orationis est? Verbum. Cuius est modi hoc uerbum? Indicatiui.
+                Cuius formae? Perfectae. Cuius coniugationis? Tertiae. Cuius generis siue
+                significationis? Passiuae. Cuius numeri? Singularis. Cuius figurae? Simplicis. Cuius
+                temporis? Praesentis. Cuius personae? Tertiae. Dic actiuum eius. Pando pandis
+                pandit. Declina. Pando pandebam pandi panderam pandam. Cur mutata do in di facit
+                praeteritum perfectum? Quia omnia uerba tertiae coniugationis quae ante do n habent
+                mutata do in di faciunt praeteritum, ut scando scandi incendo incendi offendo
+                offendi defendo defendi. Excipiuntur abicientia quidem n fundo fudi scindo scidi
+                findo fidi, duplicantia uero primam syllabam pendo pependi tendo tetendi tundo
+                tutudi. Declinat passiuum. Pandor pandebar passus sum. Cur passus facit participium
+                praeteritum? Quia omnia passiua in dor desinentia tertiae coniugationis uerba, nisi
+                sint a dor uerbo composita participium praeteritum in sus faciunt, ut ludor lusus
+                caedor caesus defendor defensus incendor incensus. Sed notandum est quod, cum alia
+                omnia quae n habent ante do etiam in participio ante sus seruant n, ut offendo
+                offensus defendo defensus incendo incensus tendo tensus pendo pensus tundo tunsus,
+                hoc differentiae <milestone unit="page" n="p. 114 Passalacqua"/> causa ne femininum
+                eius simile inueniatur proprio masculino, quod est hic Pansa, ideo passus passa
+                passum facit, quamuis a patior quoque passus facit et a pateo passus, ut Vergilius
+                in tertio <lb/>
+                <quote type="poetry">‘passis de litore palmis’</quote>
+                <lb/> et in primo <lb/>
+                <quote type="poetry">‘crinibus Iliades passis’ </quote>. <lb/> Fundo etiam fudi fusus
+                fecit nec duplicauit s, quia producta uocalis non egebat tali geminatione. Fidi
+                quoque et scidi, quia corripiunt paenultimam, duplicauerunt in participio s, scissus
+                et fissus. Vergilius in nono Aeneidos <milestone unit="page"
+                    n="p. 505 vol. III Keil"/>
+                <lb/>
+                <quote type="poetry">‘frangitur ac fisso transit praecordia ligno’</quote>. <lb/>
+                imperativus et optativus et subiunctivus et infinitus supra dicti verbi secundum
+                analogiam declinantur. Dic supina. Pandendi pandendo pandendum passum passu. Dic
+                participia. Pandens passurus. Dic passiva. Praeteriti passus, futuri pandendus,
+                nomen verbale passor. In sor autem desinentia vel in xor verbalia feminina facere
+                non possunt litterarum dissonantia prohibente. In tor enim desinentia mutant or in
+                rix, ut amator amatrix doctor doctrix raptor raptrix fartor fartrix. Nomen verbale
+                rei hic passus huius passus, quod significat <foreign xml:lang="grc">τὸ
+                    βῆμα</foreign>, id est quod patet in spatio distantiae pedum. Est tamen et aliud
+                verbale pandus panda pandum. Donatus <quote type="prose">‘panda et
+                    contractior’</quote> et Ovidius <quote type="poetry">‘panda naris erat’</quote>.
+                Nam passio magis a patior est.</p>
+            <p>Interea quae pars orationis? Aduerbium. Quid est aduerbium? Pars orationis quae
+                adiecta uerbo significationem eius explanat atque implet. Quot accidunt aduerbio?
+                Significatio species figura. Cuius est speciei? Inter quidem ab in praepositione
+                uidetur esse <milestone unit="page" n="p. 115 Passalacqua"/> natum quomodo a sub
+                subter et ab ex exter; ea uero primitiuum est pronomen ablatiui casus singularis uel
+                accusatiui pluralis. Cuius est significationis hoc aduerbium? Temporis; potest tamen
+                esse et loci. Cuius est figurae? Compositae. Ex quibus? Ex integro et corrupto si ea
+                plurale accipimus. Inter enim integrum est quod plerique Latinorum praepositionem
+                accipiunt, Graeci autem aduerbium; ea uero corruptum quia accusatiuus pluralis a
+                    <supplied>corripit</supplied>; produxit tamen propter generalem regulam
+                aduerbiorum in a terminantium quae omnia producuntur, ut interea propterea praeterea
+                excepto ita. Possumus tamen dicere quia in compositione non necesse est separatorum
+                constructionem seruare et licere etiam ablatiuum singularem accipere in his
+                aduerbiis compositum cum praepositionibus, quomodo quacirca quapropter, sic interea
+                propterea. Frequenter enim etiam simplices ablatiui pro aduerbiis accipiuntur, ut
+                una qua qui dextra sinistra. </p>
+            <p> Domus quae pars orationis est? Nomen. quale? Appellatiuum. Cuius speciei? A Graeco
+                deriuatur. Graeci enim <foreign xml:lang="grc">δωμᾶσθαι</foreign> dicunt aedificare:
+                inde et <foreign xml:lang="grc">ἐδωμήσατο</foreign> et <foreign xml:lang="grc"
+                    >δόμος</foreign>. Graece enim masculinum est et Latine femininum haec domus,
+                quomodo <foreign xml:lang="grc">ὁ κρατήρ</foreign> haec cratera,<foreign
+                    xml:lang="grc"> ὁ δεκάπους</foreign> haec decempeda, <foreign xml:lang="grc">ὁ
+                    πανθήρ</foreign> haec panthera, <foreign xml:lang="grc">ὁ χάρτης</foreign> haec
+                charta, <foreign xml:lang="grc">ὁ γαυσάπης <milestone unit="page"
+                        n="p. 506 vol. III Keil"/></foreign> haec gausape. Dic deriuatiua a domo.
+                Domicilium domesticus dominus domo domas domat hoc est sub domo et potestate mea
+                facio: unde <quote type="poetry">‘maris domitor’</quote> pro dominus et dominator
+                    <del>inde etiam dominus</del>; hinc Domitius et Domitianus. Dic aduerbia ex hoc.
+                In loco domi ad locum domum de loco domo quae Graeci dicunt <foreign xml:lang="grc"
+                    >οἴκοι οἴκαδε οἰκόθεν</foreign>. Dic deminutiuum. Domuncula. </p>
+            <p> Omnipotentis quae pars orationis? Nomen. Quale? Appellatiuum. Cuius speciei?
+                Adiectiuae, figurae compositae. Ex quibus? Ex tribus corruptis, omnium et potis et
+                ens, id est qui onmium potis est. <milestone unit="page" n="p. 116 Passalacqua"/>
+                Antiqui enim ens dicebant participium ab eo quod est sum es est. Ideo ergo a possum
+                uerbo patens nascitur tam participium quam nomen sed quando participium est et
+                tempus significat et accusatiuo nominum uel infinito uerborum coniungitur nec
+                comparationem accipit ut potens pugnare uel potens bella facere. Quanti autem nomen
+                est caret tempore et genetiuo coniungitur comparationemque habet ut porcus maris et
+                amans illius, potentior et amantior. Sic ergo omnia participia similia possumus
+                discernere tempore et coniugatione casuum et comparatione. Si enim uerbi casum non
+                sequantur, in uim nominum transeunt; similiter si tempus amittant et si
+                comparationem assumant ut <quote type="poetry">‘fugitans litium’</quote> doctus
+                grammaticae, doctior doctissimus. Cur in tis desinit genitiuus? Quia omnia nomina in
+                ns uel ls uel rs desinentia interposita ti faciunt genitiuum, ut puls pultis mons
+                montis ars artis, exceptis differentiae causa frons frondis et lens lendis;
+                praeterea glans glandis cuius quidem etiam similem genetiuo quidam protulerunt
+                nominatiuum. Libripens quoque libripendis facit seruata consonante uerbi pendo.
+                Praeterea a corde composita seruanda d notanda sunt concors concordis discors
+                discordis uecors uecordis. Comparatiuum quidem potens potentior potentissimus
+                dicitur; omnipotens autem ideo non potest habere comparatiuum quia <supplied>quod
+                    est</supplied> supra omnia nemini potest comparari. Fac ab eo quod est potens
+                ipsam rem. Potentia et potestas. Quid interest inter potentiam et potestatem?
+                Potestas magis pro ui accipitur, potentia autem pro dictione; quidam etiam
+                potentatum dixerunt. Declina uerbum. Possum potes potest. Eodem modo tempore
+                praeterito <milestone unit="page" n="p. 117 Passalacqua"/> imperfecto poteram
+                tempore perfecto potui, plusquamperfecto potuerant, futuro potero; imperatiuo
+                praesenti potes possit <milestone unit="page" n="p. 507 vol. III Keil"/> possimus
+                poteste possint, futuro potesto tu potesto ille potestote possint uel possunto;
+                optatiuo modo tempore praesenti et praeterito imperfecto utinam possim, praeterito
+                plusquampcrfecro potuissem, futuro possim. subiunctiuo praesenti cum possim,
+                praeterito imperfecto cum possem, praeterito perfecto potuerim, praeterito
+                plusquamperfecto potuissem, futuro potuero. Infinita posse, antiqui potesse
+                (Terentius in Eunucho <lb/>
+                <quote type="poetry">’sed nihil tamen’</quote>),<lb/> praeterito potuisse: in futuro
+                deficit. Deriuatiua ex hoc possibilis. </p>
+            <p> Olympi quae pars orationis est? Nomen. Quale? Proprium; significat autem et montem
+                et caelum Olympum dictum a Graeco quasi <foreign xml:lang="grc">ὁλολάμπον</foreign>
+                quod undique luceat. Cuius est speciei? Deriuatiuae uel compositae a Graeco, id est
+                    <foreign xml:lang="grc">τοῦ ὅλου καὶ λάμπειν</foreign>. Fac ab eo deriuatiuum.
+                Olympicus Olympica Olympicum et proprium Olympius Olympia Olympium certamen uel
+                Olympia, quae in honorem Iouis celebrabantur certamina Pisis. Dic composita.
+                Olympiodorus et Olympionices. Dic patronymicum. Olympias, cuius secundum analogiam
+                Olympiades debet esse masculinum.</p>
+            <p>
+                <quote type="poetry">‛Oceanum interea surgens Aurora reliquit’ </quote>
+            </p>
+            <p> Scande uersum. Ocea numintere asur gensAu rorare liquit. <milestone unit="page"
+                    n="p. 118 Passalacqua"/>Quot habet caesuras? Duas semiquinariam et
+                semiseptenariam: oceanum interea ecce semiquinaria. Oceanum interea surgens ecce et
+                semiseptenaria. Quot figurarum est? Decem. Habet enim tres dactylos et duos
+                spondeos. Tracta pedes. Ocea dactylus et cetera. Quot partes orationis habet iste
+                uersus? Quinque, Oceanum interea surgens Aurora reliquit. Quot nomina? Duo, Oceanum
+                Aurora. Quot uerba? Vnum, reliquit. Quot participia? Vnum, surgens. Quot aduerbia?
+                Vnum, interea. </p>
+            <p> Oceanum quae pars orationis? Nomen. Quale? Proprium. Cuius speciei? Deriuatiuae
+                    <foreign xml:lang="grc">ἀπὸ τοῦ ὠκέος</foreign>, hoc est a celeri motu, dictus
+                est Graece Oceanus. Fac ab eo deriuatiuum. Oceanites masculinum et Oceanitis
+                femininum unde Vergilius in quarto georgicon <milestone unit="page"
+                    n="p. 508 vol. III Keil"/>
+                <lb/>
+                <quote type="poetry">‘Oceanitides ambae’</quote>. </p>
+            <p> Dic possessiuum. Oceanius Oceania Oceanium ut Saturnius Saturnia Saturnium;
+                patronymicum <foreign xml:lang="grc">ὠκεανὸς ὠκεανοῦ</foreign> Oceanides et
+                femininum Oceanis uelut <foreign xml:lang="grc">Πρίαμος Πριάμου</foreign> Priamides
+                et Priamis. Et quamuis sit proprium Oceanus etiam pro appellatiuo accipitur, quando
+                partes eius significat, ut si dicam Atlanticus oceanus et Boricus et Erythraeus siue
+                Aethiopicus, quomodo mare, cum totum significat, proprium est, cum partem,
+                appellatiuum.</p>
+            <p>Interea quae pars orationis est? Aduerbium. Cuius significationis? Hic temporalis
+                alias autem etiam localis est ut in primo <lb/>
+                <quote type="poetry">‘interea ad templum non aequae Palladis ibant <lb/> crinibus
+                    Iliades passis peplumque ferebant’</quote>. </p>
+            <p> Cuius est figurae? Compositae ex duobus integris, hoc est ex inter et ea, qui est
+                ablatiuus perfectus. Solent autem componi ablatiui cum praepositionibus quae etiam
+                accusatiuo separatim solent <milestone unit="page" n="p. 119 Passalacqua"/>coniungi,
+                ut quapropter quacirca praeterea propterea; sic etiam interea. Inter primitiuum est
+                an deriuatiuum? Ab in deriuatur inter quomodo ab ex exter et a sub subter et a de
+                antique deter unde et deterior et deterrimus, quae tamen alii a detero uerbo facta
+                esse putauerunt. Quomodo autem ab exter extra et a super supra sic ab inter intra.
+                Hinc intro et intus; et intra quidem spatium temporis uel loci significat, intro
+                uero ad locum, intus in loco. Comparatiuus interior superlatiuus intimus; uerbum
+                intro intras.</p>
+            <p>Surgens quae pars orationis? Participium praesentis temporis et in duas consonantes
+                desinit, hoc est n et s et commune est trium generum. Cuius est casus? Nominatiui,
+                temporis praesentis, significationis neutrae, formae perfectae, numeri singularis,
+                figurae compositae. Ex quibus? Ex duobus corruptis; tam sursum enim quam rego
+                corrupta sunt. Et notandum enim quod, cum in praesenti ex duobus corruptis sit, in
+                praeterito ex integro et corrupto inuenitur surrexi. Et multa inueniuntur
+                huiuscemodi non solum uerba sed et nomina, ut alteruter alterutrius in nominatiuo ex
+                duobus integris et in genetiuo ex corrupto et integro, idem eiusdem in nominatiuo ex
+                duobus corruptis est et in genetiuo ex integro et corrupto, cogo coegi in praesenti
+                ex duobus corruptis est, in praeterito perfecto ex corrupto et integro, pergo
+                perrexi, in praesenti ex integro est et corrupto, in praeterito autem ex duobus
+                integris. Declina uerbum eius. Indicatiuo surgo surgebam surrexi surrexeram surgam,
+                imperatiuo surge surgat surgamus surgite <milestone unit="page"
+                    n="p. 509 vol. III Keil"/> surgant, futuro surgito tu surgite ille surgitote
+                surgant uel surgunto, optatiuo surgerem surrexissem surgam, subiunctiuo eum surgam
+                surgerem surrexerim surrexissem surrexero, infinito surgere surrexisse surrectum ire
+                uel surrecturum esse. <milestone unit="page" n="p. 120 Passalacqua"/> Impersonalia
+                indicatiuo surgitur, tur surgebatur surrectum est uel fuit surrectum erat uel fuerat
+                surgetur, imperatiuo surgatur, optatiuo utinam surgeretur surrectum esset uel
+                fuisset surgatur, subiunctiuo cum surgatur surgeretur surrectum sit uel fuerit
+                surrectum esset uel fuisset surrectum erit uel fuerit. Infinita impersonalis surgi
+                surrectum esse uel fuisse surrectum iri, supina surgendi surgendo surgendum
+                surrectum surrectu, participia praesentis surgens futuri surrecturus. Etiam nomen
+                est surrectus quomodo rectus cum caret tempore. Sciendum tamen quod simplex eius
+                uerbi actiuum est: rego facit enim regor. Composita autem ab eo quaedam in
+                neutralium transeunt significationem, quaedam permanent in simplicitate ut pergo
+                surgo neutralia sunt; dirigo autem et porrigo siue porgo et arrigo actiua sunt. Dic
+                ab eo quod est surgo nomen uerbale. Surrector et surrectrix, ipsa res surrectio et
+                surrectus. Cur rego rexi? In go desinentia r antecedente si non sint a rego
+                composita in si faciunt praeteritum, ut mergo mersi tergo tersi spargo sparsi; alia
+                omnia in xi, ut ango anxi pingo pinxi tingo tinxi, exceptis lego legi frango fregi
+                impingo impegi tango tetigi pungo pupugi et punxi. A lego composita mutantia
+                primitiui significationem mutant et praeteritum, diligo dilexi intellego intellexi
+                neglego neglexi. </p>
+            <p> Aurora quae pars orationis? Nomen. Quale? Proprium. Potest tamen quando pro die
+                accipitur loco appellatiui accipi; quando enim deam significat proprium est. Cuius
+                est speciei? Deriuatiuae, ab aura enim dicitur aurora. Proprie enim ipse ascensus
+                solis, id est prima pars diei, aurora dicitur, in qua solet pulsu solis aer commotus
+                auram facere; alii autem a splendore solis dictam putant. Ponunt autem auram pro
+                splendore teste poeta in sexto <lb/>
+                <quote type="poetry">‘per ramos aura refulsit’</quote>,<lb/>
+                <milestone unit="page" n="p. 121 Passalacqua"/> id est splendor. Inde etiam aurum et
+                aurarii, qui fauoribus splendidos, hoc est claros, faciunt et aurigae qui splendorem
+                sibi agunt, qui fit auris populi, hoc esr clamoribus. Cuius est generis? Feminini,
+                numeri singularis, figurae simplicis, casus nominatiui et uocatiui, hic autem
+                nominatiui (ablatiuus autem in a productam terminat) declinationis primae.<milestone
+                    unit="page" n="p. 510 vol. III Keil"/> Quare? Quia omnia masculina uel feminina
+                uel communia tam Graeca quam Latina in a desinentia primae sunt declinationis
+                exceptis illis quae nascuntur a masculinis in ius terminantibus genetiuum, quae sunt
+                haec, una ulla nulla sola tota alia utra altera et quae ex his componuntur;
+                similiter et qua composita siqua nequa aliqua. Ea enim genetiuum et datiuum
+                masculinorum seruant suorum unde quidam non ad significationem sed ad declinationem
+                adtendentes pronomina ea esse putauerunt.</p>
+            <p> Reliquit quae pars orationis? Verbum. Quale, id est cuius modi? Indicatiui. Cuius
+                formae? Perfectae, coniugationis tertiae, significationis actiuae, numeri
+                singularis, figurae compositae. Ex quibus? Ex duobus integris re et liquit.
+                Separatim tamen re dici non potest: quod tamen quidam uolunt a retro uel rursus
+                esse. Quod si sit ex corrupto et integro inuenitur ea pars; liquit enim perfectum
+                est. Cuius temporis? Praeteriti. Quare linquo liqui facit praeteritum? Quia n
+                habentia ante eo uel quo abiecta n faciunt praeteritum: linquo liqui uinco uici;
+                similiter ab eis composita deuinco deuici conuinco conuici relinquo reliqui delinquo
+                deliqui derelinquo dereliqui et producunt i paenultimam in praeterito naturaliter.
+                Declina uerbum. Relinquo relinquis relinquit et cetera. Declina etiam passiuum.
+                Indicatiuo relinquor relinquebat relictus <milestone unit="page"
+                    n="p. 122 Passalacqua"/> sum uel fui relictus eram uel fueram relinquar;
+                imperatiuo relinquere. relinquatur relinquamur relinquimini relinquantur. Futuro
+                relinquitor tu relinquitor ille relinquiminor relinquantur uel relinquuntor;
+                optatiuo utinam relinquerer relictus essem uel fuissem relinquar, subiunctiuo cum
+                relinquar relinquerer relictus sim uel fuerim relictus essem uel fuissem relictus
+                ero uel fuero; infinita relinqui relictum esse uel fuisse relictum iri, gerundia uel
+                supina relinquendi relinquendo relinquendum relictum relictu, participia actiua
+                praesentis temporis relinquens futuri relicturus, passiua praeteriti relictus futuri
+                relinquendus, nomen uerbale relictor et relictrix ipsa res relictio. Potest tamen et
+                relictus dici sed quartae declinationis. Hinc deriuatur et reliquus reliqua reliquum
+                et reliquiae quod poetae interposita l relliquiae metri causa proferunt. Etiam
+                delinquo praeterlinquo; a deiinquo delictum pro peccatum quod delinquit officium
+                suum qui peccat.<milestone unit="page" n="p. 511 vol. III Keil"/></p>
+            <p>
+                <quote type="poetry">‛Turnus ut infractos aduerso Marte Latinos’</quote>
+            </p>
+            <p> Scande uersum. Turnusut infrac tosad uerso MarteLa tinos. Quot habet caesuras iste
+                uersus? Vnam semiquinariam, Turnus ut infractus. Quot figurarum est? Decem. Quare?
+                Quia habet duos dactylos et tres spondeos. Tracta singulos pedes. Tumusut dactylus
+                et cetera. Quot partes orationis habet iste uersus? Sex, Turnus ut infractos aduerso
+                Marte Latinos. Quot nomina? Quattuor, Turnus aduerso Marte Latinos. Quid aliud
+                habet? Vnum participium <milestone unit="page" n="p. 123 Passalacqua"/> infractos et
+                unum aduerbium ut. </p>
+            <p> Turnus quae pars orationis? Nomen. Quale? Proprium. Cuius est speciei? Vniuocum est.
+                Significat enim nomen proprium regis Rutulorum et appellatiuum piscis palustris. Fac
+                ab eo quod est Turnus deriuatiuum. Quomodo Saturnus Saturnius sic debet etiam Turnus
+                Turnius, patronymicum Turnides quomodo Priamus Priamides. Quare secundae est
+                declinationis Turnus Turni? In us correptam desinentia propria secundae sunt
+                declinationis excepto Venus Veneris: praeterea Ligus Liguris quod potest et proprium
+                esse et gentile; et, si sit proprium, masculinum est solum, hic Ligus huius Liguris,
+                si gentile est inuenitur commune, hic et haec Ligus Liguris. Quare Turnus Turne
+                facit uocatiuum? Quia omnia in us desinentia secundae in e faciunt uocatiuum
+                exceptis propriis quae i habent ante us, quae per apocopam proferunt uocatiuum, ut
+                Vergilius o Vergili pro Vergilie et Mercurius o Mercuri pro Mercurie (ideoque
+                accentus manet paenultimus quamuis breuis sit paenultima syllaba. Ex quibus enim
+                aliqua subtrahitur syllaba, si integra manet illa in qua est accentus, integrum
+                seruat etiam accentum, ut hic et haec Arpinatis perfectum circumflexum habuit
+                paenultima syllaba quae mansit in concisione: dicimus enim hic et haec Arpinas.
+                Similiter si dicamus munit pro muniuit circumflectitur uit quia integra dictione
+                supra se habuit circumilexum; sic etiam tuguri pro tugurii acutum debet habere) et
+                Terenti pro Terentie et Sallusti pro Sallustie. Euphoniae tamen causa uel metri est
+                quando nominatiuis utuntur pro uocatiuis ut deus pro deae et fluuius pro fluuie ut
+                Vergilius <lb/>
+                <quote type="poetry">‘corniger Hesperidum fluuius regnator aquarum’</quote><lb/> et
+                populus pro popule ut Lucanus <milestone unit="page" n="p. 512 vol. III Keil"/>
+                <lb/>
+                <quote type="poetry">‘degener o populus’</quote>. <lb/> Vnum autem inuenitur
+                appellatiuum solum quod et in i et in e uocatiuum profert ut filius o fili et filie. </p>
+            <p> Vt quae pars orationis est? Aduerbium. Quid est aduerbium? Pars orationis quae
+                adiecta uerbo significationem eius explanat atque <milestone unit="page"
+                    n="p. 124 Passalacqua"/> implet. Aduerbio quot accidunt? Tria species
+                significatio figura. Cuius est significationis? Hic temporalis, accipitur enim pro
+                postquam. Quando autem significat <foreign xml:lang="grc">ἵνα</foreign> Graecam
+                coniunctionem loco coniunctionis accipitur causalis. Est tamen etiam similitudinis
+                aduerbium; solet autem ei adici etiam i tam coniunctionem significanti quam
+                aduerbium. Adicitur ei etiam nam et inuenitur optandi aduerbium, utinam. Igitur ut
+                et uti significat aduerbium quidem quando tempus uel similitudinem uel qualitatem
+                siue interrogationem, id est quando quomodo, significat; quando uero <foreign
+                    xml:lang="grc">ἵνα</foreign>uel <foreign xml:lang="grc">ὅτι</foreign> Graecam
+                coniunctionem significat, coniunctionis loco accipitur. Compositum autem ab uti,
+                utinam, aduerbium est optandi ut diximus. Praeterea utique pro uidelicet adfirmandi
+                est aduerbium. Quem habet accentum? Vt et uti et utinam praepositiua grauantur per
+                omnes syllabas, subiunctiua autem generalem accentum seruant. Sciendum tamen quod ut
+                quoque inuenitur pro optatiuo aduerbio ut Terentius in Phormione <lb/>
+                <quote type="poetry">‘ut illum di deaeque omnes perdant’</quote>.</p>
+            <p>Cum uel quoque compositum tam ut quam uti similitudinis aduerbium faciunt uelut et
+                ueluti ut Virgilius <lb/>
+                <quote type="poetry">‘ac ueluti magno in populo’</quote>. </p>
+            <p> Infractos quae pars orationis? Participium. Quid est participium? Pars orationis
+                partem capiens nominis partem uerbi. Cuius est generis? Masculini, casus accusatiui,
+                temporis praeteriti significationis passiuae. Cuius est formae? Perfectae numeri
+                pluralis figurae compositae ex duobus integris. Et nota quod inueniuntur saepe
+                participia ex uerbis quae non ex duobus integris componuntur, integra in utraque
+                parte inuenta; ut infringor ex integro est et corrupto, tamen infractus ex duobus
+                integris fit. Ideoque <milestone unit="page" n="p. 125 Passalacqua"/> possumus non a
+                uerbis ea declinata accipere sed magis a sese composita. Similiter impingo impactus
+                contingo contactus. Similiter perficio perfeci deficio defeci conficio confeci. Nec
+                mirum in uerbis uel participiis hoc inueniri cum etiam in nominibus possunt
+                huiuscemodi compositiones esse; ut idem tam masculinum quam neutrum ex duobus
+                corruptis, eiusdem uero ex integro et corrupto et <milestone unit="page"
+                    n="p. 513 vol. III Keil"/> contrario alteruter ex duobus integris, alterutrius
+                ex corrupto et integro. Declina actiuum. Indicatiuo infringo infringebam infregi
+                infregeram infringam; imperatiuo infringe infringat infringamus infringite
+                infringant, futuro infringito tu infringito ille infringitote infringant uel
+                infringunto, optatiuo utinam infringerem infregissem infringam, subiunctiuo cum
+                infringam infringerem infregerim infregissem infregero, infinito infringere
+                infregisse infractum ire uel infracturum esse. Gerundia uel participialia
+                infringendi infringendo infringendum infractum infractu. Participia ueniunt ab
+                actiuo praesentis infringens futuri infracturus. Declina passiuum. Infringor
+                infringebar infractus sunt uel fui infractus eram uel fueram infringar, imperatiuo
+                praesenti infringere infringatur infringamur infringimini infringantur, futuro
+                infringitor tu infringitor ille infringiminor infringantur, optatiuo utinam
+                infringerer infractus essem uel fuissem infringar, subiunctiuo cum infringar
+                infringerer infractus sim uel fuerim infractus essem uel fuissem infractus ero uel
+                fuero, infinito infringi infractum esse uel fuisse infractum iri. Nomen uerbale
+                infractor femininum infractrix ipsa res infractio infractus et infractura.
+                Ostendimus etiam saepe quod participia actiua futuri temporis feminina etiam pre
+                ipsa re accipiuntur, ut pictura usura natura iunctura: sic etiam fractura. Rarissime
+                in or rerum nomina inueniuntur ex quibus magis uerba nascuntur non ex uerbis nomina
+                ut a labor laboro color coloro amor amo honor <milestone unit="page"
+                    n="p. 126 Passalacqua"/> honoro. Dic alia composita. Confringo perfringo
+                defringo suffringo effringo. Cur frange fregi facit? In go desinentia r antecedente
+                si sint simplicia praeteritum in si faciunt, ut mergo mersi spargo sparsi, alia uero
+                in xi, ut pingo pinxi tingo tinxi rego rexi: unde ex eo composita pergo perrexi
+                surgo surrexi exceptis lego legi et ex eo compositis quando eandem significationem
+                seruant, ut relego relegi perlege perlegi; mutata autem significatione in xi, ut
+                diligo dilexi intellego intellexi neglego neglexi. Excipitur similiter frango fregi
+                pango pegi uel pepigi ex quo impingo impegi; excipitur etiam tango tetigi et pungo
+                pupugi uel punxi et ago egi et ex eis compositis. Cur infractus? Quia omnia in gi
+                uel xi praeteritum perfectum facientia per ctus faciunt participium: legi lectus
+                dixi dictus tetigi tactus sanxi sanctus. Exipiuntur flexi flexus fluxi fluxus. </p>
+            <p> Aduerso quae pars orationis? Nomen hic quia caret tempore unde licet etiam
+                comparatiuum eius facere aduersior et superlatiuum <milestone unit="page"
+                    n="p. 514 vol. III Keil"/> aduersissimus. Quale est hoc nomen? Appellatiuum.
+                Cuius speciei? Adiectiuae qualitatis est et mobile et deriuatiuum a participio, id
+                est participiale. Fac ab eo aliud deriuatiuum. Aduersarius aduersaria aduersarium.
+                Declina uerbum. Aduerto aduertis aduertit et cetera. Dic eius frequentatiuum.
+                Aduersor aduersaris quod ab actiuo factum est deponens quamuis aduerto et aduertor
+                aliam significationem habeant. Scis autem quod omnia frequentatiua primae sunt
+                    <milestone unit="page" n="p. 127 Passalacqua"/> coniugationis et plerumque a
+                participio praeteriti solent fieri, uersus uerso aduersus aduersor aduersaris
+                exceptis in go uel in sco desinentibus. Illa enim a praesenti faciunt frequentatiua,
+                ut ago agito et lego legito et scisco sciscito et nosco noscito. Video enim uisis et
+                lacesso lacessis et arcesso arcessis non primae sed tertiae coniugationis
+                inueniuntur. Frequentatiua primae sunt coniugationis et inchoatiua tertiae,
+                meditatiua quartae. Dic compositum aliud ab eo quod est uerto. Aduerto conuerto
+                euerto subuerto animaduerto praeuerto reuerto (paene cum omnibus praepositionibus
+                indubitabilibus inuenitur) circumuerto anteuerto. Et notandum quod aduerbia quoque
+                inueniuntur non solum obliquis casibus nominum masculinorum uel femininorum sed
+                etiam ipsi nominatiuo similia ut aduersus, quod quidam, quia accusatiuo coniungitur,
+                magis praepositionem existimauerunt. Versus quoque suppositum localibus nominibus
+                aduerbium esse inuenitur, ut Italiam uersus Galliam uersus Hispaniam uersus Siciliam
+                uersus Graeciam uersus. Sallustius tamen etiam praepositionem ei anteposuit in
+                Catilinario <quote type="prose">‘in Galliam uersus’</quote>; exaduersum quoque
+                compositum ut Terentius in Phormione <lb/> <quote type="poetry">‘exaduersum tonstrina erat
+                    quaedam’</quote>. <lb/> A deuerto fit deriuatiuum deuerticulum: Terentius <lb/>
+                <quote type="poetry">‘postquam ad ipsum ueni deuerticulum’</quote>. <lb/>
+                Deversorium quoque dicitur locus in quo devertimus. Versus quoque litterarum
+                ordinatio inde dicitur vel quod vertimus stilum a fine ad initium <del>vel ab initio
+                    ad finem</del> vel quod antiqui a dextera parte in sinistram et a sinistra in
+                dexteram scribebant. Vertigo quoque et vertex a verto verbo fiunt et Vertumnus deus
+                et Verticordia <del>compositum</del> dea. </p>
+            <p>Marte quae pars orationis? Nomen. Quale? Proprium. Cuius speciei? Primitiuae. Fac ab
+                eo deriuatiuum. Martius Martia Martium; etiam solemus et Martiaticus Martiatica
+                Martiaticum dicere, unde stipendia militum <milestone unit="page"
+                    n="p. 515 vol. III Keil"/> Martiatica dicuntur. Inde deriuatur etiam Mauors ex
+                quo Mauortius. Dicitur tamen Maspiter quasi Martis <milestone unit="page"
+                    n="p. 128 Passalacqua"/>pater quomodo Diespiter hoc est diei pater Iuppiter. Hic
+                et haec Martialis et hoc Martiale: potest tamen et proprium esse Martialis. Quid
+                interest inter proprium Martialis et appellatiuum? Quod, si proprium sit, masculinum
+                est et ablatiuum in e terminat, si autem appellatiuum sit, commune est et ablatiuum
+                in i terminat quomodo Iuuenalis Felix. Cur Mars Martis? Quia in ls uel ns uel rs
+                desinentia interposita ti faciunt genetiuum, ut puls pultis ars artis mons montis,
+                exceptis differentiae causa frons, quando folium significat, frondis (frons enim
+                capitis frontis) et lens, quando pullos pediculorum significat, lendis, quando autem
+                significat legumen lens lentis. Praeterea glans glandis cuius quidam nominatiuum et
+                genetiuum similem esse uoluerunt. Libripens quoque, quia a pendo uerbo componitur,
+                consonantem uerbi seruauit libri pendis. Praeterea a corde composita d habent in
+                genetiuo secundum genetiuum simplicis, concors concordis discors discordis uecors
+                uecordis. </p>
+            <p> Latinos quae pars orationis? Nomen. Quale? Deriuatiuum generis masculini numeri
+                singularis figurae simplicis. Cuius speciei? Deriuatiuae, potest tamen esse et
+                proprium regis soceri Aeneae et gentile a Latio Latinus et possessiuum Latinus ager.
+                Latium autem uel a latendo uel a latitudine est nominatum. A Latino latinitas, a
+                Latio deriuatur etiam Latius et Latiaris. Fac compositum. Latinigena, quomodo
+                Troiugena Graiugena, sed in eis geminatio i mutauit sequentem i in u alternitatis
+                causa pro Troiigena et Graiigena Troiugena et Graiugena faciens. <milestone
+                    unit="page" n="p. 519 vol. III Keil"/>
+            </p>
+        </body>
+    </text>
+</TEI>

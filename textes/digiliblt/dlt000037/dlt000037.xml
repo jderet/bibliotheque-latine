@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Breviatio pedum</title>
+    <author/>
+    <respStmt>
+     <resp>transcodifica di base da rtf a xml-tei</resp>
+     <name>Piero Colombo - Step srl</name>
+    </respStmt>
+    <respStmt>
+     <resp>Testo </resp>
+     <name>Marinone, CD-GL, adeguato su edizione Morelli</name>
+    </respStmt>
+    <respStmt>
+     <resp>Adeguamento testo su nuova edizione</resp>
+     <name>Alice Borgna </name>
+    </respStmt>
+    <respStmt>
+     <resp>Controllo marcatura XML-TEI</resp>
+     <name>Alice Borgna </name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>digilibLT</publisher>
+    <pubPlace>Vercelli</pubPlace>
+    <date>2017</date>
+    <availability>
+     <p>
+      <ref target="http://creativecommons.org/licenses/by-nc-sa/3.0/it/"/>
+     </p>
+    </availability>
+    <idno>DLT000037</idno>
+   </publicationStmt>
+   <sourceDesc>
+    <p> Caesii Bassi De metris et Atilii Fortunatiani De metris Horatianis, a c. di G. Morelli,
+     Hildesheim 2011-2012 (Collectanea Grammatica Latina 11), vol.1, pp. 107-111</p>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc xmlns="http://www.tei-c.org/ns/1.0">
+   <projectDesc>
+    <p>digilibLT. Biblioteca digitale di testi latini tardoantichi.</p>
+    <p>Progetto diretto da Raffaella Tabacco (responsabile della ricerca) e Maurizio Lana</p>
+   </projectDesc>
+   <editorialDecl>
+    <p>
+     <hi rend="bold">Note di trascrizione e codifica del progetto digilibLT</hi>
+    </p>
+    <p>Abbiamo riportato solo il testo stabilito dall'edizione di riferimento non seguendone
+     l'impaginazione. Sono stati invece esclusi dalla digitalizzazione apparati, introduzioni, note
+     e commenti e ogni altro contenuto redatto da editori moderni.</p>
+    <p>I testi sono stati sottoposti a doppia rilettura integrale per garantire la massima
+     correttezza di trascrizione</p>
+    <p>Abbiamo normalizzato le U maiuscole in V seguendo invece l'edizione di riferimento per la
+     distinzione u/v minuscole.</p>
+    <p>Non è stato normalizzato l'uso delle virgolette e dei trattini.</p>
+    <p> Non è stata normalizzata la formattazione nell'intero <hi rend="italic">corpus</hi> :
+     grassetto, corsivo, spaziatura espansa. </p>
+    <p> Sono stati normalizzati e marcati nel modo seguente i diacritici. <lb/> espunzioni:
+     <![CDATA[<del>testo</del>]]> si visualizza [testo] <lb/> integrazioni: <![CDATA[<supplied>testo</supplied> si visualizza <testo>]]>
+     <lb/>
+     <hi rend="italic">loci desperati</hi> :
+     <![CDATA[ <unclear>testo</unclear> o <unclear/> testo]]> si visualizzano †testo† e †testo <lb/>
+     lacuna materiale: <![CDATA[<gap/>]]> si visualizza [...] <lb/> lacuna integrata dagli editori:
+     <![CDATA[<supplied><gap/></supplied> si visualizza <...>]]>
+    </p>
+    <p> Sono stati marcati i termini in lingua greca
+     <![CDATA[<foreign xml:lang="grc">αβγ</foreign>]]>
+    </p>
+    <p> Ulteriori informazioni sulle norme di trascrizione e codifica su <ref
+      target="http://digiliblt.lett.unipmn.it/upload/docs/note_di_trascrizione_e_di_codifica.pdf"
+      >Note di trascrizione e codifica di testi latini tardoantichi
+      [http://digiliblt.lett.unipmn.it/upload/docs/note_di_trascrizione_e_di_codifica.pdf]</ref>
+    </p>
+   </editorialDecl>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="la">Latino</language>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head>De pedibus</head>
+   <p>
+    <milestone unit="row" n="riga 2 vol. VI Keil"/> pedes disyllabi sunt numero quattuor. <lb/>
+    pyrrichius ex duabus breuibus temporum duum, ut deus; sed hunc alii
+    <supplied>h</supplied>egemona appellauerunt, alii dibrachyn, alii pariambum.<lb/> spondeus ex
+    duabus longis temporum quattuor, ut heros. <lb/> iambus ex breui et longa temporum trium, ut
+    dies. <lb/> trochaeus ex longa et breui temporum trium, ut Roma; sed hunc alii chorium
+    appellauerunt, alii c<supplied>h</supplied>ordacem. </p>
+   <p> pedes trisyllabi numero sunt octo. <lb/> tribrachys ex tribus breuibus temporum trium, ut
+    Helena; sed hunc alii trochicum appellauerunt, alii pygnoma, alii brachysyllabon: Cicero eundem
+     <supplied>in</supplied> Oratore etiam trochaeum appellauit. <lb/> molossus ex tribus longis
+    temporum sex, ut Aeneas; hunc alii hippion<del>a</del> appellauerunt. <lb/> bacchius ex breui et
+    duabus longis temporum quinque, ut Athenae. <lb/> palimbacchius ex duabus longis et breui
+    temporum quinque, ut natura. <lb/> anapaestus ex duabus breuibus et longa temporum quattuor, ut
+    nebulae. <lb/> dactylus ex longa et duabus breuibus temporum quattuor, ut Romulus. <lb/>
+    amphibrachys ex breui, longa et breui temporum quattuor, ut dicaris; et hunc alii mesiten, alii
+     scol<supplied>i</supplied>um appellauerunt. </p>
+   <p> creticus ex longa, breui et longa temporum quinque, ut sanitas; et hunc alii amphimacrum
+    appellant. </p>
+   <p> pedes tetrasyllabi <supplied>sunt</supplied> numero sedecim. <lb/> proceleumaticus, qui fit
+    ex duobus pyrrichiis, id est ex quattuor breuibus syllabis, et est temporum quattuor, ut
+    habilior. <lb/> dispondeus, qui fit ex duobus spondeis, id est ex <milestone unit="page"
+     n="p. 308 vol. VI Keil"/> quattuor longis syllabis, temporum octo, ut Maecenates. <lb/> ionicus
+    minor, qui fit ex pyrrichio et spondeo, id est ex duabus breuibus syllabis et duabus longis,
+    temporum sex, ut Diomedes. <lb/> ionicus maior, qui fit ex spondeo et pyrrichio, id est ex
+    duabus longis syllabis et duabus breuibus, temporum sex, ut Iunonius. <lb/> antispastus, qui fit
+    ex iambo et trochaeo, id est ex breui, duabus longis <supplied>syllabis</supplied> et breui,
+    temporum sex, ut Clyt<supplied>a</supplied>emnestra. </p>
+   <p> choriambus, qui fit ex trochaeo sive chorio et iambo, id est ex longa, duabus breuibus
+    syllabis et longa, temporum sex, ut nobilitas. <lb/> di<del>s</del>iambus, qui fit ex duobus
+    iambis, id est ex breui et longa et item breui et longa syllabis, temporum sex, ut propinquitas.
+    <lb/> ditrochaeus, qui et dichorius, qui fit ex duobus trochaeis siue choriis, id est ex longa
+     <supplied>et</supplied> breui et item longa et breui syllabis, temporum sex, ut dimicare. <lb/>
+    epitritus primus, qui fit ex iambo et spondeo, id est <supplied>ex</supplied> breui et tribus
+    longis syllabis, temporum septem, ut uenenati. <lb/> epitritus secundus, qui fit ex trochaeo et
+    spondeo, id est ex longa et breui et duabus longis syllabis, temporum septem, ut Nicomedes.
+    <lb/> epitritus tertius, qui fit ex spondeo et iambo, id est ex duabus longis
+     <supplied>et</supplied> breui et longa syllabis, temporum septem, ut heroici. <lb/> epitritus
+    quartus, qui fit ex spondeo et trochaeo, id est ex tribus longis et breui syllabis, temporum
+    septem, ut nutritura. <lb/> paeon primus, qui fit ex trochaeo et pyrrichio, id est ex longa et
+    tribus breuibus syllabis, temporum quinque, ut Demodocus. <lb/> paeon secundus, qui fit ex iambo
+    et pyrrichio, id est ex breui <supplied>et</supplied> longa et duabus breuibus syllabis,
+    temporum quinque, ut idoneus. <lb/> paeon tertius, qui fit ex pyrrichio et trochaeo, id est ex
+    duabus breuibus <supplied>et</supplied> longa et breui <supplied>syllabis</supplied>, temporum
+    quinque, ut Menedemus. <lb/> paeon quartus, qui fit ex pyrrichio et iambo, id est ex tribus
+    breuibus et longa syllabis, temporum quinque, ut celeritas. <lb/> his adiciunt multi unum
+    pentasyllabum, quem Cicero dochmium uocat, qui constat ex breui <supplied>et</supplied> duabus
+    longis <supplied>et</supplied> breui et longa syllabis, ut est senatoriae et, ut idem Cicero
+    posuit, <quote type="prose">amicos tenes</quote>. </p>
+  </body>
+ </text>
+</TEI>

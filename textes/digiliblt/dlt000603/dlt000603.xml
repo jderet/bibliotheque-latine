@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>De compositionibus</title>
+                <author/>
+                <respStmt>
+                    <resp>transcodifica di base da rtf a xml-tei</resp>
+                    <name>Piero Colombo - Step srl</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Testo </resp>
+                    <name>Marinone, CD-GL, adeguato su edizione Morelli</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Adeguamento testo su nuova edizione</resp>
+                    <name>Alice Borgna </name>
+                </respStmt>
+                <respStmt>
+                    <resp>Controllo marcatura XML-TEI</resp>
+                    <name>Alice Borgna </name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>digilibLT</publisher>
+                <pubPlace>Vercelli</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <p>
+                        <ref target="http://creativecommons.org/licenses/by-nc-sa/3.0/it/"/>
+                    </p>
+                </availability>
+                <idno>DLT000603</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p> Caesii Bassi De metris et Atilii Fortunatiani De metris Horatianis, a c. di G.
+                    Morelli, Hildesheim 2011-2012 (Collectanea Grammatica Latina 11), vol.1, pp.
+                    112-118</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc xmlns="http://www.tei-c.org/ns/1.0">
+            <projectDesc>
+                <p>digilibLT. Biblioteca digitale di testi latini tardoantichi.</p>
+                <p>Progetto diretto da Raffaella Tabacco (responsabile della ricerca) e Maurizio
+                    Lana</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>
+                    <hi rend="bold">Note di trascrizione e codifica del progetto digilibLT</hi>
+                </p>
+                <p>Abbiamo riportato solo il testo stabilito dall'edizione di riferimento non
+                    seguendone l'impaginazione. Sono stati invece esclusi dalla digitalizzazione
+                    apparati, introduzioni, note e commenti e ogni altro contenuto redatto da
+                    editori moderni.</p>
+                <p>I testi sono stati sottoposti a doppia rilettura integrale per garantire la
+                    massima correttezza di trascrizione</p>
+                <p>Abbiamo normalizzato le U maiuscole in V seguendo invece l'edizione di
+                    riferimento per la distinzione u/v minuscole.</p>
+                <p>Non è stato normalizzato l'uso delle virgolette e dei trattini.</p>
+                <p> Non è stata normalizzata la formattazione nell'intero <hi rend="italic"
+                        >corpus</hi> : grassetto, corsivo, spaziatura espansa. </p>
+                <p> Sono stati normalizzati e marcati nel modo seguente i diacritici. <lb/>
+                    espunzioni: <![CDATA[<del>testo</del>]]> si visualizza [testo] <lb/>
+                    integrazioni: <![CDATA[<supplied>testo</supplied> si visualizza <testo>]]>
+                    <lb/>
+                    <hi rend="italic">loci desperati</hi> :
+                    <![CDATA[ <unclear>testo</unclear> o <unclear/> testo]]> si visualizzano †testo†
+                    e †testo <lb/> lacuna materiale: <![CDATA[<gap/>]]> si visualizza [...] <lb/>
+                    lacuna integrata dagli editori:
+                    <![CDATA[<supplied><gap/></supplied> si visualizza <...>]]>
+                </p>
+                <p> Sono stati marcati i termini in lingua greca
+                    <![CDATA[<foreign xml:lang="grc">αβγ</foreign>]]>
+                </p>
+                <p> Ulteriori informazioni sulle norme di trascrizione e codifica su <ref
+                        target="http://digiliblt.lett.unipmn.it/upload/docs/note_di_trascrizione_e_di_codifica.pdf"
+                        >Note di trascrizione e codifica di testi latini tardoantichi
+                        [http://digiliblt.lett.unipmn.it/upload/docs/note_di_trascrizione_e_di_codifica.pdf]</ref>
+                </p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la">Latino</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head>
+                <hi rend="bold"> De compositionibus</hi>
+            </head>
+            <div type="paragraph" n="1">
+                <p> ex trochaeo et molosso, id est ex longa <supplied>una</supplied> et breui
+                        <supplied>una</supplied> et longis tribus, ut <hi rend="expanded">dolore
+                        compulsum</hi>.</p>
+            </div>
+            <div type="paragraph" n="2">
+                <p> ex trochaeo et ionico minore, id est ex longa <supplied>una</supplied> et
+                    breuibus tribus et longis duabus, <hi rend="expanded">regina superorum.</hi>.
+                </p>
+            </div>
+            <div type="paragraph" n="3">
+                <p> ex trochaeo et <milestone unit="page" n="p. 309 vol. VI Keil"/> choriambo, id
+                    est ex longa una et breui una et longa una et breuibus duabus et longa una, <hi
+                        rend="expanded">indigna perpetior.</hi>
+                </p>
+            </div>
+            <div type="paragraph" n="4">
+                <p> ex trochaeo et ionico maiore, id est ex longa una et breui una et longis duabus
+                    et breuibus duabus, <hi rend="expanded">astra caelestia</hi>. </p>
+            </div>
+            <div type="paragraph" n="5">
+                <p> ex trochaeo et pentasyllabo, cuius media longa sit, id est ex longa una
+                        <supplied>et</supplied> breuibus tribus <supplied>et</supplied> longa una et
+                    breuibus duabus, <hi rend="expanded">maiestate miserabili.</hi></p>
+            </div>
+            <div type="paragraph" n="6">
+                <p> ex tribrachy et molosso, id est ex breuibus tribus et longis tribus, <hi
+                        rend="expanded">deserere compellor.</hi></p>
+            </div>
+            <div type="paragraph" n="7">
+                <p> ex tribrachy et ionico minore, id est ex brevibus quinque et longis duabus, <hi
+                        rend="expanded">incredibilia tolerando.</hi></p>
+            </div>
+            <div type="paragraph" n="8">
+                <p> ex tribrachy et choriambo, id est ex breuibus tribus et longa una et breuibus
+                    duabus et longa una, <hi rend="expanded">uaria concupiens</hi>. </p>
+            </div>
+            <div type="paragraph" n="9">
+                <p> ex tribrachy et ionico maiore, id est ex breuibus tribus et longis duabus et
+                    breuibus duabus, <hi rend="expanded">rapior in turbines</hi>. </p>
+            </div>
+            <div type="paragraph" n="10">
+                <p> ex tribrachy et pentasyllabo, cuius media longa sit, id est ex breuibus quinque
+                        <supplied>et</supplied> longa una <supplied>et</supplied> breuibus duabus,
+                        <hi rend="expanded">temere reuocabitur</hi>. </p>
+                <p> item secundum genus compositionis. </p>
+            </div>
+            <div type="paragraph" n="11">
+                <p> ex spondeo et bacchio, id est ex longis duabus <supplied>et</supplied> breui una
+                        <supplied>et</supplied> longis duabus, <hi rend="expanded">hostes
+                        subacti</hi>. </p>
+            </div>
+            <div type="paragraph" n="12">
+                <p> ex spondeo et paeone quarto, id est ex longis duabus <supplied>et</supplied>
+                    breuibus tribus <supplied>et</supplied> longa una, <hi rend="expanded">bellum
+                        reficiunt</hi>. </p>
+            </div>
+            <div type="paragraph" n="13">
+                <p> ex spondeo et paeone secundo, id est ex longis duabus <supplied>et</supplied>
+                    breui una <supplied>et</supplied> longa una et breuibus duabus, <hi
+                        rend="expanded">armis repleuerat</hi>. </p>
+            </div>
+            <div type="paragraph" n="14">
+                <p> ex anapaesto et bacchio, id est ex breuibus duabus <supplied>et</supplied> longa
+                    una <supplied>et</supplied> breui una et longis duabus, <hi rend="expanded"
+                        >aditus sonantes</hi>. </p>
+            </div>
+            <div type="paragraph" n="15">
+                <p>ex anapaesto et paeone quarto, id est ex breuibus duabus <supplied>et</supplied>
+                    longa una <supplied>et</supplied> breuibus tribus <supplied>et</supplied> longa
+                    una, <hi rend="expanded">pedites refugiunt</hi>. </p>
+            </div>
+            <div type="paragraph" n="16">
+                <p> ex anapaesto et paeone secundo, id est ex breuibus duabus et longa una
+                        <supplied>et</supplied> breui una <supplied>et</supplied> longa una
+                        <supplied>et</supplied> breuibus duabus, <hi rend="expanded">iaculis
+                        frequentibus</hi>. </p>
+            </div>
+            <div type="paragraph" n="17">
+                <p>ex amphimacro et spondeo, id est ex longa una <supplied>et</supplied> breui una
+                    et longis tribus, <hi rend="expanded">obuios sternunt</hi>. </p>
+            </div>
+            <div type="paragraph" n="18">
+                <p>ex amphimacro et anapaesto, id est ex longa una <supplied>et</supplied> breui una
+                        <supplied>et</supplied> longa una <supplied>et</supplied> breuibus duabus et
+                    longa una, <hi rend="expanded">comminus gladiis</hi>. </p>
+            </div>
+            <div type="paragraph" n="19">
+                <p> ex amphimacro et dactylo, id est ex longa una <supplied>et</supplied> breui una
+                        <supplied>et</supplied> longis duabus et breuibus duabus, <hi
+                        rend="expanded">uictoria praediti</hi>. </p>
+            </div>
+            <div type="paragraph" n="20">
+                <p> ex amphimacro et bacchio, id est ex longa una <supplied>et</supplied> breui una
+                    et longa una et breui una et longis duabus, <hi rend="expanded">hostibus
+                        repulsis</hi>. </p>
+            </div>
+            <div type="paragraph" n="21">
+                <p> ex palimbacchio et spondeo, id est ex longis duabus et breui una et longis
+                    duabus, <hi rend="expanded">praeclara uirtus</hi>. </p>
+            </div>
+            <div type="paragraph" n="22">
+                <p>ex palimbacchio et anapaesto, id est ex <milestone unit="page"
+                        n="p. 310 vol. VI Keil"/> longis duabus et breuibus tribus et longa una, <hi
+                        rend="expanded">prudentis animo</hi>. </p>
+            </div>
+            <div type="paragraph" n="23">
+                <p>ex palimbacchio et dactylo, id est <supplied>ex</supplied> longis duabus et breui
+                    una et longa una et breuibus duabus, <hi rend="expanded">laudanda iugiter</hi>.
+                </p>
+            </div>
+            <div type="paragraph" n="24">
+                <p>ex paeone tertio et spondeo, id est ex breuibus duabus <supplied>et</supplied>
+                    longa una et breui una et longis duabus, <hi rend="expanded">repetebat
+                        actus</hi>. </p>
+            </div>
+            <div type="paragraph" n="25">
+                <p>ex paeone tertio et anapaesto, id est ex breuibus duabus <supplied>et</supplied>
+                    longa una et breuibus tribus et longa una, <hi rend="expanded">superatus
+                        animus</hi>. </p>
+            </div>
+            <div type="paragraph" n="26">
+                <p> ex paeone tertio et dactylo, id est ex breuibus duabus et longa una
+                        <supplied>et</supplied> breui una <supplied>et</supplied> longa una et
+                    breuibus duabus, <hi rend="expanded">aliena quaeritans</hi>. </p>
+            </div>
+            <div type="paragraph" n="27">
+                <p>ex amphibrachy et spondeo, id est ex breui una <supplied>et</supplied> longa una
+                    et breui una et longis duabus, <hi rend="expanded">repulsus hostis</hi>. </p>
+            </div>
+            <div type="paragraph" n="28">
+                <p>ex amphibrachy et anapaesto, id est ex breui una et longa una et breuibus tribus
+                    et longa una, <hi rend="expanded">repente capitur</hi>. </p>
+            </div>
+            <div type="paragraph" n="29">
+                <p>ex amphibrachy et dactylo, id est ex breui una <supplied>et</supplied> longa una
+                    et breui una et longa una et breuibus duabus, <hi rend="expanded">parantur
+                        agmina</hi>.</p>
+            </div>
+            <div type="paragraph" n="30">
+                <p>ex spondeo et iambo, id est ex longis duabus <supplied>et</supplied> breui una et
+                    longa una, <hi rend="expanded">causas uidet</hi>.</p>
+            </div>
+            <div type="paragraph" n="31">
+                <p> ex spondeo et tribrachy, id est ex longis duabus et breuibus tribus, <hi
+                        rend="expanded">sumptus temere</hi>. </p>
+            </div>
+            <div type="paragraph" n="32">
+                <p>ex anapaesto et iambo, id est ex breuibus duabus <supplied>et</supplied> longa
+                    una <supplied>et</supplied> breui una et longa una, <hi rend="expanded">fremitus
+                        grauis</hi>. </p>
+            </div>
+            <div type="paragraph" n="33">
+                <p>ex anapaesto et tribrachy, id est ex breuibus duabus <supplied>et </supplied>
+                    longa una et breuibus tribus, <hi rend="expanded">trepidi fugiunt</hi>. </p>
+            </div>
+            <div type="paragraph" n="34">
+                <p> ex spondeo, iambo et spondeo, id est ex longis duabus <supplied>et</supplied>
+                    breui una et longis tribus, <hi rend="expanded">cuncti cauent bellum</hi>. </p>
+            </div>
+            <div type="paragraph" n="35">
+                <p>ex spondeo, iambo et anapaesto, id est ex longis duabus <supplied>et</supplied>
+                    breui una et longa una et breuibus duabus et longa una, <hi rend="expanded"
+                        >uicti malis trepidant</hi>. </p>
+            </div>
+            <div type="paragraph" n="36">
+                <p>ex spondeo, iambo et dactylo, id est ex longis duabus
+                    <supplied>et</supplied>breui una <supplied>et</supplied> longis duabus et
+                    breuibus duabus, <hi rend="expanded">rostris secant gurgites</hi>. </p>
+            </div>
+            <div type="paragraph" n="37">
+                <p> ex duobus iambis et spondeo, id est ex breui una <supplied>et</supplied> longa
+                    una <supplied>et</supplied> breui una et longis tribus, <hi rend="expanded"
+                        >bonos docet ciues</hi>. </p>
+            </div>
+            <div type="paragraph" n="38">
+                <p><supplied>ex</supplied> duobus iambis et anapaesto, id est ex breui una et longa
+                    una et breui una et longa una et breuis duabus et longa una U ‒ U ‒ UU ‒. </p>
+            </div>
+            <div type="paragraph" n="39">
+                <p>
+                    <supplied>et</supplied> ex duobus iambis et dactylo, id est ex breui una
+                        <supplied>et</supplied> longa una <supplied>et</supplied> breui una et
+                    longis duabus et breuibus duabus, <hi rend="expanded">manu struit moenia</hi>.
+                </p>
+            </div>
+            <div type="paragraph" n="40">
+                <p> ex trisyllabo cuius media breuis sit, id est <del>ex</del> cretico, et iambo et
+                    spondeo, id est ex longa una et breui una et longa una et breui una et longis
+                    tribus, <hi rend="expanded">proelium cupit fortis</hi>. </p>
+            </div>
+            <div type="paragraph" n="41">
+                <p>ex trisyllabo cuius media breuis sit, id est cretico, <supplied>et</supplied>
+                    iambo et anapaesto, id est ex longa una <supplied>et</supplied> breui una
+                        <supplied>et</supplied> longa una <supplied>et</supplied> breui una
+                        <supplied>et</supplied> longa una et breuibus duabus et longa una, <hi
+                        rend="expanded">gurgites secant trepidi</hi>. </p>
+            </div>
+            <div type="paragraph" n="42">
+                <p>ex <milestone unit="page" n="p. 311 vol. VI Keil"/> trisyllabo cuius media breuis
+                    sit, id est <del>ex</del> cretico, <supplied>et</supplied> iambo et dactylo, id
+                    est ex longa una <supplied>et</supplied> breui una et longa una et breui una et
+                    longis duabus et breuibus duabus, <hi rend="expanded">turbines timet
+                        fluctuum</hi>. </p>
+            </div>
+            <div type="paragraph" n="43">
+                <p>ex trisyllabo cuius media breuis sit, id est cretico,et trochaeo et spondeo, id
+                    est ex longa una et breui una et longis duabus et breui una et longis duabus <hi
+                        rend="expanded"><unclear>Laribus</unclear> auget urbem</hi>. </p>
+            </div>
+            <div type="paragraph" n="44">
+                <p>ex spondeo et epitrito primo, id est ex longis duabus et breui una et longis
+                    tribus, <hi rend="expanded">pacem repromisit</hi>. </p>
+            </div>
+            <div type="paragraph" n="45">
+                <p>ex spondeo et epitrito secundo, id est ex longis tribus <supplied>et</supplied>
+                    breui una et longis duabus, <hi rend="expanded">bellum suscitauit</hi>. </p>
+            </div>
+            <div type="paragraph" n="46">
+                <p> ex trisyllabo cuius media breuis sit, id est cretico, et epitrito primo, id est
+                        <supplied>ex</supplied> longa una et breui una et longa una et breui una et
+                    longis tribus, <hi rend="expanded">hostibus resistentes</hi>. </p>
+            </div>
+            <div type="paragraph" n="47">
+                <p> ex trisyllabo cuius media breuis sit, id est cretico, et epitrito secundo, id
+                    est ex longa una <supplied>et</supplied> breui una et longis duabus et breui una
+                    et longis duabus, <hi rend="expanded">exercitum compulerunt</hi>. </p>
+            </div>
+            <div type="paragraph" n="48">
+                <p> ex iambo et epitrito primo, id est ex breui una et longa una et breui una et
+                    longis tribus, <hi rend="expanded">fugam capessebant</hi>. </p>
+            </div>
+            <div type="paragraph" n="49">
+                <p>ex iambo et epitrito secundo, id est ex breui una et longis duabus et breui una
+                    et longis duabus, <hi rend="expanded">faces sustulerunt</hi>. </p>
+            </div>
+            <div type="paragraph" n="50">
+                <p> ex spondeo et pentasyllabo cuius duae primae breues sint, <hi rend="expanded"
+                        >iustus rationalis</hi>, id est duae primae longae, duae consequentes breues
+                    et tres ultimae longae, cuius exemplum sursum. </p>
+            </div>
+            <div type="paragraph" n="51">
+                <p>ex spondeo et pentasyllabo cuius secunda breuis sit, <hi rend="expanded"> multum
+                            praeferebant<supplied>ur</supplied></hi>, id est tres primae longae,
+                    quarta breuis et tres ultimae longae, cuius exemplum sursum. </p>
+            </div>
+            <div type="paragraph" n="52">
+                <p>ex trisyllabo cuius media breuis sit, id est cretico, et pentasyllabo cuius
+                        <supplied>prima et</supplied> secunda breues si<supplied>n</supplied>t, <hi
+                        rend="expanded">moenium faciendorum</hi>, id est ex prima longa, secunda
+                    breui, tertia longa, quarta et quinta breui<supplied>bus</supplied> et tribus
+                    ultimis longis, cuius exemplum sursum est.</p>
+            </div>
+            <div type="paragraph" n="53">
+                <p>Ex trisyllabo cuius media brevis sit, id est cretico, et pentasyllabo cuius
+                    secunda brevis sit, <hi rend="expanded">instantia
+                            comprobatur<supplied>us</supplied></hi>, id est ex prima longa, secunda
+                    brevi, tertia et quarta longi<supplied>s</supplied>, <supplied>quinta
+                        brevi</supplied> et tribus ultimis longis, cuius exemplum sursum est </p>
+            </div>
+            <div type="paragraph" n="54">
+                <p>ex iambo et pentasyllabo, cuius duae primae breues sint, <hi rend="expanded">
+                        rates reparabantur</hi>, id est ex prima breui, secunda longa, tertia et
+                    quarta breui<supplied>bus</supplied> et tribus ultimis longis, <supplied>cuius
+                        exemplum sursum est</supplied>. </p>
+            </div>
+            <div type="paragraph" n="55">
+                <p>ex iambo et pentasyllabo cuius secunda breuis sit, <hi rend="expanded"> bonus
+                        consulebatur</hi>, id est <supplied>ex</supplied> prima <milestone
+                        unit="page" n="p. 312 vol. VI Keil"/> breui et secunda et tertia longis et
+                    quarta breui et tribus ultimis longis, cuius exemplum sursum est. </p>
+            </div>
+        </body>
+    </text>
+</TEI>

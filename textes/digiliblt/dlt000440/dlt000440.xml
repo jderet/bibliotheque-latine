@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title> De orthographia liber</title>
+    <author>Scaurus</author>
+    <respStmt>
+     <resp>transcodifica di base da rtf a xml-tei</resp>
+     <name>Piero Colombo - step srl</name>
+    </respStmt>
+    <respStmt>
+     <resp>Testo </resp>
+     <name>Marinone, GL-CD adeguato su ed. Biddau </name>
+    </respStmt>
+    <respStmt>
+     <resp>Adeguamento testo su nuova edizione</resp>
+     <name>Alice Borgna </name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>digilibLT</publisher>
+    <pubPlace>Vercelli</pubPlace>
+    <date>2017</date>
+    <availability>
+     <p>
+      <ref target="http://creativecommons.org/licenses/by-nc-sa/3.0/it/"/>
+     </p>
+    </availability>
+    <idno>DLT000440</idno>
+   </publicationStmt>
+   <sourceDesc>
+    <p><hi rend="italic">De orthographia liber</hi>, introduzione, testo critico, traduzione e
+     commento a cura di Federico Biddau (Collectanea Grammatica Latina), Hildesheim 2008</p>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc xmlns="http://www.tei-c.org/ns/1.0">
+   <projectDesc>
+    <p>digilibLT. Biblioteca digitale di testi latini tardoantichi.</p>
+    <p>Progetto diretto da Raffaella Tabacco (responsabile della ricerca) e Maurizio Lana</p>
+   </projectDesc>
+   <editorialDecl>
+    <p>
+     <hi rend="bold">Note di trascrizione e codifica del progetto digilibLT</hi>
+    </p>
+    <p>Abbiamo riportato solo il testo stabilito dall'edizione di riferimento non seguendone
+     l'impaginazione. Sono stati invece esclusi dalla digitalizzazione apparati, introduzioni, note
+     e commenti e ogni altro contenuto redatto da editori moderni.</p>
+    <p>I testi sono stati sottoposti a doppia rilettura integrale per garantire la massima
+     correttezza di trascrizione</p>
+    <p>Abbiamo normalizzato le U maiuscole in V seguendo invece l'edizione di riferimento per la
+     distinzione u/v minuscole.</p>
+    <p>Non è stato normalizzato l'uso delle virgolette e dei trattini.</p>
+    <p> Non è stata normalizzata la formattazione nell'intero <hi rend="italic">corpus</hi> :
+     grassetto, corsivo, spaziatura espansa. </p>
+    <p> Sono stati normalizzati e marcati nel modo seguente i diacritici. <lb/> espunzioni:
+     <![CDATA[<del>testo</del>]]> si visualizza [testo] <lb/> integrazioni: <![CDATA[<supplied>testo</supplied> si visualizza <testo>]]>
+     <lb/>
+     <hi rend="italic">loci desperati</hi> :
+     <![CDATA[ <unclear>testo</unclear> o <unclear/> testo]]> si visualizzano †testo† e †testo <lb/>
+     lacuna materiale: <![CDATA[<gap/>]]> si visualizza [...] <lb/> lacuna integrata dagli editori:
+     <![CDATA[<supplied><gap/></supplied> si visualizza <...>]]>
+    </p>
+    <p> Sono stati marcati i termini in lingua greca
+     <![CDATA[<foreign xml:lang="grc">αβγ</foreign>]]>
+    </p>
+    <p> Ulteriori informazioni sulle norme di trascrizione e codifica su <ref
+      target="http://digiliblt.lett.unipmn.it/upload/docs/note_di_trascrizione_e_di_codifica.pdf"
+      >Note di trascrizione e codifica di testi latini tardoantichi
+      [http://digiliblt.lett.unipmn.it/upload/docs/note_di_trascrizione_e_di_codifica.pdf]</ref>
+    </p>
+   </editorialDecl>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="la">Latino</language>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head>De orthographia</head>
+   <div type="section" n="1">
+    <p>
+     <supplied><gap/></supplied> Ortographia igitur est ratio recte syllabis scribendi. </p>
+   </div>
+   <div type="section" n="2">
+    <p>
+     <milestone unit="par" n="1"/> Scribendi autem ratio quattuor modis uitiatur: per adiectionem,
+     detractionem, inmutationem, annexionem. <lb/>
+     <milestone unit="par" n="2"/> Per adiectionem, ut cum querelam per duo l scribunt, cum querulus
+     sit, non querullus. <lb/>
+     <milestone unit="par" n="3.1"/> Per detractionem, <supplied>ut</supplied> cum haedus sine
+     aspiratione scribitur, cum alioqui cum ea debeat, <milestone unit="par" n="3.2"/> quoniam apud
+     antiquos faedus sit dictus, et ubi illi f litteram posuerunt, nos h substituimus: ut quod illi
+     fordeum dicebant nos hordeum, fariolum quem nos hariolum, similiter faedum quem nunc nos haedum
+     dicimus. <lb/>
+     <milestone unit="par" n="4"/> Per immutationem, ut cum at coniunctionem per d scribunt et
+     eandem, quotiens praepositio sit, per t, cum alioqui e contrario debeat fieri. <lb/>
+     <milestone unit="par" n="5.1"/> Per <milestone unit="page" n="p. 12 vol. VII Keil"/>
+     annexionem, ut cum in uerbo nescio s litteram priori syllabae iungunt, cum posterioris initium
+     esse debeat: est enim nescio non scio; <milestone unit="par" n="5.2"/> nam ne pro non positum
+     est apud antiquos , <supplied>quod</supplied> significat nefrendes <del>porcos qui sunt sine
+      dentibus</del>, id est qui fabam frendere non possunt; nesapus qui non sapit, ita et nescio
+     non scio, diductis in uerbum et aduerbium syllabis. </p>
+   </div>
+   <div type="section" n="3">
+    <p>
+     <milestone unit="par" n="1"/> Recorrigitur uero regulis tribus, historia, originatione, quam
+     Graeci <foreign xml:lang="grc">ἐτυμολογίαν </foreign> appellant, proportione, quae
+      Graece<foreign xml:lang="grc"> ἀναλογία</foreign> dicitur. <lb/>
+     <milestone unit="par" n="2"/> Et historia quidem, ut cum sed per <supplied>d</supplied>
+     nouissimam litteram scribimus, quoniam antiqui sedum dixerunt et per abscisionem coniunctionis
+     pars remanserit. <lb/>
+     <milestone unit="par" n="3"/>
+     <del>at</del> Originatione, ut cum dicimus inchoare cum aspiratione scribendum, quoniam a chao
+     dictum, quod fuerit initium omnium rerum. <lb/>
+     <milestone unit="par" n="4.1"/> Proportione, ut cum dicimus equum et seruum et similia debere
+     scribi, quanquam antiqui per uo scripserunt, quoniam scierunt uocalem non posse geminari
+     credebantque et hanc litteram geminatam utroque loco in sua potestate perseuerare, ignorantes
+     eam praepositam uocali consonantis uice fungi et poni pro ea littera quae sit ϝ; <milestone
+      unit="par" n="4.2"/> deinde, quod omnia nomina feminina nominatiuo singulari a littera finita,
+     quotiens in masculinum transeunt, seruatis praecedentibus litteris nouissimum a in u uertunt et
+     assumta s littera contrarium sexum significant, ut iusta iustus, casta castus, pia pius, ita et
+     equa et serua seruatis praecedentibus litteris et u pro a substituto equus et seruus et equum
+     et seruum per duo u, non per unum u efficere; <milestone unit="par" n="4.3"/> excepto uno auia
+     auus, unde apparet auium debuisse dici. <milestone unit="page" n="p. 13 vol. VII Keil"/>
+    </p>
+   </div>
+   <div type="section" n="4">
+    <p>
+     <milestone unit="par" n="1"/> Redditis ergo uitiorum modis et emendationis regula exposita,
+     antequam ad ea ueniamus, circa quae scribentium error argui solet, necessarium putamus ante
+     cognationem explicare litterarum, quoniam huius quoque notitia haesitantibus saepe succurrat. <lb/>
+     <milestone unit="par" n="2"/> Vocales itaque inter se mutuis uicibus in declinatione funguntur,
+     ut ago egi, tango tetigi, salit exilit, salsus insulsus; quod non minus in extremitatibus
+     nominum apparet, cum iustus iusti iusto iuste dicimus uni litterae subinde succedentibus ceteris.<lb/>
+     <milestone unit="par" n="3"/> Nec minus consonantes, ut f et h: utraque enim
+      <supplied>est</supplied> flatus; quare quem antiqui fircum, nos hircum, et quam Falisci habam,
+     nos fabam appellamus, et quem antiqui fariolum, nos hariolum. <lb/>
+     <milestone unit="par" n="4.1"/> Item l et d et r et s, cuius rei maximum argumentum est quod
+     balbi, qui r exprimere non possunt, aut l dicunt aut s; nec minus quod capra per deminutionem
+     capella dicitur et frater fratellus; <milestone unit="par" n="4.2"/> item Furios dicimus quos
+     antiqui Fusios, et aras quas illi asas, et Lares quos Lases, item sellam quam illi seddam
+      <del>et attulit attinet t pro d substituto</del>. <lb/>
+     <milestone unit="par" n="5"/> M deinde et n consentiunt et paene idem sonant, ut
+     distinguendorum sonorum utriusque litterae causa <unclear>dicere antiqui praepositae l quam n
+      maluerunt</unclear>; hoc probant etiam Graeci, qui, ubi nos m litteram ponimus, n ponunt, ut
+     graphium <milestone unit="page" n="p. 14 vol. VII Keil"/><foreign xml:lang="grc"
+      >γραφεῖον</foreign> et salum <foreign xml:lang="grc">σάλον</foreign> et similia. <lb/>
+     <milestone unit="par" n="6"/> X littera cognata <supplied>est cum</supplied> c et g, quod
+     lingua paullum sublata hae dicuntur, ut ab eo quod est lux et lex dicimus lucis et legis. <lb/>
+     <milestone unit="par" n="7.1"/> B cum p et m consentit, quoniam origo eorum non sine labrorum
+     coniunctione respondet; a quo quem Graeci <foreign xml:lang="grc">Πυρρίαν </foreign> nostri
+     Burriam, et quem Pyrrhum antiqui Burrum et Palatium <supplied>Balatium</supplied>, item
+     Publicolam Poplicolam; et alii scamillum, alii scabillum dicunt; <milestone unit="par" n="7.2"
+     /> aut cum ab eadem uoce duae gignuntur, ut ab eo quod est princeps et caeleps principis et
+     caelibis, nec minus e contrario in uerbis, cum carpo et scribo, carpsi et scripsi proferimus. <lb/>
+     <milestone unit="par" n="8"/> C cognationem habet cum g, et ideo alii dicunt gaunacem, alii
+     caunacem, item camellum gamellum. <supplied>cum</supplied>
+     <foreign xml:lang="grc"> χ </foreign> quoque Graeca littera consentit, unde quidam coronam, non
+     nulli choronam dixerunt. <lb/>
+     <milestone unit="par" n="9.1"/> K quidam superuacuam esse litteram iudicauerunt, quoniam uice
+     illius fungi satis c posset, sed retenta est, ut quidam putant, quoniam notas quasdam
+     significaret, ut Kaesonem ut kaput et kalumniam et kalendas. <milestone unit="par" n="9.2"/>
+     Hac tamen antiqui in conexione syllabarum ibi tantum utebantur, ubi a littera subiungenda erat,
+     quoniam multis uocalibus instantibus, quotiens <milestone unit="page" n="p. 15 vol. VII Keil"/>
+     id uerbum scribendum erat, in quo retinere hae litterae nomen suum possent, singulae pro
+     syllaba scribebantur, tanquam satis eam ipso nomine explerent: ut puta decimus, d per se deinde
+     cimus, item cera, c simplex et ra; et bene, b et ne; <milestone unit="par" n="9.3"/> ita et
+     quotiens canus et carus scribendum erat, quia singulis litteris primae syllabae notabantur, k
+     prima ponebatur, quae suo nomine a continebat, quia, si c posuissent, cenus et cerus futurum
+     erat, non canus et carus. <milestone unit="par" n="9.4"/> Ego autem contenderim magis
+     superuacuam esse c quam k, quoniam k, ut apud Graecos, satis uim etiam c litterae exprimat;
+      <milestone unit="par" n="9.5"/> sed quosdam figura deceptos, qua non solum apud nos, uerum
+     etiam apud antiquos Graecorum haec <supplied>g</supplied> littera notabatur - ut testatur
+     foedus Graece <unclear>camelo</unclear> aereo in hortis Caesaris in aede Fortis Fortunae
+     incisum, ubi pro <foreign xml:lang="grc">γ</foreign> haec <supplied>c</supplied> forma posita
+     sit; item XII tabulae, ubi est ni pacunt per hanc formam, quod male quidam per c enuntiant: est
+     enim praeteritum eius pepigi a pango, ut <supplied>a</supplied> tango tetigi, non paxi, ut a
+     dico dixi - credidisse nobis c deesse, et hanc quidem c dixisse, ceterum pro ea nota
+      adiecta<supplied>m</supplied> a Spurio Caruilio nouam formam g litterae praepositam.
+      <milestone unit="par" n="9.6"/> Nam non fuerunt tam imperiti antiqui, qui k seruarent, si
+     aliam litteram idem sonantem habuissent: quis enim uel hebetis animi sonorum similitudinem
+     sentire non possit? <lb/>
+     <milestone unit="par" n="10"/> Q littera aeque retenta est propter notas, quod per se posita
+      <milestone unit="page" n="p. 16 vol. VII Keil"/> significaret <del>q</del> quaestorem, et quia
+     cum illa u littera conspirat, quotiens consonantis loco ponitur, id est pro uau littera, ut
+     quis et qualis; unde et Graeci coppa, quod pro hac ponebant, omiserunt, postquam uau quoque,
+     quod auxilio eius litterae indigebat, superuacuum uisum est. </p>
+   </div>
+   <div type="section" n="5">
+    <p>
+     <milestone unit="par" n="1"/> Sequitur ut demonstremus, quae littera aut praeponi possit aut
+     subici. <lb/>
+     <milestone unit="par" n="2.1"/> A igitur littera praeposita est u et e litteris,
+      <supplied>ut</supplied> ae et au. subiectiua uerum enim uero u sequitur ut uau <milestone
+      unit="par" n="2.2"/> et apud antiquos i <supplied>quoque litterae praeponebatur, apud quos
+      i</supplied> littera pro e scribebatur, ut testantur <foreign xml:lang="grc"
+      >μεταπλασμοί</foreign>, in quibus est eiusmodi syllabarum diductio, ut <quote type="poetry"
+      >«pictai uestis»</quote> et <quote type="poetry">«aulai in medio»</quote> pro pictae et aulae;
+     sed magis in illis e nouissima sonat, et praeterea antiqui quoque Graecorum hanc syllabam per
+      <milestone unit="page" n="p. 17 vol. VII Keil"/>
+     <foreign xml:lang="grc">αε </foreign> scripsisse traduntur. <lb/>
+     <milestone unit="par" n="3"/> O praeiectiua est e litterae, ut a, et secundum antiquos eadem
+     syllaba i. <lb/>
+     <milestone unit="par" n="4"/> V littera omnibus uocalibus et praeiectiua et subiectiua
+     consentit, ut ua ue ui uo et rursus au eu iu ou, in quibus syllabis non uocalis sed consonantis
+     uicem praestat: est enim posita pro digamma, quod quidam Graecorum etiam uau appellant. <lb/>
+     <milestone unit="par" n="5"/> I littera cum omnibus uocalibus praeiiciatur nulli subiicitur,
+     nisi u litterae, ut uidi, uir; nisi secundum antiquos eiusmodi syllabae loi et moi per oi
+     scribantur, non per oe. <lb/>
+     <milestone unit="par" n="6"/>
+     <del>V littera cui cunque uocali praeiici, sed tanquam consonans potest nec minus
+     subiici</del>. <lb/>
+     <milestone unit="par" n="7"/> Ex consonantibus b praeiicitur in syllabis d l n r,
+      <supplied>ut</supplied> bde ble bne bre, alii nulli. <lb/>
+     <milestone unit="par" n="8"/> C praecedens init consortium syllabae assumta l m n r t, ut cle
+     cme cne cre cte, aliarum consortium respuit. <lb/>
+     <milestone unit="par" n="9"/> D praeicitur l n r, ut dle dne dre, aliis minime. <lb/>
+     <milestone unit="par" n="10"/> F praeiecta conspirat cum l n r, ut fle fne fre. <lb/>
+     <milestone unit="par" n="11"/> G praeicitur l m n r, ut gle gme gne gre, et litterae digamma
+     insequente, ut gue (gϝe). <lb/>
+     <milestone unit="par" n="12"/> H nulli consonantium praeiicitur; uocalibus uero modo utroque
+     consentit, ut heri hodie humus hilum hamus, item subiecta, ut ah eh ih oh uh. consonantibus
+     tribus subiicitur c p t, ut che phe the. <lb/>
+     <milestone unit="par" n="13"/>
+     <supplied>K</supplied> omnibus litteris quibus c et praeiici et subiungi potest. <lb/>
+     <milestone unit="par" n="14"/> L nulli consonantium praeiicitur, sed subiectiuam tantummodo
+     habet potestatem; subiungitur autem f litterae, ut <milestone unit="page"
+      n="p. 18 vol. VII Keil"/> flauus, et p, ut placidus, et b, ut blandus, et g, ut glaucus, et t,
+     ut <unclear>tlo</unclear>. <lb/>
+     <milestone unit="par" n="15"/> M <supplied>n</supplied> tantum consonanti praeiecta conspirat
+      <del>n</del>, ut Mnester. <lb/>
+     <milestone unit="par" n="16"/> N nullius consonantium praeiectiua est, sed subiectiuam tantum
+     habet potestatem. <lb/>
+     <milestone unit="par" n="17"/> P praeicitur consonantibus l n r s t, <supplied>ut</supplied>
+     ple pne pre pse pte. <lb/>
+     <milestone unit="par" n="18"/> Q neque subicitur cuiquam consonantium excepta s, ut squilla,
+     neque praeponitur excepta uau, ita tamen, si ab illo uocalis tertio loco fuerit, ut que quis. <lb/>
+     <milestone unit="par" n="19"/> R nulli consonantium praeiicitur, sed subiectiuam habet
+     potestatem. <lb/>
+     <milestone unit="par" n="20"/> S omnibus consonantibus praeiicitur exceptis h et x, quibus
+     nihil praeiici potest. <lb/>
+     <milestone unit="par" n="21"/> T praeiicitur litteris l m n r, ut tle tme tne tre. </p>
+   </div>
+   <div type="section" n="6">
+    <p><milestone unit="par" n="1"/> Et quatenus huic parti satisfactum est, hinc iam quaestiones
+     quae in rationem scribendi cadunt secundum praepositae diuisionis ordinem explicare
+     temptabimus. <lb/>
+     <milestone unit="par" n="2.1"/>Primum igitur per adiectionem illa uidentur esse uitiosa, quod
+     Accius geminatis uocalibus scribi natura longas syllabas uoluit, cum alioqui adiecto uel
+     sublato apice longitudinis et breuitatis nota posset obstendi: nam singulares uocales et
+     produci et corripi possunt, unde etiam Lucilius in nono saturarum de orthographia praecipiens
+     ait: <lb/>
+     <quote type="poetry">
+      <milestone unit="par" n="2.2"/>«a primum est: hinc incipiam, et quae nomina ab hoc
+      sunt»</quote>, <lb/> deinde: <lb/>
+     <quote type="poetry">«ac primum, longa <supplied>an</supplied> breuis syllaba, nos tamen unum
+      <lb/> hoc faciemus et uno eodemque ut dicimus pacto <lb/> scribemus pacem Pacideianum aridum
+      acetum, <lb/>
+      <foreign xml:lang="grc">Ἆρες Ἄρες</foreign> Graeci ut faciunt»</quote>. </p>
+    <p><milestone unit="par" n="3.1"/> Item quod Lucilius, ubi i exile est, per se iubet scribi, at
+     ubi plenum est, praeponendum esse e credit his uersibus: <milestone unit="page"
+      n="p. 19 vol. VII Keil"/>
+     <lb/>
+     <milestone unit="par" n="3.2"/><quote type="poetry">«mille hominum, duo milia: item huc e
+      utroque opus, meille, <lb/> militiam tenues i; pilam, in qua lusimus, pilum, <lb/> quo piso,
+      tenues; si plura haec feceris, pila: <lb/> quae iacimus, addes e, peila, ut plenius
+      fiat»</quote>. </p>
+    <p>
+     <milestone unit="par" n="3.3"/> Quam inconstantiam Varro arguens in eundem errorem diuersa uia
+     delabitur, dicens in plurali quidem numero debere i litterae <supplied>e</supplied> praeponi,
+     in singulari uero minime, cum alioqui et in singulari non aliud quam in <supplied> plurali,
+      neque aliud in media quam in </supplied> extrema syllaba sonet, ut in uerbis manifestum est:
+     dicimus enim mitto et misimus; nisi aliam hic uult esse rationem quod est absurdum, ut, cum
+     uerba quoque eis syllabis constent et diuersa regula corrigantur. <lb/>
+     <milestone unit="par" n="4"/> Similiter peccant et qui nux et trux et ferox in
+      <supplied>s</supplied> nouissimam litteram dirigunt, cum alioqui duplex sufficiat, quae in se
+     et s habet. <lb/>
+     <milestone unit="par" n="5.1"/> Item qui prensus cum aspiratione scribunt, cum eam prima
+     persona non habeat; et similiter uemens, cum a ui mentis dicatur; quam quidam putant <milestone
+      unit="page" n="p. 20 vol. VII Keil"/> adiiciendam, quoniam id non aliunde putant esse quam a
+     uehi <del>ferri</del> cum hoc uerbo sine dubitatione aspiretur. <milestone unit="par" n="5.2"/>
+     Negat Varro etiam Gracco aspirandum, quoniam a gerendo sit cognominatus: matrem enim eius qui
+     primus Graccus sit dictus duodecim mensibus utero <supplied>eum</supplied> gessisse. <milestone
+      unit="par" n="5.3"/> Et pulcrum, quamuis in consuetudine aspiretur, nihilominus tamen ratio
+     exiliter et enuntiandum et scribendum esse persuadet, ne una omnino dictio aduersus Latini
+     sermonis naturam media aspiretur, quanuis Santra a Graecis putet esse translatum, quasi
+     polychrum. <lb/>
+     <milestone unit="par" n="6.1"/> In mensoribus tamen, <supplied>n</supplied> litteram recuset
+     ratio quia metior sine illa dicatur, uindicat tamen consuetudo, quod uox plenius sonet.
+      <milestone unit="par" n="6.2"/> In coniugis tamen nominatiuo utramque partem ratio defendit:
+     nam et siue detrahendum nouissimae parti putauerimus, auxilio erit quod genetiuo non coniungis
+     sed coniugis dicimus; siue adiiciendum, quod a uerbo quod est iungo hoc nomen declinatum sit;
+     sed melius tamen uidetur sine n littera dicere et scribere. <lb/>
+     <milestone unit="par" n="7"/> Verum sine dubio peccant qui paullum <del>et Paullinum</del> per
+     unum l scribunt, cum alioqui prima positio eius duplici hac littera enuntietur, ut pullum et
+     pusillum. <lb/>
+     <milestone unit="page" n="p. 21 vol. VII Keil"/>
+     <milestone unit="par" n="8.1"/> Interdum et p littera superuacuo adiicitur, ut cum scribimus
+     sumptus demptus comptus, cum alioqui ceterum declinationibus uerborum non assit. sumo enim
+      <supplied>est</supplied> et demo et emo; detracta uerbis superuacua quare participationibus
+     adiiciatur ratio non est; nam ruptum cum ea dici non mirum est, cum uerba quoque non sine ea
+     sint - et rumpo et rupi et reliqua. <milestone unit="par" n="8.2"/> Similiter hiems carere p
+     littera debet, quia in casibus nusquam p nec b propinqua eius respondet, sine quarum altera
+     nusquam in Latinis ea nomina declinantur, quae in <foreign xml:lang="grc">ψ</foreign> Graecam
+     uocem efferuntur, ut princeps et caeleps, quia principis et caelibis scribitur.<lb/>
+     <milestone unit="par" n="9"/> Non mediocriter peccant etiam qui formoso n litteram assumunt:
+     non magis enim haec littera huic nomini necessaria est quam glorioso, quod a gloria uenit: ita
+     ut gloriosus a gloria, formosus a forma. <lb/>
+     <milestone unit="par" n="10"/> Nec minus falluntur qui Mezentium per duo z scribunt, ignorantes
+     duplicem litteram non debere geminari, quanquam quidam colligant duplicem non esse. <lb/>
+     <milestone unit="par" n="11.1"/> Causam item <supplied>a</supplied> multis scio per duo s
+     scribi ut non attendentibus hanc litteram, ut etiam cognatam illius r, nisi praecedente uocali
+     correpta non solere geminari, <milestone unit="par" n="11.2"/> et praeterea quotiens productam
+     uocalem u sequatur in id solere desinere syllabae sonum, ut in plausu et lusu: ita, cum hac
+     utique littera eiusmodi syllabarum finiri sonus debeat, nunquam autem a gemina ulla syllaba
+     incipiat, apparet causam geminatum s non recipere, quoniam neque in fine praecedentis syllabae
+     alterum potest poni, neque a gemino <milestone unit="page" n="p. 22 vol. VII Keil"/> sequens
+     incipere. <milestone unit="par" n="11.3"/> Sed illud sequuti uidentur quod cauissa dicta sit a
+     cauillationibus uel a cauendo, deinde per <foreign xml:lang="grc">συγκοπὴν</foreign> caussa:
+     ita et in illa <foreign xml:lang="grc">συγκοπἡν</foreign> geminandum s putauerunt, ut
+     originatio appareret. </p>
+   </div>
+   <div type="section" n="7">
+    <p>
+     <milestone unit="par" n="1"/> Deinde per detractionem hoc modo scribendi ratio corrupta est
+     quibusdam uno i scribentibus genitiuum eorum nominum quae <supplied>in</supplied> ius
+     nominatiuo singulari finiuntur, ut Antonius Antoni, Tremelius Tremeli, exigente regula ut in
+     horum genetiuis i littera geminetur, quoniam genitiuus singularis non debeat minorem numerum
+     habere syllabarum quam nominatiuus - quin immo interdum etiam maior fit. <milestone unit="par"
+      n="1.2"/> Propter quam causam ego etiam uocatiuos horum per duo i, non ut consuetudo usurpauit
+     per unum putem esse scribendos, quia non debeat aeque uocatiuus minorem numerum syllabarum
+     habere quam nominatiuus: ita o Antonii et o Aemilii in singulari uocatiuo et dicendum et
+     scribendum esse contenderim. <lb/>
+     <milestone unit="par" n="2"/> Item cum exul et expectatus sine s littera scribuntur, cum
+     alioqui adiecta ea debeant scribi, quoniam similiter solum spectatus que dicatur, et adiecta
+     praepositione saluum esse illis initium debeat. <lb/>
+     <milestone unit="par" n="3"/>
+     <supplied>H</supplied> detrahitur a quibusdam eis nominibus quae ab y littera incipiunt
+      <del>h</del> contendentibus neque litteram eam esse et posse uel non adiecta illa
+      aspiratione<supplied>m</supplied> in y littera secundum haec nomina intellegi, quoniam
+      <milestone unit="page" n="p. 23 vol. VII Keil"/> nusquam y littera praecedens exiliter
+     enuntietur, ut Hypnos Hymnos Hyacinthos: ita satis per se positam aspirationem sui declararet,
+     nisi opicus legat. <milestone unit="par" n="3.2"/> quibus primum illud respondemus, h et esse
+     litteram et apud Graecos quoque fuisse, quod significant Attici, qui <supplied>per</supplied>
+     principes litterarum, <del>a quibus earum nomina incipiunt</del>, numeros notantes hac quoque
+     in eadem significatione utuntur: nam quotiens unum notant, <foreign xml:lang="grc"
+      >ἰῶτα</foreign> litteram ponunt, quoniam apud illos <foreign xml:lang="grc"> μία</foreign> et
+      <foreign xml:lang="grc">ἴα</foreign> dicitur, <foreign xml:lang="grc">δύο
+      δ'</foreign>,<foreign xml:lang="grc"> τρία τ</foreign>: sic et <foreign xml:lang="grc"
+      >Ηἑκατόν</foreign>, id est centum, <foreign xml:lang="grc">Η</foreign> littera notant.
+      <milestone unit="par" n="3.3"/> Deinde quod in ordine litterarum nulla nota sibi locum
+     uindicet, cum h octauo loco posita sit. sequitur quod more reliquarum litterarum, quae mutato
+     ordine alias atque alias efficiant potestates - quod notae non ualent -, <del>et</del> sicuti
+     as et sa aliam uocem et aliam efficiunt potestatem, et ad et da, ita et ha et ah. <milestone
+      unit="par" n="3.4"/> Praeterea quod litteris principibus dictionum singula nomina aut uerba
+     comprendimus, ut cum scribimus r. p. et rem p. : ita et h per se, cum hac lege et hac die
+     significamus et horam tertiam heredes ue. <milestone unit="par" n="3.5"/> Extremo quod proprium
+     est litterarum <del>quod</del> propinquitate sociari et inuicem succedere, ut cum Fusios Furios
+     dicimus et sedlam sellam: ita cum h eiusdem sit facultatis, nimirum haec quoque inter litteras
+     est, quod cum f inuicem ita mutatur, ut quam nos fabam dicimus antiqui habam dixerunt et quod
+     hordeum appellamus <milestone unit="page" n="p. 24 vol. VII Keil"/> illi fordeum nominauerunt.
+      <milestone unit="par" n="3.6"/> Apparet itaque adiiciendam esse nec sine scripto intellegendam
+     quotiens in Latinis nominibus uis illius exegerit. <lb/>
+     <milestone unit="par" n="4"/> Quaesitum est extrinsecus et intrinsecus utrum <supplied>cum
+      n</supplied> littera an sine ea scribendum esset. et quidam sine illa putauerunt, quoniam
+     extra diceretur et a in compositione in i interdum mutaretur, ut facere et deficere: ita, quod
+     est <supplied>com</supplied>positum ex aduerbio extra et secus,
+     <supplied>extrisecus</supplied>; quidam cum <supplied>n</supplied>, quoniam extraneus
+     diceretur, intrisecus uero sine eadem littera, ne bis posita eadem littera duriorem sonum
+     faceret. </p>
+   </div>
+   <div type="section" n="8">
+    <p>
+     <milestone unit="par" n="1"/> Sequitur mutatio, in qua multa quaeruntur; et primum quidem illud
+     de quo diximus, utrum per ai an per ae genetiuo et datiuo singulari et nominatiuo et uocatiuo
+     plurali eiusmodi nomina scribenda sint: Senecae et Catilinae et Perpennae, quorum quoniam iam
+     reddita est ratio, ad reliqua ueniamus. <lb/>
+     <milestone unit="par" n="2"/> In uocalibus ergo quaeritur maximus an maxumus, id est per u an
+     per i, debeat scribi; item optimus et optumus et artibus et artubus et manibus et manubus. <lb/>
+     <milestone unit="par" n="2.2"/> Et qui haec nomina scribenda per u litteram putant illam
+     rationem sequuntur quoniam nominatiuo et prima positione eorundem per eandem litteram artus et
+     magnus et manus et bonus dicantur, ignorantes cognationem inter se litterarum de qua
+     praediximus; nam et castus castis facit et Iulianus Iulianis et restitutus restitutis: u in i
+     transit et fluctus, fluctibus et anus, anibus. <milestone unit="par" n="2.3"/> Adiice quod
+     maximus corruptum sit ex magnissimo: nam secundum analogiam magnus superlatiue magnissimus
+     facit, inde corrupte maximus figuratum. item <milestone unit="page" n="p. 25 vol. VII Keil"/>
+     optimum ab optione dicitur, quare optimum. <milestone unit="par" n="2.4"/> Artibus autem et
+     artubus quidam uariauerunt, et per i quidem datiuo et ablatiuo plurali scribi putauerunt,
+     quotiens ab arte dicerent, ut sit ars artis artibus, artubus autem per u quotiens ab eo quod
+     essent artus, unde apud Lucretium legunt: <lb/>
+     <quote type="poetry">«hinc noua proles <lb/> artubus infirmis teneras lasciua per herbas <lb/>
+      l. l. m. m. p. n.»</quote>. <lb/>
+     <milestone unit="par" n="2.5"/> Quod si distinctionis causa ratio corrumpitur, caueas quoque
+     quare non accentu aut litteram immutamus, cum et uerbum et nomen significet? et in hoc tectis,
+     cum et nomen et participium sit, et in similibus? <milestone unit="par" n="2.6"/> Ergo uox
+     scribenda quomodo et sonat: nemo autem unquam tam insulse per u artubus dixerit. <lb/>
+     <milestone unit="par" n="3"/> Y litteram superuacuam Latino sermoni putauerunt, quoniam pro
+     illa u cederet; sed cum quaedam in nostrum sermonem Graeca nomina admissa sint, in quibus
+     euidenter sonus huius litterae exprimitur; ut hyperbaton et hymnis et hyacinthus et similia -
+     in eisdem hac littera fungimur necessario. <lb/>
+     <milestone unit="par" n="4"/> Quaesitum est et de mutatione nouissimae litterae praepositionum
+     quotiens in compositionem uenirent, quam quidam imperite semper custodiunt ut adripit dicentes
+     et conripit et conludit. <milestone unit="par" n="4.2"/> Quotiens ergo a liquida littera
+     sequens coeperit uerbum cui <del>liquidae</del> praepositae fuerint (liquidae autem <milestone
+      unit="page" n="p. 26 vol. VII Keil"/> sunt quattuor, l m n r) <supplied>re</supplied>missa
+     nouissima sui parte, sequentis uerbi primam litteram geminant, ut rapio: arripio et corripio et
+     surripio. <milestone unit="par" n="4.3"/> Item accerso, quanuis alii arcesso dicant non sine
+     ratione, quod etiam <del>in r</del> in eiusmodi compositionibus d in r transit, quo ad
+     praepositio finitur, ut in arripio; sed quidam differentiam esse uoluerunt, ut arcesso quidem
+     ab eo uerbo esset, quod est arceo, accerso uero ab eo quod est accio. sed nobis, utcunque
+     scribendum, ad eandem significationem uidentur pertinere. <lb/>
+     <milestone unit="par" n="4.4"/> Similiter lego: alligo, colligo, pelligo, ut omnes antiqui
+     dixerunt; unde et apud Vergilium legendum <quote type="poetry">«pelligerent oculis»</quote>,
+     non perligerent. <milestone unit="par" n="4.5"/> Item muto: commuto per duo m et immuto et
+     imminet. In his autem seruat praepositio litteram suam, ut innuba et innuit et innocens,
+     quoniam sequentia uerba ab eadem littera incipiunt. <milestone unit="par" n="4.6"/> Et
+     semiuocalibus quoque geminant praepositiones primam sequentis uerbi litteram, ut effatus, non
+     exfatus nec ecfatus, ut quidam putauerunt, <supplied>aut</supplied> efferuens: <milestone
+      unit="par" n="4.7"/> item mutis: attulit per t et attigit et attinuit. in contulit tamen non
+     mutat nec <milestone unit="page" n="p. 27 vol. VII Keil"/> in conuiuit nec in consumit, et
+     sicubi longa sequatur aut natura aut positione, nisi media consonans liquida fuerit. <lb/>
+     <milestone unit="par" n="5"/> Quaesitum est, hiems utrum per ps an per ms deberet scribi, cum
+     alioqui dubium non sit quin per ms scribenda sit, quoniam genetiuo hiemis facit, et quoniam per
+     p et s ea scribantur, quae apud Graecos <supplied>in</supplied>
+     <foreign xml:lang="grc">ψ</foreign> desinunt. Hanc autem non in <foreign xml:lang="grc"
+      >ψ</foreign> desinere manifestum est ex eo, quod quae illa littera terminentur aut in <foreign
+      xml:lang="grc">πος</foreign>, ut<foreign xml:lang="grc"> Πέλοψ Πέλοπος</foreign>, aut
+      in<foreign xml:lang="grc"> βος</foreign> desinant, ut <foreign xml:lang="grc"> φλέψ
+      φλεβός</foreign>: hiems autem neutram harum syllabarum genetiuo recipiat. <milestone
+      unit="par" n="5.2"/> Item non constat, obscurum utrum per ob an per op debeat scribi, nec
+     minus obseruo, obsido, cum in illis b littera euidenter sonum suum uindicet. <lb/>
+     <milestone unit="par" n="5.3"/> Non caret quaestione etiam pleps et urps et Pelops, quae Varro
+     ita distinguit, ut per b et s ea nominatiuo casu putet esse scribenda, quae eandem litteram
+     genetiuo reddant, ut plebs plebis, urbs urbis, ea uero per p et s, quae similiter genitiuo
+     eiusdem numeri in pis excurrant, ut Pelops, Pelopis. sed nobis utrumque per ps uidetur esse
+     scribendum, quoniam ex his <foreign xml:lang="grc">ψ</foreign> littera constet, quam genetiuo
+     diximus aut in bis aut in pis exire. <lb/>
+     <milestone unit="par" n="6"/> Quis quidam per cuis scribunt, quoniam superuacuam esse q
+     litteram putant; sed nos cum illa u litteram, siquando tertia ab ea uocalis ponitur, <milestone
+      unit="page" n="p. 28 vol. VII Keil"/> consentire iam demonstrauimus. <milestone unit="par"
+      n="6.2"/> C autem in datiuo ponemus ut sit differentia cui et qui, id est datiuus <del>et
+      uocatiuus</del> singularis et nominatiuus et uocatiuus pluralis. quamquam secundum analogiam
+     omnes partes orationis, quae per casus declinantur, eandem litteram in prima parte
+      <supplied>per</supplied> omnes casus seruent, quam nominatiuo habuerint. <milestone unit="par"
+      n="6.3"/> Cum quidam per cum, nonnulli per quom. Quidam etiam esse differentiam putant, quod
+     praepositio quidem per c, <supplied>cum</supplied> illo, cum Claudio, cum Camillo, aduerbium
+     autem per q debeat scribi, ut quom legissem, quom fecissem, quoniam antiqui pro hoc aduerbio
+      <unclear>cuine</unclear> dicebant, ut Numa in Saliari carmine: <lb/>
+     <quote type="poetry">
+      <milestone unit="par" n="6.4"/> « <unclear> cuine ponas leuce si ae praetexere monti <lb/>
+       quotibeteunei de his cum tonarem</unclear>»</quote>. </p>
+   </div>
+   <div type="section" n="9">
+    <p>
+     <milestone unit="par" n="9.1"/> Per conexionem illa<del>m</del> annotanda sunt, ut negotium,
+     cuius primae syllabae g debeat adiungi, non sequenti, quod dictum est quia nec otium. <lb/>
+     <milestone unit="par" n="9.2"/> Item nescire, quod sit ne et scire, et exsul, ita ut s sequenti
+     syllabae adiungatur, quia significetur extra solum patriae missus. </p>
+   </div>
+   <div type="section" n="10">
+    <p> Haec sunt quae urgenti tempore complecti tibi in praesentia potui. <milestone unit="page"
+      n="p. 29 vol. VII Keil"/> Si quid exemplis defecerit uel quaestionibus, subiungentur. nam,
+     quod ad rem maxime pertinet, regulam uides. </p>
+   </div>
+  </body>
+ </text>
+</TEI>

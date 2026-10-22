@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Appendix Probi</title>
+                <author/>
+                <respStmt>
+                    <resp>transcodifica di base da rtf a xml-tei</resp>
+                    <name>Piero Colombo - Step srl</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Testo </resp>
+                    <name>Marinone, GL-CD adeguato su ed. Asperti-Passalacqua</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Adeguamento testo su nuova edizione</resp>
+                    <name>Alice Borgna, Chiara Miglietta </name>
+                </respStmt>
+                <respStmt>
+                    <resp>Controllo marcatura XML-TEI</resp>
+                    <name>Alice Borgna </name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>digilibLT</publisher>
+                <pubPlace>Vercelli</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <p>
+                        <ref target="http://creativecommons.org/licenses/by-nc-sa/3.0/it/"/>
+                    </p>
+                </availability>
+                <idno>DLT000538</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Appendix Probi, edd. S. Asperti - M. Passalacqua, Firenze 2014</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc xmlns="http://www.tei-c.org/ns/1.0">
+            <projectDesc>
+                <p>digilibLT. Biblioteca digitale di testi latini tardoantichi.</p>
+                <p>Progetto diretto da Raffaella Tabacco (responsabile della ricerca) e Maurizio
+                    Lana</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>
+                    <hi rend="bold">Note di trascrizione e codifica del progetto digilibLT</hi>
+                </p>
+                <p>Abbiamo riportato solo il testo stabilito dall'edizione di riferimento non
+                    seguendone l'impaginazione. Sono stati invece esclusi dalla digitalizzazione
+                    apparati, introduzioni, note e commenti e ogni altro contenuto redatto da
+                    editori moderni.</p>
+                <p>I testi sono stati sottoposti a doppia rilettura integrale per garantire la
+                    massima correttezza di trascrizione</p>
+                <p>Abbiamo normalizzato le U maiuscole in V seguendo invece l'edizione di
+                    riferimento per la distinzione u/v minuscole.</p>
+                <p>Non è stato normalizzato l'uso delle virgolette e dei trattini.</p>
+                <p> Non è stata normalizzata la formattazione nell'intero <hi rend="italic"
+                        >corpus</hi> : grassetto, corsivo, spaziatura espansa. </p>
+                <p> Sono stati normalizzati e marcati nel modo seguente i diacritici. <lb/>
+                    espunzioni: <![CDATA[<del>testo</del>]]> si visualizza [testo] <lb/>
+                    integrazioni: <![CDATA[<supplied>testo</supplied> si visualizza <testo>]]>
+                    <lb/>
+                    <hi rend="italic">loci desperati</hi> :
+                    <![CDATA[ <unclear>testo</unclear> o <unclear/> testo]]> si visualizzano †testo†
+                    e †testo <lb/> lacuna materiale: <![CDATA[<gap/>]]> si visualizza [...] <lb/>
+                    lacuna integrata dagli editori:
+                    <![CDATA[<supplied><gap/></supplied> si visualizza <...>]]>
+                </p>
+                <p> Sono stati marcati i termini in lingua greca
+                    <![CDATA[<foreign xml:lang="grc">αγβ</foreign>]]>
+                </p>
+                <p> Ulteriori informazioni sulle norme di trascrizione e codifica su <ref
+                        target="http://digiliblt.lett.unipmn.it/upload/docs/note_di_trascrizione_e_di_codifica.pdf"
+                        >Note di trascrizione e codifica di testi latini tardoantichi
+                        [http://digiliblt.lett.unipmn.it/upload/docs/note_di_trascrizione_e_di_codifica.pdf]</ref>
+                </p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la">Latino</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" n="1">
+                <p> Nomina appellatiua generis masculini, quae ablatiuo casu numeri singularis u
+                    littera terminantur: uersu casu accentu statu gradu cogitatu tractatu actu
+                    intellectu arbitratu commissu sensu consensu rogatu petitu dictu
+                        s<supplied><gap/></supplied>nctu accitu arcessitu monitu recessu discessu
+                    secessu excessu successu incessu interuentu intercessu motu impetu tumultu
+                    concentu fremitu strepetu irritu latratu rugitu mugitu tinnitu innitu accitu
+                    metu fractu infractu accubitu morsu potu aestu concubitu coitu conceptu partu
+                    fetu incestu raptu fletu planctu ululatu ploratu gemitu cruciatu interitu luctu
+                    obitu exitu reatu corsu decursu spiritu halitu saltu usu fluctu cinctu equitatu
+                    iactu tactu contractu pulsu inpulsu auditu uisu cultu ornatu uestitu conuersu
+                    aspectu prospectu respectu conspectu sexu affectu dilectu parentatu sortitu ortu
+                    occasu lapsu uolatu accessu confractu refractu infractu flexu inflexu reflexu
+                    conflexu gressu ingressu congressu regressu aditu introitu transitu
+                        <supplied>p</supplied>e<supplied>n</supplied>su
+                    c<supplied>ons</supplied>ensu <supplied><gap/></supplied>u risu cantu
+                        a<supplied>mp</supplied>lexu complexu bass<supplied>u</supplied> gestu luxu
+                    concursu incursu recursu cursu missu passu circuitu orsu ductu tractu textu
+                    contextu intextu sumptu paratu ambitu conatu nisu effectu accessu discessu
+                    hanelitu hiatu singultu sinu lacu fluctu arcu relatu exercitu ritu ictu contactu
+                    situ compulsu repulsu. <lb/> Numeri tantum singularis: decurionatu pontificatu
+                    principatu clarissimatu consulatu maioratu minoratu primatu dominatu praesidatu
+                    senatu et huius senati auguratu duouiratu tribunatu proconsulatu episcopatu
+                    gestu magistratu artu flatu portu. <lb/> Nomina appellatiua generis feminini,
+                    quae ablatiuo casu numeri singularis u littera terminantur: manu actu quercu
+                    nuru anu porticu uitu pinu socru <milestone unit="page" n="p. 194 vol. IV Keil"
+                    /> mantu. <lb/> Nomina appellatiua generis neutri, quae ablatiuo casu numeri
+                    singularis u littera terminantur: tonitru genu cornu ueru gelu. <lb/> Nomina
+                    appellatiua generis omnis, quae ablatiuo casu numeri singularis u littera
+                    terminantur: maior natu, minor natu, pessimus natu, maximus natu. <lb/> Nomina
+                    generis masculini, quae ablatiuo casu numeri singularis a littera terminantur et
+                    nominatiuo casu numeri singularis a litteris definiuntur: Catillina Fedria
+                    lebeta Agrippa. <lb/> Nomina generis masculini, quae ablatiuo casu numeri
+                    singularis a littera terminantur <supplied>et</supplied> nominatiuo casu numeri
+                    singularis as litteris definiuntur: Aeneas Marsyas Iollas Atinas Flegias Boreas
+                    Fillidas Amyntas Damoetas Hiarbas Nicias Iopas Bitias Menalcas Gyas Pelias.
+                    <lb/> Nomina generis masculini, quae ablatiuo ca<supplied>su nu</supplied>meri
+                    singularis a littera terminantur et nominatiuo casu es litteris definiuntur:
+                    Anchises Acestes Achates et ab Achate. <lb/> Nomina generis feminini, quae
+                    ablatiuo casu numeri singularis a littera terminantur: membrana uertebra medulla
+                    specula tuba muscipula praetexta uigilia simphonia acrimonia alimonia cymbala
+                    cauerna bucina lacerna cortina bruma cisterna palpebra sanctimonia tibia
+                    querimonia ignominia parsimonia hospitia. <lb/> Nomina generis communis, quae
+                    nominatiuo casu numeri singularis er litteris definiuntur: pauper celer uolucer
+                    acer uber alacer. <lb/> Nomina generis communis, quae nominatiuo casu numeri
+                    singularis il litteris definiuntur: pugil uigil mugil. <lb/> Nomina generis
+                    feminini, quae ablatiuo casu numeri singularis e littera producta terminantur:
+                    species acies canities progenies series rabies requies planities scabies
+                    materies segnities luxuries facies dies macies pernicies effigies proluuies
+                    prosapies sanies pauperies congeries glacies. <lb/> Item: res spes fides. <lb/>
+                    Nomina generis feminini, quae ablatiuo casu numeri singularis e littera correpta
+                    terminantur et aptota esse repperiuntur <supplied><gap/></supplied>: Pholoe
+                    Tisifone Autonoe Agaue Beroe Calliroe Calibe. <lb/> Nomina generis neutri, quae
+                    in numero plurali aptota esse repperiuntur: mella rura maria olea fella tura
+                    uina ordea. <lb/> Nomina generis neutri, quae nominatiuo casu numeri singularis
+                    i littera terminantur: sinapi cummi. <lb/> Nomina generis omnis, quae nominatiuo
+                    casu numeri singularis i littera terminantur: frugi nihili. <lb/> Nomina generis
+                    masculini, quae ablatiuo casu numeri singularis io litteris definiuntur et
+                    uocatiuo casu e littera terminantur: pius ebrius alius medius sobrius. <lb/>
+                    Nomina generis masculini, quae nominatiuo casu numeri singularis ante ultimam
+                    consonantem per duas u litteras discretas <milestone unit="page"
+                        n="p. 195  vol. IV Keil"/> scribuntur: perpetuus arduus uacuus fatuus
+                    carduus mortuus patruus. <lb/> Nomina generis masculini, quae per q non per c
+                    litteram scribuntur: equs coqus iniqus antiqus. <lb/> Nomina generis feminini,
+                    quae nominatiuo casu numeri singularis us litteris definiuntur et ablatiuo casu
+                    o littera terminantur: cupressus ulmus cedrus Amathus Pafus myrtus fagus nomus
+                    aluus. <lb/> Nomina generis feminini, quae nominatiuo casu numeri singularis os
+                    litteris definiuntur et ablatiuo casu <supplied>o</supplied> littera
+                    terminantur: Zaquinthos Tenedos Epyros Pafos Antandros Delos Neritos. <lb/>
+                    Nomina generis feminini, quae nominatiuo casu numeri singularis o littera
+                    terminantur et aptota esse repperiuntur: Gyaro Pyrgo Mycono Allecto Calipso Clio
+                    Samo Dido Celeno Saffo Erato Io<del>epiro</del>
+                    <del>inerito</del>. <lb/> Nomina generis neutri, quae ablatiuo casu numeri
+                    singularis o littera terminantur et nominatiuo casu us litteris definiuntur:
+                    pelagus uirus uulgus. <lb/> Nomina generis neutri, quae nominatiuo casu numeri
+                    singularis as litteris definiuntur: fas nefas nugas. <lb/> Nomina generis
+                    neutri, quae nominatiuo casu numeri singularis a littera terminantur: ceroma
+                    glossema thima gatastema flecma soma thema carisma digma enigma condyloma axioma
+                    clima cataplasma thoreuma pasca plenguma poema apostema croma sympasma peloma
+                    programma scema ermeneuma reuma parauma centema crisma docma scisma boetima
+                    aroma apotelegma theorema batusma simma diploma fantasma tymiama ephisema. <lb/>
+                    Nomina generis masculini numeri semper pluralis: inferi circenses cracli Carpi
+                    manes cancelli Arpi Quirites (et Vergilius «qui te Quirites donauit») ludi (et
+                    Vergilius «ludo exercent»). <lb/> Nomina generis feminini numeri semper
+                    pluralis: scalae is, indutiae is, mappae, kalendae, caerimoniae is, nonae is,
+                    minae is, Baiae is, balneae is, Thebae is, pesulae is, Athenae is, Caralis bus,
+                    scopae is, praestigiae is, idus ibus, tenebrae is, diuitiae is, termae is, Alpes
+                    bus, Micaenae is, Cumae is, <unclear>autinae is </unclear>, nares bus («sonat
+                    hic de nare canina littera»), manae is, sordes bus («collecta sorde dolentis»),
+                    paleae is, preces bus («<supplied>nunc prece nunc dictis</supplied> uirtutem
+                    accendit amaris»), exubiae is, copiae is <milestone unit="page"
+                        n="p. 196  vol. IV Keil"/> («et quae sit circum me copia lustro»). <lb/>
+                    Nomina generis neutri semper pluralis numeri: arma is, castra is, bucolica is,
+                    georgica is, moenia bus, magalia bus, mappalia bus, lustra is, sabbata is, exta,
+                    missa is, serta is, talaria is, pergama is, theatra is, uenabula is, cunabula
+                    is, uerbera bus, Saturnalia bus, sigillaria bus, parentalia bus, terminalia bus,
+                    fugalia bus, iliaria bus, citalia bus, Neptunalia bus, penetralia bus,
+                    Bulcanalia ium orum, ueneralia bus, Mineruali<supplied> a. bus </supplied>,
+                    manumissalia is, quinquatria is, <supplied><gap/></supplied>lia, Vestalia,
+                    Floralia orum ium bus, Lupercalia orum ium bus, praecisalia orum ium bus,
+                    quinquennalia orum ium bus, decennalia orum ium bus, tricennalia orum ium bus,
+                    uindicta, praecordia, cibaria, diaria, pascua, stromata, taeda, panthoea, butia,
+                    speromachia, cymbloma, cythera, carcara, comitia. </p>
+            </div>
+            <div type="section" n="2">
+                <p> Locutio cum nominatiuo casu non ambigit quem ad modum proferatur, ut puta:
+                    Cicero dixit, Caesar clamauit, ego legi, Terentius dicturus, Vergilius emendaui
+                    et cetera talia. <lb/> Locutio cum genitiuo casu haec conuenire repperitur:
+                    similis illius, auidus honoris, neglegens amicorum, studiosus uestri, conscius
+                    facti, obliuiscor iniuriae, recordor praeceptorum, memor bonorum, misereor
+                    puerorum, pudet facti, piget operis, taedet laboris, paenitet sceleris,
+                    particeps rerum, compus uoti, ignarus malorum, expers bonorum, peritus rerum,
+                    consultus <supplied>iu</supplied>ris, dubius itineris, cupidus honoris,
+                        null<supplied>ius</supplied> indigus, plenus rimarum, gratulor uestri,
+                        <supplied>m</supplied>emini illius, a<supplied>dmo</supplied>neor amicorum,
+                        prude<supplied>ns</supplied> rerum, cupidissimus legis, securus amorum,
+                        dili<supplied>g</supplied>ens munditiae, capax studiorum, prouidus rationis,
+                    piger hominum, certus rerum, fastidiosus honorum, obliuiosus ueterum, ferox
+                    contumeliae, timidus ignaui<supplied>a</supplied>e, diues pecorum, lactis
+                    habundans, egregius militiae, impleor bachi, auxilii aeget, diues opum, fessi
+                    rerum, potens tempestatum. <lb/> Locutio cum datiuo casu haec conuenire
+                    reperitur: similis Mercurio, fido uirtuti, maledico hosti, suadeo ciui, mando
+                    tiui, cedo illi, pareo legibus, insulto inimico, studeo Vergilio, intentus
+                    lectioni, noceo ipsi, hereo fenestrae, obluctor harene, incumbens arae, timeo
+                    mihi, teneor amori, inimicus hosti, inuidus tibi, hauilis uirtuti, aptus
+                    uanitati. <lb/> Lo<supplied>cutio cum</supplied> ac<supplied>cusatiuo</supplied>
+                    casu <supplied>haec conuenire reperitur</supplied>: obliuiscor
+                        <supplied>uos</supplied>, euado <supplied>periculum</supplied>, penitet
+                    amicum, piget inertem, iubeo Cremetem, calumnior illos, sortior uxorem,
+                        <supplied>miro</supplied>r malos, d<supplied>ole</supplied>or
+                        stomac<supplied>hum</supplied>, memini haec, <supplied>doctus</supplied>
+                        ser<supplied>monem</supplied>, <supplied>decet</supplied> bonos, fugio
+                    illos. <lb/> Locutio cum uocatiuo casu non ambiget quem ad modum proferatur, ut
+                    puta: Cicero lege, Terenti scribe, Salusti recita, et cetera talia. <milestone
+                        unit="page" n="p. 197  vol. IV Keil"/>
+                    <lb/> Locutio cum ablatiuo casu haec conuenire reperitur: delector choraula,
+                    aduector pantomimo, fruor argento, potior auro, utor toga, priuor possessione,
+                    indigeo consilio, egeo sumptu, careo molestia, abstineo cibo, fungor officio,
+                    sacrifico uictima, donatus corona, dignus honore, indignus fama, orbus liberis,
+                    fretus amicitia, plenus pecunia, uehemens iracundia, opus est patrono, indulgeo
+                    uino, expolio birro, interdico amicitia. </p>
+            </div>
+            <div type="section" n="3">
+                <p> Nomin<supplied>a cum</supplied> accentu producto: <supplied><gap/></supplied>,
+                    Eliodorus, Theodorus, <supplied><gap/></supplied>, Polidorus, Chloanthus,
+                        <supplied><gap/></supplied>, <supplied><gap/></supplied>rus, tyrannus,
+                        <supplied><gap/></supplied>, grauatum, lebeta, delubrum, cratera, umbilicus,
+                    Serestus, Sarpedon, Adonis, <supplied><gap/></supplied>
+                        arci<supplied><gap/></supplied>, Olympus, Cecropis, Peneleus, Passifae,
+                    casybus, Flegedon, Sibylla, praesagus, Camilla, Anthea, Camillus, Triton,
+                    Alcanoris, Gulussa, Agenoris. <lb/> Nomina cum accentu correpto: Castoris,
+                    Hectoris, rhetoris, Mnestoris, Actoris Aurunci, Laudamium, Calibe, baratrum,
+                    barcent, palanges, Procyta, pelicis, asi<supplied><gap/></supplied>um,
+                    Garamantas, arbota. </p>
+            </div>
+            <div type="section" n="4">
+                <p> Nomina generis masculini: urciolus cenis sextarius teter congius orcus
+                    quartarius dens nodus articulus neruus uenter pes gubitus uter modium gres flons
+                    sticus commentarius cocumis acinus uomer ligo uepres umerus. </p>
+            </div>
+            <div type="section" n="5">
+                <p>Porphireticum marmur non purpureticum marmor <lb/> tolonium non toloneum <lb/>
+                    speculum non speclum <lb/> masculus non masclus <lb/> uetulus non ueclus <lb/>
+                    uitulus non uiclus <lb/> uernaculus non uernaclus <lb/> articulus non articlus
+                    <lb/> baculus non uaclus <lb/> angulus non anglus <lb/> iugulus non iuglus <lb/>
+                    calcostegis non calcosteis <lb/> septizonium non septidonium <lb/> uacua non
+                    uaqua <lb/> uacui non uaqui <lb/> cultellum non cuntellum <lb/> marsias non
+                    marsuas <lb/> cannelam non canianus <lb/> hercules non herculens <lb/> columna
+                    non colomna <lb/> pecten non pectinis <lb/> aquaeductus non aquiductus <lb/>
+                    cithara non citera <lb/> crista non crysta <lb/> formica non furmica <lb/>
+                    musiuum non museum <lb/> exequae non execiae <lb/> Gyrus non gyrus <lb/> auus
+                    non aus <lb/> miles non milex <lb/> sobrius non suber <lb/> figulus non figel
+                    <lb/> masculus non mascel <lb/> lanius non laneo <lb/> iuuencus non iunenclus
+                    <lb/> barbarus non barbar <lb/> equs non ecus <lb/> coqus non cocus <lb/>
+                    coquens non cocens <lb/> coqui non coci <lb/> acre non acrum <lb/> pauper mulier
+                    non paupera mulier <lb/> carcer non carcare <lb/> brauium non brabium <lb/>
+                    pancarpus non parcompus <milestone unit="page" n="p. 198  vol. IV Keil"/>
+                    <lb/> theofilus non izofilus <lb/> homfagium non monofagium <lb/> byzacenus non
+                    bizacinus <lb/> capsesis non capsessis <lb/> catulus non catellus <lb/> catula
+                    non catella <lb/> doleum non dolium <lb/> calida non calda (utrumque dicitur)
+                    <lb/> frigida non fricda <lb/> uinea non uinia <lb/> tristis non tristus <lb/>
+                    tersus non tertus <lb/> umbilicus non imbilicus <lb/> turma non torma <lb/>
+                    celebs non celeps <lb/> ostium non osteum <lb/> flauus non flaus <lb/> cauea non
+                    cauia <lb/> senatus non sinatus <lb/> brattea non brattia <lb/> cochlea non
+                    coclia <lb/> cocleare non cocliarium <lb/> palearium non paliarium <lb/>
+                    primipilaris non primipilarius <lb/> alueus non albeus <lb/> glouus non glomus
+                    <lb/> lancea non lancia <lb/> fauilla non failla <lb/> orbis non orbs <lb/>
+                    formosus non formunsus <lb/> ansa non asa <lb/> flagellum non fragellum <lb/> i
+                    calatis non galatus i <lb/> digitus non dicitus <lb/> solea non solia <lb/>
+                    calceus non calcius <lb/> iecur non iocur <lb/> auris non oricla <lb/> camera
+                    non cammara <lb/> pegma non peuma <lb/> cluaca non clauoca <lb/> ales non alis
+                    <lb/> facies non facs <lb/> cautes non cautis <lb/> pleues non pleuis <lb/>
+                    uates non uatis <lb/> tabes non tauis <lb/> suppellex non superlex (utrumque
+                    dicitur) <lb/> apes non apis <lb/> nubes non nubs <lb/> suboles non subolis
+                    <lb/> uulpes non uulpis <lb/> palumbes non palumbus <lb/> lues non luis <lb/>
+                    deces non decis <lb/> sepes non sepis <lb/> uepres non uepris <lb/> fames non
+                    famis <lb/> clades non cladis <lb/> syrtes non syrtis <lb/> aedes non aedis
+                    <lb/> sedes non sedis <lb/> proles non prolis <lb/> draco non dracco <lb/>
+                    oculus non oclus <lb/> aqua non acqua <lb/> alium non aleum <lb/> lilium non
+                    lileum <lb/> Glis non gleris <lb/> delirus non delerus <lb/> tinea non tinia
+                    <lb/> exter non extraneus <lb/> clamis non clamus <lb/> uir non uyr <lb/> uirgo
+                    non uyrgo <lb/> uirga non uyrga <lb/> occasio non occansio <lb/> caligo non
+                    calligo <lb/> terebra non telebra n <lb/> effeminatus non imfimenatus <lb/>
+                    botruus non butro <lb/> grus non gruis <lb/> anser non ansar <lb/> tabula non
+                    tabla <lb/> puella non poella <lb/> balteus non baltius <lb/> fax non facla
+                    <lb/> uico capitis Africae non uico caput Africae <lb/> uico tabuli proconsolis
+                    non uico tabulu proconsulis <lb/> uico castrorum non uico castrae <lb/> uico
+                    strobili non uico strobili <lb/> teter non tetrus <lb/> aper non aprus <lb/>
+                    amycdala non amiddola <lb/> fasseolus non fassiolus <lb/> stabulum non stablum
+                    <lb/> triclinium non triclinu <lb/> dimidius non demidius <lb/>
+                        tur<supplied>?</supplied>ma non torma <lb/> pusillus non pisinnus <lb/>
+                    meretrix non menetris <lb/> aries non ariex <lb/>
+                    <supplied>persica</supplied> non bessica <lb/>
+                    <supplied>dysente</supplied>ricus non bisentericus <lb/>
+                        opobalsa<supplied>mum</supplied> non ababal<supplied>sa</supplied>mum <lb/>
+                        m<supplied>e</supplied>nsa non m<supplied>e</supplied>sa <lb/> raucus non
+                    draucus <lb/> auctor non autor <lb/> auctoritas non autoritas <lb/> ipsum non
+                    ipsud <lb/> lintieum non lintium <lb/> ampora non amfora <lb/> terraemotus non
+                    terrimotium <lb/> noxius non noxeus <lb/> coruscus non scoriscus <lb/> tonitro
+                    non tonotru <lb/> passer non passar <lb/> anser non ansar <lb/> hirundo non
+                    horundo <lb/> obst<supplied>etri</supplied>x non ossetrix
+                        <supplied><gap/></supplied> (nam ab osse <supplied><gap/></supplied>
+                    dicitur) <lb/> capitulum non capiclum <lb/> nouerca non nouarca <lb/> nurus non
+                    nura <milestone unit="page" n="p. 199  vol. IV Keil"/><lb/> socrus non socra
+                    <lb/> neptis non nepticla <lb/> anus non anucla <lb/> tundeo non detundo <lb/>
+                    riuus non rius <lb/> imago non emago <lb/> pauor non paor <lb/> coluber non
+                    colober <lb/> adipes non alipes <lb/> sibilus non sifilus <lb/> frustrum non
+                    frustum <lb/> plebs non pleps <lb/> garrulus non garulus <lb/> parentalia non
+                    parantalia <lb/> celebs non celeps <lb/> poples non poplex <lb/> locuples non
+                    locuplex <lb/> robigo non rubigo <lb/> plasta non blasta <lb/> bipennis non
+                    bipinnis (utrumque a pinna dicitur) <lb/> ermeneumata non erminomata <lb/> tymum
+                    non tumum <lb/> strofa non stropa <lb/> bitumen non butumen <lb/> mergus non
+                    mergulus <lb/> myrta non murta <lb/> zizu<supplied>.</supplied>a non zizipa
+                    <lb/> iunepirus non ziniperus <lb/> tolerauilis non tolerabilis <lb/> basilica
+                    non bassilica <lb/> tribula non tribla <lb/> uiridis non uirdis <lb/>
+                    constabilitus non constabilitus <lb/> sirena non serena <lb/> musium uel musiuum
+                    non museum (locus est musarum)<lb/> labsus non lapsus <lb/> orilegium non
+                    orologium <lb/> ostiae non hostiae <lb/> februarius non febrarius <lb/> glatri
+                    non cracli <lb/> allec non allex <lb/> rabidus non rabiosus dicitur<lb/>
+                    tintinaculum non tintinabulum <lb/> adon non adonius <lb/> grundio non grunnio
+                    dicitur <lb/> uapulo non baplo <lb/> necne non necnec <lb/> passim non passi
+                    <lb/> numquit non mimquit <lb/> numquam non numqua <lb/> nouiscum non noscum
+                    <lb/> uo<supplied>biscu</supplied>m non <supplied>uosc</supplied>um <lb/>
+                        nesci<supplied>oubi</supplied> non <supplied>nescio</supplied>cube <lb/>
+                    pridem non pride <lb/> olim non oli <lb/> adhuc non aduc <lb/> idem non ide
+                    <lb/> amfora non ampora </p>
+            </div>
+            <div type="section" n="6">
+                <p> Inter austrum et ostrum hoc interest, quod austrum uentum significat, ostrum
+                    uero porporam esse demonstrat. <lb/> Inter hos et os hoc interest, quod hos
+                    pronomen significat, os uero uultum esse demonstrat. <lb/> Inter labat et lauat
+                    hoc interest, quod labat nutat significat, lauat uero lotorem esse demonstrat.
+                    <lb/> Inter ebrium et ebriosum hoc interest, quod ebrium ad tempus multum
+                    bibisse significat, ebriosum uero semper multum bibentem demonstrat. <lb/> Inter
+                    laetum et letum hoc interest, quod laetum gaudentem significat, letum uero
+                    mortuum esse demonstrat. <lb/> Inter capillatum et capillosum hoc interest, quod
+                    capillatum capillos gr<supplied>an</supplied>des habentem significat, capillosum
+                    uero pilosum, id est hyrsutum esse demonstrat. <lb/> Inter paene et pene hoc
+                    interest, quod paene aduerbium significat, pene uero nouissimam partem corporis
+                    esse demonstrat. <lb/> Inter lasciuum et petulantem et temulentum hoc interest,
+                    quod lasciuum satullum gestientem significat, petulantem autem satullum
+                    libidinosum ostentat, temulentum uero satullum uinolentum esse demonstrat. <lb/>
+                    Inter inpurum et inpudicum hoc interest, quod inpurum patientem turpitudinem
+                    significat, inpudicum uero facientem turpitudinem demonstrat. <lb/> Inter
+                    ostentum et monstrum et prodigium et portentum hoc interest, quod ostentum et
+                    monstrum praesentia ostentant, prudigium autem et portentum futura significent.
+                    <lb/> Inter beneficum et ueneficum hoc interest, quod beneficum bene facientem
+                    significat, ueneficum autem ueneni datorem esse demonstrat. <lb/> Inter habeo et
+                    abeo hoc interest, quod habeo retineo significat, abeo autem eo demonstrat.
+                    <lb/> Inter mu<supplied>tum et mutuum</supplied> hoc interest, quod
+                        <supplied>mutum</supplied> qui non loquetur <supplied>significat</supplied>,
+                        mu<supplied>tuum</supplied> vero <supplied>alienum sump</supplied>sisse
+                    demonstrat. <lb/> Inter orbum et caecum hoc interest, quod orbum qui suos
+                    extulerit significat, caecum autem qui lumen non uidet demonstrat. <lb/> Inter
+                    iuuentatem et iuuentam et iuuentutem hoc interest, quod
+                        <supplied>iuuentatem</supplied> deam iuuenum significet,
+                        iu<supplied>uentam</supplied> autem <supplied>aetatem</supplied>
+                    <supplied>designat</supplied>, iuuentutem uero multitudinem
+                        <supplied>iu</supplied>uen<supplied>um</supplied> esse demonstret. <lb/>
+                    Inter cornua et corna hoc interest, quod cornua animalium uel antemnarum
+                    significat, at uero corna pomorum genus esse demonstrat. <lb/> Inter acerbum et
+                    aceruum hoc interest, quod acerbum inmaturum significat, aceruum uero cumulum
+                    esse demonstrat. <lb/> Inter mala et malas hoc interest, quod mala poma
+                    significat, malas autem maxillas esse demonstrat. <lb/> Inter somnum et somnium
+                    hoc interest, quod somnum quod dormimus significat, somnium autem quod
+                    dormientes uidemus esse demonstrat. <lb/> Inter su<supplied>m et </supplied>
+                    suum hoc interest, quod sum uerbum significat, s<supplied>uum uero</supplied>
+                    pronomen esse demonstrat. <lb/>Inter <supplied>saeuit et</supplied>
+                        seu<supplied>it</supplied> hoc interest, quod <supplied>saeuit
+                        iras</supplied>centem si<supplied>gnificat, seu</supplied>it uero
+                        s<supplied>atorem esse demons</supplied>trat. <lb/> Inter <supplied>aes et
+                        es hoc interest, quod aes meta</supplied>lli materiem
+                        <supplied><gap/></supplied>sig <supplied><gap/></supplied> uerbum
+                        <supplied><gap/></supplied> mon<supplied><gap/></supplied>. <lb/> Inter
+                        <supplied>criminosum et criminatorem</supplied> hoc interest, quod
+                        <supplied>criminatorem</supplied> qui crimen dicit
+                        <supplied>designat</supplied>, criminosum autem in quem crimen <supplied>
+                        dicitur</supplied> demonstrat. <lb/> Inter libidinem et liuidinem hoc
+                    interest, quod libidinem cupiditatem animi significat, at uero liuidinem liuorem
+                    corporis esse demonstrat. <lb/> Inter malum et malum hoc interest
+                        <supplied>quod</supplied> si malum producte proferatur, uelum uel arbor
+                    nauis necesse est ut intellegatur; si uero malum correpte proferatur, id quod
+                    est pessimum necesse est ut subaudiatur. <lb/> Inter iubat et iuuat hoc
+                    interest, quod iubat adiuuat significat, at uero iuuat delectat demonstrat.
+                    <lb/> Inter tubam et tubos hoc interest, quod tubam symfoniae bucinam
+                    significat, at uero tubos qui aquam mittunt esse demonstrat. <lb/> Inter barbam
+                    et barbas <supplied>hoc interest, quod barbam hominum esse designat,
+                        bar</supplied>bas uero animalium esse demonstrat. <lb/> Inter neutrum et
+                    neutrale hoc interest, quod neutrum nomen aut pronomen uel participium
+                        sig<supplied>ni</supplied>ficat, neutrale uero uerbum esse demonstrat. <lb/>
+                    Inter tuum et tum hoc interest, quod tuum pronomen significat, tum uero
+                    aduerbium esse demonstrat. <lb/> I<supplied>nter</supplied> fragrat et flagrat
+                    hoc interest, quod fragrat odorem significat, flagrat uero splendorem
+                    demonstrat. <lb/> Inter theatrum et theatra hoc interest, quod theatrum moenia
+                    ipsa significat, theatra uero ludos scenicos esse demonstrat. <lb/> Inter dolum
+                    et dolorem hoc interest, quod dolum tergiuersationem significat, dolorem uero
+                    corporis <supplied>inquietudinem</supplied> esse demonstrat. <lb/> Inter
+                    augurium et auspicium hoc interest, quod augurium auium cantum significat,
+                    auspicium uero cuiuslibet aspectum demonstrat. <lb/> Inter probum et probrum hoc
+                    interest, quod probum iustum significat, probrum uero ignominiosum esse
+                    demonstrat. <lb/> Inter cocliarium et cocleare hoc interest, quod coclearium eum
+                    qui cocleas uindit significat, cocleare uero argenteum esse demonstrat. <lb/>
+                    Inter Asprum et asperum hoc interest, quod Asprum uocabulum hominis esse
+                    intellegitur, asperum autem non leue esse demonstratur. <lb/> Inter uelit et
+                    uellit hoc interest, quod uelit uolentem significat, uellit autem eruit
+                    demonstrat. <lb/> Inter honestum et onustum hoc interest, quod honestum nobilem
+                    designat, onustum uero onus ferentem demonstrat. <lb/> Inter nymfam et lymfam
+                    hoc interest, quod nymfam deam significat, lymfam autem aquam esse demonstrat.
+                    <lb/> Inter agmen et amnem hoc interest, quod agmen multitudinem uel iter esse
+                    demonstrat, at uero amnem fluuium esse designat. <lb/> Inter animam et animum
+                    hoc interest, quod anima sine differentia esse intellegitur, animus uero uarius
+                    et mutabilis esse cognoscitur. <lb/> Inter nigro et migro hoc interest, quod
+                    nigro, <del>hoc est</del> nigrum facio significat, migro autem loci demutationem
+                    demonstrat. <lb/> Inter abrogantem et adrogantem hoc interest, quod abrogantem
+                    aliis auferentem significat, adrogantem autem multum sivi praesumentem ostentat.
+                    <lb/> Inter serram et seram hoc interest, quod serram unde materies praeciditur
+                    designat, sera uero unde ostium tutatur esse demonstrat. <lb/> Inter forfices et
+                    forcipes hoc interest, quod forfices incisorias esse designat, forcipes uero
+                    tenaces esse demonstrat. <lb/> Inter annuit et abnuit hoc interest, quod annuit
+                    consensum significat, abnuit autem negationem demonstrat. <lb/> Inter procum et
+                    procerem hoc interest, quod procum petitorem nuptiarum designat, procerem uero
+                        princip<supplied>em</supplied> esse demonstrat. <lb/> Inter sartricem
+                        <supplied>et</supplied> sarcitricem hoc interest quod
+                        <supplied>sartricem</supplied> in agro o<supplied>pus facient</supplied>em
+                    significat <supplied>sarcinatric</supplied>em aut<supplied>em sarcinas
+                        seruantem</supplied> ost<supplied>entat sarcitricem uero</supplied> uestem
+                        <supplied>sarcientem demons</supplied>trat. <lb/> Inter furatum et furtatum
+                    hoc interest quod furatum eum qui furtum fecit significat, furtatum uero eum qui
+                    furtum passus sit demonstrat. <lb/> Inter nobilem et nouilem hoc interest, quod
+                    nobilem generosum significat, nouilem autem notum omnibus esse demonstrat. <lb/>
+                    Inter Syram et suram hoc interest, quod Syram gentis suae feminam designat, at
+                    uero suram partem pedis esse demonstrat. <lb/> Inter templa et delubra hoc
+                    interest, quod templa ubi simulacra sint designat, delubra uero aream cum
+                    porticibus demonstrat. <lb/> Inter os et oram hoc interest, quod os uultum uel
+                    rostrum designat, oram uero ultimam partem uniuscuiusque rei esse demonstrat.
+                    <lb/> Inter suus et sus hoc interest, quod suus pronomen intellegitur, sus uero
+                    animal esse intellegitur. <lb/> Inter sartorem et sarcitorem hoc interest, quod
+                    sartorem agrum sarrientem significat, sarcitorem autem uestem sarcientem
+                    demonstrat. <lb/> Inter aluum et alueum hoc interest, quod aluum uentrem
+                    significat, alueum autem rem concauam esse demonstrat. <lb/> Inter laminam et
+                    lamiam hoc interest, quod laminam tenuem cuiusque metalli rem designat, lamia
+                    uero animal esse demonstrat. <lb/> Inter oram et horam hoc interest, quod oram
+                    extremam partem cuiuslibet rei significat, horam uero quantitatem temporis esse
+                    demonstrat. <lb/> Inter quod et quot hoc interest, quod quod pronomen
+                    significet, quot uero aduerbium esse demonstrat. <lb/> Inter fatuum et fatum hoc
+                    interest, quod fatuum signem designat, fatum uero fortunae in decretis esse
+                    demonstrat. <lb/> Inter tempore et tempori hoc interest, quod tempore ablatiuum
+                    casum temporis significat, tempori uero aduerbium esse demonstrat. <lb/> Inter
+                    Fructus et fructuus hoc interest, quod Fructus uocabula hominum accipimus, hoc
+                    est nomina propria significamus, fructuus uero appellatiua nomina esse
+                    pronunctiamus. <lb/> Inter uisos et uisuus hoc interest, quod uisos participia
+                    significat, uisuus uero nomen appellatiuum esse demonstrat. <lb/> Inter Bassos
+                    et bassuus hoc interest, quod Bassos nom<supplied>ina</supplied> propria
+                    designat, bass<supplied>u</supplied>us uero appellatiua nomina esse demonstrat.
+                    <lb/> Inter similem et similantem hoc interest, quod similem talem significat,
+                    similantem uero mentientem demonstrat. <lb/> Inter ortus et hortus hoc interest,
+                    quod ortus processus significat, hortus uero agros amoenos esse demonstrat.
+                    <lb/> Inter sobriae et sobrie hoc interest, quod sobriae nomen designat, sobrie
+                    autem aduerbium esse demonstrat. <lb/> Inter feminam et femina hoc interest,
+                    quod feminam hominem significat, femina autem femora esse demonstrat. <lb/>
+                    Inter marem et mare hoc interest, quod ma<supplied>re</supplied>m masculum
+                    designat, mare uero elementum aquareum esse demonstrat. <lb/> Inter pyram et
+                    pirum hoc interest, quod pyram locum ardentem significat, pirum uero pomum esse
+                    demonstrat. <lb/> Inter principium et initium hoc interest, quod principium
+                    primam partem carminis significat, initium uero uniuscuiusque rei incidentis
+                    coeptum esse demonstrat. <lb/> Inter opus et operam hoc interest, quod opus id
+                    quod fit significat, operam uero a qua fit esse demonstrat. <lb/> Inter foedum
+                    et foedus hoc interest, quod foedum turpe significat, foedus uero ius iurandum
+                    esse demonstrat. <lb/> Inter oblitum et oblitum hoc interest, quod oblitum
+                    correpte perfusum significat, oblitum autem producte inmemorem esse demonstrat.
+                    <lb/> Inter concidit et concidit hoc interest, quod concidit correpte cecidit
+                    significat, concidi<supplied>t autem</supplied> producte s<supplied>eparat esse
+                        demonstrat</supplied>
+                    <lb/> Inter occidit et occidit hoc interest, quod occidit correpte mortuum
+                    significat, occidit autem producte interficit demonstrat. </p>
+            </div>
+            <div type="section" n="7">
+                <p> Verbum neutrale m<supplied>oror</supplied> conor auxilior ingredior percontor
+                    gratulor grassor loquor molior fungor laetor pollicior suspicor morior largior
+                    paciscor suffragor moderor uenor insidior epulor auguror priuor misereor
+                    recordor obsequor aduersor grat<supplied>ificor</supplied> glorior arbitror
+                        <supplied>fabri</supplied>ricor uiduor moecor <milestone unit="page"
+                        n="p. 204 vol. IV Keil"/> repperior rimor scortor
+                        a<supplied><gap/></supplied>
+                        amp<supplied>le</supplied>xo<supplied>r</supplied>
+                        adgre<supplied>dior</supplied> obli<supplied>uiscor</supplied>
+                        ad<supplied>sequor</supplied> utor fruor execr<supplied>or</supplied>
+                        test<supplied>or</supplied> uereor met<supplied>i</supplied>or. <lb/> Nunc
+                    hoc monem<supplied>us, quod</supplied> exceptis supra<supplied>dic</supplied>tis
+                        deponentib<supplied>us</supplied> et communibu<supplied>s uer</supplied>bis,
+                    quaecumque iam uerba indicatiuo modo temporis praesentis ex prima
+                        pers<supplied>ona</supplied> r littera terminantur <supplied>et ex
+                        s</supplied>ua specie non possunt facere uerba actiua, haec indiscreta
+                    qualitate accipiuntur <supplied>hoc est q</supplied>uod se<supplied>u</supplied>
+                    communis siue <supplied>de</supplied>pone<supplied>ntis</supplied>
+                        uer<supplied>b</supplied>i potestate fungantur. </p>
+                <p> FELICITER </p>
+            </div>
+        </body>
+    </text>
+</TEI>

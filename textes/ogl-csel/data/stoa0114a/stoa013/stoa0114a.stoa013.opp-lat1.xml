@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader xml:lang="eng">
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="lat">Petitorium quo Absolutus est Gerontius Puer Agapiti</title>
+        <author xml:lang="lat">Magnus Felix Ennodius</author>
+        <editor>Wilhelm Hartel</editor>        
+        <sponsor>University of Leipzig</sponsor>
+        <funder>European Social Fund Saxony</funder>
+        <principal>Gregory Crane</principal>
+        <respStmt>
+          <persName xml:id="Jouve">Jouve</persName>
+          <resp>OCR-ed, corrected and encoded the text</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Greta Franzini</persName>
+          <resp>Project Manager (University of Leipzig)</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Simona Stoyanova</persName>
+          <resp>Project Assistant (University of Leipzig)</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Bruce Robertson</persName>
+          <resp>Technical Advisor (Mount Allison University)</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Uvius Fonticola</persName>
+          <resp>Technical Advisor (Ludwig Maximilians University Munich)</resp>
+        </respStmt>
+      </titleStmt>
+      
+      <publicationStmt>
+        <authority>University of Leipzig</authority>
+        <idno type="filename">stoa0114a.stoa013.opp-lat1.xml</idno>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Available under a Creative Commons Attribution-ShareAlike 4.0 International License</licence>
+        </availability>
+        <date>2014</date>
+        <publisher>University of Leipzig</publisher>
+        <pubPlace>Germany</pubPlace>
+      </publicationStmt>
+      
+      <sourceDesc>
+        <listBibl>
+          <biblStruct>
+            <monogr>
+              <editor>
+                <persName>
+                  <name>Wilhelm Hartel</name>
+                </persName>
+              </editor> 
+              <author ref="http://data.perseus.org/catalog/urn:cts:latinLit:stoa0114a">Ennodius</author>  
+              <title xml:lang="lat">Magni Felicis Ennodii Opera Omnia</title>
+              <imprint>
+                <publisher>Gerold</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date>1882</date>
+              </imprint>
+            </monogr>
+            <series>
+              <title xml:lang="lat">Corpus Scriptorum Ecclesiasticorum Latinorum</title>
+              <biblScope unit="volume">6</biblScope>
+            </series>
+            <ref target="http://archive.org/stream/corpusscriptoru13wissgoog#page/414/mode/2up">Internet Archive</ref>            
+          </biblStruct>
+        </listBibl>
+      </sourceDesc>
+      
+    </fileDesc>
+    <encodingDesc>
+      <p>The following text is encoded in accordance with EpiDoc standards and with the
+        CTS/CITE Architecture. 
+</p>
+      <refsDecl n="CTS">
+        <cRefPattern n="paragraph" matchPattern="(.+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div[@type='edition']/tei:p[@n='$1'])"/>
+      </refsDecl>
+    </encodingDesc>
+    
+    <profileDesc>
+      <langUsage>
+        <language ident="lat">Latin</language>
+      </langUsage>
+    </profileDesc>
+    
+</teiHeader>
+<text>
+<body>
+<div type="edition" xml:lang="lat" n="urn:cts:latinLit:stoa0114a.stoa013.opp-lat1">
+<ab>
+            <title type="sub">VIII. PETITORIVM QVO ABSOLVTVS EST GERONTIVS PVER AGAPITL</title>
+          </ab>
+          <p n="1" rend="script">Deus arbiter uniuersitatis et conditor illa res humanas <lb/>
+            lance dispensat, ut et fideles praemium et poenam rebelles <lb/>
+            excipiant. lassis enim deuotorum obsequiis ualitudinem tribuit,<lb n="15"/>
+            dum muneris oblatione succurrit. perdit laboris memoriam <lb/>
+            mens terrenis obligata carceribus, quotiens illi uicissitudine <lb/>
+            subuenitur: in antiquum sudoris iuuenescit affectum qui <lb/>
+            necessitatem gratiae melle conmutat: sanctorum poenae, dum <lb/>
+            corona quaeritur, abiurantur. cui dubium est, quod nec ad<lb n="20"/>
+            caelum sine fiducia remunerationis adceditur? imitanda sunt <lb/>
+            mortalibus duce sapientia illa, quibus aeternus ordo conponitur: <lb/>
+            secuturus est actibus animus, unde sumpsit originem, dum <lb/>
+            deo deuote famulantes quod praestolamur offerimus. a superna <lb/>
+            enim conuersatione non discrepat qui talem obsequentibus
+
+<note rend="script" type="footnote"> U <lb/>
+            1 psulei\' <hi rend="italic">L</hi> auctoritate papae <hi rend="italic">LIPb</hi> Bubnixi. <hi rend="italic">L</hi> quae <lb/>
+            —amputari <hi rend="italic">L in mg. add</hi>. 5 quo <hi rend="italic">BL,</hi> qfi <hi rend="italic">T,</hi> quomodo <hi rend="italic">V</hi> <lb/>
+            6 paraere <hi rend="italic">L</hi> 8 dampnam <hi rend="italic">LV</hi> </note>
+
+<note rend="script" type="footnote"> VIII. 12 Agapiti <hi rend="italic">Sirm.,</hi> supra scripti <hi rend="italic">LP\'TV,</hi> ss<foreign xml:lang="grc">ι̅</foreign> <hi rend="italic">Bb (praecedit<lb/>
+             epistula ad Agapitum IIII 6)</hi> 14 fidelis <hi rend="italic">B</hi> rebellis <hi rend="italic">V1</hi> <lb/>
+            15 accipiant <hi rend="italic">Pb</hi> 18 iuueniscit <hi rend="italic">B</hi> 28 animus actibus <hi rend="italic">LTVb</hi> <lb/>
+            24 deuotae <hi rend="italic">B,</hi> deuo∗∗te <hi rend="italic">L</hi> prestoiamur <hi rend="italic">BLTV,</hi> postulamur P, <lb/>
+            postulatur <hi rend="italic">b</hi> </note><lb n="25"/>
+             
+<pb n="415"/>
+            inpendit dominum, qualem sibi uult esse salutis auctorem. <lb/>
+            Gerontium itaque, cuius a me conperta fides pudor integritas <lb/>
+            et exigit libertatem et suis dotibus innotescit, per praesens <lb/>
+            petitorium a beatitudine uestra Romanae deprecor ciuitatis <lb/>
+            gaudere consortio, cuius ego absolutionis non tam largitor <lb n="5"/>
+            quam testis existo : abiecta enim esset natura designati, nisi <lb/>
+            moribus uulgaretur. hunc quidem sum dudum interueniente <lb/>
+            commutatione mercatus, sed quia nullum est maius commodum <lb/>
+            quam illud quod serenum examen adsequitur, elegi palmam <lb/>
+            iudicii quam de adquisito habere compendium. ostendit <lb n="10"/>
+            mihi iusta praedicti seruitus personam non esse seruilem. <lb/>
+            ergo nominato non tam cupio ingenuitatem tribui quam <lb/>
+            refundi. scio quod recte uile nomen expulerit qui ante ingenuus <lb/>
+            credi meruit quam uocari. remisso ergo ab eo quod <lb/>
+            mihi debebatur obsequio, quam suam esse conuersatione <lb n="15"/>
+            docuit, eidem restituo libertatem, supplicans coronae uestrae, <lb/>
+            ut gestis ecclesiasticis ex omni obnoxietate soluatur, ut perpetuo <lb/>
+            Romanae urbis possit exultare collegio, omni peculio suo <lb/>
+            sine aliqua inminutione concesso : nec fas est ei de adquisitis <lb/>
+            quicquam minui, quem polliceor donis etiam potioribus subsequendum. <lb n="20"/>
+            </p>
+ 
+</div>
+</body>
+</text>
+</TEI>

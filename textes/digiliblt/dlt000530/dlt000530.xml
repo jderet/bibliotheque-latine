@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Epitome anonyma (quae gynaecia uocatur) recensio Ba</title>
+    <author>Vindicianus</author>
+    <respStmt>
+     <resp>Correzione linguistica</resp>
+     <name>Sara Mecca</name>
+    </respStmt>
+    <respStmt>
+     <resp>Codifica XML</resp>
+     <name>Nadia Rosso</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>digilibLT</publisher>
+    <pubPlace>Vercelli</pubPlace>
+    <date>2017</date>
+    <availability>
+     <p><ref target="http://creativecommons.org/licenses/by-nc-sa/3.0/it/"/></p>
+    </availability>
+    <idno>dlt000530</idno>
+   </publicationStmt>
+   <sourceDesc>
+    <p>K. Sudhoff, <hi rend="italic">Zur anatomie des Vindicianus</hi>, «Archiv für Geschichte der Medizin», 8 (1914-1915), 414-423.</p>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <projectDesc>
+    <p>digilibLT. Biblioteca digitale di testi latini tardoantichi.</p>
+    <p>Progetto diretto da Raffaella Tabacco (responsabile della ricerca) e Maurizio Lana</p>
+   </projectDesc>
+   <editorialDecl>
+    <p><hi rend="bold">Modifiche apportate al testo dell'edizione di riferimento </hi></p>
+    <p>Si è inserito il dittongo "ae" laddove compariva la corrispondente "e" con segno grafico simile alla cediglia.</p>
+
+    <p><hi rend="bold">Note di trascrizione e codifica del progetto digilibLT </hi></p>
+    <p>Abbiamo riportato solo il testo stabilito dall'edizione di riferimento non seguendone
+     l'impaginazione. Sono stati invece esclusi dalla digitalizzazione apparati, introduzioni, note
+     e commenti e ogni altro contenuto redatto da editori moderni. </p>
+    <p> I testi sono stati sottoposti a doppia rilettura integrale per garantire la massima
+     correttezza di trascrizione</p>
+    <p>Abbiamo normalizzato le U maiuscole in V seguendo invece l'edizione di riferimento per la
+     distinzione u/v minuscole.</p>
+    <p> Non è stato normalizzato l'uso delle virgolette e dei trattini.</p>
+    <p> Non è stata normalizzata la formattazione nell'intero <hi rend="italic">corpus</hi>:
+     grassetto, corsivo, spaziatura espansa.</p>
+    <p>Sono stati normalizzati e marcati nel modo seguente i diacritici.<lb/> espunzioni:
+     <![CDATA[<del>testo</del>]]> si visualizza [testo] <lb/> integrazioni: <![CDATA[<supplied>testo</supplied> si visualizza <testo>]]><lb/>
+     <hi rend="italic">loci desperati</hi>: <![CDATA[ <unclear>testo</unclear> o <unclear/> testo]]>
+     si visualizzano †testo† e †testo<lb/> lacuna materiale: <![CDATA[<gap/>]]> si visualizza
+     [...]<lb/> lacuna integrata dagli editori:
+     <![CDATA[<supplied><gap/></supplied> si visualizza <...>]]>
+    </p>
+    <p>Sono stati marcati i termini in lingua greca
+     <![CDATA[<foreign xml:lang="grc">αβγ</foreign>]]>
+    </p>
+    <p>Ulteriori informazioni sulle norme di trascrizione e codifica su <ref
+      target="http://digiliblt.lett.unipmn.it/upload/docs/note_di_trascrizione_e_di_codifica.pdf"
+      >Note di trascrizione e codifica di testi latini tardoantichi
+      [http://digiliblt.lett.unipmn.it/upload/docs/note_di_trascrizione_e_di_codifica.pdf]</ref></p>
+   </editorialDecl>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="la">Latino</language>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+
+ <text>
+
+
+  <body>
+   <div><head><hi rend="expanded">Tractatus de scaemate humano.</hi></head>
+    <p>Legimus quod antiquitus maioribus nostris, Lyppo uidelicet, Ypocrati et Apollonio et caeteris anathomicis incisoribus placuit mortuorum uiscera perscrutari, ut scirent, qua concatenatione, quaue distributione scema humanum in utero materno plasmaretur uel quo ordine membrorum uel quo numero uenarum uel qua intensione neruorum uel ossium uel iuncturarum incorporaretur. Quibus uisis et sensualiter perscrutatis a capites inchoantes ita depinxerunt.</p>
+    <p>Caput microcosmos connexuras habet .v., angulosas, alterutrum se continentes sicut <del>sicut</del> summus anothomicus Herophilus commemorat dicens: Masculus in galea connexuras habet .v., femina uero in circuitu connexuras habet, cui galea superposita est, quam greci mechanon apellant, quae coheret membrano, quod continet cerebrum.</p>
+    <p>Superposita est illi cutis, quae habet capillos, non causa decoris, sed ut ab aestu et frigore oculos custodiat. Supra dictae uero Galeae subiacent tympora, quae continentur spiritalibus uenis cerebri, quibus superposita supercilia, ut, si copiosus sudor fronti aduenerit, opposita pilorum stacione contineatur, donec sudor extorsus ab oculis auferatur.</p>
+    <p>Oculi quoque isto scemate continentur. Ex uasae cerebri foramina exorta sunt duo, per quae tenuissimae uenae dextra leuaque alternatum se inuicem continentur. Tunicae oculorum sunt .v. prima cerotòydes, secunda cróydes, tercia onoróydes quarta discòydes, quinta apellatur cristallòydes. Superposita sunt ossa oculis, quae malas uocantur.</p>
+    <p>Dentes uiri .xxx.ii., mulieres habent xxx, quorum anteriores singulas habent radices; qui dicuntur molares, habent ternas uel quaternas.</p>
+    <p>Palato lingua subiacet, cuius radix cooperit canulam spiritalem, quam greci urànos dicunt. Est etiam et alius canalis, per quem cibus descendit. Sed utrique canales modo aperiuntur, modo clauduntur. Aperitur spiritalis canalis, quando loquimur, clauditur, quando manducamus. Nam dum forte cibo aut potu utimur et risus occurrerit et spiritalis canalis de his aliquid acceperit, statim tussis consequitur, donec inpellente spiritu illud, quod acceperat, in propria iterum reuocet. Huic linguae dextra leuaque tussiculae sunt subpositae. Quod autem superpendet linguae, vua appellatur, subtus quam cauernae sunt duae, per quas fit infusio uel raptus, quod greci anathumasin uocant.</p>
+    <p>Nares quoque supra dictis cauernis inserte sunt, et per easdem usque ad cerebrum tendunt. Aures enim uiae sunt audituriae, sicut rerum natura disposuit, quae usque ad cerebrum et a cerebro descendentes faciunt faucium exalationem.</p>
+    <p>Coniungitur autem gula pulmoni. Pulmo uero in modum fabri ferrarij follis est constitutus. Taliter enim alternatim spiritum trahens et inplens pectoris archana spirant.</p>
+    <p>Stomachus autem uentri coniunctus est, qui inter spinas et pulmonem medium locum possidet.</p>
+    <p>Cor uenas quatuor habet, due, que continent spiritum, pulmoni affixae sunt, quarum concatenatio cum aliis duabus fit, quae sanguinem portant, qui totum corpus diffunditur et sic uenae pulsum reddunt. Itaque nutriuntur quando recipiunt sanguinem uenae. <supplied>I</supplied>n circo positum est cor, quod greci paricardian uocant, cingens extremas partes pulmonis. <supplied>H</supplied>uic supposita sunt precordia, que greci diafragma uocant, que continent pulmonem.</p>
+    <p>Huic subiacet uenter, cui coniuncta sunt latera et spina. <supplied>V</supplied>enter autem artificia habet duo, unum in proximo membrano, quod greci procardiam uocant, in sinistra inclinatum. Hoc greci epiphon uocant. Aliud uero in dextra parte circa iecor positum est, extensum usque ad intestinum, quod greci longaon dicunt, cingens extremam partem renum. Neruus uero inest uertici. In sinistra uero parte splen positum est, oblongo uentri coniunctum, continens membrana tenuia, habens pinguissimas uenas, que intestina regunt et calefaciunt. Hoc greci epiphocen uocant. Hinc rigores extensum est usque ad renem sinistrum et subiacet sub hoc intestino, quod greci tesmon uocant. Huic subiunctum est loetas, continens longaonem, qui iunctus est uesicae collo; quod ueretro inest.</p>
+    <p><supplied>V</supplied>esica uero renibus continetur media utrisque. Ex renibus uero fit decursus ad neruum uel testiculos, quod greci demasteron uocant. Quibus coniunctae sunt uenae tenuissimae, quae sperma deducunt a cerebro per spinae medullam ad testiculos, quibus multae sunt tunicae. <supplied>P</supplied>rima tunica testiculorum in masculis dicitur troydes, secunda prognoydes, tercia peritoydes, quarta est tenuissima et appellatur arcos. Similiter feminis inesse testiculos manifestum est, sed alio scemate formati sunt feminis quam uiris, nam breuiores et graciliores sunt. Sed quaecunque maiores habent, uiragines appellantur. Itaque euidens est una uiris ac mulieribus internorum uiscerum compaginata liniamenta inesse.</p>
+    <p><supplied>M</supplied>atrix naturaliter fragilis est et mollissima, constans ex neruis et paruissimis uenulis ac tunicis duabus. Exterius neruis est firma, interius carnosa et mollis, que est directa contra intestinum, cui ceruix tribus foraminibus erigitur usque ad longaonem. Habet etiam subiecta menbra, quibus continetur, que greci cinescyon uocant. Nam ut est masculi ueretrum ita et matricis collum, cuius in sinistra cella sperma miscetur, conceptio celebratur et mox clauditur tribus modis. Primo ne ingrediente uento corrumpat c<supplied>once</supplied>ptum et ut etiam, quamdiu materiam in utero habeat, coeat c<supplied>um</supplied> ea uir sine metu iteratae conceptionis. Secundo modo clauditur, ut non descendat infans ante tempus. Tertio modo clauditur, ut et sanguis menstrualis detineatur et cum paritura sit, habeat natura pondus, per quod deponatur infans et ne inpetuosius decurrentibus menstruis cessent nutrimenta infantis et exinde periclitari incipiat. Tribus inquam his modis clauditur et tribus aperitur, unde Ypocras in aphorismis: bene, inquit, nostis, quomodo posita sit matrix. Orificia habet duo, unum exterius, aliud interius, que utrumque sicut tribus modis clauduntur, sic et tribus aperiuntur. Exterius orificium dicitur os uuluae, quod numquam dicunt sufficit, ubi menbro uirili inposito utrorumque assensu laborat humana propago et constituuntur in carne una duo. Hoc item, ut dictum est, tripartite aperitur. Aperitur in coitu, sperma ad se trahens ueluti uentosa, aperitur ad emittenda menstrua, aperitur, dum assunt tempora partui competentia.</p>
+    <p>Huc usque hoc me dixisse non sine rubore socij nostri ne dubitent, et quod dictum, si a minus capacibus forte inuertatur, utinam et id ipsum non dixissem. Nichil enim tam male dictum, quin a bonis in bonum, nil tam bene, quin econuerso a malis in malum conuerti possit.</p></div>
+   
+  </body>
+ </text>
+
+</TEI>

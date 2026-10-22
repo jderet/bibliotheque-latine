@@ -1,0 +1,2334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Hermeneumata Bruxellensia</title>
+    <author>Dositheus (Ps.)</author>
+    <respStmt>
+     <resp>Correzione linguistica</resp>
+     <name>Dario Gabutti</name>
+    </respStmt>
+    <respStmt>
+     <resp>Codifica XML</resp>
+     <name>Nadia Rosso</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>digilibLT</publisher>
+    <pubPlace>Vercelli</pubPlace>
+    <date>2017</date>
+    <availability>
+     <p><ref target="http://creativecommons.org/licenses/by-nc-sa/3.0/it/"/></p>
+    </availability>
+    <idno>dlt000589</idno>
+   </publicationStmt>
+   <sourceDesc>
+    <p><hi rend="italic">Hermeneumata pseudodositheana</hi>, ed. G. Goetz, Lipsiae 1892, pp. 393-421 (= Corpus glossariorum Latinorum, III) [Fragmentum Bruxellense; Glossarium Leidense].</p>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <projectDesc>
+    <p>digilibLT. Biblioteca digitale di testi latini tardoantichi.</p>
+    <p>Progetto diretto da Raffaella Tabacco (responsabile della ricerca) e Maurizio Lana</p>
+   </projectDesc>
+   <editorialDecl>
+    <p><hi rend="bold">Modifiche apportate al testo dell'edizione di riferimento </hi></p>
+    <p>[inserire eventuali descrizioni di tali modifiche, ricordandosi di togliere le parentesi
+     quadre. Se non ci sono modifiche eliminare questa sezione compreso il suo titolo]</p>
+
+    <p><hi rend="bold">Note di trascrizione e codifica specifiche del file </hi></p>
+    <p>[Specificare eventuali peculiarità di trascrizione e codifica: normalizzazioni grafiche
+     specifiche per questo testo, presenza di glifi o immagini (dichiararne la presenza: le
+     consuetudini per la loro marcatura sono nella sezione seguente e nel file al quale rimanda il
+     link nella sezione seguente... Se non ci sono peculiarità eliminare questa sezione compreso il
+     suo titolo]</p>
+
+    <p><hi rend="bold">Note di trascrizione e codifica del progetto digilibLT </hi></p>
+    <p>Abbiamo riportato solo il testo stabilito dall'edizione di riferimento non seguendone
+     l'impaginazione. Sono stati invece esclusi dalla digitalizzazione apparati, introduzioni, note
+     e commenti e ogni altro contenuto redatto da editori moderni. </p>
+    <p> I testi sono stati sottoposti a doppia rilettura integrale per garantire la massima
+     correttezza di trascrizione</p>
+    <p>Abbiamo normalizzato le U maiuscole in V seguendo invece l'edizione di riferimento per la
+     distinzione u/v minuscole.</p>
+    <p> Non è stato normalizzato l'uso delle virgolette e dei trattini.</p>
+    <p> Non è stata normalizzata la formattazione nell'intero <hi rend="italic">corpus</hi>:
+     grassetto, corsivo, spaziatura espansa.</p>
+    <p>Sono stati normalizzati e marcati nel modo seguente i diacritici.<lb/> espunzioni:
+     <![CDATA[<del>testo</del>]]> si visualizza [testo] <lb/> integrazioni: <![CDATA[<supplied>testo</supplied> si visualizza <testo>]]><lb/>
+     <hi rend="italic">loci desperati</hi>: <![CDATA[ <unclear>testo</unclear> o <unclear/> testo]]>
+     si visualizzano †testo† e †testo<lb/> lacuna materiale: <![CDATA[<gap/>]]> si visualizza
+     [...]<lb/> lacuna integrata dagli editori:
+     <![CDATA[<supplied><gap/></supplied> si visualizza <...>]]>
+    </p>
+    <p>Sono stati marcati i termini in lingua greca
+     <![CDATA[<foreign xml:lang="grc">αβγ</foreign>]]>
+    </p>
+    <p>Ulteriori informazioni sulle norme di trascrizione e codifica su <ref
+      target="http://digiliblt.lett.unipmn.it/upload/docs/note_di_trascrizione_e_di_codifica.pdf"
+      >Note di trascrizione e codifica di testi latini tardoantichi
+      [http://digiliblt.lett.unipmn.it/upload/docs/note_di_trascrizione_e_di_codifica.pdf]</ref></p>
+   </editorialDecl>
+   <charDecl>
+    <char xml:id="char1">
+     <charName>s cum linea subscripta</charName>
+     <desc>s cum linea subscripta</desc>
+    </char>
+
+    <char xml:id="char2">
+     <charName>n cum linea subscripta</charName>
+     <desc>n cum linea subscripta</desc>
+    </char>
+   </charDecl>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="la">Latino</language>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+
+ <text>
+
+
+  <body>
+   <div type="section"><head>FRAGMENTVM BRVXELLENSE</head>
+<p><milestone unit="page" n="p. 393 col. a Goetz"/>
+onesato emit<lb/>
+biblion liber<lb/>
+proton primus explicit<lb/>
+<hi rend="bold">periurano decęlo</hi><lb/>
+uranus cęlum<lb/>
+astere stellę<lb/>
+nefeli nubila<lb/>
+nomencle nebula<lb/>
+eudias serenum<lb/>
+epine • felū • <g ref="#char1">s</g> bnbībum<lb/>
+ombrus nimbus<lb/>
+brocetas pluuia<lb/>
+stalacmos stillicidium<lb/>
+droscis ros<lb/>
+stagones gitate<lb/>
+chion nix<lb/>
+pageto regelus<lb/>
+psisto frigus<lb/>
+astrapes coruscatio<lb/>
+brone tonitruum<lb/>
+cranus fulmen <lb/>
+nix nox<lb/>
+scorcia enelore <lb/>
+obse sero<lb/>
+proi mane<lb/>
+emera dies<lb/>
+fos lux<lb/>
+<hi rend="bold">theon deorum</hi><lb/>
+theos deus<lb/>
+<milestone unit="page" n="p. 393 col. b Goetz"/>
+chronos saturnus<lb/>
+zeus iouis<lb/>
+elios sol<lb/>
+ares maris<lb/>
+posidon neptunus<lb/>
+efestos uulcanus<lb/>
+eros cupido<lb/>
+photos amor<lb/>
+dionisos liber pater<lb/>
+ermes mercurius<lb/>
+eracles erculus<lb/>
+pan incipus<lb/>
+iereus sacerdos<lb/>
+<hi rend="bold">theanon dearum</hi><lb/>
+thea dea<lb/>
+era iurno<lb/>
+selenę luna<lb/>
+artimis diana<lb/>
+afrodite uenus<lb/>
+athena minerua<lb/>
+meterteor mater d<g ref="#char2">n</g>i<lb/>
+ge terra<lb/>
+rea opis<lb/>
+demtra ceras<lb/>
+omonoea concordia<lb/>
+leto latona<lb/>
+enso bellona<lb/>
+erynis furie<lb/>
+faria isis<lb/>
+muse camene<lb/>
+<milestone unit="page" n="p. 394 col. a Goetz"/>
+memaysine moneta<lb/>
+diceosine iustitie<lb/>
+time honor<lb/>
+ygia saius<lb/>
+estia uesta<lb/>
+uthicia felicitas<lb/>
+tiche futurna<lb/>
+elpes spes<lb/>
+pronoea prouidentia<lb/>
+prosefaire proserpina<lb/>
+<hi rend="bold">peinmelon demenbris</hi><lb/>
+antistopinon humanis<lb/>
+atropus homo<lb/>
+mele menbra<lb/>
+zosimus uitalis<lb/>
+zoe uita<lb/>
+psiche anima<lb/>
+fone uox<lb/>
+soma corpus<lb/>
+cephale capud<lb/>
+coriphe uertex<lb/>
+cramon calnua<lb/>
+encefalus cerbellum<lb/>
+ymen menbranum<lb/>
+triches capilli<lb/>
+dostri circinni<lb/>
+flocamoe crines<lb/>
+scollos cirrus<lb/>
+metopon frons<lb/>
+crotafe tempora<lb/>
+cantoe ansoli<lb/>
+ofries supercilia<lb/>
+blefara palpebre<lb/>
+obtalmi oculi<lb/>
+ocia auriculę<lb/>
+roton nasus<lb/>
+gnatoe bucce<lb/>
+siagonis mammille<lb/>
+<milestone unit="page" n="p. 394 col. b Goetz"/>
+pogon barba<lb/>
+chilę labia<lb/>
+ala gingiue<lb/>
+odones dentes<lb/>
+uraniscus platum<lb/>
+grossa lingua<lb/>
+cenion mentum<lb/>
+stonet rostum<lb/>
+sielcis saliua<lb/>
+acicen ceruix<lb/>
+tracelos collum<lb/>
+faruix gula<lb/>
+broncus guttur<lb/>
+catadis humerus<lb/>
+bracionis brachia<lb/>
+mies lacerti<lb/>
+anconis cubiti<lb/>
+chires manus<lb/>
+dexico dextera<lb/>
+ansera sinistra<lb/>
+dactile digiti<lb/>
+onites ungulas<lb/>
+stetus pectus<lb/>
+cardia cor<lb/>
+masteo mamilla<lb/>
+caster uenter<lb/>
+omfalus umbiculus<lb/>
+rotus dorsum<lb/>
+rachis spinalis<lb/>
+pleura lactus<lb/>
+lagonis ilia<lb/>
+sacmia lumbi<lb/>
+nefroe renes<lb/>
+cotele coxe<lb/>
+pice natisbus<lb/>
+proctus collus<lb/>
+edocon ueretrum<lb/>
+orcis testiculi<lb/>
+meroe poplies<lb/>
+<milestone unit="page" n="p. 395 col. a Goetz"/>
+gonata gentia<lb/>
+antingimia tibia<lb/>
+scele crura<lb/>
+astragoloe cali<lb/>
+podes pedes<lb/>
+neutra nerui<lb/>
+flebis uene<lb/>
+oyta ossa<lb/>
+millos medulla<lb/>
+estera stenta<lb/>
+ema sanguis<lb/>
+cole efeta<lb/>
+ficar alipe<lb/>
+epiplus omentem<lb/>
+sarcos caro<lb/>
+derma pellis<lb/>
+<hi rend="bold">perifilosimon dest d<g ref="#char2">n</g>s</hi><lb/>
+redior orator<lb/>
+anafonesis declinatio<lb/>
+anagnosis lectio<lb/>
+exenesis narratio<lb/>
+dialectos disputatio<lb/>
+mitos subula<lb/>
+aerrate auditoris<lb/>
+scymmatice cum discpulis<lb/>
+rema uerbum<lb/>
+biblion bibe<lb/>
+flentos titulus<lb/>
+sticoe uersus<lb/>
+dice causa<lb/>
+crisis iudicium<lb/>
+<hi rend="bold">etactiotas demilitia</hi><lb/>
+parebule castra<lb/>
+stratiote militis<lb/>
+pezeo pedietis<lb/>
+yppis aequites<lb/>
+tozote sagittare<lb/>
+<milestone unit="page" n="p. 395 col. b Goetz"/>
+gramatistes serarie<lb/>
+sennofore significare<lb/>
+eccetotarcus centurie<lb/>
+egemon dux<lb/>
+eparcus praefectus<lb/>
+demarcus trionus<lb/>
+detarcos decurio<lb/>
+polecemus pugna<lb/>
+irene pax<lb/>
+erateuma exercitus<lb/>
+temal egio<lb/>
+spirin cohors<lb/>
+<hi rend="bold">peripoleus de ciuitate</hi><lb/>
+polis ciuitas<lb/>
+etatis meneis conditus<lb/>
+thicos murus<lb/>
+pile porta<lb/>
+andriautes stectae<lb/>
+chononon thoris orium<lb/>
+belemon balneum<lb/>
+ergaterim taberna<lb/>
+benia tribunal<lb/>
+ados uia<lb/>
+agrapus symeta<lb/>
+lorus mons<lb/>
+biblion liber<lb/>
+ret explicit<lb/>
+inceps quartus<lb/>
+<hi rend="bold">ferianemum deuentis</hi><lb/>
+anemus uentus<lb/>
+fisa sufflat<lb/>
+borecos aquilo<lb/>
+nothus auster<lb/>
+lips africus<lb/>
+eoros eurus<lb/>
+speliotes subsolanus<lb/>
+aparcias septemtrio<lb/>
+<milestone unit="page" n="p. 396 col. a Goetz"/>
+zefiros fabonius<lb/>
+chorus ulturnus<lb/>
+nautilia nauigatio<lb/>
+limon portus<lb/>
+neulia nauigilia<lb/>
+chimon tempestas<lb/>
+<hi rend="bold">erathalassa mare</hi><lb/>
+galene tranquillum<lb/>
+egialos litus<lb/>
+cimata fluctus<lb/>
+nessos insula<lb/>
+clididos unda<lb/>
+ammos arena<lb/>
+nais nauis<lb/>
+marra longa<lb/>
+alieutice piscatoria<lb/>
+parassemon tutela<lb/>
+tropis carina<lb/>
+cope rem<lb/>
+prime puppis<lb/>
+ceras antemna<lb/>
+dendron ambron<lb/>
+scenia fones<lb/>
+armena uela<lb/>
+diptera sigestinum<lb/>
+anthlia sentina<lb/>
+nautes natam<lb/>
+epibates uector<lb/>
+gomos onus<lb/>
+octhe ripa<lb/>
+optamus fluuius<lb/>
+gysira pons<lb/>
+<hi rend="bold">perihiction depiscibus</hi>
+hicthis piscis<lb/>
+labrax lupus<lb/>
+ceriees bucini<lb/>
+polipodes polipus<lb/>
+enchelis ancilla<lb/>
+trigle muli<lb/>
+<milestone unit="page" n="p. 396 col. b Goetz"/>
+oniscus aselles<lb/>
+sepea sepia<lb/>
+gobios gobio<lb/>
+leotis luligo<lb/>
+crysofrux aurata<lb/>
+cephalus capite<lb/>
+codonox dentes<lb/>
+carabo locusta<lb/>
+<hi rend="bold">perigeor deagriculatura</hi><lb/>
+cias cultura<lb/>
+agros ager<lb/>
+calibe causa<lb/>
+yle silua<lb/>
+asur lucus<lb/>
+arure segetes<lb/>
+stacis spica<lb/>
+pirus frumentum<lb/>
+sitos triticum<lb/>
+erethe ordeum<lb/>
+pate lenticula<lb/>
+erebinthus cicer<lb/>
+meton papauer<lb/>
+limon pratum<lb/>
+chortos fenum<lb/>
+desme mannuę<lb/>
+thrigethos uindemia<lb/>
+lenus torculare<lb/>
+sitobolon granarium<lb/>
+cepus ortum<lb/>
+agroece rustici<lb/>
+ergate operarii<lb/>
+scasis fossores<lb/>
+agele grex<lb/>
+poemen pastor<lb/>
+agrofox saltuarius<lb/>
+cyleutes circiter<lb/>
+<hi rend="bold">peridendron dearboribus</hi><lb/>
+dendron arbor<lb/>
+clados rami<lb/>
+<milestone unit="page" n="p. 397 col. a Goetz"/>
+filla folia<lb/>
+dafne laurus<lb/>
+ussus edera<lb/>
+pitis pinus<lb/>
+peuce sappinus<lb/>
+mursini myrta<lb/>
+epidon pirum<lb/>
+coccymela pruna<lb/>
+carion nox • sau<lb/>
+sice ficus<lb/>
+melandris sorbus<lb/>
+comaros uraimone<lb/>
+psicos buxsus<lb/>
+melon malum<lb/>
+fexit palma<lb/>
+patellea ulmus<lb/>
+itea salice<lb/>
+ampelus uinea<lb/>
+clema uitis<lb/>
+olea oliua<lb/>
+calamus arundo<lb/>
+sicamina mora<lb/>
+egyros populum<lb/>
+dris quercus<lb/>
+primus ilixe<lb/>
+<hi rend="bold">periorneon deauibus</hi>
+orneon auis<lb/>
+aetos aquila<lb/>
+gypi uulturis<lb/>
+paos paruos<lb/>
+chen anser<lb/>
+pelarigos ciconia<lb/>
+ethira merulus<lb/>
+melissa apis<lb/>
+muia musea<lb/>
+corax coruus<lb/>
+coron cornula<lb/>
+celidon erundo<lb/>
+<milestone unit="page" n="p. 397 col. b Goetz"/>
+cicla turdus<lb/>
+coyricus merulus<lb/>
+strutin passer<lb/>
+nessa anatis<lb/>
+peristera columba<lb/>
+sisopigis. mutacilla<lb/>
+sparus sturnus<lb/>
+tectis cicada<lb/>
+orax coturnix<lb/>
+aedon luscinia<lb/>
+basiliscus gregariolus<lb/>
+ierax acceptor<lb/>
+sicallis fecetula<lb/>
+calceagra gabia<lb/>
+ittinus miluus<lb/>
+cissa pica<lb/>
+<hi rend="bold">perilachanon deholeribus</hi><lb/>
+lachanon olus<lb/>
+cambe culicule<lb/>
+ormenon cyma<lb/>
+molochia maluas<lb/>
+seuelia betas<lb/>
+cingile rapas<lb/>
+bassadis napi<lb/>
+colocenthe cucurbitas<lb/>
+sicidia cucumeres<lb/>
+thridacia lactucas<lb/>
+serdes intibia<lb/>
+marathron feniculum<lb/>
+prassia porbi<lb/>
+cmaras cardi<lb/>
+edyosmon menta<lb/>
+selenon apium<lb/>
+pagenon ruta<lb/>
+<hi rend="bold">pericreton decarne</hi><lb/>
+creas carone<lb/>
+cereon porcina<lb/>
+<milestone unit="page" n="p. 398 col. a Goetz"/>
+calathenon lactantina<lb/>
+probacion berbetina<lb/>
+arnior agnina<lb/>
+egyor caprina<lb/>
+eurifion edina<lb/>
+boinon bobalina<lb/>
+mosclion uiclina<lb/>
+elafion ceruma<lb/>
+chenion anrerina<lb/>
+siagrion aprina<lb/>
+amon crudum<lb/>
+epthon coctum uel assum<lb/>
+eptimenon conditum<lb/>
+gala lac<lb/>
+tiros casiuor<lb/>
+ythar sumen<lb/>
+methar uulua<lb/>
+meli mel<lb/>
+opos lasar<lb/>
+<milestone unit="page" n="p. 398 col. b Goetz"/>
+<hi rend="bold">peripotion depotionibus</hi><lb/>
+postotor potio<lb/>
+oenos uinum<lb/>
+paleos uetus<lb/>
+cletus mustus<lb/>
+agroeton rusticus<lb/>
+epies bibisti<lb/>
+thermon calidum<lb/>
+zeston feruentem<lb/>
+psicon frigidum<lb/>
+clyaron tepidum<lb/>
+aglato merum<lb/>
+ydarce aquatum<lb/>
+cecrauinas temporatum<lb/>
+cyclyn dulcem<lb/>
+enclicazoni sucidum<lb/>
+mantama disce<lb/>
+bibacion biber<lb/>
+apiton tertius<lb/>
+apertissime feliciter<lb/>
+</p></div>
+<div type="section"><head>GLOSSARIVM LEIDENSE</head>
+<p><milestone unit="page" n="p. 398 col. a Goetz"/>
+incipiunt interpretationes latinę hoc est hermineomata grecę<lb/>
+abinitio apoarches<lb/>
+abalfalittera apoalfagrammatos<lb/>
+aprimolibro apoprotubiblios<lb/>
+audi acuson<lb/>
+audio acuo<lb/>
+audisti ecuses<lb/>
+audite acusate<lb/>
+audiuimus ecusamen<lb/>
+audiunt acuusin<lb/>
+audierunt ecusan<lb/>
+abscondi chrybeni<lb/>
+absconsum chrypton<lb/>
+aue chere<lb/>
+<milestone unit="page" n="p. 398 col. b Goetz"/>
+augusta steni<lb/>
+anima psyxe<lb/>
+aurum chryson<lb/>
+aboriente apoanatolon<lb/>
+anno etei<lb/>
+aqua ydor<lb/>
+aperi anyxon<lb/>
+aperio anygo<lb/>
+aperis anygis<lb/>
+aperimus anygomen<lb/>
+aperit anygi <lb/>
+aperiunt anygusin<lb/>
+apertumest enyctae<lb/>
+adiuua boetheson <lb/>
+adiuuo boetho<lb/>
+<milestone unit="page" n="p. 399 col. a Goetz"/>
+adiuuate boethesate<lb/>
+adiuuamus boethumen<lb/>
+adiuuauimus eboethesamen<lb/>
+adiuuauerunt eboethesan<lb/>
+adiutor boethos<lb/>
+angulos gonia<lb/>
+agita elason<lb/>
+agito elauno <lb/>
+agitas elaunis<lb/>
+agitasti elases<lb/>
+agitaui elasa<lb/>
+agitauimus elasamen<lb/>
+agitator eniochos<lb/>
+agitauit eniochesen<lb/>
+agitatores eniochoe<lb/>
+agitant eniochusin<lb/>
+agitauerunt eniochesan<lb/>
+adfer enence<lb/>
+attuli enenca<lb/>
+attulisti enences<lb/>
+attulit enencen<lb/>
+attulimus enencamen<lb/>
+attulerunt enencan<lb/>
+aequalem ison<lb/>
+aequalis isotimos<lb/>
+aucupatur ixeui<lb/>
+auceps ixeutes<lb/>
+aucupatores ixeutae<lb/>
+abdormiui apecoemethen<lb/>
+abdormisti apecoemethes<lb/>
+abdormiuimus apecoemethumen<lb/>
+abdormit apecoematae<lb/>
+accipe labe<lb/>
+accipio lambano<lb/>
+accipisti elabes<lb/>
+accepi elaba<lb/>
+accipite labete<lb/>
+accipimus lambanomen<lb/>
+acciperunt eleban<lb/>
+accipis lambanis<lb/>
+accipit elaben<lb/>
+<milestone unit="page" n="p. 399 col. b Goetz"/>
+assa opteson<lb/>
+asso opto<lb/>
+assas optas<lb/>
+assat opta<lb/>
+assum opton<lb/>
+assamus optomen<lb/>
+assasti opteses<lb/>
+assaui optesa<lb/>
+assauerunt optesan<lb/>
+assauimus optesamen<lb/>
+assurae par opta<lb/>
+asinus onos<lb/>
+asina onothelia<lb/>
+asini onoe<lb/>
+asinae onadesonotheliae<lb/>
+asinarius onelates<lb/>
+age praxon <lb/>
+ago prasso<lb/>
+agis prabtis<lb/>
+agit pratti<lb/>
+agite praxate<lb/>
+agimus prassomen<lb/>
+agent prassusin<lb/>
+agant praxosin<lb/>
+agitur practhete<lb/>
+algio rigo<lb/>
+algis rigas<lb/>
+algit riga<lb/>
+algimus rigomen<lb/>
+allide rexon<lb/>
+allido resso<lb/>
+allidis ressis<lb/>
+allidit ressi<lb/>
+allisusest rerecte<lb/>
+allidite rexate<lb/>
+alliserunt erexan<lb/>
+aduna synaxon <lb/>
+aduno synago<lb/>
+adunas synagis<lb/>
+adunaui synexa<lb/>
+adunasti synexes<lb/>
+<milestone unit="page" n="p. 400 col. a Goetz"/>
+adunate synaxate<lb/>
+adunauimus synexamen<lb/>
+adunatum est synegomenon estin<lb/>
+ama fileso<lb/>
+amo filo<lb/>
+amas filis<lb/>
+amat fili<lb/>
+amaui efilesa<lb/>
+amauit efilesin<lb/>
+amasti efileses<lb/>
+amate filesate<lb/>
+amauimus efilesamen <lb/>
+amauerunt efilesan<lb/>
+amatisunt efiletoeisin<lb/>
+amatos filetos<lb/>
+amor pothos<lb/>
+aduentus eparysia<lb/>
+aurum chrysos<lb/>
+aurei chryseoe<lb/>
+aurifex chrysochoos<lb/>
+adaurificem prostonchrysochoon<lb/>
+aurifices chrysochooe<lb/>
+arma oplon<lb/>
+armatus oplimenon<lb/>
+armati sunt oplistesan<lb/>
+armatum oplismenon<lb/>
+armauitse opliste<lb/>
+alia alla<lb/>
+aliamparabolam allenparabolen <lb/>
+apollo apollon<lb/>
+aesculapius asclepios<lb/>
+aetas elicia<lb/>
+aestus sychos<lb/>
+angulioculorum canthoe<lb/>
+auriculae ota<lb/>
+alae maschalae<lb/>
+adeps stear<lb/>
+aedis naos<lb/>
+<milestone unit="page" n="p. 400 col. b Goetz"/>
+ara bomos<lb/>
+auidus aplestos<lb/>
+auditores arcroatae<lb/>
+aedilis angoranomos<lb/>
+augustus sebastos<lb/>
+auus pappos<lb/>
+auia mammae<lb/>
+aduersarius antidicos<lb/>
+amicus filos<lb/>
+amica file<lb/>
+aedina erifia<lb/>
+agnina arnia<lb/>
+angustrina stenochorta<lb/>
+asta dory<lb/>
+aquarius hydrochoos<lb/>
+aedificium oecodomema<lb/>
+armarium pyrgiscos<lb/>
+auster notos<lb/>
+aquilo boreas<lb/>
+arena ammos<lb/>
+africus lips<lb/>
+arbor dendron<lb/>
+artemo armon<lb/>
+anguilla enchelis<lb/>
+antemna ceras id est cornu<lb/>
+asellus oniscos<lb/>
+aurata chrysophrys<lb/>
+ager agros<lb/>
+abellanea leptocriria<lb/>
+amigdala amigdala<lb/>
+aquila aetus<lb/>
+appium selinon<lb/>
+alium scordon<lb/>
+asparagi asparagoe<lb/>
+auis orneom<lb/>
+anser chen<lb/>
+apis melissa<lb/>
+anates nessa<lb/>
+<milestone unit="page" n="p. 401 col. a Goetz"/>
+accipiter ieax<lb/>
+bonafortuna agathe tyche<lb/>
+balteum zoster<lb/>
+bracae anaxyrides<lb/>
+balneum lutron<lb/>
+buccae gnathee<lb/>
+barba pogon<lb/>
+brachia bracones<lb/>
+buxus pyxus<lb/>
+bibens pinoon<lb/>
+bibi epia<lb/>
+bibimus epiomen<lb/>
+bubula boia<lb/>
+bonus calos siue agathos<lb/>
+bonum calon<lb/>
+bona agathe<lb/>
+bonaopera calaerga<lb/>
+ciceronis ciceronos<lb/>
+cupientes epithymuntas<lb/>
+conscribsi sinegrapsa<lb/>
+conscribam syngrapho<lb/>
+condio artyo<lb/>
+conde artyson<lb/>
+condis artys<lb/>
+condisti ertyses<lb/>
+condiui ertys<lb/>
+condiuimus ertysamen<lb/>
+condiunt ertiusin<lb/>
+condierunt ertysan<lb/>
+condimenta ertyma<lb/>
+ciuitas polis<lb/>
+cogita buleuse<lb/>
+cogito buleuome<lb/>
+cogitas buleue<lb/>
+cogitat buleuete<lb/>
+cogitant buleuonte<lb/>
+cogitauimus eubuleusametha<lb/>
+cogitauerunt eubuleusonto<lb/>
+conaris biaze<lb/>
+<milestone unit="page" n="p. 401 col. b Goetz"/>
+conor biazome<lb/>
+conatus es ebiaste<lb/>
+conatur biazonthe<lb/>
+conauerunt ebiasontho<lb/>
+conatisunt ebiasthesan<lb/>
+conatisumus ebiasthemen<lb/>
+caedo dero<lb/>
+caedis deris<lb/>
+caedit deri<lb/>
+caedamus diromen<lb/>
+caesisunt edaresan<lb/>
+caeduntur deronte<lb/>
+caena dipneson<lb/>
+caeno dipno<lb/>
+caenas dipnis<lb/>
+caenant dipnusin<lb/>
+caenatores dipnetae<lb/>
+caenauerunt edipnesan<lb/>
+caenasti edipneses<lb/>
+caenaui edipnesa<lb/>
+caenat dipni<lb/>
+caenauimus edipnesamen<lb/>
+certa erison<lb/>
+certaui erisa<lb/>
+certamus erizomen<lb/>
+certauimus erisamen<lb/>
+certaris erizis<lb/>
+certator erizi<lb/>
+certatus es erises<lb/>
+certantur erizusin<lb/>
+concupiscis epithymis<lb/>
+concupisco epithymo<lb/>
+concupiscit epithymi<lb/>
+cupidus epithymethes<lb/>
+calca pateson<lb/>
+calco pato<lb/>
+calcatur patite<lb/>
+calcas patis<lb/>
+calcat pati<lb/>
+<milestone unit="page" n="p. 402 col. a Goetz"/>
+calcauimus epanthesamen<lb/>
+calcauerunt epatesan<lb/>
+calcate epatesate<lb/>
+calcasti epateses<lb/>
+calcaui epatesa<lb/>
+calcatumest pepatemenon estin<lb/>
+consue rapson<lb/>
+consui erapsa<lb/>
+consuis raptis<lb/>
+consuit erapsen<lb/>
+cumsuo rapto<lb/>
+cumsuet rapti<lb/>
+cumsutum reramenon<lb/>
+cumsuisti erapses<lb/>
+cerne siniason<lb/>
+cerno siniazo<lb/>
+cernis siniazis<lb/>
+cernite siniasate<lb/>
+conserua syntereson<lb/>
+conseruo syntero<lb/>
+conseruate synteresate<lb/>
+conseruasti synetereses<lb/>
+conseruaui syneteresa<lb/>
+conseruauimus syneteresamen<lb/>
+curre drame<lb/>
+curro trecho<lb/>
+curris trechis<lb/>
+currit trechi<lb/>
+currimus trechomen<lb/>
+currite dramete<lb/>
+cucurristi edrames<lb/>
+cucurri edrama<lb/>
+cucurrimus edramomen<lb/>
+cucurrerunt edraman<lb/>
+cursor dromeus <lb/>
+cursores dromis<lb/>
+cursus dromos<lb/>
+cursum dromon<lb/>
+calcia hypodese<lb/>
+calciome hypodeome<lb/>
+calciaui hypodesa<lb/>
+<milestone unit="page" n="p. 402 col. b Goetz"/>
+calciasti hypedeso<lb/>
+calciauime hypedesame<lb/>
+calciatussum hypodedeme<lb/>
+calciatisunt hypodedente<lb/>
+calciaueruntse hypedesanto<lb/>
+calciati sumus hypedethemen<lb/> 
+calciauimusnos hypedesomestha<lb/>
+calciamenta hypodematha<lb/>
+calciate hypodesate<lb/>
+clodos cholos<lb/>
+clodicat cholaeni<lb/>
+caca chesce<lb/>
+cacat chyzi<lb/>
+cacauit echesen<lb/>
+cacasti echeses<lb/>
+caco chezo<lb/>
+cacaui echesa<lb/>
+cacamus chezomen<lb/>
+cacant chezusin<lb/>
+cacauerunt echesan<lb/>
+concacasti cetecheses<lb/>
+concacauit catechesen<lb/>
+concacius enchesten<lb/>
+conputa psefison<lb/>
+conputo psefizo<lb/>
+conputo psefizo<lb/>
+conputas psefizis<lb/>
+conputat psefizi<lb/>
+computasti epsefises<lb/>
+computaui epsefisa<lb/>
+computate psefisate<lb/>
+computamus psefizomen<lb/>
+computauimus epsefisamen<lb/>
+computos psefos<lb/>
+cauculos psefas<lb/>
+cauculat psefizi<lb/>
+cauculator psefistes<lb/>
+crepat psofi<lb/>
+crepuit epsofesen<lb/>
+cumstudio metafiloponias<lb/>
+caelum uranos<lb/>
+<milestone unit="page" n="p. 403 col. a Goetz"/>
+cras aurion<lb/>
+caelestibus uranion<lb/>
+cupido eros<lb/>
+ceres demetra<lb/>
+concordia homonoca<lb/>
+camenae musae<lb/>
+corpus soma<lb/>
+caput cęfalen<lb/>
+cerebrum encefalos<lb/>
+caluaria cranion<lb/>
+capilli triches<lb/>
+capillos tricas<lb/>
+cincinni bostrychoe<lb/>
+crines plocamoe<lb/>
+cirrus malos<lb/>
+cartilago chondros<lb/>
+ceruix auchen<lb/>
+collus trachelos <lb/>
+cubiti ancones<lb/>
+cor cardia<lb/>
+culus proctos<lb/>
+crura scele<lb/>
+caro sarx<lb/>
+corona stephanos<lb/>
+consacrata catheromena<lb/>
+continens encrates<lb/>
+cupidus scniphos<lb/>
+cetus acribes<lb/>
+celer tachys<lb/>
+condiscipuli synmathetę<lb/>
+causa dice<lb/>
+cęsar coeranos<lb/>
+corrector diorthotes<lb/>
+comitia archieria<lb/>
+consilium simbolion<lb/>
+castra perembole<lb/>
+centurio ecatontarchos<lb/>
+commissio simbleses<lb/>
+concordia homonoe<lb/>
+<milestone unit="page" n="p. 403 col. b Goetz"/>
+cognatio syngenia<lb/>
+cognatus syngenes<lb/>
+cognata syngenis<lb/>
+concubina pallace<lb/>
+condita ectismene<lb/>
+caro creas<lb/>
+consularis hypaticos<lb/>
+cohors spira<lb/>
+classis stolos<lb/>
+capruna aegina<lb/>
+ceruina elafia<lb/>
+curia beleuterion<lb/>
+curator logistes<lb/>
+copertorium perhybolaeon<lb/>
+culcita tyle<lb/>
+ceruicalem proscefalaeon<lb/>
+candelabrum lychnia<lb/>
+calix poterion<lb/>
+cultellum machaeion<lb/>
+cacauum chytra<lb/>
+coperculum poma<lb/>
+cribrum coscinon<lb/>
+capricornus aegoceros<lb/>
+carina tropis<lb/>
+claues claeis<lb/>
+configeclauis catheloson<lb/>
+consolationemsiueexortationem paracleten<lb/>
+coruus eoros<lb/>
+casa calybe<lb/>
+crex agele<lb/>
+citreum citrion<lb/>
+cotonium cydonion<lb/>
+citonia cydonia<lb/>
+castaneae lopima<lb/>
+cupressus cyparisos<lb/>
+cupressi cyparisoe<lb/>
+cicer erebinthos<lb/>
+ciconia pelargos<lb/>
+<milestone unit="page" n="p. 404 col. a Goetz"/>
+cornicla corone<lb/>
+coruus corax<lb/>
+columba ieristera<lb/>
+cicada tetix<lb/>
+coturnia ornix<lb/>
+cabia galeagra<lb/>
+cucurbitae colocinthae<lb/>
+cucumeres sycidia<lb/>
+cardi cinarae<lb/>
+caepae cromya<lb/>
+calidum termon<lb/>
+cum amicis metafilon<lb/>
+difficultatem dyscherian<lb/>
+dimitte apolyson<lb/>
+dimitto apolyo<lb/>
+dimittis apolyis<lb/>
+dimittit apolyi<lb/>
+dimittunt apolyusin<lb/>
+dimittamus apolysomen<lb/>
+disciplinam paedian<lb/>
+doce didaxon<lb/>
+doceo didasco<lb/>
+doces didascis<lb/>
+docemus didascomen<lb/>
+docuerunt edidaxan<lb/>
+docent didascusin<lb/>
+doctor didascalos<lb/>
+docetur didascetae<lb/>
+doctrina didacterion<lb/>
+docet didasci<lb/>
+desideras epythymis<lb/>
+desidero epythymo<lb/>
+desiderant epythymusin<lb/>
+desideramus epithymumen<lb/>
+desiderium epithymia<lb/>
+detrimentum zemia<lb/>
+dormi coemo<lb/>
+dormio coemome<lb/>
+dormis coemasae<lb/>
+
+<milestone unit="page" n="p. 404 col. b Goetz"/>
+dormiui ecoemethen<lb/>
+dormisti ecoemethes<lb/>
+dormiuimus ecoemethemen<lb/>
+dormite ecoemethete<lb/>
+dormierunt ecoemethesan<lb/>
+dormiamus coemethomen<lb/>
+dic ipe<lb/>
+dico lego<lb/>
+dicis legis<lb/>
+dicit legi<lb/>
+dicite ipate<lb/>
+dicimus legomen <lb/>
+daintellectumautfacintellegere synetison<lb/>
+dixisti ipes<lb/>
+dixi ipon<lb/>
+diximus ipamen<lb/>
+dixerunt ipan<lb/>
+dictum est electhe<lb/>
+dixit ipen<lb/>
+dicens legon<lb/>
+discipuli mathetae<lb/>
+disce mathe<lb/>
+disco manthano<lb/>
+discite mathete<lb/>
+discimus manthanomen<lb/>
+discunt manthanusin<lb/>
+discis manthanis<lb/>
+discit manthani<lb/>
+dormitas nystazis<lb/>
+dormito nystazo<lb/>
+dormitat nystazi<lb/>
+dumputat osdoci<lb/>
+de ec<lb/>
+de caelo periurnanum<lb/>
+diicaelestes theoeuranioe<lb/>
+diimarini theuethalasioe<lb/>
+dii terreni theoe epigioe<lb/>
+diipatrenses theoepatrioe<lb/>
+<milestone unit="page" n="p. 405 col. a Goetz"/>
+dii infernales theoeypocthonioe<lb/>
+dediis peritheon<lb/>
+deorum theon<lb/>
+deus theos<lb/>
+dearum theaon<lb/>
+dea thea<lb/>
+diana artemis<lb/>
+demembris perimelon<lb/>
+dextra dexia<lb/>
+dies imeras<lb/>
+dorsus notos<lb/>
+de edibus perinaon<lb/>
+demoribus peritropon<lb/>
+destudiis perifiloponion<lb/>
+depotestate periexusias<lb/>
+demilitia peristratias<lb/>
+dux eguminos siue hegeomon<lb/>
+duces hegeomones<lb/>
+decurio deca archos<lb/>
+decognatione perisyngenias<lb/>
+deciuitate peripoleos<lb/>
+dehabitatione perioeceseos<lb/>
+domus oecia<lb/>
+de XII signis perido deca<lb/>
+deuentis perianimon<lb/>
+desolanis periapheliotes<lb/>
+denauigatione perinautelias<lb/>
+depiscibus perichyon<lb/>
+dentex synodus<lb/>
+deagricultura peri georgias<lb/>
+dearboribus peridendron<lb/>
+dactulus toenix<lb/>
+damascena damascena<lb/>
+diresia cerasia<lb/>
+dorachina doracina<lb/>
+deoleribus perilaeneanon<lb/>
+deauibus periorneom<lb/>
+depotionibus peripoton<lb/>
+diligis agapas<lb/>
+<milestone unit="page" n="p. 405 col. b Goetz"/>
+damihi dosmu<lb/>
+etmultitudinem cepolyplethyan<lb/>
+et gręce ce ellinisti<lb/>
+eme agorason<lb/>
+emo agorazo<lb/>
+emi agorasa<lb/>
+emamus agorasomen<lb/>
+emimus agorasamen<lb/>
+emunt agorazusin<lb/>
+emerunt agorasan<lb/>
+emant agosusin<lb/>
+emis agorazis<lb/>
+emptum est egoraste<lb/>
+emet egorasen<lb/>
+expostula apeteson<lb/>
+expostulo apeto<lb/>
+expostulas apetis<lb/>
+expostulate apetesate<lb/>
+expostulauimus apetesamen<lb/>
+exi exelthe<lb/>
+exio exercome<lb/>
+exis exerche<lb/>
+eximus exerchometha<lb/>
+exit exerchete<lb/>
+exiunt exerchontę<lb/>
+exiant exelthosin<lb/>
+existi exelthes<lb/>
+exiamus exelthomen<lb/>
+excalcia hypolyson<lb/>
+excalcias hypolyis<lb/>
+excalciasti hypolyso<lb/>
+excalciauime hypelysamen<lb/>
+excalciate hypolysate<lb/>
+emit onesato<lb/>
+emptiones onae<lb/>
+explicit apertiste<lb/>
+est estin<lb/>
+erit estae<lb/>
+enim gar<lb/>
+<milestone unit="page" n="p. 406 col. a Goetz"/>
+et cę etiam cę<lb/>
+ecce idu<lb/>
+erat en<lb/>
+egosum ego imi<lb/>
+enarratio exegesis<lb/>
+euocatus taxiarchos<lb/>
+exercitus strateuma<lb/>
+exercitationes adoleschias<lb/>
+eloquium logion<lb/>
+fenestra thyris<lb/>
+fenestrae thyrides<lb/>
+fateri omologeson<lb/>
+fateor omologo<lb/>
+fateris omologis<lb/>
+fatetur omologi<lb/>
+fatemur omologumen<lb/>
+fassusest omologesen <lb/>
+fassisunt omologesan<lb/>
+fatemini omologesate<lb/>
+fassisumus omologesamen<lb/>
+facio poeo<lb/>
+fac poeeson<lb/>
+facis poeis<lb/>
+facit poei<lb/>
+facite poeite<lb/>
+faciamus poeesomen<lb/>
+faciant poeesosin<lb/>
+factum est gegonen<lb/>
+fecerunt poeesan<lb/>
+fiet ginetae<lb/>
+futurum ginomenon<lb/>
+fiat genetae<lb/>
+factasunt omnia egenontopanta<lb/>
+fiant omnia genontepanta<lb/>
+futura sunt omnia ginonte panta<lb/>
+follonica plynon<lb/>
+follonicaui eplyna<lb/>
+follonicant plynusin<lb/>
+<milestone unit="page" n="p. 406 col. b Goetz"/>
+follonicate plynate<lb/>
+follonicatasunt eplynthesan<lb/>
+follonicat plyni<lb/>
+follonicas plynis<lb/>
+follonicasti eplynes<lb/>
+fustes rabdoe<lb/>
+fusticat rabdozi<lb/>
+fustigatus est erabdiste<lb/>
+frigus psyghos<lb/>
+frigidum psychron<lb/>
+frigidus psychros<lb/>
+forfix psalis<lb/>
+forfices psalides<lb/>
+flumen ceraunos<lb/>
+furiae erintes<lb/>
+furia isis<lb/>
+felicitas eutychia<lb/>
+fortuna thyche <lb/>
+frons metopon<lb/>
+femora meroae<lb/>
+fel cholae<lb/>
+fidelis pistos<lb/>
+fur cleptes<lb/>
+fastidiosus siccos baelyros<lb/>
+fatuus moros<lb/>
+fabula mythos<lb/>
+filia thygater<lb/>
+filius yios<lb/>
+frater adelfos<lb/>
+forum agora<lb/>
+fundamentum themelios<lb/>
+fabonius zefyros<lb/>
+fluctus cymmata<lb/>
+funes smenia<lb/>
+flumen potamos<lb/>
+faua cyamus<lb/>
+faenum chorton<lb/>
+folia fylla<lb/>
+<milestone unit="page" n="p. 407 col. a Goetz"/>
+ficus sycon<lb/>
+fici syca<lb/>
+fossores scaphis<lb/>
+fraxinum melcynon<lb/>
+fecetula sycalis<lb/>
+feniculum marathon<lb/>
+feruentum zeston<lb/>
+feliciter eythycos<lb/>
+flagella mastigos si<lb/>
+fructus carpus<lb/>
+finit orit<lb/>
+fili tecnon<lb/>
+finis telos<lb/>
+finit telot<lb/>
+flumina potami<lb/>
+fistuca carfos <lb/>
+gaudium charan<lb/>
+gaudeo chaero<lb/>
+gaudes chaere<lb/>
+gaudet chaeri<lb/>
+gaudemus chaeroysin<lb/>
+gaudiummagnum chaeromen<lb/>
+gratia charis<lb/>
+gratias eucharistes<lb/>
+guttae stalagmoe<lb/>
+gelus pagetos<lb/>
+gingiuae ula<lb/>
+gula bronchos<lb/>
+guttur farynx<lb/>
+genua gonata<lb/>
+gloria doxa<lb/>
+gloriosus endoxos<lb/>
+granarium sitobolon<lb/>
+gener gambros<lb/>
+gobio cobios<lb/>
+hospes chenos<lb/>
+hospitium xenia<lb/>
+hospitatur xenizetae<lb/>
+hospites xenoae<lb/>
+<milestone unit="page" n="p. 407 col. b Goetz"/>
+hospitantur xenizontae<lb/>
+hiemps chimon<lb/>
+hoclibro tuto biblion<lb/>
+honor time<lb/>
+homo antropos<lb/>
+hominem antropon<lb/>
+humanus eusebes<lb/>
+hostiae thymata<lb/>
+honos gomos • haec • tauta •<lb/>
+hirundo chelidon • hic • ode •<lb/>
+hyrculis eracles<lb/>
+interpretamentorum ermineumaton<lb/>
+interpretamentarus ermineumaticeos<lb/>
+incipiamautem archomaede<lb/>
+initium archae<lb/>
+incipe arxę<lb/>
+incipio archomae<lb/>
+incipite arxatę<lb/>
+incipimus archomaeta<lb/>
+incipit archete<lb/>
+inciperunt erxanto<lb/>
+incipiunt archontae<lb/>
+inceptum est erche estin<lb/>
+inlumine ento foti<lb/>
+intenebris entescotia<lb/>
+iunge zeuxon <lb/>
+iungo zeugnyo<lb/>
+iungite zeuxate<lb/>
+iungimus zeugniomen<lb/>
+iunxerunt ezeuxan<lb/>
+iunximus ezeuxamen<lb/>
+iunctum est ezeuctae<lb/>
+iungit ezeucnyi<lb/>
+iugus zegos<lb/>
+iuue celeuson<lb/>
+iussi eceleusa<lb/>
+iubeo celeugo<lb/>
+iubes celeugis<lb/>
+
+<milestone unit="page" n="p. 408 col. a Goetz"/>
+iussisti eceleuses<lb/>
+iussum est ceceleumenon estin<lb/>
+iussio celeuma<lb/>
+iussisunt eceleuthesan<lb/>
+iusserunt eceleusan<lb/>
+iussionem celeusin<lb/>
+iussasunt ceceleumeniasin<lb/>
+iussiones celeumata<lb/>
+inquina molynon<lb/>
+inquino molyno<lb/>
+inquinas molynis<lb/>
+inquinaui emolyna<lb/>
+inquinasti emolynet<lb/>
+inquinatum memolymmenon<lb/>
+inquinauimus emolynamen<lb/>
+inquinauerunt emolynan<lb/>
+inquinate molynate<lb/>
+intellegi noisa<lb/>
+intellego noo<lb/>
+intellegit noi<lb/>
+intellexisti enoesate<lb/>
+intellegimus noumen<lb/>
+intelleximus enoesamen<lb/>
+intellectum noema<lb/>
+innuit neui<lb/>
+innuo neuo<lb/>
+innuis neuis<lb/>
+iura omoson<lb/>
+iuro omnyo<lb/>
+iuras omnyis<lb/>
+iuramus omnyomen<lb/>
+iurasti omoses<lb/>
+iurauerunt omosan<lb/>
+iurauimus omosamen<lb/>
+iuraui omosa<lb/>
+iurauit omosen<lb/>
+ira orge<lb/>
+iratus est orgisthe<lb/>
+irascitur orgizete<lb/>
+<milestone unit="page" n="p. 408 col. b Goetz"/>
+irascor orgizomę<lb/>
+iratisunt orgisthesan<lb/>
+irasceris orgize <lb/>
+irascuntur orgizonthe<lb/>
+incipit archetae<lb/>
+inprimo entoproto<lb/>
+iouis dios<lb/>
+iuppiter zeus<lb/>
+incibus pan<lb/>
+iuno hera<lb/>
+inimicus ecthros<lb/>
+iustus dicaeos<lb/>
+iustitia dicaeosynae<lb/>
+iustificationes dicaeomata<lb/>
+iugulum sfage<lb/>
+ilia lagones<lb/>
+imagines icones<lb/>
+ingeniosus euphyes<lb/>
+iudicium crisis<lb/>
+iudicio crimati<lb/>
+imperator autocrator<lb/>
+iuridicos dicologos<lb/>
+ianua pylon<lb/>
+imbrices calepteres<lb/>
+insula nesos<lb/>
+ilicem prinos<lb/>
+intuba seris<lb/>
+ita utos<lb/>
+illis ecinis<lb/>
+incipit melle<lb/>
+inmaturitas orian<lb/>
+in inmaturitate en aoria<lb/>
+inocculto entocrypto<lb/>
+ignis pyr<lb/>
+latine disputare romaistidialegesthe<lb/>
+libris biblioes<lb/>
+lauda epęneson<lb/>
+laudo epaeno<lb/>
+<milestone unit="page" n="p. 409 col. a Goetz"/>
+laudas epaenis<lb/>
+laudasti epęneses<lb/>
+laudaui epanesa<lb/>
+laudamus epaenumen<lb/>
+laudauit epaenesen<lb/>
+laudauerunt epaenesan<lb/>
+loqui laleson<lb/>
+loquor lalo<lb/>
+loqueris lales<lb/>
+loquitur lalei<lb/>
+loquamur lalesomen<lb/>
+loquimini lalesate<lb/>
+loquutisumus elalesamen<lb/>
+loquantur laleisin<lb/>
+loquutus es elalesis<lb/>
+loquutus est elalesen<lb/>
+loquuntur lalusin<lb/>
+latet lanthani<lb/>
+lates lanthanis<lb/>
+lateo lanthano<lb/>
+laua nipsae<lb/>
+laua lusae<lb/>
+laui elusa<lb/>
+lauo luoe<lb/>
+lauaris lue<lb/>
+lauemur lusometha<lb/>
+lauerunt elusantho<lb/>
+lauate lusasthe<lb/>
+lauisti elusaste<lb/>
+lauimus elusametha<lb/>
+lignum xylon<lb/>
+ligna xyla<lb/>
+ligneus xylanos<lb/>
+ligneum xylinon<lb/>
+luctor paleao<lb/>
+luctaris palaeis<lb/>
+luctatur palaei<lb/>
+luctantur palaeusin<lb/>
+luctauerunt epalaesan<lb/>
+luctasti epalaeses<lb/>
+luctauimus epalesamen<lb/>
+<milestone unit="page" n="p. 409 col. b Goetz"/>
+luctatores palestae<lb/>
+luctator palestes<lb/>
+latra hylacteson<lb/>
+latro hylacto<lb/>
+latras hylactis<lb/>
+latrat hylacti<lb/>
+latratos hylamos<lb/>
+labsus est olisthen<lb/>
+labsus sum olistha<lb/>
+liberpater dionysos<lb/>
+luna selene<lb/>
+latona leto<lb/>
+latum platyn<lb/>
+lata plataea<lb/>
+labia chile<lb/>
+lingua glossa<lb/>
+lacerti myes<lb/>
+latus pleuron<lb/>
+latera pleurae<lb/>
+lumbi iscia<lb/>
+lanugo chnus<lb/>
+largus dapsiles<lb/>
+lectio anagnosis<lb/>
+liber biblion<lb/>
+lex nomos<lb/>
+legio tagma<lb/>
+lectum cline<lb/>
+lucerna lychnos<lb/>
+lux phoos<lb/>
+leo leon<lb/>
+liber tertius biblio triton<lb/>
+litus aegialos<lb/>
+longa macra<lb/>
+lupus labrax<lb/>
+lupi lyci<lb/>
+lolligo teuthis<lb/>
+lucusta carabos<lb/>
+lucus alsos<lb/>
+lenticla face<lb/>
+legistis canegnotae<lb/>
+laurus dapne<lb/>
+<milestone unit="page" n="p. 410 col. a Goetz"/>
+lactucae tridaces<lb/>
+lucinius asan<lb/>
+multos pullos<lb/>
+multi polli<lb/>
+muta allasson<lb/>
+muto allasso<lb/>
+mutat allassi<lb/>
+mutauit elaxen<lb/>
+mutas allassis<lb/>
+mutasti ellaxes<lb/>
+mutauimus ellaxomen<lb/>
+mutant allasusin<lb/>
+mutauerunt ellaxan<lb/>
+mutatio allage<lb/>
+munera dora<lb/>
+merge bithyson<lb/>
+mergo bithyzo<lb/>
+mergis bithyzis<lb/>
+mergamus bithysomen<lb/>
+merguntur bithyzontae<lb/>
+merseruntse ebithisthesan<lb/>
+mergit ebithyzi<lb/>
+mulier gyne<lb/>
+mulieres gynaeces<lb/>
+murmura gongyson<lb/>
+murmuro gongyzo<lb/>
+murmurate gongysate<lb/>
+murmurant gongyzusin<lb/>
+murmurauimus gongyzomen<lb/>
+murmurauerunt egongysan<lb/>
+monstro dicnio<lb/>
+monstra dixon<lb/>
+monstras edixa<lb/>
+monstrate dixate<lb/>
+monstrauimus edixamen<lb/>
+monstrauerunt edixan <lb/>
+monstrasti edixes<lb/>
+monstras dicnyis<lb/>
+monstrat dicnyi<lb/>
+<milestone unit="page" n="p. 410 col. b Goetz"/>
+morde dace<lb/>
+mordeo dacno<lb/>
+mordes dacnis<lb/>
+mordet dacni<lb/>
+mordunt dacnosin<lb/>
+morserunt edacan<lb/>
+morsicosus dacthes<lb/>
+molesta enocleson<lb/>
+molesto enochlo<lb/>
+molestus ocheros<lb/>
+molestatur enochli<lb/>
+molestaris enochlis<lb/>
+miror thaumazo<lb/>
+miraris thaumazis<lb/>
+miramur thaumazomen<lb/>
+mirantur thaumazusin<lb/>
+miraculum thauma<lb/>
+magister didascal<lb/>
+mulieremsurge gynaca egire<lb/>
+manducare fagen<lb/>
+malos sapon<lb/>
+magis mallon<lb/>
+montem oron<lb/>
+media meses<lb/>
+manducans esthion<lb/>
+maledic loedoreson<lb/>
+maledico loedoro<lb/>
+maledicite loedoresate<lb/>
+maledicis loedoris<lb/>
+maledicit loedori<lb/>
+maledixisti eloedoreses<lb/>
+maledixi eloedoresamon<lb/>
+malediximus eloedoresamen<lb/>
+maledixerunt eloedoresan<lb/>
+maledicamus loedoresamen<lb/>
+maledictum est leloedoremenon estin<lb/>
+mane proi<lb/>
+manes menis<lb/>
+mansisti emenis<lb/>
+<milestone unit="page" n="p. 411 col. a Goetz"/>
+mansi emina<lb/>
+mansimus eminamen<lb/>
+manserunt eminan<lb/>
+mansio mone<lb/>
+mansiones moneae<lb/>
+mugio mycomae<lb/>
+mugit mycatae<lb/>
+mugiunt mycontae<lb/>
+moneo nutheso<lb/>
+moneris nuthete<lb/>
+mones nuthetis<lb/>
+monetur nuthetite<lb/>
+monet nutheti<lb/>
+monent nuthetusin<lb/>
+monemus nuthesumen<lb/>
+mitte pempson<lb/>
+mitto pempo<lb/>
+mittis pempis<lb/>
+mittit pempit<lb/>
+mittimus pempomen<lb/>
+mittamus pempsomen<lb/>
+mittunt pempusin<lb/>
+misimus epempsamen<lb/>
+miserunt epempsan<lb/>
+missisunt epempthesan<lb/>
+misisti epempses<lb/>
+missum est epempthe<lb/>
+moue saleuson<lb/>
+moueo saleuo<lb/>
+moues saleuis<lb/>
+mouet saleui<lb/>
+ministra hypereteson<lb/>
+ministro hyperetro<lb/>
+ministras hyperetis<lb/>
+ministrat hypereti<lb/>
+ministrasti hypereteses<lb/>
+ministraui hyperetesa<lb/>
+ministrate hyperetesate<lb/>
+<milestone unit="page" n="p. 411 col. b Goetz"/>
+ministrauimus hyperetesamen<lb/>
+minister hyperetes<lb/>
+ministerium hyperetesia<lb/>
+ministratores hyperetae<lb/>
+mentior pseudomae<lb/>
+mentiris pseudes<lb/>
+mentitur pseudetae<lb/>
+mendax pseustes<lb/>
+mendacium pseusma<lb/>
+mendacia pseusmata<lb/>
+moxsederit oscathise<lb/>
+moxascenderit os anabe<lb/>
+mars ares<lb/>
+mercurius hermes<lb/>
+minerua athena<lb/>
+materdeum meter theon<lb/>
+moneta mnemosyne<lb/>
+membra hymen<lb/>
+maxillae siagones<lb/>
+molares gonfioe<lb/>
+mentum genion<lb/>
+manus chines<lb/>
+mamellae masthoe<lb/>
+medulla myellos<lb/>
+mores tropoe<lb/>
+malignus cacopoeos<lb/>
+milites stratiotae<lb/>
+mater meter<lb/>
+meretrix etaera<lb/>
+matertera metryta<lb/>
+muros thicos<lb/>
+macellum creopolion<lb/>
+macellarius creopoles<lb/>
+mons oros<lb/>
+mensa trapeza<lb/>
+mare thalassa<lb/>
+muri trigle<lb/>
+mirena myraena<lb/>
+<milestone unit="page" n="p. 412 col. a Goetz"/>
+manuae desmae <lb/>
+myrta myrinae<lb/>
+malagrania rose<lb/>
+mala mela<lb/>
+mespira mesfyla<lb/>
+mura sycamina<lb/>
+merulus cossycos<lb/>
+musca myia<lb/>
+mergulus oritacos<lb/>
+mutacilla sycopygis<lb/>
+maluae molagna<lb/>
+menta hedyosmon<lb/>
+mustum gleucos<lb/>
+neque facile mete eucheros<lb/>
+non percipi ucefisamen<lb/>
+nube gameson<lb/>
+nubo gamo<lb/>
+nubtiae gamoae<lb/>
+nubsi egamesa<lb/>
+nubsit egamesin<lb/>
+nubtiatores gamostolae<lb/>
+nubunt gamusin<lb/>
+nubserunt egamesan<lb/>
+nubta gegamemene<lb/>
+nascor gennomae<lb/>
+nascitur gennathe<lb/>
+nascuntur gennonte<lb/>
+nascimur gennometha<lb/>
+nasceris gennase<lb/>
+natisunt egennethesa<lb/>n
+natalis genethlios<lb/>
+nata colymbeson<lb/>
+nato colymbo<lb/>
+natas colymbas<lb/>
+natamus colymbomen<lb/>
+natauit ecolymbesen<lb/>
+natasti ecolymbeses<lb/>
+natauimus ecolymbesamen<lb/>
+<milestone unit="page" n="p. 412 col. b Goetz"/>
+natauerunt ecolymbesan<lb/>
+natatores colymbetae<lb/>
+natate eolymbesate<lb/>
+nomino onomazo<lb/>
+nomina onomata<lb/>
+nominas onomazis<lb/>
+nominat onomazi<lb/>
+nominasti onomases<lb/>
+nominaui onomasa<lb/>
+nominauimus onomasamen <lb/>
+nominauerunt onomasan<lb/>
+nominate onomasate<lb/>
+nominatisunt onomasthesan<lb/>
+nominaquemuis onomasononthelis<lb/>
+nomen onoma<lb/>
+nominauit onomasen<lb/>
+nominamus onomazomen<lb/>
+nominantur onomazonte<lb/>
+nominatus est onomasthe<lb/>
+nebile nefelę<lb/>
+nebula omichle<lb/>
+nimbus ombros<lb/>
+nix chion<lb/>
+nox nyx<lb/>
+nasus ris<lb/>
+nates pige<lb/>
+nerui neura<lb/>
+neglegens amaeles<lb/>
+nutrix trofos<lb/>
+nutritor trofeus<lb/>
+nauigatio nautilia<lb/>
+naualia neoria<lb/>
+nauis naos<lb/>
+nauem ploion<lb/>
+nauta nautes<lb/>
+nux caryon<lb/>
+nuces carya<lb/>
+nucleus strobilos<lb/>
+<milestone unit="page" n="p. 413 col. a Goetz"/>
+nuclei strobiloe<lb/>
+napici bunides<lb/>
+noctes nyctas<lb/>
+non ouc<lb/>
+nonne oyxi<lb/>
+nolite memeri<lb/>
+neque mete<lb/>
+nihil oyden<lb/>
+nedederis midote<lb/>
+nimis agan<lb/>
+omnia panta<lb/>
+omnes pantas<lb/>
+omniauerba pantaremata<lb/>
+odi miseson<lb/>
+odio miso<lb/>
+odis misis<lb/>
+odit misi<lb/>
+odimus misumen<lb/>
+oderant emisesan<lb/>
+odisti emises<lb/>
+odiosus misetos<lb/>
+opes rea<lb/>
+oculo thalmo<lb/>
+oculi opthalmoe<lb/>
+os stoma<lb/>
+omentum epiplus<lb/>
+ossa ostea<lb/>
+orator retor<lb/>
+ordo taxis<lb/>
+opera erga<lb/>
+operarius ergates<lb/>
+ordeum crithe<lb/>
+ortum cepos<lb/>
+oliua elaea<lb/>
+oliuetum eleon<lb/>
+oliuae eleae<lb/>
+olus lachanon<lb/>
+occidite thygate<lb/>
+occidit thysen<lb/>
+<milestone unit="page" n="p. 413 col. b Goetz"/>
+orientem anatolon<lb/>
+occidentem dysmon<lb/>
+propterhocego diatuto ego<lb/>
+posse dinasthe<lb/>
+propter diaten<lb/>
+prande aristeson<lb/>
+prandeo aristo<lb/>
+prandes aristas<lb/>
+prandeamus aristesomen<lb/>
+pransores aristetae<lb/>
+prandeunt aristosin<lb/>
+prandium ariston<lb/>
+perprandierunt aperistesan<lb/>
+puta doxon<lb/>
+puto doco<lb/>
+putas docis<lb/>
+putat doci<lb/>
+putamus documen<lb/>
+putauimus edoxamen<lb/>
+putauerunt edoxan<lb/>
+proba docimason<lb/>
+probo docimazo<lb/>
+probas docimazis<lb/>
+probaui edocimasa<lb/>
+probatum est docimon estin<lb/>
+probauimus edocimasamen<lb/>
+probate docimatate<lb/>
+probauerunt edocimasan<lb/>
+probasti edocimases<lb/>
+probat docimazi<lb/>
+permitte epitrepson<lb/>
+permitto epitrepo<lb/>
+permittit epitrepi<lb/>
+permittimus epitrepomen<lb/>
+permiserunt epitrepsan<lb/>
+pinge zografesun<lb/>
+pinxi ezografesa<lb/>
+pingo zografo<lb/>
+pingimus zografomen<lb/>
+<milestone unit="page" n="p. 414 col. a Goetz"/>
+pictum est ezografetae<lb/>
+pingitur zografitae<lb/>
+pingit zografi<lb/>
+pinxit ezografesen<lb/>
+pictor zografos<lb/>
+pictura zografia<lb/>
+pinxerunt ezografesan<lb/>
+pictores zografoe<lb/>
+placeo areson<lb/>
+placui eresa<lb/>
+placuisti ereses<lb/>
+placuit eresen<lb/>
+placuimus eresamen<lb/>
+placuerunt eresan<lb/>
+praeuaricantes parabęnontas<lb/>
+praeuaricatores parabatas<lb/>
+puer paedion<lb/>
+puerum paediu<lb/>
+puella toxorasion<lb/>
+prudenti fronimo<lb/>
+paenitemini metanoite<lb/>
+ploratio trinos<lb/>
+purga catherin<lb/>
+purgo cathero<lb/>
+purgaui ecathera<lb/>
+purgasti ecatheres<lb/>
+purgatum cecatharismenon<lb/>
+purgantur catherontae<lb/>
+purgatisunt ecatharisthesan<lb/>
+purgauerunt ecatheran<lb/>
+purgamenta catharmata<lb/>
+purgamentum catharma<lb/>
+purgauimus ecatheramen<lb/>
+purgate catherate<lb/>
+purgauit ecatheren<lb/>
+partire merison<lb/>
+partior merizo<lb/>
+partiris merizis<lb/>
+partitur merizi<lb/>
+<milestone unit="page" n="p. 414 col. b Goetz"/>
+partiamus merisomen<lb/>
+partitisunt emeristesan<lb/>
+partis emerises<lb/>
+punge nyxon<lb/>
+pungo nysso<lb/>
+punxi enyxa<lb/>
+pungite nyxate<lb/>
+pungimus nyssomen<lb/>
+pungis nyssis<lb/>
+pungit nyssi<lb/>
+praecide teme<lb/>
+praecido temno<lb/>
+pręcidite temnete<lb/>
+praecidemus temnomen<lb/>
+praecidamus temomen<lb/>
+praecidunt temnusin<lb/>
+praecisum est tetimemenon estin<lb/>
+pertundo trepeson<lb/>
+pertundo trypo<lb/>
+pertundis trypas<lb/>
+pertundit trypa<lb/>
+pertundimus trypamen<lb/>
+pertusum est tetrypemenon estin<lb/>
+pulex psylla<lb/>
+pulices psyllae<lb/>
+prodest ofelimon estin<lb/>
+parturit odini<lb/>
+parturis odinis<lb/>
+parturio odino<lb/>
+pluuia broxe sium brocetos<lb/>
+prouidentia pronoea<lb/>
+proserpina persefonae<lb/>
+palpebrae blefara<lb/>
+pupillae corae<lb/>
+palatum uraniscos<lb/>
+poplites arcoelae<lb/>
+pedes podes<lb/>
+plantae tarsoe<lb/>
+pelles derma<lb/>
+<milestone unit="page" n="p. 415 col. a Goetz"/>
+pontifex ieromnemon<lb/>
+pius eusebes<lb/>
+pagines selides<lb/>
+potestas exusia<lb/>
+proconsul anthypatos<lb/>
+praetor stratecos<lb/>
+pedites pezoe<lb/>
+praefectus eparchos<lb/>
+pugna polemos<lb/>
+pax irene<lb/>
+pilus hyssus<lb/>
+parentes gonis<lb/>
+pater pater<lb/>
+porta pyle<lb/>
+porcina choereia<lb/>
+protribunal probematos<lb/>
+planetia pedio<lb/>
+paucos oliga<lb/>
+pisces ictyas<lb/>
+pascit trefi<lb/>
+petite aetite<lb/>
+per dia<lb/>
+propter diato<lb/>
+plus pleon<lb/>
+pleonexia aplushabendodicta<lb/>
+peccator martalos<lb/>
+pames thoechos<lb/>
+posticium parathyros<lb/>
+patella lopas<lb/>
+piscis ictus<lb/>
+piscatoria halieutice<lb/>
+portus limen<lb/>
+pons gefyra<lb/>
+pontes getyrae<lb/>
+polypus polypus<lb/>
+paselia faselin<lb/>
+pauper mecon<lb/>
+pratum chortocopion<lb/>
+<milestone unit="page" n="p. 415 col. b Goetz"/>
+pastores poemones<lb/>
+pastor poemen<lb/>
+pirum apidion<lb/>
+pruna coccymela<lb/>
+psitacia pistalia<lb/>
+persica persica<lb/>
+populum aegyros<lb/>
+pauus taos<lb/>
+passer struthon<lb/>
+pica cissa<lb/>
+porri prasa<lb/>
+pastinacae stafylinoe<lb/>
+quoniamintellego epide horo<lb/>
+quaestio zetema<lb/>
+quaero zeto<lb/>
+quaeris zetis<lb/>
+quaerit zeti<lb/>
+quaero zeteson<lb/>
+quaerimus zetumen<lb/>
+quaerite zetite<lb/>
+quaeritur etiatae<lb/>
+quaeratur zethetae<lb/>
+quaesiuimus ezetesamen<lb/>
+quaeruntur aetiontae<lb/>
+quaestor thamias<lb/>
+quoniam epide<lb/>
+quaepromisi hępengilamen<lb/>
+quam diu eos pote<lb/>
+quod to<lb/>
+quid ti<lb/>
+quomodo pos<lb/>
+qui oi<lb/>
+quia oti<lb/>
+quoniam oti<lb/>
+redde apudos<lb/>
+reddo apodido<lb/>
+reddidi apedoca<lb/>
+reddidisti apedoces<lb/>
+<milestone unit="page" n="p. 416 col. a Goetz"/>
+reddamus apodomen<lb/>
+reddidit apodidi<lb/>
+ride gelason<lb/>
+rideo gelo<lb/>
+rides gelas<lb/>
+ridet gela<lb/>
+riserunt egelasan<lb/>
+ridemus gelomen<lb/>
+ridamus gelasomen<lb/>
+risus gelos<lb/>
+rado xyo<lb/>
+rade xyson<lb/>
+radis xyis<lb/>
+radit xyi<lb/>
+raserunt exysan<lb/>
+rademus xyomen<lb/>
+radamus xysomen<lb/>
+rasum cexysmenon<lb/>
+raduntur xyontae<lb/>
+rasorium xyster<lb/>
+rasisti exuses<lb/>
+radam xyso<lb/>
+roma rome<lb/>
+romenses romaeus<lb/>
+romani romaeoe<lb/>
+rosa roda<lb/>
+rosatum rodinon<lb/>
+radix rafanos<lb/>
+radices rafanoe<lb/>
+rusticus choricos<lb/>
+rustici choricoe<lb/>
+rustica chorice<lb/>
+refrigeratum psychryston<lb/>
+refrigera psychrison<lb/>
+refrigeraui psychrisa<lb/>
+renes nefroe<lb/>
+rex basileus<lb/>
+regina basilessa<lb/>
+rami cladoe<lb/>
+rubor drys<lb/>
+<milestone unit="page" n="p. 416 col. b Goetz"/>
+ramus clados<lb/>
+ripariolus basiliscos<lb/>
+ruta peganon<lb/>
+rusticum agroecon<lb/>
+rapae gongylae<lb/>
+saluta aspasae<lb/>
+saluto aspazomae<lb/>
+salutas aspaze<lb/>
+salutaui aspasamen<lb/>
+salutat aspazetae<lb/>
+salutant aspazontae<lb/>
+sequere acolutheson<lb/>
+sequor acolutho<lb/>
+sequeris acoluthis<lb/>
+sequitur acoluthi<lb/>
+sequimur acoluthumen<lb/>
+sequantur acoluthesusin<lb/>
+sequutus est ecoluthesen<lb/>
+scribere grafin<lb/>
+scribo grafo<lb/>
+scribe grapson<lb/>
+scribis graphis<lb/>
+scribsi egrapsa<lb/>
+scribimus graphomen<lb/>
+scribsimus egrapsamen<lb/>
+scripserunt egrapsan<lb/>
+scribtores graphes<lb/>
+scriba grammeteus<lb/>
+scriptor grapheus<lb/>
+scribit graphi<lb/>
+serue dule<lb/>
+seruio duleuo<lb/>
+seruite duleusate<lb/>
+seruit dulim<lb/>
+serua fylaxon<lb/>
+seruo fylasso<lb/>
+seruis eduleuses<lb/>
+seruiui eduleusa<lb/>
+seruos duolos<lb/>
+seruiuimus eduleusamen<lb/>
+<milestone unit="page" n="p. 417 col. a Goetz"/>
+seruierunt eduleusan<lb/>
+seruisunt dulo esin<lb/>
+specto theoro<lb/>
+spectas theoris<lb/>
+spectat theory<lb/>
+spectamus theoremen<lb/>
+spectatores theoretae<lb/>
+spectauerunt etheoresan<lb/>
+suda idroson<lb/>
+sudaui idrosa<lb/>
+sudauit idrosen<lb/>
+sudasti idroses<lb/>
+sudate idrosate<lb/>
+sudauerunt idrosan<lb/>
+sudamus idromen<lb/>
+soniaris merimnas<lb/>
+sonior merimno<lb/>
+soniatus est merimnan esche<lb/>
+soniati sumus merimnaneschomen<lb/>
+sonium merimna<lb/>
+soniate merimnate<lb/>
+soniauerunt emerimnesan<lb/>
+siccum xeron<lb/>
+siccat xeraeti<lb/>
+siccum est xeron estin<lb/>
+siccauit exeranthe<lb/>
+siccauerunt exeranan<lb/>
+siccatisunt exeranthesan<lb/>
+siccasti exeranes<lb/>
+seca prison<lb/>
+secaui eprisa<lb/>
+sectum est peprismenonestin<lb/>
+secauimus eprisamen<lb/>
+secasti eprises<lb/>
+secate prisate<lb/>
+secas prizis<lb/>
+secat prizi<lb/>
+seco prizo<lb/>
+sterto rescho<lb/>
+stertis reschis<lb/>
+stertit reschi<lb/>
+<milestone unit="page" n="p. 417 col. b Goetz"/>
+stertent rescusin<lb/>
+stertimus reschomen<lb/>
+sparge ranon<lb/>
+spargit raeni<lb/>
+spargite ranate<lb/>
+sparsisti eranes<lb/>
+sparsi erana<lb/>
+sparsimus eranamen<lb/>
+serua tereson<lb/>
+seruo tero<lb/>
+seruas teris<lb/>
+seruat teri<lb/>
+seruate teresate<lb/>
+seruamus terumen<lb/>
+seruauimus eteraesamen<lb/>
+seruatisunt teterentae<lb/>
+seruatum est teteremenon estin<lb/>
+seruatores teretae<lb/>
+sapientia sophia uel froneses<lb/>
+sapit froni<lb/>
+sapio fro<lb/>
+sapis fronis<lb/>
+sapiens homo fronimosantropos<lb/>
+sapiens fronimos<lb/>
+saluator sother<lb/>
+spiritus pneuma<lb/>
+sanctus agios<lb/>
+stellam asteran<lb/>
+stellae asteres<lb/>
+sermones lagos<lb/>
+stultus moros<lb/>
+sed alla<lb/>
+signum simeon<lb/>
+suffla fyseson<lb/>
+sufflo fyso<lb/>
+sufflas fysas<lb/>
+sufflat fysa<lb/>
+sufflauit efysesen<lb/>
+sufflaui efysesa<lb/>
+sufflasti efyseses<lb/>
+sufflauimus efysesamen<lb/>
+<milestone unit="page" n="p. 418 col. a Goetz"/>
+sufflauerunt efysesan<lb/>
+sufflamus fysomen<lb/>
+sufflatores fysatae<lb/>
+scabia psora<lb/>
+scabiosus psorion<lb/>
+secundum deuteron<lb/>
+subnubilum epinefelon<lb/>
+serenum eudia<lb/>
+stillicidium stalagmos<lb/>
+sero opse<lb/>
+scoruscatio astrape<lb/>
+saturnus cronos<lb/>
+sol helios<lb/>
+siluanus agrotes<lb/>
+sacerdos iereus<lb/>
+salus hygia<lb/>
+spes elpis<lb/>
+supercilia ophryes<lb/>
+sinistra aristera<lb/>
+spina rachis<lb/>
+surae castroenemiae<lb/>
+sanguis aema<lb/>
+sanguinem aematos<lb/>
+sacrum mysterion<lb/>
+simulacra agalmata<lb/>
+sancta iera<lb/>
+sanctum thysia<lb/>
+seorsum catidian<lb/>
+simplex aplus<lb/>
+superbus hyperefanos<lb/>
+strofosuo dolios<lb/>
+senatus sycletus<lb/>
+speculatores catoptae<lb/>
+sagittarii toxotae<lb/>
+signiferi semiaforoe<lb/>
+soror adelfe<lb/>
+socer pentheros<lb/>
+socrus penthera<lb/>
+<milestone unit="page" n="p. 418 col. b Goetz"/>
+sodalis etearos<lb/>
+sponsus nymfios<lb/>
+sponsa nymfe<lb/>
+sagus atroma<lb/>
+substratorium hypostroma<lb/>
+scabellum hypopodion<lb/>
+sella difros<lb/>
+scamnum sympselion<lb/>
+sartago teganon<lb/>
+scorpio scorpios<lb/>
+sagittarius toxotes<lb/>
+subsolanus apheliotes<lb/>
+septentrio arctos<lb/>
+sentina antlia<lb/>
+spuma afros<lb/>
+suauitatem chrestota<lb/>
+sinus colpos<lb/>
+sedilia throneo<lb/>
+sepia sepia<lb/>
+scarus scaro<lb/>
+segetes sporima<lb/>
+spicae staches<lb/>
+spica stachys<lb/>
+silua hyle<lb/>
+sappius peuece<lb/>
+sorbus melandrys<lb/>
+sappus caedos<lb/>
+saltuarius agrofylax<lb/>
+sorba melandria<lb/>
+salix itea<lb/>
+sturnus psaros<lb/>
+sede throno<lb/>
+sabbato sabbasin<lb/>
+tolle aron<lb/>
+tollo aero<lb/>
+tollite arate<lb/>
+tollamus aeromen<lb/>
+tulerunt eran<lb/>
+<milestone unit="page" n="p. 419 col. a Goetz"/>
+tollis eris<lb/>
+tollitum est ermenon estin<lb/>
+tusse bexon<lb/>
+tussio besso<lb/>
+tussit bessi<lb/>
+tussimus bessomen<lb/>
+tusses bex<lb/>
+tussiunt bessusin<lb/>
+tussierunt ebexan<lb/>
+tibi su<lb/>
+tu su<lb/>
+tabella pinacida<lb/>
+tectum selthis<lb/>
+titilla gangalison<lb/>
+titillo gangalizo<lb/>
+titillate gangalisate<lb/>
+titillamus gangalizamen<lb/>
+titillauerunt egangalesan<lb/>
+tuli era<lb/>
+tulisti eres<lb/>
+tulimus eramen<lb/>
+tange thige<lb/>
+tango thingono<lb/>
+tangis thinganis<lb/>
+tangit thingani<lb/>
+tangimus thinganomen<lb/>
+tangimur thinganetae<lb/>
+tetigerunt ethigan<lb/>
+temta pirason<lb/>
+temto pirazo<lb/>
+temtas pirazis<lb/>
+temtamus pirazomen<lb/>
+temtate pirasate<lb/>
+temtatum est pepiramenonestin<lb/>
+temtant pirazusin<lb/>
+temtasti epirases<lb/>
+taceo siopo<lb/>
+tace siopeson<lb/>
+<milestone unit="page" n="p. 419 col. b Goetz"/>
+taces siopas<lb/>
+tacet siopa<lb/>
+tacemus siopomen<lb/>
+tacuerunt esiopesan<lb/>
+trahe syron<lb/>
+traho syro<lb/>
+trahis syris<lb/>
+trahit syri<lb/>
+traxisti esyres<lb/>
+traxerunt esyran<lb/>
+tractisunt esyresan<lb/>
+tractus est esyro<lb/>
+trahite syrate<lb/>
+tractussum esyren<lb/>
+traxi esyra<lb/>
+traximus esyramen<lb/>
+tudicla toryneson<lb/>
+tudiclo toryno<lb/>
+tudiclas torynas<lb/>
+tudiclasti etoryneses<lb/>
+tudiclaui etorynesa<lb/>
+tudiclant torynosin<lb/>
+tudiclamus torynomen<lb/>
+tudiclatum est tetorinomenon estin<lb/>
+turbulenta taraxon<lb/>
+turbulento tarasso<lb/>
+turbulentaui etaraxa<lb/>
+turbulentus tetaragmenon<lb/>
+texe hyfanon<lb/>
+texo hyfaeno<lb/>
+texit hyfaeni<lb/>
+texis hyfaenis<lb/>
+teximus hyfaenomen<lb/>
+texitur hyfaenetae<lb/>
+texatur hyfantae<lb/>
+textura hyfasma<lb/>
+textum est hyfasmenon estin<lb/>
+timet fobitae<lb/>
+<milestone unit="page" n="p. 420 col. a Goetz"/>
+timeo fobumae<lb/>
+timidus dilos<lb/>
+timor fobos<lb/>
+timormagnus fobos megas<lb/>
+timemus fobumetha<lb/>
+timidisunt diloeisin<lb/>
+tempestas zale<lb/>
+tepidum chlieron<lb/>
+tepida chliera<lb/>
+tonitrum bronte<lb/>
+tempus chronon<lb/>
+tempora crotafoe<lb/>
+tibiae anticnemia<lb/>
+tali astragaloe<lb/>
+tus libanos<lb/>
+tardus bradys<lb/>
+titulus elenchos<lb/>
+tesserari grammatis<lb/>
+tribunus chiliarchos<lb/>
+taberna egasterion<lb/>
+tribunal bema<lb/>
+tedulae ceramides<lb/>
+tripedem tripoda<lb/>
+trubla zomaryston<lb/>
+taurus tauros<lb/>
+terrester epigio<lb/>s
+turbo thyella<lb/>
+trocliae epidromides<lb/>
+triticum sitos<lb/>
+torculare lenos<lb/>
+turdus cichla<lb/>
+trauem docon<lb/>
+terra ge<lb/>
+tunc tote<lb/>
+uerbum rema siue logos<lb/>
+uerba remata<lb/>
+uerborum rematon<lb/>
+ut in tribus in entrisin<lb/>
+usque eos<lb/>
+<milestone unit="page" n="p. 420 col. b Goetz"/>
+usque tertio eostritu<lb/>
+usque eo eos tuo<lb/>
+uide blepe<lb/>
+uides blepis<lb/>
+uideo blepo<lb/>
+uidens idon<lb/>
+uidemus blepomen<lb/>
+uideamus idomen<lb/>
+uiderunt idan<lb/>
+uigilo gregoro<lb/>
+uigilate gregoresate<lb/>
+uigilamus gregorumen<lb/>
+uigilat gregori<lb/>
+uigilant gregorusin<lb/>
+uigilauerunt egregoresan<lb/>
+uigilia gregoria<lb/>
+ueni elthe<lb/>
+uenio erchome<lb/>
+uenis erche<lb/>
+uenit erchete<lb/>
+uenisti elthes<lb/>
+uenimus elthamen<lb/>
+ueniunt ercontae<lb/>
+uenerant elthan<lb/>
+ueni elthe<lb/>
+uenio elthon<lb/>
+uenit elthen<lb/>
+ueniant elthosin<lb/>
+uenerunt elthan<lb/>
+uis thelis<lb/>
+uolo thelo<lb/>
+uolui ethelesa<lb/>
+uoluimus ethelesamen<lb/>
+uoluerunt ethelesan<lb/>
+uult theli<lb/>
+uenari thereuson<lb/>
+uenator thereui<lb/>
+uenatores thereutae<lb/>
+uenor thereuo<lb/>
+<milestone unit="page" n="p. 421 col. a Goetz"/>
+uenamur thereuomen<lb/>
+uenantur thereuusin<lb/>
+uenaris thereuis<lb/>
+uiscum ixos<lb/>
+uoca caleson<lb/>
+uoco calo<lb/>
+uocate calesate<lb/>
+uocamus calumen<lb/>
+uocatus est eclethe<lb/>
+uocatur calitae<lb/>
+uocemus calesomen<lb/>
+<milestone unit="page" n="p. 421 col. b Goetz"/>
+uocatisunt eclethesan<lb/>
+uocantur caluntae<lb/>
+uocauerunt ecalesan<lb/>
+ueta colyson<lb/>
+ueto colyo<lb/>
+uetas colyis<lb/>
+uetat colyi<lb/>
+uetamus colyomen<lb/>
+uenantur colyontae<lb/>
+uetati sunt ecolythesan<lb/>
+</p></div>
+
+  </body>
+ </text>
+
+</TEI>

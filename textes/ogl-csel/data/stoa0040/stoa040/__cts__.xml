@@ -1,0 +1,8 @@
+<ti:work xml:lang="lat" xmlns:ti="http://chs.harvard.edu/xmlns/cts" urn="urn:cts:latinLit:stoa0040.stoa040" groupUrn="urn:cts:latinLit:stoa0040">
+  <ti:title xml:lang="lat">Du Duabus Animabus</ti:title>
+  <ti:edition urn="urn:cts:latinLit:stoa0040.stoa040.opp-lat1" workUrn="urn:cts:latinLit:stoa0040.stoa040">
+    <ti:label xml:lang="lat">Du Duabus Animabus</ti:label>
+    <ti:description xml:lang="mul">Augustine. Sancti Aureli Augustini Opera, Sectio VI, Pars I (Corpus scriptorum ecclesiasticorum Latinorum, 
+      Volume 25.1). Zycha, Joseph editor. Prague; Vienna; Leipzig: F. Tempsky; G. Freytag, 1891.</ti:description> 
+  </ti:edition>
+</ti:work>

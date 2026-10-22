@@ -1,0 +1,8 @@
+<ti:work xml:lang="lat" xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:latinLit:stoa0252" urn="urn:cts:latinLit:stoa0252.stoa002">
+  <ti:title xml:lang="lat">Carmen Paschale</ti:title>
+  <ti:edition workUrn="urn:cts:latinLit:stoa0252.stoa002" urn="urn:cts:latinLit:stoa0252.stoa002.opp-lat1">
+    <ti:label xml:lang="lat">Carmen Paschale</ti:label>
+    <ti:description xml:lang="mul">Sedulius. Sedulii Opera omnia (Corpus Scriptorum Ecclesiasticorum Latinorum, Volume 10).
+      Huemer, Johann, editor. Vienna: Gerold, 1885</ti:description>
+  </ti:edition>
+</ti:work>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Epitome anonyma (quae gynaecia uocatur) recensio C</title>
+    <author>Vindicianus</author>
+    <respStmt>
+     <resp>Correzione linguistica</resp>
+     <name>Sara Mecca</name>
+    </respStmt>
+    <respStmt>
+     <resp>Codifica XML</resp>
+     <name>Nadia Rosso</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>digilibLT</publisher>
+    <pubPlace>Vercelli</pubPlace>
+    <date>2017</date>
+    <availability>
+     <p><ref target="http://creativecommons.org/licenses/by-nc-sa/3.0/it/"/></p>
+    </availability>
+    <idno>dlt000526</idno>
+   </publicationStmt>
+   <sourceDesc>
+    <p><hi rend="italic">Theodori Prisciani Euporiston libri III, cum physicorum fragmento et additamentis pseudoTheodoreis</hi>, editi a Valentino Rose ; accedunt Vindiciani Afri quae feruntur reliquiae Lipsiae 1894, pp. 428-463 (Bibliotheca Scriptorum Graecorum et Romanorum Teubneriana).</p>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <projectDesc>
+    <p>digilibLT. Biblioteca digitale di testi latini tardoantichi.</p>
+    <p>Progetto diretto da Raffaella Tabacco (responsabile della ricerca) e Maurizio Lana</p>
+   </projectDesc>
+   <editorialDecl>
+    <p><hi rend="bold">Modifiche apportate al testo dell'edizione di riferimento </hi></p>
+    <p>Si è inserito il dittongo "ae" laddove compariva la corrispondente "e" con segno grafico simile alla cediglia.</p>
+     <p>Si sono corretti i seguenti errori di stampa: cap. 5 "qnoqne" in "quoque"; cap. 10 "pnlmonum" in "pulmonum"; cap. 12 "qnod" in "quod"; cap. 24 "dentrs" in "dentes".
+    </p>
+
+    <p><hi rend="bold">Note di trascrizione e codifica del progetto digilibLT </hi></p>
+    <p>Abbiamo riportato solo il testo stabilito dall'edizione di riferimento non seguendone
+     l'impaginazione. Sono stati invece esclusi dalla digitalizzazione apparati, introduzioni, note
+     e commenti e ogni altro contenuto redatto da editori moderni. </p>
+    <p> I testi sono stati sottoposti a doppia rilettura integrale per garantire la massima
+     correttezza di trascrizione</p>
+    <p>Abbiamo normalizzato le U maiuscole in V seguendo invece l'edizione di riferimento per la
+     distinzione u/v minuscole.</p>
+    <p> Non è stato normalizzato l'uso delle virgolette e dei trattini.</p>
+    <p> Non è stata normalizzata la formattazione nell'intero <hi rend="italic">corpus</hi>:
+     grassetto, corsivo, spaziatura espansa.</p>
+    <p>Sono stati normalizzati e marcati nel modo seguente i diacritici.<lb/> espunzioni:
+     <![CDATA[<del>testo</del>]]> si visualizza [testo] <lb/> integrazioni: <![CDATA[<supplied>testo</supplied> si visualizza <testo>]]><lb/>
+     <hi rend="italic">loci desperati</hi>: <![CDATA[ <unclear>testo</unclear> o <unclear/> testo]]>
+     si visualizzano †testo† e †testo<lb/> lacuna materiale: <![CDATA[<gap/>]]> si visualizza
+     [...]<lb/> lacuna integrata dagli editori:
+     <![CDATA[<supplied><gap/></supplied> si visualizza <...>]]>
+    </p>
+    <p>Sono stati marcati i termini in lingua greca
+     <![CDATA[<foreign xml:lang="grc">αβγ</foreign>]]>
+    </p>
+    <p>Ulteriori informazioni sulle norme di trascrizione e codifica su <ref
+      target="http://digiliblt.lett.unipmn.it/upload/docs/note_di_trascrizione_e_di_codifica.pdf"
+      >Note di trascrizione e codifica di testi latini tardoantichi
+      [http://digiliblt.lett.unipmn.it/upload/docs/note_di_trascrizione_e_di_codifica.pdf]</ref></p>
+   </editorialDecl>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="la">Latino</language>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+
+ <text>
+
+
+  <body>
+   <div><head><hi rend="expanded">Contra dicit scutari viscera.</hi></head>
+    <div type="cap" n="1"><p> Expositio membrorum quo ordine. vel quibus nervis. vel quibus iuncturis. vel  quo scemate homo  in utero <supplied>mater</supplied>no  plasmatur. Et hoc demas exemplum accipite sumentes.
+    </p></div><div type="cap" n="2"><p> Maioreus enim  nostri. Lypox. Yppogrates. Apollonius. vel ceteris anathomicis placuit mortuorum viscera perscrutari. ut scirent  vel quomodo morirentur. Nobis hoc facere ipsa humanitas prohiuet, eo quod ipsis scrutantibus omnia manifesta atque adaperta sunt. et quid dixerunt.
+    </p></div><div type="cap" n="3"><p> Caput enim nostrum. commessuras habet .V. angulosas. alterutrum se continentes.  sicut summus anathomicus <hi rend="expanded">filius</hi> memorat dicens. Masculus in galea habet commessuras .V. femina vero in circuitu commessuras habet. cui galea superposita est quod greci mecani appellant. quae coheret membrano. Superposita est illi cutis quae habet capillos non causa decoris. sed ut ab aestu. seu frigore oculos custodiat.
+    </p></div><div type="cap" n="4"><p> Vbi vero galea est. subiacent timpora que continentur spiritalibus venis cerebri. quibus superposita sunt supercilia. ut si copiosus sudor fronti advenerit. obposita ostatione pilorum continetur. donec extersus sudor ab oculis auferatur.
+    </p></div><div type="cap" n="5"><p> Oculi quoque iste scemate continentur. Ex vaso enim cerebri foramina orta sunt duo. per quam tenuissimae venae dextra levaque alternis in vicem sic continentur
+     tonice sunt. IIII. vel .V. prima tonica. appellatur cerotoydes. secunda. croydes. tertia. honoeroydes. quarta. discoydes. quinta. christalloides.  
+    </p></div><div type="cap" n="7"><p> Superposita sunt ossa oculis. quae malas vocamus. Dentes etiam habent viri. XXXII. mulieres autem XXX. de quibus auctor <hi rend="expanded">Appollonius</hi> memorat dicens. iemini dentes usque ad caninos. singulas habentes radices. Alii vero interius qui molares dicuntur. habens ternas. et quaternas radices.
+    </p></div><div type="cap" n="8"><p> Palato enim lingua subiacet. cuius radix cooperit cannulam spiritalem. quam greci uranos dicunt utrasque canales. modo aperitur. modo clauditur. complectens. Aperit enim spiritalem canale cum loquimur. clauditur cum manducamus. quomodo probare possumus. cum forte cibo. vel potum utimur et risus occurrerit. Et supra dicto cibo spiritalis canalis aliquid aperitur. statim tussis consequitur. Donec inpellente spiritu illud quod reparat in propria iterum revocet.
+    </p></div><div type="cap" n="9"><p>Huic linguae destra levaque parte tussicule sunt posite. quod autem super pendens lingue. uva apellatur. post quam caverna sunt duo quae fit infusio ruptus. quod greci anathimiasin vocant. Nares quoque supra dictis cavernis inferunt. per easdem usque ad cerebrum tenduntur. aures enim viae sunt auditores. sicut rerum nature composuit ad cerebrum. et a cerebro descendente. faciunt exalationem. coniungitur autem gula pulmoni.
+    </p></div><div type="cap" n="10"><p> Pulmo vero in modum fabri ferrarii follis est constitutus. alter alteri spiritum tradens. et implet pectoris archana. Istomachus autem ventri coniunctus est. qui inter spinas pulmonum medio possidet.
+    </p></div><div type="cap" n="11"><p> Cor vero venas habet quattuor. Duas quae spiritum continent. Pulmoni affixe sunt. quarum facta concatenatione. totum corpus sanguis diffunditur. et sic vene pulsum reddunt. Pulsus ita nutritur modo recipit sanguinem vene.
+     Idcirco positum est quod greci pericardian vocant. cingens extremas partes pulmoni
+    </p></div><div type="cap" n="12"><p> Supposita sunt precordia quae greci diafragman vocant. continet pulmonem subiacet autem venter.  qui eius testina continet cui iuncta sunt latera exspina. Venter autem orificia habet duo. unum <hi rend="expanded">proximum membrano</hi> quod greci procardian vocant. in sinistra inclinatum. hoc greci. epiplon vocant. Aliud vero in dexteram partem circa iecur expositu est extentum usque ad longum. quod greci longionem vocant. cingens dexteram partem renum. Nervis vero. inest nervis vesice. in sinistram partem positum splen oblongum. ventris coniunctum. continens membrana tenua. hauens pinguissimas venas quae intestinas tegunt et calefaciunt. hoc greci epiplon vocant. Roboes extensa usque ad renum sinistrum. subiacet autem sub hoc intestinum quod greci testinum hoc subiunctum est loeas. continens longaonem.
+    </p></div><div type="cap" n="13"><p> Qui iunctus est vesice collum longum qui veretro inest. vesica vero renibus continetur media utriusque. exquibus renibus decurrent ad nervum. vel testiculos. que greci cremasteron vocant. quibus iunte sunt vene tenuissime sperman deducunt a cerebro. ori<del>s</del>que ex spinae medulla.
+    </p></div><div type="cap" n="16"><p> Feminis quoque testiculis inesse manifestum est. sed alio scemate formati sunt ut viris. mulierum vero testiculi breviores et fragiliores sunt. Namque qui maiores habent. viragines appellantur. Igitur manifestum est unam esse viris ac mulieribus internorum viscera compaginata liniamenta. sed multe sunt tonicae testiculis virorum. prima. troydes. secunda. prognoydes. tertia. peritoydes. quarta vero tonica tenuissima. arcos appellatur.
+    </p></div><div type="cap" n="17"><p> Similiter et matrix habet subiecta membra quibus continet. quod greci cyneceon vocant. nam ut est masculo veretrum. ita est matricis columna. Matrix enim naturaliter fragilis et mollissima est. constans ex nervis. et parvissimis venulis tonicis duabus. Exterius nervis est firma. interius carnosa et mollis. quae est directa contra intestinum. cui cervix. tribus foraminibus erigitur usqne ad longaonem. sinistra vero est matrix. in qua sperma miscetur.
+    </p></div><div type="cap" n="18"><p> Conceptio celebretur. natura volente. id est viri semine. et mulieris sanguinem quamvis et virili sperma sanguis noscatur esse. unde et maiores nostri consanguineos appellaverunt. et consanguinitate paternalis materna natos. Nam dicitur ab imperitis quomodo sperma sanguis esse potest cum sit albe. nos autem certa ratione probamus. Mare enim ut ei natura tribuit. est colore viridis. quando autem tempestatibus movetur. spuma emittit. et si nigrum vinum in quolibet vas exagitetur. spumam candidam facit. simili<del>s</del> vero ratione et sanguis concussus. in aluitudinem vertitur. dum enim conceptio fit. statim formatur infans. Nam si quoties coitus fit. toties conceptio fieret. innumerabilis esse multitudo filiorum. Certo enim tempore mulier concipit. aut in initio purgationis. aut in finem. Nam purgatio. sperma corrumpitur. plurimi sanguinis usum. materiae superante.
+    </p></div><div type="cap" n="19"><p> Temporibus autem certis infans componi atque formari in utero materno manifestum est.
+     Omnis enim figura firmatur in XL dies. aliquante in diebus XXX. qui vero in XXX. dies formatur in VII. mense nascuntur. Qui autem in XL. die formatur. in VIIII. mense nascuntur.
+    </p></div><div type="cap" n="20"><p> Manifestum est enim infantes in utero materno ita formari. Primo enim mense iactus seminis congregatur in umbilico. et facit res. in hoc est congregatio sanguinis. Secundo mense expressio corporis animam tribuit. Tertio mense ungule atque capilli nascuntur. et motum facit infans. ideoque et IIII mense mulieribus nausiae <hi rend="expanded">fiunt quod</hi> greci anaraxion vocant. Quinto autem mense. facit caracteris. nodis. atque adulteria demonstrat. Sexto mense. facit nervorum consumationem. Septim mense medullam confirmat. Octabo. cum periculis ossa confirmat. Nono vero mense maturum movet infantem.
+    </p></div><div type="cap" n="21. 2"><p> Infans vero masculus in parte dextra matrici continetur. Faemina vero in sinistra. Nam et haec signa procedere solent. quod si masculus fuerit in utero mamma dextra robustior erit. si femina. sinistra.
+    </p></div><div type="cap" n="21. 1"><p> Dum ergo infans in utero materno est. oculi ge<del>mi</del>nibus obpositi sunt. unde et probamus. quia ad genua est tumentia. Oculi autem concavi ideo cognita rerum natura imposuit genua. et gene quoque. cum aeri dolore vel iniuria percussus homo fuerit. et genua curvaverit. Oculi continuo lacrimantur. non vult eos natura oblivisci. societate genuina.
+    </p></div><div type="cap" n="22"><p> Dentes enim nostri organa sunt quodammodo lingue. infans denique qui dentes non habuerit. vagit. dum vero vel III. habuerit. musitat. dum vero os dentibus impleverit. loquitur.
+    </p></div><div type="cap" n="23"><p> Dentes autem nostri <del>organa sunt</del> quod habemus. alii vocantur cynodentes. quos caninos dicimus. quos ad frangendum habemus. Dentes enim nostri ossa non sunt neque medullam habent. ideoque omnia ossa confringunt.
+    </p></div><div type="cap" n="24"><p>  Sed assiduus humor capitis veniens vitiat. sicut enim assiduus liquor ex alto in saxum veniens perforat. Ita dentes vitiantur a capite.</p></div>
+   </div>
+  </body>
+ </text>
+
+</TEI>

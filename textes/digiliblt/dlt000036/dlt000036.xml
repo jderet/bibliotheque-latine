@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+ <fileDesc>
+  <titleStmt>
+   <title><del>De Metris</del></title>
+   <author/>
+   <respStmt>
+    <resp>transcodifica di base da rtf a xml-tei</resp>
+    <name>Piero Colombo - Step srl</name>
+   </respStmt>
+   <respStmt>
+    <resp>Testo </resp>
+    <name>Marinone, CD-GL, adeguato su edizione Morelli</name>
+   </respStmt>
+   <respStmt>
+    <resp>Adeguamento testo su nuova edizione</resp>
+    <name>Alice Borgna </name>
+   </respStmt>
+   <respStmt>
+    <resp>Controllo marcatura XML-TEI</resp>
+    <name>Alice Borgna </name>
+   </respStmt>
+  </titleStmt>
+  <publicationStmt>
+   <publisher>digilibLT</publisher>
+   <pubPlace>Vercelli</pubPlace>
+   <date>2017</date>
+   <availability>
+    <p>
+     <ref target="http://creativecommons.org/licenses/by-nc-sa/3.0/it/"/>
+    </p>
+   </availability>
+   <idno>DLT000036</idno>
+  </publicationStmt>
+  <sourceDesc>
+   <p> Caesii Bassi De metris et Atilii Fortunatiani De metris Horatianis, a c. di G.
+    Morelli, Hildesheim 2011-2012 (Collectanea Grammatica Latina 11), vol.1, pp.
+    103-106</p>
+  </sourceDesc>
+ </fileDesc>
+ <encodingDesc xmlns="http://www.tei-c.org/ns/1.0">
+  <projectDesc>
+   <p>digilibLT. Biblioteca digitale di testi latini tardoantichi.</p>
+   <p>Progetto diretto da Raffaella Tabacco (responsabile della ricerca) e Maurizio
+    Lana</p>
+  </projectDesc>
+  <editorialDecl>
+   <p>
+    <hi rend="bold">Note di trascrizione e codifica del progetto digilibLT</hi>
+   </p>
+   <p>Abbiamo riportato solo il testo stabilito dall'edizione di riferimento non
+    seguendone l'impaginazione. Sono stati invece esclusi dalla digitalizzazione
+    apparati, introduzioni, note e commenti e ogni altro contenuto redatto da
+    editori moderni.</p>
+   <p>I testi sono stati sottoposti a doppia rilettura integrale per garantire la
+    massima correttezza di trascrizione</p>
+   <p>Abbiamo normalizzato le U maiuscole in V seguendo invece l'edizione di
+    riferimento per la distinzione u/v minuscole.</p>
+   <p>Non è stato normalizzato l'uso delle virgolette e dei trattini.</p>
+   <p> Non è stata normalizzata la formattazione nell'intero <hi rend="italic"
+    >corpus</hi> : grassetto, corsivo, spaziatura espansa. </p>
+   <p> Sono stati normalizzati e marcati nel modo seguente i diacritici. <lb/>
+    espunzioni: <![CDATA[<del>testo</del>]]> si visualizza [testo] <lb/>
+    integrazioni: <![CDATA[<supplied>testo</supplied> si visualizza <testo>]]>
+    <lb/>
+    <hi rend="italic">loci desperati</hi> :
+    <![CDATA[ <unclear>testo</unclear> o <unclear/> testo]]> si visualizzano †testo†
+    e †testo <lb/> lacuna materiale: <![CDATA[<gap/>]]> si visualizza [...] <lb/>
+    lacuna integrata dagli editori:
+    <![CDATA[<supplied><gap/></supplied> si visualizza <...>]]>
+   </p>
+   <p> Sono stati marcati i termini in lingua greca
+    <![CDATA[<foreign xml:lang="grc">αβγ</foreign>]]>
+   </p>
+   <p> Ulteriori informazioni sulle norme di trascrizione e codifica su <ref
+    target="http://digiliblt.lett.unipmn.it/upload/docs/note_di_trascrizione_e_di_codifica.pdf"
+    >Note di trascrizione e codifica di testi latini tardoantichi
+    [http://digiliblt.lett.unipmn.it/upload/docs/note_di_trascrizione_e_di_codifica.pdf]</ref>
+   </p>
+  </editorialDecl>
+ </encodingDesc>
+ <profileDesc>
+  <langUsage>
+   <language ident="la">Latino</language>
+  </langUsage>
+ </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head>[Bassus] De metris </head>
+   <p>
+    <milestone unit="row" n="riga 3 vol. VI Keil"/>
+    <quote type="poetry">«Maecenas atauis edite regibus»</quote>. </p>
+   <p> asclepiadeon duodecasyllabon, cuius diuisio uaria, quidam <supplied>dividunt</supplied> sic,
+    Maece spondeus, nas atauis choriambus, edite re idem, gibus pyrrichio uel iambus propter
+    indifferentiam syllabae. <lb/> alii per dipodias ita: Maecenas a, debuit
+     anti<supplied>s</supplied>pastica <supplied>di</supplied>podia esse, <supplied>s</supplied>ed
+    produxit syllabam primam et fecit epitritum quartum ex tribus longis et breui: tauis edi,
+     anti<supplied>s</supplied>pastus est ex breui <supplied>et</supplied> duabus longis et breui:
+    te regibus, paeon secundus ex breui et longa et duabus breuibus, uel si longa fuerit ultima,
+    erit di<del>s</del>iambus. si uero ad paenultimam partem ultimae dipodiae breuis syllaba
+    addatur, fiet elegiacus uersus pentameter sic: <lb/>
+    <quote type="poetry">«Maecenas atauis edite remigibus»</quote>. </p>
+   <p> diuiditur prioribus aut dactylo et spondeo aut spondeo et dactylo, tamen medius spondeus
+    debet semper esse sequentibus anapaesti<del>ci</del>s. </p>
+   <p>
+    <quote type="poetry">«iam satis terris niuis atque dirae»</quote>. </p>
+   <p> sapphicon hendecasyllabon, quod est trimetron choriambicon catalecticon, cuius syllabam
+    tertiam produxit in prima dipodia, quam corripere debuit. oportuit enim ita esse, iam satis est,
+    posuit autem iam satis ter, pro choriambo epitritum secundum, id est ex longa et breui et duabus
+    longis. secunda dipodia choriambica est, ris niuis at. tertio, que dirae, positus <milestone
+     unit="page" n="p. 306 vol. VI Keil"/> pes pro dipodia bacchius, aut propter indifferentiam
+    syllabae hoc metrum clauditur amphibracho, id est ex breui et longa et breui. </p>
+   <p>
+    <quote type="poetry">«sic te diua potens Cypri»</quote>. </p>
+   <p> glyconion octosyllabon et genere asclepiadeon est. huic enim si addideris dipodian
+    choriambicam, facies asclepiadeon sic: <lb/>
+    <quote type="poetry">«sic te diua potens <supplied>diua potens</supplied> Cypri». </quote>
+   </p>
+   <p> diuiditur autem spondeo, choriambo, pyrrichio uel iambo propter syllabae indifferentiam: <lb/>
+    <quote type="poetry">«sic te diua potens Cypri»</quote>. </p>
+   <p/>
+   <p> </p>
+   <p>
+    <quote type="poetry">«soluitur acris hiems grata uice ueris et fauoni»</quote>. </p>
+   <p> archilochion <foreign xml:lang="grc">ἑπτακαιδεκασύλλαβον</foreign> ithyphallicon: <lb/>
+    <quote type="poetry">«soluitur acris hiems grata uice ueris et fauoni»</quote><lb/> commissum
+    est ex heroico et ithyphallico:<lb/>
+    <quote type="poetry">«soluitur acris hiems grata uice»</quote>,<lb/> huc usque heroicum;<lb/>
+    <quote type="poetry">«ueris et fauoni»</quote>, <lb/>hoc ithyphallicon. </p>
+   <p>
+    <quote type="poetry">«trahuntque siccas </quote><supplied><quote type="poetry">machinae carinas» </quote>
+     <lb/> hendecasyllabon archilochion *** ex iambico et ithyphallico: <lb/>
+     <quote type="poetry">«trahuntque siccas» </quote></supplied>, <lb/> portio iambici, sequitur
+    ithyphallicon: <lb/>
+    <quote type="poetry">«machinae carinas»</quote>. </p>
+   <p>
+    <quote type="poetry">«uides ut alta stet niue candidum»</quote>. </p>
+   <p> alcaicon hendecasyllabon, cuius diuisio ita est: <quote type="poetry">«uides ut
+    alta»</quote>, ex duobus iambis et syllaba et sequentibus duobus dactylis uel propter
+    indifferentiam syllabae dactylo et amphimacro: <quote type="poetry">«stet niue
+    candidum»</quote>. </p>
+   <p>
+    <quote type="poetry">«Soracte nec iam sustineant onus»</quote>, <lb/> sicut prior scanditur. </p>
+   <p>
+    <quote type="poetry">«siluae laborantes geluque»</quote>, <lb/> enneasyllabon, siluae spondeus,
+    labo iambus, rantes spondeus, gelu iambus, que syllaba. </p>
+   <p>
+    <quote type="poetry">«flumina constiterint acuto»</quote>,
+     <lb/><supplied>decasyllabon:</supplied> hoc constat ex quattuor pedibus heroicis syllaba
+    detracta breui in tertio pede. fit enim integrum sic: <lb/>
+    <quote type="poetry">«flumina constiterint ab acuto»</quote>. </p>
+   <milestone unit="page" n="p. 307 vol. VI Keil"/>
+  </body>
+ </text>
+</TEI>

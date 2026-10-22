@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Fragmentum Vaticanum de positura, de chria, de poemate, de versu, de accentibus</title>
+    <author/>
+    <respStmt>
+     <resp>transcodifica di base da rtf a xml-tei</resp>
+     <name>Piero Colombo - Step srl</name>
+    </respStmt>
+    <respStmt>
+     <resp>Testo </resp>
+     <name>Marinone, CD-GL, adeguato su edizione Morelli</name>
+    </respStmt>
+    <respStmt>
+     <resp>Adeguamento testo su nuova edizione</resp>
+     <name>Alice Borgna </name>
+    </respStmt>
+    <respStmt>
+     <resp>Controllo marcatura XML-TEI</resp>
+     <name>Alice Borgna </name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>digilibLT</publisher>
+    <pubPlace>Vercelli</pubPlace>
+    <date>2017</date>
+    <availability>
+     <p>
+      <ref target="http://creativecommons.org/licenses/by-nc-sa/3.0/it/"/>
+     </p>
+    </availability>
+    <idno>DLT000221</idno>
+   </publicationStmt>
+   <sourceDesc>
+    <p><hi rend="italic">Caesii Bassi De metris et Atilii Fortunatiani De metris Horatianis</hi> a
+     c. di G. Morelli, Hildesheim 2011-2012 (Collectanea Grammatica Latina 11), vol.1, pp. 47-51</p>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc xmlns="http://www.tei-c.org/ns/1.0">
+   <projectDesc>
+    <p>digilibLT. Biblioteca digitale di testi latini tardoantichi.</p>
+    <p>Progetto diretto da Raffaella Tabacco (responsabile della ricerca) e Maurizio Lana</p>
+   </projectDesc>
+   <editorialDecl>
+    <p>
+     <hi rend="bold">Note di trascrizione e codifica del progetto digilibLT</hi>
+    </p>
+    <p>Abbiamo riportato solo il testo stabilito dall'edizione di riferimento non seguendone
+     l'impaginazione. Sono stati invece esclusi dalla digitalizzazione apparati, introduzioni, note
+     e commenti e ogni altro contenuto redatto da editori moderni.</p>
+    <p>I testi sono stati sottoposti a doppia rilettura integrale per garantire la massima
+     correttezza di trascrizione</p>
+    <p>Abbiamo normalizzato le U maiuscole in V seguendo invece l'edizione di riferimento per la
+     distinzione u/v minuscole.</p>
+    <p>Non è stato normalizzato l'uso delle virgolette e dei trattini.</p>
+    <p> Non è stata normalizzata la formattazione nell'intero <hi rend="italic">corpus</hi> :
+     grassetto, corsivo, spaziatura espansa. </p>
+    <p> Sono stati normalizzati e marcati nel modo seguente i diacritici. <lb/> espunzioni:
+     <![CDATA[<del>testo</del>]]> si visualizza [testo] <lb/> integrazioni: <![CDATA[<supplied>testo</supplied> si visualizza <testo>]]>
+     <lb/>
+     <hi rend="italic">loci desperati</hi> :
+     <![CDATA[ <unclear>testo</unclear> o <unclear/> testo]]> si visualizzano †testo† e †testo <lb/>
+     lacuna materiale: <![CDATA[<gap/>]]> si visualizza [...] <lb/> lacuna integrata dagli editori:
+     <![CDATA[<supplied><gap/></supplied> si visualizza <...>]]>
+    </p>
+    <p> Sono stati marcati i termini in lingua greca
+     <![CDATA[<foreign xml:lang="grc">αβγ</foreign>]]>
+    </p>
+    <p> Ulteriori informazioni sulle norme di trascrizione e codifica su <ref
+      target="http://digiliblt.lett.unipmn.it/upload/docs/note_di_trascrizione_e_di_codifica.pdf"
+      ><hi rend="italic">Note di trascrizione e codifica di testi latini tardoantichi</hi>
+      [http://digiliblt.lett.unipmn.it/upload/docs/note_di_trascrizione_e_di_codifica.pdf]</ref>
+    </p>
+   </editorialDecl>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="la">Latino</language>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <head>Fragmentum Vaticanum de positura, de chria, de poemate, de versu, de accentibus</head>
+   <div type="section">
+    <head>
+     <hi rend="bold"> De positura</hi></head>
+    <p> Distinctio est temporis et sensus finitio; subdistinctio est nec temporis nec sensus
+     finitio; mora est requies animi. Inter distinctionem et subdistinctionem et moram hoc interest,
+     quod distinctio perfectum sensum declarat, subdistinctio inferri aliquid significat, mora
+     reficit lectorem simulque sensibus lumen accommodat. </p>
+   </div>
+   <div type="section">
+    <head>
+     <hi rend="bold"> De chria</hi>
+    </head>
+    <p> Chria est dicti uel facti praecipua memoratio: facti, ut: <lb/> «Diogenes, cynicus
+     philosophus, cum animaduertisset pueros nobiles inhumane cibum appetentes, paedagogum eorum
+     scipione percussit». <lb/> Dicti autem chria in tres species diuiditur: est enim praepositiua,
+     ut: «Titus Genucius Cipus dixit uiros bonos scire oportere male agere, sed non agere»,
+     percunctatiua, ut: «M. Porcius Cato interrogatus, quid ita post quadragesimum annum litteras
+     Graecas disceret, dixit: ‛non ut doctus, sed ut ne indoctus moriar’»; refutatiua, ut: «Antisthenes, cynicus philosophus, cum oluscula lauaret et animaduertisset Aristippum Cyrenaeum
+     philosophum cum Dionysio, tyranno Siculorum, ingredientem, dixit: ‛Aristippe, si his contentus
+     esses, non regis pedes sequereris’. cui respondit Aristippus: ‛at tu si posses commode cum rege
+     loqui, non his contentus esses’». <lb/> Adicitur his quartum quoque genus, quod Graece <foreign
+      xml:lang="grc">δεικτικόν</foreign>
+     <supplied>dicitur</supplied>, Latine demonstratiuum dici potest, ut: «Achilles interrogatus,
+     quem ad modum uicisset Hectorem, arma ostendit» quam quidam in facti speciem redegerunt. <lb/>
+     Est item et coniunctiua, ut: «Diogenes, cynicus philosophus, cum manu haurientem rusticum ad
+     potandum aquam uidisset, poculum, quod in pera gerebat, abiecit et dixit: ‛hoc ego leuior esse
+     iam possum’». </p>
+    <milestone unit="page" n="p. 274 vol. VI Keil"/>
+   </div>
+   <div type="section">
+    <head>
+     <hi rend="bold"> De poemate</hi>
+    </head>
+    <p> Poema est narratio numeris et uersibus con<del>n</del>exa. Poesis est poematum series
+      <supplied><gap/></supplied> qualitatis rebus gestis. Poetice est facultas uersificationibus
+     fingendis. Poematum uersificationes laudantur grauis et plena, aequalis et temperata, subtilis
+     et circumspecta, florida et uenusta, quibus contrariae sunt tumida et dissoluta, exilis et
+     fucosa. Poeseos genera sunt tria, actuale, narratiuum, coniunctiuum. Actuale est quod Graeci
+      <foreign xml:lang="grc">δραματικόν</foreign> dicunt, ubi poeta <supplied><gap/></supplied>
+     <supplied>epos sive dactylicum, epigramma. iambica</supplied> lyrica, tragoedia, satyrica,
+     praetextata, comoedia, tabernaria, Atellana,
+     R<supplied>h</supplied>int<supplied>h</supplied>onica, mimica. </p></div>
+   <div type="section">
+     <head><hi rend="bold"> De uersu</hi></head>
+    <p> Versus est pedum certa mensura. Genera uersuum sunt nouem. Princeps genus uersuum heroicum,
+     quod et epos dicitur et dactylicon; alterum, quod iambicon dicunt, unde Graecos uersus
+     trimetros nos senarios dicimus; tertium, quod trochaicon appellatur; quartum, quod anapaesticon
+     dicitur, aptum choris et tragicae dignitati; quintum, quod antispasticon vocant, unde plures
+     meli componuntur; sextum contrarium, quod choriambicon nominant; septimum ionicon <foreign
+      xml:lang="grc">ἀπὸ μ<supplied>ε</supplied>ίζονος</foreign> aptum sotadicis uersificationibus
+     et mollibus uersibus; octauum, quod <supplied>ionicon<foreign xml:lang="grc"> ἀπ’
+       ἐλάσ</foreign></supplied><foreign xml:lang="grc">σονος </foreign> dicitur, et hoc ad rhythmum
+     tibicinum conuenit; nonum, quod paeonicon appellatur. </p>
+   </div>
+   <div type="section">
+    <head>
+     <hi rend="bold"> De accentibus</hi>
+    </head>
+    <p> Accentus sunt tres, acutus, grauis et circumflexus. Reliqui enim quattuor, longus, breuis,
+     lenis, adspiratus, tenores potius quam accentus dictionis sunt existimandi. Nam omnis syllaba,
+     quae aliquem trium superiorum sibi uindicat, utique alias ingenitam sibi habet aut longitudinem
+     aut breuitatem aut lenitatem aut adspirationem. quae si accentus essent, pariter duo syllaba in
+     una constare non possent. </p>
+    <milestone unit="page" n="p. 275 vol. VI Keil"/>
+    <p> Longum accentum transuersa I littera notat, breuem <supplied>C</supplied> sursum spectans.
+     Sed in illis <supplied>sonos, in his</supplied> tempora dinosci uidemus. <lb/>
+      A<supplied>d</supplied>spirationem H <supplied>ad</supplied>scripta praestabit; si adscripta
+     non erit, siccitatem. <lb/> His adiciunt hyphen fere, cum duo uerba quasi in unum
+      pronuntiatione<supplied>m</supplied> colligimus, et formam eius hanc faciunt
+      <supplied>U</supplied>: utri<supplied>u</supplied>sque uerbi<del>s</del> proximas litteras
+     inflexa subter uirgula iungunt, ut est: <lb/> <quote type="poetry">«Turnus ut anteUuolans»</quote>.
+     Item apostropho<supplied>n</supplied>, cum uocalem ultimam subtrahimus: hanc sic notant ’, ad caput eius
+     consonantis, cui uocalis subtracta est, inflexam uirgulam quae ad eam spectat apponunt: <lb/> <quote
+      type="poetry">«‛tanton’ me crimine dignum <lb/> duxisti?»</quote>. </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,15 @@
+<ti:work xml:lang="lat" xmlns:ti="http://chs.harvard.edu/xmlns/cts" urn="urn:cts:latinLit:stoa0292b.stoa001" groupUrn="urn:cts:latinLit:stoa0292b">
+  <ti:title xml:lang="lat">Alethia</ti:title>
+  <ti:edition urn="urn:cts:latinLit:stoa0292b.stoa001.opp-lat1" workUrn="urn:cts:latinLit:stoa0292b.stoa001">
+    <ti:label xml:lang="lat">Alethia</ti:label>
+    <ti:description xml:lang="mul">Victor, Claudius Marius. Saint. Poetae Christiani Minores, Pars I (Corpus scriptorum 
+      ecclesiasticorum latinorum, Volume 16, Part 1). Petschenig, Michael, editor; Ellis, Robinson, editor; 
+      Brandes, Wilhelm, editor; Schenkl, Karl, editor. Vienna, Leipzig, Prague: Tempsky, Freytag, 1888.</ti:description>    
+  </ti:edition>
+  <ti:edition urn="urn:cts:latinLit:stoa0292b.stoa001.opp-lat2" workUrn="urn:cts:latinLit:stoa0292b.stoa001">
+    <ti:label xml:lang="lat">Commentariorum In Genesim Libri Tres</ti:label>
+    <ti:description xml:lang="mul">Victor, Claudius Marius. Saint. Poetae Christiani Minores, Pars I (Corpus scriptorum 
+      ecclesiasticorum latinorum, Volume 16, Part 1). Petschenig, Michael, editor; Ellis, Robinson, editor; 
+      Brandes, Wilhelm, editor; Schenkl, Karl, editor. Vienna, Leipzig, Prague: Tempsky, Freytag, 1888.</ti:description>    
+  </ti:edition>
+</ti:work>

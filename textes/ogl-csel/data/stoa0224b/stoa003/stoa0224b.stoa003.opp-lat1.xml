@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader xml:lang="eng">
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="lat">De Orantibus</title>
+        <author>Paulinus Petricordiae</author>
+        <editor>Karl Schenkl</editor>
+        <sponsor>University of Leipzig</sponsor>
+        <funder>European Social Fund Saxony</funder>
+        <principal>Gregory Crane</principal>
+        <respStmt>
+          <persName xml:id="Jouve">Jouve</persName>
+          <resp>OCR-ed, corrected and encoded the text</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Greta Franzini</persName>
+          <resp>Project Manager (University of Leipzig)</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Simona Stoyanova</persName>
+          <resp>Project Assistant (University of Leipzig)</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Bruce Robertson</persName>
+          <resp>Technical Advisor (Mount Allison University)</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Uvius Fonticola</persName>
+          <resp>Technical Advisor (Ludwig Maximilians University Munich)</resp>
+        </respStmt>
+      </titleStmt>
+      
+      <publicationStmt>
+        <authority>University of Leipzig</authority>
+        <idno type="filename">stoa0224b.stoa003.opp-lat1.xml</idno>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Available under a Creative Commons Attribution-ShareAlike 4.0 International License</licence>
+        </availability>
+        <date>2014</date>
+        <publisher>University of Leipzig</publisher>
+        <pubPlace>Germany</pubPlace>
+      </publicationStmt>
+      
+      <sourceDesc>
+        <listBibl>
+          <biblStruct>
+            <monogr>
+              <title xml:lang="lat">Poetae Christiani Minores</title>
+              <editor>Michael Petschenig</editor> 
+              <editor>Robinson Ellis</editor> 
+              <editor>Georg Brandes</editor>
+              <editor>Karl Schenkl</editor>
+              <imprint>
+                <pubPlace>Vienna</pubPlace>
+                <pubPlace>Prague</pubPlace>
+                <pubPlace>Leipzig</pubPlace>
+                <publisher>Tempsky</publisher>
+                <publisher>Freytag</publisher>
+                <date>1888</date>
+              </imprint>
+              <biblScope unit="volume">1</biblScope>
+            </monogr>
+            <series>
+              <title xml:lang="lat">Corpus scriptorum ecclesiasticorum latinorum</title>
+              <biblScope unit="volume">16.1</biblScope>
+            </series>     
+            <ref target="Internet Archive">https://archive.org/stream/corpusscriptorum16stuoft#page/164/mode/2up</ref>
+          </biblStruct>
+        </listBibl>
+      </sourceDesc>
+      
+    </fileDesc>
+    <encodingDesc>
+      <p>The following text is encoded in accordance with EpiDoc standards and with the
+        CTS/CITE Architecture. 
+</p>
+      <refsDecl n="CTS">
+        <cRefPattern n="line" matchPattern="(.+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div[@type='edition']/tei:l[@n='$1'])"/>
+      </refsDecl>
+    </encodingDesc>
+    
+    <profileDesc>
+      <langUsage>
+        <language ident="lat">Latin</language>
+      </langUsage>
+    </profileDesc>
+    
+</teiHeader>
+<text>
+<body>
+<div type="edition" xml:lang="lat" n="urn:cts:latinLit:stoa0224b.stoa003.opp-lat1">
+<ab>
+            <title type="sub">UERSUS PAULINI DE ORANTIBUS. </title>
+          </ab>
+          <l n="1"><milestone unit="para"/>Quisque solo adclinis mersisti in puluere uultum  </l>
+            <l n="2">humidaque inlisae pressisti lumina terrae,  </l>
+            <l n="3">attollens oculos trepido miracula uisu  </l>
+            <l n="4">concipe et eximio causam committe patrono.  </l>
+            <l n="5">5 nulla potest tantas conplecti pagina uires,  </l>
+            <l n="6">quamquam ipsa his titulis caementa et saxa notentur.  </l>
+            <l n="7">terrenum non claudit opus, quod regia caeli  </l>
+            <l n="8">suscipit et rutilis inscribunt sidera gemmis.  </l>
+            <l n="9">Martini si quaeris opem, trans astra resurgens  </l>
+            <l n="10">10 tange polum, angelicum scrutatus in aethere coetum.  </l>
+            <l n="11">illic coniunctum domino perquire patronum,  </l>
+            <l n="12">sectantem aeterni semper uestigia regis.  </l>
+            <l n="13">si dubitas, ingesta oculis miracula cerne,  </l>
+            <l n="14">quis famuli meritum uerus saluator honorat.  </l>
+            <l n="15">15 accedis reliquis inter tot milia testis,  </l>
+            <l n="16">\'dum narranda uides sollers et uisa retexis.  </l>
+            <l n="17">in sanctis quidquid signauit pagina libris,  </l>
+            <l n="18">instaurat renouante deo. quo munere gaudent  </l>
+            <l n="19">caecus, clodus, inops, furiosus, anxius, aeger,  </l>
+            <l n="20">20 debilis, oppressus, captiuus, maestus, egenus.  </l>
+            <l n="21">omnis apostolicis gaudet curatio signis.  </l>
+            <l n="22">qui flens adfuerit, laetus redit. omnia cedunt  </l>
+            <l n="23">nubila. quod meritum turbat, medicina serenat.  </l>
+            <l n="24">expete praesidium: non frustra haec limina pulsas.  </l>
+            <l n="25">in cunctum perget pietas tam prodiga mundum.  </l>
+
+
+
+<note type="footnote"> <hi rend="italic">2 allisae Barth praessisti V 4 comite R 5 complecti S</hi> uires] <lb/>
+            <hi rend="italic">laudes luretus 6 cementa S et in ras. S 7 regi V1 8 ritulis S<lb/>
+             rutulis V 10 angelicam V 11 illunc V 12 semper p V 14 qui V</hi> <lb/>
+            15 accedes <hi rend="italic">Iuretus</hi> reliquos S testes <hi rend="italic">S</hi> 1G solers P uisa <lb/>
+            <hi rend="italic">euanuit in V</hi> 17 quicquid <hi rend="italic">HSV</hi> 18 gaudet <hi rend="italic">R</hi> 19 cladus P clandus <lb/>
+            <hi rend="italic">SV</hi> ager P 20 oppraessus <hi rend="italic">V</hi> captinis <hi rend="italic">P</hi> aegenus <hi rend="italic">R</hi> <lb/>
+            egenis P 21 apostolicus S1 23 turba P <hi rend="italic">24 expte R</hi> puluis P <lb/>
+            <hi rend="italic">cocl. Iureti</hi> pulsans <hi rend="italic">V et Iuretus</hi> 25 pergit <hi rend="italic">S</hi> perge <hi rend="italic">cod. lureti</hi> <lb/>
+            Finit opus paulini feliciter (filiciter <hi rend="italic">V) PV</hi> Finit <hi rend="italic">S nihil subscriptum <lb/>
+            in II</hi>. </note> 
+<pb n="166"/>
+            
+
+        
+</div>
+</body>
+</text>
+</TEI>

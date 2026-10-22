@@ -1,0 +1,1318 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader xml:lang="eng">
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="lat">De duplici Martyrio</title>
+        <author>Pseudo-Cyprian</author>
+        <editor>Wilhelm von Hartel</editor>
+        <sponsor>University of Leipzig</sponsor>
+        <funder>European Social Fund Saxony</funder>
+        <principal>Gregory Crane</principal>
+        <respStmt>
+          <persName xml:id="Jouve">Jouve</persName>
+          <resp>OCR-ed, corrected and encoded the text</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Greta Franzini</persName>
+          <resp>Project Manager (University of Leipzig)</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Simona Stoyanova</persName>
+          <resp>Project Assistant (University of Leipzig)</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Bruce Robertson</persName>
+          <resp>Technical Advisor (Mount Allison University)</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Uvius Fonticola</persName>
+          <resp>Technical Advisor (Ludwig Maximilians University Munich)</resp>
+        </respStmt>
+      </titleStmt>
+      
+      <publicationStmt>
+        <authority>University of Leipzig</authority>
+        <idno type="filename">stoa0104p.stoa006.opp-lat1.xml</idno>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Available under a Creative Commons Attribution-ShareAlike 4.0 International License</licence>
+        </availability>
+        <date>2014</date>
+        <publisher>University of Leipzig</publisher>
+        <pubPlace>Germany</pubPlace>
+      </publicationStmt>
+      
+      <sourceDesc>
+        <listBibl>
+          <biblStruct>
+            <monogr>
+              <editor>
+                <persName>
+                  <name>Wilhelm von Hartel</name>
+                </persName>
+              </editor> 
+              <author>Pseudo-Cyprian</author>  
+              <title xml:lang="lat">S. Thasci Caecili Cypriani Opera omnia</title>
+              <imprint>
+                <publisher>Gerold</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date>1871</date>
+              </imprint>
+              <biblScope unit="volume" xml:lang="lat">Pars III</biblScope>
+            </monogr>
+            <series>
+              <title xml:lang="lat">Corpus Scriptorum Ecclesiasticorum Latinorum</title>
+              <biblScope unit="volume">3.3</biblScope>
+            </series>            
+            <ref target="http://archive.org/stream/corpusscriptoru0swissgoog#page/n7/mode/2up">Internet Archive</ref>
+            
+          </biblStruct>
+        </listBibl>
+      </sourceDesc>
+      
+    </fileDesc>
+    <encodingDesc>
+      <p>The following text is encoded in accordance with EpiDoc standards and with the
+        CTS/CITE Architecture. 
+</p>
+      <refsDecl n="CTS">
+        <cRefPattern n="section" matchPattern="(.+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div[@type='edition']/tei:div[@n='$1'])"/>
+      </refsDecl>
+    </encodingDesc>
+    
+    <profileDesc>
+      <langUsage>
+        <language ident="lat">Latin</language>
+      </langUsage>
+    </profileDesc>
+    
+</teiHeader>
+<text>
+<body>
+<div type="edition" xml:lang="lat" n="urn:cts:latinLit:stoa0104p.stoa006.opp-lat1">
+<head>
+            <title type="main">XIIII. DE DVPLICI MARTVRIO AD FORTVNATVM. </title>
+          </head>
+          
+
+<div n="1" subtype="section" type="textpart"><p> Multifariam multisque modis ago gratias, Fortunate mihi in Domino <lb/>
+            carissime, diuinae benignitati, quod et tuam pietatem excitauit
+
+<note type="footnote"> 7 Sir. 42, 12. 14 PhiL 4, 8. 9. </note>
+
+<note type="footnote"> 6 frequentantium <hi rend="italic">C</hi> 13 paulus apostolus v 14 inquit om. v. — <lb/>
+            Explicit (liber <hi rend="italic">add. m. 2)</hi> de singalaritate clericorum <hi rend="italic">C</hi>. — </note> <lb/>
+             
+<pb n="221"/>
+            ad exstimulandum officium meum, ut unico libello commilitonibus <lb/>
+            nostris materiam subministrarem, unde sibi gratia spiritus opitulante <lb/>
+            munimenta telaque fabricarentur aduersus persecutionum incursus, et <lb/>
+            mihi quod petebas conanti non dedignata est adesse, et quod utriusque <lb/>
+            nostrum operam non passa est esse sterilem, hoc est quod mei <lb n="5"/>
+            Fortunati pium desiderium bene fortunauit, et ministri sui officium <lb/>
+            uoluit esse gregis sui beneficium. scribis enim ex eo libro multum <lb/>
+            roboris et alacritatis accessisse strenuis, timidioribus autem et infirmis <lb/>
+            tantum animorum esse additum, ut ex his quoque per Dei gratiam <lb/>
+            certam uictoriam nobis promittere debeamus. eoque libentius obtemperaui <lb n="10"/>
+            posterioribus tuis litteris, quibus orat tua caritas, ut quoniam <lb/>
+            hoc auspiciis Domini nostri Iesu Christi bene successit, addam uolumen <lb/>
+            alterum de duplici martyrii genere: quorum unum exhibetur <lb/>
+            cum saeuit tortorum immanitas, alterum occultius quidem est, sed <lb/>
+            nihilominus fortem animum postulat multaque diuinitus armatura <lb n="15"/>
+            communitum. utinam et hoc munus Christi spiritus per me fratribus <lb/>
+            et commilitonibus nostris largiri dignetur et quod dederit bene prosperare. <lb/>
+            quemadmodum enim nihil sanctum nisi illo sanctificante, <lb/>
+            nihil potens nisi illo corroborante: ita nihil felix, nihil auspicatum <lb/>
+            nisi illo prosperante. sane et uestris precibus et Domini bonitate <lb n="20"/>
+            fretus aggrediar. 
+</p>
+          <p>Martyr, ut iis quoque notum est qui Graece nesciunt, testem sonat. 
+</p></div>
+
+<div n="2" subtype="section" type="textpart"><p> <lb/>
+            quamquam autem post exortam euangelicae ueritatis lucem ecclesiastica <lb/>
+            consuetudo cognominis huius honorem proprie tribueret iis qui <lb/>
+            in tormentis usque ad mortem perdurarunt in professione nominis <lb n="25"/>
+            Iesu Christi et euangelicum instrumentum sanguine suo uelut obsignarunt <lb/>
+            apud incredulos: omnis tamen piorum uita testimonium reddit <lb/>
+            Deo, non quod ille cuiusquam egeat testimonio, qui ex se fons est <lb/>
+            aeternae gloriae, ut nec ullis hominum honoribus fieri possit honoratior <lb/>
+            nec ullis mortalium ignominiis obscurior: sed tamen ita uisum <lb n="30"/>
+            est aeterno illius diuinoque consilio, ut suam bonitatem sapientiam <lb/>
+            ac potentiam apud homines per homines uelit illustrari, sicut mundum <lb/>
+            gubernari uoluit per angelos, cum angelorum ministerio non egeat, <lb/>
+            multaque hominibus per homines largiatur, quae per se dare poterat, <lb/>
+            qui quidquid uult nutu potest et cui uoluisse fecisse est. et quamquam <lb n="35"/>
+            ut dixi ad illam ineffabilem maiestatem nulla pertingit ignominia, <lb/>
+            tamen in scripturis ita loquitur, quasi per nos honoretur uel <lb/>
+             
+<pb n="222"/>
+            ignominia afficiatur. nam in Deuteronomio cum Moyse expostulat, <lb/>
+            quod apud populum ob laticis penuriam murmurantem in Cades deserti <lb/>
+            Sin ad aquas contradictionis non sanctificarit ipsum inter filios <lb/>
+            Israel, et ob hanc offensam non est illi nec Aaroni datum ingredi <lb/>
+            terram promissam ac tot annis exspectatam. sed tantum e montis <lb n="5"/>
+            uertice procul aspicere licuit. 
+</p>
+          </div>
+
+<div n="3" subtype="section" type="textpart"><p> Porro quod dictum est sanctificare pro glorificare, qui litteras Hebraeorum <lb/>
+            callent, affirmant esse sermonis illius proprietatem. quod <lb/>
+            ipsum tamen ex aliis scripturarum locis liquere potest, si minus <lb/>
+            illorum testimonio fidimus, quandoquidem et in oratione dominica <lb n="10"/>
+            sanctificetur nomen tuum dictum est pro glorificetur siue <lb/>
+            clarificetur nomen tuum. sic et Corinthios exhortatur, ut glorificent <lb/>
+            ac baiulent Deum in corpore suo. sicut enim nomen Dei glorificatur <lb/>
+            uita piorum hominum, in quibus ipse per spiritum suum operatur <lb/>
+            quidquid faciunt boni: ita e diuerso polluitur et infamatur malefactis <lb n="15"/>
+            eorum qui se Dei cultores profitentur. quemadmodum et militis uirtus <lb/>
+            aut serui probitas redundat in gloriam ducis aut heri, ita militis <lb/>
+            ignauia aut serui nequitia dedecori est duci aut hero, propterea quod <lb/>
+            horum mores magna ex parte pendent ab illorum moribus in quorum <lb/>
+            potestate sunt. qui etiamsi prorsus absunt ab omni culpa, tamen <lb n="20"/>
+            popularis existimatio solet dominorum mores ex seruorum moribus <lb/>
+            aestimare. unde etiam hic uidemus diuinam scripturam frequenter <lb/>
+            iuxta mortalium affectus loquentem uelut in Leuitico de eo qui de <lb/>
+            semine suo dedisset idolo Moloch dicit: quia polluit nomen <lb/>
+            sanctum meum. at quod ab hominibus sanctificatum est, pollui <lb n="25"/>
+            potest: Dei uero nomen in se semper est gloriosum, apud homines <lb/>
+            tantum contaminatur, quemadmodum mendax infamia non polluit <lb/>
+            uirum integrum. sic et apud Ezechielem clamat nomen suum fuisse <lb/>
+            pollutum inter gentes impiis moribus Israelitarum. quin et beatissimus <lb/>
+            Paulus scribens Romanis ex auctoritate prophetae dicit, appellans <lb n="30"/>
+            Iudaeos legem profitentes, sed ea quae lex uetat facientes: nomen <lb/>
+            Dei blasphematur inter gentes. et in oratione dominica, <lb/>
+            sicut attigi modum, ex auctoritate redemtoris oramus ut sanctificetur <lb/>
+            nomen Dei patris, hoc est ut inclarescat et illustretur apud <lb/>
+            homines utique per homines uel potius in hominibus. illustratur
+
+<note type="footnote"> 11 Matth. 6, 9. 24 Leu. 20, 3. 31 Rom. 2, 24. </note> <lb n="35"/>
+             
+<pb n="223"/>
+            autem, si spiritus illius regnet in nobis et si illius uoluntati obtemperetur <lb/>
+            in terris, quemadmodum in caelis nulla est rebellio. quoniam <lb/>
+            autem homines ex sese nihil habent uirtutis, quidquid per nos recte <lb/>
+            geritur cedit in gloriam Dei et ideo thesaurum diuinae potentiae <lb/>
+            promit interdum ex uasis fictilibus, ut sublimitas sit uirtutis Dei et <lb n="5"/>
+            non ex nobis. 
+</p>
+          </div>
+
+<div n="4" subtype="section" type="textpart"><p>Ergo quamquam omnia piorum uita martyrio suo glorificat Deum  <lb/>
+            et Christum filium eius, nullum tamen est illustrius testimonium apud <lb/>
+            homines quam sanguinis, hoc est uitae propter Deum contemtae et <lb/>
+            mortis fortiter toleratae. reddiderunt et miracula testimonium diuinae <lb n="10"/>
+            potentiae, praesertim apud incredulos, nam his proprie data sunt <lb/>
+            signa, quemadmodum scribit beatus apostolus: sed semper efficacius <lb/>
+            fuit sanguinis profusi testimonium. quot morbos insanabiles uerbo <lb/>
+            sanarat Dominus, quot caecos illustrarat, quot mancos paralyticos <lb/>
+            ac debiles restituerat, quot exanimes ad uitam reuocarat? et tamen <lb n="15"/>
+            pauci credebant in eum, et audiebat: in Beelzebub eiecit <lb/>
+            daemonia. ceterum ubi uentum est ad sanguinem, ibi deiectum est <lb/>
+            satanae regnum, ibi subactus est mundus. commemorat et Ioannes <lb/>
+            euangelista triplex in terra testimonium, spiritus aqua et sanguis, <lb/>
+            quod efficacissimum est postremo recensens loco. spiritum in columbae <lb n="20"/>
+            specie descendentem super Iesum uidere meruit Ioannes baptista, <lb/>
+            an alii uiderint incertum. certe hoc testimonium Ioanni datum est, <lb/>
+            quo desineret dubitare de Domino Iesu, an ille esset qui baptizaret <lb/>
+            spiritu et igni. aquae testimonium uidit Ioannes euangelista, nec <lb/>
+            satis constat solusne uiderit an cum multis. erat quidem hoc ingens <lb n="25"/>
+            mysterium sacri lauacri quo delentur peccata: sed uidit aquam simul <lb/>
+            effluere cum sanguine, qui nisi adfuisset inefficax erat aqua. quid <lb/>
+            enim prodest aboleri peccata, nisi succedat uita iustitiae quam confert <lb/>
+            sanguis? quamquam hi tres unum sunt: unus enim Deus est, <lb/>
+            qui per spiritum aquam et sanguinem declarat hominum generi uirtutem <lb n="30"/>
+            ac bonitatem suam: aut ideo dicuntur unum esse, quoniam <lb/>
+            undique sibi constat testimonium nec ulla ex parte dissonat, quemadmodum <lb/>
+            quos artissima iungit amicitia propter summum animorum <lb/>
+            consensum unus animus esse dicuntur. 
+</p>
+          </div>
+
+<div n="5" subtype="section" type="textpart"><p>Ac iuxta sensum crassiorem haec tria praecipua sunt m homine  <lb n="35"/>
+            uitae argumenta atque etiam instrumenta. quamdiu enim pulmonis
+
+<note type="footnote"> 16 Luc. 11, 15. </note> <lb/>
+             
+<pb n="224"/>
+            officio attrahitur uicissim ac redditur halitus, certum uitae indicium <lb/>
+            est: unde loquendi consuetudine spirare dicuntur qui uiuunt et exspirasse <lb/>
+            qui uitam finierunt. quin et anima Latinis flatus dicitur ad <lb/>
+            Graecae uocis imitationem, qui uentum <foreign xml:lang="grc">ἄνεμον</foreign> uocant super haec <lb/>
+            sunt in ipso homine subtilissimi spiritus a corde ubi fontom habent <lb n="5"/>
+            sparsi per uniuersum corpus, sed praecipue per arterias commeantes, <lb/>
+            licet et aliis partibus omnibus mixti: hi si subito euolent, mortem <lb/>
+            praesentem afferunt : sin includantur, lenta aegrotatione consumunt <lb/>
+            hominem. adest et humor quidam naturalis, quem ut arbitror medici <lb/>
+            phlegma uocant, sparsus et ipse per uniuersum corpus. huius usum<lb n="10"/>
+            numquam sentimus euidentius quam in sensu gustus: nisi enim hic <lb/>
+            admixtus sit inter linguam et palatum, nullum erit palati iudicium. <lb/>
+            et tamen haec sic mixta sunt in homine, ut non sit sanguis absque <lb/>
+            spiritu et phlegmate, et pariter ad tuendam uitam conferunt omnia. <lb/>
+            uidemus quoduis animal mori simulatque sanguis effluxerit, et consumto<lb n="15"/>
+            humore quem medici radicalem uocant non aliter moritur homo, <lb/>
+            quam exstinguitur lucerna consumto oleo. sed nimium diu moramur <lb/>
+            in contemplatione naturae, quod tamen non inutiliter factum opinor <lb/>
+            a nobis, ut dilucidius fiat caritati uestrae mysterium, in cuius contemplatione <lb/>
+            ideo uersamur lubentius quia salubrius. nam iuxta naturae<lb n="20"/>
+            considerationem tunc ista magnam uim habent, cum in nino <lb/>
+            corpore sua munia peragunt: ac iuxta mysticam philosophiam tunc <lb/>
+            demum plurimum ualent cum corpus relinquunt. 
+</p>
+          </div>
+
+<div n="6" subtype="section" type="textpart"><p> Nemo miratus est Dominum humano more spirantem ac respirantem, <lb/>
+            sed cum in cruce clamore ualido emisisset spiritum, simul <lb n="25"/>
+            intellectum est, illum et uerum fuisse hominem et uerum Deum: <lb/>
+            hominem quod iuxta naturae ordinem et ubi uitalem flatum emisisset, <lb/>
+            desiit uiuere: Deum, quod simul cum ingenti clamore mortuus est, <lb/>
+            declarans se nolentem ac spontaneum deponere uitam, quod humanarum <lb/>
+            uirium nemo nescit non esse. sensit efficax testimonium spiritus <lb n="30"/>
+            uicinus centurio: sic enim narrat beatus Marcus: uidens autem <lb/>
+            centurio qui ex aduerso stabat, quia sic exspirasset, <lb/>
+            ait: uere hic homo filius Dei erat. quid morte abiectius <lb/>
+            iuxta carnem? sed nihil morte potentius iuxta spiritum. <lb/>
+            erat et illud praeter naturae cursum quod e latere exanimati
+
+<note type="footnote"> 31 Marc. 15, 89. </note> <lb n="35"/>
+             
+<pb n="225"/>
+            corporis sanguis et aqua profluit, ut absolueretur triplex testimonium. <lb/>
+            totum effudit spiritum ut nos respiraremus: quidquid <lb/>
+            erat humoris aquei reliquum, expressit ut nos ablueremur: <lb/>
+            quidquid resederat in corde sanguinis, emisit ut nos confirmaremur. <lb/>
+            atque haud scio an perperam faciam haec tria inter <lb n="5"/>
+            se conferens, cum sint unum non natura sed in mysterio. si qua <lb/>
+            tamen est discretio, sanguis in testimoniorum ratione potissimum celebratur, <lb/>
+            quod in hoc scriptura testatur esse uitam animantis, et ob <lb/>
+            id a cibis submouebatur edicto legis: praeterea magis est expositus <lb/>
+            hominum oculis sanguis quam spiritus ant aqua. <lb n="10"/>
+            
+</p>
+          </div>
+
+<div n="7" subtype="section" type="textpart"><p>Vita Domini, qui summus fuit martyr quique et hodie pugnat et  <lb/>
+            uincit in martyribus, plurimis fuit offendiculo. non iam loquor de <lb/>
+            Pharisaeis et scribis, ipsis etiam cognatis ac fratribus fuit detestabilis, <lb/>
+            cum dicerent illum in furorem uersum: sed mors illius non <lb/>
+            solum piis, sed impiis etiam fuit admirabilis, nec alibi magis uerum <lb n="15"/>
+            fuit quod Dei uirtus in infirmitate perficitur. ibi fracta <lb/>
+            est satanae tyrannis, ibi deuicti sunt inferi, ibi triumphatum est de <lb/>
+            diabolo, ibi deiectus orcus, caelum apertum. nimirum hoc erat quod <lb/>
+            instante mortis tempore deprecabatur Dominus: pater, clarifica <lb/>
+            filium tuum, ut filius tuus clarificet te, quid homine <lb n="20"/>
+            mortuo contemtius ? quis enim uel Caesarem mortuum metuat? sed <lb/>
+            Christi morte quid efficacius ? uelum templi scissum est a summo <lb/>
+            usque ad imum, terra concussa est, saxa discissa sunt, aperta sunt <lb/>
+            monumenta, reuixerunt sepultorum corpora, sol medio die obtexit <lb/>
+            faciem suam. numquam per omnem uitam magis declarauit potentiam <lb n="25"/>
+            suam: mox refractis omnibus mortis repagulis uiuum se discipulis <lb/>
+            exhibuit. nimirum hoc est efficax illud sacrosancti sanguinis testimonium, <lb/>
+            qui solus potuit dirimere maceriam, quae Deum ab hominum <lb/>
+            genere separabat: solus potuit unica litura delere totum illud chirographum <lb/>
+            quod erat contra nos, et satanae in nos ius uindicabat. <lb n="30"/>
+            neque enim sanguis hircorum aut uitulorum potuit abolere peccatum: <lb/>
+            umbrae erant illa et typi futurorum. nec ullius hominis sanguis <lb/>
+            poterat tollere peccatum mundi praeter unici illius agni sanguinem <lb/>
+            cui baptista tribuit testimonium dicens: ecce agnus Dei, ecce <lb/>
+            qui tollit peccata mundi.
+
+<note type="footnote"> 16 II Cor. 12, 9. 19 Io. 17, 1. 34 Io. 1, 29. 36. </note>
+
+<note type="footnote"> iliA </note>
+
+<note type="footnote"> .15 </note><lb n="35"/>
+             
+<pb n="226"/>
+            
+</p>
+          </div>
+
+<div n="8" subtype="section" type="textpart"><p> Plus est tollere peccatum quam peccata et peccatum non huius aut <lb/>
+            illius sed mundi. corpus enim peccati mundum uniuersum occuparat: <lb/>
+            hoc per Christum esse sublatum sanguis ipsius pro nobis effusus <lb/>
+            reddit euidens testimonium, melius pro nobis loquens, ut inquit <lb/>
+            apostolus, quam sanguis Abel. siquidem ille clamans de terra loquebatur <lb n="5"/>
+            uindictam: at Christi sanguis de cruce clamans pacem loquitur <lb/>
+            et reconciliationem. quin idem sanguis quoniam a nobis bibitur, si <lb/>
+            modo digne bibitur, clamat in cordibus nostris uerba pacifica et <lb/>
+            solatii plena. et illic triplex est testimonium, licet spiritali quodam <lb/>
+            modo. clamat spiritus qui nobis arrhabonis loco datus est: Abba<lb n="10"/>
+            pater, testificans quod sumus filii Dei. clamat aqua <lb/>
+            per quam renati sumus, quod condonata sunt nobis omnia peccata: <lb/>
+            et si quis adhuc dubitat, accedit sanguinis testimonium clamantis: <lb/>
+            quid adhuc haesitas, quid adhuc pauitas tyrannum satanan? ecce <lb/>
+            pretium quo te redimit Dei filius. nisi te saluum uoluisset Deus, non <lb n="15"/>
+            tradidisset unigenitum suum in mortem. 
+</p>
+          </div>
+
+<div n="9" subtype="section" type="textpart"><p> Nemo maiorem caritatem habet, quam ut animam <lb/>
+            suam ponat pro amicis suis. si non est maius eximiae beneuolentiae <lb/>
+            testimonium quam si quis uitam impertiat amico, grauius <lb/>
+            est dominici sanguinis testimonium qui pro inimicis effusus est. <lb n="20"/>
+            effusus pro inimicis fecit amicos ac filios Dei: atque ut consideremus <lb/>
+            hanc fore perpetuam amicitiam, reliquit nobis edendam carnem suam, <lb/>
+            reliquit bibendum sanguinem, ut per eadem aleremur, per quae sumus <lb/>
+            redemti. sanguinis aspersione confirmatum est uetus testamentum, <lb/>
+            quemadmodum ad Hebraeos scribens praeclare docet beatissimus <lb n="25"/>
+            Paulus: Christi sanguine consignatum et corroboratum est nonum <lb/>
+            testamentum, hoc est testamentum et pactum gratiae et remissionis <lb/>
+            peccatorum per sanguinem agni immaculati, qui in se recipere dignatus <lb/>
+            est totius mundi peccatum, quod omnes ex Adam contrahunt qui <lb/>
+            prodeunt in hanc uitam et cuius contagio peccant quicumque peccant. <lb n="30"/>
+            tanta autem est Christi sublimitas, ut fortasse non oporteat quemquam <lb/>
+            ceterorum hominum cum illo conferre, nisi ipse nobis tantam <lb/>
+            fiduciam praebuisset, qui non dedignatus sit discipulos suos uocare <lb/>
+            amicos, seruulos suos uocare fratres et coheredes. quemadmodum igitur <lb/>
+            ille suo mirabili testimonio clarificauit patrem in hoc mundo
+
+<note type="footnote"> 10 Rom. 8, 16. 17 Io. 15, 13. </note> <lb n="35"/>
+             
+<pb n="227"/>
+            atque etiam in caelis: ita testimonium illius quodammodo consummatur <lb/>
+            testimonio sanctorum, quasi sit una. passio Domini et seruorum. id. ne <lb/>
+            quia existimet parum religiose dictum, beatus Paulus nobis patrocinatur <lb/>
+            ita scribens ad Colossenses: qui nunc gaudeo in passionibus <lb/>
+            pro nobis, et adimpleo ea quae desunt passionum <lb n="5"/>
+            Christi in carne mea pro corpore eius, quod est ecclesia. <lb/>
+            quis enim nescit, fratres, quam uberem prouentum effudit ecclesiae <lb/>
+            seges, apostolorum ac ceterorum martyrum sanguine irrigata? quo <lb/>
+            plus sanguinis effusum est, hoc magis effloruit multitudo fidelium, hoc <lb/>
+            latius sparsit suas propagines illa beata uitis a Christo stirpe surgens <lb n="10"/>
+            et occupans orbem uniuersum quacumque patet ab oriente ad occidentem, <lb/>
+            ab aquilone usque ad austrum. 
+</p>
+          </div>
+
+<div n="10" subtype="section" type="textpart"><p>Ecce, fratres dilectissimi, a Domini redemtoris temporibus anni  <lb/>
+            fluxerunt plus minus ducenti quadraginta, iamque huius uitis palmites <lb/>
+            paene latius se sparserunt quam Romanum imperium, efferas etiam <lb n="15"/>
+            nationes musto spiritus inebriantes et quos nulla ferri uis domare <lb/>
+            potuit, emollit sanguis illius agni candidi. qui naturae causas scrutantur, <lb/>
+            narrant adamantem nullae chalybis duritiei cedentem hircino <lb/>
+            sanguine maceratum ictu malleorum dissilire: nullus autem adamas <lb/>
+            corde saxeo peccatorum durior. hoc igitur cor ferreum, cor saxeum, <lb n="20"/>
+            cor plus quam adamantinum emollit sanguis Christi et huius martyrum, <lb/>
+            qui supplerunt quod illius passionibus deerat. hoc argumento summus <lb/>
+            ille pastor et ut Petrus ait princeps pastorum testificatus est se esse <lb/>
+            pastorem bonum, quia animam suam posuit pro ouibus, nobis exemplum <lb/>
+            praebens, ut qui pro nostra qualicumque portione uices illius <lb n="25"/>
+            gerimus, parati simus et ipsi pro grege dominico sanguinem fundere, <lb/>
+            nisi malumus uideri mercenarii quam pastores. domini uerbis congruunt <lb/>
+            uerba discipuli. cum enim dixisset se gaudere in passionibus, <lb/>
+            quibus consummaret passiones Christi, perpetiens et ipse pro corpore <lb/>
+            Christi, quod est ecclesia, qualia passus erat Dominus, causam adiecit <lb n="30"/>
+            cur ea libenter pateretur. cuius, inquit, factus ego sum minister <lb/>
+            secundum dispensationem Dei, quae data est <lb/>
+            mihi in nobis, ut impleam uerbum Dei. et alio quodam <lb/>
+            in loco scribit se repleuisse euangelium. sicut ergo mortibus martyrum <lb/>
+            consummantur passiones Christi, ita sanguine pastorum confirmantur
+
+<note type="footnote"> 4 CoL 1, 24. 31 Col. 1, 25. </note>
+
+<note type="footnote"> 15 * </note> <lb n="35"/>
+             
+<pb n="228"/>
+            promissa Christi. nullum enim instrumentum indubitabilius, quam <lb/>
+            quod tot martyrum sanguine signatum est. hoc nimirum est implere <lb/>
+            uerbum Dei, hoc est replere euangelium. 
+</p>
+          </div>
+
+<div n="11" subtype="section" type="textpart"><p> Sed interim grauissimus dolor oboritnr animo meo, dilecti, dom <lb/>
+            mecum reputo, cum adhuc recens ille Christi sanguis feruere debeat <lb n="5"/>
+            in cordibus fidelium, tam multos esse in quibus refrixit caritas, atque <lb/>
+            hoc grauius discrucior, quod tales non paucos pastores habeat ecclesia, <lb/>
+            qui non solum non opponunt corpora sua aduersus luporum incursus, <lb/>
+            uerum etiam ipsi lupos agunt, dum mactant ac perdunt animas simplicium, <lb/>
+            ipsi uentri suo, quaestui et ambitioni seruientes, adeoque<lb n="10"/>
+            non implent uerbum Dei, ut illud cauponentur potius et impiis dogmatibus <lb/>
+            adulterent: nec cogitant quod ille pastorum princeps seuerissimo <lb/>
+            iudicio reposcet singulas oues, pro quibus redimendis sanguinem suum <lb/>
+            fuderat, de manibus eorum. sed illos suum manet supplicium: nunc <lb/>
+            melius est ut omissis querelis nos inuicem ad officium quod Christo<lb n="15"/>
+            debemus exhortemur. 
+</p>
+          </div>
+
+<div n="12" subtype="section" type="textpart"><p> Triplex a Christo testimonium accepimus, triplex illi testimonium <lb/>
+            reddamus oportet. rudimenta fideliter tradamus baptizandis, perfectiora <lb/>
+            baptizatis. confirmemus illos fructibus spiritus ad caelestem <lb/>
+            uitam prouocantes, et si res postulet, libenter etiam uitam commisso <lb n="20"/>
+            nobis gregi impendamus nostraque morte uicissim Deum clarificemus. <lb/>
+            et ne cui uideatur mirum morte hominum glorificari Deum, audi beatum <lb/>
+            Ioannem in euangelio de Petro, cui Dominus praedixerat fore ut <lb/>
+            ubi senuisset, ab alio cingeretur et duceretur quo nollet, ita loquentem: <lb/>
+            significans qua morte esset glorificaturus Deum. <lb n="25"/>
+            quotquot igitur ab orbe condito propter Deum, propter iustitiam ac <lb/>
+            pietatem mortui sunt, morte sua glorificauerunt Deum. nam eleemosynas <lb/>
+            ieiunia precationes aliaque pietatis exercitamenta simulant etiam <lb/>
+            hypocritae: mortem nemo suscepit alacriter, nisi qui certo persuasum <lb/>
+            haberet, nihil aduersi posse accidere iis qui persistunt in caritate Dei. <lb n="30"/>
+            
+</p>
+          </div>
+
+<div n="13" subtype="section" type="textpart"><p> Neque tamen statim martyr est qui occiditur, occiduntur et sicarii et <lb/>
+            piratae: non supplicium facit martyrem sed causa. quod si qui leguntur <lb/>
+            sibi fortiter consciuisse necem, aut infirmitas erat morte quaerens dolorum <lb/>
+            finem aut ambitio aut dementia. nec hoc est testimonium praebere <lb/>
+            Deo id facere quod et Deo displicet et gentium etiam legibus
+
+<note type="footnote"> 25 Io. 21, 19. </note> <lb n="35"/>
+             
+<pb n="229"/>
+            prohibetur. plurimum interest inter barbaricam immanitatem et martyrum <lb/>
+            modestissimam constantiam in se imbecillem, in Christo fortem. sunt <lb/>
+            qui certis artibus corpus stupefaciunt, ne sentiant cruciatus: hoc <lb/>
+            modo se quidem malefici muniunt aduersus carnificum manus. sunt et <lb/>
+            affectus impotentes qui sensum adimunt animo, ita ut uel mortem impauidi <lb n="5"/>
+            perferant. sed placidum illud ac mansuetum, illud humiliter <lb/>
+            sublime et sublimiter humile non uidemus nisi in Christi martyribus. <lb/>
+            non obtuentur trucibus oculis carnificem, non minitantur tyranno: <lb/>
+            magis dolent de illorum caecitate quam de suis afflictionibus. scilicet <lb/>
+            clamat et in illis Christus: pater ignosce illis, quia nesciunt <lb n="10"/>
+            quid faciunt. non aliud spectant quam in caelum, ubi <lb/>
+            spem omnem habent repositam. sic ipse Dominus uelut agnus sine <lb/>
+            uoce ad mactationem ductus est: et si quam edidit uocem, ea magis <lb/>
+            declarauit animum mitem ac placidum quam ullum potuisset silentium. <lb/>
+            quam blanda oratione compellat ludam proditorem, quam placide <lb n="15"/>
+            respondit caesus alapa, quam nihil ferocius loquitur Annae et <lb/>
+            Caiphae, quam tranquille respondit Pilato. denique cum Pharisaei <lb/>
+            uelut uictores mouerent capita sua amarissimis conuiciis in illum <lb/>
+            debacchantes, ille mitissimus clamat: pater ignosce illis, quia <lb/>
+            nesciunt quid faciunt. <lb n="20"/>
+            
+</p>
+          </div>
+
+<div n="14" subtype="section" type="textpart"><p>Non igitur mori per se testimonium est, sed sic mori est testimonium  <lb/>
+            praebere Deo. Stephanus iuuenis inter homicidas agnus inter <lb/>
+            lupos stabat placido angelicoque uultu et ad Domini exemplum orat <lb/>
+            pro lapidantibus nec alibi habet oculos quam in caelum. illic uidere <lb/>
+            meruit, cuius praesidio superior erat persequentibus. qui uero timet <lb n="25"/>
+            Deum, non metuit hominum saeuitias. qui ex animo diligit uitam caeIestem, <lb/>
+            facile uilem habet animam atque illi cum beato Paulo ui uere <lb/>
+            Christus est, mori lucrum. an non ingens lucrum est hanc et <lb/>
+            breuem et innumeris malis contaminatam uitam cum sempiterna felicitate <lb/>
+            commutare? hic Dominus quemadmodum et in ceteris omnibus <lb n="30"/>
+            sese formam nobis exhibuit. quum enim instaret extremus actus martyrii <lb/>
+            quem aiunt in fabulis oportere esse optimum, secessit, abiecit <lb/>
+            sese in terram, prolixe atque etiam frequenter ac sanguineo sudore <lb/>
+            madescens nostrae naturae in se expressit imbecillitatem, ante testatus <lb/>
+            animi taedium ac tristitiam usque ad mortem, ne nos in
+
+<note type="footnote"> 10 Luc. 23, 34. 27 PhiL 1, 21. </note> <lb n="35"/>
+             
+<pb n="230"/>
+            desperationem caderemus, si cum omnia mortem praesentem intentant, <lb/>
+            horrorem naturae senserimus. nisi enim adesset sensus dolorum, <lb/>
+            nihil haberet admirabile martyrium, sed superare dolorem corona <lb/>
+            dignum est. horrere mortem naturae est, uincere naturam animi <lb/>
+            fortitudine gratiae est. omnia potest Paulus, sed in eo qui ipsum <lb n="5"/>
+            corroborat. sed quibus praesidiis uincitur naturae infirmitas? si nos <lb/>
+            totos humi prosternamus, hoc est si nihil omnino tribuamus uiribus <lb/>
+            nostris, si uigilemus et oremus instanter, si nostram uoluntatem diuinae <lb/>
+            uoluntati submittamus dicamusque illa ex animo ex toto corde: <lb/>
+            transeat hic calix si fieri potest, sed fiat non sicut <lb n="10"/>
+            ego uolo, sed sicut tu uis. 
+</p>
+          </div>
+
+<div n="15" subtype="section" type="textpart"><p> Noui ego ac fleui quosdam magna animi fortitudine praeditos, qui <lb/>
+            iam coronae proximi defecerunt et quem diu professi fuerant abnegarunt. <lb/>
+            quid fuit in causa ? dimouerant oculos suos ab eo qui solus robur <lb/>
+            dat infirmis: intermiserant orationem ac coeperant ad humana <lb n="15"/>
+            praesidia respicere. contemplabantur suae naturae uiriculas, considerabant <lb/>
+            aculeos ungulas candentes laminas ferrum et ignem reliquumque <lb/>
+            carificinae apparatum etiam aspectu horrendum, et cruciatuum <lb/>
+            atrocitatem cum suis uiribus conferebant, et ideo uictoriam amiserunt <lb/>
+            e manibus. ubi quis ita cogitat hoc possum, illud perpeti non<lb n="20"/>
+            possum&gt;, numquam feliciter peraget martyrium. sed qui se totum tradit <lb/>
+            diuinae uoluntati non alio spectans quam ad illius opem, is demum <lb/>
+            firmus est et inuictus. hoc autem fieri non potest, nisi adsit uera ac <lb/>
+            uiuida fides, nihil haesitans, nihil disquirens: ne cogitaueris quanta <lb/>
+            sit tyranni saeuitia, quanta hominis imbecillitas, sed quanta sit Domini<lb n="25"/>
+            uirtus, qui certat ac uicit in membris suis. 
+</p>
+          </div>
+
+<div n="16" subtype="section" type="textpart"><p> Ergo ut a digressione reflectamus ad id quod erat constitutum, <lb/>
+            quemadmodum Domini mors potentior erat quam uita, ita uoluit martyrum <lb/>
+            suorum mortem esse potentem. quid enim infirmius quam uinciri <lb/>
+            damnari caedi cruciari occidi et ad carnificis arbitrium praebere <lb n="30"/>
+            corpus? haec species interdum misericordiam mouet etiam saeuissimis <lb/>
+            tyrannis. uerum ubi iam ad monumenta martyrum pelluntur morbi, <lb/>
+            rugiunt daemones, terrentur monarchae, coruscant miracula, concidunt <lb/>
+            idola: tum apparet quam sit efficax ac potens martyrum sanguis. <lb/>
+            praesentia infirma, epistolae graues, audiuit beatissimus
+
+<note type="footnote"> 10 Luc. 22, 42. 35 II Cor. 10, 10. </note> <lb n="35"/>
+             
+<pb n="231"/>
+            gentium doctor. hoc et ad martyres recte accommodabitur: uita infirma <lb/>
+            et contemta, mors grauis ac potens. iam non est par omnium <lb/>
+            martyrum in tormentis alacritas, quemadmodum nec omnes eodem genere <lb/>
+            mortis defunguntur. tres illi beati pueri in mediis flammis inuenere <lb/>
+            refrigerium et septi innocuo elemento uelut in conclaui canebant <lb n="5"/>
+            hymnum Domino. Daniel item citra noxam leonum sodalitio est usus. <lb/>
+            beatus Andreas, ut habet humana quidem historia, sed satis probatae <lb/>
+            fidei, gaudens sibique gratulans ibat ad crucem. alii diutinis ac uariis <lb/>
+            cruciatibus subinde moriuntur nec tamen morte datur finire dolorem. <lb/>
+            est igitur et illud neri martyris hoc quoque totum arbitrio Dei committere. <lb n="10"/>
+            nouit ille quid expediat nobis et quid ad ipsius gloriam maxime <lb/>
+            conducibile sit. tantum illud assidue cogitandum est: siue uiuimu$siue <lb/>
+            morimur, Domini sumus. nec sibi quisquam <lb/>
+            displiceat, si corpore pariter et animo sentiat grauem ac diutinam <lb/>
+            molestiam, tantum fidat ei cui certat. is non patietur quemquam <lb n="15"/>
+            tentari supra id quod potest, sed faciet etiam <lb/>
+            cum tentatione prouentum. quosdam electos interdum patitur <lb/>
+            in tormentis deficere, ut agnoscant imbecillitatem suam, atque eosdem <lb/>
+            post fortissimos reddit in certamine. hac dispensatione Petrus ter abnegauit <lb/>
+            Dominum, ut edoctus quam nihil posset suis uiribus confirmaret <lb n="20"/>
+            fratres suos. quomodo autem confirmaret? ut sibi diffisi fiduciam <lb/>
+            omnem collocarent in Domino. 
+</p>
+          </div>
+
+<div n="17" subtype="section" type="textpart"><p>Sed iam tempus est, ut de altero martyrii genere disseramus caritati  <lb/>
+            tuae, de quo etiam accuratius est disputandum, quod occultum sit <lb/>
+            et omnium temporum commune: neque enim semper saeuiunt Nerones, <lb n="25"/>
+            Diocletiani, Decii ac Maximini: numquam tamen cessat diabolus exercere <lb/>
+            Christi militiam professos. et fortassis erunt posthac donante <lb/>
+            Christo tempora, quibus nullae tyrannorum persecutiones affligent <lb/>
+            ecclesiam: numquam tamen defutura sunt certamina, numquam martyria <lb/>
+            quibus homines pii glorificent Deum. ecclesia quidem adhuc in <lb n="30"/>
+            hoc exsilio militans peculiaribus gaudiis applaudit iis, qui in professione <lb/>
+            nominis Iesu animas suas fideliter deposuerunt, et ad horum <lb/>
+            memorias magna cum alacritate concurritur: sed caeleste theatrum, <lb/>
+            angelorum myriades et iustorum cum Christo regnantium innumerabilis <lb/>
+            populus applaudunt omnibus, qui sinceram fidem et caritatem
+
+<note type="footnote"> 12 Rom. 14, 8. 15 I Cor. 10, 13. </note> <lb n="35"/>
+             
+<pb n="232"/>
+            inuictam quam habent erga Dominum Iesum integritate et innocentia <lb/>
+            uitae testificantur. 
+</p>
+          </div>
+
+<div n="18" subtype="section" type="textpart"><p> Nec solum professione fidei, quae iuxta Paulum ore fit ad salutem, <lb/>
+            glorificatur Deus: uerumetiam confessione commissorum. haec ne temere <lb/>
+            ex nobis ipsis loqui uideamur, adducenda sunt scripturarum testimonia. <lb n="5"/>
+            ergo nisi piorum uita cederet in gloriam Dei, Christus non <lb/>
+            diceret in euangelio: ut uideant opera uestra bona et glorificent <lb/>
+            patrem uestrum qui in caelis est. nec Paulus <lb/>
+            apostolus scriberet Galatis: et in me glorificabant Deum. <lb/>
+            confirmatur hoc et per repugnantiam ex his quae diximus. etenim si<lb n="10"/>
+            nomen Dei polluitur ac dehonestatur impia uita sui populi, utique <lb/>
+            bona illius uita cohonestatur. damnatur apud apostolum et philosophorum <lb/>
+            impia sapientia, qui cum Deum cognouissent, non <lb/>
+            tamen eum ut Deum glorificauerunt. sapientiam profitebantur <lb/>
+            et summum exhibebant stultitiam. itaque cum Deum. <lb n="15"/>
+            esse profiterentur, tamen turpiter uiuentes et idolis sacrificantes falso <lb/>
+            testimonio quodammodo obscurabant Dei gloriam, quasi nec iustus <lb/>
+            esset nec uerax, aut quasi non unus esset sed multi, aut quasi saxis <lb/>
+            esset assimilis. id autem euidentius etiam testatur beatissimus Paulus <lb/>
+            scribens ad Corinthios, emti, inquit, estis pretio magno,<lb n="20"/>
+            glorificate et portate Deum in corpore uestro. ideo <lb/>
+            Deus redemit nos pretio sanguinis sui, ut semel a peccatis expurgati <lb/>
+            deinceps uitam ipso dignam ageremus. 
+</p>
+          </div>
+
+<div n="19" subtype="section" type="textpart"><p> Ac symbolum imperatoris gestamus impressum frontibus nostris. <lb/>
+            quid si gerens signum Christi praestet opera Belial, nonne dedecoratur<lb n="25"/>
+            ille cuius insignia gerimus ? contra sicut imperator sibi placet de <lb/>
+            milite praestrenuo, sic existimans illius uirtutem ipsi decori et ornamento <lb/>
+            esse: sic Deus gloriatur in his quos redemit, quos lauit, quos <lb/>
+            sanctificauit, quos spiritus donatiuo dignatus est, si uitae sanctimonia <lb/>
+            declararint Domini gratiam in ipsis non fuisse uacuam. si Paulus <lb n="30"/>
+            gloriatur in discipulorum pietate, gaudium et coronam suam illos appellans, <lb/>
+            qui nihil erat nisi disponsator alieni muneris: annon Dominus <lb/>
+            magis gloriatur super his pro quibus mortuus est? iam quod in <lb/>
+            libro Iob ad hunc modum satanae loquitur Dominus:
+
+<note type="footnote"> 7 Matth. 5, 16. <lb/>
+            20 I Cor. 6, 20. </note>
+
+<note type="footnote"> 9 Gal. 1, 24. <lb/>
+            34 Iob 1, 8. </note>
+
+<note type="footnote"> 13 Bom. 1, 21. </note> <lb/>
+             
+<pb n="233"/>
+            num animaduertisti seruum meum Iob, quomodo non sit ei similis <lb/>
+            super terram, homo simplex et rectus ac timens Deum <lb/>
+            et recedens a malitia? nonne sermonem profert de suo cultore <lb/>
+            gloriantis? beatus autem Paulus splendidiore etiam uerbo usus est <lb/>
+            scribens secundam ad Corinthios epistolam: Deo autem gratia, <lb n="5"/>
+            qui semper triumphat nos in Christo Iesu, et odorem <lb/>
+            notitiae suae manifestat per nos in omni loco, quia <lb/>
+            Christi bonus odor sumus Deo. melius est nomen bonum <lb/>
+            super unguenta pretiosa. scriptura gloriosam famam <lb/>
+            appellare solet odoramenta. non tamen Deus gloriatur hominum more, <lb n="10"/>
+            sibi placens ac gestiens,, sed nostram salutem suam ducit gloriam et <lb/>
+            ideo subiecit apostolus: in his qui salui fiunt et in his qui <lb/>
+            pereunt. quomodo glorificatur Deus in his qui salui fiunt? quoniam <lb/>
+            in illis illustratur illius misericordia. quomodo in his qui pereunt? <lb/>
+            quoniam in his declaratur illius iustitia. <lb n="15"/>
+            
+</p>
+          </div>
+
+<div n="20" subtype="section" type="textpart"><p>Nunc ipse sermonis cursus nos eo deduxit, ut doceamus et peccatorom  <lb/>
+            confessione glorificari Deum. hic occurrit protinus ex libro Iesu <lb/>
+            Naue Achan, qui quoniam contra diuinum edictum sustulerat ex anathemate <lb/>
+            pallium coccineum insigne ac ducentos siclos argenti ac linguam <lb/>
+            auream siclorum quinquaginta, populus Israel terga uertit hostibus. <lb n="20"/>
+            itaque Iosue dixit Achan: fili mi, da gloriam Domino <lb/>
+            Deo Israel et confitere atque indica mihi quid feceris, <lb/>
+            ne abscondas. confessus dedit poenas, et auersus est furor Domini. <lb/>
+            ea confessio clarificauit Dei iustitiam ac sapientiam. sapientiam, quod <lb/>
+            illius oculis nihil esset abstrusum: iustitiam, quod non sine causa <lb n="25"/>
+            passus esset hostes aduersus Israelem inualescere, quodque leges ipsius <lb/>
+            nullus hominum impune uiolat. nihil erat magni quod suffuratus erat <lb/>
+            Achan: magnum tamen erat documentum uniuerso populo, quantum <lb/>
+            periculum sit Dei iussa negligere eique uelle imponere quasi quidquam <lb/>
+            illum fugeret, aut quasi faueret praeuaricatoribus. atque ille <lb n="30"/>
+            quidem cum esset Iudaeus, ob unicum peccatum quod ipsi leue uidebatur <lb/>
+            seuerissimas poenas dedit, lapidatus ab uniuerso populo, corporis <lb/>
+            interitu salutem animae redimens. non enim iudicat Deus bis in id <lb/>
+            ipsum.
+
+<note type="footnote"> 5 II Cor. 2, 14. 21 Ios. 7, 19.\' </note> 
+<pb n="234"/>
+            
+</p>
+          </div>
+
+<div n="21" subtype="section" type="textpart"><p> Sed quae poena manet illos, qui post tantam enangelii lucem et <lb/>
+            gratiam, postea quam semel illuminati sunt, gustauerunt etiam donum <lb/>
+            caeleste , et participes facti sunt spiritus sancti, gustauerunt aeque <lb/>
+            bonum Dei uerbum uirtutesque saeculi uenturi, in multa atque immania <lb/>
+            crimina relabuntur, crucifigentes sibimetipsis filium Dei et <lb n="5"/>
+            ostentui habentes ? qui hoc sunt etiam miserabiliores, quod cum tales <lb/>
+            sint, aspernantur tamen poenitentiae salutaris remedium, contemnunt <lb/>
+            ecclesiam maternum gremium offerentem et ad sanitatis instaurationem <lb/>
+            inuitantem. eiusmodi defectio quantam putas ignominiam <lb/>
+            inurit ecclesiae? nec ea ignominia non potest pertinere ad <lb n="10"/>
+            Christum qui est. caput ecclesiae et per omnia suum esse ducit, <lb/>
+            quod est corporis ac membrorum ipsius. e diuerso, quanta totius <lb/>
+            ecclesiae exsultatio, cum qui lapsus est per poenitentiam ecclesiae <lb/>
+            reconciliatur? ac ne putemus hoc gaudium apud uos tantum esse, <lb/>
+            Dominum audiamus in euangelio <hi rend="italic"><sic>xara</sic> Lucam loquentem:</hi> ita dico <lb n="15"/>
+            uobis, quod gaudium erit in caelo super uno peccatore <lb/>
+            poenitentiam agente, quam super nonaginta nouem <lb/>
+            iustis, qui non indigent poenitentia. nam haec clausula <lb/>
+            finit parabolam de pastore, qui relictis nonaginta nouem ouibus unam <lb/>
+            quam a grege aberrauerat multo labore quaesitam ac tandem inuentam <lb n="20"/>
+            imposuit humeris suis et caulae restituit. simili sententia claudit parabolam <lb/>
+            de muliere, quae drachmam perditam inuenerat. ita dico <lb/>
+            uobis gaudium erit coram angelis Dei super uno pec <lb/>
+            catore poenitentiam agente. nec tamen hoc sic accipiendum <lb/>
+            est, quasi Deo et eius angelis gratius sit post lapsum redire ad pietatem, <lb n="25"/>
+            quam citra lapsum perseuerare in innocentia: sed scriptura suo <lb/>
+            more loquitur secundum affectus humanos, illud testatum esse <lb/>
+            uolens Deo gratissimam esse peccatorum conuersionem. non enim <lb/>
+            quaerit mortem peccatoris, sed magis ut conuertatur <lb/>
+            et uiuat. <lb n="30"/>
+            
+</p>
+          </div>
+
+<div n="22" subtype="section" type="textpart"><p> Atque interdum piorum hominum lapsus quamuis enormes diuina <lb/>
+            dispensatione uertuntur in summum ecclesiae profectum. sic lapsus <lb/>
+            est apostolorum princeps, sic Paulus gentium doctor, sic Maria Magdalene, <lb/>
+            quibus nunc ecclesia praecipue gloriatur, quorum lapsus cesserunt <lb/>
+            in stabilimentum ac solatium domus Dei. praeterea non hic
+
+<note type="footnote"> 16 Luc. 16, 7. 28 Ez. 18, 32. </note> <lb n="35"/>
+             
+<pb n="235"/>
+            loquitur de uere iustis, sed de iustitia Pharisaica, quemadmodum alibi <lb/>
+            dicit: non est opus sanis medico, sed male habentibus. <lb/>
+            at non erant sani quibus hoc dicebat Dominus, sed legis qualicumque <lb/>
+            obseruatione tumidi sibi uidebantur sani et ideo non desiderabant medicum.\'. <lb/>
+            <lb n="5"/>
+            
+</p>
+          </div>
+
+<div n="23" subtype="section" type="textpart"><p>Haec cum ad hunc habeant modum, desiderate frater, conemur  <lb/>
+            assiduis exhortationibus excitare fidelium animos, ut tota etiam uita <lb/>
+            martyrium hoc est testimonium reddat Deo: quod adeo negligendum <lb/>
+            non est, ut nisi ea praecesserit, martyrium quod sanguine perhibetur <lb/>
+            non sit martyrium. frustra enim ceruicem praebueris carnifici, nisi <lb n="10"/>
+            prius occideris membra quae sunt super terram, hoc est affectus qui <lb/>
+            militant aduersus spiritum, odium inuidiam auaritiam libidinem: quibus <lb/>
+            quicumque seruit Deum quodammodo abnegauit et Christum ore <lb/>
+            profitens uita satanam Deum confitetur. nec hic sermo debet cuiquam <lb/>
+            uideri durior, cum sit uerax ac salutaris: quidquid homo quiuis Deo <lb n="15"/>
+            anteponit, sibi Deum facit, nec possumus duobus seruire dominis: <lb/>
+            unus enim est Deus ex toto corde ex tota anima ex totis uiribus diligendus.\' <lb/>
+            </p>
+          </div>
+
+<div n="24" subtype="section" type="textpart"><p>Quisquis igitur ore dicit: credo in unum Deum, et seruit auaritiae  <lb/>
+            aut libidini aut luxui, sibi mentitur sibique repugnat, aliud lingua. <lb n="20"/>
+            sonans, aliud animo celans, uoce tantum testimonium perhibens Deo, <lb/>
+            cum uita satanam colat. efficacius autem est uitae quam linguae testimonium. <lb/>
+            non omnis qui dicit: Domine, Domine, intrabit <lb/>
+            in regnum, sed qui facit uoluntatem patris <lb/>
+            caelestis. habent et opera suam linguam, habent suam facundiam <lb n="25"/>
+            etiam tacente lingua. ideo Dominus in euangelio Ioannem ita loquitur: <lb/>
+            opera quae dedit mihi pater ut perficiam, ipsa <lb/>
+            opera quae ego facio testimonium perhibent de me. <lb/>
+            quemadmodum igitur bona opera profitentur Deum, ita mala quodammodo <lb/>
+            loquuntur: non est Deus, nec scientia in excelso. <lb n="30"/>
+            quis non contremiscat, quis non inhorrescat, quis non laceret <lb/>
+            uestimenta sua, quis non obturet aures suas, si tales uoces <lb/>
+            audiat ex Christiano ? quantus horror, quantus dolor occupat <lb/>
+            animos nostros, cum quis uictus tormentis iussus abnegare <lb/>
+            Christum abnegat et ad Iouis statuam tus adolet? quam
+
+<note type="footnote"> 2 Matth. 9, 12. <lb/>
+            30 cf. Ps. 13, 1; 72, 11. </note>
+
+<note type="footnote">23 Matth. 7, 21. </note>
+
+<note type="footnote"> ,27 Io. 5, 36. </note> <lb n="35"/>
+             
+<pb n="236"/>
+            trepidamus metuentes ne Deus iratus fulmen in nos uibret irae suae, ne terra <lb/>
+            dehiscens nos absorbeat? ut interdum unius impietas supplicii consortio <lb/>
+            multos inuoluat: et sunt scelera tam immania., ut uidisse quoque <lb/>
+            aut audisse sit detestabile. sed cur alias in simili crimine tam <lb/>
+            sumus conniuentes ? cur et nobis adeo blandimur et aliis. at uide <lb n="5"/>
+            quid de talibus loquitur apostolus scribens Tito: profitentur se <lb/>
+            nosse Deum, factis autem negant. idem in priore ad Timotheum <lb/>
+            de uidua quae negligit familiam: si qua autem suorum <lb/>
+            maxime domesticorum curam non habet, fidem negauit <lb/>
+            et est infideli deterior. si fidem negauit quae negligentius<lb n="10"/>
+            habet suam familiam, quid dicturum putas de his qui se totos dediderunt <lb/>
+            mammonae et uentri? de Christianis utique loquitur Paulus <lb/>
+            scribens Philippensibus, cum ait: quorum finis interitus, <lb/>
+            quorum Deus uenter est. quos eosdem taxat scribens Romanis: <lb/>
+            huiusmodi Christo Domino non seruiunt, sed suo<lb n="15"/>
+            uentri. sentire iuxta scripturarum consuetudinem dixit pro colere. <lb/>
+            uentrem colunt eum quem habent pro Deo. iam de anaritia manifestius <lb/>
+            etiam pronuntiat scribens ad Colossenses: mortificate, inquit, <lb/>
+            membra uestra quae sunt super terram, fornicationem <lb/>
+            immunditiam libidinem concupiscentiam malamao <lb n="20"/>
+            et auaritiam, quae est simulacrorum seruitus. 
+</p>
+          </div>
+
+<div n="25" subtype="section" type="textpart"><p> Execramur eos qui procumbunt ad Dianae simulacrum: quanto iustius <lb/>
+            eos execramur, qui toto pectore seruiunt mammonae, qui illi <lb/>
+            quotidie sacrificant? et si auarus est idololatra qui pecuniae studio <lb/>
+            tenetur, qui quod hereditate obuenit aut industria partum est recondit <lb n="25"/>
+            nec erogat in egenos: quid censendum est de his qui lenocinio, <lb/>
+            qui fenore, qui rapto, qui fraude, qui calumniis, qui opprimendis pauperibus <lb/>
+            rem accumulant? atque haec idolorum seruitus non solum inuenitur <lb/>
+            inter Christianos, uerum etiam quod gemendum est inter episcopos. <lb/>
+            porro temulentia adeo communis est Africae nostrae, ut propemodum <lb n="30"/>
+            non habeant pro crimine. annon uidemus ad martyrum memorias <lb/>
+            Christianum a Christiano cogi ad ebrietatem ? an hoc leuius <lb/>
+            crimen esse ducimus, quam hircum immolare Baccho ? mihi uidetur <lb/>
+            multo grauius, si rem recta ratione uelimus expendere. cum tyrannus
+
+<note type="footnote"> 6 Tit. 1, 16. <lb/>
+            15 Bom. 16, 18. </note>
+
+<note type="footnote">8 I Tim. 6, 8. <lb/>
+            18 Col. 3, 5. </note>
+
+<note type="footnote">13 PhiL 3, 19. </note> <lb/>
+             
+<pb n="237"/>
+            dicit \'abnega Christum et immola Ioui, et esto amicus noster, aut <lb/>
+            morere\', saepe lingua negat corde reclamante et manus adolet tus, cum <lb/>
+            animus intus adoret Christum. quamquam hoc quoque grauissimum <lb/>
+            est crimen, tamen aliquam impietatis culpam eleuat humanae naturae <lb/>
+            imbecillitas. ibi satanas tibi loquitur uoce tyranni: at quid tibi dicit <lb n="5"/>
+            idem per tuam concupiscentiam? \'abnega Christum, et esto diues: <lb/>
+            sacrifica Mammonae et Christo nuntium remitte.\' quid est quod pollicetur <lb/>
+            ? aurum et argentum, inutilem materiam nisi exerceas. nec dicit <lb/>
+            \'morere sed oblecta oculos\', immo potius hoc dicit \'lucrare pecuniam <lb/>
+            ad breue tempus habiturus et perde in aeternum animam tuam. <lb n="10"/>
+            et tamen hic sponte submittis genua satanae et abnegato Christo te <lb/>
+            totum. illi mancipas. quid autem Christus? meus esto et uiue in <lb/>
+            aeternam : contemne diuitias istas temporarias, et ego tibi centuplum <lb/>
+            reponam in hoc saeculo et uitam aeternam in futuro. <lb/>
+            relinque terram et accipe coelum. ac Deus ista pollicens deseritur, <lb n="15"/>
+            et diabolus tam nihili res easque falso promittens adoratur. <lb/>
+            o foedam defectionem. o turpem idololatriam. o iniquam <lb/>
+            permutationem. quo praemio sollicitauit humani generis primos auctores? <lb/>
+            ostendit pomum et dedit mortem. mendacio fefellit: non moriemini, <lb/>
+            sed eritis sicut Dii, scientes bonum et malum. <lb n="20"/>
+            atque illi delusi qualem Dominum deseruerunt et ad quem defecerunt ? <lb/>
+            a qua felicitate exciderunt et in quas aerumnas semet coniecerunt? <lb/>
+            sed idem ille tenebrarum princeps qui Euae locutus est per serpentem, <lb/>
+            nobis loquitur per satellites suos ac ministros, per lenas et lenones, <lb/>
+            per eos qui pelliciunt ad amorem pecuniae ad ambitionem ad uoluptatem, <lb n="25"/>
+            auocantes a sinceritate quae est in Christo Iesu. idem ille loquitur <lb/>
+            nobis per concupiscentias nostras quae uiuunt in membris <lb/>
+            nostris. nec dicit quod homo tyrannus: aut mihi optempera aut morere, <lb/>
+            nec ostentat carceres catenas uncinos sartagines aut caminos <lb/>
+            incensos, non cruces laqueos aut gladios, sed tantum : \'contemne Deum, <lb n="30"/>
+            renuntia uitae caelestis hereditati, et committe adulterium, et capies <lb/>
+            uoluptatem). sed qualem? momentaneam et corporis tantum: quot <lb/>
+            autem amaritudinibus conditam ? infamia periculo, super omnia uero <lb/>
+            secreto conscientiae cruciatu. haec est esca diaboli, hoc auctoramentum. <lb/>
+            stipendium porro quale est? dicat maiore cum fide beatus
+
+<note type="footnote"> 19 Gen. 3, 4. 5. </note> <lb n="35"/>
+             
+<pb n="238"/>
+            apostolus: stipendium peccati mors est. quae mors? corporis, <lb/>
+            quam solam minitatur et inferre potest tyrannus homo? non, sed <lb/>
+            mors gehennae quae finem nescit. plus potest homo tyrannus quam diabolus. <lb/>
+            ille quodammodo cogit hominis naturam, hic nihil aliud potest <lb/>
+            quam sollicitare: deicere non potest nisi assentiaris, contemsisse uicisse<lb n="5"/>
+            est. \'
+</p>
+          </div>
+
+<div n="26" subtype="section" type="textpart"><p> Maior itaque uenia debetur Christum in tormentis abneganti quam <lb/>
+            sponte assentienti diabolo, cui credidisse est Christum abnegasse. <lb/>
+            ille mendax est et omnis mendacii pater, et illius promissa quantumcumque <lb/>
+            fronte blandiantur nihil aliud sunt quam praestigiae pellicientes <lb n="10"/>
+            in exitium. ne quis itaque sic sibi blandiatur; (sum peccator, <lb/>
+            amo pecuniam, seruio libidini, studeo honoribus, indulgeo uindictae, <lb/>
+            deditus sum uoluptatibus: sed Christum non abnegaui). at reclamat <lb/>
+            tibi Dominus ipse: non potes duos dominos colere. et interim <lb/>
+            horres abominandum turificati aut libellati cognomen , ipse fortasse<lb n="15"/>
+            turificatis aut libellatis deterior. illos humanus metus uiolentior quam <lb/>
+            ut hominis natura possit uincere eo compulit, ut impias uoces promant <lb/>
+            lingua reclamante conscientia: tu tam uili mercedula sollicitatus <lb/>
+            sponte deficis ad eum, a cuius tyrannide te Christus suo <lb/>
+            sanguine redemit: cuius iam totus es factus, quemadmodum ait apostolus: <lb n="20"/>
+            emti estis pretio magno, et iam non estis uestri. <lb/>
+            huius militiam professus es ad salutare lauacrum, huic dedisti <lb/>
+            nomen, huius sacramentis initiatus es, accepisti donatiuum et pignus <lb/>
+            spiritus, ne quid dubitares de promisso stipendio, simulque diabolo <lb/>
+            denuntiasti perpetuas inimicitias, renunciasti omnibus illius pompis <lb n="25"/>
+            ac uoluptatibus, exsuffiasti, exsibilasti, iurasti in uerba redemtoris: <lb/>
+            cumque tot uitiis seruias, tibi places quod nondum sis turificatus aut <lb/>
+            libellatus. 
+</p>
+          </div>
+
+<div n="27" subtype="section" type="textpart"><p> Si quis miles iuratus in uerba Caesaris profugeret ad Turcam et <lb/>
+            ex illius arbitrio faceret ea quae sciret ingratissima Caesari, nonne <lb n="30"/>
+            comprehensus ad supplicium raperetur ut desertor, ut periurus, ut <lb/>
+            perfuga? quis autem audiret eum ita se defendentem (non sum <lb/>
+            desertor, non abnegaui Caesarem\'. annon mox audiret cquid refert <lb/>
+            si lingua tacuit? re ipsa abnegasti, et plusquam abnegasti, qui non <lb/>
+            solum deserueris militiam, uerum etiam ad tyrannum et hostem
+
+<note type="footnote"> 1 Rom. 6, 23: 14 Matth. 6, M. 21 I Cor. 6, 20. </note> <lb n="35"/>
+             
+<pb n="239"/>
+            imperatoris tui irreconciliabilem transfugeris\'. merito fidelium aures <lb/>
+            abominantur apostatae uocabulum: uerum hoc non ibi tantum execrandum <lb/>
+            est, cum incenso tusculo aut scripto libello renuntiatur professioni <lb/>
+            nominis Christi, sed ubicumque contemtis Christi legibus <lb/>
+            obtemperatur satanae. nec enim refert quid sonet lingua: quae si <lb n="5"/>
+            sonet Christum, cum animus sit deditus criminibus, non est professio <lb/>
+            sed hypocrisis, abnegatura Christum si metus urgeat, qui premit <lb/>
+            turificatos aut libellatos. atque in his rebus quae sic inter se pugnant, <lb/>
+            ut neutra ferat alterius consortium, quoties hanc amplectimur, illam <lb/>
+            abdicauimus, quoties unam reiecimus, alteram agnoscimus. cuiusmodi <lb n="10"/>
+            sunt lux et tenebrae, bellum et pax, mors et uita, Deus et Belial: <lb/>
+            quemadmodum testatur et beatus Paulus in secunda ad Corinthios: <lb/>
+            quae enim participatio iustitiae cum iniquitate, aut <lb/>
+            quae societas luci ad tenebras? quae autem conuentio <lb/>
+            Christi ad Belial? adhaesisse Belial est abnegasse Christum, <lb n="15"/>
+            Christum lingua aut habitu Christum profitearis. 
+</p>
+          </div>
+
+<div n="28" subtype="section" type="textpart"><p>De hoc si quis simpliciorum dubitarit, dabo argumentum crassum  <lb/>
+            et euidens. fingamus tyrannum ita loqui Christiano incendes tus <lb/>
+            Ioui\', nihil addentem nec exigentem ut Christum abneget: si adoleuerit, <lb/>
+            nonne cunctis manifestum erit illum hoc ipso Christum abnegasse, <lb n="20"/>
+            quod Ioui fecerit thymiama, etiamsi nihil proferat impium <lb/>
+            in Christum? quemadmodum qui magicis artibus utuntur (a quo <lb/>
+            malo nos Domini misericordia liberauit, sicut a ceteris omnibus, quibus <lb/>
+            iuxta ueterem hominem quondam ambulantes tenebamur) tacite <lb/>
+            Christum abnegant, dum cum daemonibus habent foedus. iam si <lb n="25"/>
+            Machabaei fratres una cum matre maluerunt tot cruciatibus exanimari <lb/>
+            quam carne suilla uesci, sic existimantes eum Deum legis auctorem <lb/>
+            negare. quisquis sciens ac uolens legis praecepta uiolat: quo <lb/>
+            pacto sibi blanditur, qui in luxu temulentia auaritia rapinis adulteriis, <lb/>
+            aliisque criminibus consenescunt, quae gentium etiam leges noluerunt . <lb n="30"/>
+            esse impunita? et cum tot modis Christum abnegent, cum toties <lb/>
+            immolent daemonibus, pro Christianis haberi postulant ? atque in his <lb/>
+            sunt, qui palam ista committunt ac propemodum etiam gloriantur in <lb/>
+            rebus pessimis: adeo non pudet aut piget admissorum. et tamen audent <lb/>
+            uenire in ecclesiam sanctorum, audent misceri gregi dominico.
+
+<note type="footnote"> 13 II Cor. 6, 14. </note> <lb n="35"/>
+             
+<pb n="240"/>
+            tales interdum tolerat ecclesia, ne prouocati magis etiam perturbent <lb/>
+            populum Dei: sed quid prodest non eiici coetu piorum, si merueris <lb/>
+            eiici? nam eiici remedium est et gradus ad recuperandam sanitatem: <lb/>
+            eiectionem meruisse summa malorum est. ac frustra miscetur coetui <lb/>
+            sanctorum in templo manufacto, si submotus est a consortio Dei et<lb n="5"/>
+            ab uniuerso corpore mystico Christi. 
+</p>
+          </div>
+
+<div n="29" subtype="section" type="textpart"><p> I Oportet autem et illud considerare quantopere Christiani abhorrent <lb/>
+            ab idolothytis et ab ingressu fanorum atque ab ipsis etiam simulacris. <lb/>
+            cum beatus Paulus clamet neque idolum esse aliquid neque idolothytum, <lb/>
+            multo minus fanum ex lapidibus constructum est aliquid: et<lb n="10"/>
+            tamen plurimorum animus ea religione tenetur, ut mortem oppetant <lb/>
+            citius quam gustent idolis immolatum: et inexpiabile piaculum esse <lb/>
+            ducant, si ingrediantur fanum Iouis aut Apollinis ant Dianae seque <lb/>
+            putent contactu simulacri uehementer contaminari. equidem probo <lb/>
+            talium religionem, si sibi constet in omnibus. nunc pro dolor uidere<lb n="15"/>
+            est quosdam in his paene superstitiose trepidos, in aliis ubi grauior <lb/>
+            erat metuendi causa nimium esse securos. per se non inquinat animam <lb/>
+            contactus idoli nec ingressus fani nec esus idolothyti: sed per <lb/>
+            se polluit conscientiam amor pecuniae incestus rapina hypocrisis et <lb/>
+            his similia monstra. quam uero congruit horrere fani ingressum, nec <lb n="20"/>
+            horrere in templo sancto spiritui consecrato uictimas immolare daemoniis <lb/>
+            ? clamat sanctus Paulus scribens Corinthiis: nescitis quia <lb/>
+            templum Dei estis, et spiritus Dei habitat in uobis? <lb/>
+            si quis autem templum Dei uiolauerit, disperdet illam <lb/>
+            Deus. rursus in eadem epistola: an nescitis quoniam membra <lb n="25"/>
+            uestra templum.sunt sancti spiritus qui in nobis <lb/>
+            est, quem habetis a Deo et non estis uestri? quod si <lb/>
+            Christianorum pectora sibi consecrauit Deus ut in illis inhabitet per <lb/>
+            spiritum suum, illic deliciatur et inambulat, illic amat sibi offerri <lb/>
+            uictimam puram in omni loco. et qui in hoc templum Deo sacrum <lb n="30"/>
+            eiecto sancto spiritu inducit abominationes quas in mystica uisione <lb/>
+            conspexit Ezechiel, qui illic sedem facit Mammonae Veneri Como <lb/>
+            Baccho aliisque portentis, qui ibi daemonibus immolat spurcissimas <lb/>
+            hostias, ueretur ingredi fanum gentium ne contaminetur? proinde <lb/>
+            nemo sibi frustra blandiatur, Deus non irridetur: constet sibi nostra
+
+<note type="footnote"> 22 I Cor. 3, 16. 25 I Cor. 6, 19. </note> <lb n="35"/>
+             
+<pb n="241"/>
+            religio, nec alios detestemur ipsi grauioribus obnoxii criminibus: nec <lb/>
+            alibi simus religiose timidi, alibi impudenter impii. sed Christum <lb/>
+            semel professi tota uita reddamus illi testimonium, et undique glorificemus <lb/>
+            illum obedientes illius praeceptis: ut in hoc cognoscant homines <lb/>
+            quod uere fidimus illi, quod ex animo diligimus illum et quod <lb n="5"/>
+            non simulate ad sacrum lauacrum addiximus nos illius militiae. 
+</p>
+          </div>
+
+<div n="30" subtype="section" type="textpart"><p>Beatus apostolus praedixit nulli pie uiuere nolenti in Christo Iesu  <lb/>
+            defuturam persecutionem. si deest tyrannus, si tortor, si spoliator: <lb/>
+            non deerit concupiscentia martyrii materiam quotidianam nobis exhibens. <lb/>
+            postremo haec ipsa mala quae secum defert uita mortalium <lb n="10"/>
+            quaeque piis cum impiis communia sunt, martyrii coronam nobis parabunt, <lb/>
+            si placide, si cum gratiarum actione pertulerimus. neque priuati <lb/>
+            sunt martyrii gloria quicumque uiolenta morte consummati non <lb/>
+            sunt. quis autem ausit uel Abraham patriarcham uel huius filium <lb/>
+            Isaac uel beatum Iob eximere e martyrum numero? quae carnificinae <lb n="15"/>
+            grauius torserunt corpus, quam patriarchae mentem torquebant <lb/>
+            , naturae affectus, cum incunctanter ad Dei iussum appararet immolare <lb/>
+            filium unicum et unice carum, in quo tota spes erat illi posteritatis ? <lb/>
+            quid defuit Isaac martyrio, qui nihil obmurmurans passus est se colligari <lb/>
+            et imponi busto, nec expauit in ceruicem uibratam machaeram? <lb n="20"/>
+            cuius autem martyrium audebimus conferre cum his quae passus <lb/>
+            est Iob? 
+</p>
+          </div>
+
+<div n="31" subtype="section" type="textpart"><p>Quod si quis adhuc diffidit sermoni nostro, certe beati Pauli uerbis  <lb/>
+            non poterit diffidere. is scribens ad Hebraeos orsus ab Abel usque <lb/>
+            ad Gedeonem ingentem sanctorum catalogum recenset, in quo plures <lb n="25"/>
+            sunt qui non defuncti sunt morte uiolenta, immo pauci sunt qui sic <lb/>
+            mortui sunt: et tamen de omnibus pronuntiat: et hi testimonio <lb/>
+            fidei probati inuenti sunt, perspicue declarans etiam uita <lb/>
+            bona peragi martyrium fidei. ecclesiae quidem usus discernit illos cognominibus, <lb/>
+            martyres appellans eos qui uiolenta morte decesserunt, confessores <lb n="30"/>
+            qui constanter in cruciatibus ac minis mortis professi sunt <lb/>
+            nomen Domini Iesu parati mortem oppetere uel potius martyrii supremam <lb/>
+            coronam ambientes. apud Deum tamen quicumque carnem suam <lb/>
+            crucifixerunt cum uitiis et concupiscentiis, quicumque Christo uere <lb/>
+            commortui sunt eique in baptismo consepulti sunt, ut iam non sibi <lb n="35"/>
+            uiuant neque mundo cui semel mortui sunt, sed ei qui pro ipsis est
+
+<note type="footnote"> 26 Hebr. 1, 39. </note>
+
+<note type="footnote"> IDA. </note>
+
+<note type="footnote"> 16 </note> <lb/>
+             
+<pb n="242"/>
+            mortuus, martyres sunt nec martyrum corona fraudabuntur: inprimis <lb/>
+            autem monachi qui uere monachi sunt ac uirgines quae uere uirgines <lb/>
+            sunt. neque enim locus desertus , saccus pro ueste, legumen pro cibo, <lb/>
+            neque ieiunia neque chameuniae monachum absoluunt, sub his inuolucris <lb/>
+            interdum latet animus ualde mundanus. quod ita deprehenditur<lb n="5"/>
+            si ad munus aliquod ecclesiasticum uocentur: ibi uideas quosdam ex <lb/>
+            illis facillime uinci deliciis, impatientiores iniuriarum, appetentiores <lb/>
+            uindictae quam quiuis alius sit ex media plebe. quid causae est? <lb/>
+            quoniam corpus exercuerunt magis quam animum: cum beatus Paulus doceat, <lb/>
+            quod exercitatio corporalis ad modicum utilis sit,<lb n="10"/>
+            pietas ad omnia ualeat. 
+</p>
+          </div>
+
+<div n="32" subtype="section" type="textpart"><p> Non haec dixerim, quod improbandi sint qui talibus modis castigant <lb/>
+            corpus suum et in seruitutem redigunt: sed quod satanas mille <lb/>
+            instructus artibus nonnumquam illudit incautis, transfigurans se in <lb/>
+            angelum lucis et ex huiusmodi corporum exercitamentis inducit illis <lb n="15"/>
+            falsam sanctimoniae persuasionem, cumque intus madeant spiritalibus <lb/>
+            uitiis, et sibi et aliis habentur pii. talis erat iustitia Pharisaeorum, <lb/>
+            cui praelata est iudice Christo publicani iniustitia. ita sunt et uirgines <lb/>
+            fatuae, quae solidam existimant pietatem corpus habere uiro intactum, <lb/>
+            cum animus auaritia superbia inuidia et obtrectatione sit corruptissimus.<lb n="20"/>
+            sunt et falso uiduae, quae dum uiuunt in deliciis Christo mortuae <lb/>
+            sunt. in summa tamen quisquis uere Christianus cuiusque status <lb/>
+            ant ordinis habet certamina sua, habet crucem suam: quam si patienter <lb/>
+            tollit ,| si constanter sustinet, testimonio suo glorificat Dominum, <lb/>
+            tantum ne sibi uindicet laudem bonorum operum: hoc enim non est <lb n="25"/>
+            glorificare Deum, sed clarificare seipsum. 
+</p>
+          </div>
+
+<div n="33" subtype="section" type="textpart"><p> Habet unusquisque fidelium agones suos, habet aduersarium diabolum, <lb/>
+            habet agonothetam Deum, habet theatrum non solum ecclesiae <lb/>
+            et angelorum sed et infidelium, quemadmodum dicit Paulus ad Corinthios: <lb/>
+            spectaculum facti sumus mundo et angelis et <lb n="30"/>
+            hominibus. si uincimus, gloriantur angeli, gloriantur et fidelium <lb/>
+            ecclesiae, gloriatur et ipse Christus in membris suis. sin uincimur <lb/>
+            ignauia nostra, triumphat satanas cum angelis suis, iusultant nobis increduli <lb/>
+            ac Deum contumeliis afficiunt, dicentes: ecce qui iactant se <lb/>
+            redemtos a tyrannide satanae, qui praedicant se mortuos mundo,
+
+<note type="footnote"> 10 I Tim. 4, 8. 30 I Cor. 4, 9. </note> <lb n="35"/>
+             
+<pb n="243"/>
+            nihilominus uincuntur a cupiditatibus suis quam nos, quos dicunt adhuc <lb/>
+            teneri sub regno satanae. quid prodest illis baptismus, quo dicunt <lb/>
+            exui ueterem hominem cum actibus suis et indui nonum qui secundum <lb/>
+            Deum creatus est? quid prodest illis Spiritus sanctus, cuius arbitrio <lb/>
+            dicunt se temperari ? cur semper in ore habent ceuangelium <lb n="5"/>
+            euangelium'), cum tota uita discrepet ab euangelii praeceptis ? quanto <lb/>
+            creditis pudore suffunditur ecclesia, cum haec ingeruntur ab hostibus <lb/>
+            nec habet quo refellat opprobria? nonne uidemus totum ecclesiae coetum <lb/>
+            demittere uultus atque erubescere, quotiens aliqua uirgo quae <lb/>
+            Christo nupserat dilapsa ex angelico contubernio, defecit ad stuprum <lb n="10"/>
+            aut coniugium ? quantus moeror occupat omnium nostrum animos sed <lb/>
+            praecipue pastorum, si quando Christi miles tormentis inferior renuntiauit <lb/>
+            imperatori suo? quantus autem ex aduerso satanae triumphus ? 
+</p>
+          </div>
+
+<div n="34" subtype="section" type="textpart"><p>Itaque, fratres dilectissimi, si uere diligimus Deum, si quotidie petimus  <lb/>
+            ex animo sanctificetur nomen tuum , summo studio aduigilemus, <lb n="15"/>
+            necubi polluamus nomen illius, sed et morte et uita glorificemus <lb/>
+            illum, iuxta beati Pauli monita uiuentes sine querela ut simplices <lb/>
+            filii Dei, sine reprehensione in medio nationis prauae et peruersae, <lb/>
+            inter quos luceamus sicut luminaria in mundo, uerbum uitae continentes <lb/>
+            ad gloriam Christi Iesu, regis et agonothetae nostri, qui suum <lb n="20"/>
+            esse ducit quidquid in membris ipsius geritur. patiamur cum illo, ut <lb/>
+            cum illo glorificemur in die Domini. nos hic illum clarificemus apud <lb/>
+            homines, ut ille nos clarificet claritate sua coram angelis suis, cum, <lb/>
+            ut inquit beatus Paulus, uenerit glorificari in sanctis suis. <lb/>
+            nemo coronatur nisi legitime certauerit. et hi qui <lb n="25"/>
+            corruptibilem coronam ambiunt, ab omnibus se abstinent, <lb/>
+            nihil non facientes quod ad uictoriam conducit: quid nos facere <lb/>
+            conuenit, ut assequamur illam immortalis uitae coronam incorruptibilem <lb/>
+            et immarcescibilem in coelis ? 
+</p>
+          </div>
+
+<div n="35" subtype="section" type="textpart"><p>Hic si quis roget, quo pacto quis possit esse martyr sine sanguinis  <lb n="30"/>
+            effusione: quisquis hoc animo sequitur iustitiam, ut mortem citius admissurus <lb/>
+            sit, quam uelit a iustitia deflectere, huic promta uoluntas <lb/>
+            pro martyrio deputabitur. Deus enim non aestimat quemquam ex <lb/>
+            euentu rerum sed ex affectu. cur enim ille fraudetur martyrii gloria, <lb/>
+            per quem non stetit quominus martyrium peregerit? ut contra
+
+<note type="footnote"> 23 II Thess. 1, 10; II Tim. 2, 5; I Cor. 9, 25. </note>
+
+<note type="footnote"> 16 * </note> <lb n="35"/>
+             
+<pb n="244"/>
+            mercedem apostatae feret, quisquis hoc animo uiuit, ut Christum negaturus <lb/>
+            sit, si iactura bonorum ant corporis cruciatus aut mors sit accipienda. <lb/>
+            qui ob paululum pecuniae peierat an is uerebitur abnegare <lb/>
+            Christum, si tota res periclitetur, si intentetur infamia, carcer et mors ? <lb/>
+            qui ob febriculam ad incantatricum remedia confugit an is malit cruciatus <lb n="5"/>
+            morte tristiores perferre quam Christo renuntiare ? immo qui <lb/>
+            totiens ob breuem carnis delectatiunculam, ob momentaneam gloriam <lb/>
+            deficit a Christo, uitam habebit uilem pro Christo? nec hunc tyrannus <lb/>
+            fecit apostatam, sed ad tyrannum accessit apostata. ut autem est similis <lb/>
+            certandi ratio, ita iisdem armis fratrum animi communiendi sunt<lb n="10"/>
+            ad has pugnas quibus ostendimus confirmandos ad martyrium. fides <lb/>
+            est, quae pugnat et superat in martyribus: nec quisquam defecit in <lb/>
+            tormentis nisi fidei defectu. 
+</p>
+          </div>
+
+<div n="36" subtype="section" type="textpart"><p> Orandus igitur assidue Deus, ut fidem in nobis augeat: est enim <lb/>
+            Dei donum et illi debetur omnis uictoriae gloria. ingeramus illorum <lb n="15"/>
+            animis et infigamus, quam horrendum crimen sit omnis idololatria, <lb/>
+            quam seuere punita sit a Deo sub lege uetere, quot millia trucidarit <lb/>
+            Moyses ob uitulum aureum. deinde proponatur comparatio manifestae <lb/>
+            idololatriae cum immolatur simulacris et occultae cum contemto Deo <lb/>
+            obeditur per concupiscentiam satanae. deinde conferantur inter se<lb n="20"/>
+            Deus fons omnis boni et diabolus omnis malitiae princeps. ostendatur <lb/>
+            et inaequalitas contubernii: in altera parte sunt filii Dei, conciues <lb/>
+            angelorum et heredes beatae immortalitatis: in altera filii Belial, <lb/>
+            societas omnium daemonum et heredes gehennae. conferatur et impar <lb/>
+            militiae genus, comparentur diuersa stipendia. haec si prius fuerint <lb n="25"/>
+            persuasa et intimis infixa uisceribus, facilis erit uictoria. nunc fides <lb/>
+            multis natat in labiis, cum in corde aut nulla sit ant uehementer langueat. <lb/>
+            quis enim non profitetur, quod in Deuteronomio legimus: audi, <lb/>
+            Dominus Deus tuus, Dominus unus est? et: Dominum <lb/>
+            Deum tuum adorabis, et illi soli seruies ?  quis non quotidie <lb n="30"/>
+            recitat ore (credo in Deum patrem omnipotentem.\' at non credit <lb/>
+            in Deum qui in eo solo collocat totius felicitatis suae fiduciam, nec <lb/>
+            unum habet Deum ac Dominum qui per scortationem, per luxum et <lb/>
+            auaritiam satanae facit imperata, nec illi soli seruit qui seruit uentri, <lb/>
+            qui deditus est huic mundo, qui in prauo positus est.
+
+<note type="footnote"> .28 Dent. 6. 84; 10, 20. </note> <lb n="35"/>
+            
+<pb n="245"/>
+            
+</p>
+          </div>
+
+<div n="37" subtype="section" type="textpart"><p>Eihmci putant plurea esse deos, et hoc tibi uideris perfectus Christiauus,  <lb/>
+            quod persuasum habes unum esse Deum? quid magni facis? <lb/>
+            idem credunt Iudaei qui quotidie blasphemant in synagogis suis: idem <lb/>
+            credunt daemones et contremiscunt. si uere credis in Deum, crede iustum <lb/>
+            et ueracem: iustum in remunerandis piis et puniendis impiis, ueracem in <lb n="5"/>
+            promissis. crede non esse spem salutis, nisi per filium eius quem pro nobis <lb/>
+            omnibus tradidit in mortem: crede nihil accidere mali posse iis qui se <lb/>
+            totos illius uoluntati tradiderunt et in illo perseuerant. hoc est credere <lb/>
+            in Deum patrem, hoc est credere in filium eius, hoc est credere in <lb/>
+            Spiritum sanctum, unum Deum et ecclesiam sanctam mysticum Christi <lb n="10"/>
+            corpus, extra quam non est salus et in qua non est pernicies.,
+</p>
+          </div>
+
+<div n="38" subtype="section" type="textpart"><p>Quisquis in tali petra pedes animi fixerit, aduersus omnes tentationum  <lb/>
+            incursus stabit immobilis. exempli gratia: lacessitus ea conuicio, <lb/>
+            suggerit tibi caro uindictae cupiditatem. priusquam respondeas, sic <lb/>
+            cogita tecum: hunc maledicum hominem subornauit diabolus ut me <lb n="15"/>
+            deiiciat ac deiectum perdat, sed ausculta quid suadeat imperator tuus <lb/>
+            cui militas: beati, inquit, mites, quoniam ipsi possidebunt <lb/>
+            terram, et: mea est uindicta, et ego retribuam. quid <lb/>
+            suadeat fortissimus ille Christi dux Paulus: non nosmetipsos <lb/>
+            uindicantes, carissimi, sed date locum irae. diabolus <lb n="20"/>
+            dicit: (fruere uindicta et perde uitam aeternam&gt;. Deus dicit: uince <lb/>
+            in bono malum, et noli resistere malo, et accipe cum filio meo possessionem <lb/>
+            regni coelestis\'. mox dispice, utri potius expediat obtemperare. <lb/>
+            dicit tibi per concupiscentiam tuam diabolus: (moechare et fruere <lb/>
+            temporaria corporis uoluptate, et esto meus seruus et coheres gehennae.\' <lb n="25"/>
+            audi potius quid dicat tibi Deus: sperne temporariam uoluptatem et <lb/>
+            accipe centuplum bonae conscientiae gaudium in hoc saeculo et uitam <lb/>
+            aeternam in futuro\', et expende utri potius sit auscultandum. suggerit <lb/>
+            tibi per carnis affectum ueluti per Euam satanas (uiue genialiter\', ex <lb/>
+            aduerso dicit Christus: beati qui lugent, quoniam ipsi consolationem <lb n="30"/>
+            accipient. ad eundem modum de ceteris tentationibus <lb/>
+            obiice tentatori clipeum scripturarum, in quibus tibi loquitur <lb/>
+            Deus non minore fide, quam si tibi coram ore ad os loqueretur. ex his <lb/>
+            torrentibus sume tibi lapides, quibus deiicias superbum Goliath. habes <lb/>
+            exemplum a Domino tuo, sic ille prostrauit diabolum: nec deiicias
+
+<note type="footnote"> 17 Matth. 5, 4.\' <lb/>
+            30 Matth. 5, 4. </note>
+
+<note type="footnote"> 18 Dent. 32, 35 </note>
+
+<note type="footnote">19 Rom. 12, 19. </note> <lb n="35"/>
+             
+<pb n="246"/>
+            animum si saepius inuadat, ac subinde maioribus machinis aggrediatur: <lb/>
+            nihil potest aduersus eum qui tecum est. dic illud Ioannis : maior <lb/>
+            est qui in nobis est, quam qui in isto mundo. succurrat <lb/>
+            illud Domini dictum: confidite quoniam ego uici mundum. <lb/>
+            his orationibus si Christi miles fuerit exercitatus ad conflictum , in a <lb n="5"/>
+            dies comperiet suum antagonistam debiliorem. 
+</p>
+          </div>
+
+<div n="39" subtype="section" type="textpart"><p> Nec tamen remittendae sunt excubiae, si quando hostis simulabit <lb/>
+            tranquillitatem, sed obseruans illius insidias dicat cum beato Abacuc: <lb/>
+            super custodiam meam stabo et gradum figam super <lb/>
+            petram, omni custodia seruans cor meum, ne qua pateat aditus<lb n="10"/>
+            obambulanti quaerentique quem deuoret. tutissimum autem cordis <lb/>
+            munimentum est sobrietas cum instanti oratione iugique scripturarum <lb/>
+            meditatione. omnis enim scriptura diuinitus inspirata, <lb/>
+            utilis est ad docendum, ad arguendum, ad corripiendum, <lb/>
+            ad erudiendum in iustitia, ut perfectus sit homo <lb n="15"/>
+            Dei, ad omne opus bonum instructus. ex hac igitur colligendae <lb/>
+            sunt sententiae, quas ad manum et uelut in procinctu habeas, <lb/>
+            ut his protinus serpentem caput erigentem deiicias. nullus est enim <lb/>
+            animorum morbus, cui non praesens remedium diuina scriptura suppeditaret. <lb/>
+            hinc comparanda sunt exempla piorum sed praecipue Christi,<lb n="20"/>
+            quibus se quisque uel animet uel consoletur. 
+</p>
+          </div>
+
+<div n="40" subtype="section" type="textpart"><p> Venio nunc ad illa mala quae uel ipsam naturam hominis comitantur <lb/>
+            uel fortuito uidentur inferri. haec quoque pius animus et ad <lb/>
+            pugnandum instructus sibi uertet in materiam coronae. exemplo faciam <lb/>
+            quod dico clarius. excutitur aliquis facultatibus suis siue bello siue<lb n="25"/>
+            naufragio siue rapina. ne protinus hic cogitet laqueum aut rationem <lb/>
+            malis artibus sarciendi quod periit, sed ita secum loquatur: (Dominus <lb/>
+            est qui tentat me an diligam ipsum ex toto corde. ipse dedit, ipse <lb/>
+            abstulit, sit nomen Domini benedictum. gratias agat quod <lb/>
+            acceperit ex Domini benignitate: agat gratias quod amiserit ad probationem <lb n="30"/>
+            fidei. si haec dixerit eo animo quo dixit sanctus lob, cum <lb/>
+            illo mercedem accipiet. Dominus aestimat non quantum quis perdat <lb/>
+            sed quam patienter, quemadmodum non respicit quantum aliquis largiatur <lb/>
+            egentibus sed quo animo. habet aliquis filium unice carum, eo
+
+<note type="footnote"> 2 Io. 4, 4. <lb/>
+            28 Iob 1, 21. </note>
+
+<note type="footnote">4 Io. 16, 33. </note>
+
+<note type="footnote">9 Afc 2, 1. </note>
+
+<note type="footnote">13 II Tim. 3, 16. </note> <lb/>
+             
+<pb n="247"/>
+            te mors orbat praematura, pestilentia spoliat te carissimis, sponsa <lb/>
+            liberis amicis: ferto patienter et dic: \'Domino ita uisum, et sic fortassis <lb/>
+            et nobis expediebat et nostris. sit nomen Domini benedictum). <lb/>
+            sunt et morbi qui non minus atroces habent cruciatus, <lb/>
+            quam ulla potest inferre tortorum saeuitia, ueluti pleuritis, ischiasis, <lb n="5"/>
+            podagra, paralysis, calculus, renum et uesicae exulceratio. tale si quid <lb/>
+            acciderit, ne mens exasperetur ad impatientiam, ne lingua erumpat in <lb/>
+            uoces blasphemas, sed cum beato Dauid et Heli sacerdote dicat: <lb/>
+            Dominus est, ; faciat quod bonum est in oculis ipsius. <lb/>
+            ita mala quae non inferuntur ob Christi professionem uertemus nobis <lb n="10"/>
+            in coronam et Christo in gloriam. ac fiet fortasse, ut Dominus nostra <lb/>
+            tolerantia propitiatus aut auferat afflictiones aut mitiget: quod si non <lb/>
+            fit, tamen hac ratione faciemus, ut quod animo impatienti fuisset intolerabile <lb/>
+            fiat patientia mitius. his atque huiusmodi argumentis non <lb/>
+            desinemus nos inuicem exhortari ad illustrandam Domini gloriam, <lb n="15"/>
+            cuius titulum et insignia gerimus. praestemus illi martyrium in suo <lb/>
+            quisque statu et ordine, non solum in aduersis, uerum etiam in prosperis. <lb/>
+            in aduersis agnoscamus amorem patris fiagellantis nos ad <lb/>
+            correctionem et gratias agamus caritati qua diligit nos ut filios, quos <lb/>
+            abdicare non uult sed emendatos recipere. in prosperis aeque gratias <lb n="20"/>
+            agamus illius bonitati, qua consolatur nos ut tentationum pondus possimus <lb/>
+            sustinere: ita fiet ut tota uita nostra nihil aliud sit quam testimonium, <lb/>
+            declarans apud credentes et incredulos sapientiam bonitatem <lb/>
+            misericordiam ac ueritatem Dei patris et filii illius Iesu et Spiritus <lb/>
+            sancti. amen.
+
+<note type="footnote"> - 9 II Reg. 15, 26</note>. <lb n="25"/>
+            
+</p>
+        
+</div>
+        </div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,8 @@
+<ti:work xml:lang="lat" xmlns:ti="http://chs.harvard.edu/xmlns/cts" urn="urn:cts:latinLit:stoa0292e.stoa002" groupUrn="urn:cts:latinLit:stoa0292e">
+  <ti:title xml:lang="lat">Tractatus de Fabrica Mundi</ti:title>
+  <ti:edition urn="urn:cts:latinLit:stoa0292e.stoa002.opp-lat1" workUrn="urn:cts:latinLit:stoa0292e.stoa002">
+    <ti:label xml:lang="lat">Tractatus de Fabrica Mundi</ti:label>
+    <ti:description xml:lang="mul">Victorinus Saint, Bishop of Poetovio. Victorini Episcopi Petavionensis Opera (Corpus
+      Scriptorum Ecclesiasticorum Latinorum, Volume 49). Haussleiter, Johann, editor. Vienna, Leipzig: Tempsky, Freytag, 1916.</ti:description>
+  </ti:edition>
+</ti:work>
