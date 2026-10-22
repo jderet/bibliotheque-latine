@@ -1,0 +1,139 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc xml:id="vrancic-a-epist-1539-01-20">
+         <titleStmt>
+            <title>Antonius Wrancius Paulo Jovio (1539-01-20), versio electronica</title>
+            <author ref="http://www.wikidata.org/entity/Q512372">
+               <persName xml:lang="hr">
+                  <ref target="http://www.wikidata.org/entity/Q512372">Vrančić, Antun</ref>
+               </persName>
+               <date>1504-1573</date>
+            </author>
+            <editor ref="http://www.wikidata.org/entity/Q114878204">
+               <persName xml:id="NJ">
+                  <ref type="wikidata" target="http://www.wikidata.org/entity/Q114878204">Neven
+                     Jovanović</ref>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Hanc editionem electronicam curavit</resp>
+               <persName ref="#NJ">
+                  <ref type="wikidata" target="http://www.wikidata.org/entity/Q114878204">Neven
+                     Jovanović</ref>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <p>Tiskano izdanje (MHH) uspoređeno s rukopisnim izvornikom, prednost ima rukopis.
+               Zadržan zasad pravopis iz MHH (osim nezabilježenih varijanata).
+               Datacija preuzeta iz izdanja MHH. Zabilježene varijante koje je AV naknadno unio i
+               izvorno stanje. </p>
+         </editionStmt>
+         <extent ana="B">Mg:B Verborum TKTK</extent>
+         <publicationStmt>
+            <p>elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na <orgName>
+                  <ref type="viaf" target="124389134">Filozofskom fakultetu Sveučilišta u
+                     Zagrebu</ref>
+               </orgName>, <placeName ref="3186886">Zagreb</placeName> Hrvatska. <date
+                  when="2025-08">Kolovoza 2025</date>.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="repo" ana="digital">Digitalna verzija: CroALa <note>1. Budae, 20. 1. 1539.
+                  MS: OSZK 1681/1 (A) </note></bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc xml:id="verantiusaiovius15390120">
+         <abstract>
+            <p/>
+         </abstract>
+         <settingDesc>
+            <place ana="origin">
+               <placeName ref="http://www.wikidata.org/entity/Q193478">Buda</placeName>
+            </place>
+         </settingDesc>
+         <particDesc>
+            <person role="sender">
+               <persName ref="http://www.wikidata.org/entity/Q512372">Vrančić, Antun</persName>
+            </person>
+            <person role="recipient">
+               <persName ref="http://www.wikidata.org/entity/Q437543">Giovio, Paolo</persName>
+            </person>
+         </particDesc>
+         <langUsage>
+            <language ident="lat" xml:lang="hrv">latinski</language>
+         </langUsage>
+         <creation>
+            <date when="1539-01-20" period="15xx_2_third">1539-01-20</date>
+            <placeName ref="http://www.wikidata.org/entity/Q193478">Buda</placeName>
+         </creation>
+         <textClass>
+            <keywords scheme="typus">
+               <term>prosa</term>
+            </keywords>
+            <keywords scheme="aetas">
+               <term>Litterae renatae (1400-1600)</term>
+               <term>Saeculum 16 (1501-1600)</term>
+               <term>1501-1550</term>
+            </keywords>
+            <keywords scheme="genre">
+               <term>prosa oratio - epistula</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <persName ref="#NJ">
+               <ref type="wikidata" target="http://www.wikidata.org/entity/Q114878204">Neven
+                  Jovanović</ref>
+            </persName>
+            <date when="2025-08-10">2025-08-10</date>. Izdanje kolacionirano s izvornim autografom.
+            Dodao Wikidata ID za Giovija, Budim. </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <div type="prosa-epistula" corresp="#verantiusajovio15390120">
+            <opener>Antonius Wrancius Paulo Jovio episcopo Nuceriae viro docto <choice>
+                  <abbr>S.</abbr>
+                  <expan>salutem</expan>
+               </choice></opener>
+            <p>Commentarium tuum de rebus Turcarum, tusco idiomate exaratum, nuper per amicos tuos
+               ex Urbe ad regem meum fuit allatum, elegans sane et ea brevitate, qua est, non
+               jejunum, sed satis copiosum et jucundum lectori. Quod quum hic inter Hungaros penitus
+               mutum et incognitum versabatur, tantummodo apud nos, qui tui numeramur, vocale esset,
+               rex ipse qui viros doctos et eruditos, tum opibus fovet, tum gratia et favore,
+               genuino quodam instinctu, semper ornat atque complectitur, et ipsorum monimenta
+               intermori non <sic>sustinens</sic>, indignum duxit, si Jovius in ejus regno existens
+               diutius taceret ac lateret <choice>
+                  <orig>incognitus</orig>
+                  <corr>non intellectus</corr>
+               </choice>, neque illius lectione uteretur Hungaria. Mihi itaque transferendum dedit,
+               ea ratione potissimum, quod ex officina tanti viri atque antistitis prodierit. Ego
+               illud pro ingeniolo meo latinum feci et legendum <add>Hungaris</add> exposui, tametsi
+               quid legendum dixi? cum ea, quae in eo scribis, ita scimus et quotidie experimur, ut
+               nulla hoc tempore inter Christianos natio, sed magno cum nostro malo et discrimine !
+               Id a me iniquo animo cur acciperes, non est, neque tamen debebis, quando quidem non
+               ignorem, dementiam esse ex lucerna, cui non advigilaveris, <choice>
+                  <orig>laudem</orig>
+                  <corr>gloriam</corr>
+               </choice> petere, immo et parum laudabile <add>est</add> ac nimis injurium, ex alieno
+               fundo fructus decerpere pro <choice>
+                  <orig>tuos</orig>
+                  <corr>tuis</corr>
+               </choice>. Igitur <add>et</add> laborem hunc meum boni consules velim, et affectum
+               erga te singularem agnoscas, quem equidem quum amem et colam, tum observo et summa
+               veneratione prosequor. Unde, et id ipsum quod facio, non ingratam rem tibi me
+               praestaturum arbitror, alioqui et regi meo debui obtemperasse, et unicuique externum
+               quemvis authorem licet vel in aliam vel in suam linguam impune transvertere.
+                  <add>Quod si forsan isthaec traductio non ubique thuscae eloquutioni, animoque tuo
+                  responderit, Dalmatam, non Italum traduxisse scito.</add>
+            </p>
+            <closer>Vale, ac Wrancium tui amantissimum aeque redama. <dateline>Budae, <sic><date
+                        when="1534-01-20"><num value="13">XIII.</num> kal. Februarii.
+               <num value="1534">MDXXXIIII</num></date></sic>.</dateline></closer>
+         </div>
+
+      </body>
+   </text>
+</TEI>

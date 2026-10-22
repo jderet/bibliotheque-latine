@@ -1,0 +1,2305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="dracor" xml:id="neolat000041" xml:lang="la">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Electra</title>
+        <title type="sub">Interpretatio libera</title>
+        <author>
+          <persName xml:lang="la">Sophocles</persName>
+          <idno type="wikidata">Q7235</idno>
+          <idno type="gnd">118615688</idno>
+        </author>
+        <editor role="translator">
+          <persName xml:lang="la">
+            <forename>Ioachim</forename>
+            <surname>Camerarius</surname>
+            <addName>Senior</addName>
+          </persName>
+          <idno type="wikidata">Q64361</idno>
+          <idno type="gnd">118518569</idno>
+        </editor>
+        <editor ref="https://orcid.org/0000-0002-6694-5803">Jochen Schultheiß</editor>
+        <respStmt>
+          <resp>Converted to TEI under the supervision of</resp>
+          <persName ref="https://orcid.org/0000-0001-8979-8706">Julia Jennifer Beine</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Converted to TEI by</resp>
+          <persName ref="https://orcid.org/0009-0002-1733-1036">Anton Glüer</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>University of Würzburg</authority>
+        <publisher xml:id="dracor">DraCor</publisher>
+        <idno type="URL">https://dracor.org</idno>
+        <availability>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <ref
+            target="https://segmentation-experiments2.informatik.uni-wuerzburg.de/resources/pdf/cam_b_oc0632.txt"
+            >Camerarius digital</ref>
+          <availability status="free">
+            <p>In the public domain.</p>
+          </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <author>Ioachim Camerarius</author>: <title>Electra. Interpretatio libera</title>. In:
+            <title>Commentatio explicationum omnium tragoediarum Sophoclis, cum exemplo duplicis
+            conversionis, Ioachimi Camerarii Pabepergensis</title>. <pubPlace>Basel</pubPlace>:
+            <publisher>Ioannes Oporinus</publisher> <date>1556</date>. <biblScope>pp.
+            257–312</biblScope>. </bibl>
+        <bibl type="wikidata">
+          <idno>Q733444</idno>
+        </bibl>
+        <listEvent>
+          <event type="print" when="1556">
+            <desc/>
+          </event>
+        </listEvent>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="paedagogus" sex="MALE" role="paedagogus">
+            <persName>Paedagogus</persName>
+          </person>
+          <person xml:id="orestes" sex="MALE">
+            <persName>Orestes</persName>
+          </person>
+          <person xml:id="electra" sex="FEMALE">
+            <persName>Electra</persName>
+          </person>
+          <personGrp xml:id="chorus" sex="FEMALE" role="chorus">
+            <name>Chorus</name>
+          </personGrp>
+          <person xml:id="chrysothemis" sex="FEMALE">
+            <persName>Chrysothemis</persName>
+          </person>
+          <person xml:id="clytaemnestra" sex="FEMALE">
+            <persName>Clytaemnestra</persName>
+          </person>
+          <person xml:id="aegisthus" sex="MALE">
+            <persName>Aegisthus</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term type="genreTitle">tragedy</term>
+        </keywords>
+        <classCode scheme="http://www.wikidata.org/entity/">Q80930</classCode>
+      </textClass>
+      <creation>
+        <region>
+          <ref target="http://www.wikidata.org/entity/Q12548">Holy Roman Empire</ref>
+        </region>
+      </creation>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change when="2026-09-08">
+          <desc>Revised by Julia Jennifer Beine; encoded empasised passages; added scene division based on Euripides’ tragedy.</desc>
+        </change>
+        <change when="2026-08-24">
+          <desc>Converted to DraCor TEI by Anton Glüer</desc>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <pb n="257"/>
+      <div type="title">
+        <head>ELECTRA</head>
+        <head>INTERPRETATIO LIBERA.</head>
+      </div>
+      <div type="scene" subtype="prologue">
+        <stage>Prologus Paedagogi.</stage>
+        <sp who="#paedagogus">
+          <p>O Fili Agamemnonis, qui imperator quondam ad Troiam fuit: nunc licet coram ea, quae
+            semper expetiuisti, cernas. Veteres enim, quos requisiuisti, Argi hi sunt: lucus Inachi
+            furore extimulatae filiae. Hoc Lyceum forum est, Oreste, diui Lupicidae. At illud ad
+            dextram, templum inclytum Iunonis: Quo autem nunc aduenimus, opulentas scito te Mycenas
+            aspicere, &amp; exitialem hanc Pelopidarum domum: unde ego te olim de paterna caede
+            acceptum, a consanguinea tua atque germana, extuli, conseruaui, ad hoc aetatis eduxi, ad
+            ultionem paternae caedis. Quapropter nunc Oreste, tuque carissime hospes Pylade, quo
+            facto opus sit, mature deliberandum. Nam matutinae auium uoces clarae, splendidum solis
+            iam cient iubar: &amp; Atra sideribus nox deficitur. Itaque antequam domo quisquam
+            progrediatur, communicate sermones. Quippe eo loci uersamini, ut non cessandum magis,
+            sed ad opus accingendum esse uideatur.</p>
+        </sp>
+        <pb n="258"/>
+        <sp who="#orestes">
+          <speaker>Orestes</speaker>
+          <p>Ò mihi ministrorum omnium carissime, quam manifestis argumentis probas integritatem
+            erga nos tuam. Quemadmodum enim generosus equus, quamuis senuerit, ad nullos terrores
+            animo consternatur, sed astat arrecta aure: ita tu quoque, cum nos hortando incitas, tum
+            ipse inter primos ades. Itaque nunc tibi exponam consilia mea: tu autem solertem
+            auscultationem imperti orationi meae: ac si quid aberrare a uera ratione uidebitur,
+            corrige. Ego enim cum uenissem Delphos, petitum oraculum de poenis exigendis ab
+            interfectorib. patris mei: responsum dedit Apollo, id quod nunc audies: Mihi ipsi
+            imparato ab armis &amp; exercitu, furta paranda esse iustae caedis. Cum igitur oraculum
+            istud redditum sit, tu quidem fac opportuna ingressione cognoscas omnia, quae intra has
+            aedes geruntur, ut perspecta plane ad nos renunciare possis. Neque enim te agnoscent a
+            senio &amp; longo tempore, neque illum esse ita nunc decoloratum suspicabuntur. Erit
+            autem oratio tua huiusmodi: Esse te externum, Phocensem, missum a Phanoteo, cum quo
+            illis maxima iam post bellum depositum amicitia atque hospitium intercedit.
+            Iureiurandoque dato, <pb n="259"/> nuncium te esse dices mortis Orestis, quam ille
+            obierit uiolentam, cum in Pythico certamine de sella curuli decidisset. Atque in hoc
+            insistat narratio tua. Nos uero, ut imperatum est, primum busto paterno libaminib. &amp;
+            resectis mollibus capitis comis, coronato, mox deinde reuertemur huc, gestantes manibus
+            urnam aeream, quam scis inter sentes occultatam esse, ut sermone implicantes iucundos
+            rumores illis afferamus, de absumto flammis &amp; cinefacto corpore meo. Quid enim mihi
+            hoc molestiae attulerit, si uerbis mortuus, re quidem salute atque gloria potiar? Neque
+            mihi profecto quicquam, quod fructuosum sit, turpe dictu uidetur esse. Quin etiam
+            animaduerti, sapientes saepe, cum mors illorum falso nunciata fuisset, postea domum
+            reuersos, maiores honores consecutos esse. Similiter &amp; me confido, de hac fama mox
+            uiuum tanquam sidus appariturum hostibus meis. Nunc tu patria tellus, uosque Dei, sub
+            quorum numine haec loca sunt, suscipite me, feliciter ingressum hanc uiam. Tuque ô
+            paterna domus, quam ego repurgatum uindicta excitatus diuinitus aduenio. Ne me uos
+            dimittite ex hac terra inhonoratum, sed recuperatis opibus instauratorem domus no<pb
+              n="260"/> strae. Dixi quidem, quae uolui. Nunc tibi senex ingresso curae sit, ut quod
+            opus est serues. Nos uero abimus, nam tempus est: <emph>quod mortalibus maximo omnibus
+              in rebus praesidio esse solet.</emph></p>
+        </sp>
+        <sp who="#electra">
+          <speaker>ELECTRA.</speaker>
+          <p>Eheu me miseram.</p>
+        </sp>
+        <sp who="#paedagogus">
+          <speaker>PAEDA.</speaker>
+          <p>Equidem uideor fili, audisse ingemiscentem intus famulam.</p>
+        </sp>
+        <sp who="#orestes">
+          <speaker>OR.</speaker>
+          <p>Certe est infelix Electra. Vis expectemus illam, &amp; cognoscamus querimoniam?</p>
+        </sp>
+        <sp who="#paedagogus">
+          <speaker>PAED.</speaker>
+          <p>Minime. Nihil facere conemur prius, quam exequamur Apollinis mandata. Ab his ordiamur
+            opus, &amp; lauacra patri fundamus. Nam haec &amp; nobis uictoriam, &amp; actionum
+            firmitatem afferent.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>O lux alma, terramque aequiparans aer, quam multa querelarum mearum carmina, quamque
+            multas illisas cruentato pectori plagas percepisti, nox ubi iam praeteriit caliginosa.
+            Nam uigiliarum illius conscia sunt calamitosae domus inuisa cubilia, dum meum infelicem
+            lugeo patrem: quem non in solo barbaro alienauit sanguineus Mars, sed mea mater, &amp;
+            consors lecti Aegisthus, caput illius, ut solent qui ligna caedunt quer- cum, sic
+            funesta bipenne dissecuere. Neque ab ulla tibi pater, ita nefarie &amp; miserabiliter
+            interemto, tribuitur planctus, nisi a me. Ego tamen nunquam <pb n="261"/> finem faciam
+            luctuum &amp; questus grauis, dum quidem aspiciam micantium stellarum iubar, dumque hunc
+            diem aspiciam: quo minus quasi amissis pullis luscinia hic ante paternas fores
+            lamentabilem cunctis uocem accinam. O`Orci domus, Proserpinaeque. ô Mercuri terricola,
+            tuque Dira metuenda, uosque Erinnyes uenerandae diuûm filiae, quae respicitis pereuntes
+            iniuste, subsessoresque cubilium: adeste, opitulamini, uindicate caedem patris mei:
+            mihi´que adducite fratrem meum. Non enim diutius sustinere ualeo praependens onus
+            tristitiae.</p>
+        </sp>
+      </div>
+      <div type="scene" subtype="choral">
+        <sp who="#chorus">
+          <speaker>CHORVS.</speaker>
+          <p>Heu nata nata infeliciss. matris Electra, quam tu insatiabilem hic semper tabefacis
+            eiulationem, de quondam sublato fraude dolosae &amp; impiae matris Agamemnone, &amp;
+            prodito scelerata dextra. Vtinam intereat facinoris huius autor, si sic me fas est
+            loqui.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>O`generosorum patrum germina: adestis, consolationi futurae laboranti mihi. Scio hoc,
+            &amp; ipsa intelligo, non me fugit: neque uolo tamen hoc dimittere, quo minus de- plorem
+            infelicem patrem meum. Sed agite ô in amoris gratissimo studio officiosissimae, sinite
+            me ad istum modum indulgere dolori meo. Ah, ah. perij.</p>
+        </sp>
+        <sp who="#chorus">
+          <speaker>CHOR.</speaker>
+          <p>Non tu tamen certe de Orci omnium <pb n="262"/> communi palude patrem, neque questibus
+            neque precib. reduxeris. Nunc nullo cum modo, immenso in dolore eiulando consumeris, in
+            quibus nulla est malorum remissio. Quae uero haec est cupiditas rerum intolerabilium
+            tua?</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Stultus est, qui obliuiscitur miserabilis parentum interitus. Sed meo cum animo querula
+            congruit auicula, nuncia Iouis, quae semper Ityn dolens, ltyn luget. O` afflicta Niobe,
+            te Deum facio ego, rupis in busto ah ah quae lacrimaris.</p>
+        </sp>
+        <sp who="#chorus">
+          <speaker>CHOR.</speaker>
+          <p>Haud tibi uni mortalium, filia mea, malum oblatum est. Nunc tu in hoc superas omnes,
+            qui intus &amp; in hoc tecum genere atque sanguine coniunguntur. Non enim haec uita
+            Chrysothemidos, non Isphianassae, non illius qui occulta in adolescentia moeret.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Beatus ille, quem inclita aliquando tellus Mycenaea, generosum Oresten, laeto Iouis
+            solio accipiet reuersum in hanc terram. Quem ego enixissime opperiens, pereo indies
+            misera, sine liberis, sine marito, lacrimis madens, in fato infinitorum malorum. At ille
+            obliuiscitur &amp; beneficij mei, &amp; mandatorum. Quibus enim non ab illo nuncijs
+            frustramur? Ac ille quidem desiderat semper, sed desiderans apparere non uult.</p>
+        </sp>
+        <sp who="#chorus">
+          <speaker>CHO.</speaker>
+          <p>Bono animo, animo bono esto, fi<pb n="263"/> lia mea. Est magnus in coelo Iupiter, qui
+            uidet atque moderatur haec omnia. Huic tu concedens infensi animi dolorem immodicum,
+            neque nimis impatienter fer, neque obliuiscere iniurias hostium. Tempus enim numen
+            facile. Non enim filius Agamemnoni des, qui nunc Crissae pascuum tenet littus, reditum,
+            neque Acherontis regno potiens Deus respectum omittet.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>At me bona iam pars uitae praeter spem deficit. Neque magis iam uires suppetunt mihi,
+            quae parentum expers contabesco, omnium praesidio amicorum destituta. Ac ueluti
+            inquilina humilis paternos colo thalamos: hoc cum indigno ornatu, mensaeque assistens
+            inani.</p>
+        </sp>
+        <sp who="#chorus">
+          <speaker>CHOR.</speaker>
+          <p>Flebilis illa uox reditus, flebilis illa in cubilibus paternis, cum aeratae aduersa
+            tibi inflicta est securis plaga. Fraus consuluit, amor interfecit, horrenda horribiliter
+            forma praestituta: siue hoc deorum siue hominum alicuius est facinus.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>O` magis quam ulla omnium inuisa orta dies mihi. O` nox. O` ingentes labores infandae
+            coenae. Quas uidit pater meus indi gnas mortes geminae manus, quib. euersa mea per
+            proditionem uita est, quibus ego perdita sum: ut illis coelestis Deus merita supplicia
+            immittat, neque concedat frui laetitiis, qui talia facinora perpe<pb n="264"/>
+            trarunt.</p>
+        </sp>
+        <sp who="#chorus">
+          <speaker>CHOR.</speaker>
+          <p>Vide ne plus aequo loquaris. An non sentis, unde in praesentia in peculiaria detri-
+            menta delabaris, tam indignum in modum? plurimum enim tibi mali ipsa peperisti, dum
+            semper iracundo animo tuo inimicitias quaeris. <emph>Atqui cum potentiorib. contentiose
+              uersari non oportet.</emph></p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Magnitudo mali cogit me. scio, agnosco iram: uerum tantis in malis nunquam uitabo
+            periculum, dum uita manebit. A` quo enim posthac, ô dilectum genus, audiam dictum
+            benignum? a quo, qui praeditus sit opportuno sensu? Missam me, missam facite
+            consolatrices. Eiusmodi enim sunt haec, ut absolui nequeant. Neque ego unquam acquiescam
+            a labore, innumerabilib. in questibus.</p>
+        </sp>
+        <sp who="#chorus">
+          <speaker>CHO.</speaker>
+          <p>At enim haec studium erga te meum uerba exprimit, <emph>ut te moneam tanquam fida
+              mater, ne addas malis malum.</emph></p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Quis modus est infelicitatis? Age, probanda`ne mortuorum neglectio? In ullo`ne hoc
+            mortalium insitum est? At ego ne honorem quidem a talibus consequar. Neque si quid boni
+            assit, eo potiar ociosa, parentum praeteruolans acutisoni luctus honores. Nam si ille
+            mortuus puluis, et iam nihil sit: isti uero caede uicissim sua non dederint poe↵ nas:
+            quis reliquus pudor, quae pietas esse reliqua in <pb n="265"/> terra perhibebitur?</p>
+        </sp>
+      </div>
+      <div type="scene" subtype="episode">
+        <sp who="#chorus">
+          <speaker>CHO.</speaker>
+          <p>Ego quidem, mea filia, &amp; tua atque etiam mea causa adueni. Quod si minus rite
+            fabulor, tu sane uince. nam tibi nos obsequemur.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Pudet me profecto, matres, uideri me uobis, nimis multis questib. conflictari. At enim
+            necessitas ad hoc me adigit. Ignoscite. Quae enim generosa mulier hoc non fecerit, in
+            paternae calamitatis consideratione? quam ego dies noctesque magis augeri, quam
+            decrescere, animaduerto. Cui quidem omnia primum a matre, quae me peperit, inimicissima
+            offeruntur: deinde ego intra meas aedes cum interfectoribus paternis uersor. Horum
+            potestati subiecta sum, a quibus idem mihi est siue quo potiar, siue frustrer. Iam
+            qualem me degere illos dies existimas, quibus aspicio Aegisthum sedentem in solio
+            paterno, gestantem eadem quae ille uestimenta: libantem Dijs penatib. in quorum hunc
+            conspectu interemisset: cumque uideo autorem necis cubile ascendere patris mei, una cum
+            infelice matre: si matrem tamen hanc appellare fas est, quae cum illo cubet, quam ego
+            summam esse duco atque ultimam petulantiam. Sed huius tanta est amentia, ut cum
+            parricida se coniungat, ne Erinnyn quidem pertimescens: uerum quasi in scelere laeta,
+              redeun<pb n="266"/> te eo die quo olim fraudulente obtruncauit patrem nostrum, choros
+            instituit, &amp; dijs seruatoribus rem diuinam facit, &amp; menstruas caedit uictimas.
+            At ego haec cernens intra aedes misera ploro, tabesco, prosequor lamentis illam, ut
+            dicebatur, coenam calamitosam patris, ipsa quidem mecum: neque enim tantum fletum edere
+            licet, quantum lubet, cupioque animo meo. Illa enim praeclara uerbis mulier, me
+            inclamans, contumeliosis incessit dictis: rogitatque, cum quidem Deorum odium appellet,
+            an pater uni mihi interierit? An nemo omnium luget, inquit, mortalium praeter te? Male
+            pereas, neque unquam finem dent dij inferi huius eiulatus tui. Hac illa procacitate
+            exultat. Verum si forte audiuit nuncium reditus Orestis, tum uero uesana occurrit atque
+            clamat: Horum tu caussa mihi, hoc facinus tuum est, quae, ereptum manibus meis Orestem
+            clam curasti exportandum. Sed scito te dignum supplicium persoluturam esse. Ita
+            latrantem, tum assistens egregius ille maritus incitat atque instigat: in quo ne
+            tantulum quidem fortitudinis inest. Ille uniuersa pernicies nostra, qui foeminis sociis
+            ad praelia utitur. At ego opperiens perpetuo Orestem, qui aduentu suo finem his malis
+            imponat, consu<pb n="267"/> mor misera. Dum enim contatur, semperque aliquid facturus
+            est, corrumpit ille praesentem absentemque spem meam. Inter haec, carissimae mulieres,
+            neque possum ego moderari mihi, neque pietatem colere: sed in malis omnino necesse est
+            me usurpare mala.</p>
+        </sp>
+        <sp who="#chorus">
+          <speaker>CHOR.</speaker>
+          <p>Age dic nobis, loquere´ne ista cum prope alicubi assit Aegisthus, an domo ille
+            abest?</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>ELE.</speaker>
+          <p>Certe. Neque enim ante ostium hic uersaturam me fuisse putes, si ille adesset. Nunc
+            autem ruri est.</p>
+        </sp>
+        <sp who="#chorus">
+          <speaker>CHOR.</speaker>
+          <p>Sic quidem ego uerba tecum facere magis ausim, haec si uera memoras.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Ergo, ut absente illo, loquere quicquid uis.</p>
+        </sp>
+        <sp who="#chorus">
+          <speaker>CHOR.</speaker>
+          <p>Rogo te, lubet enim scire, quid ais de aduentu aut mora fratris tui?</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Promittit quidem, sed non praestat etiam.</p>
+        </sp>
+        <sp who="#chorus">
+          <speaker>CHOR.</speaker>
+          <p>Ita facere solent, ut nequaquam festinent, qui magnas res aggrediuntur.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>At illum ego festinanter eripui leto.</p>
+        </sp>
+        <sp who="#chorus">
+          <speaker>CHOR.</speaker>
+          <p>Bonum habe animum: probus ille est, neque suos deseret.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Ita quidem confido. aliter enim me uiuam non diu uideres.</p>
+        </sp>
+        <sp who="#chorus">
+          <speaker>CHOR.</speaker>
+          <p>Nihil iam dicas amplius. Nam conspicor sororem tuam Chrysothemin, uno prognatam patre
+            atque matre, progredientem foras, portantemque sepulcralia dona, qualia mortuis tribui
+            solent.</p>
+        </sp>
+        <sp who="#chrysothemis">
+          <speaker>CHRYSO.</speaker>
+          <p>Quid tu nunc <pb n="268"/> iterum hic ante uestibuli ianuam, mea soror uociferaris?
+            Neque te pateris longum saltem diem perdocere, ne frustra stolido animo obsequi uelis.
+            Ipsa quidem mihi sum conscia, quantum dolorem capiam e praesenti fortuna nostra: sique
+            uires suppetant, declarem quo erga illos sim animo. Nunc uero placet, in malis dare uela
+            uentis: neque uideri agere aliquid, cum illi tamen nihil damni sentiant. Atque te
+            similiter facere uelim. &amp; si tua sententia, quam oratio mea, iustior est. Verumtamen
+            si, ut libera dignum est uirgine, uiuere debeo, parendum esse prorsus ijs qui rerum
+            potiuntur, intelligo.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p><emph>Scelus est, eius te patris, qui te genuit, obliuisci, &amp; inseruire
+              matri.</emph> Hae enim omnes monitiones, quibus erga me usa es, ab illius doctrina,
+            non ex te nascuntur. Nam ego tibi optionem do, ut aut te esse ingenio malo, aut si non
+            sis, obliuisci carissimorum fatearis: quae modo aiebas, declaraturam te, quantopere hos
+            odisses, uires si suppetant: neque me tamen, quae omnia paro ad patris uindicta, ulla in
+            re adiu↵ uas, ac potius conantem auersaris. An non haec <emph>accessionem habent
+              malorum, ignauiam?</emph> Proinde uel me doceas, uel ex me discas, quem fructum
+            allatura mihi sit intermissio lamentorum. Vitam <pb n="269"/> equidem dego tristem,
+            satis scio: sed nihil requiro tamen. Istos autem molestia afficio, qui honor mortui est:
+            si quidem illic quoque gratia est. Tu uero, quae te odisse istos ais, odisti uerbo, re
+            ipsa familiaris interfectoribus patris. Ego profecto nunquam ne ijs quidem muneribus
+            affecta, quibus tu delicata es, remisero animum. Tibi apponatur mensa copiosa, &amp;
+            abundet uictus: mihi sit modo alimentum, unde absit dolor. neque me unquam incesset
+            cupido potiundae tuae fortunae. Neque te illa delectaret, si frugi esses. Nunc cum
+            liceat perhiberi te optimi patris filiam, dicitor sane matris: ita enim plurimis improba
+            uidebere, quae &amp; patrem mortuum &amp; tuos prodideris.</p>
+        </sp>
+        <sp who="#chorus">
+          <speaker>CHOR.</speaker>
+          <p>Caue, per Deos immortales, ne quid irata facias. Nam utiliter certe haec dicuntur, si
+            tu &amp; ijs quae ista affert, rursumque tuis haec uti uelit.</p>
+        </sp>
+        <sp who="#chrysothemis">
+          <speaker>CHRYS.</speaker>
+          <p>Ego, matres, assueta dudum sum, huiusmodi ab hac audire. Neque horum fecissem mentionem
+            ullam, nisi intellexissem ingens aduersus eam moueri malum, quo quidem cohercebuntur
+            diuturni eiulatus ipsius.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Age dic, quid tam horendi est mali? non enim refragabor, si quod maius his ipsis
+            commemoraueris.</p>
+        </sp>
+        <sp who="#chrysothemis">
+          <speaker>CHRYS.</speaker>
+          <p>Omnia quae noui, eloquar. Nisi enim <pb n="270"/> finem feceris istorum lamentorum, hoc
+            agitur, ut illo deducaris, ubi solis nunquam aspicias uidebar, ubique uiua tenebrosa in
+            domo extra hanc terram celebres mala tua. Ad haec accommodes consilia tua, ne afflicta
+            postmodo mihi succenseas. Nunc enim rectum fuerit, adhibere prudentiam.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>ELEC.</speaker>
+          <p>Est'ne ita, ut decreuerint haec in me peragere?</p>
+        </sp>
+        <sp who="#chrysothemis">
+          <speaker>CHRYSO.</speaker>
+          <p>Cum primum quidem Aegisthus domum redierit.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Huius igitur rei gratia reuertatur ille sane celeriter.</p>
+        </sp>
+        <sp who="#chrysothemis">
+          <speaker>CHRYS.</speaker>
+          <p>Quid nunc tu tibi infelix ipsi imprecare?</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>ELE.</speaker>
+          <p>Ille ut mox adueniat, si quidem quod narras facere cogitat.</p>
+        </sp>
+        <sp who="#chrysothemis">
+          <speaker>CHRYS.</speaker>
+          <p>Vt tibi eueniat, quid nam ergo? Quid tibi quaeso animi est?</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>A` uobis ut quam longissime exulem.</p>
+        </sp>
+        <sp who="#chrysothemis">
+          <speaker>CHRYS.</speaker>
+          <p>Neque tibi haec uita cordi est?</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>ELE.</speaker>
+          <p>Egregia scilicet mea uita est, &amp; admirabilis.</p>
+        </sp>
+        <sp who="#chrysothemis">
+          <speaker>CHRYS.</speaker>
+          <p>Erat quidem, si tu boni consulere scires.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Ne tu mihi praecipias, ut erga carissimos improba sim.</p>
+        </sp>
+        <sp who="#chrysothemis">
+          <speaker>CHRYS.</speaker>
+          <p>Non ego hoc praecipio, sed potioribus te concedere.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Esto igitur commoda: nos aliter sumus.</p>
+        </sp>
+        <sp who="#chrysothemis">
+          <speaker>CHRYS.</speaker>
+          <p>Attamen bonum est, non ruere per stultitiam.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>ELE.</speaker>
+          <p>Ruamus, si ita necesse est: sed in patris ultione.</p>
+        </sp>
+        <sp who="#chrysothemis">
+          <speaker>CHRYS.</speaker>
+          <p>Ipse, scio, pater horum dat ueniam no<pb n="271"/> bis.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>ELEC.</speaker>
+          <p>Hanc laudare orationem, improborum fuerit.</p>
+        </sp>
+        <sp who="#chrysothemis">
+          <speaker>CHRYS.</speaker>
+          <p>Non ergo parebis, neque obsequêris mihi?</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Non uero. namque si faciam, uecordissima sim.</p>
+        </sp>
+        <sp who="#chrysothemis">
+          <speaker>CHRYS.</speaker>
+          <p>Pergo igitur, quo missa sum.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Sed quo abis? aut quo haec fers sacra?</p>
+        </sp>
+        <sp who="#chrysothemis">
+          <speaker>CHR.</speaker>
+          <p>Misit me mater, ut libamina affunderem patris busto.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Quid ais? Illam´ne ad bustum omnium inimicissimi hominum?</p>
+        </sp>
+        <sp who="#chrysothemis">
+          <speaker>CHRYS.</speaker>
+          <p>Quem quidem obtruncauerit ipsa. hoc enim dicere uis.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Quis amicorum suasit? Quis censuit?</p>
+        </sp>
+        <sp who="#chrysothemis">
+          <speaker>CHR.</speaker>
+          <p>Mota terrore quopiam nocturno, ut mihi uidetur.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>O` Dij patrii: at nunc uos saltem succurrite.</p>
+        </sp>
+        <sp who="#chrysothemis">
+          <speaker>CHR.</speaker>
+          <p>Quam fiduciam de hoc illius habes metu?</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Si uisum memores, tum dicam.</p>
+        </sp>
+        <sp who="#chrysothemis">
+          <speaker>CHR.</speaker>
+          <p>At nescio, nisi quod aliquantulum percepi.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p><emph>At hoc memora aliquantulum. Saepe breues sermones plurimum &amp; profuere, &amp;
+              obfuere mortalibus.</emph></p>
+        </sp>
+        <sp who="#chrysothemis">
+          <speaker>CHR.</speaker>
+          <p>Fertur illa uisa esse uidere secum reuersum in uitam coniungi denuo tuum meumque
+            parentem. Tum sceptrum intra aedes hunc, quod olim gestasset, nunc fert Aegisthus, hoc
+            igitur sceptrum accepisse, &amp; defixisse: ibi ex eo pululasse laetum germen, quo tota
+            Mycenarum obumbraretur tellus. Haec inaudiui de quodam, qui forte affuit, <pb n="272"/>
+            cum ad Solem illa referret somnium suum: praeterea nihil scio, nisi quod huius metus
+            gratia ab ea nunc mittor.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Nunc ego te per deos autores generis nostri obtestor, ut morem mihi geras, neque labi
+            incogitantia uelis. Si enim nunc repudiaueris me, mox frustra requires. Sed mea tu,
+            nihil horum quae manibus portas, ad bustum applices. neque enim hoc te fas facere: neque
+            impietate caritura res est, si inferiae ab inimica foemina factae, aut lauacra oblata
+            sint. Tu uero haec aut in uentos effunde, aut profundo occule solo, ne quid horum unquam
+            sepulcrum attingat patris. Sed ipsi haec recondita infra sint, cum aliquando mortem
+            oppetierit. Omnino autem, nisi amentissima foemina omnium orta esset, his inuisis
+            libaminibus nunquam redimiret eum quem ipsa interemisset. Vide enim, an putandum sit,
+            libenter hos ab illa admissurum sepultum honores mortuum, quem caesum contumeliose
+            tanquam hostem mutilauit, &amp; labem capite loto abstersit. Nunquid existimas haec
+            caedis illi absolutionem afferre posse? Non ita est. Ac tu quidem ista omitte:
+            incidensque potius capillorum de capite tuo extimas comas, atque etiam miserae de meo,
+            haec exigua, sed quorum quidem copia est, offer illi, <pb n="273"/> minime splendidum
+            crinem, itemque cingulum meum non spectabili sane operee laboratum. Deinde precare humi
+            strata, ut propitius nobis adesse, auxiliumque ferre uelit contra hostes nostros: utque
+            puer Orestes de ualidiore manu hostes ipsius calcare pedibus possit, quo plenioribus
+            posthac manib. quam nunc muneramur, ornare liceat. Equidem nostro illum quoque respectu
+            immisisse huic tam tristia in somnis uisa arbitror. Tu tamen nihilo secius, mea soror,
+            effice hoc mihi tibi´que futurum auxilio, inque gratiam cariss. omnium mortalium apud
+            Orcum siti communis parentis.</p>
+        </sp>
+        <sp who="#chorus">
+          <speaker>CHOR.</speaker>
+          <p>Plena est pietatis oratio uirginis: sique frugi es, mea tu, haec exequêris.</p>
+        </sp>
+        <sp who="#chrysothemis">
+          <speaker>CHR.</speaker>
+          <p>Exequar. <emph>Non enim in re probata disceptationi magis locus, sed factum
+              maturandum</emph> est. Sed carissimae mulieres, tegite silentio uestro conatum huc
+            meum. Nam si genitrix haec resciscat, per acerbum hoc, nisi fallor, periculum
+            fecero.</p>
+        </sp>
+      </div>
+      <div type="scene" subtype="choral">
+        <sp who="#chorus">
+          <speaker>CHO.</speaker>
+          <p>Nisi ego uana auguror, animi defecta intelligentia, profecto adest praeuisa ultio,
+            gestans robur iusticiae manibus suis. Non diu aberit, ô filia. Hanc fiduciam de
+            gratissimo somnii nuncio capimus. Nequaquam enim cessat immemor pater, Graeciae
+            imperator: neque illa etiam aericrepa anceps <pb n="274"/> bipennis, quae hunc per
+            scelestissimam iniuriam trucidauit. Veniet multipes, multimanus, ferrigrada Erinnys,
+            quae nunc infestis occultatur insidijs. Nam illa incestos &amp; impios cruentarum nu-
+            ptiarum congressus contra fas omne appetiuit. Atque sum in certa spe, nunquam cariturum
+            esse somnij huius portentum, reprehensione illorum erga nos, qui agendo, quique agentes
+            adiuuando, eis aduersamur. Vel nihil est, quod homines de conster- nantibus animos in
+            quiete uisis coniecturae facere possint, si non illa huius noctis feliciter ceciderint.
+            O`Pelopis prisca laboris plena aurigatio, quantum luctum attulisti patriae nostrae? Ex
+            quo enim protinus deturbatus infelicem per uim de aurato curru in mare, consopitus fuit
+            Myrtilus: nunquam deinde in hac familia laboriosa cessauit iniuria atque uiolentia.</p>
+        </sp>
+      </div>
+      <div type="scene" subtype="episode">
+        <sp who="#clytaemnestra">
+          <speaker>CLYTAEMNESTRA.</speaker>
+          <p>Rursum libere, ut uideo, uagaris: quippe cum absit Aegisthus, qui soleret te continere
+            domi, ne foris dedecus conciliares tuis. Nunc ille cum non assit, nihil scilicet mei
+            respectu moueris. Neque me clam est, apud multos te multum de me conqueri, atque
+            accusare graue &amp; uiolentum imperium, atque contumelias erga te &amp; res tuas. Ego
+            uero scio, me a con<pb n="275"/> tumelia, qua tu afficiaris, abesse: sed inclementer
+            tibi dicere, cum itidem a te audiam, non nego. Ac patrem me tuum, hoc enim solum
+            perpetuo exprobras, me inquam inter fecisse iactitas. Haud ego ignoro, neque inficias
+            eo. Nam uindicta hunc debita euertit, non ego: quam te, si saperes, confirmare oportuit.
+            Ille enim pater tuus, quem continenter deploras, solus Graecorum, omnium non dubitauit
+            immolare dijs sororem tuam: uidelicet, cum minime tantum sensisset molestiae ipse in
+            suscipiendo, quantum in enitendo ego. Age, uolo ego de te discere: quamobrem, cuius
+            gratia, illam immolarit? Dices, Argiuorum. At non erat, quare horum caussa mea necaretur
+            filia. Sed datum hoc est fratri Menelao. Cum ille igitur meam necasset, non debuit dare
+            poenas mihi? Nunquid Menelao erant bini liberi? quos quidem multo fuerat aequius mortem
+            oppetere, cum essent eius patris, &amp; matris illius, cuius ea nauigatio parabatur
+            gratia. An Orcus meos potius liberos, quam illius, conficere concupiuit? An potius patri
+            exitioso amor erga eos, quos ego peperissem, deferbuerat, sed flagrabat erga Menelaum?
+            Vides, quanta de his appareat patris tui uecordia, atque improbitas. Summa profecto, <pb
+              n="276"/> ut mihi uidetur: quamuis tua sententia nequaquam suffragetur. Illa tamen
+            quae tum interijt, si loqui posset, idem diceret. Ego sane ob facinus hoc non perturbor
+            animo. Quod si tibi in proposito recto male consuluisse uideor, age nos coram
+            reprehende.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Non potes nunc quidem certe dicere, quod odiosa oratione prouocata, haec in me dixeris.
+            Quod si permittis, experiar &amp; pro mortuo patre, &amp; de sorore respondere, quae par
+            fuerit.</p>
+        </sp>
+        <sp who="#clytaemnestra">
+          <speaker>CL.</speaker>
+          <p>Sane permitto. Tuque si talibus semper erga me exordijs uti uelles, non odiose
+            obstreperes mihi.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Tibi igitur ego dicam. Confiteris a te interemtum patrem meum. Quae´nam ergo oratio
+            haberi posset hac impudentior? siue ille iure, siue iniuria est interfectus. Ego uero
+            hoc affirmo, non te illum iure interemisse: sed inductam blanditijs &amp; suasionib.
+            scelerati uiri, cum quo nunc uiuis. Tu uero interroga uenatricem Dianam, cuius
+            commerito, uim uentorum in Aulide concitauerit. uel uis, cum ex illa audire fas non sit,
+            de me cognoscere? Pater quondam, ut audio, meus, cum oblectaret se in Diuae luco,
+            exagitat cursu uarium cornigerum ceruum. Quo confixo, fertur gloriando nescio quod
+            uerbum effutiisse. obque illud irata Latonia uirgo, Achiuos de<pb n="277"/> tinebat,
+            donec pater suam pro fera redditam immolaret natam. Hoc fuit sacrificium illius, cum
+            alia nulla potestas fieret exercitui, neque reditus in patriam, neque profectionis ad
+            Ilium. Itaque ille multa aggressus, diuque reluctatus, uix tandem, minime quiden Menelao
+            gratificans, mactauit eam. Iam, uenio enim ad tua, faciamus hac re patrem prodesse
+            Menelao uoluisse: Ideo´ne igitur iugulari a te hunc oportuit? Quo'nam quaeso iure? Vide,
+            ne hac lege perlata, tibi ipsi malum &amp; poenitentiam feras. Nam si alius alium
+            ulciscens, ipsi nos mutuo trucidare debeamus: tibi quidem primum omnium intereundum sit,
+            si praemium dignum factis tuis inuenias. Verum tu, ut uideo, praetendis quod nihil est.
+            ostende enim, si libet, qua de causa nunc etiam in turpissimo flagitio perseueres? Quae
+            &amp; cubas cum parricida, quo socio disperdidisti patrem meum: &amp; ex illo liberos
+            producas in lucem, priores autem castos &amp; sanctae originis exulare cogas. Haeccine
+            ego laudabo? Vel dices, ob filiae caedem hanc quoque te poenam exigere? profecto
+            turpiter dicetur, si quidem dixeris. Non enim certe honestum, propter filiam nuptias
+            inimicorum expetere. Sed tu nullam admittis castigationem, inperpetua querela de male
+              <pb n="278"/> dictis meis, quibus matrem incessam. Ego tamen non minus te dominam,
+            quam matrem meam esse duco. Quae miseram uitam dego, tuaque &amp; comparis tui opera in
+            malis sum infinitis. At alier qui aegre euasit manum tuam, calamitosus Orestes, tristem
+            ducit uitam: quem tu saepe enutrire me in caedem tuam criminaris. Idque facerem equidem,
+            si liceret. Neque enim dissimulandum puto. Atque huius gratia proclamato sane siue
+            improbitatem, siue procacitatem, siue impudentiam meam. Quod si maxime his uitijs
+            obnoxia sum, non tuam quidem dedecoro naturam.</p>
+        </sp>
+        <sp who="#chorus">
+          <speaker>CHO.</speaker>
+          <p>Video ardere illam iracundia: sed an iure fiat, considerationem nullam uideo.</p>
+        </sp>
+        <sp who="#clytaemnestra">
+          <speaker>CL.</speaker>
+          <p>Quid mihi uero erga hanc consideratione opus: cum ad istum modum in hac aetate
+            genitricem suam incessat? Non´ne credis profligato eam pudore ausuram quiduis?</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Equidem ob haec facta, crede mihi, pudore, quamuis tu non arbitreris, afficior. Neque
+            me fugit, ea me agere, quae et abhorrentia, &amp; indecora sint aetati meae. Sed enim
+            odium me tui, &amp; facinora tua ad haec agenda ui adigunt. <emph>Etenim turpitudo
+              actionum turpium magistra est.</emph></p>
+        </sp>
+        <sp who="#clytaemnestra">
+          <speaker>CL.</speaker>
+          <p>O` impudentem sobolem. Scilicet ego, meaque &amp; dicta &amp; facta, sic te <pb n="279"
+            /> uerbosam esse docent.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>ELEC.</speaker>
+          <p>Hoc tu loqueris, haud ego. Tuum enim istud opus est: <emph>Res autem facile uerba
+              inueniunt.</emph></p>
+        </sp>
+        <sp who="#clytaemnestra">
+          <speaker>CL.</speaker>
+          <p>At ita mihi propitia sit domina Diana, ut poenam es datura huius audaciae, cum primum
+            redierit domum Aegisthus.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Viden’? lra iam concitaris, cum permiseris mihi loqui quae uellem, neque tu scis
+            audire.</p>
+        </sp>
+        <sp who="#clytaemnestra">
+          <speaker>CL.</speaker>
+          <p>Non igitur, cum permiserim tibi loqui quiduis, ne dum adoleo quidem haec, fauebis
+            ore?</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Et sino &amp; iubeo te adolere: neque meum tu os accuses, neque ego uerbum amplius
+            factura sum.</p>
+        </sp>
+        <sp who="#clytaemnestra">
+          <speaker>CLY.</speaker>
+          <p>Heus tu, admoue sacra adorea, Regi huic, ut ab hoc petam formidinis qua teneor
+            auersionem. O` Phoebe praeses aedium, exaudi occultam orationem meam, nam haud coram
+            beneuolis proferretur: neque hoc loco omnia in lucem producenda sunt, cum ista prope
+            assit: ne inuidioso &amp; loquace clamore dispergat toti ciuitati non necessarios
+            rumores. Ita igitur me exaudi, itaque ego memorabo, rex Tycie, ut, si uisa duorum
+            praeteritae noctis somniorum bonum portendunt, euentum procures: sin contraria sunt, in
+            hostes conuertas: neque sinas procedere illorum conatus, si qui forte sunt, qui
+            expellere de praesenti me opulentia insidiose moliuntur. Sed <pb n="280"/> da, ut hoc
+            uitae incolumis tenore, &amp; teneam domum regnumque hoc Atridarum, &amp; amore atque
+            consuetudine meorum fruar: ut´que iucundos agam dies cum liberis meis, quorum quidem a
+            me non sunt alienae uoluntates, neque acerbae mihi molestiae. Haec ô Lycie Apollo
+            benigne exaudi, daque omnibus nobis quod precamur: reliqua uero uniuersa <emph>te, qui
+              quidem Deus sis, nouisse, aequum esse iudico. Nam Iouis genus, cuncta cernere
+              existimandum.</emph></p>
+        </sp>
+        <sp who="#paedagogus">
+          <speaker>PAEDAGOGVS.</speaker>
+          <p>Quis me reddit certiorem, hospitae, utrum hae sint aedes regis Aegisthi?</p>
+        </sp>
+        <sp who="#chorus">
+          <speaker>CHO.</speaker>
+          <p>Hae sunt, hospes: recte tu coniecturam fecisti.</p>
+        </sp>
+        <sp who="#paedagogus">
+          <speaker>PAE.</speaker>
+          <p>Num recte &amp; hanc coniugem illius esse conijcio? Is enim ornatus est, qui Reginam
+            decet.</p>
+        </sp>
+        <sp who="#chorus">
+          <speaker>CHO.</speaker>
+          <p>Maxime: haec tibi illa praesens adest.</p>
+        </sp>
+        <sp who="#paedagogus">
+          <speaker>PAED.</speaker>
+          <p>Salue Regina: aduenio cum iucundo nuncio, quod tibi Aegistho ab amico uestro
+            mittitur.</p>
+        </sp>
+        <sp who="#clytaemnestra">
+          <speaker>CL.</speaker>
+          <p>Accipio omen. Sed primum hoc mihi edissere, quis te mortalis huc misit?</p>
+        </sp>
+        <sp who="#paedagogus">
+          <speaker>PAE.</speaker>
+          <p>Phanoteus Phocensis, rem significans magnam.</p>
+        </sp>
+        <sp who="#clytaemnestra">
+          <speaker>CL.</speaker>
+          <p>Quam, hospes? Non enim dubium est, quin ab amico afferas gratum nuncium.</p>
+        </sp>
+        <sp who="#paedagogus">
+          <speaker>PAE.</speaker>
+          <p>Orestes mortuus est, ut dicam breuiter.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Heu me miseram. Hic me dies perdidit.</p>
+        </sp>
+        <sp who="#clytaemnestra">
+          <speaker>CL.</speaker>
+          <p>Quid ais hospes, quid ais? ne huic auscul<pb n="281"/> tes.</p>
+        </sp>
+        <sp who="#paedagogus">
+          <speaker>PAE.</speaker>
+          <p>Et dixi, &amp; nunc dico, mortuum esse Orestem.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Perij misera, nulla sum.</p>
+        </sp>
+        <sp who="#clytaemnestra">
+          <speaker>CL.</speaker>
+          <p>Tu quidem tuam rem gere. Sed quaeso, hospes, expone certo genus etiam mortis
+            illius.</p>
+        </sp>
+        <sp who="#paedagogus">
+          <speaker>PAED.</speaker>
+          <p>Ego &amp; ad hoc missus sum, &amp; explicabo omnia. Cum enim uenisset in celebrem
+            Graeciae locum, ut ludis &amp; certamini Delphico interesset, ubi audiuit praeconis
+            altam uocem, cursores citantis, de quib. primum iudicium futurum erat, processit ille
+            cum splendore, &amp; omnium qui aderant, admiratione. Neque secus quam corpore
+            placuerat, decurso spacio, cum honore &amp; praemio uictoriae discessit. Et, ut de
+            multis pauca memorem, similes in alio uires &amp; facta non cognoui unquam. Hoc igitur
+            unum dixero, omnium certaminum repetiti cursus, quod quinquercium de more peragitur, cum
+            illa praesides proclamari iussissent, praemia eum uictorem tulisse, cum uno omnium ore
+            beatus, &amp; in praeconio Argiuus nomine Orestes appellaretur, filius Agamemnonis, qui
+            illum inclitum exercitum Graeciae coegisset. Atque ita haec quiden gesta sunt. <emph>Cui
+              uero diuinitus noxa obijcitur, nullius robur tantum est, ut is malum effugere
+              possit.</emph> Nam idem postridie, cum orto sole curule certamen institue<pb n="282"/>
+            retur, processit in medium cum alijs aurigis multis. Vnus erat Achiuus, unus Spartanus,
+            duo Afri quadrigas agere docti. Ipse post hos cum equis Thessalicis quintus erat, sextus
+            cum flauis equis Aetolus: septimus de Magnesia, octauus uero albis cum equis Aenian
+            gente, nonus quem Athenae deorum urbs miserat, decimum autem locum complebat Boeotius
+            quidam. Hi ubi constiterant paratis currib. quo quemque loco sors ducta a certaminis
+            curatoribus constituerat: mox dato signo tuba uniuersi prorumpunt, &amp; inclamatis
+            equis laxant habenas manibus, totumque erat curriculum plenum strepitu plausuque
+            curruli, &amp; puluis in coelum ferebatur. Iamque confusi omnes inter se, haud parcebant
+            stimulis, dum quisque suum currum, suorumque spiritus equorum primos esse cupit. Simul
+            enim terga &amp; rotarum curricula, equorum spumante anhelitu tangebantur. At ille sub
+            extima columna implicans rotam, dextro equo exterius dimisso, attrahebat interiorem. Ac
+            hactenus quidem integri remanserant currus omnes. cum uero effrenes Aenianis equi impetu
+            elati iam sextum septimumque ambitum conficerent, ibi frontem in recursu impingunt
+            uehiculis Barcaeis: tum uero <pb n="283"/> alius ab uno hoc malo, alium frangere, &amp;
+            ipse corruere: erat´que totus Crissaeus campus refertus curulibus naufragijs. Hoc
+            praeuiso, callidus agitator Atheniensis, reflectit equos, &amp; cursum inhibet,
+            praeteritque aestuantes in medio fluctus equestres. Sed Orestes postremus quidem,
+            secundos tamen agebat quadriiuges, in bona spe exitus. Qui ubi illum solum reliquum
+            uidet, alto auribus uelocium equorum clamore incusso, persequitur. &amp; iam aequatis
+            iugis, agebant huc illuc, sic, aliter, currus, alternis capita de illis protendentes. Ac
+            omnes quidem alios cursus, miser, incolumis saluoque curru peregerat: cum iam equi
+            flectentis laeuam soluens habenam, non praeuisam in columnam unam impingit, &amp;
+            conminuit in medio axe cauam rotam: tum de curru delabitur, &amp; loris equorum
+            implicatur: quadrijuges autem, ipso ruente, in medio spacio dissipantur. Qui autem
+            conuenerant ad spectaculum, ubi uident corruisse adolescentem, lamentis illum prosecuti,
+            deplorare calamitatem ipsius in tali conatu, cum raptaretur per terram saepe cruribus in
+            coelum erectis, dum magistri curruum aegre tandem equorum impetum continerent, &amp;
+            illum soluerent cruentum, ut nemo amicorum miserabile <pb n="284"/> conspicatus corpus
+            posset agnoscere. Et nunc combustum igne, &amp; in puluerem redactum corpus, in parua
+            urna ingens conditum, afferunt huic muneri praefecti Phocenses quidam, ut sepulcro in
+            solo paterno ille potiatur. Atque haec habent se, quemadmodum tibi retuli, uerbis etiam
+            dolorifica: sed ijs qui aspexere, ut nos, maxima omnium malorum uisa.</p>
+        </sp>
+        <sp who="#chorus">
+          <speaker>CHOR.</speaker>
+          <p>Eheu: Nunc igitur, ut uidetur, radicitus est extinctum herile genus.</p>
+        </sp>
+        <sp who="#clytaemnestra">
+          <speaker>CL.</speaker>
+          <p>O` Iuppiter, quid ego dicam? utrum felicitatem esse in re, an potius casum grauem, sed
+            tamen commodum? Atque est profecto molestum, uitam mihi meam aduersitatibus conseruandam
+            esse.</p>
+        </sp>
+        <sp who="#paedagogus">
+          <speaker>PAED.</speaker>
+          <p>Cur tu nunc mulier de nuncio tristis es?</p>
+        </sp>
+        <sp who="#clytaemnestra">
+          <speaker>CL.</speaker>
+          <p><emph>Res est mirifica, párere.</emph> Nam ne in malis quidem, eos quos pepereris,
+            odisse possis.</p>
+        </sp>
+        <sp who="#paedagogus">
+          <speaker>PAED.</speaker>
+          <p>Frustra igitur, ut uidetur, aduenimus.</p>
+        </sp>
+        <sp who="#clytaemnestra">
+          <speaker>CL.</speaker>
+          <p>Minime frustra. Nam cur frustra nunciaueris mortuum illum, tam certis argumentis
+            allatis? qui quidem pars animae meae, reliquit nutrices &amp; alimoniam maternam, &amp;
+            apud alienos exulare maluit: neque me ab illo tempore, quo excessit patria, unquam
+            postea aspexit. Idem exprobrans facinus mihi caedis paternae, horrendis semper me
+            terrebat minis, <pb n="285"/> ut somnum neque noctu neque interdiu dulcem capere possem,
+            sed imminens tempus mortem mihi semper proponere uideretur. Nunc uero hoc qui- dem die,
+            omnis metus ademtus mihi &amp; huius &amp; illius. Haec enim maior etiam pestis
+            domestica fuit, quae liquidum sanguinem exorberet animae meae. Nunc autem deinceps
+            placide, huius scilicet terrorum causa, uitam agere licebit.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Heu me miseram. Nunc deploranda maxime calamitas Oresta tua: quandoquidem hoc loco
+            constitutus, a matre contumelia afficeris. Ita´ne fieri oportet?</p>
+        </sp>
+        <sp who="#clytaemnestra">
+          <speaker>CL.</speaker>
+          <p>Non de te quidem, sed de illo, sicut se res habet, recte fit.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Audi Nemesis ultrix mortui, audi nunc iam.</p>
+        </sp>
+        <sp who="#clytaemnestra">
+          <speaker>CL.</speaker>
+          <p>Exaudiuit quae debuit, &amp; pulcre executa est.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Insulta nobis sane, rebus secundis tuis.</p>
+        </sp>
+        <sp who="#clytaemnestra">
+          <speaker>CL.</speaker>
+          <p>Hoc quidem igitur Orestes ac tu cohibete.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Nos quidem certe cohibiti sumus, tantum abest te ut cohibere possimus.</p>
+        </sp>
+        <sp who="#clytaemnestra">
+          <speaker>CL.</speaker>
+          <p>Ingentia hospes praemia mereri posses, si istius linguaces clamores compesceres.</p>
+        </sp>
+        <sp who="#paedagogus">
+          <speaker>PAED.</speaker>
+          <p>Ergo re scilicet bene acta, nunc discedo.</p>
+        </sp>
+        <sp who="#clytaemnestra">
+          <speaker>CL.</speaker>
+          <p>Non facies. Neque enim me, neque hospite a quo missus es, dignum fuerit, sic te
+            dimitti. Quare intro abi, istam autem sinito ante ostium proclamare sua suorumque <pb
+              n="286"/> mala.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Nunquid haec uobis, dolens, atque moerens, praeclare uidetur deplorasse &amp; luxisse
+            filium, quem misera tali morte extinctum amiserit? An uero subduxit se cum risu? O' me
+            infelicem: ô carissime Oresta, tu me perdis tua morte. Eripuit enim haec mihi eam spem,
+            quae sola restabat, affuturum te aliquando, si uiueres, ultorem caedis pater- nae, &amp;
+            iniuriarum mearum. At nunc quo me uertam? Sola enim sum: &amp; iam te patreque orba, in
+            seruitutem plane reijcior, quam seruiam inuisissimis omnium mortalium interemtorib.
+            patris mei. An ego ferre possim? Sed ego posthac cum illis futura intus non sum: uerum
+            hic ante ostium prostrata, destituta amicis, consumam aetatem meam. Tum uero in me
+            aliquis intro ferrum stringat, si hoc ei graue est. Nam mihi interfici gratum, uiuere
+            autem molestum est futurum. Neque enim me ullum uitae desiderium tenet.</p>
+        </sp>
+      </div>
+      <div type="scene" subtype="choral">
+        <sp who="#chorus">
+          <speaker>CHOR.</speaker>
+          <p>Vbi fulmina sunt Iouis? ubi sol est lucidus? Sunt´ne illi, &amp; haec aspicere atque
+            ferre possunt?</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Heu heu, ah ah.</p>
+        </sp>
+        <sp who="#chorus">
+          <speaker>CHO.</speaker>
+          <p>Quid iam mea filia, quid ploras?</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Eheu.</p>
+        </sp>
+        <sp who="#chorus">
+          <speaker>CHOR.</speaker>
+          <p>Ne nimium clama.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Occides me.</p>
+        </sp>
+        <sp who="#chorus">
+          <speaker>CH.</speaker>
+          <p>Cur?</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Iam si audebis manifeste mortuorum spem mihi perditae facere, grauius <pb n="287"/> me
+            incesses.</p>
+        </sp>
+        <sp who="#chorus">
+          <speaker>CHOR.</speaker>
+          <p>Sed enim scimus Amphiaraum regem obrutum, muliebri fraude aureo implicitum torque, qui
+            nunc sub terra.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Heu heu, io.</p>
+        </sp>
+        <sp who="#chorus">
+          <speaker>CHOR.</speaker>
+          <p>inter omnes animas principatum ducit.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Eheu.</p>
+        </sp>
+        <sp who="#chorus">
+          <speaker>CHO.</speaker>
+          <p>Eheu: meretur enim illius hoc scelus.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p> Occubuit´ne?</p>
+        </sp>
+        <sp who="#chorus">
+          <speaker>CHO.</speaker>
+          <p>Ita.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Scio &amp; ego. Nam prodijt, cui esset curae is qui tristi leto datus fuerat. At mihi
+            nemo relictus est. nam qui erat, ereptus e medio abijt.</p>
+        </sp>
+        <sp who="#chorus">
+          <speaker>CHO.</speaker>
+          <p>O misera: miserabilis est fortuna tua.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Scio, plane scio, in hac colluuie &amp; diuturnitate multorum grauiss. &amp; lacri↵
+            mabilium malorum.</p>
+        </sp>
+        <sp who="#chorus">
+          <speaker>CHO.</speaker>
+          <p>Intelligimus quod dicis.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Quin igitur finem facitis consolandi me, cum nihil.</p>
+        </sp>
+        <sp who="#chorus">
+          <speaker>CHOR.</speaker>
+          <p>Quid ais? quid loquere?</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>reliquum sit auxilij de spe superstitum generosi partus sociorum?</p>
+        </sp>
+        <sp who="#chorus">
+          <speaker>CHOR.</speaker>
+          <p><emph>Omnib. mortalib. letum impendet.</emph></p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Etiam ne ut implicentur, quemadmodum ille, in certaminib. equestrib. &amp; trahantur
+            loris?</p>
+        </sp>
+        <sp who="#chorus">
+          <speaker>CHO.</speaker>
+          <p><emph>Non praeuidetur malum.</emph></p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p><emph>Quis negat?</emph> cum ille externus haud manib. meis.</p>
+        </sp>
+        <sp who="#chorus">
+          <speaker>CHO.</speaker>
+          <p>Papae.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>conditus iaceat, neque se pulcri neque lamentorum a me honorem sortitus.</p>
+        </sp>
+      </div>
+      <div type="scene" subtype="episode">
+        <sp who="#chrysothemis">
+          <speaker>CHR.</speaker>
+          <p>Laeticia me, ô chariss. soror, impulit, ut huc cursu, neglecto decôre, tenderen. Affero
+            enim tibi uoluptatem, &amp; requiem eorum <pb n="288"/> malorum quibus hactenus in
+            perpetuo moerore fuisti implicita.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Tu´ne inuenisti remedium mearum calamitatum, quorum nulla uspiam medicina apparet?</p>
+        </sp>
+        <sp who="#chrysothemis">
+          <speaker>CHRYS.</speaker>
+          <p> Orestes adest. Tam hoc de nuncio meo certum habeto, quam te intueri me.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Profecto in miseria insanis, &amp; ludis in mea atque tua calamitate.</p>
+        </sp>
+        <sp who="#chrysothemis">
+          <speaker>CH.</speaker>
+          <p>Testor penates patrios, me non ludere: sed uere affirmare, adesse illum.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>O`me miseram. Quis igitur narrauit tibi? cui tantam fidem habes?</p>
+        </sp>
+        <sp who="#chrysothemis">
+          <speaker>CHR.</speaker>
+          <p>Ego ipsa certissima argumenta, quibus credo, perspexi: non audiui de alio.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Quae´nam igitur tanta rei comprobatio? Quid spectans infelix ista flamma foueris?</p>
+        </sp>
+        <sp who="#chrysothemis">
+          <speaker>CH.</speaker>
+          <p>Quaeso te per deos audi tandem, ut re cognita dicere possis, sapiam´ne an desipiam.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Dic igitur, si delectaris dicendo.</p>
+        </sp>
+        <sp who="#chrysothemis">
+          <speaker>CHR.</speaker>
+          <p>Dicam igitur omnia, quae noui. Cum enim uenissem ad patris antiquum bustum, uideo de
+            summo tumulo riuos lactis recenter profusi, &amp; redimitum sepulcrum patris omnis
+            generis foribus. Haec conspicata ac admirata, circumfero oculos, ne quis forte in nos
+            mortalis occulte se inferat. Cum autem quies ubique constaret, accessi propius ad
+            bustum, atque ibi iuxta rogum cerno iuueniles crines modo resectos. Hos cum pri<pb
+              n="289"/> mum uidi, statim percellit miserae animum, familiaris facies omnium
+            mortalium carissimi Orestis, cuius ista indicia conspicerem. Itaque manib. illos
+            sublatos, nequaquam tristitia uerborum profanaui: prae gaudio tamen oculi lacrimis
+            implebantur. Atque nunc haud secus atque dudum pro certo habeo, hoc decus non aliunde
+            quam ab illo aduenisse. Nam cuius esset alterius officium, nisi utriusque nostrûm? Iam
+            ego satis scio, me non fecisse. Neque tu certe fecisti: quippe quae ne Deos quiden
+            adoratum hinc abire absque fletu possis. At neque matri haec cordi sunt: neque si
+            faceret, nos hoc fugeret. Qua re omnino hic honor ab Oreste profectus est. Nunc tu, mea
+            soror, animum confirma tuum. <emph>Non enim eadem perpetuo fortuna uti eosdem
+              scimus.</emph> Illa an↵ tehac quidem tristis nobis fuit: hic uero dies initium forte
+            erit multorum bonorum.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>O`dementiam: atque me dudum tui miseret.</p>
+        </sp>
+        <sp who="#chrysothemis">
+          <speaker>CHRYS.</speaker>
+          <p>Ergo non sunt haec uoluptati tibi?</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Profecto nescis, neque ubi locorum sis, neque quid sentias.</p>
+        </sp>
+        <sp who="#chrysothemis">
+          <speaker>CHRYS.</speaker>
+          <p>An ego nescio, ea quae perspicue uidi?</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>O` infelix tu, ille quidem mortuus est: tuaque salutis illius indicia, uana sunt. Quare
+            desine ad illum respicere.</p>
+        </sp>
+        <sp who="#chrysothemis">
+          <speaker>CHRYS.</speaker>
+          <p>Me miseram. Ex quo mortalium hoc <pb n="290"/> audiuisti?</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>De eo, qui, cum ille periret, affuit.</p>
+        </sp>
+        <sp who="#chrysothemis">
+          <speaker>CHRYS.</speaker>
+          <p>Vbi´nam is est? non enim satis mirari possum.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>ELE.</speaker>
+          <p>Intus, matri quidem haud molestus.</p>
+        </sp>
+        <sp who="#chrysothemis">
+          <speaker>CHRYS.</speaker>
+          <p>Me miseram, cuiús nam hominis igitur illae tales &amp; tantae apud bustum patris infe-
+            riae?</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Equidem opinor haec ab aliquo proposita esse monumenta Oresteae mortis.</p>
+        </sp>
+        <sp who="#chrysothemis">
+          <speaker>CHRYS.</speaker>
+          <p>Quanta est haec infelicitas? Ego huc laeta cum tali oratione festinaui, ignara in
+            quibus calamitatibus essemus: ac nunc cum ueni, &amp; priora &amp; alia ad haec mala
+            reperio.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Ita se res habet. Quod si mihi morem gerere uolueris, praesentis miseriae alleuabis
+            onus.</p>
+        </sp>
+        <sp who="#chrysothemis">
+          <speaker>CHRYS.</speaker>
+          <p>Nunquid mortuos in uitam reducere potero?</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Non hoc est quod uolo: neque enim tam sum amens.</p>
+        </sp>
+        <sp who="#chrysothemis">
+          <speaker>CHRYS.</speaker>
+          <p>Quid igitur uis, quod quidem praestari a me queat?</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Vt facere sustineas, quod ego subiiciam.</p>
+        </sp>
+        <sp who="#chrysothemis">
+          <speaker>CHRYS.</speaker>
+          <p>Si quid inerit scilicet boni in facto, non detrectabo.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Vide: <emph>Sine labore ad bonum non perueniri solet.</emph></p>
+        </sp>
+        <sp who="#chrysothemis">
+          <speaker>CHRYS.</speaker>
+          <p>Video: conferam operam pro parte mea.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>ELEC.</speaker>
+          <p>Audi igitur, quid´nam efficere ego cogitem. Non fugit te, omnem nobis amicorum opem
+            ereptam esse, cum illis nos Orcus priuauerit, ut solae simus relictae. Ac ego quidem,
+            donec audiui &amp; uiuere &amp; <pb n="291"/> florere fratrem, in spe fui, uindicaturum
+            aliquando hunc caedem paternam. Nunc ille postquam interijt, te specto, ne cum hac
+            sorore tua autorem caedis paternae Aegisthum interficere uerearis. Nam quid ego te celem
+            amplius? Quo enim hoc facinus differes? aut quid spei audebis concipere? Cui prae- sens
+            est luctus spoliationis paternarum opum, presensque dolor tam diuturnae, &amp; ad
+            senectam uergentis uitae celibis. Neque tu speres coniugium te adepturam esse: nam non
+            ita stolidus est Aegisthus, ut passurus sit nostrum unquam genus efflorescere, in
+            manifestam perniciem sui. Sed tu secuta consilium meum, primum beneuolentiae laudem a
+            patre mortuo, simulque etiam fratre auferes: deinde ut libera nata es, ita posthac esse
+            diceris, &amp; coniugium te dignum nanciscêre. Nam omnes ad laudem respicere consueuere.
+            Quantam aunt famae celebritatem tibique &amp; mihi, si parueris, sis conciliatura, an
+            non intelligis? Quis enim uel ciuis uel hospes, conspicatus olim nos, non prosequetur
+            tali quadam praedicatione? Aspicite, amici, istas sorores, quae paternam asseruerunt
+            domum: quae neglecta sua uita, inimicis fortunatis tum, caedem obtulerunt. Has amare,
+            has colere uniuersos par fuerit. Has ob <pb n="292"/> uirtutem affici honore oportet in
+            festiuitatib. deorum, &amp; omnibus conuentibus solennibus ciuium. Huiusmodi de nobis
+            unusquisque &amp; uiuis loquetur, &amp; mortuis, cum gloria nostra sempiterna. Age
+            igitur mea soror, morem mihi gere, adesto parenti, da operam fratri. Eripe &amp; te
+            &amp; me de malis: <emph>atque hoc tibi in mentem ueniat, Turpiter uiuere, bene natis
+              turpe esse.</emph></p>
+        </sp>
+        <sp who="#chorus">
+          <speaker>CHOR.</speaker>
+          <p>Talia prudentiae expetunt auxilium, &amp; a dicentibus, &amp; ab audientibus.</p>
+        </sp>
+        <sp who="#chrysothemis">
+          <speaker>CHRYS.</speaker>
+          <p>Immo ante, carissimae mulieres, quam unum uerbum proloqueretur, caueret, ne, quam non
+            seruat, a ratione &amp; cogitantia, si sana esset mente, uideretur aliena. Quo enim
+            freta &amp; ipsa ad tam audax facinus accingere, &amp; me in societatem uocas? An nescis
+            foeminam te, non uirilis sexus natam? Etiam certe multo infirmior &amp; impotentior es
+            hostibus nostris: quorum quidem fortuna indies felicior, nostra autem minor fit, atque
+            euanescit. Quae igitur esse spes possit, uitaturum malum eum, qui consulat talem uirum
+            euertere? Proinde uide, ne ad miseriam maiorem calamitatem adiungamus, si palam forte
+            fiat, talia nos tractare sermonibus nostris. Nihil enim profuerit hoc nobis, nihilque
+            nos adiuuerit, si de bona fama turpi<pb n="293"/> ter pereundum sit. Nam neque mors ipsa
+            maxime fugienda est: sed hoc, si cupienti mori, copia mortis non fiat. Ego uero te
+            obsecro, ut iram premas, priusquam &amp; nos funditus pereamus, &amp; totum nostrum
+            genus pessundemus. Ac quae dicta sunt, quasi dicta non sint, &amp; irrita, tibi
+            praestabo. At tu saltem nunc sero sapere incipias, uelisque subiici potentioribus,
+            nullis ipsa uiribus praedita.</p>
+        </sp>
+        <sp who="#chorus">
+          <speaker>CHOR.</speaker>
+          <p>Obsequere. <emph>Nihil est quod contingere hominibus possit lucrosius atque melius,
+              quam prudentia, &amp; sapiens animus.</emph></p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Nihil inopinatum fuit in responsione tua. Satis enim sciebam, te repudiaturam ea quae a
+            te postulassem. Nunc a me sola &amp; Marte proprio patrandam rem uideo. Nam sic
+            euanescere haud sinemus.</p>
+        </sp>
+        <sp who="#chrysothemis">
+          <speaker>CHRYS.</speaker>
+          <p>Heu mihi. Vtinam cum pater interficiebatur, tu adesses, hoc animo praedita. nihil enim
+            certe a te non fieret.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Eadem natura tu quoque, sed animus imbecillior fuit.</p>
+        </sp>
+        <sp who="#chrysothemis">
+          <speaker>CHRY.</speaker>
+          <p>Huc igitur te para, ut ille animus perpetuo tibi assit.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Cum societatem facinoris defugias, talia nunc subiicis mihi.</p>
+        </sp>
+        <sp who="#chrysothemis">
+          <speaker>CHR.</speaker>
+          <p>Par enim uidetur, ut aggressio infelicem exitum habeat.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Praeclara est ratio tua, sed timiditatem odi.</p>
+        </sp>
+        <sp who="#chrysothemis">
+          <speaker>CHR.</speaker>
+          <p>Feram te audiendo. Atque etiam olim, cum lau<pb n="294"/> dabis me.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>At nunquam comperies hoc a me fieri.</p>
+        </sp>
+        <sp who="#chrysothemis">
+          <speaker>CHR.</speaker>
+          <p>Longum est tempus sequens quod dijudicabit.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Abi: nihil enim in te auxilij mihi inest.</p>
+        </sp>
+        <sp who="#chrysothemis">
+          <speaker>CHR.</speaker>
+          <p>Imo est: Sed tu non pateris doceri te.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Vade, &amp; haec omnia matri eloquere tuae.</p>
+        </sp>
+        <sp who="#chrysothemis">
+          <speaker>CHR.</speaker>
+          <p>Ego uero tantas tecum inimicitias nequaquam excerceo.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>At hoc uide qua me contumelia afficias.</p>
+        </sp>
+        <sp who="#chrysothemis">
+          <speaker>CHR.</speaker>
+          <p>Non est haec contumelia a me, sed prospectio tui.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Tua me iusta igitur sequi oportet?</p>
+        </sp>
+        <sp who="#chrysothemis">
+          <speaker>CHR.</speaker>
+          <p>Nam te sequar ego tum, cum non desipere uideberis.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Quam hoc miserum est, bene dicere, &amp; peruerse facere?</p>
+        </sp>
+        <sp who="#chrysothemis">
+          <speaker>CHR.</speaker>
+          <p>Plane uitium, quo laboras tu, elocuta es.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Quid igitur? An haec ego tibi parum recte dicere uideor?</p>
+        </sp>
+        <sp who="#chrysothemis">
+          <speaker>CHR.</speaker>
+          <p><emph>At enim quae recta sunt, nonnunquam nocere solent.</emph></p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Non ego ibi uolo uiuere, leges ubi istae uigent.</p>
+        </sp>
+        <sp who="#chrysothemis">
+          <speaker>CHR.</speaker>
+          <p>Sed si ita ages, postmodo laudabis me.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Equidem agam, neque terreri me patiar.</p>
+        </sp>
+        <sp who="#chrysothemis">
+          <speaker>CHR.</speaker>
+          <p>Ita´ne uero? neque amplius consules?</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p><emph>Nihil mihi est malo consilio inuisius.</emph></p>
+        </sp>
+        <sp who="#chrysothemis">
+          <speaker>CHR.</speaker>
+          <p>Videre non attendere animum sermoni meo.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Iampridem deliberatum hoc, haud modo est mihi.</p>
+        </sp>
+        <sp who="#chrysothemis">
+          <speaker>CHRYS.</speaker>
+          <p>Quid ergo abire cesso? cum neque tu dicta mea, neque ego <pb n="295"/> mores tuos
+            probare sustineam?</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Abi intro sane. Non ego tibi, ne ualde quidem cupienti, comes futura sum unquam.
+              <emph>Nam magna dementia est, uenari id quod nusquam sit.</emph></p>
+        </sp>
+        <sp who="#chrysothemis">
+          <speaker>CHRYS.</speaker>
+          <p>Cum igitur sapere tibi uidearis, utêris scilicet ista ratione: cum uero iam in mala
+            incideris, tum profecto probabis ea quae a me commemorata sunt.</p>
+        </sp>
+      </div>
+      <div type="scene" subtype="choral">
+        <sp who="#chorus">
+          <speaker>CHO.</speaker>
+          <p>Cur obsecro, cum superne inuolantes aues cordatissimas uideamus alimenta sumministrare
+            pullis, unde &amp; crescere &amp; sustentari possint, non idem &amp; nos agimus? At ita
+            ut Iouis fulmina sunt, &amp; est coeleste numen iusticiae, non diu ab illis malum
+            aberit. Nunc uos mihi terreni rumores increpate tristem Atridis uocem, nunciam pudendi
+            moeroris: quod &amp; domesticae res laborent, &amp; liberûm caritas de uitae concordia
+            in duplex bellum conuersa sit. Quodque Electra deserta atque sola iactetur in perpetuo
+            luctu patris, tanquam luscinia querula, non magis in ulla cura uitae: &amp; parata lucem
+            relinquere, si prius binas furias sustulerit. In taline fortuna florere queat ulla,
+            paternae nobilitatis conscia? Nemo bonus, uiuendo turpiter, decus generis sui
+            contaminare sustinet obscuritate sua. ô filia filia, ut tu quoque lacrimas sempiternas
+            in aetate <pb n="296"/> tua elegisti, ut scelere profligato, una ratione duplici laude
+            potireris, de nomine sapientis &amp; fortissimae uirginis. Di tibi, oro, uitam
+            largiantur potentia &amp; opibus praestantem inimicis, tanto quidem, quantum nunc ab
+            illis premeris. Nam tuum animaduerto fatum quidem haud esse felix: sed quae sunt
+            praeclarissimi mores, in his te, diuina pietate, praestare caeteris.</p>
+        </sp>
+      </div>
+      <div type="scene" subtype="episode">
+        <sp who="#orestes">
+          <speaker>ORESTES.</speaker>
+          <p>Nunquid recte nobis, ô mulieres, dictum, &amp; secundum nostram hoc uoluntatem iter
+            susceptum est?</p>
+        </sp>
+        <sp who="#chorus">
+          <speaker>CHOR.</speaker>
+          <p>Quid uestigas igitur, aut quid sibi uult aduentus tuus?</p>
+        </sp>
+        <sp who="#orestes">
+          <speaker>OR.</speaker>
+          <p>Iam pridem, ubi Aegisthus habitet, quaero.</p>
+        </sp>
+        <sp who="#chorus">
+          <speaker>CHOR.</speaker>
+          <p>Recte ambulasti: &amp; qui tibi indicauit hoc iter, haud culpandus fuerit.</p>
+        </sp>
+        <sp who="#orestes">
+          <speaker>OR.</speaker>
+          <p>Quae´nam igitur e uobis intro nunciare uolet, communem nostram &amp; desiderabilem
+            praesentiam.</p>
+        </sp>
+        <sp who="#chorus">
+          <speaker>CHOR.</speaker>
+          <p>Ista: siquidem propinquos esse nuncios oportet.</p>
+        </sp>
+        <sp who="#orestes">
+          <speaker>OR.</speaker>
+          <p>Ito obsecro mulier: atque introgressa, significa adesse Phocenses quosdam, qui
+            Aegisthum cupiant conuenire.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>O`me miseram: afferentes, opinor, manifesta signa eorum rumorum, qui dudum
+            increbuerunt?</p>
+        </sp>
+        <sp who="#orestes">
+          <speaker>OR.</speaker>
+          <p>Ego, quae audiueris, nescio. Sed mandata habeo quaedam a sene Strophio, de Oreste.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Quae <pb n="297"/> sunt illa, hospes? nam ualde formido.</p>
+        </sp>
+        <sp who="#orestes">
+          <speaker>OR.</speaker>
+          <p>Gestantes mortui illius modicas reliquias in paruula urna, ut uides, apportamus.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>O`me miseram. Nunc scilicet manifeste certissimum malum aspicio.</p>
+        </sp>
+        <sp who="#orestes">
+          <speaker>OR.</speaker>
+          <p>Si tu Orestis fatum deploras, scito hanc urnam tegere corpus illius.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Obtestor te per deos, hospes, si haec illum urna tegit: da mihi eam gestandam manibus
+            meis, ut me totumque genus meum una cum hoc cinere defleam atque plangam.</p>
+        </sp>
+        <sp who="#orestes">
+          <speaker>OR.</speaker>
+          <p>Date illi, quaecunque est. Non enim hoc animo certe inimico expetit: sed huic aut
+            beneuolentia, aut sanguine, coniuncta.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>O`mihi carissimi omnium mortalium Orestis uitae monumentum reliquum, quam ego nequaquam
+            tali spe, quali dimisi te, recipio? Nunc enim te in manibus teneo, re- dactum ad
+            nihilum: sed tum, puerum te egregium hinc misi. Vtinam quidem prius me uita desereret,
+            quam ego te suffurarer hisce manib. &amp; in solum externum ablegarem, atque de exitio
+            eriperem, ut mortuus illo tempore iaceres in parte busti paterni, qui iam foris exul in
+            terra aliena, procul a sorore tua misere interiisti. Neque ego te infelix intra
+            amantiss. manus lauacri honore affeci: neque de rogo, pro more, onus flebile sustuli.
+            Sed curatus <pb n="298"/> miser externis manibus aduenis huc paruula moles, in paruula
+            urna. Heu mihi, cur ego te infelix enutriui frustra, atque hunc saepe iucundum caepi
+            laborem alimoniae tuae? Non enim magis ad matrem quam ad me amor ferebatur. Neque
+            aliorum intus, praeter me, educatio tui erat: atque me semper tuam sororem omnes
+            uocabant. Nunc ista uno die omnia defecere, una cum uita tua. Vniuersis enim quasi
+            turbine correptis, e medio abisti. Interijt pater: Ego tibi mortua sum: Et tu morte
+            subductus. Rident hostes. Mater illa, indigna materno nomine, prae laeticia insanit.
+            Cuius tu saepe ad me clam nuncios mittebas, affore te ultorem. Verum haec, fortuna tua
+            atque mea infelix euertit, cum misit huc mihi pro optatissimo aspectu, istum cinerem
+            &amp; umbram inanem. Eheu mihi: o corpus miserabile. Ah, ah. Heu mihi, quam nefarium in
+            iter ablegatus, me perdidisti. Perdidisti enim certe me, ô fraternum caput. Proinde
+            accipe me in hoc ad te tectum tuum, quae nulla sum, ubi nihil est: ut de caetero tecum
+            infra maneam. Dum enim supra eras, omnia nobis communiter accidebant: &amp; nunc eodem
+            busto tecum condi mortua desidero. <emph>Nam mortuos dolore uacare uideo.</emph></p>
+        </sp>
+        <sp who="#chorus">
+          <speaker>CHOR.</speaker>
+          <p>Mortali patre na<pb n="299"/> ta es Electra: hoc cogita. Mortalis etiam Orestes erat:
+            quare nimios luctus conpesce. <emph>Vniuersis enim nobis idem sustinendum
+            est.</emph></p>
+        </sp>
+        <sp who="#orestes">
+          <speaker>OR.</speaker>
+          <p>Hem, quid ego dicam? Quam orationem admirabilem usurpem? Non enim diutius continere
+            linguam ualeo.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Quid tibi tristitiae obiectum est, aut quid sibi haec uerba uolunt?</p>
+        </sp>
+        <sp who="#orestes">
+          <speaker>OR.</speaker>
+          <p>An haec tua illa inclyta est, Electra, forma?</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Haec est illa ipsa, afflicta quidem admodum.</p>
+        </sp>
+        <sp who="#orestes">
+          <speaker>OR.</speaker>
+          <p>Quid hoc igitur est miserae calamitatis?</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Sed cur tu hospes mea causa ita lamentaris?</p>
+        </sp>
+        <sp who="#orestes">
+          <speaker>OR.</speaker>
+          <p>O` corpus indigne &amp; impie corruptum.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Non tamen in aliam nisi me tristia haec eiacularis hospes.</p>
+        </sp>
+        <sp who="#orestes">
+          <speaker>OR.</speaker>
+          <p>Eheu, in coelibatu infortunatam educationem tuam.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Cur tu hospes autem ad meum conspectum ita lamentaris?</p>
+        </sp>
+        <sp who="#orestes">
+          <speaker>OR.</speaker>
+          <p>Quia scilicet nihil malorum meorum mihi notum fuit.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Quomodo quod dicebas comperisti?</p>
+        </sp>
+        <sp who="#orestes">
+          <speaker>OR.</speaker>
+          <p>Cum te uideam multis malis conspicuam.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Quin tu haud multa cernis de meis malis.</p>
+        </sp>
+        <sp who="#orestes">
+          <speaker>OR.</speaker>
+          <p>Sunt´ne his alia uisu infestiora?</p>
+        </sp>
+        <pb n="300"/>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Quod cum interfectoribus uitam colo.</p>
+        </sp>
+        <sp who="#orestes">
+          <speaker>OR.</speaker>
+          <p>Cuius´nam? Quos hoc malum indicat?</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Patris: atque his seruio seruitutem uiolentam.</p>
+        </sp>
+        <sp who="#orestes">
+          <speaker>OR.</speaker>
+          <p>Quis mortalium ad hanc te necessitatem adigit?</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Matrem uocant: sed nihil in illa maternum inest.</p>
+        </sp>
+        <sp who="#orestes">
+          <speaker>OR.</speaker>
+          <p>Quid illa facit? Manus´ne affert tibi, an uictum subtrahit?</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Et manu, &amp; penuria, &amp; omnibus me affligit malis.</p>
+        </sp>
+        <sp who="#orestes">
+          <speaker>OR.</speaker>
+          <p>Nemo est, qui illius a te iniuriam &amp; uim propulset?</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Nemo. Qui autem unicus fuit, illius tu cineres attulisti.</p>
+        </sp>
+        <sp who="#orestes">
+          <speaker>OR.</speaker>
+          <p>O` misera, ut te cum misericordia iamdudum aspicio.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Scito te esse unum omnium mortalium, qui tandem misericordia tangatur mei.</p>
+        </sp>
+        <sp who="#orestes">
+          <speaker>OR.</speaker>
+          <p>Quia enim ego solus assum, moerens ob mala tua.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Non tamen coniunctus genere, ut opinor, mihi aduenis.</p>
+        </sp>
+        <sp who="#orestes">
+          <speaker>OR.</speaker>
+          <p>Dicam, si sciam istas beneuolentes esse nobis.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Sunt, quare dices coram fidelibus.</p>
+        </sp>
+        <sp who="#orestes">
+          <speaker>OR.</speaker>
+          <p>Sepone igitur istud uasculum, ut totam <pb n="301"/> rem cognoscas.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Obtestor te per deos, hospes, ne hoc agas.</p>
+        </sp>
+        <sp who="#orestes">
+          <speaker>OR.</speaker>
+          <p>Morem gere dictis meis, neque enim te deceptam dices.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Nunc genas tuas tangens te obtestor, ne carissima mihi adimas.</p>
+        </sp>
+        <sp who="#orestes">
+          <speaker>OR.</speaker>
+          <p>Non sum relicturus tibi.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>O` me miseram ob te, Oresta, si non copia fit sepeliendi tui.</p>
+        </sp>
+        <sp who="#orestes">
+          <speaker>OR.</speaker>
+          <p>Bona uerba memora: immerito enim lamentaris.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Egon’ immerito lamentor, ob mortuum fratrem?</p>
+        </sp>
+        <sp who="#orestes">
+          <speaker>OR.</speaker>
+          <p>Non te erga illum tali oratione iam uti fas est.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Ita´ne contemta fui apud illum nunc mortuum?</p>
+        </sp>
+        <sp who="#orestes">
+          <speaker>OR.</speaker>
+          <p>Contemta quiden nemini. Sed nihil hoc ad te.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Certe uero, siquidem hoc gesto corpus Orestis.</p>
+        </sp>
+        <sp who="#orestes">
+          <speaker>OR.</speaker>
+          <p>At enim Orestis hoc non est nisi uerbis subornatum.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>bi ergo infelicis illius sepulcrum?</p>
+        </sp>
+        <sp who="#orestes">
+          <speaker>OR.</speaker>
+          <p>Nusquam. nam non extat sepulcrum uiuentis.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Quid ais adolescens?</p>
+        </sp>
+        <sp who="#orestes">
+          <speaker>OR.</speaker>
+          <p>Nihil falso omnium quae loquor.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Viuit igitur ille? </p>
+        </sp>
+        <sp who="#orestes">
+          <speaker>OR.</speaker>
+          <p>Si quidem mihi ani<pb n="302"/> ma inest.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>An tu ille obsecro?</p>
+        </sp>
+        <sp who="#orestes">
+          <speaker>OR.</speaker>
+          <p>Hoc contemplata signum annuli paterni, perspice me uera loqui.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>O` lux iucundissima.</p>
+        </sp>
+        <sp who="#orestes">
+          <speaker>OR.</speaker>
+          <p>Fateor.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>O` uocem. Ades`ne tu?</p>
+        </sp>
+        <sp who="#orestes">
+          <speaker>OR.</speaker>
+          <p>Ne tu magis ex alio sciscitare.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Teneo te manibus meis?</p>
+        </sp>
+        <sp who="#orestes">
+          <speaker>OR.</speaker>
+          <p>Vt perpetuo retineas.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>` cariss. mulieres, ô ciues: uidetis Orestem hunc, qui de improuiso mortuus, subito
+            reuixit?</p>
+        </sp>
+        <sp who="#chorus">
+          <speaker>CHO.</speaker>
+          <p>Videmus, mea filia, &amp; in hoc euentu prae gaudio lacrimae de oculis meis cadunt.</p>
+        </sp>
+      </div>
+      <div type="scene" subtype="choral">
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Hui, corporis mihi carissimi progenies: nunc aduenisti, reperisti, aspexisti quos
+            maxime uolebas.</p>
+        </sp>
+        <sp who="#orestes">
+          <speaker>OR.</speaker>
+          <p>Assumus, sed tu tacita fac resistas.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Quid uero est?</p>
+        </sp>
+        <sp who="#orestes">
+          <speaker>OR.</speaker>
+          <p>Tacuisse melius fuerit, ne quis intus exaudiat.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>At enim ita me casta semper Diana iuuet, ut haud ego unquam existimabo metuendum, illud
+            superuacuum intus mulierum pondus.</p>
+        </sp>
+        <sp who="#orestes">
+          <speaker>OR.</speaker>
+          <p>Tamen cogita, Martem etiam inter mulieres uersari. Neque te hoc fugit, quippe
+            expertam.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Eheu heu, iniectum a te malum nostrum illustre, sempiternum, nunquam obliuiscendum.</p>
+        </sp>
+        <sp who="#orestes">
+          <speaker>OR.</speaker>
+          <p>Etiam ipse scio: sed cum tempus monuerit, tum harum rerum meminisse oportebit.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Omne fuerit, omne haec commemorare <pb n="303"/> idoneum tempus, ut meruerunt. Nam uix
+            tandem libertatem nactum est os meum.</p>
+        </sp>
+        <sp who="#orestes">
+          <speaker>OR.</speaker>
+          <p>Fateor. Hoc igitur fac serues.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Quo´nam pacto?</p>
+        </sp>
+        <sp who="#orestes">
+          <speaker>OR.</speaker>
+          <p><emph>Cum tempus non ferat, ne multis uerbis utare.</emph></p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Quis autem ad conspectum tuum silentium cum oratione commutare dignum putet? Quem ego
+            inopinatum insperatumque iam conspicor.</p>
+        </sp>
+        <sp who="#orestes">
+          <speaker>OR.</speaker>
+          <p>Tu quidem conspicare, postquam dij meum aduentum incitauerunt.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Iam nunc grandius quam prius gaudium conmemorasti, si te Deus adaegit ad aedes no-
+            stras. Hoc ego pro miraculo habeo.</p>
+        </sp>
+        <sp who="#orestes">
+          <speaker>OR.</speaker>
+          <p>Et cohercere laetitiam tuam non libet, &amp; nimia uoluptas tua mihi formidini est.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Io, cum post tempus longum aspectu me tuo dignatus es, ne me ita conspicatus
+            luctuosam.</p>
+        </sp>
+        <sp who="#orestes">
+          <speaker>OR.</speaker>
+          <p>Quid non ego faciam?</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Ne me spolies uoluptate aspectus tui, ut hanc amittam.</p>
+        </sp>
+        <sp who="#orestes">
+          <speaker>OR.</speaker>
+          <p>Immo hoc etiam alios facere moleste ferrem.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Obsequêris igitur mihi.</p>
+        </sp>
+        <sp who="#orestes">
+          <speaker>OR.</speaker>
+          <p>Cur non?</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>O` dilectae mulieres: audiui nunc uocem, quam nunquam speraueram. Iam enim obsurdueram,
+            ne clamores quidem exaudiens. Sed nunc te ego teneo. nunc ostendisti mihi iucundiss.
+            uultum tuum: cuius in nullis obliuisci malis possim.</p>
+        </sp>
+      </div>
+      <div type="scene" subtype="episode">
+        <sp who="#orestes">
+          <speaker>OR.</speaker>
+          <p>Ea quidem quae scire iam nihil refert, omitte. Neque comme<pb n="304"/> mora, quanta
+            sit improbitas materna: neque Aegisthus quod paterna exhauriat bona, partim pro-
+            fundendo, partim temere dissipando. Nam temporis occasionem oratio excluserit. Quae uero
+            ad praesens tempus apta sunt, ea mihi explica: nempe, ubi´nam locorum aut apparentes aut
+            delitentes, comprimamus aduentu hoc nostro risum hostilem. Atque hoc uide, ne mater
+            laeticiam tuam de uultu, cum fueris introgressa, perspiciat: sed plora, quasi ob
+            calamitatem istam inquam falso nunciatam. <emph>Nam ubi res feliciter processerit, tum
+              laetari &amp; ridere tuto licebit.</emph></p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Ita quidem, mi frater, nunc, ut tibi placuerit, a me omnia fient. Nam hanc ego
+            uoluptatem a te consecuta sum, ipsa mihi non peperi. Neque ausim tibi cum magno meo e-
+            molumento uel tantillum molesta esse. Non enim certe in hoc rationem haberem praesentis
+            fortunae. Nunc autem, quod reliquum est, non illud quidem te latet. Quomodo enim potest?
+            Quippe qui audieris, Aegisthum quidem domo abesse, intus uero adesse matrem: cui, noli
+            uereri, ne hilarem uultum meum exhibeam intuendum. Nam &amp; uetus est odium impressum
+            illius mihi: &amp; postquam te aspexi, non potero continere prae gaudio fluen- <pb
+              n="305"/> tes lacrimas: quae uno te hoc itinere aspexi &amp; uiuum &amp; mortuum.
+            Atque hoc ita mirabiliter a te factum, ut si iam meus pater uiuens reuertatur, non
+            prodigij hoc loco habitura, sed creditura sim oculis meis. Cum igitur tale nobis iter
+            ingressus sis, dux esto deinde ipse pro arbitrio tuo. Nam ego sola quoque de duobus
+            alterum obtinuissem, ut cum laude salutem aut defenderem, aut amitterem.</p>
+        </sp>
+        <sp who="#orestes">
+          <speaker>OR.</speaker>
+          <p>Tace nunc. nam gressus sentio intus exeuntis foras.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Introite sane hospites, praesertim cum ea afferatis quae neque repelli hinc possint,
+            neque tamen libenter quisquam admissurus esse uideatur.</p>
+        </sp>
+        <sp who="#paedagogus">
+          <speaker>PAEDAG.</speaker>
+          <p>O` nimium stolidi atque uecordes, utrum iam nihil magis uita curae? An mens nulla uobis
+            insita est? Qui non uicinos esse malis, sed in ipsis malis, iisque maximis uos uersari
+            intelligitis? Quod nisi dudum haec ego limina seruarem, prius intus conatus uestri quam
+            corpora apparerent. Sed nunc haec ego prouidi. Atque uos missos facite longiores
+            sermones, istumque immodicum in gaudio clamorem: ac ite intro. Nam in talibus contari
+            nocet: sed absoluere illa opportuniss. est.</p>
+        </sp>
+        <sp who="#orestes">
+          <speaker>OR.</speaker>
+          <p>Quod superest igitur, quo in loco sint intus omnia, expedi.</p>
+        </sp>
+        <sp who="#paedagogus">
+          <speaker>PAEDAG.</speaker>
+          <p>Optimo. hoc enim perfectum, ne quis <pb n="306"/> te agnoscat.</p>
+        </sp>
+        <sp who="#orestes">
+          <speaker>OR.</speaker>
+          <p>Scilicet nunciasti me esse mortuum.</p>
+        </sp>
+        <sp who="#paedagogus">
+          <speaker>PAEDAG.</speaker>
+          <p>Scito, te hic iam esse unum de Orci incolis.</p>
+        </sp>
+        <sp who="#orestes">
+          <speaker>OR.</speaker>
+          <p>Laetantur illi hoc nuncio? aut quid aiunt?</p>
+        </sp>
+        <sp who="#paedagogus">
+          <speaker>PAED.</speaker>
+          <p>Re perfecta dicam. Vt autem nunc est, bene se habent intus omnia, etiam illa quae se
+            bene non habent.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Quis est iste, frater? per deos, mihi quaeso memora.</p>
+        </sp>
+        <sp who="#orestes">
+          <speaker>OR.</speaker>
+          <p>Non agnoscis?</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Non, quod ego sciam.</p>
+        </sp>
+        <sp who="#orestes">
+          <speaker>OR.</speaker>
+          <p>Non meministi, cui me olim in manus tradideris?</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>ELE.</speaker>
+          <p>Cui´nam? Quid narras?</p>
+        </sp>
+        <sp who="#orestes">
+          <speaker>OR.</speaker>
+          <p>Cuius manibus tua prouidentia ego in Phocensium regionem delatus fui?</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Hiccine ille est, quem de multis quondam ego unum fidelem reperi, cum pater
+            necaretur?</p>
+        </sp>
+        <sp who="#orestes">
+          <speaker>OR.</speaker>
+          <p>Hic est: ne pluribus uerbis exquiras.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>O` lux iucundiss. ô unice seruator domus Agamemnoniae: quomodo ergo, siquidem tu ille
+            es, huc aduenisti: qui &amp; hunc, &amp; me de multis malis liberauisti. O` gratiss.
+            manus, ô suauissima pedum ministeria. Cur ego te dudum congressum mecum non agnoui? cur
+            non manifestus fuisti mihi? Sed me uerbo iugulabas, cum res afferres dulcissimas. Salue
+            mi pater: nam mihi patrem intueri uideor. Salue: Scitoque meum erga te unum omnium hoc
+            die &amp; odium &amp; amorem maximum extitis<pb n="307"/> se.</p>
+        </sp>
+        <sp who="#paedagogus">
+          <speaker>PAED.</speaker>
+          <p>Satis est, ut puto. Nam sermones incidentes uoluunt multae noctes similiter &amp; dies,
+            quae tibi ista, Electra, explanabunt. At uobis qui astatis dico, nunc occasionem esse.
+            Nunc sola est Clytemnestra, nunc uir nemo intus. Sin cessaueritis, cogitate quod &amp;
+            cum istis, &amp; cum alijs peritioribus quam isti sint pluribus, dimicare uos
+            oporteat.</p>
+        </sp>
+        <sp who="#orestes">
+          <speaker>OR.</speaker>
+          <p>Non iam res longiorem desiderat orationem Pylade: sed mox, adoratis sedibus pater- nis
+            deorum, qui haec uestibula tenent, intro eundum nobis.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>O` Apollo Rex, exaudi propitius istorum preces, una cum meis: quae te saepe, pro eo
+            atque facultates meae tulere, studiosa colui manu. Nunc autem ô Lycee Apollo, quomodo
+            possum, sic precor, ueneror, supplico, ut libenter auxilio tuo prouehere consilia
+            nostra, atque declarare uelis, quam mercedem impietatis rependere soleant dij morta
+            libus.</p>
+        </sp>
+      </div>
+      <div type="scene" subtype="choral">
+        <sp who="#chorus">
+          <speaker>CHO.</speaker>
+          <p>Videte quo euadat Mars, discordiae spirans sanguinem. Nunc intro abiere, sub aedium
+            tecta, canes ineuitabiles, persequentes facinora mala. Neque iam diutius pendebit de
+            somnio animus meus. Procedit enim doloso pede mortuorum auxilium, sub tecta, &amp; sedes
+            antiquas paternae opulentiae, ferens manibus recentem cruoris aciem. <pb n="308"/> At
+            Maiae filius Mercurius, ad ipsum finem hunc tecta fraudulentia deducit, neque magis iam
+            mora offertur.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>O` cariss. mulieres, iam nunc illi opus adoriuntur. Ac uos quaeso cum silentio rema↵
+            nete.</p>
+        </sp>
+        <sp who="#chorus">
+          <speaker>CHO.</speaker>
+          <p>Quomodo obsecro? Quid nunc agunt?</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Ipsa quidem ad sepulcrum lebetem adornat: illi uero prope astant.</p>
+        </sp>
+        <sp who="#chorus">
+          <speaker>CHO.</speaker>
+          <p>Cur tu procurristi?</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Ad custodiam, ne improuisus esset aduentus Aegisthi.</p>
+        </sp>
+        <sp who="#clytaemnestra">
+          <speaker>CLYTEMNESTRA.</speaker>
+          <p>Heu heu heu heu. O` tecta uacua amicis, &amp; plena interfectoribus.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Intus clamat aliquis. Non´ne auditis meae uos?</p>
+        </sp>
+        <sp who="#chorus">
+          <speaker>CHO.</speaker>
+          <p>Audiui indigna auditu misera, &amp; horresco.</p>
+        </sp>
+        <sp who="#clytaemnestra">
+          <speaker>CLY.</speaker>
+          <p>O` me miseram: Aegisthe, ubi tu mihi es?</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Ecce iterum uociferatur aliquis.</p>
+        </sp>
+        <sp who="#clytaemnestra">
+          <speaker>CLY.</speaker>
+          <p>O` fili, ô fili, misereat te genitricis tuae.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>At non miserebat te neque huius, neque patris, hunc qui genuit.</p>
+        </sp>
+        <sp who="#chorus">
+          <speaker>CHO.</speaker>
+          <p>O` ciuitas, ô calamitosum genus. Nunc te huius diei fata perdunt.</p>
+        </sp>
+        <sp who="#clytaemnestra">
+          <speaker>CLY.</speaker>
+          <p>Eheu, percussa sum.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Iterum atque iterum, si potes, feri.</p>
+        </sp>
+        <sp who="#clytaemnestra">
+          <speaker>CLY.</speaker>
+          <p>Eheu, rursum mihi.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Vtinam idem &amp; Aegistho sit.</p>
+        </sp>
+        <sp who="#chorus">
+          <speaker>CHO.</speaker>
+          <p>Eueniunt optata. Viuunt ij quos humus tegit. Nam copiosum fundunt interfectorum
+            sanguinem ij, qui iampridem occubuerunt.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Atque as<pb n="309"/> sunt isti iam, manusque cruenta stillat caedem sacrificij. Sed
+            nescio, Oresta, quo in loco res sint.</p>
+        </sp>
+        <sp who="#orestes">
+          <speaker>OR.</speaker>
+          <p>Bene se habent intus. Siquidem Apollo recte consuluit. Interijt illa misera. Neque tu
+            posthac formides, ne matris in te superbia contumeliosa sit.</p>
+        </sp>
+        <sp who="#chorus">
+          <speaker>CHOR.</speaker>
+          <p>Satis est. Aegisthum enim conspicor prope.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>O` iuuenes discedite. Videtis´ne istum? Hic iam in uestra est potestate, rure adueniens
+            cum laeticia.</p>
+        </sp>
+        <sp who="#chorus">
+          <speaker>CHOR.</speaker>
+          <p>Abite post ostium quamprimum, ut etiam quae restant feliciter, quemadmodum priora,
+            peragatis.</p>
+        </sp>
+        <sp who="#orestes">
+          <speaker>OR.</speaker>
+          <p>Habe bonum animum, ita ut censes agemus.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Age propera.</p>
+        </sp>
+        <sp who="#orestes">
+          <speaker>OR.</speaker>
+          <p>Ecce uado.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Nunc mihi quod restat, curae fuerit. Vtile autem non multa placide ad istius aures
+            uerba facere, qui iam occultum iusticiae ad certamen festinat.</p>
+        </sp>
+      </div>
+      <div type="scene" subtype="episode">
+        <sp who="#aegisthus">
+          <speaker>AEGISTHVS.</speaker>
+          <p>Quis uestrûm scit, ubi´nam sint Phocenses hospites, quos aiunt attulisse nuncium de
+            Orestis morte, qui fracto curru in equestri certamine uitam amiserit? Nunc te ego in-
+            terrogo: a te quoque, cuius hactenus summa fuit ferocia. Nam haec te in primis curare
+            arbitror, atque cognita explicare optime posse.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Noui: quî enim ego nesciam? Nam sic fugeret me carissimi omnium meorum calamitas.</p>
+        </sp>
+        <sp who="#aegisthus">
+          <speaker>AEG.</speaker>
+          <p>Dic igitur <pb n="310"/> mihi, ubi sint hospites?</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Intus. nam hospitam beneuolentem nacti sunt.</p>
+        </sp>
+        <sp who="#aegisthus">
+          <speaker>AEG.</speaker>
+          <p>Scilicet certum attulere nuncium mortis illius?</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Non quidem oratione solum, sed etiam demonstrarunt.</p>
+        </sp>
+        <sp who="#aegisthus">
+          <speaker>AEG.</speaker>
+          <p>Licet igitur nos quoque illa manifesta cognoscere.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Licet: ac quidem spectaculum hoc miserabile.</p>
+        </sp>
+        <sp who="#aegisthus">
+          <speaker>AEG.</speaker>
+          <p>Quantum mihi contra tuam consuetudinem gaudium nunciasti?</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Gaude sane, si haec laeta uidentur tibi.</p>
+        </sp>
+        <sp who="#aegisthus">
+          <speaker>AEG.</speaker>
+          <p>Silentium esse, atque pandi fores ad conspectum Mycenensium Argiuorumque omnium uolo:
+            ut si quis forte illorum uana prius spe elatus fuit, nunc istius cadauere uiso, frena
+            admittat mea: atque prius sapiat, quam uim &amp; animaduersionem experiatur meam.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>A` me quidem hoc fit. Sero enim sapere coepi, &amp; consentire cum ijs qui plus
+            possunt.</p>
+        </sp>
+        <sp who="#aegisthus">
+          <speaker>AEG.</speaker>
+          <p>O` Iupiter: quale hoc uisum conspicor, inuidiae quidem nequaquam expers? sed si odiosum
+            hoc est, taceo. Auferte integumentum omne de oculis, ut impertiar cognationi tamen
+            lacrimas meas.</p>
+        </sp>
+        <sp who="#orestes">
+          <speaker>OR.</speaker>
+          <p>Tu ipse auferto. Non me hoc, sed te facere aequum, qui aspicias &amp; compelles ipse
+            tuos.</p>
+        </sp>
+        <sp who="#aegisthus">
+          <speaker>AEG.</speaker>
+          <p>Recte mones, itaque faciam. At tu, sicubi intus est Clytemnestra, huc illam euoca.</p>
+        </sp>
+        <sp who="#orestes">
+          <speaker>OR.</speaker>
+          <p>Prope haec <pb n="311"/> adest, ne circumspice.</p>
+        </sp>
+        <sp who="#aegisthus">
+          <speaker>AEG.</speaker>
+          <p>Heu quid cerno.</p>
+        </sp>
+        <sp who="#orestes">
+          <speaker>OR.</speaker>
+          <p>Quem uereris? Quem non agnoscis?</p>
+        </sp>
+        <sp who="#aegisthus">
+          <speaker>AEG.</speaker>
+          <p>Me miserum, in quorum hominum medios casses incidi?</p>
+        </sp>
+        <sp who="#orestes">
+          <speaker>OR.</speaker>
+          <p>Nondum sentis, te uiuentem quasi cum mortuis fabulari?</p>
+        </sp>
+        <sp who="#aegisthus">
+          <speaker>AEG.</speaker>
+          <p>Eheu, intellexi dictum. Certe enim is qui mecum loquitur, Orestes est.</p>
+        </sp>
+        <sp who="#orestes">
+          <speaker>OR.</speaker>
+          <p>Cum tam bonus uates esses, quî factum est, ut ita falsus sis?</p>
+        </sp>
+        <sp who="#aegisthus">
+          <speaker>AEG.</speaker>
+          <p>Interij miser. Sed quaeso pauca me sinito loqui.</p>
+        </sp>
+        <sp who="#electra">
+          <speaker>EL.</speaker>
+          <p>Noli, per te deos obsecro frater, permittere huic, ut diu loquatur. <emph>Quid enim
+              moriturus lucri fecerit, si paulum temporis accedat, in hac mortalium communitate ma-
+              lorum?</emph> Proinde quamprimum istum iugula, &amp; caede patrata eo affice honore
+            sepulcri, remotum ab aspectu nostro, quem meretur. Hoc enim unico modo pristinam
+            miseriam meam sedari posse confidam.</p>
+        </sp>
+        <sp who="#orestes">
+          <speaker>OR.</speaker>
+          <p>Ito tu celeriter intro. Nam non uerborum, sed uitae tuae certamen instat.</p>
+        </sp>
+        <sp who="#aegisthus">
+          <speaker>AEG.</speaker>
+          <p>Sed cur tu intro me rapis? Quare, si hoc fieri rectum est, tenebras quaeris, neque
+            palam me interficis?</p>
+        </sp>
+        <sp who="#orestes">
+          <speaker>OR.</speaker>
+          <p>Ne moneas. Atque ito intro, atque eum te ad locum confer, ubi quondam interemisti
+            patrem meum, in eodem ut &amp; ipse cadas.</p>
+        </sp>
+        <sp who="#aegisthus">
+          <speaker>AEG.</speaker>
+          <p>Necesse igitur est illud conclaue aspicere, praesentesque &amp; <pb n="312"/> futuras
+            Pelopidarum calamitates?</p>
+        </sp>
+        <sp who="#orestes">
+          <speaker>OR.</speaker>
+          <p>Tuas quidem certe. Horum ego summus tibi uates esse possum.</p>
+        </sp>
+        <sp who="#aegisthus">
+          <speaker>AEG.</speaker>
+          <p>Iactitas hanc tamen haud paternam artem.</p>
+        </sp>
+        <sp who="#orestes">
+          <speaker>OR.</speaker>
+          <p>Multa uerba facis, &amp; nihil interea promoues. Perge igitur.</p>
+        </sp>
+        <sp who="#aegisthus">
+          <speaker>AEG.</speaker>
+          <p>I prae.</p>
+        </sp>
+        <sp who="#orestes">
+          <speaker>OR.</speaker>
+          <p>Te praeire oportet.</p>
+        </sp>
+        <sp who="#aegisthus">
+          <speaker>AEG.</speaker>
+          <p>Scilicet, ne effugiam manus tuas.</p>
+        </sp>
+        <sp who="#orestes">
+          <speaker>OR.</speaker>
+          <p>Immo ne quid ad mortem gratum accedat: ego cauebo, ne ista etiam acerbitas absit.
+              <emph>Par autem erat, praesentem esse poenam omnibus, qui plus posse uellent se quam
+              leges, ut occiderentur:</emph> ita non cresceret improbitas.</p>
+        </sp>
+        <sp who="#chorus">
+          <speaker>CHO.</speaker>
+          <p>O` semen Atrei, post quantas afflictiones ad libertatem peruenisti, hoc tandem
+            itinere?</p>
+        </sp>
+        <closer>ELECTRAE FINIS.</closer>
+      </div>
+    </body>
+  </text>
+</TEI>

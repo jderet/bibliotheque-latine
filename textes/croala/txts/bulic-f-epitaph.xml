@@ -1,0 +1,114 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc xml:id="bulic-f-epitaph">
+         <titleStmt>
+            <title>Sui ipsius epitaphium (ante 1934), versio electronica</title>
+            <author ref="http://www.wikidata.org/entity/Q566768">
+               <persName>Bulić, don Frane</persName>
+               <date from="1846" to="1934">1846–1934</date>
+            </author>
+            <editor>
+               <persName xml:id="NJ">
+                  <ref type="viaf" target="6913774">Neven Jovanović</ref>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Hanc editionem electronicam curavit</resp>
+               <persName>
+                  <ref type="viaf" target="6913774">Neven Jovanović</ref>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Prema digitalnoj fotografiji izvornog natpisa.</edition>
+         </editionStmt>
+         <extent ana="A">Mg:A 2 versus, verborum 54</extent>
+         <publicationStmt>
+            <p>elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni
+                    projekt na <orgName>
+                  <ref type="viaf" target="124389134">Filozofskom fakultetu Sveučilišta u Zagrebu</ref>
+               </orgName>, <placeName ref="3186886">Zagreb</placeName>
+                    Hrvatska.  <date when="2010-12">Prosinca 2010</date>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="repo" ana="digital">Digitalna verzija: CroALa</bibl>
+            <bibl>
+               <ref target="http://www3.ttf.hr/info/personals/Mira_Loncar_Dusek/slike/salona%20071_R.jpg">Digitalna fotografija</ref>, Mira Lončar Dušek, listopad
+                2009.</bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+            <p/>
+         </abstract>
+         <settingDesc>
+            <p/>
+         </settingDesc>
+         <particDesc>
+            <p/>
+         </particDesc>
+         <langUsage>
+            <language ident="lat" xml:lang="hrv">latinski</language>
+         </langUsage>
+         <creation>
+            <date when="1930" precision="low" period="19xx_2_third">1896-1934</date>
+         </creation>
+         <textClass>
+            <keywords scheme="typus">
+               <term>poesis</term>
+               <term>paratextus prosaici</term>
+            </keywords>
+            <keywords scheme="aetas">
+               <term>Litterae recentiores (1600-1850)</term>
+               <term>Saeculum 19 (1801-1900)</term>
+               <term>1851-1900</term>
+            </keywords>
+            <keywords scheme="genre">
+               <term>poesis - epitaphium</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <persName>
+               <ref type="viaf" target="6913774">Neven Jovanović</ref>
+            </persName>
+            <persName>Luka Špoljarić</persName>
+            <date>2012-07-22</date>
+                Novo, unificirano zaglavlje.
+            </change>
+         <change>
+            <date>2010-12-28</date>
+            <persName>
+               <ref type="viaf" target="6913774">Neven Jovanović</ref>
+            </persName>
+                Versio prima.
+            </change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="prosimetrum">
+      <body>
+         <div type="prosimetrum-inscriptio" met="hexameter">
+            <p>
+    HIC IACET FRANCISCVS BVLIĆ PECCATOR ET INDIGNVS / PRESBYTER <lb/>
+    EXPLETO ANNORVM CIRCVLO QVINTO / HOC SIBI <lb/>
+    SEPVLCRVM FRANCISCVS CONDERE IVSSIT / <lb/>
+    MARTYRVM SALONITANORVM <lb/>
+    SERVANS REVERENDA LIMINA SANCTORVM <lb/>
+            </p>
+            <l met="hexameter">OMNIPOTENSQVE DEVS QVI ME FORMAVIT ET AVFERT</l>
+            <l met="hexameter">CLEMENS EXCIPIAT SERVETQVE AD GAVDIA MEMBRVM</l>
+            <p> NAT. <date when="1846-10-04">
+                  <num>IV</num> <abbr>NON</abbr> <abbr>OCT</abbr> <abbr>A</abbr> <num>MDCCCXLVI</num>
+               </date>
+                    OBIIT <date when="1934-07-29">
+                  <num>IV</num> <abbr>KAL</abbr> <abbr>AVG</abbr> <abbr>A</abbr> <num>MCMXXXIV</num>
+               </date>
+               <lb/>
+               <expan>Hoc Monumentum Heredem Non Sequitur</expan>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

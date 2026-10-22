@@ -1,0 +1,1719 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="dracor" xml:id="neolat000004" xml:lang="la">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Susanna</title>
+            <author>
+               <persName xml:lang="la">
+                  <forename>Johannes Leo</forename>
+                  <surname>Placentius</surname>
+               </persName>
+               <idno type="wikidata">Q1243416</idno>
+               <idno type="gnd">119790009</idno>
+            </author>
+            <editor ref="https://orcid.org/0000-0002-5768-9932">Jan Bloemendal</editor>
+            <respStmt>
+               <resp>Converted to TEI under the supervision of</resp>
+               <persName ref="https://orcid.org/0000-0001-8979-8706">Julia Jennifer Beine</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Converted to TEI by</resp>
+               <persName ref="https://orcid.org/0009-0004-0110-9670">Jana Synovcová Borovičková</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher xml:id="dracor">DraCor</publisher>
+            <idno type="URL">https://dracor.org</idno>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0
+                  1.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="digitalSource">
+               <ref target="https://gitlab.huc.knaw.nl/eDITem/translatin-dramas/-/blob/main/datasource/transcriptions/docx/Placentius-Susanna.docx">TransLatin</ref>
+               <note>Commit 2d6539882656911527ebb75a7f2cc9dded5209bd</note>
+               <availability status="free">
+                  <p>In the public domain.</p>
+               </availability>
+               <bibl type="originalSource"><author>Johannes Leo Placentius</author> : <title type="main">Susanna</title> . In: <title>Susanna per Plancentium euangelisten
+                     lusa. Eusebii Candidi Elegia, in uanam breuemque humanæ uitæ gloriolam. Item
+                     Ode Sapphica eiusdem Eusebij, in mortis recordationem. Item Plausus luctificæ
+                     mortis, ad modum Dialogi, extemporaliter ad eodem Eusebio lusus</title> .
+                     <pubPlace>Antwerp</pubPlace> : <publisher>Mich[iel] Hillen van
+                     Hoochstraten</publisher>
+                  <date>1534</date> . </bibl>
+               <relatedItem>
+                  <!-- digital copy used -->
+                  <bibl>
+                     <ref target="https://books.google.com/books?id=zZgzjJruqfwC&amp;hl">Google
+                        Books</ref>
+                     <availability status="free">
+                        <p>In the public domain.</p>
+                     </availability>
+                  </bibl>
+               </relatedItem>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <particDesc>
+            <listPerson>
+               <person xml:id="crito" sex="MALE" role="advocatus">
+                  <persName>Crito</persName>
+               </person>
+               <person xml:id="petulus" sex="MALE" role="famulus">
+                  <persName>Petulus</persName>
+               </person>
+               <person xml:id="hislio" sex="MALE" role="famulus">
+                  <persName>Hislio</persName>
+               </person>
+               <person xml:id="chrisalus" sex="MALE" role="iudex">
+                  <persName>Chrisalus</persName>
+               </person>
+               <person xml:id="ioachimus" sex="MALE" role="maritus">
+                  <persName>Ioachimus</persName>
+               </person>
+               <person xml:id="susanna" sex="FEMALE" ana="https://www.wikidata.org/wiki/Q756861">
+                  <persName>Susanna</persName>
+               </person>
+               <person xml:id="maura" sex="FEMALE" role="pedisequa">
+                  <persName>Maura</persName>
+               </person>
+               <person xml:id="livia" sex="FEMALE" role="pedisequa">
+                  <persName>Livia</persName>
+               </person>
+               <person xml:id="charinus" sex="MALE" role="famulus">
+                  <persName>Charinus</persName>
+               </person>
+               <person xml:id="helchias" sex="MALE" role="pater">
+                  <persName>Helchias</persName>
+               </person>
+               <personGrp xml:id="carnifices-duo" sex="MALE" role="carnifex">
+                  <persName>Carnifices duo</persName>
+               </personGrp>
+               <personGrp xml:id="populus" sex="UNKNOWN" role="spectator">
+                  <persName>Populus</persName>
+               </personGrp>
+               <person xml:id="daniel" sex="MALE" role="propheta" ana="https://www.wikidata.org/wiki/Q171724">
+                  <persName>Daniel</persName>
+               </person>
+            </listPerson>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term type="genreTitle">comedy</term>
+            </keywords>
+            <classCode scheme="http://www.wikidata.org/entity/">Q40831</classCode>
+         </textClass>
+         <creation>
+            <region>
+               <ref target="https://www.wikidata.org/wiki/Q476033">Low Countries</ref>
+            </region>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2025-05-30">
+               <desc>Converted to DraCor TEI by Jana Synovcová Borovičková.</desc>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <standOff>
+      <listEvent>
+         <event type="print" when="1534">
+            <desc>first print 1532, differences between the 1532 and 1534 versions unknown</desc>
+         </event>
+      </listEvent>
+   </standOff>
+   <text>
+      <front>
+         <titlePage>
+            <docTitle>
+               <titlePart type="main">SVSANNA PER PLACENTIVM EVANgelisten lusa.</titlePart>
+               <titlePart type="sub">EVSEBII CANDII Elegia, in unam breuemque humanae uitae
+                  gloriolam ITEM ode Sapphica ejusdem eusebii, in mortis reCordationem ITEM plausus
+                  luctificae Mortis, admodum Dialogi, extemporaliter ad eodem Eusebio
+                  lusus.</titlePart>
+            </docTitle>
+            <docImprint>
+               <date>An. 1534</date>
+            </docImprint>
+         </titlePage>
+         <div type="preface" subtype="epigram">
+            <head>Epigramma ad lectorem.</head>
+            <l>Quid iuvat heus iuvenes veteris monumenta Terenti</l>
+            <l>aut Plauti, aut Nevi volvere saepe manu,</l>
+            <l>et spectatori vanas divendere nugas,</l>
+            <l>in quibus instruitur desidiosus amor?</l>
+            <l>Quin potius placeant divina poëmata nostri</l>
+            <l>Evangelistae, qui canit ore caro.</l>
+            <l>Hic bene Susannam festivo carmine lusit</l>
+            <l>quamquam senes turpis commacularit amor.</l>
+            <l>Annis sub teneris divinas discere praestat</l>
+            <l>historias, veterum quam recitare leves.</l>
+            <l>Nam quod percipiunt iuvenes aetate recenti,</l>
+            <l>firmius inhaeret, nec cito deficiet.</l>
+         </div>
+         <castList>
+            <head>INTERLOCUTORES.</head>
+            <castItem>
+               <roleDesc>Poëta</roleDesc>
+               <roleDesc>orans argumentum ad populum.</roleDesc>
+            </castItem>
+            <castItem>
+               <role>CRITO</role>
+               <roleDesc>advocatus.</roleDesc>
+            </castItem>
+            <castItem>
+               <role>PETULUS</role>
+               <roleDesc>Critonis famulus.</roleDesc>
+            </castItem>
+            <castItem>
+               <role>HISLIO</role>
+               <roleDesc>pedellus Chrisali famulus.</roleDesc>
+            </castItem>
+            <castItem>
+               <role>CHRISALUS</role>
+               <roleDesc>iudex.</roleDesc>
+            </castItem>
+            <castItem>
+               <role>JOACHIMUS</role>
+               <roleDesc>Susannae maritus.</roleDesc>
+            </castItem>
+            <castItem>
+               <role>SUSANNA.</role>
+            </castItem>
+            <castGroup>
+               <castItem>MAURA,</castItem>
+               <castItem>LIVIA</castItem>
+               <roleDesc>pedissiquae.</roleDesc>
+            </castGroup>
+            <castItem>
+               <role>CHARINUS</role>
+               <roleDesc>Susannae famulus.</roleDesc>
+            </castItem>
+            <castGroup>
+               <roleDesc>CARNIFICES DUO.</roleDesc>
+            </castGroup>
+            <castItem>
+               <role>HELCHIAS</role>
+               <roleDesc>Susannae pater.</roleDesc>
+            </castItem>
+            <castItem>
+               <role>DANIËL</role>
+               <roleDesc>propheta.</roleDesc>
+            </castItem>
+            <castItem>
+               <roleDesc>POPULUS</roleDesc>
+               <roleDesc>spectator</roleDesc>
+            </castItem>
+            <castGroup>
+               <roleDesc>LORARII DUO</roleDesc>
+               <roleDesc>personae mutae</roleDesc>
+            </castGroup>
+            <castItem>
+               <roleDesc>Angelus</roleDesc>
+               <roleDesc>persona muta, stringens gladium</roleDesc>
+            </castItem>
+         </castList>
+         <div type="argument">
+            <head>ARGUMENTUM, sub iambis hyponactiis</head>
+            <l>Senes duo multo omnium impiissimi</l>
+            <l>ira, libidine, avaritia, gula, omnibus</l>
+            <l>breviter malis foeti, vegeti impliciti oppido</l>
+            <l>castae Susannae inurere cauterium</l>
+            <l>ausi, dolos excogitant adulterii.</l>
+            <l>Pomario abdunt, Susanna dum lavat</l>
+            <l>corpusculum, exque more smigmate abluit</l>
+            <l>oleoque, puellis tunc abeuntibus procul,</l>
+            <l>ab angulo emergunt, rogantque improbum</l>
+            <l>factum ; illa constanter negat, minantibus</l>
+            <l>senibus quid acturi sient ; ea invocat</l>
+            <l>servos, senes contra Susannam adulteram</l>
+            <l>aiunt, iuveni paruisse. Nil pudet viros</l>
+            <l>mentirier. Hortantur populum in necem</l>
+            <l>miserae Susannae; educta spem superis duit,</l>
+            <l>parat lapides plebs, flet maritus anxius.</l>
+            <l>Circum at Daniel propheta avocat manus</l>
+            <l>Declarat impiam rem, redit in senes malum,</l>
+            <l>quod innocenti foeminae paratum erat.</l>
+            <l>Ita servat integros Deus optimus, malos</l>
+            <l>perdit. Docemur hoc argumento habere abditam</l>
+            <l>spem in coelicolas ; favete nutibus.</l>
+            <l>Exibit hic bis pessimus senex Crito.</l>
+         </div>
+      </front>
+      <body>
+         <div type="act" n="1">
+            <head>ACTUS PRIMUS</head>
+            <stage>Crito iureconsultus et Petulus servus</stage>
+            <sp who="#crito">
+               <l>Sexcentae pestes, podagrae, pleureses malae</l>
+               <l>has puellas obtineant diu, quas senum</l>
+               <l>non miseret magis, quasi desissemus</l>
+               <l>vivere, aut omnino non possemus</l>
+               <l>amandi compotes.</l>
+            </sp>
+            <sp who="#petulus">
+               <speaker>Pet.</speaker>
+               <l part="I">Sapiunt.</l>
+            </sp>
+            <sp who="#crito">
+               <speaker>Cri.</speaker>
+               <l part="F">Quid ita?</l>
+            </sp>
+            <sp who="#petulus">
+               <speaker>Pet.</speaker>
+               <l>Quia annosos equos non comparant ad onus,</l>
+               <l>neque detritas vestes festo die induunt.</l>
+               <l part="I">Ea sunt omnium ingenia.</l>
+            </sp>
+            <sp who="#crito">
+               <speaker>Cri.</speaker>
+               <l part="F">Atqui?</l>
+               <l>Haud ita oderunt veterem pecuniam.</l>
+            </sp>
+            <sp who="#petulus">
+               <speaker>Pet.</speaker>
+               <l>Scio, nam ea manet sibi similis,</l>
+               <l>senes non itidem: varii sunt, momento</l>
+               <l>evanidi sapientia, ingenio irritabiles,</l>
+               <l part="I">praecoces in rixam.</l>
+            </sp>
+            <sp who="#crito">
+               <speaker>Cri.</speaker>
+               <l part="F">Carcer, servum</l>
+               <l part="I">meum hostem alo.</l>
+            </sp>
+            <sp who="#petulus">
+               <speaker>Pet.</speaker>
+               <l part="F">Here.</l>
+            </sp>
+            <sp who="#crito">
+               <speaker>Cri.</speaker>
+               <l part="I">Lorarii.</l>
+            </sp>
+            <sp who="#petulus">
+               <speaker>Pet.</speaker>
+               <l part="M">Hem.</l>
+            </sp>
+            <sp who="#crito">
+               <speaker>Cri.</speaker>
+               <l part="F">Hunc sycophantam</l>
+               <l>servum meum Petulum, facite eum insimulationis</l>
+               <l>tam calumniosae poeniteat.</l>
+            </sp>
+            <sp who="#petulus">
+               <speaker>Pet.</speaker>
+               <l part="I">Audi, obsecro.</l>
+            </sp>
+            <sp who="#crito">
+               <speaker>Cri.</speaker>
+               <l part="F">Non audio.</l>
+            </sp>
+            <sp who="#petulus">
+               <speaker>Pet.</speaker>
+               <l part="I">Etiamne verbum ullum?</l>
+            </sp>
+            <sp who="#crito">
+               <speaker>Cri.</speaker>
+               <l part="F">Non unum quidem.</l>
+            </sp>
+            <sp who="#petulus">
+               <speaker>Pet.</speaker>
+               <l>Nec in rem tuam aliquid?</l>
+            </sp>
+            <sp who="#crito">
+               <speaker>Cri.</speaker>
+               <l part="I">Auferte in praecipitium scelus.</l>
+            </sp>
+            <sp who="#petulus">
+               <speaker>Pet.</speaker>
+               <l part="F">Hoihoi</l>
+               <l>Scapha meretricula iam nunc aderit.</l>
+               <l>Mehercule, non poterit ei persuaderi</l>
+               <l>ut maneat, nisi verbis meis.</l>
+            </sp>
+            <sp who="#crito">
+               <speaker>Cri.</speaker>
+               <l>Scapham narras? Euge, mi Petule.</l>
+            </sp>
+            <sp who="#petulus">
+               <speaker>Pet.</speaker>
+               <l part="I">Protinus alius est.</l>
+            </sp>
+            <sp who="#crito">
+               <speaker>Cri.</speaker>
+               <l part="F">Scapham</l>
+               <l>ne huius patriae ornamentum?</l>
+            </sp>
+            <sp who="#petulus">
+               <speaker>Pet.</speaker>
+               <l>Scapham, inquam, quae palmam facile</l>
+               <l part="I">praeripit omnibus.</l>
+            </sp>
+            <sp who="#crito">
+               <speaker>Cri.</speaker>
+               <l part="F">Homo frugies</l>
+               <l>pulchreque de me meritus, quo non optarem</l>
+               <l>conducibiliorem. At abi vero intus, ac cura,</l>
+               <l>luculentus sit locus et eleganter ubique omnia.</l>
+            </sp>
+            <sp who="#petulus">
+               <speaker>Pet.</speaker>
+               <l part="I">Nihil moror.</l>
+            </sp>
+            <sp who="#crito">
+               <speaker>Cri.</speaker>
+               <l part="F">Iam nunc iuventa mihi rediit.</l>
+            </sp>
+            <stage>Hislio pedellus, Crito, Petulus</stage>
+            <sp who="#hislio">
+               <l>Egregium vero senem, sed audit, hem Crito salve.</l>
+            </sp>
+            <sp who="#crito">
+               <speaker>Cri.</speaker>
+               <l>Salve Hislio, tu hic aderas lepidum capitulum.</l>
+               <l part="I">Ecquid obsecro novarum rerum?</l>
+            </sp>
+            <sp who="#hislio">
+               <speaker>His.</speaker>
+               <l part="F">Forensium aliquid.</l>
+            </sp>
+            <sp who="#crito">
+               <speaker>Cri.</speaker>
+               <l part="I">Dii nos amant.</l>
+            </sp>
+            <sp who="#hislio">
+               <speaker>His.</speaker>
+               <l part="F">Obambulabam cogitabundus</l>
+               <l part="I">ac ungues rodens.</l>
+            </sp>
+            <sp who="#crito">
+               <speaker>Cri.</speaker>
+               <l part="F">Saepe soles.</l>
+            </sp>
+            <sp who="#petulus">
+               <speaker>Pet.</speaker>
+               <l>Video e specu fortuna emergentem virgunculam.</l>
+            </sp>
+            <sp who="#crito">
+               <speaker>Cri.</speaker>
+               <l>Hem perge, apud me licet.</l>
+            </sp>
+            <sp who="#petulus">
+               <speaker>Pet.</speaker>
+               <l>Facite honesta, ut siqua est alia.</l>
+            </sp>
+            <sp who="#crito">
+               <speaker>Cri.</speaker>
+               <l part="I">Beate.</l>
+            </sp>
+            <sp who="#hislio">
+               <speaker>His.</speaker>
+               <l part="F">Plorabat, opem rogabat, quaerebat patronum.</l>
+            </sp>
+            <sp who="#crito">
+               <speaker>Cri.</speaker>
+               <l>Offendit te opportunum satis, quid neges?</l>
+            </sp>
+            <sp who="#hislio">
+               <speaker>His.</speaker>
+               <l>Propere audio eam anxie dicentem causam.</l>
+            </sp>
+            <sp who="#crito">
+               <speaker>Cri.</speaker>
+               <l part="I">At non illubenter scio.</l>
+            </sp>
+            <sp who="#hislio">
+               <speaker>His.</speaker>
+               <l part="F">Israelitem</l>
+               <l>interea se dicebat, patre circumciso natam.</l>
+            </sp>
+            <sp who="#crito">
+               <speaker>Cri.</speaker>
+               <l>Si bella sit, quo patre, minimum.</l>
+            </sp>
+            <sp who="#hislio">
+               <speaker>His.</speaker>
+               <l>Tum verbis identidem sobrie isthuc egi,</l>
+               <l part="I">ut temperaret lacrymas.</l>
+            </sp>
+            <sp who="#crito">
+               <speaker>Cri.</speaker>
+               <l part="F">Verbis</l>
+               <l part="I">an rebus?</l>
+            </sp>
+            <sp who="#hislio">
+               <speaker>His.</speaker>
+               <l part="F">Imo, virgo erat.</l>
+            </sp>
+            <sp who="#crito">
+               <speaker>Cri.</speaker>
+               <l>Caeterum, nam spes erat posse eam audire?</l>
+            </sp>
+            <sp who="#petulus">
+               <speaker>Pet.</speaker>
+               <l part="I">Quos?</l>
+            </sp>
+            <sp who="#crito">
+               <speaker>Cri.</speaker>
+               <l part="M">Senes.</l>
+            </sp>
+            <sp who="#petulus">
+               <speaker>Pet.</speaker>
+               <l part="F">Maxime,</l>
+               <l>modo nihil cum ea vestrae pugnaret sententiae.</l>
+            </sp>
+            <sp who="#crito">
+               <speaker>Cri.</speaker>
+               <l>Nefas, fas, aequum, iniquum, lubens.</l>
+            </sp>
+            <sp who="#petulus">
+               <speaker>Pet.</speaker>
+               <l>Capillus passus, oculus intime luxurians,</l>
+               <l part="I">tota cutis eburnea.</l>
+            </sp>
+            <sp who="#crito">
+               <speaker>Cri.</speaker>
+               <l part="F">Ubi nam pergentum</l>
+               <l part="I">ea est?</l>
+            </sp>
+            <sp who="#hislio">
+               <speaker>His.</speaker>
+               <l part="F">Iussi alicunde consilium ut peteret</l>
+               <l part="I">apud iudicem Chrisalum.</l>
+            </sp>
+            <sp who="#crito">
+               <speaker>Cri.</speaker>
+               <l part="F">Sterquilinium.</l>
+            </sp>
+            <sp who="#hislio">
+               <speaker>His.</speaker>
+               <l part="I">Succenses?</l>
+            </sp>
+            <sp who="#crito">
+               <speaker>Cri.</speaker>
+               <l part="F">Quid enim, num</l>
+               <l part="I">adduxisti domi meae?</l>
+            </sp>
+            <sp who="#hislio">
+               <speaker>His.</speaker>
+               <l part="F">Isthuc Petuli</l>
+               <l part="I">officium est.</l>
+            </sp>
+            <sp who="#crito">
+               <speaker>Cri.</speaker>
+               <l part="F">Utrumque malis exemplis</l>
+               <l part="I">dii deaeque perdant.</l>
+            </sp>
+            <sp who="#hislio">
+               <speaker>His.</speaker>
+               <l part="F">Mitius fulminator.</l>
+            </sp>
+            <sp who="#crito">
+               <speaker>Cri.</speaker>
+               <l part="I">Scisti me amicum?</l>
+            </sp>
+            <sp who="#hislio">
+               <speaker>His.</speaker>
+               <l part="F">Scio etiam num,</l>
+               <l>sed praepedivit memoriam virginis improbus dolor.</l>
+            </sp>
+            <sp who="#petulus">
+               <speaker>Pet.</speaker>
+               <l>Imperator meus Hislio.</l>
+            </sp>
+            <sp who="#hislio">
+               <speaker>His.</speaker>
+               <l>Petule, te ipsam optabam, affines sumus</l>
+               <l>utrumque eadem prece male devovit senex.</l>
+            </sp>
+            <sp who="#crito">
+               <speaker>Cri.</speaker>
+               <l>Utinam mihi in manu teneam aeque perdere,</l>
+               <l part="I">ac velle hoc consiliabulum.</l>
+            </sp>
+            <sp who="#hislio">
+               <speaker>His.</speaker>
+               <l part="F">Audisne iracundiam?</l>
+            </sp>
+            <sp who="#petulus">
+               <speaker>Pet.</speaker>
+               <l part="I">Occidi.</l>
+            </sp>
+            <sp who="#crito">
+               <speaker>Cri.</speaker>
+               <l part="F">Melius, Petule</l>
+               <l>ne cessa solicitus esse in vesperum,</l>
+               <l>ego hinc abiens Chrisalum adoriar,</l>
+               <l>ut valuerit cum scitula virgine.</l>
+            </sp>
+            <stage>Petulus, Hislio</stage>
+            <sp who="#petulus">
+               <l part="I">Scilicet amat Crito.</l>
+            </sp>
+            <sp who="#hislio">
+               <speaker>His.</speaker>
+               <l part="F">Octogenariusne?</l>
+            </sp>
+            <sp who="#petulus">
+               <speaker>Pet.</speaker>
+               <l>Et quidem procaciter, ac perdite.</l>
+            </sp>
+            <sp who="#hislio">
+               <speaker>His.</speaker>
+               <l part="I">O severum iudicem.</l>
+            </sp>
+            <sp who="#petulus">
+               <speaker>Pet.</speaker>
+               <l part="F">Haud ita pisciculi</l>
+               <l>in piscinis ludibundi solem anhelant,</l>
+               <l>atque ipsius quotidie scorta recentiora.</l>
+               <l>Virgines eum siquae adeunt consilii causa,</l>
+               <l>non abeunt integrae. Aedepol hercle,</l>
+               <l>Scapham meretricem in cenam vocavit?</l>
+               <l>Huius hodie gratia mihi benefiet.</l>
+            </sp>
+            <sp who="#hislio">
+               <speaker>His.</speaker>
+               <l part="I">Ah Petule.</l>
+            </sp>
+            <sp who="#petulus">
+               <speaker>Pet.</speaker>
+               <l part="F">Quid est?</l>
+            </sp>
+            <sp who="#hislio">
+               <speaker>His.</speaker>
+               <l>Eiusdem omnino farinae ausim dicere iudicem</l>
+               <l>herum meum Chrisalum. Nam lippit, titubat,</l>
+               <l>marcet totus; at at metuo, quorsum</l>
+               <l part="I">evadat virguncula.</l>
+            </sp>
+            <sp who="#petulus">
+               <speaker>Pet.</speaker>
+               <l part="F">Eo concessit,</l>
+               <l>nihil addubita, lupus non remittet ovem.</l>
+            </sp>
+            <sp who="#hislio">
+               <speaker>His.</speaker>
+               <l>Me miserum, potui iam dudum ex vultu</l>
+               <l>facere obstinatam libidinem. Atque adeo haec</l>
+               <l part="I">non commemineram.</l>
+            </sp>
+            <sp who="#petulus">
+               <speaker>Pet.</speaker>
+               <l part="F">Quenquam esse</l>
+               <l>ingenio tam bruto, ut citra verecundiam</l>
+               <l>in hunc sexum quoque peccet? O mores</l>
+               <l part="I">ad quos secula redierunt.</l>
+            </sp>
+            <sp who="#hislio">
+               <speaker>His.</speaker>
+               <l part="F">Quin tu</l>
+               <l>tace, Petule, nisi hoc clamore ad restim</l>
+               <l>mihi rem redire desideras. Caeterum</l>
+               <l>ut in aurem aperte aliquid fabuler,</l>
+               <l part="I">reges nos esse oportuit.</l>
+            </sp>
+            <sp who="#petulus">
+               <speaker>Pet.</speaker>
+               <l part="F">At hodie nihil</l>
+               <l>minus sumus, quam tanti mali auspices.</l>
+            </sp>
+            <sp who="#hislio">
+               <speaker>His.</speaker>
+               <l>Tum liceret tam manifestae insaniae</l>
+               <l part="I">nobis obicem ponere.</l>
+            </sp>
+            <sp who="#petulus">
+               <speaker>Pet.</speaker>
+               <l part="F">Ah, obicem?</l>
+               <l>Scitum est, vel ubique gentium cum autoritate</l>
+               <l>alium exurgere animum; videat optimos</l>
+               <l>pessimos fieri, certe bonis parum convenit</l>
+               <l>cum fucatis sublimibusque titulis.</l>
+            </sp>
+            <sp who="#hislio">
+               <speaker>His.</speaker>
+               <l>Ita est, sed ut abeam opus est facto.</l>
+            </sp>
+            <sp who="#petulus">
+               <speaker>Pet.</speaker>
+               <l>Mihi vero ut scite omnia domi meae coaptem,</l>
+               <l>quandoquidem tanta imperatrix proximo ventura sit.</l>
+            </sp>
+            <stage>Crito et Petulus</stage>
+            <sp who="#crito">
+               <l>Non irascar isthic Chrisalo? Solus potitus est</l>
+               <l>cupitis amplexibus, virginem sine teste vitiavit.</l>
+               <l>Ubi obiurgavi hominem, ait multa quidem</l>
+               <l>multis argumentis me idem fere domi nuper</l>
+               <l>patrasse, idque manifestius quam quod inficiar.</l>
+               <l>Quamquam, dii boni, levius tulerim factum inhumanum,</l>
+               <l>quod me domi meae pellex maneat lepidissima.</l>
+               <l>Sed eccum Petulum ut ridet affatim, ut laetus</l>
+               <l>est nebulo, siquidem iam una licebit nobiscum</l>
+               <l>obligurire, saginari citra dispendium.</l>
+            </sp>
+            <sp who="#petulus">
+               <speaker>Pet.</speaker>
+               <l>Iubet Scapha ad se quantum potes properes.</l>
+            </sp>
+            <sp who="#crito">
+               <speaker>Cri.</speaker>
+               <l>Vivo ad nomen Scaphae, quoties occurrit.</l>
+               <l>Obliviscor modo omnium iniuriarum, ita</l>
+               <l>sum gaudio factus velut ebrius.</l>
+            </sp>
+            <stage>Chrisalus iudex, Crito, Ioachimus, Susanna.</stage>
+            <sp who="#chrisalus">
+               <l>Ego non illum obiurgem, qui infami scelere</l>
+               <l>nomen, gloriam, maiestatem, ordinem denique</l>
+               <l>iureconsultorum invertit? Quid dicant cives,</l>
+               <l>imo quid non dicant? Critonem esse, senem esse,</l>
+               <l>iudicem esse, cuius aedes pateant meretrici.</l>
+               <l>Gestio illum in conspectu dari, ut sciat.</l>
+            </sp>
+            <sp who="#crito">
+               <speaker>Cri.</speaker>
+               <l part="I">Atque adeo quid tua?</l>
+            </sp>
+            <sp who="#chrisalus">
+               <speaker>Chr.</speaker>
+               <l part="F">Ehem, Crito,</l>
+               <l>tu hic eras? Oratum te advenio.</l>
+            </sp>
+            <sp who="#crito">
+               <speaker>Cri.</speaker>
+               <l>Scilicet hominum omnium quos sol videt deploratis.</l>
+               <l>An te putas tuaque facta ignorare omnes ?</l>
+               <l part="I">Invidus es.</l>
+            </sp>
+            <sp who="#chrisalus">
+               <speaker>Chr.</speaker>
+               <l part="M">An metuis?</l>
+            </sp>
+            <sp who="#crito">
+               <speaker>Cri.</speaker>
+               <l part="F">Avarus es.</l>
+            </sp>
+            <sp who="#chrisalus">
+               <speaker>Chr.</speaker>
+               <l part="I">Saepe aliquando.</l>
+            </sp>
+            <sp who="#crito">
+               <speaker>Cri.</speaker>
+               <l part="F">Luxu perditus.</l>
+            </sp>
+            <sp who="#chrisalus">
+               <speaker>Chr.</speaker>
+               <l part="I">Tempora vero.</l>
+            </sp>
+            <sp who="#crito">
+               <speaker>Cri.</speaker>
+               <l part="F">Incestuosus</l>
+            </sp>
+            <sp who="#chrisalus">
+               <speaker>Chr.</speaker>
+               <l part="I">Satis.</l>
+            </sp>
+            <sp who="#crito">
+               <speaker>Cri.</speaker>
+               <l part="F">Sacrilegus, ne quid addam.</l>
+            </sp>
+            <sp who="#chrisalus">
+               <speaker>Chr.</speaker>
+               <l>Malum, nisi taceas. Vicissim audies male.</l>
+               <l part="I">Dixi Crito.</l>
+            </sp>
+            <sp who="#crito">
+               <speaker>Cri.</speaker>
+               <l part="F">Si tu perges uno verbulo</l>
+               <l>contra hoc strepere, iniuriarum teneo inexplebilem dicam</l>
+               <l part="I">Dixi Chrisale.</l>
+            </sp>
+            <sp who="#chrisalus">
+               <speaker>Chr.</speaker>
+               <l part="F">Enimvero, si redeamus in gratiam.</l>
+            </sp>
+            <sp who="#crito">
+               <speaker>Cri.</speaker>
+               <l part="I">In pugnos malim.</l>
+            </sp>
+            <sp who="#chrisalus">
+               <speaker>Chr.</speaker>
+               <l part="F">Aedepol, non vidi</l>
+               <l part="I">magis immodestam audaciam.</l>
+            </sp>
+            <sp who="#crito">
+               <speaker>Cri.</speaker>
+               <l part="F">Consultius multo</l>
+               <l>cacodaemonem irritasses, quam huic meo stomacho</l>
+               <l part="I">negotium facessis.</l>
+            </sp>
+            <sp who="#chrisalus">
+               <speaker>Chr.</speaker>
+               <l part="F">At ignosce, obsecro.</l>
+            </sp>
+            <sp who="#crito">
+               <speaker>Cri.</speaker>
+               <l>Ni me haec aetas prohibeat magis quam metus,</l>
+               <l>facile doceam te non frustra ab seniis calumniatum</l>
+               <l part="I">iri opera.</l>
+            </sp>
+            <sp who="#chrisalus">
+               <speaker>Chr.</speaker>
+               <l part="F">Quin tu tandem memento nos</l>
+               <l>esse presbyteros, quorum nutu ac renutu</l>
+               <l part="I">oculi omnium pendeant.</l>
+            </sp>
+            <sp who="#crito">
+               <speaker>Cri.</speaker>
+               <l part="F">Scelus, omnium oculos</l>
+               <l>narras, cum nemo sit qui te impiissimum</l>
+               <l part="I">non norit?</l>
+            </sp>
+            <sp who="#chrisalus">
+               <speaker>Chr.</speaker>
+               <l part="F">Ingenue, haud admodum</l>
+               <l>enim dissidemus ab auditorio, cave ne imprudentes</l>
+               <l>nos Ioachimus classicus opprimat.</l>
+               <l>Siquidem vir est, sancta apud vulgum eius</l>
+               <l>est auctoritas, possumus uno strepitu grandem</l>
+               <l>opinioni nostrae facere iacturam.</l>
+            </sp>
+            <sp who="#ioachimus">
+               <speaker>Ioa.</speaker>
+               <l>Ita faciam, ut dixi, Susanna.</l>
+            </sp>
+            <sp who="#susanna">
+               <speaker>Sus.</speaker>
+               <l>Debemus, aecastor, isthuc aetati tardae</l>
+               <l>ut venerandae canitiei, ut meliuscule undique</l>
+               <l>sentiant nos affectos senes, etiam si</l>
+               <l part="I">desit autoritas.</l>
+            </sp>
+            <sp who="#ioachimus">
+               <speaker>Ioa.</speaker>
+               <l part="F">Vocabo utrumque ad prandium.</l>
+            </sp>
+            <sp who="#chrisalus">
+               <speaker>Chr.</speaker>
+               <l part="I">Sed eccum aggreditur.</l>
+            </sp>
+            <sp who="#ioachimus">
+               <speaker>Ioa.</speaker>
+               <l part="F">Salvete oppido</l>
+               <l part="I">multum magistri nostri.</l>
+            </sp>
+            <sp who="#chrisalus">
+               <speaker>Chr.</speaker>
+               <l part="F">Tu vero</l>
+               <l part="I">tantundem, Ioachime suavissime.</l>
+            </sp>
+            <sp who="#crito">
+               <speaker>Cri.</speaker>
+               <l part="F">Nos</l>
+               <l>equidem laboriosa hic contentione didiceramus,</l>
+               <l>antequam advenisses, ut sicubi commodioribus</l>
+               <l>paulo argumentis, argutioribusque possemus causas</l>
+               <l>pro republica posthac dicere.</l>
+            </sp>
+            <sp who="#ioachimus">
+               <speaker>Ioa.</speaker>
+               <l>Profecto ut ubique, ita hic exercitatio</l>
+               <l>plurimum ponderis adfert. Caeterum in prandium</l>
+               <l>utrumque gestio domi meae habere convivam, ne quid</l>
+               <l>causemini; ita imperavit Susanna nostra.</l>
+            </sp>
+            <sp who="#crito">
+               <speaker>Cri.</speaker>
+               <l>Femina est, ita me dii bene ament, digna</l>
+               <l>cui numquam aliquid negetur. Itaque eamus.</l>
+            </sp>
+         </div>
+         <div type="act" n="2">
+            <head>ACTUS SECUNDUS</head>
+            <stage>Crito. Chrisalus senes.</stage>
+            <sp who="#crito">
+               <l>Annos computo, reperio me hodie primum vixisse</l>
+               <l part="I">misere.</l>
+            </sp>
+            <sp who="#chrisalus">
+               <speaker>Chr.</speaker>
+               <l part="F">O Susanna, Susanna, quam</l>
+               <l>magnifice experior oculos tuos vere esse</l>
+               <l part="I">magnetes,</l>
+            </sp>
+            <sp who="#crito">
+               <speaker>Cri.</speaker>
+               <l part="F">Eia mellitissime Chrisale.</l>
+            </sp>
+            <sp who="#chrisalus">
+               <speaker>Chr.</speaker>
+               <l part="I">O Crito quid est?</l>
+            </sp>
+            <sp who="#crito">
+               <speaker>CR.</speaker>
+               <l part="F">Rogas? quod</l>
+               <l part="I">me eloqui indignum est.</l>
+            </sp>
+            <sp who="#chrisalus">
+               <speaker>Chr.</speaker>
+               <l part="F">Quid enim?</l>
+               <l>Hactenus non constamus invicem.</l>
+            </sp>
+            <sp who="#crito">
+               <speaker>Cri.</speaker>
+               <l part="I">Potis est tacere?</l>
+            </sp>
+            <sp who="#chrisalus">
+               <speaker>Chr.</speaker>
+               <l part="M">Maxime.</l>
+            </sp>
+            <sp who="#crito">
+               <speaker>Cri.</speaker>
+               <l part="F">Amo.</l>
+            </sp>
+            <sp who="#chrisalus">
+               <speaker>Chr.</speaker>
+               <l part="I">Susannamne?</l>
+            </sp>
+            <sp who="#crito">
+               <speaker>Cri.</speaker>
+               <l part="F">Eam ipsam.</l>
+               <l part="I">Ah quam pertinaciter haeret.</l>
+            </sp>
+            <sp who="#chrisalus">
+               <speaker>Chr.</speaker>
+               <l part="F">Hau, obsecro,</l>
+               <l>eadem mihi iamque vertiginem attulit, adeo</l>
+               <l>me indomitus decoquit ignis, abdita</l>
+               <l>penetralia furor (heu nimium insolens) obtinet.</l>
+               <l>Quid est consilii? Abs te audire percupio.</l>
+            </sp>
+            <sp who="#crito">
+               <speaker>Cri.</speaker>
+               <l>Quid? Nisi ut demus operam mutuam</l>
+               <l>Connitemur in hoc summis viribus astuque.</l>
+            </sp>
+            <sp who="#chrisalus">
+               <speaker>Chr.</speaker>
+               <l>Atqui? Honesta est, non exaudiet</l>
+               <l>illecebrosos; adolescentula est, aversabitur senes,</l>
+               <l part="I">cum improperio reiciemur.</l>
+            </sp>
+            <sp who="#crito">
+               <speaker>Cri.</speaker>
+               <l part="F">Miserum me,</l>
+               <l part="I">nisi potiar, certum est perire.</l>
+            </sp>
+            <sp who="#chrisalus">
+               <speaker>Chr.</speaker>
+               <l part="F">Ipsum id ego.</l>
+            </sp>
+            <sp who="#crito">
+               <speaker>Cri.</speaker>
+               <l>Quin igitur aperte pereamus.</l>
+            </sp>
+            <sp who="#chrisalus">
+               <speaker>Chr.</speaker>
+               <l>Respira aliquantisper, plus satis est amare,</l>
+               <l part="I">si non etiam desperemus.</l>
+            </sp>
+            <sp who="#crito">
+               <speaker>Cri.</speaker>
+               <l part="F">An tu</l>
+               <l>vero nihil iam potes, qui saepe sphingem</l>
+               <l part="I">evicisti dolis?</l>
+            </sp>
+            <sp who="#chrisalus">
+               <speaker>Chr.</speaker>
+               <l part="F">Caeterum tua refert hic</l>
+               <l>altius insistere, qui ubivis universos sutelis</l>
+               <l>anteis. Redige in memoriam, ut ut</l>
+               <l>millies instructas virginum ades consilio</l>
+               <l>expugnaveris, inglorium est omne vetus</l>
+               <l>modo hic deficiant artes tuae.</l>
+            </sp>
+            <sp who="#crito">
+               <speaker>Cri.</speaker>
+               <l part="I">Papae spes est iniecta.</l>
+            </sp>
+            <sp who="#chrisalus">
+               <speaker>Chr.</speaker>
+               <l part="F">Abundas,</l>
+               <l part="I">enarra.</l>
+            </sp>
+            <sp who="#crito">
+               <speaker>Cri.</speaker>
+               <l part="F">Scisne pomarium esse Ioachimo?</l>
+            </sp>
+            <sp who="#chrisalus">
+               <speaker>Chr.</speaker>
+               <l>Scio, nempe quo contemplari solemus</l>
+               <l>euntem eam ac redeuntem bellissime.</l>
+            </sp>
+            <sp who="#crito">
+               <speaker>Cri.</speaker>
+               <l>Ibi plurimum confert se a prandio, ut lavet</l>
+               <l part="I">augusto pedissequarum sodalitio.</l>
+            </sp>
+            <sp who="#chrisalus">
+               <speaker>Chr.</speaker>
+               <l part="F">Perge.</l>
+            </sp>
+            <sp who="#crito">
+               <speaker>Cri.</speaker>
+               <l>In angulo alibi crastino nos abdemus,</l>
+               <l part="I">erumpemus dum plana nuda erit.</l>
+            </sp>
+            <sp who="#chrisalus">
+               <speaker>Chr.</speaker>
+               <l part="F">Recte.</l>
+            </sp>
+            <sp who="#crito">
+               <speaker>Cri.</speaker>
+               <l>Tu, inquam, heus pulcherrima Susanna,</l>
+               <l>ecquid nos enecas eleganti specie? Equidem</l>
+               <l>foeminarum id genus, mirum quam bene audiat,</l>
+               <l>sicubi telum ordiaris ab honesta forma.</l>
+            </sp>
+            <sp who="#chrisalus">
+               <speaker>Chr.</speaker>
+               <l>Dii boni, numquam audivi sapientius consilium.</l>
+               <l>Ut ut ex Vulcano subito factus sum Mercurius?</l>
+               <l>Ceterum accingere quanta potes fiducia.</l>
+            </sp>
+            <stage>Susanna, Maura pedissequa, ac Livia</stage>
+            <sp who="#susanna">
+               <l>Haud semel mihi doluit nescire vos quam penitus</l>
+               <l>sit inutile virgines secum congerere superbiae flatum,</l>
+               <l>spem facere obtinendarum anxiae rerum, iugiter</l>
+               <l>nuptias expetere, procos quoquo gestu abire.</l>
+               <l>O si noveritis quam longe alia res est atque existimatio</l>
+               <l>connubi, certe studio vehementiori contenderetis</l>
+               <l>in innocentiam illam sempiternam.</l>
+            </sp>
+            <sp who="#maura">
+               <speaker>Mau.</speaker>
+               <l part="I">Audimus mater.</l>
+            </sp>
+            <sp who="#susanna">
+               <speaker>Sus.</speaker>
+               <l part="F">Maturas</l>
+               <l>decet matrimonium, non quaslibet, quarum sit</l>
+               <l>pulchre educata adolescentia, quarum sublimiter</l>
+               <l>arbitria rem domesticam ab interitu vindicant,</l>
+               <l>quarum manus augeant suppellectilem.</l>
+            </sp>
+            <sp who="#livia">
+               <speaker>Liv.</speaker>
+               <l>vicisti nos, hera, mellitis istis eloquiis.</l>
+               <l>Gaudemus te nobis contigisse feliciter heram.</l>
+            </sp>
+            <sp who="#susanna">
+               <speaker>Sus.</speaker>
+               <l>Caeterum dispatiatum hodie sat est,</l>
+               <l>eamus intro.</l>
+            </sp>
+         </div>
+         <div type="act" n="3">
+            <head>TERTIUS ACTUS</head>
+            <stage>Crito, Chrisalus senes. Susanna, Maura, et Charinus servus.</stage>
+            <sp who="#crito">
+               <l>Obfirmata sunt mihi corde omnia interea</l>
+               <l>utrimque plurima, victoriam audio visam dicere</l>
+               <l>sponte consentit, bene factum, tardiuscule relinquitur</l>
+               <l>precibus locus. Sin omnino pervicax refugit</l>
+               <l>adulterium illi facile impegero. Enimvero, quid enim</l>
+               <l>non adulatione, aut tam insperatae insaniae non angore</l>
+               <l>pervincatur? At tu vero abscondere, Chrisale.</l>
+            </sp>
+            <sp who="#chrisalus">
+               <speaker>Chr.</speaker>
+               <l part="I">Actum,</l>
+            </sp>
+            <sp who="#crito">
+               <speaker>Cri.</speaker>
+               <l part="F">Quis nos hic suspicetur</l>
+               <l>delitescere curiosus. Ceterum ipsa advenit.</l>
+               <l>Dii immortales, quam turgida, quam scitula, quam purpurascens.</l>
+            </sp>
+            <sp who="#chrisalus">
+               <speaker>Chr.</speaker>
+               <l>Deam videre mihi videor.</l>
+            </sp>
+            <sp who="#susanna">
+               <speaker>Sus.</speaker>
+               <l part="I">Heus virgunculae?</l>
+            </sp>
+            <sp who="#maura">
+               <speaker>Mau.</speaker>
+               <l part="F">Quid iubes hera?</l>
+            </sp>
+            <sp who="#susanna">
+               <speaker>Sus.</speaker>
+               <l>Nempe ut conferatis oleum ac smigmata,</l>
+               <l part="I">ut hoc aestu ferbescente laver.</l>
+            </sp>
+            <sp who="#maura">
+               <speaker>Mau.</speaker>
+               <l part="F">Curatum,</l>
+               <l part="I">numquid nos vis?</l>
+            </sp>
+            <sp who="#susanna">
+               <speaker>Sus.</speaker>
+               <l part="F">Tantum sedulo occludite</l>
+               <l part="I">pomarii ostia.</l>
+            </sp>
+            <sp who="#maura">
+               <speaker>Mau.</speaker>
+               <l part="F">Avolamus.</l>
+            </sp>
+            <sp who="#crito">
+               <speaker>Cri.</speaker>
+               <l part="I">Impune tantisper dormis?</l>
+            </sp>
+            <sp who="#chrisalus">
+               <speaker>Chr.</speaker>
+               <l part="F">Immo vero,</l>
+               <l>totus vigilo. Eccam occasio quae data est.</l>
+            </sp>
+            <sp who="#crito">
+               <speaker>Cri.</speaker>
+               <l>Ades, Citheraea Venus, fave furtivae</l>
+               <l>voluptatis, pater magne Iuppiter.</l>
+            </sp>
+            <sp who="#susanna">
+               <speaker>Sus.</speaker>
+               <l>Me miserum, quid turbae?</l>
+            </sp>
+            <sp who="#crito">
+               <speaker>Cri.</speaker>
+               <l part="I">Ingere te quantum potes.</l>
+            </sp>
+            <sp who="#susanna">
+               <speaker>Sus.</speaker>
+               <l part="F">Ah, perii.</l>
+            </sp>
+            <sp who="#crito">
+               <speaker>Cri.</speaker>
+               <l>Ecquid causae est (per superos) qui</l>
+               <l>non exonero humeros pensili hoc?</l>
+            </sp>
+            <sp who="#chrisalus">
+               <speaker>Chr.</speaker>
+               <l>Satis superque cuncta est; excute ocius isthuc</l>
+               <l part="I">innobile, quid stas?</l>
+            </sp>
+            <sp who="#crito">
+               <speaker>Cri.</speaker>
+               <l part="F">Au au omnium</l>
+               <l>quae vivunt feminarum pulcherrima Susanna.</l>
+            </sp>
+            <sp who="#susanna">
+               <speaker>Sus.</speaker>
+               <l>(malum) quid hic eratis, ubi non convenit?</l>
+            </sp>
+            <sp who="#crito">
+               <speaker>Cri.</speaker>
+               <l>Atqui tu nos sola protraxisti</l>
+               <l part="I">ut fateamur.</l>
+            </sp>
+            <sp who="#susanna">
+               <speaker>Sus.</speaker>
+               <l part="F">Egone?</l>
+            </sp>
+            <sp who="#chrisalus">
+               <speaker>Chr.</speaker>
+               <l>Ha hene clama? Scimus raram aut penitus</l>
+               <l>nullam mulierem esse, cui non peculiare est</l>
+               <l part="I">cum cicadis expedite vociferari.</l>
+            </sp>
+            <sp who="#susanna">
+               <speaker>Sus.</speaker>
+               <l part="F">Bona</l>
+               <l part="I">verba.</l>
+            </sp>
+            <sp who="#chrisalus">
+               <speaker>Chr.</speaker>
+               <l part="F">Euge, bellissima foemina;</l>
+               <l>nihil te pudeat, nos seorsum cupiditate omni</l>
+               <l part="I">excipere.</l>
+            </sp>
+            <sp who="#susanna">
+               <speaker>Sus.</speaker>
+               <l part="M">O scelera.</l>
+            </sp>
+            <sp who="#crito">
+               <speaker>Cri.</speaker>
+               <l part="F">Haud admodum</l>
+               <l>pensa inutile nostrum senium. Nam delicatiusculis</l>
+               <l>amplexibus hucusque vegeti sumus; strenue</l>
+               <l>litavimus hactenus in palestra Veneris;</l>
+               <l>Dicas nos plura super naturam, etiam iuvenilem posse.</l>
+               <l part="I">Quid inaniter dura es?</l>
+            </sp>
+            <sp who="#chrisalus">
+               <speaker>Chr.</speaker>
+               <l part="F">Huiusmodi</l>
+               <l>est formae tuae elegantia, ea facilitas morum,</l>
+               <l>is animi lepor, ut videatur non posse fieri,</l>
+               <l>quae diu obaudias. Ea denique necessitas nostra</l>
+               <l>ut siquid aliorsum differas, de utroque sit factum.</l>
+               <l>Quid angeris frustra?, quid superstitiose metuis?</l>
+               <l>Quasi non soli simus, ut spes certa sit neminem</l>
+               <l part="I">adventurum.</l>
+            </sp>
+            <sp who="#susanna">
+               <speaker>Sus.</speaker>
+               <l part="F">Hic nunc domi</l>
+               <l part="I">meae abditos hostes?</l>
+            </sp>
+            <sp who="#crito">
+               <speaker>Cri.</speaker>
+               <l part="F">Amici sumus,</l>
+               <l part="I">tace.</l>
+            </sp>
+            <sp who="#susanna">
+               <speaker>Sus.</speaker>
+               <l part="F">Adeo cruentos latrones? O</l>
+               <l>impudentia. Ego qua via, ordine ve</l>
+               <l part="I">praesedioque fulta, quo effugiam?</l>
+            </sp>
+            <sp who="#crito">
+               <speaker>Cri.</speaker>
+               <l part="F">Au obsecro,</l>
+               <l part="I">Susanna.</l>
+            </sp>
+            <sp who="#susanna">
+               <speaker>Sus.</speaker>
+               <l part="M">Audiam vero?</l>
+            </sp>
+            <sp who="#chrisalus">
+               <speaker>Chr.</speaker>
+               <l part="F">Ita</l>
+               <l part="I">facto opus est.</l>
+            </sp>
+            <sp who="#susanna">
+               <speaker>Sus.</speaker>
+               <l part="F">Nihilne vos pudet?,</l>
+               <l>senes?, arbitros?, bene institutos?, quos alui,</l>
+               <l>quos obrui bene factis, at tantopere exaltavi</l>
+               <l part="I">semper?</l>
+            </sp>
+            <sp who="#crito">
+               <speaker>Cri.</speaker>
+               <l part="F">Pessima, ni protinus audias.</l>
+            </sp>
+            <sp who="#susanna">
+               <speaker>Sus.</speaker>
+               <l part="I">Numquam.</l>
+            </sp>
+            <sp who="#chrisalus">
+               <speaker>Chr.</speaker>
+               <l part="F">Occupa ergo eam.</l>
+            </sp>
+            <sp who="#susanna">
+               <speaker>Sus.</speaker>
+               <l>Nihil apud me profeceritis etiam importunitate.</l>
+            </sp>
+            <sp who="#crito">
+               <speaker>Cri.</speaker>
+               <l>Quidni, modeste igitur? Age perfice</l>
+               <l>quod extremo nolentem volentem oporteat.</l>
+            </sp>
+            <sp who="#susanna">
+               <speaker>Sus.</speaker>
+               <l>Oporteat?, obtunditis.</l>
+            </sp>
+            <sp who="#chrisalus">
+               <speaker>Chr.</speaker>
+               <l part="I">Lupa verius est quam femina.</l>
+            </sp>
+            <sp who="#susanna">
+               <speaker>Sus.</speaker>
+               <l part="F">isthuc</l>
+               <l>praestaret quidem, quam nativitatis originem</l>
+               <l>flagitiis voluptatum obscurare, confundere, extinguere.</l>
+            </sp>
+            <sp who="#crito">
+               <speaker>Cri.</speaker>
+               <l>In summam, nisi aliud proferas, definiemus</l>
+               <l part="I">te moechatam.</l>
+            </sp>
+            <sp who="#susanna">
+               <speaker>Sus.</speaker>
+               <l part="F">Sapite.</l>
+            </sp>
+            <sp who="#crito">
+               <speaker>Cri.</speaker>
+               <l part="I">Cum adolescente lacteo.</l>
+            </sp>
+            <sp who="#susanna">
+               <speaker>Sus.</speaker>
+               <l part="F">Dii vostrum auxilium.</l>
+            </sp>
+            <sp who="#crito">
+               <speaker>Cri.</speaker>
+               <l>Vidisse nos facinus indignum.</l>
+            </sp>
+            <sp who="#susanna">
+               <speaker>Sus.</speaker>
+               <l>Miseram me, angustiae mihi sunt undique.</l>
+               <l>Quippe isthuc si egero, mortem operor.</l>
+               <l>Sin illabefacta refutem, non effugio manus</l>
+               <l>vestras; quamquam satius esse putem incidere</l>
+               <l>in manus vestras, quam Deum inimicum habere.</l>
+            </sp>
+            <sp who="#chrisalus">
+               <speaker>Chr.</speaker>
+               <l>Ita futurum praescito, vide quid incipias?</l>
+            </sp>
+            <sp who="#susanna">
+               <speaker>Sus.</speaker>
+               <l>Quid autem? Nisi ut ignominias hasce</l>
+               <l>me meoque genere indignas fortiter excutiam.</l>
+               <l>Multo, ut dixi, mihi satius est omnem impetum</l>
+               <l>quemcumque tandem malevoli excogitabitis, ut feram.</l>
+               <l>quam irritem aeternum contagio iudicem.</l>
+               <l>Ferte opem imbelli foeminae; pereo Susanna.</l>
+            </sp>
+            <sp who="#chrisalus">
+               <speaker>Chr.</speaker>
+               <l part="I">Perimus miseri senes.</l>
+            </sp>
+            <sp who="#crito">
+               <speaker>Cri.</speaker>
+               <l part="F">Festinate</l>
+               <l part="I">adesse vicini.</l>
+            </sp>
+            <sp who="#charinus">
+               <speaker>Cha.</speaker>
+               <l part="F">Quid id est?</l>
+            </sp>
+            <sp who="#chrisalus">
+               <speaker>Chr.</speaker>
+               <l part="I">Haec meretrix.</l>
+            </sp>
+            <sp who="#charinus">
+               <speaker>Cha.</speaker>
+               <l part="M">Quid audio?</l>
+            </sp>
+            <sp who="#crito">
+               <speaker>Cri.</speaker>
+               <l part="F">Cum adolescente.</l>
+            </sp>
+            <sp who="#charinus">
+               <speaker>Cha.</speaker>
+               <l part="I">Inauditum portentum.</l>
+            </sp>
+            <sp who="#crito">
+               <speaker>Cri.</speaker>
+               <l part="F">Modo hic.</l>
+            </sp>
+            <sp who="#charinus">
+               <speaker>Cha.</speaker>
+               <l>Oh, quam me velim abesse; ita pudet me.</l>
+            </sp>
+            <sp who="#crito">
+               <speaker>Cri.</speaker>
+               <l part="I">Libidinem explevit.</l>
+            </sp>
+            <sp who="#charinus">
+               <speaker>Cha.</speaker>
+               <l part="F">Occidi.</l>
+            </sp>
+            <sp who="#crito">
+               <speaker>Cri.</speaker>
+               <l part="I">Adprime turpiter.</l>
+            </sp>
+            <sp who="#charinus">
+               <speaker>Cha.</speaker>
+               <l part="F">Non sum apud me.</l>
+            </sp>
+            <sp who="#susanna">
+               <speaker>Sus.</speaker>
+               <l>Mortua sum, calumniam non sustinens.</l>
+            </sp>
+            <sp who="#chrisalus">
+               <speaker>Chr.</speaker>
+               <l>Ambo adeo defessi sumus enisi comprehendere</l>
+               <l>illam, ut vix respirare detur.</l>
+            </sp>
+            <sp who="#crito">
+               <speaker>Cri.</speaker>
+               <l>Miseret nos insignis patritii Ioachimi iuxta ac integerrimi</l>
+               <l>pontificis Helchiae, quorum haec una claritatem hodie</l>
+               <l>familiamque prostituit. Quamquam per genium docebimus</l>
+               <l>eam crastino, quam sit multo impiissimum</l>
+               <l>boni coniugis abuti simplicitate.</l>
+            </sp>
+            <stage>Susanna orans</stage>
+            <sp who="#susanna">
+               <l>Nosti me quam procul abesse ab his innocentiae, deus,</l>
+               <l>sceleribus, quae mihi pertinaciter presbyteri impingunt,</l>
+               <l>quandoquidem et meum periculum exhorruerim</l>
+               <l>et una eademque constantia obstiterim violentiis.</l>
+               <l>Neque ob id tamen aliquid modestiores sunt.</l>
+               <l>Excogitant nova, inusitata provulgant,</l>
+               <l>adeo ut rumoribus adulterii mei domus</l>
+               <l>cognatio iugiter intabescet tota. In te</l>
+               <l>mihi spes est omnis, excute potenter</l>
+               <l>bolum hunc e faucibus beluarum</l>
+            </sp>
+         </div>
+         <div type="act" n="4">
+            <head>QUARTUS ACTUS</head>
+            <stage>Ioachimus et Helchias</stage>
+            <sp who="#ioachimus">
+               <l>Aiunt? Quid aiunt, perisse animam? Susannam?</l>
+               <l>Meamne? Vitam meam? Credam? Persuadebunt?</l>
+               <l>Illam? Talem? Tam exquisite continentem?</l>
+            </sp>
+            <sp who="#helchias">
+               <speaker>Hel.</speaker>
+               <l>At mihi videtur verisimile.</l>
+               <l>Neque possum inducere in animum, ut aliquando credam.</l>
+            </sp>
+            <sp who="#ioachimus">
+               <speaker>Ioa.</speaker>
+               <l>Totam noctem insumpsi circum gemitu,</l>
+               <l>suspiriis, lacrymis, o dii, abii, redii, eadem plus</l>
+               <l>millies. Quid mei cordis nobilissima particula?</l>
+               <l>Decretum est me simul commori; contra, haec</l>
+               <l>luctum abundavit, flevit, tentavit dicere.</l>
+               <l>Ecce autem in praecinctu haesit vox, gnaviter.</l>
+               <l>Tumque talia atque alia haud quaquam potis est</l>
+               <l>linguam instituere, ut cogitata proloquatur.</l>
+            </sp>
+            <sp who="#helchias">
+               <speaker>Hel.</speaker>
+               <l>Haeccine spectacula manebant aetatem meam?</l>
+            </sp>
+            <sp who="#ioachimus">
+               <speaker>Ioa.</speaker>
+               <l>Vae misero mihi, anxietas ea coepta est,</l>
+               <l>Quae mihi proxime mortem derivet.</l>
+            </sp>
+            <stage>Crito, Chrisalus, carnifices, Susanna, Ioachimus, Daniël, et populus.</stage>
+            <sp who="#crito">
+               <l part="I">Carnifices.</l>
+            </sp>
+            <sp who="#carnifices-duo">
+               <speaker>Car.</speaker>
+               <l part="M">Adsumus.</l>
+            </sp>
+            <sp who="#chrisalus">
+               <speaker>Chr.</speaker>
+               <l part="F">Lorarii omnes.</l>
+            </sp>
+            <sp who="#carnifices-duo">
+               <speaker>Car.</speaker>
+               <l part="I">Quid est?</l>
+            </sp>
+            <sp who="#crito">
+               <speaker>Cri.</speaker>
+               <l part="F">Quotquot praeestis</l>
+               <l part="I">usquam lumbifragiis, facite adsitis.</l>
+            </sp>
+            <sp who="#carnifices-duo">
+               <speaker>Car.</speaker>
+               <l part="F">Furiae.</l>
+            </sp>
+            <sp who="#chrisalus">
+               <speaker>Chr.</speaker>
+               <l part="I">Carnifices inquam?</l>
+            </sp>
+            <sp who="#carnifices-duo">
+               <speaker>Car.</speaker>
+               <l part="F">Quid est inquam?</l>
+            </sp>
+            <sp who="#crito">
+               <speaker>Cri.</speaker>
+               <l>Expedite, producite Susannam filiam</l>
+               <l part="I">Helchiae, nuptam Ioachimo.</l>
+            </sp>
+            <sp who="#carnifices-duo">
+               <speaker>Car.</speaker>
+               <l part="F">Quid</l>
+               <l>hoc monstri est? Nihil nobis commune est cum</l>
+               <l part="I">tam ingenua.</l>
+            </sp>
+            <sp who="#crito">
+               <speaker>Cri.</speaker>
+               <l part="F">Cessatis ire, funesti?</l>
+               <l>Abite iam nunc, dictum satis.</l>
+            </sp>
+            <sp who="#susanna">
+               <speaker>Sus.</speaker>
+               <l>Obvelate prius faciem, pueri quid fletis ubertim?</l>
+               <l>In coelis est, qui sortem meam opportune</l>
+               <l part="I">in melius commutabit.</l>
+            </sp>
+            <sp who="#ioachimus">
+               <speaker>Ioa.</speaker>
+               <l part="F">Certum est me</l>
+               <l>pariter cum illa perire, adobrui saxis.</l>
+            </sp>
+            <sp who="#susanna">
+               <speaker>Sus.</speaker>
+               <l>Nunc nunc ades deploratae feminae,</l>
+               <l>sed speranti in te, Deus optimus maximus, rugentium</l>
+               <l>horum leonum saevitiam male verte.</l>
+            </sp>
+            <sp who="#chrisalus">
+               <speaker>Chr.</speaker>
+               <l>Malum. Ecquid perditissimi, bisque</l>
+               <l>pessimi sycophantae, huic faciem obduxtis?</l>
+               <l>Facite plana sit, si officiis consulitis.</l>
+            </sp>
+            <sp who="#crito">
+               <speaker>Cri.</speaker>
+               <l>Heri cum deambularemus in pomario,</l>
+               <l>paulo post ingressa est et haec duabus subsequis.</l>
+               <l>Quas dum cauta dimisisset, ecce adolescens</l>
+               <l>exiliit, alacer, pinguiculus, elegans totus.</l>
+               <l>Suspensique animo atque consternati protinus</l>
+               <l>tacito contemplamur indignum facinus, itaque</l>
+               <l>accurrimus. Sed ille velox fugit. Tum autem</l>
+               <l>nequimus ab hac extorquere, ecquis fuerit.</l>
+               <l>Idcirco factum est, ut isthic iniecerimus manus.</l>
+               <l>Horum nos Deus testes esse voluit.</l>
+            </sp>
+            <sp who="#susanna">
+               <speaker>Sus.</speaker>
+               <l part="I">Ah mendacia.</l>
+            </sp>
+            <sp who="#populus">
+               <speaker>Pop.</speaker>
+               <l part="F">Mortem merita est.</l>
+            </sp>
+            <sp who="#crito">
+               <speaker>Cri.</speaker>
+               <l>Ita (iubet lex) sapis, decretum est id fieri.</l>
+               <l>Vobis licet, auferte morituram.</l>
+            </sp>
+            <sp who="#susanna">
+               <speaker>Sus.</speaker>
+               <l>Deus aeterne, abstrusorum perscrutator,</l>
+               <l>vide precor, quae est audacia. Iamdudum morior</l>
+               <l>omnium expers, quae isti maliciose congesserunt in me.</l>
+            </sp>
+            <sp who="#ioachimus">
+               <speaker>Ioa.</speaker>
+               <l>Innocuam, unanimem me turbis proruam</l>
+               <l>pariter in interitum.</l>
+            </sp>
+            <stage>Daniël propheta</stage>
+            <sp who="#daniel">
+               <l>Ah quam facile bene audiunt vel ubique, auctoritate</l>
+               <l>insignes hoccine persuadere esse ausos?</l>
+               <l>Siccine pessimorum pessima machinamenta</l>
+               <l>praevalent adversos bonos? Ite impudentes,</l>
+               <l>properate populi, sanguinolentas immergite petras</l>
+               <l>in sancta viscera, candorem splendidum</l>
+               <l>immiti vulnere conspergite. Tuber fiat lene</l>
+               <l>corpusculum, in planitiem redigantur lactea ubera.</l>
+               <l>Libeat, liceat, delectet vos quantum vultis.</l>
+               <l>A me prorsus cupio remotam innocentis foeminae</l>
+               <l part="I">necem.</l>
+            </sp>
+            <sp who="#populus">
+               <speaker>Pop.</speaker>
+               <l part="F">Quid au prohibet nos</l>
+               <l part="I">propheta?</l>
+            </sp>
+            <sp who="#daniel">
+               <speaker>Dan.</speaker>
+               <l part="F">Ita insulsi filii Israel,</l>
+               <l>neque quod aequum erat pensiculantes, damnastis</l>
+               <l>impie sororem vestram? Redite, sapite,</l>
+               <l>discite quam nefarie falsum sit, quod ii</l>
+               <l part="I">religiosi adeo ementiti sunt.</l>
+            </sp>
+            <sp who="#chrisalus">
+               <speaker>Chr.</speaker>
+               <l part="F">Ohe,</l>
+               <l>bonam rem occoeptas. Nobis senium praeripis</l>
+               <l>ut elabatur adultera; vide temeritas</l>
+               <l part="I">quid facit, et anxius livor.</l>
+            </sp>
+            <sp who="#daniel">
+               <speaker>Dan.</speaker>
+               <l part="F">Proscindite</l>
+               <l>inquam, ac seorsum ambos vincite, stringite</l>
+               <l part="I">loris.</l>
+            </sp>
+            <sp who="#crito">
+               <speaker>Cri.</speaker>
+               <l part="M">Ha ha he callide.</l>
+            </sp>
+            <sp who="#chrisalus">
+               <speaker>Chr.</speaker>
+               <l part="F">Astute.</l>
+            </sp>
+            <sp who="#daniel">
+               <speaker>Dan.</speaker>
+               <l>Quod vobis vertat male aequissimus deus.</l>
+            </sp>
+            <sp who="#crito">
+               <speaker>Cri.</speaker>
+               <l>Sed porro scientia est adversum senes</l>
+               <l part="I">sapere iuvenem?</l>
+            </sp>
+            <sp who="#chrisalus">
+               <speaker>Chr.</speaker>
+               <l part="M">Scilicet.</l>
+            </sp>
+            <sp who="#daniel">
+               <speaker>Dan.</speaker>
+               <l part="F">Ego ego</l>
+               <l>qualis qualis sum, facile docuero, quam praepostere</l>
+               <l part="I">vobis cum auquitate conveniat.</l>
+            </sp>
+            <sp who="#ioachimus">
+               <speaker>Ioa.</speaker>
+               <l part="F">Dii</l>
+               <l>nos salvos velint.</l>
+            </sp>
+         </div>
+         <div type="act" n="5">
+            <head>QUINTUS ACTUS.</head>
+            <stage>Daniël, Susanna, Crito, Chrisalus, carnifices populus, Ioachimus
+               Helchias.</stage>
+            <sp who="#daniel">
+               <l>Apage sis, dierum malorum inveterate, huc</l>
+               <l>spectata est vecordia tua, ut quo iure quaque</l>
+               <l>iniuria traduceres optime de omnibus meritam?</l>
+               <l>Vetante domino, innocentem ne occideres.</l>
+               <l>Quaeso quid habeat mundialis haec machina</l>
+               <l>ac saeculum prius posteriusque te monstrosius?</l>
+               <l>Nimirum adposite ad apicem usque quadrat,</l>
+               <l>quod Hieremias iam antea vaticinatus est,</l>
+               <l>emersisse in Babylonem vasta scelera a senibus,</l>
+               <l>hodie in aedito est, quam sitis portenta pessima.</l>
+               <l>Ita plerumque soletis invertere conscientias filiarum</l>
+               <l>Hierusalem, tantisper dum metu ac auctoritate</l>
+               <l>vestra devictae; loquerentur in rem vestram.</l>
+               <l>Verum, diis gratia superbis, unam unice licuit</l>
+               <l>comperire, quae vos, quae vestrum imperium refelleret.</l>
+               <l>Utut prospectat scelus? Cedo inquam,</l>
+               <l>quando hic temet impuleris, sub qua arbore</l>
+               <l part="I">vidisti?</l>
+            </sp>
+            <sp who="#crito">
+               <speaker>Cri.</speaker>
+               <l part="F">Perii miser; utinam eadem mecum</l>
+               <l part="I">definiat complex.</l>
+            </sp>
+            <sp who="#daniel">
+               <speaker>Dan.</speaker>
+               <l part="F">Taces? Quae sint</l>
+               <l part="I">hic veri vestigia?</l>
+            </sp>
+            <sp who="#crito">
+               <speaker>Cri.</speaker>
+               <l part="F">Indignum reputo te</l>
+               <l part="I">cui respondeam.</l>
+            </sp>
+            <sp who="#daniel">
+               <speaker>Dan.</speaker>
+               <l part="F">Apte quid, quando aliorsum</l>
+               <l part="I">nequeas evadere.</l>
+            </sp>
+            <sp who="#crito">
+               <speaker>Cri.</speaker>
+               <l part="F">Illa sub cino.</l>
+            </sp>
+            <sp who="#daniel">
+               <speaker>Dan.</speaker>
+               <l>Nihil te etiamnum pudet? At vero alterum</l>
+               <l part="I">proferte in medium.</l>
+            </sp>
+            <sp who="#crito">
+               <speaker>Cri.</speaker>
+               <l part="F">Ades vicissim tu</l>
+               <l part="I">orci fastidium.</l>
+            </sp>
+            <sp who="#chrisalus">
+               <speaker>Chr.</speaker>
+               <l part="F">Itane tremulo sene</l>
+               <l part="I">iuvat abuti?</l>
+            </sp>
+            <sp who="#daniel">
+               <speaker>Dan.</speaker>
+               <l part="F">Eho dic sodes, semen</l>
+               <l>Canaan et non Iuda, species enim excaecavit te,</l>
+               <l>et concupiscentia subvertit sensus tuos.</l>
+               <l>Sub qua arbore patrata est iniquitas?</l>
+            </sp>
+            <sp who="#chrisalus">
+               <speaker>Chr.</speaker>
+               <l>Quasi vero id nesciam? Sub ea nimirum</l>
+               <l part="I">quam designavit Crito.</l>
+            </sp>
+            <sp who="#daniel">
+               <speaker>Dan.</speaker>
+               <l part="F">Obtundis? Designa</l>
+               <l part="I">manifestius.</l>
+            </sp>
+            <sp who="#chrisalus">
+               <speaker>Chr.</speaker>
+               <l part="F">Omitte me, sub pino.</l>
+            </sp>
+            <sp who="#daniel">
+               <speaker>Dan.</speaker>
+               <l>Proh deum atque hominum fidem? Itane putastis</l>
+               <l>defore impunitatem? Ecce angelus dei adest,</l>
+               <l>qui te desecet medium. Comperta est</l>
+               <l>coniuratio, perdite, ita ut aequum est utribusque carnifices.</l>
+            </sp>
+            <sp who="#crito">
+               <speaker>Cri.</speaker>
+               <l part="I">Au au obsecro.</l>
+            </sp>
+            <sp who="#carnifices-duo">
+               <speaker>Car.</speaker>
+               <l part="F">Extremum dixistis,</l>
+               <l part="I">nihil audimus.</l>
+            </sp>
+            <sp who="#chrisalus">
+               <speaker>Chr.</speaker>
+               <l part="M">Perimus.</l>
+            </sp>
+            <sp who="#carnifices-duo">
+               <speaker>Car.</speaker>
+               <l part="F">Hoc illud est.</l>
+            </sp>
+            <stage>Susanna</stage>
+            <sp who="#susanna">
+               <l>Tibi gratiae deus sublimes, qui me vindicasti</l>
+               <l part="I">ab improperio.</l>
+            </sp>
+            <sp who="#ioachimus">
+               <speaker>Ioa.</speaker>
+               <l part="F">Multipliciter.</l>
+            </sp>
+            <sp who="#helchias">
+               <speaker>Hel.</speaker>
+               <l>Redi iam nunc, nostrum decus Susanna, ac</l>
+               <l>rigidos a nobis metus deterge.</l>
+            </sp>
+            <stage>Carnifices</stage>
+            <sp who="#carnifices-duo">
+               <l>Extra castella suis locis plectentur mali</l>
+               <l>Spectatores boni, nihil est quod exspectetis.</l>
+               <l>Bene vobis sit cum Susanna; congratulemini</l>
+               <l>innocentiae. Valete et plaudite.</l>
+            </sp>
+            <closer>Susannae finis.</closer>
+         </div>
+      </body>
+   </text>
+</TEI>

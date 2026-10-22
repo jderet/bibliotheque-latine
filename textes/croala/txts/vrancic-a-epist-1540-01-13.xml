@@ -1,0 +1,145 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc xml:id="vrancic-a-epist-1540-01-13">
+         <titleStmt>
+            <title>Antonius Wrancius Ludovico Tomoreo (1540-01-13), versio electronica</title>
+            <author ref="http://www.wikidata.org/entity/Q512372">
+               <persName xml:lang="hr">Vrančić, Antun</persName>
+               <date>1504-1573</date>
+            </author>
+            <editor ref="http://www.wikidata.org/entity/Q114878204">
+               <persName xml:id="NJ">
+                  <ref type="wikidata" target="http://www.wikidata.org/entity/Q114878204">Neven Jovanović</ref>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Hanc editionem electronicam curavit</resp>
+               <persName ref="#NJ">
+                  <ref type="wikidata" target="http://www.wikidata.org/entity/Q114878204">Neven Jovanović</ref>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <p>Digitalno izdanje prema autografu (2025).
+               Tiskano izdanje (MHH) uspoređeno s rukopisnim izvornikom, prednost ima rukopis.
+               Zadržan zasad pravopis iz MHH (osim nezabilježenih varijanata).
+               Datacija preuzeta iz izdanja MHH. Zabilježene varijante koje je autor naknadno unio i
+               izvorno stanje.</p>
+         </editionStmt>
+         <extent ana="B">Mg:B Verborum TKTK</extent>
+         <publicationStmt>
+            <p>elektronička verzija: Digitalizacija hrvatskih latinista, znanstveni
+            projekt na <orgName>
+                  <ref type="viaf" target="124389134">Filozofskom fakultetu Sveučilišta u Zagrebu</ref>
+               </orgName>, <placeName ref="3186886">Zagreb</placeName>
+            Hrvatska.  <date when="2025-08">Kolovoza 2025</date>.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="repo" ana="digital">Digitalna verzija: CroALa</bibl>
+            <bibl>Autograf
+               
+               <note>Budae, 13. 1. 1540. MS: OSZK 1681/1 (A)</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc xml:id="verantiusatomoreo1540-01-13">
+         <abstract>
+            <p/>
+         </abstract>
+         <settingDesc>
+            <place ana="origin">
+               <placeName ref="http://www.wikidata.org/entity/Q193478">Buda</placeName>
+            </place>
+         </settingDesc>
+         <particDesc>
+            <person role="sender">
+               <persName ref="http://www.wikidata.org/entity/Q512372">Vrančić, Antun</persName>
+            </person>
+            <person role="recipient">
+               <persName>Tomoreus, Ludovicus</persName>
+            </person>
+         </particDesc>
+         <langUsage>
+            <language ident="lat" xml:lang="hrv">latinski</language>
+         </langUsage>
+         <creation>
+            <date when="1540-01-13" period="15xx_2_third">1540-01-13</date>
+            <placeName ref="http://www.wikidata.org/entity/Q193478">Buda</placeName>
+         </creation>
+         <textClass>
+            <keywords scheme="typus">
+               <term>prosa</term>
+            </keywords>
+            <keywords scheme="aetas">
+               <term>Litterae renatae (1400-1600)</term>
+               <term>Saeculum 16 (1501-1600)</term>
+               <term>1501-1550</term>
+            </keywords>
+            <keywords scheme="genre">
+               <term>prosa oratio - epistula</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <persName ref="#NJ">
+               <ref type="wikidata" target="http://www.wikidata.org/entity/Q114878204">Neven
+                  Jovanović</ref>
+            </persName>
+            <date when="2025-08-11">2025-08-11</date>. 
+            Prvo izdanje kao CroALa TEI.
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="prosa-epistula" corresp="#verantiusatomoreo1540-01-13">
+            <opener>Antonius Wrancius <choice><orig>Ludouico Tomoreo</orig> <corr>Ludouico Tomoreo</corr></choice> <choice><abbr>S.</abbr> <expan>salutem</expan></choice></opener>
+            <p rend="justify">
+               Longe abs te majora officia nomine mutuae benevolentiae nostrae exspectabam, quam re ipsa praestitisti. 
+               Accepi ex litteris administratoris mei, te aurum meum, quod mihi ex aurariis oppidi Abrugh quotannis 
+               ab aurilotoribus penditur, interdicto publico in manu quasi sequestris, me neque commonito, neque quicquam 
+               tale ab amico homine sperante, quo minus redderetur, impedivisse. Rem profecto dignam tua levitate atque inconstantia, 
+               meo erga te animo indignissimam perfecisti. Sed id credulitas et facilitas ingenii mei 
+               peperit mihi, non tuorum morum ignorantia. Arbitrabar te jam veterem hominem vel 
+               proxima aegritudine correptum exuisse, et cum novo eoque
+               probiore commutasse, ac coepisse jam tandem fidem et amicitias sanctius, 
+               atque <sic>constantius</sic> observare, dum mihi tua omnia semper pleno ore tam egregie 
+               polliceris. Verum non miror, si et me 
+               <choice><orig>blanditiae</orig> <corr>captiunculae</corr></choice> tuae fefellerunt, 
+               quibus longe me ipso cautiores saepe 
+               <choice><orig>depapasti</orig> <corr>depalpasti</corr></choice>. 
+               Nam vetus est: nimia verba minimum rei consequi. Hoc equidem in te experior, 
+               quocum utinam nullum unquam mihi commercium intercessisset. 
+               At debere me tibi aureis ducentis, scis, nunquam negavi, ne nunc quidem ; 
+               immo pro hoc tuo in me officio gratias etiam habeo, et rellaturum promitto quaecunque 
+               contulisti. Sed fretus amicitia tua et tuis tam largis ac solennibus pollicitis, 
+               terminum solutionis ad tres menses duntaxat prorogari mihi cupiebam, si quid sit amicitia, 
+               didicisses ; quod non solum non fecisti, verum etiam quaecunque aliquando donasti, 
+               importune ac citra omnem pudorem et necessitudinis nostrae recordationem exprobrasti.
+            </p>
+            <p>
+                  Portiones insuper meas pecuniarias ex redditibus, qui inter canonicos fratres nostros 
+                  in sacrario solent dividi, pro donis tuis perinde ac debitas, usurpasti et exegisti, 
+                  quod non confirmare est, sed stirpitus evellere amicitias. Nam dona pro donis exspectantur 
+                  quidem, non exiguntur, et pro beneficio collato inhumanum et summae dementiae est, 
+                  contumeliis gratitudinem extorquere. Atqui tu, ut vis, agas. 
+                  Ego, ut vir bonus, tuebor partes meas, nec magni putabo referre, si te vulgarem amicum 
+                  amisero. Tales mihi fortuna in dies et dabit et adimet. Quicquid vero mihi dono dedisti 
+                  unquam, semper duplo, nonnihil triplo restituì, nullumque etiam mutuum aut commodatum 
+                  ad me venit, quod cumulatum, unde profectum est, non redierit, ad te praesertim, 
+                  cui longe plura dedisse me, quam accepisse scio, teste vel tota Alba. Reliqua quum 
+                  domum rediero, ut voles, tecum conficiam, quo saltem maledicentiam tuam redimam, 
+                  si avaritiam non reprimo. Amicitiam autem deinceps eandem polliceor, qualem accepero. 
+                    
+                  
+            </p>
+            <closer>Vale. <dateline>Budae. <date when="1540-01-13">id. Januarii <num value="1540">MDXXXX</num>.</date>.</dateline></closer>
+            
+            
+            
+         </div>
+         
+         </body>
+   </text>
+</TEI>

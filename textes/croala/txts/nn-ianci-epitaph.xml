@@ -1,0 +1,119 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc xml:id="nn-ianci-epitaph">
+         <titleStmt>
+            <title>Janci Alberti epitaphium, versio electronica</title>
+            <author ref="#anonymus_1493">
+               <persName xml:lang="lat">Anonymus</persName>
+               <date>floruit 1493</date>
+            </author>
+            <editor ref="http://www.wikidata.org/entity/Q12629425">
+               <persName>
+                  <ref target="http://www.wikidata.org/entity/Q12629425">Cvito Fisković</ref>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Hanc editionem electronicam curavit</resp>
+               <persName xml:id="NJ">
+                  <ref type="wikidata" target="http://www.wikidata.org/entity/Q114878204">Neven Jovanović</ref>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+            Prema kasnijem izdanju u znanstvenom radu (1972).
+        </edition>
+         </editionStmt>
+         <extent ana="A">Mg:A Verborum 30, versus 4</extent>
+         <publicationStmt>
+            <p>Elektronska verzija: <name>Digitalizacija hrvatskih latinista</name>, znanstveni
+        projekt na <orgName>
+                  <ref type="viaf" target="124389134">Filozofskom fakultetu Sveučilišta u Zagrebu</ref>
+               </orgName>, <placeName ref="3186886">Zagreb</placeName>
+        Hrvatska.  <date>Rujna 2012</date>
+            </p>
+            <p ana="licence">
+               <ptr target="https://creativecommons.org/publicdomain/zero/1.0/"/> The Creative
+               Commons CC0 1.0 DEED CC0 1.0 Universal Licence applies to this document. The licence
+               was added on January 21, 2024. </p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="repo" ana="digital">Digitalna verzija: CroALa</bibl>
+            <bibl>Marko Marul Pečenić i njegov likovni krug / Cvito Fisković. - Split, 1972. - Str. 45-94 : ilustr. ; 24 cm.
+        
+        P. o.: Čakavska rič 2(1972), br. 1. </bibl>
+            <bibl>
+        Pavich v. Pfauenthal, Alfons. 
+        Beiträge zur Geschichte der Republik Poljica bei Spalato mit besonderer Rücksicht auf die Reihenfolge der Veliki Knezen (Staatsoberhäupter), 
+        Wissenschaftliche Mitteilungen aus Bosnien und der Herzegowina (1907).
+        <relatedItem type="digitalizat">
+                  <ref type="internet" target="http://archive.org/details/wissenschaftlic00hercgoog">Archive.org</ref>
+               </relatedItem>
+            </bibl>
+            <bibl>Marko Dumanić, Synopsis virorum illustrium Spalatensium (u: A. Ciccarelli,
+               Opuscoli riguardanti la storia degli uomini illustri di Spalato, e di parecchi altri
+               Dalmati. Ragusa 1811, 12–42).</bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+            <p/>
+         </abstract>
+         <settingDesc>
+            <p/>
+         </settingDesc>
+         <particDesc>
+            <p/>
+         </particDesc>
+         <langUsage>
+            <language ident="lat" xml:lang="hrv">latinski</language>
+         </langUsage>
+         <creation>
+            <date notBefore="1493" period="14xx_3_third">1493.</date>
+         </creation>
+         <textClass>
+            <keywords scheme="typus">
+               <term>poesis</term>
+            </keywords>
+            <keywords scheme="aetas">
+               <term>Litterae renatae (1400-1600)</term>
+               <term>Saeculum 15 (1401-1500)</term>
+               <term>1451-1500</term>
+            </keywords>
+            <keywords scheme="genre">
+               <term>poesis - inscriptio</term>
+               <term>poesis - epitaphium</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <persName ref="#NJ">
+               <ref type="wikidata" target="http://www.wikidata.org/entity/Q114878204">Neven
+                  Jovanović</ref>
+            </persName>
+            <date when="2023-01-21">2023-01-21</date>. 
+            Natpis malim slovima, dodao Wikidata ID.
+         </change>
+         <change>
+            <persName>
+               <ref type="viaf" target="6913774">Neven Jovanović</ref>
+            </persName>
+            <date>2012-09-15</date>
+    Prva TEI verzija.
+</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="poesis-epigramma-epitaphium" met="elegiacum">
+            <head>Jancius Albertus Nicolae Alberti <expan>filius</expan>
+            </head>
+            <l met="hexameter">Jancius hic situs est Venetus cui clara senatus</l>
+            <l met="pentameter">detulit auratae munera militiae</l>
+            <l met="hexameter">ut sua quanta foret pariter uirtusque fidesque</l>
+            <l met="pentameter">testaretur honos talis et ultro datvs</l>
+         </div>
+      </body>
+   </text>
+</TEI>

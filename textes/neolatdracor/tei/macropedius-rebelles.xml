@@ -1,0 +1,3562 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="dracor" xml:id="neolat000005" xml:lang="la">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Rebelles</title>
+            <title type="sub">Fabula longe iucundissima</title>
+            <author>
+               <persName xml:lang="la">
+                  <forename>Georgius</forename>
+                  <surname>Macropedius</surname>
+               </persName>
+               <idno type="wikidata">Q710836</idno>
+               <idno type="gnd">124180043</idno>
+            </author>
+            <editor>Henk Giebels</editor>
+            <editor>Frans Slits</editor>
+            <editor>Ton Harmsen</editor>
+            <respStmt>
+               <resp>Converted to TEI under the supervision of</resp>
+               <persName ref="https://orcid.org/0000-0001-8979-8706">Julia Jennifer Beine</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Converted to TEI by</resp>
+               <persName>Daina-Sophia Münch</persName>
+               <persName>Mareike Urbanek</persName>
+               <persName ref="https://orcid.org/0009-0005-7511-0794">Nina Straub</persName>
+               <persName ref="https://orcid.org/0009-0008-2024-6151">Timo Bremer</persName>
+               <persName>Miriam Göbel</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Freie Universität Berlin</authority>
+            <authority>University Library Bochum</authority>
+            <publisher xml:id="dracor">DraCor</publisher>
+            <idno type="URL">https://dracor.org</idno>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0
+                  1.0</licence>
+               <p>Copyright of the critical edition (c) Stichting Zuidelijk Historisch Contact
+                  Tilburg. Cf. <title>Henk Giebels, Frans Slits: Georgius Macropedius 1487 - 1558.
+                     Leven en werken van een Brabantse humanist. Tilburg: Stichting Zuidelijk
+                     Historisch Contact Tilburg 2005.</title></p>
+               <p>Copyright of the online edition in the Ceneton project edited by Ton Harmsen (c)
+                  Leiden University.</p>
+               <p>Thanks to Ton Harmsen, Frans Slits, and Henk Giebels for the authorisation of this
+                  digitisation.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="digitalSource">
+               <ref target="https://www.let.leidenuniv.nl/Dutch/Ceneton/MacropediusRebelles1553.html">Census Nederlands Toneel (Ceneton)</ref>
+               <availability status="free">
+                  <p>The editions on the website edited by Antonius Harmsen (Leiden University) are
+                     public domain. See https://www.let.leidenuniv.nl/Dutch/Canonisations.html</p>
+               </availability>
+               <bibl type="originalSource">
+                  <author>Georgius Macropedius</author>: <title>Rebelles</title>. In: <author>Henk
+                     Giebels</author> , <author>Frans Slits</author>: <title level="m">Georgius
+                     Macropedius 1487 - 1558. Leven en werken van een Brabantse humanist</title> .
+                     <pubPlace>Tilburg</pubPlace> : <publisher>Stichting Zuidelijk Historisch
+                     Contact Tilburg</publisher>
+                  <date>2005</date> , <biblScope unit="CD-ROM">De komedies van Macropedius. Latijnse
+                     tekst van Omnes Fabulae Comicae</biblScope> . </bibl>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <particDesc>
+            <listPerson>
+               <person xml:id="prologus" sex="MALE" role="prologus">
+                  <persName>Prologus</persName>
+               </person>
+               <person xml:id="morio" sex="MALE" role="morio">
+                  <persName>Morio</persName>
+               </person>
+               <person xml:id="philotecnium" sex="FEMALE" role="mater">
+                  <persName>Philotecnium</persName>
+                  <persName type="variant">Mater</persName>
+               </person>
+               <person xml:id="cacolalia" sex="FEMALE" role="mater">
+                  <persName>Cacolalia</persName>
+                  <persName type="variant">Mater</persName>
+               </person>
+               <person xml:id="dyscolus" sex="MALE" role="discipulus">
+                  <persName>Dyscolus</persName>
+                  <persName type="variant">Captivus</persName>
+               </person>
+               <person xml:id="clopicus" sex="MALE" role="discipulus">
+                  <persName>Clopicus</persName>
+                  <persName type="variant">Captivus</persName>
+               </person>
+               <person xml:id="aristippus" sex="MALE" role="didascalus">
+                  <persName>Aristippus</persName>
+                  <persName type="variant">Didascalus</persName>
+               </person>
+               <person xml:id="discipulus" sex="MALE" role="discipulus">
+                  <persName>Discipulus</persName>
+                  <persName type="variant">Puer</persName>
+               </person>
+               <person xml:id="codrus" sex="MALE" role="claviger">
+                  <persName>Codrus</persName>
+               </person>
+               <person xml:id="bromius" sex="MALE" role="caupo">
+                  <persName>Bromius</persName>
+                  <persName type="variant">Caupo</persName>
+               </person>
+               <person xml:id="melancia" sex="FEMALE" role="ancilla">
+                  <persName>Melancia</persName>
+               </person>
+               <person xml:id="dromella" sex="FEMALE" role="ancilla">
+                  <persName>Dromella</persName>
+               </person>
+               <person xml:id="gaulus" sex="MALE" role="leno">
+                  <persName>Gaulus</persName>
+               </person>
+               <person xml:id="labrax" sex="MALE" role="leno">
+                  <persName>Labrax</persName>
+               </person>
+               <person xml:id="villanus" sex="MALE" role="villanus">
+                  <persName>Villanus</persName>
+               </person>
+               <person xml:id="iudex" sex="MALE" role="iudex">
+                  <persName>Iudex</persName>
+               </person>
+               <person xml:id="pompus" sex="MALE" role="nuncius">
+                  <persName>Pompus</persName>
+               </person>
+               <person xml:id="lorarius-a" sex="MALE" role="lorarius">
+                  <persName>Lorarius a</persName>
+               </person>
+               <person xml:id="lorarius-b" sex="MALE" role="lorarius">
+                  <persName>Lorarius b</persName>
+               </person>
+               <person xml:id="lorcoballus" sex="MALE" role="diabolus">
+                  <persName>Lorcaballus</persName>
+                  <persName type="variant">Lorcoballus</persName>
+               </person>
+               <person xml:id="marlocappus" sex="MALE" role="diabolus">
+                  <persName>Marlocappus</persName>
+               </person>
+               <personGrp xml:id="chorus" sex="MALE" role="chorus">
+                  <persName>Chorus</persName>
+               </personGrp>
+               <personGrp xml:id="grex" sex="MALE" role="grex">
+                  <persName>Grex</persName>
+               </personGrp>
+            </listPerson>
+         </particDesc>
+         <textClass>
+            <keywords>
+               <term type="genreTitle">comedy</term>
+            </keywords>
+            <classCode scheme="http://www.wikidata.org/entity/">Q40831</classCode>
+         </textClass>
+         <creation>
+            <region>
+               <ref target="https://www.wikidata.org/wiki/Q476033">Low Countries</ref>
+            </region>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2025-07-27">
+               <desc>Converted to DraCor TEI.</desc>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <standOff>
+      <listEvent>
+         <event type="print" when="1553">
+            <desc>first print 1535, differences between the 1535 and 1553 versions unknown</desc>
+         </event>
+      </listEvent>
+   </standOff>
+   <text>
+      <front>
+         <pb n="1"/>
+         <docTitle>
+            <titlePart type="main">REBELLES</titlePart>
+            <titlePart type="desc">MACROPEDII FABULA LONGE IUCUNDISSIMA, rudibus adhuc &amp;
+               tenellis Traiectinae scholae auditoribus nuncupata.</titlePart>
+         </docTitle>
+         <div type="preface">
+            <head>AD TRAIECTINAM IUVENtutem, Macropedius.</head>
+            <p>ACcipite quotquot virtutis &amp; bonarum litterarum studiosi estis pueri mei,
+               accipite inquam Rebelles fabulam nostram, olim vobis dicatam, &amp; iam denuo vobis
+               recognitam, plusculisque in locis emendatam, &amp; (ut absolutior esset) ducentis
+               ferme versibus auctam. Legite (si placet) nostra, &amp; in re ludicra non tam aurium
+               voluptatem &amp; animi oblectationem, quàm morum probitatem &amp; bonarum litterarum
+               eruditionem vaenamini.</p>
+         </div>
+         <div type="argument">
+            <pb n="2"/>
+            <head>PERIOCHE SEU ARGUMENTUM IN Rebelles.</head>
+            <l>DIdascalum matrum per indulgentiam</l>
+            <l>Spernunt rebellantes scholastici duo.</l>
+            <l>Hinc lusibus luxu ac dolo re perdita in</l>
+            <l>Furto prehensus uterque morti addicitur.</l>
+            <l n="5">Verùm horula necis imminente novissima,</l>
+            <l>Didascalus virga receptos liberat.</l>
+            <l>Praeda satanum faucibus subito eruta,</l>
+            <l>Fit matribus, gnatisque magnum gaudium.</l>
+         </div>
+         <castList>
+            <head>Dramatis personae.</head>
+            <castGroup>
+               <castItem>
+                  <roleDesc>Prologus</roleDesc>
+                  <roleDesc>cum Morione.</roleDesc>
+               </castItem>
+            </castGroup>
+            <castItem>
+               <role>Philotecnium</role>
+               <roleDesc>mater.</roleDesc>
+            </castItem>
+            <castItem>
+               <role>Cacolalia</role>
+               <roleDesc>mater.</roleDesc>
+            </castItem>
+            <castItem>
+               <role>Dyscolus</role>
+               <roleDesc>scholasticus.</roleDesc>
+            </castItem>
+            <castItem>
+               <role>Clopicus</role>
+               <roleDesc>scholasticus.</roleDesc>
+            </castItem>
+            <castItem>
+               <role>Aristippus</role>
+               <roleDesc>didascalus cum discipulo.</roleDesc>
+            </castItem>
+            <castItem>
+               <role>Bromius</role>
+               <roleDesc>caupo.</roleDesc>
+            </castItem>
+            <castItem>
+               <role>Melancia</role>
+               <roleDesc>ancilla.</roleDesc>
+            </castItem>
+            <castItem>
+               <role>Dromella</role>
+               <roleDesc>ancilla.</roleDesc>
+            </castItem>
+            <castItem>
+               <role>Gaulus</role>
+               <roleDesc>leno.</roleDesc>
+            </castItem>
+            <castItem>
+               <role>Labrax</role>
+               <roleDesc>leno.</roleDesc>
+            </castItem>
+            <castItem>
+               <role>Iudex.</role>
+            </castItem>
+            <castItem>
+               <role>Pompus</role>
+               <roleDesc>nuncius.</roleDesc>
+            </castItem>
+            <castGroup>
+               <roleDesc>Lorarij duo.</roleDesc>
+            </castGroup>
+            <castItem>
+               <role>Lorcaballus</role>
+               <roleDesc>diabolus.</roleDesc>
+            </castItem>
+            <castItem>
+               <role>Marlocappus</role>
+               <roleDesc>diabolus.</roleDesc>
+            </castItem>
+            <castGroup>
+               <roleDesc>Chorus</roleDesc>
+               <roleDesc>ex Aristippicae scholae auditoribus.</roleDesc>
+            </castGroup>
+         </castList>
+      </front>
+      <body>
+         <pb n="3"/>
+         <div type="prologue">
+            <stage type="characters">PROLOGUS CUM MORIONE.</stage>
+            <stage type="delivery">Iambici trimetri.</stage>
+            <sp who="#prologus">
+               <l>VOs qui tulistis huc pedem adolescentuli,</l>
+               <l>Scholaribusque disciplinis hactenus</l>
+               <l>Silentium didicistis, animadvortite.</l>
+               <l>Videbitis prodire scaena tertia,</l>
+               <l n="5">Huc in proscaenium scholasticos duos.</l>
+               <l>Adhibe animum, quicumque discolus es, tuis</l>
+               <l>Quoque obstrepens didascalis, quia admodum</l>
+               <l>Nunc in tuam rem proloquar. Scholasticos</l>
+               <l>(Inquam) duos quos prodituros dixeram,</l>
+               <l n="10">Cernetis in rem pessimam producier,</l>
+               <l>Quod sit rebellis uterque praeceptoribus.</l>
+               <l>Haec pauca de argumento eodem proloqui</l>
+               <l>Me iussit, huc qui misit, auctor fabulae</l>
+               <l>Quasi prologum. Ast ego ut imperator histricus</l>
+               <l n="15">Dictator actus &amp; choragus comici,</l>
+               <l>Plures quod huc confluere quàm speraveram</l>
+               <l>Aspicio, paucis vos volo monerier.</l>
+               <l>Pro singulis cuiusque &amp; ordine &amp; gradu,</l>
+               <l>Edicta &amp; interdictiones histricas</l>
+               <l n="20">Moderabimur. Scio namque quàm sit futile</l>
+               <l>Iussum, quod indiscretius mandaveris.</l>
+               <l>Primum omnium divitibus impero, suo</l>
+               <pb n=" 4"/>
+               <l>Qui iure prae alijs occupant subsellia,</l>
+               <l>Ne caeteris petulantiores sint, &amp; ijs</l>
+               <l n="25">Agant licentius, qui humi abiecti sedent.</l>
+               <l>Nam comico choragio ne obolum quidem</l>
+               <l>Supererogant. Quin &amp; monendos censeo,</l>
+               <l>Ipsos eosdem pauperes, qui etsi domi</l>
+               <l part="I">Cibario vix pane victitent</l>
+            </sp>
+            <sp who="#morio">
+               <speaker>(Mor.</speaker>
+               <l part="F">eho.</l>
+            </sp>
+            <sp who="#prologus">
+               <speaker>Pro.</speaker>
+               <l n="30">Tace) &amp; oleribus, bletis quoque insipidis, tamen</l>
+               <l>(Si occasio fuat) vel in spectaculis</l>
+               <l>Aes prodigunt, vel improbe abliguriunt.</l>
+               <l>Ehem, à scopo paulominus aberravero,</l>
+               <l>Impendijs si derogavero pauperum,</l>
+               <l n="35">Nam ludios pauper beat plus divite.</l>
+               <l>Tenacitas nam divitem nihil sinit</l>
+               <l>Impendere. Itaque adeste cum silentio,</l>
+               <l>Pauper, lacer, miser, piger, scaber, glaber.</l>
+               <l>Qui nobiles estis, &amp; ab alto ignobilem</l>
+               <l n="40">Despicitis hunc vulgum, duplum si impenditis,</l>
+               <l>Dignam quidem ordine vestro agetis rem, sed &amp;</l>
+               <l>Faxo altius sedeatis olim &amp; honestius.</l>
+               <l>Audite tamen ignobiles, nobilibus his</l>
+               <l>Praestare si volueritis gradu &amp; ordine.</l>
+               <l n="45">Crumena nostra turgeat, faxo probè</l>
+               <l>Plus omnibus laudemini &amp; honoremini.</l>
+               <l>Nihil histrio hic discriminis nisi nummi habet.</l>
+               <l>Hinc rudibus impero imperator comicus,</l>
+               <pb n="5"/>
+               <l>Inducite animum, ut colligere valeatis hoc</l>
+               <l n="50">Ex mytho epimythion, alioqui aderitis hic</l>
+               <l>Sine fruge, inutili &amp; ego fungar munere:</l>
+               <l>Vobis quidem haud mihi, aere si infarcibitis</l>
+               <l>Loculos meos. Et eruditioribus</l>
+               <l>Dico, tumultuantibus si actoribus</l>
+               <l n="55">Obrepserit aliquid, quod illepidè siet</l>
+               <l>Prolatum, &amp; imprudenter exhibitum, palam</l>
+               <l>Ne irrideant, indulgeant autem, boni</l>
+               <l>Quoque consulant, gratis quod ipsis praestitum.</l>
+               <l>Stribiligo enim tumultuantibus accidit</l>
+               <l n="60">Nonnunquam, Homerus &amp; interim dormiturit.</l>
+               <l>Vos quoque senes, moneo, vigilate alacriter.</l>
+               <l>Nescitis enim quantum obsiet lethargus aut</l>
+               <l>Veternus hic rebus studentibus arduis.</l>
+               <l>Tandem quoque iuventam admonendam censui,</l>
+               <l n="65">Et maxime omnium puellos sordidos</l>
+               <l>Matrum suarum delicatos pusios:</l>
+               <l>Vos (inquam) adeste garruli non garruli,</l>
+               <l part="I">Loquaculique non loquaculi, agite.</l>
+            </sp>
+            <sp who="#morio">
+               <speaker>Mor.</speaker>
+               <l part="F">Ehem.</l>
+            </sp>
+            <sp who="#prologus">
+               <speaker>Pro.</speaker>
+               <l part="I">Tacesne, Morio? cavendum, adest choragus.</l>
+            </sp>
+            <sp who="#morio">
+               <speaker>Mor.</speaker>
+               <l part="F">Hau.</l>
+            </sp>
+            <sp who="#prologus">
+               <speaker>Prol.</speaker>
+               <l n="70">Adeste vos (inquam) quieti atque vigiles.</l>
+               <l>Ne fabulamini, ne stertite ante vel</l>
+               <l>Retro, neque immoderatius ridete, nec</l>
+               <l>Discurrite, &amp; (dicam ut semel) iam advortite,</l>
+               <pb n="6"/>
+               <l part="I">Ne huius choragi in vos crepent mox cottabi.</l>
+            </sp>
+            <sp who="#morio">
+               <speaker>Mo.</speaker>
+               <l part="F">St.</l>
+            </sp>
+            <sp who="#prologus">
+               <speaker>Prol.</speaker>
+               <l n="75">Non ero alius nec me amodo hic videbitis,</l>
+               <l part="I">Ego abeo.</l>
+            </sp>
+            <sp who="#morio">
+               <speaker>Mo.</speaker>
+               <l part="M">Ego maneo.</l>
+            </sp>
+            <sp who="#prologus">
+               <speaker>Pro.</speaker>
+               <l part="M">mane.</l>
+            </sp>
+            <sp who="#morio">
+               <speaker>Mor.</speaker>
+               <l part="F">manebo, abi.</l>
+            </sp>
+         </div>
+         <div type="act" n="1">
+            <div type="scene" n="1">
+               <head>ACTUS I. SCAENA I.</head>
+               <stage type="delivery">Iambici trimetri acatalectici.</stage>
+               <stage type="characters">Philotecnium sola.</stage>
+               <sp who="#philotecnium">
+                  <l>CUm aetatis huius &amp; peracti temporis</l>
+                  <l>Rationem habeo, considero haud me paucula</l>
+                  <l>Paschalia edisse ova, nam rugosa fit</l>
+                  <l n="80">Cutis, genaeque flaccidae, canis quoque </l>
+                  <l>Respersa tempora. quin &amp; ipse filius</l>
+                  <l>Iam natus annos quindecim, puellulam</l>
+                  <l>Me pernegat. Sed neque parum accelerant mihi</l>
+                  <l>Gravem hanc senectutem graves curae omnium</l>
+                  <l n="85">Rerum domesticarum &amp; immitis iugum</l>
+                  <l>Mariti &amp; ingens liberum curatio.</l>
+                  <l>Quibus locupletandis honestandisque diu</l>
+                  <l>Noctuque pervigilo. Nam ob isthuc Dyscolum</l>
+                  <l>Gnatum meum, qui grandior natu est, scholis</l>
+                  <l n="90">Pridem docendum tradidi: et mirum in modum</l>
+                  <l>Proficeret, id si liceat (heu) per improbam</l>
+                  <l>Didascalorum amentiam, qua tenerior</l>
+                  <l>Pueri cutis diverberatur, &amp; eadem</l>
+                  <l>Est omnibus crudelitas doctoribus:</l>
+                  <pb n="7"/>
+                  <l n="95">Quasi sit rigore docendus haud clementia.</l>
+                  <l>Id usque sensi à primo ad octavum ultimum,</l>
+                  <l>Quibus omnibus mores ijdem &amp; par rigor.</l>
+                  <l>Liventibus nam clunibus semper domum à</l>
+                  <l>Scholis puer revertitur, vibicibusque</l>
+                  <l n="100">Ostendit (heu) magistri amaritudinem.</l>
+                  <l>Tentabo tamen &amp; hunc Aristippum, virum</l>
+                  <l>Quem ab omnibus doctum audio probarier,</l>
+                  <l>Et philosophum &amp; rhetora, pientis quoque animi, ut</l>
+                  <l>Sine verbere dialecticum atquee verbere dialecticum atque rhetorem</l>
+                  <l n="105">Eum faciat, is nanque casus, tempora,</l>
+                  <l>Et alia Donati rudimenta (ut ferunt)</l>
+                  <l>Iamdudum ad unguem callet. Ut si fata me è</l>
+                  <l>Medio ferant, habeat puer vitam suam</l>
+                  <l>Qui suave, molliter, &amp; honestè transigat.</l>
+                  <l n="110">Verum absque consilio Cacolaliae nihil.</l>
+                  <l>Sed commodum, eccam, obambulat mihi eminus.</l>
+                  <l>Morabor usque dum appropinquet, &amp; alloquar.</l>
+               </sp>
+            </div>
+            <div type="scene" n="2">
+               <head>ACTUS I. SCAENA II.</head>
+               <stage type="delivery">Trimetri ut superiores.</stage>
+               <stage type="characters">Philotecnium. Cacolalia.</stage>
+               <sp who="#philotecnium">
+                  <l>EStne haec Cacolalia mea quae mihi obvia est?</l>
+                  <l>Cara admodum cognata, salve, te volo,</l>
+                  <l n="115" part="I">Te quaero, ades mihi tempori.</l>
+               </sp>
+               <sp who="#cacolalia">
+                  <speaker>Caco.</speaker>
+                  <l part="F">Quid amabo id est,</l>
+                  <l>Quod tantopere me quaeritas? Si parvulum ad</l>
+                  <pb n="8"/>
+                  <l>Me nuncium, cognata mitteres, ego ad</l>
+                  <l part="I">Te ultro advolarem, sed quid est?</l>
+               </sp>
+               <sp who="#philotecnium">
+                  <speaker>Phil.</speaker>
+                  <l part="F">Necessitas</l>
+                  <l part="I">Me huc appulit.</l>
+               </sp>
+               <sp who="#cacolalia">
+                  <speaker>Caco.</speaker>
+                  <l part="F">Pol magna ea est necessitas,</l>
+                  <l n="120">Quae te labori itineris adigit tam gravi.</l>
+               </sp>
+               <sp who="#philotecnium">
+                  <speaker>Phi.</speaker>
+                  <l>Profecto magna, haud te fefellit dictio.</l>
+               </sp>
+               <sp who="#cacolalia">
+                  <speaker>Caco.</speaker>
+                  <l part="I">Ego quae sit auguror.</l>
+               </sp>
+               <sp who="#philotecnium">
+                  <speaker>Phi.</speaker>
+                  <l part="F">Deo soli agnita</l>
+                  <l>Arcana cordis, tu augurari possies?</l>
+               </sp>
+               <sp who="#cacolalia">
+                  <speaker>Caco.</speaker>
+                  <l part="I">Scio, inquio.</l>
+               </sp>
+               <sp who="#philotecnium">
+                  <speaker>Phi.</speaker>
+                  <l part="F">Vis de marito dicere,</l>
+                  <l n="125">Qui vespere hesterno virenti verbere</l>
+                  <l>Coxas mihi scapulásque lividas dedit?</l>
+               </sp>
+               <sp who="#cacolalia">
+                  <speaker>Caco.</speaker>
+                  <l>Istuc volebam eoque propero ad te modò,</l>
+                  <l>Cognata, solatura te in casu tuo</l>
+                  <l>Sinistro. &amp; ut pexi caput viro meo</l>
+                  <l n="130">Tripode, indicatura.</l>
+               </sp>
+               <sp who="#philotecnium">
+                  <speaker>Ph.</speaker>
+                  <l part="F">Ah Cacolalia si foret</l>
+                  <l>Tantum mihi animi. At ista omitte, quia aliud</l>
+                  <l part="I">Iam te volo.</l>
+               </sp>
+               <sp who="#cacolalia">
+                  <speaker>Cac.</speaker>
+                  <l part="M">quid? dice.</l>
+               </sp>
+               <sp who="#philotecnium">
+                  <speaker>Ph.</speaker>
+                  <l part="F">Narrabo tribus</l>
+                  <l>Tibi verbulis. Cum te vafro ingenio sciam,</l>
+                  <l>In re ardua ut te consulam, &amp; prudentia</l>
+                  <l n="135" part="I">Utar tua, huc veni.</l>
+               </sp>
+               <sp who="#cacolalia">
+                  <speaker>Cac.</speaker>
+                  <l part="F">At viri prudentiam</l>
+                  <l>Nullam mulieri inesse passim dictitant.</l>
+               </sp>
+               <sp who="#philotecnium">
+                  <speaker>Ph.</speaker>
+                  <l>Nugas agunt dum effutiunt huiusmodi.</l>
+                  <l>Heu cogimur, quae debili sexu sumus,</l>
+                  <l>Complura probra ab improbis pati viris.</l>
+                  <l n="140">O utinam ut orbis sit perinde mobilis</l>
+                  <l>Et sexus. Hunc quem conspicis gnatum meum</l>
+                  <l>Dialecticum fieri ac disertum rhetorem</l>
+                  <pb n="9"/>
+                  <l>Percupio, ne si ego moriar, ipsum perpeti</l>
+                  <l>Contingat inopiam, aut mori infeliciter.</l>
+                  <l n="145">Tamen absque consilio tuo nihil volo.</l>
+               </sp>
+               <sp who="#cacolalia">
+                  <speaker>Cac.</speaker>
+                  <l>Percupio &amp; ego iamdudum in hoc ipsum quidem</l>
+                  <l>Gnatum meum horas collocare pauculas.</l>
+                  <l>Sed iacta nondum est alea: oportuna ades.</l>
+               </sp>
+               <sp who="#philotecnium">
+                  <speaker>Ph.</speaker>
+                  <l>Bene est: sed heus cognata, ubi doctorem eis</l>
+                  <l n="150">Mitem, suavem, &amp; amabilem nanciscimur?</l>
+                  <l>Qui lenibus verbis, flagris non acribus</l>
+                  <l>Doceat eos? flens memoro Cacolalia, toties</l>
+                  <l>Molliculam adusque sanguinem gnati cutem</l>
+                  <l>Diverberatam, pereo si rursum accidat.</l>
+               </sp>
+               <sp who="#cacolalia">
+                  <speaker>Cac.</speaker>
+                  <l n="155">Interminabimur viro, ne eiusmodi</l>
+                  <l>Praesumat, alioqui abstulerimus liberos.</l>
+               </sp>
+               <sp who="#philotecnium">
+                  <speaker>Ph.</speaker>
+                  <l>Recte, nec ego quidem aliter arbitrata sum.</l>
+                  <l>Sed ubinam eum valebimus nanciscier?</l>
+               </sp>
+               <sp who="#cacolalia">
+                  <speaker>Cac.</speaker>
+                  <l>Habitare in aedibus Hieronymo sacris</l>
+                  <l n="160">Doctum ferunt didascalum, novisti eum?</l>
+               </sp>
+               <sp who="#philotecnium">
+                  <speaker>Phi.</speaker>
+                  <l>Quid? illum Aristippum senem fronte tetrica?</l>
+               </sp>
+               <sp who="#cacolalia">
+                  <speaker>Cac.</speaker>
+                  <l part="I">Etiam.</l>
+               </sp>
+               <sp who="#philotecnium">
+                  <speaker>Ph.</speaker>
+                  <l part="F">satis honestum ac peritum istunc ferunt.</l>
+               </sp>
+               <sp who="#cacolalia">
+                  <speaker>Caco.</speaker>
+                  <l>Adeamus hunc, sistamus &amp; ei liberos.</l>
+                  <l>E fronte sphaeristerij gnatum meum</l>
+                  <l n="165">Vocavero. Heus tu Clopice, adesdum, sequere me.</l>
+               </sp>
+            </div>
+            <div type="scene" n="3">
+               <head>ACTUS I. SCAENA III.</head>
+               <stage type="delivery">Trimetri ut superiores.</stage>
+               <stage type="characters">Clopicus. Dyscolus.</stage>
+               <pb n="10"/>
+               <sp who="#clopicus">
+                  <l part="I">COngerro, salve.</l>
+               </sp>
+               <sp who="#dyscolus">
+                  <speaker>Dis.</speaker>
+                  <l part="F">salvus esto Clopice. num</l>
+                  <l>Favit tibi fortuna laeta in compito?</l>
+               </sp>
+               <sp who="#clopicus">
+                  <speaker>Clo.</speaker>
+                  <l>Fortuna? pereat ipsa &amp; eius complices.</l>
+                  <l>Loculos enim, cultros, stilosque perdidi.</l>
+                  <l n="170">Sed obsecro quid me avocat mea genetrix?</l>
+               </sp>
+               <sp who="#dyscolus">
+                  <speaker>Dys.</speaker>
+                  <l>Quid? ad scholas reducimur, philosophia</l>
+                  <l part="I">(Si dijs placet) simul instruendi.</l>
+               </sp>
+               <sp who="#clopicus">
+                  <speaker>Clo.</speaker>
+                  <l part="F">apage schola.</l>
+                  <l>Ut carcerem hunc ludum horreo. Sed tum quid est?</l>
+                  <l>Si nummulis crumena turgeat quid est?</l>
+               </sp>
+               <sp who="#dyscolus">
+                  <speaker>Dys.</speaker>
+                  <l n="175">Aut verbera aberunt aut fugam capessero,</l>
+                  <l>Ubi talionem reddidero. scio nanque quid</l>
+                  <l part="I">Utriusque decrevit parens.</l>
+               </sp>
+               <sp who="#clopicus">
+                  <speaker>Clo.</speaker>
+                  <l part="F">quid obsecro?</l>
+               </sp>
+               <sp who="#dyscolus">
+                  <speaker>Dys.</speaker>
+                  <l>Ut absque verbere doceamur expetunt.</l>
+               </sp>
+               <sp who="#clopicus">
+                  <speaker>Clo.</speaker>
+                  <l part="I">Sine verbere?</l>
+               </sp>
+               <sp who="#dyscolus">
+                  <speaker>Dys.</speaker>
+                  <l part="M">Ita.</l>
+               </sp>
+               <sp who="#clopicus">
+                  <speaker>Cl.</speaker>
+                  <l part="M">sine verbere?</l>
+               </sp>
+               <sp who="#dyscolus">
+                  <speaker>Dys.</speaker>
+                  <l part="F">absque verbere.</l>
+               </sp>
+               <sp who="#clopicus">
+                  <speaker>Clo.</speaker>
+                  <l n="180">Ohe deum immortalem, ut est stultissima</l>
+                  <l>Materna mens, nobis tamen ut accommoda,</l>
+                  <l>Sed iam gradum sistunt, sequamur ultro, ne</l>
+                  <l>Nos arguant coram magistro ignaviae.</l>
+                  <l>Pulsare tentant ostium, properandum erit.</l>
+               </sp>
+            </div>
+            <div type="scene" n="4">
+               <head>ACTUS I. SCAENA IIII.</head>
+               <stage type="delivery">Trimetri ut superiores.</stage>
+               <stage type="characters">Cacolalia. Philotecnium. Aristippus. Codrus.</stage>
+               <sp who="#cacolalia">
+                  <l n="185">HEus heus, ubi estis vos: magister est domi?</l>
+               </sp>
+               <sp who="#aristippus">
+                  <speaker>Aristip.</speaker>
+                  <l>Quid hoc mali? quis tam improba <pb n="11"/> pulsat manu</l>
+                  <l part="I">Nostras fores?</l>
+               </sp>
+               <sp who="#philotecnium">
+                  <speaker>Ph.</speaker>
+                  <l part="M">Salve magister.</l>
+               </sp>
+               <sp who="#aristippus">
+                  <speaker>Aristip.</speaker>
+                  <l part="F">identidem</l>
+                  <l>Salvete vos matronae honestae, quaeritis</l>
+                  <l part="I">Me?</l>
+               </sp>
+               <sp who="#philotecnium">
+                  <speaker>Phi.</speaker>
+                  <l part="M">quaerimus.</l>
+               </sp>
+               <sp who="#aristippus">
+                  <speaker>Aristip.</speaker>
+                  <l part="M">quid indicaturae?</l>
+               </sp>
+               <sp who="#philotecnium">
+                  <speaker>Philo.</speaker>
+                  <l part="F">vides</l>
+                  <l n="190" part="I">Magister has proles?</l>
+               </sp>
+               <sp who="#aristippus">
+                  <speaker>Aristip.</speaker>
+                  <l part="M">video.</l>
+               </sp>
+               <sp who="#philotecnium">
+                  <speaker>Phi.</speaker>
+                  <l part="F">has adducimus</l>
+                  <l>Tuaeque sollicitudini committimus,</l>
+                  <l part="I">Ut philosophos facias eos.</l>
+               </sp>
+               <sp who="#aristippus">
+                  <speaker>Arist.</speaker>
+                  <l part="F">videlicet.</l>
+               </sp>
+               <sp who="#philotecnium">
+                  <speaker>Ph.</speaker>
+                  <l part="I">Et rhetoras, capis?</l>
+               </sp>
+               <sp who="#aristippus">
+                  <speaker>Ar.</speaker>
+                  <l part="M">capio.</l>
+               </sp>
+               <sp who="#philotecnium">
+                  <speaker>Ph.</speaker>
+                  <l part="F">sine verbere.</l>
+               </sp>
+               <sp who="#aristippus">
+                  <speaker>Ar.</speaker>
+                  <l>Tyrunculos fidei meae quos sistitis,</l>
+                  <l n="195">Tuebor &amp; curabo tamquam proprios:</l>
+                  <l>At quaeso sinite me regere iuvenculos.</l>
+                  <l>Docebo eos non aliter atque decuerit.</l>
+               </sp>
+               <sp who="#philotecnium">
+                  <speaker>Ph.</speaker>
+                  <l>At fiat hoc suaviter, verbis pijs</l>
+                  <l>Et blandulis, minime flagellis asperis.</l>
+               </sp>
+               <sp who="#aristippus">
+                  <speaker>Ar.</speaker>
+                  <l n="200">Iuvenibus ego novi quid omnibus expedit,</l>
+                  <l>Stimulo haud opust? currentibus, rem ipsam mihi</l>
+                  <l>Committite. Ingrediantur ad gregem. Codre.</l>
+               </sp>
+               <sp who="#codrus">
+                  <speaker>Co.</speaker>
+                  <l part="I">Hem.</l>
+               </sp>
+               <sp who="#aristippus">
+                  <speaker>Ar.</speaker>
+                  <l part="M">duc eos ad classem utrumque suam.</l>
+               </sp>
+               <sp who="#codrus">
+                  <speaker>Co.</speaker>
+                  <l part="F">licet.</l>
+               </sp>
+               <sp who="#philotecnium">
+                  <speaker>Ph.</speaker>
+                  <l>Vale magister curam habe horum pignorum,</l>
+                  <l n="205">Dignum recepturus labore praemium.</l>
+               </sp>
+               <sp who="#cacolalia">
+                  <speaker>Ca.</speaker>
+                  <l part="I">Sed audin?</l>
+               </sp>
+               <sp who="#aristippus">
+                  <speaker>Ar.</speaker>
+                  <l part="M">ausculto.</l>
+               </sp>
+               <sp who="#cacolalia">
+                  <speaker>Ca.</speaker>
+                  <l part="F">cave membra tenera</l>
+                  <l>Diverberes, aliàs malè audies. Vale.</l>
+               </sp>
+               <sp who="#aristippus">
+                  <speaker>Ar.</speaker>
+                  <l>Valete. Daemonium sua mater filio est.</l>
+               </sp>
+            </div>
+            <div type="scene" n="5">
+               <head>ACTUS I. SCAENA V.</head>
+               <stage type="delivery">Iambici dimetri acatalectici.</stage>
+               <pb n="12"/>
+               <stage type="characters">Lorcoballus. Marlocappus.</stage>
+               <sp who="#lorcoballus">
+                  <l>HEus Marlocappe, adesdum, ohe.</l>
+               </sp>
+               <sp who="#marlocappus">
+                  <speaker>Mar.</speaker>
+                  <l n="210">Quid Lorcoballe nactus es?</l>
+               </sp>
+               <sp who="#lorcoballus">
+                  <speaker>Lor.</speaker>
+                  <l>Audi novam rogo fabulam,</l>
+                  <l>Unde haud parum nobis lucri.</l>
+               </sp>
+               <sp who="#marlocappus">
+                  <speaker>Mar.</speaker>
+                  <l>Ah dic, quid est? ah dice sis.</l>
+               </sp>
+               <sp who="#lorcoballus">
+                  <speaker>Lor.</speaker>
+                  <l>Rogas? hebes, brute, stolide,</l>
+                  <l n="215">Non cernis ut Philotecnium</l>
+                  <l>Et Cacolalia gnatos suos</l>
+                  <l>Contradidêre literis</l>
+                  <l>Mox imbuendos optimis,</l>
+                  <l>Sine ferula, sine mastyge?</l>
+                  <l n="220">Stultissimae mulierculae,</l>
+                  <l>Et se &amp; suos in retia</l>
+                  <l>Nostra implicabunt filios,</l>
+                  <l>Si utamur astu callido.</l>
+                  <l>Utemur autem, in latibulis</l>
+                  <l n="225">Si delituerimus, rei</l>
+                  <l>Quoque viderimus exitum.</l>
+               </sp>
+               <sp who="#marlocappus">
+                  <speaker>Mar.</speaker>
+                  <l>Non mussitandum latius,</l>
+                  <l>Quid facto opust? modò suggere.</l>
+               </sp>
+               <sp who="#lorcoballus">
+                  <speaker>Lor.</speaker>
+                  <l>Subrepere in cavernulam hanc,</l>
+                  <l n="230">Quo agunda agamus clanculum.</l>
+               </sp>
+               <sp who="#marlocappus">
+                  <speaker>Mar.</speaker>
+                  <l>Rectè mones. I prae, sequar.</l>
+               </sp>
+               <sp who="#lorcoballus">
+                  <speaker>Lor.</speaker>
+                  <l>Tu mage praei, quò ego cautius</l>
+                  <l part="I">Seriem rei intuear.</l>
+               </sp>
+               <sp who="#marlocappus">
+                  <speaker>Mar.</speaker>
+                  <l part="F">Licet.</l>
+               </sp>
+            </div>
+            <pb n="13"/>
+            <div type="scene" subtype="chorus" n="6">
+               <head>CHORUS.</head>
+               <stage type="delivery">Iambici dimetri acatalectici.</stage>
+               <sp who="#chorus">
+                  <lg>
+                     <l>Matrum per indulgentiam,</l>
+                     <l n="235">Gnatorum &amp; insolentiam,</l>
+                     <l>Furta atque parricidia</l>
+                     <l>Persaepè consequi solent.</l>
+                  </lg>
+                  <lg>
+                     <l>Solomonis est proverbium:</l>
+                     <l>Si quis tener dimittitur</l>
+                     <l n="240">Suae voluntati puer,</l>
+                     <l>Confundet is matrem suam.</l>
+                  </lg>
+               </sp>
+            </div>
+         </div>
+         <div type="act" n="2">
+            <div type="scene" n="1">
+               <head>ACTUS II. SCAENA I.</head>
+               <stage type="delivery">Iambici tetrametri seu octonarij.</stage>
+               <stage type="characters">Dyscolus. Clopicus.</stage>
+               <sp who="#dyscolus">
+                  <l>O Hercules, ô Clopice mi, ô quàm industriè iam evasimus</l>
+                  <l>Didascali minas. atat ut in nos creparent cottabi,</l>
+                  <l>Si exactius praeceptor inquireret ad unguem singula,</l>
+                  <l n="245">Nam praeter annum fabulas, nihil egimus seu didicimus.</l>
+                  <l>Dictata namque quae fuêre, amissa sunt vel rupta sunt.</l>
+               </sp>
+               <pb n="14"/>
+               <sp who="#clopicus">
+                  <speaker>Clop.</speaker>
+                  <l>Pol ulmei iamdudum uterque essemus &amp; instar scabrae ovis</l>
+                  <l>Perlividi. Ast hoc tempore has nates semel subduximus.</l>
+                  <l>Si liceat id crebro, quid optabilius aut iucundius?</l>
+                  <l n="250">Non puto quod is nos audeat veritus parentes caedere.</l>
+                  <l>Sedeamus hic parumper, &amp; linquamus has curantibus</l>
+                  <l part="I">Curas graveis.</l>
+               </sp>
+               <sp who="#dyscolus">
+                  <speaker>Dysco.</speaker>
+                  <l part="F">Linquamus, at quid interim tractabimus?</l>
+                  <l part="I">Nam quicquid id fuerit, sine strepitu oportet ut fiat.</l>
+               </sp>
+               <sp who="#clopicus">
+                  <speaker>Clo.</speaker>
+                  <l part="F">Probè.</l>
+                  <l>Fallamus oculos intuentes nos, pari numero obolos</l>
+                  <l n="255">Libro inseramus, sortiamur deinde cuius nostrum erunt,</l>
+                  <l part="I">Ut nos didascalus putet dicenda discere.</l>
+               </sp>
+               <sp who="#dyscolus">
+                  <speaker>Dysco.</speaker>
+                  <l part="F">non placet</l>
+                  <l part="I">Conditio, nam sortiri ego ignoro.</l>
+               </sp>
+               <sp who="#clopicus">
+                  <speaker>Clopi.</speaker>
+                  <l part="F">Docebo te, tu eris</l>
+                  <l part="I">Primus, sequensque ego tertius.</l>
+               </sp>
+               <sp who="#dyscolus">
+                  <speaker>Dys.</speaker>
+                  <l part="M">Licet.</l>
+               </sp>
+               <sp who="#clopicus">
+                  <speaker>Clo.</speaker>
+                  <l part="F">Ista concedentis est.</l>
+               </sp>
+               <sp who="#dyscolus">
+                  <speaker>Dysco.</speaker>
+                  <l part="I">Est, at cave ne subdolus fuas.</l>
+               </sp>
+               <sp who="#clopicus">
+                  <speaker>Clo.</speaker>
+                  <l part="F">Tua igitur prima sors,</l>
+                  <l n="260" part="I">Mea residuast?</l>
+               </sp>
+               <sp who="#dyscolus">
+                  <speaker>Dysc.</speaker>
+                  <l part="F">Licet. inserui obolos, revolve paginas.</l>
+               </sp>
+               <sp who="#clopicus">
+                  <speaker>Clop.</speaker>
+                  <l>Primus, secundus, tertius: Primus, secundus, tertius:</l>
+               </sp>
+               <pb n="15"/>
+               <sp who="#clopicus">
+                  <speaker>Clop.</speaker>
+                  <l>Primus, secundus, tertius: Primus, secundus, tertius.</l>
+               </sp>
+               <sp who="#dyscolus">
+                  <speaker>Dys.</speaker>
+                  <l part="I">Sors nulla adhuc.</l>
+               </sp>
+               <sp who="#clopicus">
+                  <speaker>Clo.</speaker>
+                  <l part="M">Primus.</l>
+               </sp>
+               <sp who="#dyscolus">
+                  <speaker>Dys.</speaker>
+                  <l part="F">mea est, foeliciorem me fore haec</l>
+                  <l part="I">Probat.</l>
+               </sp>
+               <sp who="#clopicus">
+                  <speaker>Clo.</speaker>
+                  <l part="M">secundus, tertius, sed haec mea est.</l>
+               </sp>
+               <sp who="#dyscolus">
+                  <speaker>Dys.</speaker>
+                  <l part="F">pares sumus.</l>
+               </sp>
+               <sp who="#clopicus">
+                  <speaker>Clo.</speaker>
+                  <l n="265" part="I">Primus, secundus, tertius, mea haec quoque.</l>
+               </sp>
+               <sp who="#dyscolus">
+                  <speaker>Dys.</speaker>
+                  <l part="M">hui.</l>
+               </sp>
+               <sp who="#clopicus">
+                  <speaker>Clo.</speaker>
+                  <l part="M">primus.</l>
+               </sp>
+               <sp who="#dyscolus">
+                  <speaker>Dys.</speaker>
+                  <l part="F">nihil.</l>
+               </sp>
+               <sp who="#clopicus">
+                  <speaker>Clo.</speaker>
+                  <l>Secundus, haec mea. tertius: primus, secundus, tertius.</l>
+               </sp>
+               <sp who="#dyscolus">
+                  <speaker>Dys.</speaker>
+                  <l part="I">Eheu!</l>
+               </sp>
+               <sp who="#clopicus">
+                  <speaker>Clop.</speaker>
+                  <l part="M">mea est. Primus, secundus: rursus haec mea est.</l>
+               </sp>
+               <sp who="#dyscolus">
+                  <speaker>Dys.</speaker>
+                  <l part="F">tua est?</l>
+               </sp>
+               <sp who="#clopicus">
+                  <speaker>Clo.</speaker>
+                  <l part="I">Mihi vendico.</l>
+               </sp>
+               <sp who="#dyscolus">
+                  <speaker>Dys.</speaker>
+                  <l part="M">tibi vendicas?</l>
+               </sp>
+               <sp who="#clopicus">
+                  <speaker>Clo.</speaker>
+                  <l part="M">sic inquio.</l>
+               </sp>
+               <sp who="#dyscolus">
+                  <speaker>Dys.</speaker>
+                  <l part="F">quidum nepos?</l>
+               </sp>
+               <sp who="#clopicus">
+                  <speaker>Clo.</speaker>
+                  <l>Huiusmodi convenimus pacto, ut tua esset prima sors,</l>
+                  <l n="270" part="I">Sequens mea atque tertia.</l>
+               </sp>
+               <sp who="#dyscolus">
+                  <speaker>Dys.</speaker>
+                  <l part="M">Factum nego.</l>
+               </sp>
+               <sp who="#clopicus">
+                  <speaker>Clo.</speaker>
+                  <l part="F">ast ego assero.</l>
+               </sp>
+               <sp who="#dyscolus">
+                  <speaker>Dys.</speaker>
+                  <l>Mentire Clopice, an tu putas mihi nullum inesse cerebrum, ut hanc</l>
+                  <l>Sortem tibi duplicem, mihi autem simplicem permitterem?</l>
+               </sp>
+               <sp who="#clopicus">
+                  <speaker>Clo.</speaker>
+                  <l part="I">Sibi quisque semper pro virili nititur.</l>
+               </sp>
+               <sp who="#dyscolus">
+                  <speaker>Dysc.</speaker>
+                  <l part="F">vis reddere, an</l>
+                  <l part="I">Non, te rogo, quos furatus?</l>
+               </sp>
+               <sp who="#clopicus">
+                  <speaker>Clo.</speaker>
+                  <l part="F">hem, furatus ô trifurcifer?</l>
+               </sp>
+               <sp who="#dyscolus">
+                  <speaker>Dys.</speaker>
+                  <l n="275" part="I">Furatus es.</l>
+               </sp>
+               <sp who="#clopicus">
+                  <speaker>Clo.</speaker>
+                  <l part="M">furatus ô nefande?</l>
+               </sp>
+               <sp who="#dyscolus">
+                  <speaker>Dys.</speaker>
+                  <l part="M">ita est.</l>
+               </sp>
+               <sp who="#clopicus">
+                  <speaker>Clo.</speaker>
+                  <l part="F">pol non dabo.</l>
+               </sp>
+               <pb n="16"/>
+               <sp who="#dyscolus">
+                  <speaker>Dys.</speaker>
+                  <l>Dabis; alioqui extorsero pugno, unguibus vel dentibus.</l>
+               </sp>
+               <sp who="#clopicus">
+                  <speaker>Clo.</speaker>
+                  <l>Extorseris? cera manus compaginatae sint mihi.</l>
+               </sp>
+               <sp who="#dyscolus">
+                  <speaker>Dys.</speaker>
+                  <l part="I">En hoc volebas?</l>
+               </sp>
+               <sp who="#clopicus">
+                  <speaker>Clo.</speaker>
+                  <l part="F">cederes? pol ego, secundo si audeas.</l>
+               </sp>
+               <sp who="#dyscolus">
+                  <speaker>Dys.</speaker>
+                  <l>Sceleste, furcifer, meum non redderes? sic discito,</l>
+                  <l>(280) Sic discito, sic discito, sic discito, sic discito,</l>
+                  <l part="I">Per dolum aliena rapere.</l>
+               </sp>
+               <sp who="#clopicus">
+                  <speaker>Clo.</speaker>
+                  <l part="M">do, dimitte me.</l>
+               </sp>
+               <sp who="#dyscolus">
+                  <speaker>Dys.</speaker>
+                  <l part="F">cedo statim.</l>
+               </sp>
+               <sp who="#clopicus">
+                  <speaker>Clo.</speaker>
+                  <l>Meretricie, scelerate, perfide, accipe tuam rem atque abi.</l>
+               </sp>
+            </div>
+            <div type="scene" n="2">
+               <head>ACTUS II. SCAENA II.</head>
+               <stage type="delivery">Octonarij quadrati, ut superiores.</stage>
+               <stage type="characters">Aristippus. Clopicus. Dyscolus.</stage>
+               <sp who="#aristippus">
+                  <l>QUid istuc est? hoccine opus est scholasticorum ludere</l>
+                  <l>Per sortem, &amp; hinc certare pugnis, &amp; capillos vellere?</l>
+               </sp>
+               <sp who="#clopicus">
+                  <speaker>Clo.</speaker>
+                  <l n="285" part="I">Caecidit hic praeceptor optime me prior.</l>
+               </sp>
+               <sp who="#dyscolus">
+                  <speaker>Dys.</speaker>
+                  <l part="F">mentiris hoc,</l>
+                  <l>Scelus, rapueras mihi teruncios dolo, quos reddere</l>
+                  <l part="I">Procax negabas.</l>
+               </sp>
+               <sp who="#clopicus">
+                  <speaker>Clo.</speaker>
+                  <l part="F">iure ludi acceperam, sed reddidi,</l>
+                  <l part="I">Non desinenti caedere.</l>
+               </sp>
+               <sp who="#dyscolus">
+                  <speaker>Dys.</speaker>
+                  <l part="F">Haud te equidem cecidissem, dolo</l>
+                  <pb n="17"/>
+                  <l part="I">Ni sustulisses nummulos meos.</l>
+               </sp>
+               <sp who="#aristippus">
+                  <speaker>Arist.</speaker>
+                  <l part="F">Sat est verborum, eos</l>
+                  <l n="290">Prehendite, introducite, ut certaminis palmam ferant.</l>
+               </sp>
+            </div>
+            <div type="scene" n="3">
+               <head>ACTUS II. SCAENA III.</head>
+               <stage type="delivery">Iambici dimetri acatalectici.</stage>
+               <stage type="characters">Lorcoballus. Marlocappus.</stage>
+               <sp who="#lorcoballus">
+                  <l>VIdistin’ heus tu Marlocap</l>
+                  <l>Haec gesta perduellium?</l>
+               </sp>
+               <sp who="#marlocappus">
+                  <speaker>Mar.</speaker>
+                  <l>Ita filij nostri solent</l>
+                  <l>Praesente nobis ludere.</l>
+               </sp>
+               <sp who="#lorcoballus">
+                  <speaker>Lor.</speaker>
+                  <l n="295">Adhuc moremur paululum,</l>
+                  <l>Multo his videbis pluria.</l>
+                  <l part="I">Sed audin’?</l>
+               </sp>
+               <sp who="#marlocappus">
+                  <speaker>Mar.</speaker>
+                  <l part="F">Hem, quid audiam?</l>
+               </sp>
+               <sp who="#lorcoballus">
+                  <speaker>Lor.</speaker>
+                  <l>Per Cerberum tu obtusus es.</l>
+                  <l>Audisne, qui cantillitant?</l>
+               </sp>
+               <sp who="#marlocappus">
+                  <speaker>Mar.</speaker>
+                  <l n="300">Haec nostra plane cantio est:</l>
+                  <l>Caeduntur acribus flagris.</l>
+                  <l>Age concinamus filijs.</l>
+               </sp>
+               <sp who="#lorcoballus">
+                  <speaker>Lor.</speaker>
+                  <l>Placet, canamus altius:</l>
+                  <l>Diapente nostrum exaudiant.</l>
+               </sp>
+               <sp who="#lorcoballus #marlocappus">
+                  <speaker>Utrique.</speaker>
+                  <l n="305">Ovae, ovae, ovae, ovae,</l>
+                  <l>O bone magister, ovae, ovae.</l>
+               </sp>
+            </div>
+            <div type="scene" subtype="chorus" n="4">
+               <head>CHORUS.</head>
+               <stage type="delivery">Iambici dimetri.</stage>
+               <pb n="18"/>
+               <sp who="#chorus">
+                  <lg>
+                     <l>SApientis est sententia:</l>
+                     <l>Difficile perversos suis</l>
+                     <l>Fore corrigendos moribus,</l>
+                     <l n="310">Stultos quoque innumerabiles.</l>
+                  </lg>
+                  <lg>
+                     <l>Nihilominus didascalum</l>
+                     <l>Decet suo (si postulet</l>
+                     <l>Res) fungi honesto munere,</l>
+                     <l>Malos subinde caedere.</l>
+                  </lg>
+               </sp>
+            </div>
+         </div>
+         <div type="act" n="3">
+            <div type="scene" n="1">
+               <head>ACTUS III. SCAENA I.</head>
+               <stage type="delivery">Iambici trimetri acatalectici.</stage>
+               <stage type="characters">Dyscolus. Clopicus.</stage>
+               <sp who="#dyscolus">
+                  <l n="315">TE propter haec sum Clopice passus innocens.</l>
+               </sp>
+               <sp who="#clopicus">
+                  <speaker>Clo.</speaker>
+                  <l>Scilicet, adhuc plagis tuis ego lividus</l>
+                  <l>Te propter excoriabar ultro, &amp; es innocens?</l>
+                  <pb n="19"/>
+                  <l>Te Iuppiter male perimat, si pergis hoc</l>
+                  <l part="I">Modo loqui.</l>
+               </sp>
+               <sp who="#dyscolus">
+                  <speaker>Dys.</speaker>
+                  <l part="F">Mittamus haec, nepos, satis</l>
+                  <l n="320">Uterque vapulavimus. Nunc matribus</l>
+                  <l>Nostris queramur voce flebili, &amp; plagas Scazon</l>
+                  <l>Monstremus illis, quas didascalus ferox</l>
+                  <l>Nostrae intulit carni tenerrimae. bonast’</l>
+                  <l>Occasio, qua liberi hoc ergastulo</l>
+                  <l n="325" part="I">Agamus amodò homunculos bellos.</l>
+               </sp>
+               <sp who="#clopicus">
+                  <speaker>Clo.</speaker>
+                  <l part="F">placet,</l>
+                  <l>Pereatque carnificina nostra haec fulmine:</l>
+                  <l>Ubi nil sonat nisi flagra, caedes, lachrymae.</l>
+                  <l>Valeat Aristippus senex, trux carnifex.</l>
+               </sp>
+
+               <sp who="#dyscolus">
+                  <speaker>Dis.</speaker>
+                  <l part="I">Eamus hinc.</l>
+               </sp>
+            </div>
+            <div type="scene" n="2">
+               <head>ACTUS III. SCAENA II.</head>
+               <stage type="delivery">Trimetri ut superiores.</stage>
+               <stage type="characters">Cacolalia. Clopicus. Dyscolus.</stage>
+               <sp who="#cacolalia">
+                  <l part="F">QUos eiulatus audio</l>
+                  <l n="330">Foris? tuan’ vox Clopice resonat gnate mi?</l>
+               </sp>
+               <sp who="#clopicus">
+                  <speaker>Clo.</speaker>
+                  <l part="I">Eheu!</l>
+               </sp>
+               <sp who="#cacolalia">
+                  <speaker>Cac.</speaker>
+                  <l part="F">quid est, fili unice, ecquid eiulas?</l>
+                  <l part="I">Dic matri.</l>
+               </sp>
+               <sp who="#clopicus">
+                  <speaker>Clo.</speaker>
+                  <l part="F">An ego non eiulem? an ego non fleam</l>
+                  <l>Mater, repetitis qui tot ictibus miser</l>
+                  <l>Diverberatus sum? en quibus vibicibus</l>
+                  <l n="335" part="I">Nates tumescunt lividae.</l>
+               </sp>
+               <sp who="#cacolalia">
+                  <speaker>Caco.</speaker>
+                  <l part="F">quod hoc (malum)</l>
+                  <l>Crudelitatis est genus? pape, deum</l>
+                  <l>Deum (inquio) immortalem, ut hic laceratus est,</l>
+                  <pb n="20"/>
+                  <l>Flagrisque dilaniatus est: dic Dyscole</l>
+                  <l>Et tu quid eiulas? tun’ &amp; percussus es?</l>
+               </sp>
+               <sp who="#dyscolus">
+                  <speaker>Dys.</speaker>
+                  <l n="340">En acrius multo miser, miserrimus.</l>
+                  <l>Perinde in innocuos, ut in foedos canes</l>
+                  <l part="I">Grassatus est latro.</l>
+               </sp>
+               <sp who="#cacolalia">
+                  <speaker>Cac.</speaker>
+                  <l part="F">quid ergo criminis</l>
+                  <l part="I">Obiecit innocentibus?</l>
+               </sp>
+               <sp who="#dyscolus">
+                  <speaker>Dys.</speaker>
+                  <l part="F">nostros libros</l>
+                  <l>Dum evolvimus didascalus supervenit,</l>
+                  <l n="345">Dicitque contendisse nos &amp; percitos</l>
+                  <l part="I">Ira invicem pugnasse.</l>
+               </sp>
+               <sp who="#cacolalia">
+                  <speaker>Cac.</speaker>
+                  <l part="M">vos?</l>
+               </sp>
+               <sp who="#dyscolus">
+                  <speaker>Dysc.</speaker>
+                  <l part="F">quod ne quidem</l>
+                  <l part="I">Nos cogitavimus.</l>
+               </sp>
+               <sp who="#cacolalia">
+                  <speaker>Cac.</speaker>
+                  <l part="F">O diabolicum caput,</l>
+                  <l>O tetricam frontem, invicem pugnasse vos?</l>
+               </sp>
+               <sp who="#dyscolus">
+                  <speaker>Dysc.</speaker>
+                  <l part="I">Pugnasse.</l>
+               </sp>
+               <sp who="#cacolalia">
+                  <speaker>Caco.</speaker>
+                  <l part="M">coniunctissimos?</l>
+               </sp>
+               <sp who="#dyscolus">
+                  <speaker>Dysc.</speaker>
+                  <l part="F">nil arctius.</l>
+               </sp>
+               <sp who="#cacolalia">
+                  <speaker>Caco.</speaker>
+                  <l n="350">Silete dum, atque ingredimini tantisper huc,</l>
+                  <l>Dum currere ad Philotecnium neptem queam, &amp;</l>
+                  <l>De his omnibus certiorem reddere.</l>
+               </sp>
+            </div>
+            <div type="scene" n="3">
+               <head>ACTUS III. SCAENA III.</head>
+               <stage type="delivery">Trimetri ut praecedentes.</stage>
+               <stage type="characters">Philotecnium, Cacolalia.</stage>
+               <sp who="#philotecnium">
+                  <l>INsomnia hac sub nocte vidi, quae die</l>
+                  <l>Toto haesitabundam dedere me, haud scio</l>
+                  <l n="355">Quid ipsa portendant, meo male suspicor</l>
+                  <l>Gnato. Sed eccam Cacolalia venit obviam</l>
+                  <pb n=" 21"/>
+                  <l>Et concito properat gradu, iactans manus,</l>
+                  <l>Secumque disputans, vereor omine malo huc</l>
+                  <l>Veniat. Quid est cognata quod celeras gradum? &amp;</l>
+                  <l n="360">Quo tendis iter? an indicatura advolas</l>
+                  <l>Mihi dira &amp; infelicia? ut pueri valent?</l>
+                  <l part="I">Sani ne sunt?</l>
+               </sp>
+               <sp who="#cacolalia">
+                  <speaker>Cac.</speaker>
+                  <l part="F">Philotecnium, o Philotecnium,</l>
+                  <l>Prae lassitudine mea &amp; iracundia</l>
+                  <l>Vix hiscere queo, ut ad rogata spondeam.</l>
+               </sp>
+               <sp who="#philotecnium">
+                  <speaker>Phi.</speaker>
+                  <l n="365" part="I">mica chara istuc quid est?</l>
+               </sp>
+               <sp who="#cacolalia">
+                  <speaker>Cac.</speaker>
+                  <l part="F">dolor heu dolor</l>
+                  <l part="I">Utrique nostrum.</l>
+               </sp>
+               <sp who="#philotecnium">
+                  <speaker>Ph.</speaker>
+                  <l part="F">Heu me miserrimam, est male</l>
+                  <l>Gnatis ut ominor. absque causa haud tristior</l>
+                  <l>Per somnium mihi gnati imago apparuit.</l>
+               </sp>
+               <sp who="#cacolalia">
+                  <speaker>Cac.</speaker>
+                  <l>Non est viro illi humana mens, sed beluae,</l>
+                  <l part="I">(370) Cui liberos commisimus.</l>
+               </sp>
+               <sp who="#philotecnium">
+                  <speaker>Ph.</speaker>
+                  <l part="F">quid audiam?</l>
+               </sp>
+               <sp who="#cacolalia">
+                  <speaker>Cac.</speaker>
+                  <l>Rogas? adusque effusionem sanguinis</l>
+                  <l part="I">Lacerata cuticula est.</l>
+               </sp>
+               <sp who="#philotecnium">
+                  <speaker>Ph.</speaker>
+                  <l part="F">perij cognata, iam</l>
+                  <l>Pene occidi, factum bene est, quod filium</l>
+                  <l>Meum domi tuae esse iusseris, ne eum</l>
+                  <l n="375">Cogar videre ita visceratum innoxium.</l>
+               </sp>
+               <sp who="#cacolalia">
+                  <speaker>Cac.</speaker>
+                  <l>Longa est mora omnis, tota nanque excandeo.</l>
+                  <l>Iam per deos deasque iuro &amp; omnia</l>
+                  <l>Terrae polique, &amp; inferorum numina,</l>
+                  <l>Quod vindicabo me hoc die hac de iniuria.</l>
+                  <l n="380">Ita unguibus tetricam viri notavero</l>
+                  <l>Frontem, ut minus nihilo exarata appareat,</l>
+                  <l part="I">Quam prolibus clunes.</l>
+               </sp>
+               <sp who="#philotecnium">
+                  <speaker>Ph.</speaker>
+                  <l part="F">Ita decet, ita expedit.</l>
+                  <pb n="22"/>
+                  <l>Ostendam &amp; ego convicijs &amp; caedibus</l>
+                  <l>Quae qualis aut quanta adsiem sophistria.</l>
+                  <l n="385">Ridebo lachrymas, si licebit caedere.</l>
+                  <l>Eamus. At quid cernimus? pape, ohe, hui,</l>
+                  <l>Cognata, prodit obvius scholasticis</l>
+                  <l>Cinctus sophista perfidus, flagris quoque</l>
+                  <l>Instructus acribus, timeo mihi quoque.</l>
+               </sp>
+               <sp who="#cacolalia">
+                  <speaker>Cac.</speaker>
+                  <l n="390" part="I">Ut tu tremis, duae sumus.</l>
+               </sp>
+               <sp who="#philotecnium">
+                  <speaker>Ph.</speaker>
+                  <l part="F">sed mulieres,</l>
+                  <l>Redeamus obsecro, proles tuerier.</l>
+               </sp>
+               <sp who="#cacolalia">
+                  <speaker>Cac.</speaker>
+                  <l part="I">Nescis sacramento obligatas nos?</l>
+               </sp>
+               <sp who="#philotecnium">
+                  <speaker>Ph.</speaker>
+                  <l part="F">scio, at</l>
+                  <l>Valeat sacramentum, pavore contremo.</l>
+                  <l>Comminxero cognata me, nisi redeas.</l>
+                  <l n="395">Voltum horreo intuerier, iam heu proximust.</l>
+               </sp>
+               <sp who="#cacolalia">
+                  <speaker>Cac.</speaker>
+                  <l>Maledicta sola si ingero, nihil hinc mali.</l>
+               </sp>
+            </div>
+            <div type="scene" n="4">
+               <head>ACTUS III. SCAENA IIII.</head>
+               <stage type="delivery">Trimetri ut praecedentes.</stage>
+               <stage type="characters">Cacolalia. Aristippus. Philotecnium.</stage>
+               <sp who="#cacolalia">
+                  <l>PRodi nefande sophista, prodi sordide</l>
+                  <l>Philosophe, Aristippe impudens, monstrum ferum.</l>
+                  <l>His unguibus malas tuas convulsero.</l>
+                  <l n="400" part="I">Prodi.</l>
+               </sp>
+               <sp who="#aristippus">
+                  <speaker>Arist.</speaker>
+                  <l part="F">Quid est mulier? quid adeo saeviter?</l>
+                  <l part="I">Quidnam mali commerui?</l>
+               </sp>
+               <sp who="#cacolalia">
+                  <speaker>Cac.</speaker>
+                  <l part="F">An etiam tu id rogas!</l>
+                  <l>An non puduit in filios nostros te ita</l>
+                  <l part="I">Baccharier?</l>
+               </sp>
+               <sp who="#aristippus">
+                  <speaker>Ar.</speaker>
+                  <l part="F">quid factum in illos dic mihi?</l>
+               </sp>
+               <pb n="23"/>
+               <sp who="#cacolalia">
+                  <speaker>Cac.</speaker>
+                  <l>Nescis? Nescis sceleste, trifurcifer, fera belua?</l>
+               </sp>
+               <sp who="#aristippus">
+                  <speaker>Arist.</speaker>
+                  <l n="405">Demiror unde te furor tantus habeat.</l>
+                  <l>Dic age quid actum prolibus, rationem ego</l>
+                  <l part="I">Reddam omnium.</l>
+               </sp>
+               <sp who="#cacolalia">
+                  <speaker>Cac.</speaker>
+                  <l part="F">Rationem ad haec reddas mihi?</l>
+                  <l>Reddas diabolum latro, qui gnatum meum</l>
+                  <l>Tam immaniter caecideris, sine crimine.</l>
+               </sp>
+               <sp who="#aristippus">
+                  <speaker>Arist.</speaker>
+                  <l n="410" part="I">Sine crimine?</l>
+               </sp>
+               <sp who="#cacolalia">
+                  <speaker>Cac.</speaker>
+                  <l part="F">etiam dico prorsum innoxium.</l>
+               </sp>
+               <sp who="#aristippus">
+                  <speaker>Ar.</speaker>
+                  <l>Quàm innoxius novêre condiscipuli, &amp; haec</l>
+                  <l>Cohors scholastica. Sed sine oro me eloqui</l>
+                  <l>Praesagium infallibile. Vestra amentia</l>
+                  <l>Vestraque solarum fit indulgentia</l>
+                  <l n="415">Perire utrunque per licentiam, &amp; cruci</l>
+                  <l>Tandem execrandae destinatum tradier.</l>
+               </sp>
+               <sp who="#cacolalia">
+                  <speaker>Cac.</speaker>
+                  <l>Non me capio nunc prae furore spiritus.</l>
+                  <l>Demens cerebrum hoc suggerit tibi fulmine,</l>
+                  <l>Tibi furijs, tibi tartaro dignissimo.</l>
+                  <l n="420">Philotecnium cognata nostros liberos</l>
+                  <l part="I">Suspendio praedestinarier?</l>
+               </sp>
+               <sp who="#aristippus">
+                  <speaker>Arist.</speaker>
+                  <l part="F">te contine,</l>
+                  <l>Muliercula ne quid temere, abi, ne plus mali</l>
+                  <l part="I">Tibi concias, abito dum.</l>
+               </sp>
+               <sp who="#philotecnium">
+                  <speaker>Phi.</speaker>
+                  <l part="F">hem Cacolalia,</l>
+                  <l>Ne caede neve vellica, res res monet</l>
+                  <l n="425">Plorare mage quàm caedere: Atque utinam mihi</l>
+                  <l>Licuisset in cute propria ipsas perpeti</l>
+                  <l>Plagas, &amp; unicum redimere filium.</l>
+                  <l>O saxeum caput, teneris quod artubus</l>
+                  <l part="I">Tot irrogare valuerat plagas.</l>
+               </sp>
+               <sp who="#aristippus">
+                  <speaker>Arist.</speaker>
+                  <l part="F">Cave</l>
+                  <pb n="24"/>
+                  <l n="430">Gnato &amp; tibi muliercula, ne brevi accidat</l>
+                  <l>Plus calamitatis, cui absque me haud medeamini.</l>
+                  <l>Siste lachrymas misella, siste lachrymas.</l>
+               </sp>
+               <sp who="#philotecnium">
+                  <speaker>Philot.</speaker>
+                  <l>Quàm barbara, impia, dira mens, quae lacrimas</l>
+                  <l>Mihi invidet. Profecto amata pignora</l>
+                  <l n="435">Nondum suis pro natibus osculatus es.</l>
+                  <l>Tibi docendum tradidi gnatum meum,</l>
+                  <l part="I">Non lancinandum.</l>
+               </sp>
+               <sp who="#aristippus">
+                  <speaker>Arist.</speaker>
+                  <l part="F">ego corrigendum acceperam,</l>
+                  <l part="I">Non enecandum. at patibulo abstrahendum.</l>
+               </sp>
+               <sp who="#cacolalia">
+                  <speaker>Caco.</speaker>
+                  <l part="F">ut hic</l>
+                  <l part="I">Scelestus usque patibulum!</l>
+               </sp>
+               <sp who="#aristippus">
+                  <speaker>Arist.</speaker>
+                  <l part="F">heu, quid hoc (malum)</l>
+                  <l n="440">Dementiae est? caedat virum me foemina?</l>
+                  <l>Prehendite has &amp; introducite, ut acriter</l>
+                  <l>Diverberentur, quo temere nihil agere</l>
+                  <l part="I">Discant.</l>
+               </sp>
+               <sp who="#philotecnium">
+                  <speaker>Phil.</speaker>
+                  <l part="M">Bone magister.</l>
+               </sp>
+               <sp who="#cacolalia">
+                  <speaker>Caco.</speaker>
+                  <l part="M">Bone magister.</l>
+               </sp>
+               <sp who="#aristippus">
+                  <speaker>Ari.</speaker>
+                  <l part="F">Bonus</l>
+                  <l>Iam factus est, qui sorduit modo? Sternite.</l>
+               </sp>
+               <sp who="#philotecnium">
+                  <speaker>Ph.</speaker>
+                  <l n="445">Nostro pudori consule magister bone.</l>
+               </sp>
+               <sp who="#cacolalia">
+                  <speaker>Cac.</speaker>
+                  <l>Abire bone praeceptor obsecro, nos sine.</l>
+                  <l part="I">Caverimus amodò.</l>
+               </sp>
+               <sp who="#aristippus">
+                  <speaker>Ar.</speaker>
+                  <l part="M">Valeant merae tricae.</l>
+               </sp>
+               <sp who="#philotecnium">
+                  <speaker>Phi.</speaker>
+                  <l part="F">heu</l>
+                  <l part="I">Me, ut turpiter pudefacta sum.</l>
+               </sp>
+               <sp who="#cacolalia">
+                  <speaker>Cac.</speaker>
+                  <l part="F">vah philosophe</l>
+                  <l>Imus, reducturae haud tamen tibi filios.</l>
+               </sp>
+               <sp who="#philotecnium">
+                  <speaker>Ph.</speaker>
+                  <l n="450">Eamus, &amp; dato utrique mox peculio</l>
+                  <l>Mercatui applicemus, &amp; valeant scholae.</l>
+               </sp>
+               <sp who="#cacolalia">
+                  <speaker>Cac.</speaker>
+                  <l>Fiat, nam id optimum arbitrata sum, prius</l>
+                  <pb n="25"/>
+                  <l>Quàm tu mihi suggesseris, valeant scholae.</l>
+               </sp>
+            </div>
+            <div type="scene" n="5">
+               <head>ACTUS III. SCAENA V.</head>
+               <stage type="delivery">Iambici dimetri acatalectici.</stage>
+               <stage type="characters">Lorcoballus. Marlocappus.</stage>
+               <sp who="#lorcoballus">
+                  <l>PRaedixerám ne ut accidit,</l>
+                  <l n="455">Tum matribus stultissimis,</l>
+                  <l>Tum filijs nequissimis?</l>
+               </sp>
+               <sp who="#marlocappus">
+                  <speaker>Mar.</speaker>
+                  <l>Profecto Lorcobal. probè</l>
+                  <l>Novisti ubique fallere.</l>
+               </sp>
+               <sp who="#lorcoballus">
+                  <speaker>Lor.</speaker>
+                  <l>Tace, tace, iacebimus</l>
+                  <l n="460">In hoc latibulo callidi.</l>
+                  <l>Laqueos meos mox incident,</l>
+                  <l>Dum acceperint crumenulam</l>
+                  <l>Et bibere &amp; esse &amp; ludere</l>
+                  <l>Lenonibus cum perditis</l>
+                  <l n="465">Et improbis occeperint.</l>
+                  <l>Tantisper esto pervigil</l>
+                  <l>Dum in hisce castris excubas.</l>
+               </sp>
+               <sp who="#marlocappus">
+                  <speaker>Mar.</speaker>
+                  <l>Noli timere, Lorcobal,</l>
+                  <l>Oppandi ocellos stipite,</l>
+                  <l n="470">Ne mus quidem hinc evaserit,</l>
+                  <l>Aut passer avolaverit.</l>
+               </sp>
+            </div>
+            <div type="scene" subtype="chorus" n="6">
+               <head>CHORUS.</head>
+               <stage type="delivery">Iambici dimetri ut superiores.</stage>
+               <pb n="26"/>
+               <sp who="#chorus">
+                  <lg>
+                     <l>NIhil est profecto saevius,</l>
+                     <l>Nihil impudentius, nihil</l>
+                     <l>Magis improbum muliere mala,</l>
+                     <l n="475">Si occasionem nacta sit.</l>
+                  </lg>
+                  <lg>
+                     <l>Ignis, mare, fera belua,</l>
+                     <l>Tria mala sunt, at peior his</l>
+                     <l>Mulier, sed &amp; nocentior</l>
+                     <l>(Si conferas) cacodaemone.</l>
+                  </lg>
+               </sp>
+            </div>
+         </div>
+         <div type="act" n="4">
+            <div type="scene" n="1">
+               <head>ACTUS IIII. SCAENA I.</head>
+               <stage type="delivery">Iambici trimetri acatalectici.</stage>
+               <stage type="characters">Dyscolus. Clopicus.</stage>
+               <sp who="#dyscolus">
+                  <l n="480">UT nunc tibi Clopice placeo ensiculo hoc novo</l>
+                  <l part="I">Penuario?</l>
+               </sp>
+               <sp who="#clopicus">
+                  <speaker>Clo.</speaker>
+                  <l part="F">Egregiè ense, tunica, pileo,</l>
+                  <l>Phaleratus es mi Dyscole, at crumenula</l>
+                  <l part="I">Ut sese habet? num turgida est?</l>
+               </sp>
+               <sp who="#dyscolus">
+                  <speaker>Dysco.</speaker>
+                  <l part="F">Plena admo-<pb n="27"/>dum. en,</l>
+                  <l>Centum aureis refarsit hanc matercula.</l>
+               </sp>
+               <sp who="#clopicus">
+                  <speaker>Clo.</speaker>
+                  <l n="485">Id optimum, iuxta tuam sonat &amp; mea.</l>
+                  <l>Valeat philosophia, valeant scholastici</l>
+                  <l>Ludi, antron hoc valeat, ubi non nisi verbera</l>
+                  <l>Et eiulatus perpetim ingens personant.</l>
+               </sp>
+               <sp who="#dyscolus">
+                  <speaker>Dys.</speaker>
+                  <l>Valeat Aristippus boni omnis aemulus.</l>
+                  <l n="490">Olim meminero quod intulit matri &amp; mihi.</l>
+               </sp>
+               <sp who="#clopicus">
+                  <speaker>Clo.</speaker>
+                  <l>Haec curiosa sunt. eant curae graves.</l>
+                  <l>Indulgeamus &amp; gulae, &amp; genio, &amp; iocis.</l>
+                  <l>Mercatum abisse nos putent mulierculae:</l>
+                  <l>Nos contra in hanc tabernam eamus, cuticulam</l>
+                  <l n="495">Curemus Cerere, Baccho, &amp; epulis splendidis.</l>
+                  <l part="I">Properemus, en Caupo foreis tenet.</l>
+               </sp>
+               <sp who="#dyscolus">
+                  <speaker>Dys.</speaker>
+                  <l part="F">Assequor,</l>
+                  <l part="I">Sed audin’?</l>
+               </sp>
+               <sp who="#clopicus">
+                  <speaker>Clo.</speaker>
+                  <l part="M">hem.</l>
+               </sp>
+               <sp who="#dyscolus">
+                  <speaker>Dys.</speaker>
+                  <l part="F">absque Venere semper frigidum est</l>
+                  <l>Solatium. Veneres oportet adsient</l>
+                  <l part="I">Formosulae atque comptulae.</l>
+               </sp>
+               <sp who="#clopicus">
+                  <speaker>Clo.</speaker>
+                  <l part="F">Rectè id quidem</l>
+                  <l n="500">Tu. Eamus, hoc ex ordine parasitico,</l>
+                  <l>Iam quispiam mittendus est, qui accersiat.</l>
+               </sp>
+            </div>
+            <div type="scene" n="2">
+               <head>ACTUS IIII. SCAENA II.</head>
+               <stage type="delivery">Senarij iambici ut superiores.</stage>
+               <stage type="characters">Clopicus. Dyscolus. Bromius.</stage>
+               <sp who="#clopicus">
+                  <l part="I">SAlve, Bromi.</l>
+               </sp>
+               <sp who="#dyscolus">
+                  <speaker>Dys.</speaker>
+                  <l part="M">Te perduat Bromius.</l>
+               </sp>
+               <sp who="#clopicus">
+                  <speaker>Clo.</speaker>
+                  <l part="F">necet</l>
+                  <pb n="28"/>
+                  <l part="I">Te Iuppiter, quid commerui scelus?</l>
+               </sp>
+               <sp who="#dyscolus">
+                  <speaker>Dys.</speaker>
+                  <l part="F">rogas?</l>
+                  <l>Ostentu haberi se putabit hospita,</l>
+                  <l n="505" part="I">Quod eum hoc salutas nomine.</l>
+               </sp>
+               <sp who="#clopicus">
+                  <speaker>Clo.</speaker>
+                  <l part="F">hem, convicium</l>
+                  <l>Non est, quod hospitam vocaris, qui hospes est?</l>
+               </sp>
+               <sp who="#dyscolus">
+                  <speaker>Dys.</speaker>
+                  <l>Non sexuis rationem habebam, maxima</l>
+                  <l part="I">Prae animi mei aegritudine.</l>
+               </sp>
+               <sp who="#clopicus">
+                  <speaker>Clo.</speaker>
+                  <l part="F">Ego quid dixeram?</l>
+               </sp>
+               <sp who="#dyscolus">
+                  <speaker>Dys.</speaker>
+                  <l part="I">Bromium vocaveras.</l>
+               </sp>
+               <sp who="#clopicus">
+                  <speaker>Clo.</speaker>
+                  <l part="M">Bromium?</l>
+               </sp>
+               <sp who="#dyscolus">
+                  <speaker>Dys.</speaker>
+                  <l part="M">Bromium.</l>
+               </sp>
+               <sp who="#clopicus">
+                  <speaker>Clo.</speaker>
+                  <l part="F">equidem haud</l>
+                  <l n="510">Rationem habebam nominis, prae maximo</l>
+                  <l>Bromij appetitu. Caeterum hic mihi dicier</l>
+                  <l>Bromius videtur, quod vocabulum hoc explicet</l>
+                  <l part="I">Vultus hilarior.</l>
+               </sp>
+               <sp who="#bromius">
+                  <speaker>Br.</speaker>
+                  <l part="F">ha ha he, bene est, re &amp; nomine</l>
+                  <l part="I">Bromius vocor.</l>
+               </sp>
+               <sp who="#dyscolus">
+                  <speaker>Dys.</speaker>
+                  <l part="F">quis tibi sathanum pessimus</l>
+                  <l n="515" part="I">Id suggerit?</l>
+               </sp>
+               <sp who="#clopicus">
+                  <speaker>Clo.</speaker>
+                  <l part="F">Non verbulo uno id explicem.</l>
+                  <l part="I">Salve, Bromi.</l>
+               </sp>
+               <sp who="#bromius">
+                  <speaker>Bro.</speaker>
+                  <l part="F">Salvete, adeste, quid libet?</l>
+               </sp>
+               <sp who="#clopicus">
+                  <speaker>Clo.</speaker>
+                  <l>Ientarier, num obsonij est aliquantulum?</l>
+               </sp>
+               <sp who="#bromius">
+                  <speaker>Bro.</speaker>
+                  <l>Sat est, lavate, sedete, abunde apposuero.</l>
+                  <l>Pinguem anseram, pernas, tomacula, &amp; satis</l>
+                  <l n="520">Bromij optimi, qui saliat è cyatho suo.</l>
+               </sp>
+               <sp who="#dyscolus">
+                  <speaker>Dys.</speaker>
+                  <l part="I">Sed, caupo.</l>
+               </sp>
+               <sp who="#bromius">
+                  <speaker>Bro.</speaker>
+                  <l part="M">Quidnam factopust’?</l>
+               </sp>
+               <sp who="#dyscolus">
+                  <speaker>Dys.</speaker>
+                  <l part="F">curandum erit.</l>
+               </sp>
+               <sp who="#bromius">
+                  <speaker>Bro.</speaker>
+                  <l part="I">Curarier quid volt?</l>
+               </sp>
+               <sp who="#dyscolus">
+                  <speaker>Dys.</speaker>
+                  <l part="F">duae Veneres uti</l>
+                  <l part="I">Accersiantur.</l>
+               </sp>
+               <sp who="#bromius">
+                  <speaker>Bro.</speaker>
+                  <l part="M">Quo?</l>
+               </sp>
+               <sp who="#dyscolus">
+                  <speaker>Dysc.</speaker>
+                  <l part="M">huc.</l>
+               </sp>
+               <sp who="#bromius">
+                  <speaker>Bro.</speaker>
+                  <l part="F">eho vos faeminas?</l>
+               </sp>
+               <sp who="#dyscolus">
+                  <speaker>Dys.</speaker>
+                  <l part="I">Bacchus quid est sine Venere?</l>
+               </sp>
+               <sp who="#bromius">
+                  <speaker>Br.</speaker>
+                  <l part="F">Nihil per Iovem.</l>
+                  <l n="525">Domi meae est, qui rem probe curaverit.</l>
+               </sp>
+               <pb n="29"/>
+               <sp who="#dyscolus">
+                  <speaker>Dys.</speaker>
+                  <l>Curet probè, nos interim nugabimur.</l>
+               </sp>
+               <sp who="#dyscolus">
+                  <speaker>Dys.</speaker>
+                  <l>Quemnam putemus hospes hic habeat domi,</l>
+                  <l>Qui Veneris atque nostra agat negocia?</l>
+               </sp>
+               <sp who="#clopicus">
+                  <speaker>Clo.</speaker>
+                  <l>Greges alunt parasiticos huiusmodi,</l>
+                  <l n="530">Lenasque cum lenonibus, per quos suam</l>
+                  <l>Rem stabiliunt, occasio dum postulat.</l>
+                  <l>Nullam aequitatis aut probi rationem habent,</l>
+                  <l>Dummodo suis lucris abunde consulant.</l>
+               </sp>
+               <sp who="#dyscolus">
+                  <speaker>Dys.</speaker>
+                  <l>Quid interest mea tuave qualis hic,</l>
+                  <l n="535">Vel quispiam sit Clopice cauponantium?</l>
+                  <l>Sit hic probus sit improbus domi suae,</l>
+                  <l>Nostrae voluptati probè modo commodet.</l>
+               </sp>
+               <sp who="#clopicus">
+                  <speaker>Clo.</speaker>
+                  <l>Verum profecto Dyscole. at claudendus est</l>
+                  <l>Sermo, fores crepuere. Nonne (ut dixeram)</l>
+                  <l n="540">Rufum vides lenonem ab aedibus foras</l>
+                  <l part="I">Procedere?</l>
+               </sp>
+               <sp who="#dyscolus">
+                  <speaker>Dys.</speaker>
+                  <l part="M">Video.</l>
+               </sp>
+               <sp who="#clopicus">
+                  <speaker>Clo.</speaker>
+                  <l part="F">Is tuis medebitur</l>
+                  <l part="I">Amoribus.</l>
+               </sp>
+               <sp who="#dyscolus">
+                  <speaker>Dys.</speaker>
+                  <l part="M">faxit Venus, sequere.</l>
+               </sp>
+               <sp who="#clopicus">
+                  <speaker>Clo.</speaker>
+                  <l part="F">Sequor.</l>
+               </sp>
+            </div>
+         </div>
+         <div type="act" n="4">
+            <div type="scene" n="3">
+               <head>ACTUS IIII. SCAENA III.</head>
+               <stage type="delivery">Iambici trimetri ut superiores.</stage>
+               <stage type="characters">Labrax. Gaulus.</stage>
+               <sp who="#labrax">
+                  <l>VEnusta duo me Caupo poscit scorta, sed</l>
+                  <l>Magno meo infortunio, haud mihi integrum est</l>
+                  <l n="545">Ea exhibere hoc tempore, ad alium mihi</l>
+                  <l>Migrandum erit. Stat ecce porro Gaulus, is</l>
+                  <pb n="p. 30"/>
+                  <l>Mihi ultro conveniendus est. Aliquantulum</l>
+                  <l>(Si fors volet) lucri ex eo corrasero.</l>
+                  <l>Libet obiter auscultare quid loqui occipit.</l>
+               </sp>
+               <sp who="#gaulus">
+                  <speaker>Gau.</speaker>
+                  <l n="550">Ob crapulam hesternam levare vix caput</l>
+                  <l>Queo, ita obrutus, ita mersus, ita sepultus. haud</l>
+                  <l>Mirum tamen, qui aes omne meum &amp; edi &amp; bibi.</l>
+                  <l>Reliquum est nihil, discrutior hei miser leno:</l>
+                  <l>Tam quaestus hic muliercularum exiguus est.</l>
+               </sp>
+               <sp who="#labrax">
+                  <speaker>Lab.</speaker>
+                  <l n="555" part="I">Heus tu.</l>
+               </sp>
+               <sp who="#gaulus">
+                  <speaker>Gau.</speaker>
+                  <l part="F">hem, quid est? &amp; cuia vox prope me sonat?</l>
+               </sp>
+               <sp who="#labrax">
+                  <speaker>Lab.</speaker>
+                  <l part="I">Salve sceleste.</l>
+               </sp>
+               <sp who="#gaulus">
+                  <speaker>Gau.</speaker>
+                  <l part="F">Salveam impurissime?</l>
+                  <l>Totum aes voravi, questus est nullus, dolet</l>
+                  <l>Mihi occiput, Labrax, &amp; adversa omnia.</l>
+               </sp>
+               <sp who="#labrax">
+                  <speaker>La.</speaker>
+                  <l part="I">Praesidium adest in proximo.</l>
+               </sp>
+               <sp who="#gaulus">
+                  <speaker>Gau.</speaker>
+                  <l part="F">nondum liquet.</l>
+                  <l n="560" part="I">Sed perge.</l>
+               </sp>
+               <sp who="#labrax">
+                  <speaker>Lab.</speaker>
+                  <l part="F">Asotici duo adolescentuli</l>
+                  <l>Scorta expetunt venusta duo, sed commodum</l>
+                  <l>Vel integrum non est mihi: locanda ea tibi</l>
+                  <l>Permisero, si usura mihi responderit.</l>
+               </sp>
+               <sp who="#gaulus">
+                  <speaker>Gau.</speaker>
+                  <l>Responderit, stipulare honeste, quid dabo?</l>
+               </sp>
+               <sp who="#labrax">
+                  <speaker>Lab.</speaker>
+                  <l n="565" part="I">Sex aureos.</l>
+               </sp>
+               <sp who="#gaulus">
+                  <speaker>Gau.</speaker>
+                  <l part="F">Sex per Iovem &amp; Venerem dabo.</l>
+                  <l part="I">Sed ubi exhibebo?</l>
+               </sp>
+               <sp who="#labrax">
+                  <speaker>Lab.</speaker>
+                  <l part="F">In proximo oenopolio.</l>
+               </sp>
+               <sp who="#gaulus">
+                  <speaker>Gau.</speaker>
+                  <l part="I">Curabo, tu operire.</l>
+               </sp>
+               <sp who="#labrax">
+                  <speaker>Lab.</speaker>
+                  <l part="F">sint formosula.</l>
+               </sp>
+               <sp who="#gaulus">
+                  <speaker>Gau.</speaker>
+                  <l part="I">Erunt, at ubi te reperero?</l>
+               </sp>
+               <sp who="#labrax">
+                  <speaker>La.</speaker>
+                  <l part="M">hoc loco.</l>
+               </sp>
+               <sp who="#gaulus">
+                  <speaker>Gau.</speaker>
+                  <l part="F">placet.</l>
+               </sp>
+            </div>
+            <div type="scene" n="4">
+               <head>ACTUS IIII. SCAENA IIII.</head>
+               <stage type="delivery">Iambici tetrametri quadrati.</stage>
+               <pb n="p. 31"/>
+               <stage type="characters">Melancia. Dromella. Clopicus. Dyscolus.</stage>
+               <sp who="#melancia">
+                  <l>Edete dum, iuvenes; adest obsonium. Curre ocyus</l>
+                  <l n="570">Puella, profer è penario statim sex integros</l>
+                  <l part="I">Similagineos panes, eosque candidos, audin’?</l>
+               </sp>
+               <sp who="#dromella">
+                  <speaker>Dr.</speaker>
+                  <l part="F">licet.</l>
+               </sp>
+               <sp who="#clopicus">
+                  <speaker>Clo.</speaker>
+                  <l>Heus tu nigella etiamnum &amp; id curet,magis te candicent,</l>
+                  <l>Melancia appellarier videre tu: nam praedita es</l>
+                  <l part="I">Fuscedine admodum venusta.</l>
+               </sp>
+               <sp who="#dyscolus">
+                  <speaker>Dys.</speaker>
+                  <l part="F">Iterum auguraris improbe?</l>
+               </sp>
+               <sp who="#dromella">
+                  <speaker>Dromel.</speaker>
+                  <l n="575">Me castor illa nomine &amp; re fuscula est, Melancia</l>
+                  <l>Nam dicitur. nivis instar ecce candidi panes, modo è</l>
+                  <l>Cellario depromitur Bacchus. Valete, vivite.</l>
+               </sp>
+               <sp who="#dyscolus">
+                  <speaker>Dys.</speaker>
+                  <l>Dic, Clopice &amp; istius puellae nomen. An Lacaena sit?</l>
+               </sp>
+               <sp who="#clopicus">
+                  <speaker>Clop.</speaker>
+                  <l>Si &amp; hic mihi liceat augurarier, Dromellula dicitur.</l>
+               </sp>
+               <sp who="#dromella">
+                  <speaker>Drome.</speaker>
+                  <l n="580">Tetigisti acu me Castor, en vinum. valete, vivite.</l>
+               </sp>
+               <sp who="#clopicus">
+                  <speaker>Clo.</speaker>
+                  <l part="I">Semel Dromella bibas oportet.</l>
+               </sp>
+               <sp who="#dromella">
+                  <speaker>Dro.</speaker>
+                  <l part="M">scilicet.</l>
+               </sp>
+               <sp who="#clopicus">
+                  <speaker>Clo.</speaker>
+                  <l part="F">quin ebibis?</l>
+               </sp>
+               <sp who="#dromella">
+                  <speaker>Dromell.</speaker>
+                  <l>Licet. propino tibi adolescens auguri primario:</l>
+                  <l part="I">Quia brevitate gaudeo.</l>
+               </sp>
+               <sp who="#dyscolus">
+                  <speaker>Dys.</speaker>
+                  <l part="M">Gratum est.</l>
+               </sp>
+               <sp who="#dromella">
+                  <speaker>Dro.</speaker>
+                  <l part="F">valete, vivite.</l>
+               </sp>
+               <sp who="#dyscolus">
+                  <speaker>Dys.</speaker>
+                  <l>Si huiusmodi forent puellae, quas modò ductarier</l>
+                  <pb n="p. 32"/>
+                  <l n="585" part="I">Poposcimus, pol respuendae non forent.</l>
+               </sp>
+               <sp who="#clopicus">
+                  <speaker>Clo.</speaker>
+                  <l part="F">Pol non forent.</l>
+               </sp>
+            </div>
+            <div type="scene" n="5">
+               <head>ACTUS IIII. SCAENA V.</head>
+               <stage type="delivery">Octonarij quadrati ut superiores</stage>
+               <stage type="characters">Labrax. Gaulus. Caupo.</stage>
+               <sp who="#labrax">
+                  <l part="I">PAratan’ omnia quae ad Venerem opus sunt?</l>
+               </sp>
+               <sp who="#gaulus">
+                  <speaker>Gau.</speaker>
+                  <l part="F">Parata.</l>
+               </sp>
+               <sp who="#labrax">
+                  <l>Eamus hinc</l>
+                  <l>Intro, haud parum est nobis lucri accessurum ab adolescentulis</l>
+                  <l>Doli inscijs, quod vix adhuc ferulae manus subduxerint.</l>
+               </sp>
+               <sp who="#gaulus">
+                  <speaker>Gau.</speaker>
+                  <l>O utinam id alma Venus faveat, hoc pacto enim mea vulnera</l>
+                  <l n="590">Sanare possiet. Sed ecce spectitat Caupo foras.</l>
+               </sp>
+               <sp who="#labrax">
+                  <speaker>Lab.</speaker>
+                  <l part="I">Salve, Bromi, num adhuc vales?</l>
+               </sp>
+               <sp who="#bromius">
+                  <speaker>Bro.</speaker>
+                  <l part="F">adhuc. Sed ubi nam scorta sunt?</l>
+               </sp>
+               <sp who="#labrax">
+                  <speaker>Lab.</speaker>
+                  <l>Vesperi aderunt tam comptulae puellae, ut ipsam Cypridem</l>
+                  <l part="I">Putes.</l>
+               </sp>
+               <sp who="#bromius">
+                  <speaker>Bro.</speaker>
+                  <l part="F">Ita volueram, ingredimini, &amp; assidete si placet.</l>
+               </sp>
+               <sp who="#labrax">
+                  <speaker>Lab.</speaker>
+                  <l part="I">Nobis lubet, placeat modò adolescentibus.</l>
+               </sp>
+               <sp who="#bromius">
+                  <speaker>Bro.</speaker>
+                  <l part="F">contamini.</l>
+               </sp>
+            </div>
+            <div type="scene" n="6">
+               <head>ACTUS IIII. SCAENA VI.</head>
+               <stage type="delivery">Tetrametri ut superiores.</stage>
+               <stage type="characters">Labrax. Gaulus. Dyscolus. Clopicus. Melancia.</stage>
+               <pb n="p. 33"/>
+               <sp who="#labrax">
+                  <l n="595">IUbet alma Venus salvere vos venusti adolescentuli.</l>
+               </sp>
+               <sp who="#dyscolus">
+                  <speaker>Dys.</speaker>
+                  <l>Praestantius nihil est salute, identidem salvere eos</l>
+                  <l>Volumus, salutem qui imprecantur combibonibus probis.</l>
+                  <l>Accumbite si placet, pari symposio, &amp; argento pari.</l>
+               </sp>
+               <sp who="#labrax">
+                  <speaker>Lab.</speaker>
+                  <l>Pol aequa propositio, perplacet, sedemus, at unde vos</l>
+                  <l n="600" part="I">Venistis?</l>
+               </sp>
+               <sp who="#dyscolus">
+                  <speaker>Dy.</speaker>
+                  <l part="F">indigenae sumus quidem, &amp; animi causa egredi</l>
+                  <l>Lubitum est, &amp; experiri avemus pluria. aeris divites</l>
+                  <l part="I">Sumus, animi nec impotes.</l>
+               </sp>
+               <sp who="#gaulus">
+                  <speaker>Gau.</speaker>
+                  <l part="F">Mage vos trahat fortuna quàm</l>
+                  <l>Negociatio videre licet. Societas sit eadem</l>
+                  <l>Utrisque nostrum, edamus &amp; bibamus, atque homunculos</l>
+                  <l n="605">Bellissimos agamus, haud erit voluptas cuius hic</l>
+                  <l part="I">Non plus satis sit copia.</l>
+               </sp>
+               <sp who="#clopicus">
+                  <speaker>Clopi.</speaker>
+                  <l part="F">ohe, uterque id expetessimus.</l>
+                  <l>Gratissima est vestru\m utriusque societas nobis. Sed est.</l>
+               </sp>
+               <sp who="#gaulus">
+                  <speaker>Gau.</speaker>
+                  <l part="I">Quin dicis?</l>
+               </sp>
+               <sp who="#clopicus">
+                  <speaker>Clo.</speaker>
+                  <l part="F">ubi sunt quas poposcimus puellae venereae?</l>
+               </sp>
+               <sp who="#gaulus">
+                  <speaker>Gau.</speaker>
+                  <l part="I">Iamiam hic erunt sub vesperem.</l>
+               </sp>
+               <sp who="#clopicus">
+                  <speaker>Clo.</speaker>
+                  <l part="F">Mea quidem ex sententia.</l>
+                  <l n="610" part="I">Ludemus interea moventes taedia.</l>
+               </sp>
+               <sp who="#gaulus">
+                  <speaker>Gau.</speaker>
+                  <l part="F">hercle perplacet.</l>
+                  <l part="I">Profer puella vina, profer tesseras; audistin’?</l>
+               </sp>
+               <sp who="#melancia">
+                  <speaker>Mel.</speaker>
+                  <l part="F">hem.</l>
+               </sp>
+               <pb n="p. 34"/>
+               <sp who="#clopicus">
+                  <speaker>Clo.</speaker>
+                  <l part="I">Heus tu Melancia. tesseras fer ocyus.</l>
+               </sp>
+               <sp who="#melancia">
+                  <speaker>Mel.</speaker>
+                  <l part="F">concipite eas,</l>
+                  <l part="I">Referte, dum satist’.</l>
+               </sp>
+               <sp who="#dyscolus">
+                  <speaker>Dys.</speaker>
+                  <l part="F">Satis? nunquam satist’ amantibus.</l>
+               </sp>
+               <sp who="#melancia">
+                  <speaker>Mel.</speaker>
+                  <l>Haud quaquam eidem fercla &amp; aleae quadrant buccae, auferam</l>
+                  <l n="615" part="I">Bellaria haec.</l>
+               </sp>
+               <sp who="#clopicus">
+                  <speaker>Clo.</speaker>
+                  <l part="M">tolle ut frui disco queamus liberè.</l>
+               </sp>
+               <sp who="#gaulus">
+                  <speaker>Gau.</speaker>
+                  <l part="F">Ut</l>
+                  <l>Perfundier queamus aethere, discon hunc sistam foris:</l>
+                  <l part="I">Deponite id pro quo velitis ludere.</l>
+               </sp>
+               <sp who="#dyscolus">
+                  <l part="F">decem aureis.</l>
+               </sp>
+               <sp who="#gaulus">
+                  <speaker>Gau.</speaker>
+                  <l part="I">Deponite (inquam) en hîc decem nostri.</l>
+               </sp>
+               <sp who="#dyscolus">
+                  <speaker>Dys.</speaker>
+                  <l part="F">en decem nostri quoque.</l>
+               </sp>
+               <sp who="#gaulus">
+                  <speaker>Gau.</speaker>
+                  <l>Iuppiter adesto &amp; alma Venus. Haec nostra sors est, Senio.</l>
+               </sp>
+               <sp who="#clopicus">
+                  <speaker>Clo.</speaker>
+                  <l n="620">Haec nostra erit, Quaternio. ludum hunc nepos ego finiam.</l>
+               </sp>
+               <sp who="#dyscolus">
+                  <speaker>Dys.</speaker>
+                  <l>Placet. Gau. Venus iuvet, ecce senio, mea est pecunia.</l>
+               </sp>
+               <sp who="#clopicus">
+                  <speaker>Clo.</speaker>
+                  <l part="I">Secundo idem fiat, duplum deponimus.</l>
+               </sp>
+               <sp who="#gaulus">
+                  <speaker>Gau.</speaker>
+                  <l part="F">fiat ut &amp; hic</l>
+                  <l>Iactus beatus sit, iuvet Venus. Ecce denuo senio.</l>
+               </sp>
+               <sp who="#clopicus">
+                  <speaker>Clo.</speaker>
+                  <l part="I">Mea denuo est quaternio.</l>
+               </sp>
+               <sp who="#gaulus">
+                  <speaker>Gau.</speaker>
+                  <l part="F">Si fors volet nos vincimus.</l>
+                  <l n="625" part="I">Bis unio.</l>
+               </sp>
+               <sp who="#clopicus">
+                  <speaker>Cl.</speaker>
+                  <l part="M">Bis binio.</l>
+               </sp>
+               <sp who="#gaulus">
+                  <speaker>Gau.</speaker>
+                  <l part="F">Bis Ternio, ecce Senio.</l>
+                  <l part="I">Nos vincimus, nostrum est peculium.</l>
+               </sp>
+               <sp who="#clopicus">
+                  <speaker>Clopi.</speaker>
+                  <l part="F">triplum deponimus.</l>
+               </sp>
+               <sp who="#gaulus">
+                  <speaker>Ga.</speaker>
+                  <l part="I">Esto, mea sors quaternio.</l>
+               </sp>
+               <sp who="#clopicus">
+                  <speaker>Cl.</speaker>
+                  <l part="F">mea senio, foeliciter.</l>
+               </sp>
+               <pb n="p. 35"/>
+               <sp who="#gaulus">
+                  <speaker>Ga.</speaker>
+                  <l>Foeliciter semper cadunt tali Iovis, Quaternio est,</l>
+                  <l part="I">Mea sors, mea est pecunia.</l>
+               </sp>
+               <sp who="#dyscolus">
+                  <speaker>Dys.</speaker>
+                  <l part="F">tua pestilentia improbe &amp;</l>
+                  <l n="630" part="I">Impure leno. Age decuplum deponimus.</l>
+               </sp>
+               <sp who="#gaulus">
+                  <speaker>Ga.</speaker>
+                  <l part="F">deponite.</l>
+               </sp>
+               <sp who="#dyscolus">
+                  <speaker>Dysco.</speaker>
+                  <l>Vestes &amp; addimus, ego lusero. Iuvet Mercurius, aut</l>
+                  <l>Maledictus ille, cuius auspicio sinistra singula.</l>
+                  <l part="I">Sors nostra senio.</l>
+               </sp>
+               <sp who="#gaulus">
+                  <speaker>Gau.</speaker>
+                  <l part="M">En.</l>
+               </sp>
+               <sp who="#dyscolus">
+                  <speaker>Dys.</speaker>
+                  <l part="M">Tua impudice ternio est.</l>
+               </sp>
+               <sp who="#gaulus">
+                  <speaker>Gau.</speaker>
+                  <l part="F">Ita est.</l>
+               </sp>
+               <sp who="#dyscolus">
+                  <speaker>Dys.</speaker>
+                  <l part="I">Foeliciter, cecidêre prospere, mea est.</l>
+               </sp>
+               <sp who="#gaulus">
+                  <speaker>Gau.</speaker>
+                  <l part="F">Mentire tu</l>
+                  <l n="635">Quidem triverbero, ut dij te omnes superne concrement.</l>
+                  <l>Num Ternio &amp; Quaternio senarium tibi collocant?</l>
+               </sp>
+               <sp who="#dyscolus">
+                  <speaker>Dys.</speaker>
+                  <l>Hanc vendicavero mihi, aut putridis tuis ex carnibus</l>
+                  <l>Concidero frustatim, &amp; avibus partiar. ad arma Clopice.</l>
+               </sp>
+               <sp who="#labrax">
+                  <l>Si caede agendum, nos viri sumus etiam: Gaule age virum,</l>
+                  <l n="640">Ignavi &amp; imbecilles adeste, state, turpis est fuga.</l>
+               </sp>
+               <sp who="#clopicus">
+                  <speaker>Clopi.</speaker>
+                  <l>Vestram fidem. perimus. O dij, nudi foras propellimur.</l>
+                  <l>Heu Dyscole infoelicitati extremae adacti iam sumus.</l>
+                  <l>Decus perijt, aes perditum, spoliata vestis. Sed quid est?</l>
+                  <l>Praeter rapinam nil relictum. si placet, furto aut necem</l>
+                  <pb n="p. 36"/>
+                  <l n="645">Celerem aut beatitudinem nobis paremus plusculam.</l>
+               </sp>
+               <sp who="#dyscolus">
+                  <speaker>Dysc.</speaker>
+                  <l>Placet utique, eamus quo rapit fortuna; nam quibus in bonis</l>
+                  <l>Idem fuit, par est quoque fore idem in malis consortium.</l>
+               </sp>
+               <sp who="#gaulus">
+                  <speaker>Gau.</speaker>
+                  <l>Iam nos adepti sat lucri, litemus almae Cypridi, &amp;</l>
+                  <l>Rhamnusiae, quae pessimum mihi vortit in statum optimum.</l>
+               </sp>
+               <sp who="#labrax">
+                  <speaker>Lab.</speaker>
+                  <l n="650">Litemus, illi si velint studento furtis pessimis.</l>
+               </sp>
+            </div>
+            <div type="scene" n="7">
+               <head>ACTUS IIII. SCAENA VII.</head>
+               <stage type="delivery">Iambici tetrametri catalectici, aut septenarij.</stage>
+               <stage type="characters">Villanus. Clopicus. Dyscolus.</stage>
+               <sp who="#villanus">
+                  <l>NUm tempus est surgendi, &amp; ad forum? ast adhuc paulisper.</l>
+               </sp>
+               <sp who="#clopicus">
+                  <speaker>Clo.</speaker>
+                  <l>Villanus ille Dyscole est ignobilis vecórsque,</l>
+                  <l>Cui ratio parva inerit iniquitatis irrogatae,</l>
+                  <l>Lassus sub alno sarcina abiecta iacet sopitus.</l>
+                  <l n="655" part="I">Quid factopust’?</l>
+               </sp>
+               <sp who="#dyscolus">
+                  <speaker>Dys.</speaker>
+                  <l part="F">Spoliandus est hac sarcina, aut paratum</l>
+                  <l part="I">Sibi sentiet malum.</l>
+               </sp>
+               <sp who="#clopicus">
+                  <speaker>Clo.</speaker>
+                  <l part="M">viden’?</l>
+               </sp>
+               <sp who="#dyscolus">
+                  <speaker>Dy.</speaker>
+                  <l part="F">quid volt videri? dice.</l>
+               </sp>
+               <sp who="#clopicus">
+                  <speaker>Clo.</speaker>
+                  <l part="I">Dormire rusticum viden’?</l>
+               </sp>
+               <sp who="#dyscolus">
+                  <speaker>Dys.</speaker>
+                  <l part="F">videor videre; stertit.</l>
+                  <l part="I">Profecto.</l>
+               </sp>
+               <sp who="#clopicus">
+                  <speaker>Clo.</speaker>
+                  <l part="F">nostra est sarcina, pedepressim at accedendum.</l>
+                  <l>Adesto fors fortuna, adesto Mercuri omnis</l>
+                  <pb n="p. 37"/>
+                  <l n="660">Furti &amp; latrocinij pater. Circunspicito ne quisquam</l>
+                  <l part="I">Nos obruat, circunspice.</l>
+               </sp>
+               <sp who="#dyscolus">
+                  <speaker>Dys.</speaker>
+                  <l part="F">Nullust’ adi silenter.</l>
+                  <l>Putásne, tollet inscio viro? pol abstulit, nec</l>
+                  <l part="I">Vir ipsus experrectus est.</l>
+               </sp>
+               <sp who="#clopicus">
+                  <speaker>Cl.</speaker>
+                  <l part="F">Sors optima est, beabit</l>
+                  <l>Nos usque. Nam centum aureos telam hanc valere arbitror.</l>
+                  <l n="665" part="I">Abeamus hinc quantocyus.</l>
+               </sp>
+               <sp who="#villanus">
+                  <speaker>Villa.</speaker>
+                  <l part="F">Profundius quam tutum est</l>
+                  <l>Hic stertui, heu sublata tela est, heus ohe, quò vos tandem</l>
+                  <l>Proripitis, aut quo curritis? state ilico, vos quaero.</l>
+               </sp>
+               <sp who="#dyscolus">
+                  <speaker>Dysc.</speaker>
+                  <l part="I">Cave sis reclamites.</l>
+               </sp>
+               <sp who="#villanus">
+                  <speaker>Villa.</speaker>
+                  <l part="F">reclamitemne vos, nebulones</l>
+                  <l>Furesque, qui totam mihi abstulistis istam telam?</l>
+               </sp>
+               <sp who="#dyscolus">
+                  <speaker>Dys.</speaker>
+                  <l n="670" part="I">Nos telam inepte, nos telam tuam?</l>
+               </sp>
+               <sp who="#villanus">
+                  <speaker>Vill.</speaker>
+                  <l part="F">meam vos telam.</l>
+               </sp>
+               <sp who="#dyscolus">
+                  <speaker>Dys.</speaker>
+                  <l part="I">Ne dixis inquam.</l>
+               </sp>
+               <sp who="#villanus">
+                  <speaker>Vill.</speaker>
+                  <l part="M">reddite.</l>
+               </sp>
+               <sp who="#dyscolus">
+                  <speaker>Dysc.</speaker>
+                  <l part="F">Ita quaerentibus telam ...</l>
+               </sp>
+               <sp who="#villanus">
+                  <speaker>(Vil.</speaker>
+                  <l>heu me.)</l>
+               </sp>
+               <sp who="#dyscolus">
+                  <l>Reddimus. abi, alioqui ensibus concidimus te. obmuti.</l>
+                  <l>Revertere in viam tuam. Abijt ille, nos petamus</l>
+                  <l>Bromium hospitem nostrum, erimus accepti adferentes praedam.</l>
+               </sp>
+               <sp who="#villanus">
+                  <speaker>Vill.</speaker>
+                  <l n="675">Quid agam miser, nisi praeses hanc restituat invocatus?</l>
+                  <l>Hunc optimum est accedere, &amp; rei ordinem explicare.</l>
+               </sp>
+            </div>
+            <div type="scene" n="8">
+               <head>ACTUS IIII. SCAENA VIII.</head>
+               <stage type="delivery">Iambici trimetri acatalectici.</stage>
+               <pb n="p. 38"/>
+               <stage type="characters">Dyscolus. Clopicus. Bromius.</stage>
+               <sp who="#dyscolus">
+                  <l part="I">SAlveto Caupo</l>
+               </sp>
+               <sp who="#bromius">
+                  <speaker>Bro.</speaker>
+                  <l part="F">Gratus est vester mihi</l>
+                  <l part="I">Reditus, onusti adestis.</l>
+               </sp>
+               <sp who="#clopicus">
+                  <speaker>Clo.</speaker>
+                  <l part="F">Fors fortuna adest:</l>
+                  <l>Bene cessit hic mercatus &amp; foeliciter.</l>
+               </sp>
+               <sp who="#bromius">
+                  <speaker>Br.</speaker>
+                  <l n="680">Liquido videtur, ingredimini, iam opipare &amp;</l>
+                  <l part="I">Suave coenaturi.</l>
+               </sp>
+               <sp who="#clopicus">
+                  <speaker>Clo.</speaker>
+                  <l part="M">Ita volumus.</l>
+               </sp>
+               <sp who="#bromius">
+                  <speaker>Bro.</speaker>
+                  <l part="F">Sequor,</l>
+                  <l>Per Herculem hanc telam alicui imbelli viro</l>
+                  <l>Nunc abstulere vi dolove pessimo.</l>
+                  <l>Tandem per hos (si praeses id resciverit)</l>
+                  <l n="685">Traducar in malam crucem: sequar tamen,</l>
+                  <l>Clausisque foribus libere bacchabimur.</l>
+                  <l>Quod si resciscat Praeses, ipsi viderint.</l>
+                  <l>In me puto nil deprendet noxiae,</l>
+               </sp>
+            </div>
+            <div type="scene" n="9">
+               <head>ACTUS IIII. SCAENA IX.</head>
+               <stage type="delivery">Senarij ut superiores.</stage>
+               <stage type="characters">Lorarij duo. Bromius. Dyscolus. Clopicus. Villanus.</stage>
+               <sp who="#lorarius-a #lorarius-b">
+                  <l>NEc ipse Caupo innoxius, quia conscium</l>
+                  <l n="690">Se criminis testatur ultro, ut auribus</l>
+                  <l>Audivimus nostris, &amp; obdit se ostio.</l>
+                  <l>Sequamur &amp; pulsemus impigri &amp; acriter.</l>
+                  <l part="I">Caupo Bromi Caupo.</l>
+               </sp>
+               <sp who="#bromius">
+                  <speaker>Bro.</speaker>
+                  <l part="F">hem, quid importunus es?</l>
+                  <l part="I">Quis es?</l>
+               </sp>
+               <sp who="#lorarius-a #lorarius-b">
+                  <speaker>Lo.</speaker>
+                  <l part="M">Aperi ostium.</l>
+               </sp>
+               <sp who="#bromius">
+                  <speaker>Bro.</speaker>
+                  <l part="M">licet.</l>
+               </sp>
+               <sp who="#lorarius-a #lorarius-b">
+                  <speaker>Lo.</speaker>
+                  <l part="F">quos hospites</l>
+                  <l n="695" part="I">Habes?</l>
+               </sp>
+               <sp who="#bromius">
+                  <speaker>Bro.</speaker>
+                  <l part="M">duos iuvenes.</l>
+               </sp>
+               <sp who="#lorarius-a #lorarius-b">
+                  <speaker>Lor.</speaker>
+                  <l part="F">probos an improbos</l>
+                  <l part="I">Rogo.</l>
+               </sp>
+               <sp who="#bromius">
+                  <speaker>Brom.</speaker>
+                  <l part="M">Improbos haud comperi.</l>
+               </sp>
+               <sp who="#lorarius-a #lorarius-b">
+                  <speaker>Lora.</speaker>
+                  <l part="F">sistite gradum,</l>
+                  <pb n="p. 39"/>
+                  <l>Nequissimi, nobiscum eundum ad praesidem.</l>
+               </sp>
+               <sp who="#dyscolus">
+                  <speaker>Dys.</speaker>
+                  <l part="I">Quamobrem?</l>
+               </sp>
+               <sp who="#lorarius-a #lorarius-b">
+                  <speaker>Lor.</speaker>
+                  <l part="M">haud modo fandi locus.</l>
+               </sp>
+               <sp who="#dyscolus">
+                  <speaker>Dys.</speaker>
+                  <l part="F">non ibimus,</l>
+                  <l part="I">Gladio magis decernimus.</l>
+               </sp>
+               <sp who="#lorarius-a #lorarius-b">
+                  <speaker>Lora.</speaker>
+                  <l part="F">simus viri.</l>
+               </sp>
+               <sp who="#clopicus">
+                  <speaker>Clo.</speaker>
+                  <l n="700">Cruente lictor me enecas, nos dedimus.</l>
+               </sp>
+               <sp who="#lorarius-a #lorarius-b">
+                  <speaker>Lorar.</speaker>
+                  <l part="I">Huc, huc manus post terga in has manicas.</l>
+               </sp>
+               <sp who="#clopicus">
+                  <speaker>Clo.</speaker>
+                  <l part="F">eheu.</l>
+               </sp>
+               <sp who="#lorarius-a #lorarius-b">
+                  <speaker>Lor.</speaker>
+                  <l>Concedite huc. Causam tuam vide, Bromi,</l>
+                  <l>Exactius iam examinandam iudici.</l>
+                  <l part="I">Tu rem tuam, Villane, cape.</l>
+               </sp>
+               <sp who="#villanus">
+                  <speaker>Vill.</speaker>
+                  <l part="F">habeo gratiam.</l>
+               </sp>
+            </div>
+            <div type="scene" n="10">
+               <head>ACTUS IIII. SCAENA X.</head>
+               <stage type="delivery">Iambici dimetri acatalectici.</stage>
+               <stage type="characters">Lorcoballus. Marlocappus.</stage>
+               <sp who="#lorcoballus">
+                  <l n="705">NUm argutulè haec instruxeram?</l>
+               </sp>
+               <sp who="#marlocappus">
+                  <speaker>Mar.</speaker>
+                  <l>Doctissimè quidem acta res.</l>
+               </sp>
+               <sp who="#lorcoballus">
+                  <speaker>Lor.</speaker>
+                  <l>Consilio &amp; artibus meis</l>
+                  <l>Abiere laevo tramite</l>
+                  <l>Per compita, atque devia.</l>
+                  <l n="710">Post tesseras &amp; aleas,</l>
+                  <l>Sublato &amp; aere &amp; vestibus,</l>
+                  <l>Fures modo deprensi eunt.</l>
+                  <l>Segniter an exsecutus est</l>
+                  <l>Id Lorcoballus Marlocap.?</l>
+               </sp>
+               <sp who="#marlocappus">
+                  <speaker>Mar.</speaker>
+                  <l n="715">Haud segniter quidem, proin</l>
+                  <l>Res nostra Diti accepta erit.</l>
+               </sp>
+               <pb n="p. 40"/>
+               <sp who="#lorcoballus">
+                  <speaker>Lor.</speaker>
+                  <l>Spectemus hinc sagaciter,</l>
+                  <l>Cum addicti erunt suspendio,</l>
+                  <l>Ne spiritus sursum evolent.</l>
+               </sp>
+               <sp who="#marlocappus">
+                  <speaker>Mar.</speaker>
+                  <l n="720">Pro natibus id curandum erit.</l>
+               </sp>
+               <sp who="#lorcoballus">
+                  <speaker>Lor.</speaker>
+                  <l>Brutissimus tu daemonum es.</l>
+                  <l>Te alio docebo tempore,</l>
+                  <l>Quod res modo alia postulet.</l>
+               </sp>
+            </div>
+            <div type="scene" subtype="chorus" n="11">
+               <head>CHORUS.</head>
+               <stage type="delivery">Iambici dimetri ut superiores.</stage>
+               <sp who="#chorus">
+                  <l>UT omnibus sic maxime</l>
+                  <l n="725">Iuvenibus aurum est omnium</l>
+                  <l>Lernae malorum, quo semel</l>
+                  <l>In vicia praecipites ruunt.</l>
+                  <l>Unde lachrymae, caedes, furor,</l>
+                  <l>Adulteria, scortatio,</l>
+                  <pb n="p. 41"/>
+                  <l n="730">Furtum, dolus, periurium,</l>
+                  <l>Nisi abusibus pecuniae?</l>
+               </sp>
+            </div>
+         </div>
+         <div type="act" n="5">
+            <div type="scene" n="1">
+               <head>ACTUS V. SCAENA I.</head>
+               <stage type="delivery">Iambici trimetri acatalectici.</stage>
+               <stage type="characters">Philotecnium. Cacolalia. Pompus.</stage>
+               <sp who="#philotecnium">
+                  <l>COrdis mei aestus me movent invisere</l>
+                  <l>Cacolaliam, ut congratulari liberis</l>
+                  <l>Nostris queamus libere, qui cum in scholis</l>
+                  <l n="735">Pueri forent, repente facti sunt viri.</l>
+                  <l part="I">Heus Cacolalia, veni foras.</l>
+               </sp>
+               <sp who="#cacolalia">
+                  <speaker>Cac.</speaker>
+                  <l part="F">Veniam lubens</l>
+               </sp>
+               <sp who="#pompus">
+                  <speaker>Pom.</speaker>
+                  <l>Move, move celeres pedes, ô Pompe: nam</l>
+                  <l>Res ipsa monet. Has literas binas mihi</l>
+                  <l>Iussere duo iuvenculi ob sua scelera</l>
+                  <l n="740">Iam internecandi, mox suis dare matribus.</l>
+                  <l>Nam si fuat dilatio, actum est de gula</l>
+                  <l part="I">Illorum &amp; anima.</l>
+               </sp>
+               <sp who="#cacolalia">
+                  <speaker>Cac.</speaker>
+                  <l part="F">quidnam habes quod indices?</l>
+               </sp>
+               <sp who="#philotecnium">
+                  <speaker>Phi.</speaker>
+                  <l>Consuluimus pulchre utraque nostris liberis.</l>
+               </sp>
+               <sp who="#cacolalia">
+                  <speaker>Cac.</speaker>
+                  <l>Pulcherrimè, sed praetereat hic nuncius.</l>
+               </sp>
+               <sp who="#philotecnium">
+                  <speaker>Phi.</speaker>
+                  <l n="745">Nil oberit hic sermonibus nostris, eat.</l>
+               </sp>
+               <sp who="#cacolalia">
+                  <speaker>Cac.</speaker>
+                  <l>Ne forte nos petat, sinamus paululum.</l>
+               </sp>
+               <sp who="#pompus">
+                  <speaker>Pom.</speaker>
+                  <l>Quas hic duas mulierculas prope intuor</l>
+                  <l>Confabulantes, sunt eae, quas quaerito.</l>
+                  <l>Nam garriunt stulte suis de liberis</l>
+                  <l n="750">Stultissime, sane cucurri prospere.</l>
+                  <l part="I">Has alloquar.</l>
+               </sp>
+               <sp who="#philotecnium">
+                  <speaker>Phi.</speaker>
+                  <l part="M">cognata nos petit.</l>
+               </sp>
+               <sp who="#cacolalia">
+                  <speaker>Cac.</speaker>
+                  <l part="F">sile.</l>
+               </sp>
+               <pb n="p. 42"/>
+               <sp who="#pompus">
+                  <speaker>Pom.</speaker>
+                  <l>Salvere plusquam iam potestis vos velim</l>
+                  <l part="I">Matronae honestae.</l>
+               </sp>
+               <sp who="#philotecnium">
+                  <speaker>Phi.</speaker>
+                  <l part="F">atat, heu, quid ominis hoc feret?</l>
+               </sp>
+               <sp who="#cacolalia">
+                  <speaker>Caco.</speaker>
+                  <l>Nihil hic mali imprecatur, heus cave trepides.</l>
+               </sp>
+               <sp who="#pompus">
+                  <speaker>Pom.</speaker>
+                  <l n="755">Has literas duo filij vestri mihi</l>
+                  <l>Dedere, vobis ut darem sine remora.</l>
+                  <l part="I">Ne quaeso consternamini.</l>
+               </sp>
+               <sp who="#philotecnium">
+                  <speaker>Phi.</speaker>
+                  <l part="F">heu Cacolalia,</l>
+                  <l part="I">Heu filius captust’ meus.</l>
+               </sp>
+               <sp who="#cacolalia">
+                  <speaker>Cac.</speaker>
+                  <l part="F">Quin &amp; meus</l>
+                  <l>Clopicus nefandae destinatus est neci.</l>
+               </sp>
+               <sp who="#philotecnium">
+                  <speaker>Phi.</speaker>
+                  <l n="760">Me sustine Cacolalia, interij, occidi.</l>
+                  <l>Supreme Iuppiter opitulare miserrimis.</l>
+               </sp>
+               <sp who="#pompus">
+                  <speaker>Pom.</speaker>
+                  <l>Querulationibus haud opus. curate dum</l>
+                  <l>Cito ferre suppetias, periculum in mora est.</l>
+               </sp>
+               <sp who="#philotecnium">
+                  <speaker>Phi.</speaker>
+                  <l>Deest spiritus, deest animus, ô Cacolalia.</l>
+                  <l n="765">Reminiscor heu sero quod Aristippus mihi</l>
+                  <l>Praesagio praedixerat verissimo.</l>
+               </sp>
+               <sp who="#cacolalia">
+                  <speaker>Cac.</speaker>
+                  <l part="I">Sero sapimus miserrimae.</l>
+               </sp>
+               <sp who="#pompus">
+                  <speaker>Pom.</speaker>
+                  <l part="F">haec missa facite.</l>
+                  <l part="I">Curate, quo redimi queant.</l>
+               </sp>
+               <sp who="#cacolalia">
+                  <speaker>Caco.</speaker>
+                  <l part="F">quid facto opust’.</l>
+               </sp>
+               <sp who="#pompus">
+                  <speaker>Pom.</speaker>
+                  <l part="I">Scholastici fuêre?</l>
+               </sp>
+               <sp who="#cacolalia">
+                  <speaker>Cac.</speaker>
+                  <l part="F">dudum &amp; hactenus</l>
+                  <l n="770" part="I">Ferulam didascali subiêre.</l>
+               </sp>
+               <sp who="#pompus">
+                  <speaker>Pom.</speaker>
+                  <l part="F">Solus hic</l>
+                  <l>(Si qua est ferenda) opem feret. Properate ad hunc.</l>
+                  <l>Valete. Nam me adesse oportet praesidi.</l>
+               </sp>
+            </div>
+            <div type="scene" n="2">
+               <head>ACTUS V. SCAENA II.</head>
+               <stage type="delivery">Iambici tetrametri quadrati.</stage>
+               <stage type="characters">Philotecnium. Cacolalia. Aristippus. Puer.</stage>
+               <sp who="#philotecnium">
+                  <l>O Quis Deus terrae polive propicium hunc nobis dabit</l>
+                  <pb n="p. 43"/>
+                  <l part="I">Virum Cacolalia?</l>
+               </sp>
+               <sp who="#cacolalia">
+                  <speaker>Caco.</speaker>
+                  <l part="F">male merita sum de eo, tu adito eum.</l>
+               </sp>
+               <sp who="#philotecnium">
+                  <speaker>Phi.</speaker>
+                  <l n="775" part="I">Ego sola neutiquam ausim.</l>
+               </sp>
+               <sp who="#cacolalia">
+                  <speaker>Caco.</speaker>
+                  <l part="F">Eamus igitur atque supplices</l>
+                  <l>Oremus optimum virum, quò iniuriae immemor, ferat</l>
+                  <l>Patrocinium, miserebitur fors nostri &amp; auxiliabitur.</l>
+                  <l part="I">En ipsus obviust’.</l>
+               </sp>
+               <sp who="#philotecnium">
+                  <speaker>Ph.</speaker>
+                  <l part="F">Vir optime, quem quidem indignae sumus</l>
+                  <l>Precarier, miserere nobis destitutis undique</l>
+                  <l n="780" part="I">Hominum deumque refugio.</l>
+               </sp>
+               <sp who="#aristippus">
+                  <speaker>Arist.</speaker>
+                  <l part="F">Hei resurgite, &amp; Deum optimum</l>
+                  <l>Ter maximumque solum adorate, ecquid est, quod vult dari?</l>
+               </sp>
+               <sp who="#philotecnium">
+                  <speaker>Phi.</speaker>
+                  <l>O doctor optime, liberi nostri atque discipuli tui heu,</l>
+                  <l>Ob furta capti sunt, necique improperiose traditi.</l>
+               </sp>
+               <sp who="#aristippus">
+                  <speaker>Arist.</speaker>
+                  <l>Hoc mulier est quod dixeram certissimo dudum omine.</l>
+               </sp>
+               <sp who="#philotecnium">
+                  <speaker>Phi.</speaker>
+                  <l part="I" n="785">Heu credidi sero.</l>
+               </sp>
+               <sp who="#aristippus">
+                  <speaker>Arist.</speaker>
+                  <l part="F">Quid ergo vultis ut faciam: inquite.</l>
+               </sp>
+               <sp who="#cacolalia">
+                  <speaker>Caco.</speaker>
+                  <l>Pietate flectere quaesumus. Nostris malis mala meruimus.</l>
+                  <l>Dementiam nostram tua sophia vincat, atque filios</l>
+                  <l>Nostros receptos libera, nam si velis, virga id potes.</l>
+               </sp>
+               <sp who="#aristippus">
+                  <speaker>Arist.</speaker>
+                  <l>Quo iure dic mulier, cùm uterque manum meae subduxerint</l>
+                  <pb n="p. 44"/>
+                  <l part="I" n="790">Ferulae?</l>
+               </sp>
+               <sp who="#philotecnium">
+                  <speaker>Phil.</speaker>
+                  <l part="F">per hoc caput obsecro concede, quia nunc imminet</l>
+                  <l>Stata hora crudelis necis, timeo mora sit discrimini.</l>
+               </sp>
+               <sp who="#aristippus">
+                  <speaker>Arist.</speaker>
+                  <l>Tametsi haud meremini, ibo vobiscum, atque oves (veluti meas)</l>
+                  <l>Quaeram vagabundas. Philosophia docet omnia haec mala</l>
+                  <l part="I">Pietate vincere. Date virgulam.</l>
+               </sp>
+               <sp who="#discipulus">
+                  <speaker>Pu.</speaker>
+                  <l part="M">Hem.</l>
+               </sp>
+               <sp who="#aristippus">
+                  <speaker>Aristip.</speaker>
+                  <l part="F">praeite ego subsequar.</l>
+               </sp>
+               <sp who="#philotecnium">
+                  <speaker>Phi.</speaker>
+                  <l n="795">Ad hanc viri clementiam meus revixit spiritus</l>
+                  <l part="I">Cacolalia.</l>
+               </sp>
+               <sp who="#cacolalia">
+                  <speaker>Cac.</speaker>
+                  <l part="F">ô utinam adsit, heu nostros video producier.</l>
+               </sp>
+               <sp who="#philotecnium">
+                  <speaker>Phi.</speaker>
+                  <l>Iam deficit animus, labascunt omnia artua, nullus est</l>
+                  <l>Sensus. utinam adsit, heu morarier &amp; sedere cogimur.</l>
+               </sp>
+            </div>
+            <div type="scene" n="3">
+               <head>ACTUS V. SCAENA III.</head>
+               <stage type="delivery">Tetrametri catalectici vel septenarij.</stage>
+               <stage type="characters">Lorarij II. Captivi II. Iudex.</stage>
+               <sp who="#lorarius-a #lorarius-b">
+                  <l>IUdex tremende obnoxios furto hos duos malignos</l>
+                  <l n="800">Adducimus, ut sententia mortis in eos prolata</l>
+                  <l>Qua iudicati sunt, neci tradantur extimae atque</l>
+                  <l>Haec civitas nostra expietur sceleribus pravorum.</l>
+               </sp>
+               <sp who="#iudex">
+                  <speaker>Iud.</speaker>
+                  <l>Quò haec civitas, pagique, &amp; omnis regio liberetur</l>
+                  <l>Calumnijs, furtisque flagitijsque sceleratorum, &amp;</l>
+                  <pb n="p. 45"/>
+                  <l n="805">Ut agricolae sudore partis libere uti possint</l>
+                  <l>Noctesque tranquillas agere, iustum &amp; pium arbitramur</l>
+                  <l>In parvulum animadvortere improbum gregem, nedum per</l>
+                  <l>Ignaviam nostram sit impunita iniquitas, mox</l>
+                  <l>Silvescat omne per licentiam malum. Hac de causa</l>
+                  <l n="810">Hos impios &amp; facinorosos, quos Deus donavit</l>
+                  <l>Frustra tot amplis corporis animique dotibus, mortis</l>
+                  <l>Sententia damnamus &amp; crucis ultimo plectendos</l>
+                  <l part="I">Pronuntiamus supplicio.</l>
+               </sp>
+               <sp who="#lorarius-a #lorarius-b">
+                  <speaker>Lor.</speaker>
+                  <l part="M">Paremus.</l>
+               </sp>
+               <sp who="#iudex">
+                  <speaker>Iud.</speaker>
+                  <l part="F">Exsequuntor.</l>
+                  <l part="I">Clangat tuba.</l>
+               </sp>
+               <sp who="#lorarius-a #lorarius-b">
+                  <speaker>Lor.</speaker>
+                  <l part="F">Heus uterque se commendet omnipotenti.</l>
+               </sp>
+            </div>
+            <div type="scene" n="4">
+               <head>ACTUS V. SCAENA IIII.</head>
+               <stage type="delivery">Iambici dimetri.</stage>
+               <stage type="characters">Lorcoballus. Marlocappus.</stage>
+               <sp who="#lorcoballus">
+                  <l n="815" part="I">HEus Marlocap.</l>
+               </sp>
+               <sp who="#marlocappus">
+                  <speaker>Mar.</speaker>
+                  <l part="F">Hem Lorcobal.</l>
+               </sp>
+               <sp who="#lorcoballus">
+                  <speaker>Lor.</speaker>
+                  <l>Audin’ sonum illum buccinae?</l>
+               </sp>
+               <sp who="#marlocappus">
+                  <speaker>Mar.</speaker>
+                  <l>Audio, quid is sibi vult sonus?</l>
+                  <l>Num se parant venatui?</l>
+               </sp>
+               <sp who="#lorcoballus">
+                  <speaker>Lor.</speaker>
+                  <l>Ha ha barde, stupide, O morio,</l>
+                  <l n="820">Utriusque ad exequias parant.</l>
+                  <l>Sese omnium celeberrimas,</l>
+                  <l>Praeterea &amp; in laqueum auceps</l>
+                  <l>Nostrum implicabunt turdulos.</l>
+                  <l>Nunc strenuum satana age.</l>
+                  <pb n="p. 46"/>
+                  <l n="825">Cave animae ad aethera transvolent.</l>
+                  <l>Alvi obside tu valvulas.</l>
+                  <l>Viam ipse servem gutturis.</l>
+               </sp>
+               <sp who="#marlocappus">
+                  <speaker>Mar.</speaker>
+                  <l>Evaserit mihi neutiquam,</l>
+                  <l>Circumspice exitus tuos.</l>
+                  <l n="830">Hebitudinis me Lorcobal</l>
+                  <l>Coarguit frequentius,</l>
+                  <l>Veruntamen victoria</l>
+                  <l>Mihi cesserit vel hoc die:</l>
+                  <l>Nam qui laqueo dum stringitur</l>
+                  <l n="835">Gula, transitum menti paret?</l>
+                  <l>Plutonis ingluviem avidam</l>
+                  <l>Ego solus exsaturavero.</l>
+                  <l>Tuba intonat secundo, adest</l>
+                  <l>Triumphus &amp; spectaculum.</l>
+               </sp>
+            </div>
+            <div type="scene" n="5">
+               <head>ACTUS V. SCAENA V.</head>
+               <stage type="delivery">Anapaestici dimetri acatalectici.</stage>
+               <stage type="characters">Dyscolus. Clopicus. Lorarij duo.</stage>
+               <sp who="#dyscolus">
+                  <l n="840">TUba terribilis sonuit nunc. Heu</l>
+                  <l>Miseros fures, miseram sortem.</l>
+                  <l>O fata inamata, ô horrida mors.</l>
+                  <l>Maledictum sit furtum, quod in hunc</l>
+                  <l>Me duxit amarorem. O socij</l>
+                  <l n="845">Comitesque valete. Valeto Pater</l>
+                  <pb n="p. 47"/>
+                  <l>Materque, valete sorores. Heu</l>
+                  <l>Rediturus nunquam nunc abeo.</l>
+               </sp>
+               <sp who="#clopicus">
+                  <speaker>Clo.</speaker>
+                  <l>Concedite clericuli &amp; pueri</l>
+                  <l>Et adeste omnis iuvenum coetus,</l>
+                  <l n="850">Concurrite ad haec spectacula, &amp; in his</l>
+                  <l>Compescite lascivos animi</l>
+                  <l>Mores. Parete parentibus, ac</l>
+                  <l>Senioribus atque magistris, ne</l>
+                  <l>Et in haec pariter fata cadatis.</l>
+                  <l n="855">Luxus, lusus quoque, &amp; ebrietas,</l>
+                  <l>Sed &amp; impunita rebellio nos</l>
+                  <l>Adigunt laqueos adiguntque cruci.</l>
+                  <l>Curate, caveteque, ne similis</l>
+                  <l>Vos poena praeoccupet incautos.</l>
+               </sp>
+               <sp who="#lorarius-a #lorarius-b">
+                  <speaker>Lor.</speaker>
+                  <l n="860">Satis est querelatum &amp; contionatum.</l>
+                  <l>Ad cunctipotentem vertite vel</l>
+                  <l>Nunc mentem, animas quo suscipiat.</l>
+               </sp>
+               <sp who="#dyscolus">
+                  <speaker>Dys.</speaker>
+                  <l>Aliter quia non fieri poterit,</l>
+                  <l>Deus, accipe quaeso animas nostras.</l>
+               </sp>
+               <sp who="#clopicus">
+                  <speaker>Clo.</speaker>
+                  <l n="865">Sed quem video huc sic properantem,</l>
+                  <l>Sinite adveniat, si forte mihi</l>
+                  <l>Aliqua est speranda salus, sinite.</l>
+               </sp>
+               <sp who="#lorarius-a #lorarius-b">
+                  <speaker>Lor.</speaker>
+                  <l>Sinimus, neque enim cupimus vestrae</l>
+                  <l>Obstare saluti, si qua fuat.</l>
+               </sp>
+            </div>
+            <div type="scene" n="6">
+               <head>ACTUS V. SCAENA VI.</head>
+               <pb n="p. 48"/>
+               <stage type="delivery">Trochaici trimetri catalectici.</stage>
+               <stage type="characters">Matres 2. Aristippus. Iudex. Captivi 2.</stage>
+               <sp who="#philotecnium #cacolalia">
+                  <l n="870">TAndem adest diu expetitus vir pius,</l>
+                  <l>Per quem erit speranda iam nobis salus:</l>
+                  <l part="I">Te obsecramus adiuva.</l>
+               </sp>
+               <sp who="#aristippus">
+                  <speaker>Ari.</speaker>
+                  <l part="F">Silete vos</l>
+                  <l>Ne cruci Iudex profane adducier</l>
+                  <l>Coge, sub sceptris meis qui militant.</l>
+               </sp>
+               <sp who="#iudex">
+                  <speaker>Iud.</speaker>
+                  <l n="875">Quisnam es inique qui precari non modo</l>
+                  <l>Abnuis, sed &amp; imperare niteris?</l>
+               </sp>
+               <sp who="#aristippus">
+                  <speaker>Arist.</speaker>
+                  <l>Sum inquam Aristippus philosophiae artibus</l>
+                  <l>Parvulos iuvenesque vestros qui instruo.</l>
+                  <l>Sunt mei hi discipuli, &amp; abs te corrigi</l>
+                  <l n="880">Non decet philosophiae artibus deditos.</l>
+                  <l>Sub mea ferula &amp; flagris qui militant,</l>
+                  <l>Haud cruce aut laqueo tuo plectendi erant.</l>
+                  <l>Hac reos virga receptos libero.</l>
+                  <l>Privilegijs scholae ne deroga</l>
+               </sp>
+               <sp who="#iudex">
+                  <speaker>Iud.</speaker>
+                  <l n="885">Si in tuis castris iuvenculi militant,</l>
+                  <l>Tolle eos ut* corrigas, iuri meo</l>
+                  <l>Cessero. Verum cavento, denuo</l>
+                  <l>Ne manus meas facinorosi incidant.</l>
+               </sp>
+               <sp who="#aristippus">
+                  <speaker>Arist.</speaker>
+                  <l>Heus adeste, sequimini, ut scholastico</l>
+                  <l n="890">More corrigamini. Confidite.</l>
+               </sp>
+            </div>
+            <div type="scene" n="7">
+               <head>ACTUS V. SCAENA VII.</head>
+               <pb n="p. 49"/>
+               <stage type="delivery">Dimetri acatalectici.</stage>
+               <stage type="characters">Lorcoballus. Marlocappus.</stage>
+               <sp who="#lorcoballus">
+                  <l>PRoh Marlocappe Marlocap.</l>
+                  <l>Pròh superùm &amp; inferûm fidem</l>
+                  <l>Perij, ego me discerpsero.</l>
+                  <l>Operam meam omnem perdidi.</l>
+                  <l n="895">Si praestitisses te vafrum,</l>
+                  <l>Istae ferae pulposulae</l>
+                  <l>Non excidissent cassibus.</l>
+               </sp>
+               <sp who="#marlocappus">
+                  <speaker>Mar.</speaker>
+                  <l>Quid implicas me innoxium?</l>
+                  <l>Solus nam Aristippus reust’,</l>
+                  <l n="900">Contorque in istunc ungulas,</l>
+                  <l>Qui contra phas hos abstulit.</l>
+               </sp>
+               <sp who="#lorcoballus">
+                  <speaker>Lor.</speaker>
+                  <l>In te nephande primitus</l>
+                  <l>Ulciscar omnem iniuriam:</l>
+                  <l>Propter tuam nam ignaviam,</l>
+                  <l n="905">Orci manent nos vincula,</l>
+                  <l>Et verbera, &amp; picis igneae</l>
+                  <l>Commista sulphure pocula.</l>
+                  <l>Experiar in te hanc fuscinam,</l>
+                  <l>Demens, rudis brutissime, has</l>
+                  <l n="910">Te propter aerumnas fero.</l>
+               </sp>
+               <sp who="#marlocappus">
+                  <speaker>Mar.</speaker>
+                  <l>Heu heu miser daemon, quod haud</l>
+                  <l>Commiseram infoelix luo.</l>
+               </sp>
+               <sp who="#lorcoballus">
+                  <speaker>Lor.</speaker>
+                  <l>Fugiamus hinc, tuba intonat,</l>
+                  <pb n="p. 50"/>
+                  <l>Frendens citat nos Lucifer.</l>
+               </sp>
+            </div>
+            <div type="scene" n="8">
+               <head>ACTUS V. SCAENA VIII.</head>
+               <stage type="delivery">Iambici trimetri catalectici.</stage>
+               <stage type="characters">Captivi duo. Matres duae. Aristippus.</stage>
+               <sp who="#dyscolus #clopicus">
+                  <l n="915">O Iuppiter supreme servastin’ nos?</l>
+                  <l>In somnio haec audimus an re vera</l>
+                  <l>Num liberi sumus, an adhuc morimur?</l>
+                  <l>Ex ipsius lethi videmur fauce</l>
+                  <l>Erepti, &amp; aura vescier vitali.</l>
+                  <l n="920">Cuiusputas age gratia redempti?</l>
+               </sp>
+               <sp who="#philotecnium #cacolalia">
+                  <speaker>Matr.</speaker>
+                  <l>O gnati Aristippus magister vester</l>
+                  <l>Fuit unicum vobis refugium, &amp; hic vos</l>
+                  <l>Authoritate praeditus servavit.</l>
+                  <l>Acceptam huic soli feratis oportet</l>
+                  <l n="925">Vestram salutem, spiritus dum hos artus</l>
+                  <l part="I">Vegetarit.</l>
+               </sp>
+               <sp who="#dyscolus #clopicus">
+                  <speaker>Capt.</speaker>
+                  <l part="F">Euge, ô doctor, ô praeceptor,</l>
+                  <l>O cuius optima consilia procaces</l>
+                  <l>Praesumpsimus ridere &amp; aspernari,</l>
+                  <l>Nunc paenitentes suscipe, &amp; condona</l>
+                  <l n="930">Quae in te prius commisimus delicta.</l>
+                  <l>Cerne poplites flexos, manus complosas.</l>
+                  <l>Lapsum probrosum corrige &amp; castiga,</l>
+                  <l>Recipe faciles quos passus es rebelles.</l>
+               </sp>
+               <sp who="#aristippus">
+                  <speaker>Arist.</speaker>
+                  <l>Remitto quod commissum erat delictum</l>
+                  <pb n="p. 51"/>
+                  <l n="935">In me; remitto iniurias probrumque</l>
+                  <l>Capitale virgis expiari debet.</l>
+                  <l part="I">Sequiminor.</l>
+               </sp>
+               <sp who="#dyscolus #clopicus">
+                  <speaker>Capt.</speaker>
+                  <l part="F">actutum sequimur uterque</l>
+                  <l>Plus dediti ad plagas, quàm ad impietatem</l>
+                  <l>Umquàm fuimus in hunc diem proclives.</l>
+                  <l n="940">Valete matres, mox domi videndae.</l>
+               </sp>
+               <sp who="#philotecnium #cacolalia">
+                  <speaker>Matr.</speaker>
+                  <l>Valete filij, domum advolamus,</l>
+                  <l>Vos cum didascalo optime excepturae.</l>
+                  <l>Quemque obsecrabitis, ut sua pro summa</l>
+                  <l>Velit modestia adesse vespertino &amp;</l>
+                  <l n="945">Pithagorico convivio nobiscum.</l>
+                  <l>Ne amabo negligatis haec correcti.</l>
+               </sp>
+               <sp who="#dyscolus #clopicus">
+                  <speaker>Capt.</speaker>
+                  <l>Qui negligamus haec? Valete matres.</l>
+               </sp>
+            </div>
+            <div type="scene" n="9">
+               <head>ACTUS V. SCAENA IX.</head>
+               <stage type="delivery">Trimetri catalectici, ut superiores.</stage>
+               <stage type="characters">Philotecnium. Cacolalia.</stage>
+               <sp who="#philotecnium">
+                  <l>NUnc ô Cacolalia dat mihi intellectum</l>
+                  <l>Vexatio, nunc displicet tam laxa</l>
+                  <l n="950">Gnati educatio, sero sapimus omnes,</l>
+                  <l>Dij boni vestram fidem, quis unquàm</l>
+                  <l>Adesse rebus adeo desperatis</l>
+                  <l part="I">Spem crederet?</l>
+               </sp>
+               <sp who="#cacolalia">
+                  <speaker>Cacola.</speaker>
+                  <l part="F">Philotecnium quod honesti &amp;</l>
+                  <l>Boni viri consilia sprevimus, non</l>
+                  <pb n="p. 52"/>
+                  <l n="955">Potuit fore impunitum. At intus</l>
+                  <l>Dicam, quam gratiam beneficio referemus</l>
+                  <l>Rerum omnium iusto gubernatori</l>
+                  <l>Deo agamus ante gratias. Ploremus</l>
+                  <l part="I">Ea quae hactenus commisimus.</l>
+               </sp>
+               <sp who="#philotecnium">
+                  <speaker>Phi.</speaker>
+                  <l part="F">Bene suades</l>
+                  <l n="960">Templum petamus primulum, quo agamus</l>
+                  <l>Haec commode, dein liberos visurae,</l>
+                  <l>Quos orci ab ipsis faucibus praereptos</l>
+                  <l part="I">Recepimus.</l>
+               </sp>
+               <sp who="#cacolalia">
+                  <speaker>Cac.</speaker>
+                  <l part="F">Recte mones, eamus,</l>
+                  <l>Coenamque post didascalo, vicinis,</l>
+                  <l n="965">Amiculisque proximis paremus.</l>
+               </sp>
+            </div>
+            <div type="scene" n="10">
+               <head>ACTUS V. SCAENA X.</head>
+               <stage type="delivery">Trimetri catalectici.</stage>
+               <stage type="characters">Didascalus. Dyscolus. Clopicus.</stage>
+               <sp who="#aristippus">
+                  <l>CAesos flagellis filij mei acribus</l>
+                  <l>(Ut dignum erat) poenae necis, cui obnoxij</l>
+                  <l>Fueratis, ambos eximo. Verum amodo</l>
+                  <l>Cavebitis ne quid simile patretis. hoc</l>
+                  <l n="970">Certo scientes, quod, tametsi verbulo</l>
+                  <l>Nutuve potuero, amodo non eruam.</l>
+                  <l>Neque enim deceret nostri honorem nominis,</l>
+                  <l>Ludumve nostrum, pestilentes quoslibet</l>
+                  <l>Fovere, praetextuque virgae admittere.</l>
+               </sp>
+               <sp who="#dyscolus">
+                  <speaker>Dys.</speaker>
+                  <l n="975">Hos quam diu gubernat artus spiritus,</l>
+                  <pb n="p. 53"/>
+                  <l>Nil contra honestatem (quod ad me pertinet)</l>
+                  <l>Contrave leges publicas commisero.</l>
+                  <l>Nec contumacem senties, dum sub tuis</l>
+                  <l>Castris, magister care, militavero.</l>
+                  <l n="980">Modo hanc mihi caeso remitte noxiam.</l>
+               </sp>
+               <sp who="#clopicus">
+                  <speaker>Clo.</speaker>
+                  <l>Dum luce in hac morabor, &amp; oculis meis</l>
+                  <l>Coelum intuar, prorsus nihil patravero,</l>
+                  <l>Oculos quod offendat tuos, Didascale,</l>
+                  <l>Si modo mihi caeso hanc remittas noxiam.</l>
+                  <l n="985">Ingratitudinis amodo haud nos argues.</l>
+               </sp>
+               <sp who="#aristippus">
+                  <speaker>Did.</speaker>
+                  <l>Remitto quae commissa dudum plangitis.</l>
+                  <l>Nec propter haec delicta me experiemini</l>
+                  <l>Amariorem, quàm fuissem innoxijs.</l>
+                  <l>Date operam, ut id quod filij promittitis,</l>
+                  <l n="990" part="I">Praestetis opere sedulo.</l>
+               </sp>
+               <sp who="#dyscolus">
+                  <speaker>Dys.</speaker>
+                  <l part="F">Praestabimus.</l>
+               </sp>
+               <sp who="#aristippus">
+                  <speaker>Didasca.</speaker>
+                  <l>Hunc animum &amp; has promissiones supplices</l>
+                  <l>Mox pariter exhibebitis parentibus,</l>
+                  <l>Ut quos dolore affecit ante licentia,</l>
+                  <l>Nunc recreet condigna poenitentia.</l>
+               </sp>
+               <sp who="#clopicus">
+                  <speaker>Clo.</speaker>
+                  <l n="995">Praeceptor exhibebimus. Sed obsecro, ut</l>
+                  <l>Nobiscum eas ad vesperum convivium, id</l>
+                  <l>Quod utriusque te parens efflagitat</l>
+                  <l part="I">Obnoxius.</l>
+               </sp>
+               <sp who="#aristippus">
+                  <speaker>Did.</speaker>
+                  <l part="F">non est necesse, filij.</l>
+               </sp>
+               <sp who="#dyscolus">
+                  <speaker>Dys.</speaker>
+                  <l>Et nos magister obsecramus adsies.</l>
+               </sp>
+               <sp who="#aristippus">
+                  <speaker>Did.</speaker>
+                  <l n="1000">Adero; praeite, &amp; matribus procul obvijs</l>
+                  <pb n="p. 54"/>
+                  <l part="I">Procidite sponte supplices.</l>
+               </sp>
+               <sp who="#dyscolus">
+                  <speaker>Dys.</speaker>
+                  <l part="F">facessimus.</l>
+                  <l part="I">Sed, obsecro sequare nos.</l>
+               </sp>
+               <sp who="#aristippus">
+                  <speaker>Did.</speaker>
+                  <l part="F">Ite, assequar.</l>
+               </sp>
+            </div>
+            <div type="scene" n="11">
+               <head>ACTUS V. SCAENA XI.</head>
+               <stage type="delivery">Trimetri ut praecedentes.</stage>
+               <stage type="characters">Philotecnium. Cacolalia.</stage>
+               <sp who="#philotecnium">
+                  <l>NUnc singulis recte paratis tempus est</l>
+                  <l>(Ut statuimus) Didascalum primum omnium</l>
+                  <l n="1005">Accersere, atque liberos (ne forte sint</l>
+                  <l>Nimio pudore pavidi) in aedes proprias</l>
+                  <l>Reducere, &amp; reliquae familiae iungere.</l>
+               </sp>
+               <sp who="#cacolalia">
+                  <speaker>Cac.</speaker>
+                  <l>Quin ipsa id optimum fore arbitrata sum,</l>
+                  <l>Verum cave cognata, ne quid sentiat</l>
+                  <l n="1010">Remissius praeceptor erga liberos</l>
+                  <l>Nos exhibere denuo, ne per meam</l>
+                  <l>Vel per tuam indulgentiam tantis viri</l>
+                  <l>Beneficijs videamur ingratissimae.</l>
+               </sp>
+               <sp who="#philotecnium">
+                  <speaker>Ph.</speaker>
+                  <l>Huiusmodi nil suspicare Cacolalia:</l>
+                  <l n="1015">Nam mollis ille quondam animus adeo mihi</l>
+                  <l>Induruit, post liberorum facinora &amp;</l>
+                  <l>Horrida necis pericula, ut malim eos</l>
+                  <l>Ter acribus virgis videre saucios,</l>
+                  <l>Ubi meruerint, quam admittere semel ad osculum.</l>
+               </sp>
+               <sp who="#cacolalia">
+                  <speaker>Caco.</speaker>
+                  <l n="1020">Iam sapis, &amp; utinam laeva non mens antea</l>
+                  <pb n="p. 55"/>
+                  <l>Fuisset utriusque nostrum, &amp; in hoc probrum</l>
+                  <l>Non incidissemus. Sed eccos liberos</l>
+                  <l>Se post flagella vestientes denuo.</l>
+               </sp>
+               <sp who="#philotecnium">
+                  <speaker>Ph.</speaker>
+                  <l>Miseret me eorum fateor, at praestat flagris</l>
+                  <l n="1025">Livere caesos acribus, quam pensiles</l>
+                  <l>Sese &amp; suos afficere probro iugiter.</l>
+               </sp>
+               <sp who="#cacolalia">
+                  <speaker>Cac.</speaker>
+                  <l>Praestat profecto maxime. sistamus hic.</l>
+               </sp>
+            </div>
+            <div type="scene" n="12">
+               <head>ACTUS V. SCAENA XII.</head>
+               <stage type="delivery">Trimetri ut praecedentes.</stage>
+               <stage type="characters">Clopicus. Dyscolus. Philotecnium. Cacolalia.</stage>
+               <sp who="#clopicus">
+                  <l>O Quàm pudet matri meae mi Dyscole</l>
+                  <l part="I">Sic conspicari saucium. </l>
+               </sp>
+               <sp who="#dyscolus">
+                  <speaker>Dys.</speaker>
+                  <l part="F">Me quoque pudet.</l>
+                  <l n="1030">At pudeat eius criminis multo magis,</l>
+                  <l>Quod reddidisset utrumque longam literam,</l>
+                  <l>Si non gulae laqueum abstulisset vir pius.</l>
+                  <l>Iam a matribus veniam impetremus supplices.</l>
+               </sp>
+               <sp who="#clopicus">
+                  <speaker>Clo.</speaker>
+                  <l>Et hoc &amp; illud admones iure optimo,</l>
+                  <l n="1035" part="I">Precemur.</l>
+               </sp>
+               <sp who="#dyscolus">
+                  <speaker>Dys.</speaker>
+                  <l part="F">obsecro mater hanc mihi noxiam</l>
+                  <l>Furti remitte &amp; insolentiae, quibus</l>
+                  <l>Dolore te affeci &amp; pudore maximo.</l>
+               </sp>
+               <sp who="#philotecnium">
+                  <speaker>Ph.</speaker>
+                  <l>Condono, quicquid hactenus deliqueris,</l>
+                  <l>Si moribus posthac probis te videro.</l>
+               </sp>
+               <pb n="p. 56"/>
+               <sp who="#dyscolus">
+                  <speaker>Dys.</speaker>
+                  <l n="1040">Me spondeo probis futurum moribus,</l>
+                  <l>Nec quod tibi displiceat acturum amodo.</l>
+               </sp>
+               <sp who="#clopicus">
+                  <speaker>Clo.</speaker>
+                  <l>Similique mater ipse poenitudine</l>
+                  <l>Ductus, tibi probitatem in aevum spondeo.</l>
+                  <l part="I">Obsecro remitte noxiam.</l>
+               </sp>
+               <sp who="#cacolalia">
+                  <speaker>Cac.</speaker>
+                  <l part="F">remisero,</l>
+                  <l n="1045">Verbis tuis si acta corresponderint.</l>
+                  <l>Surgite, nam adest Didascalus, qui &amp; unicus</l>
+                  <l>Vestrae salutis auctor &amp; salvator est.</l>
+                  <l>Hunc supplices veniam (ut decet) rogabitis.</l>
+               </sp>
+               <sp who="#philotecnium">
+                  <speaker>Phi.</speaker>
+                  <l part="I">Quid ni rogent gravissime offensum?</l>
+               </sp>
+               <sp who="#dyscolus">
+                  <speaker>Dysc.</speaker>
+                  <l part="F">Id quidem</l>
+                  <l n="1050">Iam supplices perfecimus, virum quoque</l>
+                  <l>Vix annuentem ad vesperum convivium</l>
+                  <l>(Ut utrique iusseratis) invitavimus.</l>
+               </sp>
+               <sp who="#philotecnium">
+                  <speaker>Phi.</speaker>
+                  <l part="I">Fecistis istuc optime. Secedite.</l>
+               </sp>
+               <sp who="#clopicus">
+                  <speaker>Clo.</speaker>
+                  <l part="F">hem.</l>
+               </sp>
+            </div>
+            <div type="scene" n="13">
+               <head>ACTUS V. SCAENA XIII.</head>
+               <stage type="delivery">Trimetri ut superiores.</stage>
+               <stage type="characters">Philotecnium. Cacolalia. Didascalus. Liberi.</stage>
+               <sp who="#philotecnium">
+                  <l>SAlve magister, expectatus advenis.</l>
+               </sp>
+               <sp who="#cacolalia">
+                  <speaker>Caco.</speaker>
+                  <l n="1055" part="I">Salve magister.</l>
+               </sp>
+               <sp who="#aristippus">
+                  <speaker>Didas.</speaker>
+                  <l part="F">Identidem salvete vos.</l>
+                  <l part="I">Ut exhibent se liberi?</l>
+               </sp>
+               <sp who="#philotecnium">
+                  <speaker>Phi.</speaker>
+                  <l part="F">Probè ac piè.</l>
+                  <l>Et (uti videbas) supplices ignoscier</l>
+                  <pb n="p. 57"/>
+                  <l part="I">Sibi postulant.</l>
+               </sp>
+               <sp who="#aristippus">
+                  <speaker>Did.</speaker>
+                  <l part="F">Ignoscite, ipse comprecor.</l>
+                  <l>Neque fas enim post flagra amaritudinem</l>
+                  <l n="1060">Irae aut proterviae inesse vestro pectori.</l>
+                  <l part="I">Ignoscite itaque.</l>
+               </sp>
+               <sp who="#cacolalia">
+                  <speaker>Cac.</speaker>
+                  <l part="F">Ignoscimus quamquam aegrius.</l>
+               </sp>
+               <sp who="#philotecnium">
+                  <speaker>Phi.</speaker>
+                  <l>Ignoscimus magister, at scio, scio, scio,</l>
+                  <l>Quantum doloris &amp; pudoris intulit</l>
+                  <l part="I">Mens mihi.</l>
+               </sp>
+               <sp who="#aristippus">
+                  <speaker>Did.</speaker>
+                  <l part="F">sile, amodo sibi caverint.</l>
+                  <l n="1065">Reddent enim illos cautiores proxima haec</l>
+                  <l part="I">Discrimina.</l>
+               </sp>
+               <sp who="#cacolalia">
+                  <speaker>Cac.</speaker>
+                  <l part="F">cavebunt quidem si sapuerint.</l>
+               </sp>
+               <sp who="#aristippus">
+                  <speaker>Did.</speaker>
+                  <l part="I">Heus vos, adeste.</l>
+               </sp>
+               <sp who="#dyscolus #clopicus">
+                  <speaker>Libe.</speaker>
+                  <l part="M">hem.</l>
+               </sp>
+               <sp who="#aristippus">
+                  <speaker>Didas.</speaker>
+                  <l part="F">quidnam ad haec promittitis?</l>
+               </sp>
+               <sp who="#dyscolus">
+                  <speaker>Dys.</speaker>
+                  <l>Promisimusque &amp; denuo promittimus</l>
+                  <l part="I">Nos fore probos &amp; integros.</l>
+               </sp>
+               <sp who="#clopicus">
+                  <speaker>Clo.</speaker>
+                  <l part="F">promittimus.</l>
+               </sp>
+               <sp who="#aristippus">
+                  <speaker>Did.</speaker>
+                  <l n="1070" part="I">Remitte oro.</l>
+               </sp>
+               <sp who="#philotecnium">
+                  <speaker>Phil.</speaker>
+                  <l part="M">Remittimus.</l>
+               </sp>
+               <sp who="#cacolalia">
+                  <speaker>Cacol.</speaker>
+                  <l part="F">Remittimus.</l>
+                  <l>Tuque obsecro nobis remitte quod improbè</l>
+                  <l part="I">Commisimus.</l>
+               </sp>
+               <sp who="#philotecnium">
+                  <speaker>Phi.</speaker>
+                  <l part="F">Te idem magister obsecro.</l>
+                  <l>Et hactenus desyderatus sobriae</l>
+                  <l>(Te quaeso) adesse non graveris coenulae, ut</l>
+                  <l n="1075">Hodie viris foras profectis vesperi</l>
+                  <l>Nobis sies &amp; liberis solatio.</l>
+               </sp>
+               <sp who="#aristippus">
+                  <speaker>Didasc.</speaker>
+                  <l>Remitto facile, &amp; alterum est gratissimum, id</l>
+                  <l>Quod &amp; hi rogarunt me ambo vestro nomine.</l>
+               </sp>
+               <sp who="#cacolalia">
+                  <speaker>Cac.</speaker>
+                  <l>Id iusseramus integris affectibus.</l>
+                  <l n="1080" part="I">Praecede nos.</l>
+               </sp>
+               <sp who="#aristippus">
+                  <speaker>Did.</speaker>
+                  <l part="F">Praeite vos, ego subsequar.</l>
+                  <pb n="p. 58"/>
+                  <l>Tirunculi in laudem dei ora solvite.</l>
+                  <l part="I">Dein sequimini.</l>
+               </sp>
+               <sp who="#dyscolus">
+                  <speaker>Dysc.</speaker>
+                  <l part="F">Haud gravatim solvimus.</l>
+               </sp>
+            </div>
+            <div type="scene" n="14">
+               <head>ACTUS V. SCAENA XIIII.</head>
+               <stage type="delivery">Hymnus Sapphicus.</stage>
+               <stage type="characters">Uterque, Dyscolus. Clopicus.</stage>
+               <sp who="#dyscolus #clopicus">
+                  <l>LAudibus largam celebremus erga</l>
+                  <l>Nos dei nostri bonitatem, ab omni</l>
+                  <l n="1085">Qui reluctantes rapuit periclo</l>
+                  <l>Mortis acerbae.</l>
+               </sp>
+               <sp who="#dyscolus">
+                  <speaker>Dys.</speaker>
+                  <l>Laude te Patrem evehimus benignum,</l>
+                  <l>Qui per ardores crepitantis ignis,</l>
+                  <pb n="p. 59"/>
+                  <l>Perque aquae raptos gelidae pavores</l>
+                  <l n="1090">Ultro reducis.</l>
+               </sp>
+               <sp who="#clopicus">
+                  <speaker>Clo.</speaker>
+                  <l>Laude te celsum medicum levamus,</l>
+                  <l>Qui incutis plagam &amp; subito mederis.</l>
+                  <l>Ducis ardentem ad phlegetontis undam</l>
+                  <l>Atque reducis.</l>
+               </sp>
+               <sp who="#dyscolus">
+                  <speaker>Dys</speaker>
+                  <l n="1095">Laude te summum evehimus patronum,</l>
+                  <l>Qui leonina rabie repressam*</l>
+                  <l>Eruis mentem è baratro ferino</l>
+                  <l>Daemonis atri.</l>
+               </sp>
+               <sp who="#clopicus">
+                  <speaker>Clo.</speaker>
+                  <l>Laude te Patrem veneramur orbis,</l>
+                  <l n="1100">Qui tuum gnatum nece terminari</l>
+                  <l>Iusseras, quo nos repararet almo</l>
+                  <l>Pneumate vitae.</l>
+               </sp>
+            </div>
+         </div>
+         <div type="epilogue">
+            <stage type="characters">Grex per Epilogum.</stage>
+            <stage type="delivery">Trimetri acatalectici.</stage>
+            <sp who="#grex">
+               <l>PUdica vobis acta spectatoribus</l>
+               <l>Haec fabula est. qua non modo spectantium</l>
+               <l n="1105">Mens casta nullis impudicis gestibus</l>
+               <l>Infecta sordeat, sed &amp; paradigmate</l>
+               <l>Lepido erudita cauta sit. Matres proin</l>
+               <l>Cavete, ne vestram per indulgentiam</l>
+               <l>Vestri insolescant liberi ob licentiam.</l>
+               <pb n="p. 60"/>
+               <l n="1110">Caveat puer quoque, ne insolenter obstrepat</l>
+               <l>Didascalis, sed institutis integris</l>
+               <l>Et moribus probis det operam sedulo.</l>
+               <l>Ne ignavia ac luxu in necis laqueum irruat,</l>
+               <l>Unde eripier in sempiternum haud possiet.</l>
+               <l n="1115">Si vultis, &amp; si placuimus, iam plaudite.</l>
+            </sp>
+            <closer>Finis Rebellium:</closer>
+         </div>
+      </body>
+   </text>
+</TEI>

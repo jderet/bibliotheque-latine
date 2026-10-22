@@ -1,0 +1,163 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc xml:id="vrancic-a-epist-1540-10-12">
+         <titleStmt>
+            <title>Antonius Wrancius Joanni Zalancino (1540-10-12), versio electronica</title>
+            <author ref="http://www.wikidata.org/entity/Q512372" xml:id="AV">
+               <persName xml:lang="hr"><ref target="http://www.wikidata.org/entity/Q512372">Vrančić, Antun</ref></persName>
+               <date>1504-1573</date>
+            </author>
+            <editor ref="http://www.wikidata.org/entity/Q114878204">
+               <persName xml:id="NJ">
+                  <ref type="wikidata" target="http://www.wikidata.org/entity/Q114878204">Neven Jovanović</ref>
+               </persName>
+            </editor>
+            <editor ref="http://www.wikidata.org/entity/Q1294312">
+               <persName xml:id="Sz">
+                  <ref target="http://www.wikidata.org/entity/Q1294312">László Szalay</ref>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Hanc editionem electronicam curavit</resp>
+               <persName ref="#NJ">
+                  <ref type="wikidata" target="http://www.wikidata.org/entity/Q114878204">Neven Jovanović</ref>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <p>Izdanje prema autografu (2025).</p>
+         </editionStmt>
+         <extent ana="B">Mg:B Verborum TKTK</extent>
+         <publicationStmt>
+            <p>elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni
+            projekt na <orgName>
+                  <ref type="viaf" target="124389134">Filozofskom fakultetu Sveučilišta u Zagrebu</ref>
+               </orgName>, <placeName ref="3186886">Zagreb</placeName>
+            Hrvatska.  <date when="2025-08">Kolovoz 2025</date>.</p>
+            <p ana="licence">
+               <ptr target="https://creativecommons.org/publicdomain/zero/1.0/"/> The Creative
+               Commons CC0 1.0 DEED CC0 1.0 Universal Licence applies to this document. The licence
+               was added on August 17, 2025. </p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="repo" ana="digital">Digitalna verzija: CroALa</bibl>
+            <bibl>
+               
+               <note>IV. id. Octobris MDXL. Albae Juliae Transsylvanae. MS: OSZK 1681/1 (autographus)</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc xml:id="verantiusazalancino1540-10-12">
+         <settingDesc>
+            <place ana="origin">
+               <placeName ref="http://www.wikidata.org/entity/Q174665">Alba Iulia</placeName>
+            </place>
+         </settingDesc>
+         <particDesc>
+            <person role="sender">
+               <persName ref="http://www.wikidata.org/entity/Q512372">Vrančić, Antun</persName>
+            </person>
+            <person role="recipient">
+               <persName>Ioannes Zalancinus</persName>
+               <floruit>1527-1557</floruit>
+               <state>
+                  <p>Szalánczy János (16. sz.): a török elől Bács megyéből Erdélybe menekült főnemes. 
+                     1527-ben a havasalföldi vajda secretáriusa. 
+                     1535-ben János király híve. Izabella kir.-né tanácsosa. 
+                     1543, 1550 és 1557-ben portai rk. követ.</p>
+               </state>
+            </person>
+         </particDesc>
+         <langUsage>
+            <language ident="lat" xml:lang="hrv">latinski</language>
+         </langUsage>
+         <creation>
+            <date when="1540-10-12" period="15xx_2_third">1540-10-12</date>
+            <placeName ref="http://www.wikidata.org/entity/Q174665">Alba Iulia</placeName>
+         </creation>
+         <textClass>
+            <keywords scheme="typus">
+               <term>prosa</term>
+            </keywords>
+            <keywords scheme="aetas">
+               <term>Litterae renatae (1400-1600)</term>
+               <term>Saeculum 16 (1501-1600)</term>
+               <term>1501-1550</term>
+            </keywords>
+            <keywords scheme="genre">
+               <term>prosa oratio - epistula</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <persName ref="#NJ">
+               <ref type="wikidata" target="http://www.wikidata.org/entity/Q114878204">Neven
+                  Jovanović</ref>
+            </persName>
+            <date when="2025-08-17">2025-08-17</date>. 
+            Prvo samostalno izdanje kao CroALa TEI.
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+            <div type="prosa-epistula" corresp="#verantiusazalancino1540-10-12">
+               <opener>Antonius Wrancius Joanni <choice resp="#AV"><corr>Zalancino</corr> <orig>Zalanzino</orig></choice> <choice><abbr>S.</abbr> <expan>salutem</expan></choice></opener>
+               <p> 
+                  
+                     
+                     Gurgites, in quos regnum hoc incidit et misere absorberi <sic resp="#AV">cepit</sic>, 
+                  scire te et videre non dubito. Eo enim res Transsylvanae nunc devenerunt, tot vaivodis, 
+                  capitaneis ac dominis subjectae, ut profecto etiam sapientissimis viris opportuna consilia 
+                  capere, quid agere, quo se vertere, optare ne magis mori an vivere debeant, difficile sit. 
+                  Sed tamen ego sicut semper sincera amicitia abs te sum prosequutus, ita nunc maxime eam 
+                  apud me <del resp="#AV">me</del> re ipsa auxisti et confirmasti, quod colonos meos tibi 
+                  vicinos, nuper a libidine praedatorum conservasti. Equidem immortales ago tibi gratias, 
+                  relaturus cumulatissimas, si his calamitatibus non exstinguemur. Id in me officii, in 
+                  illos beneficii ut in posterum quoque conferas, vehementer rogo. In memorem amicum conferes 
+                  quicquid per te unquam commodi accepero. Quod ad nova attinet. Vulgatur apud nos, caesarem 
+                  Turcarum proceribus Hungariae significasse, neminem se velle alium regem in Hungaria, quam 
+                  Joannis regis filium, jussisseque ut illi ex primatibus quatuor tutores constituant, ac si 
+                  puero mors contigerit, ut unum ex iis <num value="4">IIII.</num> 
+                  <choice resp="#AV"><orig>caeteros</orig> <corr>caeterisque</corr></choice> ad coronam aptissimum, 
+                  pro regni more, consilio atque unanimi consensu eligant, <sic resp="#AV">nollens</sic> ut unquam 
+                  genus <sic resp="#AV">Alemannium</sic> <sic resp="#AV">scaeptris</sic> Hungariae ac nostrae gentis 
+                  dominatione potiatur. Audivimus etiam, Valentinum Turcum creatum esse in regni gubernatorem 
+                  praecipuum, quod maturo et non poenitendo consilio multis factum videtur, quum vir sit bellicosus 
+                  et liberalis et nationis suae summus amator ; sed non affirmanter constat. 
+                  Archiepiscopus vero Collocensis Franciscus Fregepanus, Petrus Perennius, Franciscus Bebeek, 
+                  Stephanus Raskay et Sigismundus ac Melchior Balassa fratres, partium Ferdinandi regis studiosos 
+                  <sic resp="#AV">se se</sic> esse manifeste detexerunt: neque interfuerunt comitiis ab universo 
+                  regno in campo Rakos celebratis. Quare ajunt ipsum Valentinum jam bombardas apparasse, et gentes 
+                  in aciem produxisse, oppugnaturum inprimis Stephanum Raskay, uti Budae magis proximum, dehinc 
+                  <sic resp="#AV">ceteros</sic>, quos memoravi. Quid veritas habeat non satis scio. Deum immortalem 
+                  ac Mariam virginem sempiternam, amplissimi hujus regni custodem ac vindicem exoremus, ut 
+                  misereantur nostri et haec monstra Hungariae, quae publicae unitati ac paci adversantur, exstinguat. 
+                  Ecce Hungaros nec <sic resp="#AV">Alemani</sic> per se, nec Turcae, nec alii quipiam hostes 
+                  bello premunt, immo ipse Turca etiam defendit et conservare nititur, soli ipsi Hungari Alemannis 
+                  iuncti, in se ipsos saeviunt, sibi <sic resp="#AV">ipsis</sic> bella excogitant et indicunt.
+                        Et quid restat, mi Joannes, quam ut Deum in se exstimulent atque arment, et suapte voluntate 
+                        <choice resp="#AV"><orig>alienigeno</orig> <corr>peregrino</corr></choice> domino in servitutem 
+                  sese dedant? Non praeteribo illud, quod scitu dignum existimo. Adjecerunt nuncii, caesarem 
+                  Turcarum diu dubitasse, an Joannes rex filium reliquisset, quod ei opera Mailadi persuasum 
+                  fuisse creditur, eamque ob rem Budam oratorem misisse, ut id dubii animo eximeret. 
+                  Cui <sic resp="#AV">ingredienti</sic> Budensem regiam, ferunt, reginam lugubrem ac moestam suis 
+                  ulnis puerum obtulisse, et Joannis filium caesaris orphanum ac pupillum esse, non sine 
+                  valido fletu protulisse , eundemque, recluso <sic resp="#AV">mammillare</sic>(!) et exerta papilla, 
+                  coram lactavisse ; oratorem vero vix retentis lacrimis, <add resp="#AV">genu procubuisse et pedibus pueri 
+                     osculo exceptis, reginam</add> bono animo esse jussisse, <del resp="#AV">et</del> appositaque 
+                  <add resp="#AV">infantis</add> pectori <del resp="#AV">pueri</del> <add resp="#AV">ei</add> dextera, 
+                  verbo Solymani caesaris <del resp="#AV">potentissimi</del> juravisse, quod idem caesar hunc, hunc, 
+                  <add resp="#AV">inquiens</add> puerum, Joannis regis filium Hungariae regem fecisset, et 
+                  in <sic resp="#AV">protectione sua</sic> accepisset, quodque neminem alium Hungaris, quamdiu 
+                  viveret, regnare ac praeesse vellet. O miram Turcae cum bonitate clementiam ! O Dei in Hungaros 
+                  amorem stupendum et non intellectum ! O Hungarorum inauditam salutis ac boni sui ignorationem, 
+                  qui aeque sibi ac principibus suis inimici sunt, et quibus externi hostes parcunt, et compatiuntur, 
+                  ipsi oderunt et persequuntur, melioremque ac aequiorem Turcam in se habent, quam se ipsos.
+               </p>
+               <closer>Vale. <dateline><date>IV. id. Octobris MDXL.</date> Albae Juliae Transsylvanae.</dateline></closer>
+            </div>
+         </body>
+   </text>
+</TEI>

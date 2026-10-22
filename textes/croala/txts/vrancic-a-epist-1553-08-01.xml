@@ -1,0 +1,126 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc xml:id="vrancic-a-epist-1553-08-01">
+         <titleStmt>
+            <title>Petro Francisco Parrhisio (1553-08-01), versio electronica</title>
+            <author ref="http://www.wikidata.org/entity/Q512372">
+               <persName xml:lang="hr">Vrančić, Antun</persName>
+               <date>1504-1573</date>
+            </author>
+            <editor ref="http://www.wikidata.org/entity/Q1294312">
+               <persName>
+                  <ref target="http://www.wikidata.org/entity/Q1294312">László Szalay</ref>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Hanc editionem electronicam curavit</resp>
+               <persName xml:id="NJ">
+                  <ref type="wikidata" target="http://www.wikidata.org/entity/Q114878204">Neven Jovanović</ref>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <p>Digitalizat kasnijeg izdanja (1857).</p>
+         </editionStmt>
+         <extent ana="B">Mg:B Verborum 137</extent>
+         <publicationStmt>
+            <p>elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni
+            projekt na <orgName>
+                  <ref type="viaf" target="124389134">Filozofskom fakultetu Sveučilišta u Zagrebu</ref>
+               </orgName>, <placeName ref="3186886">Zagreb</placeName>
+            Hrvatska.  <date when="2024-01">Siječnja 2024</date>.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="repo" ana="digital">Digitalna verzija: CroALa</bibl>
+            <bibl>Verancsics, Antal. Verancsics Antal összes munkái Történelmi dolgozatok deák
+                    nyelven. XXX (vol. 4),
+                    MHH IV, nr. XXVIII.
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc xml:id="verantiusaparrhysius15530801">
+         <abstract>
+            <p/>
+         </abstract>
+         <settingDesc>
+            <place ana="origin">
+               <placeName ref="https://www.wikidata.org/wiki/Q3711">Belgradum</placeName>
+            </place>
+            <place ana="destination" cert="medium">
+               <placeName ref="https://www.wikidata.org/wiki/Q1722">Dubrovnik</placeName>
+            </place>
+         </settingDesc>
+         <particDesc>
+            <person role="sender">
+               <persName ref="vranc01">Vrančić, Antun</persName>
+            </person>
+            <person role="recipient">
+               <persName>Parrhisius, Petrus Franciscus</persName>
+            </person>
+         </particDesc>
+         <langUsage>
+            <language ident="lat" xml:lang="hrv">latinski</language>
+         </langUsage>
+         <creation>
+            <date when="1553-08-12" period="15xx_2_third">1553-08-01</date>
+            <placeName ref="https://www.wikidata.org/wiki/Q3711">Belgradum</placeName>
+         </creation>
+         <textClass>
+            <keywords scheme="typus">
+               <term>prosa</term>
+            </keywords>
+            <keywords scheme="aetas">
+               <term>Litterae renatae (1400-1600)</term>
+               <term>Saeculum 16 (1501-1600)</term>
+               <term>1501-1550</term>
+            </keywords>
+            <keywords scheme="genre">
+               <term>prosa oratio - epistula</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <persName ref="#NJ">
+               <ref type="wikidata" target="http://www.wikidata.org/entity/Q114878204">Neven
+                  Jovanović</ref>
+            </persName>
+            <date when="2023-01-07">2023-01-07</date>. 
+            Prvo izdanje kao CroALa TEI.
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="prosa-epistula" corresp="#verantiusaparrhysius15530801">
+            <opener>Antonius Verancius Petro Francisco Parrhisio suo <abbr>S.</abbr></opener>
+            <p> Proficiscenti mihi cum legatione regis mei ad principem Turcarum magnis de rebus, ut
+               quae genti nostrae quietem et otium a bello conciliare debebunt, simodo ex sententia
+               successerit, incidi in quosdam istius nobilissimae urbis cives, qui se in patriam
+               profecturos dicerent. Quare adhuc memor, et maxime etiam videndi tui cupidus, nolui
+               praetermittere hoc scribendi ad te officium, quo scires, qualem et quantam memoriam
+               tui retineam, esto quod diu jam inter nos cessat conspectus mutuus, cessant nuncii,
+               et epistolae silent, utque vel solam salutem tibi precarer, meque etiamnum erga te
+               declararem, quem semper alias expertus fueris, quando eramus contubernales et
+               consortes tenuioris illius conditionis nostrae, qua apud Philippum Trivulcium,
+               optimum quidem certe nobis herum et praesulem conjuncti degebamus. Precata itaque, mi
+               Petre Francisce, salute quam plurima et quam diutissima, meque oblato ad tua vota
+               omnia, restat, ut te de statu meo faciam certiorem. Rex meus ascivit me in senatum
+               suum, et in episcoporum ordinem promovit, auctoque etiam abbatia Pornensi et
+               restitutione praepositurae Transsylvaniensis, oratorem quoque misit ad Turcarum
+               summum principem magno et honesto cum apparatu. Nec de meis rebus ipse plura, Tu, ut
+               semper facere solitus es, tecum de hiis mihi gratulator, aut si etiam epistola voles,
+               hoc quoque solitum feceris, mihique tuis litteris gratius nihil erit, postquam te non
+               consequor. Obiisse nostrum Idinam, dolui sane dolentissime, ut de morte fratris
+               debuissem. Verum senescimus, Petre Francisce, senescimus et ad metam omnes
+               properamus. Quiescat igitur noster Idina in pace et beatitudine Christi sui. Nos, dum
+               licet, vivamus, et amemus mutuo.</p>
+            <closer>
+               <salute>Vale.</salute>
+               <dateline>
+                  <date when="1553-08-01">Prima Augusti, 1553.</date> Belgradi.</dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,150 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc xml:id="vrancic-a-epist-1534-11-06">
+         <titleStmt>
+            <title>Antonius Wrancius Gulielmo Belay (1534-11-06), versio electronica</title>
+            <author ref="http://www.wikidata.org/entity/Q512372">
+               <persName xml:lang="hr">Vrančić, Antun</persName>
+               <date>1504-1573</date>
+            </author>
+            <editor>
+               <persName>
+                  Anđela Maloča
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Hanc editionem electronicam curavit</resp>
+               <persName ref="NJ">
+                  <ref type="wikidata" target="http://www.wikidata.org/entity/Q114878204">Neven
+                     Jovanović</ref>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <p>Izdanje prema autografu (2023).
+               <quote>Za prijepis riječi tamen, superuacuum i fraterne
+                  nismo sasvim sigurni te se u prijepisu pisma uz njih nalazi upitnik. Originalno bilježenje
+                  interpunkcijskih znakova u prijepisu pisma većinski je zadržano, uz par primjera dodavanja i
+                  izostavljanja zareza. Prijepis u pisanju velikog i malog slova uz par izuzetaka (npr. Avunculi,
+                  Regiis, Latius) prati izvorni tekst. Grafija riječi koja odstupa od uobičajene (npr. nunciare,
+                  nunciauit, negocia, negocii) zadržana je i bilježenje diftonga ae poštovano je (npr. optatę meę) i
+                  prilagođeno (npr. suae maiestatis, innocentiae suae). Vrančićevo nedosljedno pisanje riječi
+                  aemulus (aemuli / emulorum / aemulorum) zadržano je u prijepisu.</quote>
+            </p>
+         </editionStmt>
+         <extent ana="B">Mg:B Verborum TKTK</extent>
+         <publicationStmt>
+            <p>elektronička verzija: Digitalizacija hrvatskih latinista, znanstveni projekt na <orgName>
+                  <ref type="viaf" target="124389134">Filozofskom fakultetu Sveučilišta u
+                     Zagrebu</ref>
+               </orgName>, <placeName ref="3186886">Zagreb</placeName> Hrvatska. <date
+                  when="2025-08">Kolovoza 2025</date>.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="repo" ana="digital">Digitalna verzija: CroALa</bibl>
+            <bibl>Maloča, Anđela. "Neobjavljeno pismo Antuna Vrančića iz 1534. godine." Diplomski rad, Sveučilište u Zagrebu, Filozofski fakultet, 2023. <ptr target="https://urn.nsk.hr/urn:nbn:hr:131:017967"/></bibl>
+            <bibl>Autograf u Francuskoj nacionalnoj knjižnici, Dupuy 264</bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc xml:id="verantiusabellay1534-11-06">
+         <abstract>
+            <p/>
+         </abstract>
+         <settingDesc>
+            <place ana="origin">
+               <placeName ref="http://www.wikidata.org/entity/Q213349">Loches</placeName>
+            </place>
+         </settingDesc>
+         <particDesc>
+            <person role="sender">
+               <persName ref="http://www.wikidata.org/entity/Q512372">Vrančić, Antun</persName>
+            </person>
+            <person role="recipient">
+               <persName ref="http://www.wikidata.org/entity/Q2902778">Guillaume du Bellay</persName>
+            </person>
+         </particDesc>
+         <langUsage>
+            <language ident="lat" xml:lang="hrv">latinski</language>
+         </langUsage>
+         <creation>
+            <date when="1534-11-06" period="15xx_2_third">1534-11-06</date>
+            <placeName ref="http://www.wikidata.org/entity/Q213349">Loches</placeName>
+         </creation>
+         <textClass>
+            <keywords scheme="typus">
+               <term>prosa</term>
+            </keywords>
+            <keywords scheme="aetas">
+               <term>Litterae renatae (1400-1600)</term>
+               <term>Saeculum 16 (1501-1600)</term>
+               <term>1501-1550</term>
+            </keywords>
+            <keywords scheme="genre">
+               <term>prosa oratio - epistula</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <persName ref="#NJ">
+               <ref type="wikidata" target="http://www.wikidata.org/entity/Q114878204">Neven
+                  Jovanović</ref>
+            </persName>
+            <date when="2025-08-12">2025-08-12</date>. Prvo izdanje kao CroALa TEI. </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="prosa-epistula" corresp="#verantiusabellay1534-11-06">
+            <opener>Magnifice Domine mihi summe obseruande salutem, et mei commendatissime.</opener>
+            <p rend="justify"> Serenissimus Ioannes dominus meus clarissimus intelligit ex domino
+               Broderico, Statilio et Lasky longiore quidem relatione quanto amore, affectuque, ac
+               favore et Reuerendissimus Dominus frater suus Parisinus et tua Dominatio Magnifica
+               olim erga eos, dum hic diversis temporibus legatione fungerentur, ob respectum <unclear>tamen</unclear>
+               suae Maiestatis, extiterit. Statuit apud se vestras Dominationes pro singularibus
+               amicis habere velle, et quibus quamplurimum velit imposterum fidere, et suarum rerum
+               credere, modo id ipsi non respuant. Quare cum hoc tempore misisset me sua Maiestas ad
+               Regem Christianum voluit etiam ad Vestram Dominationem scribere, et nonnulla
+               nunciare. Salutat igitur primum Tuam Dominationem Magnificam, deinde plurimum se illi
+               commendat, ac negocia sua, rogans ut iis pro tempore, atque loco velit favere, et
+               adiumento esse. Vicissim vero et sua Maiestas offert eidem amicitiam suam et regium
+               affectum. Sed quoniam absens est Tua Dominatio Magnifica, non dubito quin
+               Reuerendissimus Dominus frater suus, quem ego et nunc, et imposterum uenerabor et
+               colam, tum pro se, tum pro Dominatione Tua Magnifica egregiam tanto Regi nauabit
+               operam, prout iam incepit diligentissime. In quo profecto singularem prae ceteris
+               spem optatę meę expeditionis reposui. Cui rogo velit me per litteras commendare,
+               tametsi <unclear>superuacuum</unclear>, cum suam Reuerendissimam Dominationem propensissimo animo
+               erga regem meum esse uideo. Ceterum domini Statilii avunculi mei litteras una cum
+               regiis ad Tuam Dominationem Magnificam misi, qui singulariter et <unclear>fraterne</unclear> utrique
+                Belayorum se commendat, dicitque multum sese debere eorum amicitiae ob mores, et
+               integritatem vestrarum Dominationum. Nunciauit autem aliqua, quae etiam
+               Reuerendissimo Domino fratri suo latius dixi, ut nec sua, nec tua Dominatio velit
+               fidem adhibere, iis, quae aemuli quidam sui de eo conati sunt hic in Francia
+               persuadere, et odiosum apud et Christianissimum et Serenissimam Reginam ac Regem
+               Navarrae reddere. Ea autem talia sunt. Quidam ex nostris tractarunt ob privatum
+               commodum de collocanda Serenissima Domina Helisabet sorore Serenissimi Regis Navarrae
+               Ioanni Regi domino meo clarissimo sine tamen scitu suae maiestatis. Quod cum non
+               fuisset sequutum, erroris sui culpam in Statilium reiecerunt, dicentes eum id
+               matrimonium diremisse. Qui quidem iurat per immortalem Deum se nunquam hoc
+               improbasse, nec loquutum fuisse, quae illi obiciunt, neque effecisse ut rex illud non
+               contraheret. Immo dicit se omnia bona in huiusmodi matrimonii commendationem
+               praedicasse, et amicitiam Christianissimi Regis conservandam suasisse, quod,
+               quandocumque opportunum fuerit, pluribus testibus, potissimum vero eo ipso Rege suo,
+               in confusionem suorum emulorum comprobabit. Igitur summopere rogat Tuam Dominationem
+               Magnificam ut talibus in se coniectis sceleribus non credat, sed ubi necessarium
+               fuerit intuitu tum amicitiae, tum innocentiae suae defendat. Cui quidem immerito
+               tantum negocii aemulorum malignitas in Francia exhibuit, quod quantum in ipso fuerit
+               delendum probitate sua curabit, magno cum dedecore eorum. Et Dominationem Tuam
+               Magnificam diu bene valere exoptat. </p>
+            <closer><dateline>Ex Lochiis <date when="1534-11-06">6. Nouembris
+                  1534.</date>.</dateline>
+               <signed>Seruitor Antonius Wrancius praepositus Budensis, secretarius Regius</signed>
+               <address>
+                  <addrLine>Magnifico Domino Gulielmo Belay, domino de Lange, et quae sequuntur;
+                     mihi semper observando</addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

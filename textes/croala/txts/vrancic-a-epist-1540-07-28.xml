@@ -1,0 +1,134 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc xml:id="vrancic-a-epist-1540-07-28">
+         <titleStmt>
+            <title>Antonius Wrancius Petro Porembio (1540-07-28), versio electronica</title>
+            <author ref="http://www.wikidata.org/entity/Q512372" xml:id="AV">
+               <persName xml:lang="hr"><ref target="http://www.wikidata.org/entity/Q512372">Vrančić, Antun</ref></persName>
+               <date>1504-1573</date>
+            </author>
+            <editor ref="http://www.wikidata.org/entity/Q114878204">
+               <persName xml:id="NJ">
+                  <ref type="wikidata" target="http://www.wikidata.org/entity/Q114878204">Neven Jovanović</ref>
+               </persName>
+            </editor>
+            <editor ref="http://www.wikidata.org/entity/Q1294312">
+               <persName xml:id="Sz">
+                  <ref target="http://www.wikidata.org/entity/Q1294312">László Szalay</ref>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Hanc editionem electronicam curavit</resp>
+               <persName ref="#NJ">
+                  <ref type="wikidata" target="http://www.wikidata.org/entity/Q114878204">Neven Jovanović</ref>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <p>Izdanje prema autografu (2025).</p>
+         </editionStmt>
+         <extent ana="B">Mg:B Verborum TKTK</extent>
+         <publicationStmt>
+            <p>elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni
+            projekt na <orgName>
+                  <ref type="viaf" target="124389134">Filozofskom fakultetu Sveučilišta u Zagrebu</ref>
+               </orgName>, <placeName ref="3186886">Zagreb</placeName>
+            Hrvatska.  <date when="2025-08">Kolovoz 2025</date>.</p>
+            <p ana="licence">
+               <ptr target="https://creativecommons.org/publicdomain/zero/1.0/"/> The Creative
+               Commons CC0 1.0 DEED CC0 1.0 Universal Licence applies to this document. The licence
+               was added on August 16, 2025. </p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="repo" ana="digital">Digitalna verzija: CroALa</bibl>
+            <bibl>
+               
+               <note>Albae Juliae Transsylvanae V. kal. Augusti MDXL. MS: OSZK 1681/1 (mutilum)</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc xml:id="verantiusaporembio1540-07-28">
+         <settingDesc>
+            <place ana="origin">
+               <placeName ref="http://www.wikidata.org/entity/Q174665">Alba Iulia</placeName>
+            </place>
+         </settingDesc>
+         <particDesc>
+            <person role="sender">
+               <persName ref="http://www.wikidata.org/entity/Q512372">Vrančić, Antun</persName>
+            </person>
+            <person role="recipient">
+               <persName ref="http://www.wikidata.org/entity/Q42392777">Petrus Porembius</persName>
+            </person>
+         </particDesc>
+         <langUsage>
+            <language ident="lat" xml:lang="hrv">latinski</language>
+         </langUsage>
+         <creation>
+            <date when="1540-07-28" period="15xx_2_third">1540-07-28</date>
+            <placeName ref="http://www.wikidata.org/entity/Q174665">Alba Iulia</placeName>
+         </creation>
+         <textClass>
+            <keywords scheme="typus">
+               <term>prosa</term>
+            </keywords>
+            <keywords scheme="aetas">
+               <term>Litterae renatae (1400-1600)</term>
+               <term>Saeculum 16 (1501-1600)</term>
+               <term>1501-1550</term>
+            </keywords>
+            <keywords scheme="genre">
+               <term>prosa oratio - epistula</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <persName ref="#NJ">
+               <ref type="wikidata" target="http://www.wikidata.org/entity/Q114878204">Neven
+                  Jovanović</ref>
+            </persName>
+            <date when="2025-08-16">2025-08-16</date>. 
+            Prvo samostalno izdanje kao CroALa TEI.
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+            <div type="prosa-epistula" corresp="#verantiusaporembio1540-07-28">
+               <opener>Antonius Wrancius Petro Porembio <choice><abbr>S.</abbr> <expan>salutem</expan></choice></opener>
+               <p> 
+                  Obitum domini regis nostri Joannis, non existimo multis verbis memorandum, 
+                  ne identidem novis, hisque mutuis doloribus conficiamur. Mors certe ipsius et 
+                  nobis et huic regno afflictissimo multorum malorum seriem renovavit, utinam 
+                  extremam <sic resp="#AV">pernitiem</sic> non attulerit, ad quam nonnulli jam 
+                  rerum novarum cupidi, plus nimio videntur esse proclives. Saltem Deus illum, 
+                  vel gratia reginae consortis suae voluisset adhuc superstitem, si nos propter 
+                  scelera <sic resp="#AV">nostra</sic> non meruimus. Ejus viduitati tam repentinae 
+                  aeque, et aliquid magis dolendum est, quae pro sua bonitate, prudentia, et in 
+                  omnes ordines mira mansuetudine diutius laetari ac maritali societate frui digna 
+                  fuerat. Sed postquam fatis ita visum est, virtus ac levamen summum erit, 
+                  aequo animo ferre divinam voluntatem, et in 
+                  <choice resp="#AV"><orig>vobis</orig><corr>nobis</corr></choice> naturae humanae agnoscere 
+                  conditionem. <choice resp="#AV"><orig>Humano siquidem</orig> <corr>Cuius quidem</corr> <corr><del>igitur</del></corr></choice> 
+                  dolori a ratione <choice resp="#AV"><orig>impetremus consolationem</orig><corr>impetranda est consolatio</corr></choice>, 
+                  quam utique ipsa etiam dies est allatura, succedente novi atque optati haeredis <sic resp="#AV">laeticia</sic>. 
+                  De me quod <add resp="#Sz">scribendum fuit, hoc est: ut te rogem summopere, velis negotium meum istic, 
+                  quod non admodum grave est, suscipere, posteaquam ipse absum. 
+                  Magna et singulari fiducia id exigo, tamquam ab homine omnium amicissimo. 
+                  Amisisse nos dominum ac regem nostrum optimum, quo uno omnes stabamus, servabamur, florebamus, 
+                  cernis; et cui, mi Petre, tam nos quam omne hoc regnum inservire, in quem studia conferre, cui 
+                  fidem addicere, cui dare nomina magis debeamus, quam ejus filio, profecto nullum video ; 
+                  isque animus meus est, ut eum pro Joanne regem accipiam, colam, observem. Nactus itaque 
+                  opportunitatem, ita ut molestus non sis, quaeso accedas ad reginam, et ipsi, redditis 
+                  his meis litteris, fidem quoque ac servitutem meam subjicias ; meque, ubicunque gentium 
+                  fuero, nutui ac voluntati ejus semper paratum esse, et ipsius imperata avide exspectare 
+                  ac praesto illic fore, ubi jusserit, dices et recte valeas. 
+                  
+                  Albae Juliae Transsylvanae V. kal. Augusti MDXL.</add>
+                     
+               </p>
+            </div>
+         </body>
+   </text>
+</TEI>
