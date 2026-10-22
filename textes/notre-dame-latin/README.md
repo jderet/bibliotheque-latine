@@ -1,0 +1,342 @@
+# Notre Dame Digitized Latin Collection
+
+**Creators**: Stephen Bothwell, Kaitlin Stephan, Hildegund Müller, and David Chiang (University of Notre Dame)
+
+**Maintainer**: Stephen Bothwell
+
+## Summary
+
+This repository, titled the Notre Dame Digitized Latin Collection (ND-DLC), contains a set of Latin texts which were digitized at the University of Notre Dame. 
+These works span authors from the Classical, Late, and Medieval periods of Latin, 
+and they were digitized in pursuit of questions about prosody across the eras of Latin. 
+
+We created these digitized texts through the following process:
+1. We retrieved PDF versions of each text that we digitized, 
+and we ensured that we had the rights to use and release data from the given textual editions.
+2. We split each PDF into PNGs using `pdf2image` library (available [here](https://github.com/Belval/pdf2image)).
+3. We employed the [Tesseract OCR](https://github.com/tesseract-ocr/tesseract) tool with training data (tessdata) for Latin and Ancient Greek via the `pytesseract` library (available [here](https://github.com/madmaze/pytesseract)).
+4. We uploaded the resulting hOCR files to a locally-hosted version of the 
+*Lace* post-correction tool (available [here](https://github.com/brobertson/Lace2)).
+5. We post-corrected the OCR results in Lace for the *main text* (and not notes or critical apparati), and we obtained EpiDoc-styled XML documents from Lace with our corrections.
+6. We ran an additional Latin spellchecker and performed a few manual checks to root out extraneous text such as marginal numbers, to correct badly-ordered text, or to address other errors.
+7. We applied the [Hook](https://github.com/Capitains/HookTest) testing suite via its [Docker container](https://github.com/Capitains/docker-hooktest) to ensure our documents were EpiDoc- and CTS-compliant, and we altered our documents until all tests passed.
+
+Through this process, we created the documents presented in this repository. 
+This repository is meant to be a public front-end for the outputs of our correction procedure. 
+Other stages of the correction process, as well as code for the various stages of our process above, are available in other repositories.
+
+### Use
+
+We sourced the PDFs to construct our digital editions from the [Austrian Academy of Sciences Press](https://www.oeaw.ac.at/en/forschung/verlag/austrian-academy-of-sciences-press) and [Hathitrust](https://www.hathitrust.org/). 
+We provide metadata in and accompanying each digital edition, following the CapiTainS implementation of the Canonical Text Services (CTS), to cite each source PDF.
+- The Austrian Academy of Sciences Press has kindly granted us permission to release data based on their PDFs.
+- All Hathitrust PDFs that we used are in the public domain in the United States. 
+In addition, Schmitt's edition of Palladius' *Opus Agriculturae* is in the public domain internationally. 
+All texts were digitized by Google, but this has no bearing on the release of texts here, as we do not redistribute the images or OCR from their PDFs.
+We also did not make use of their OCR in our digitization procedure.
+
+We release all our digital editions under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license](https://creativecommons.org/licenses/by-nc-sa/4.0/). 
+Our repository contains the text of this license in its LICENSE file.
+
+## Contents
+
+This repository contains the following authors and texts (each ordered by URI):
+- Ambrose of Milan (stoa0022):
+  - *De Excessu Fratris* (stoa001)
+  - *De Fide* (stoa002)
+  - *De Mysteriis* (stoa003)
+  - *De Paenitentia* (stoa005)
+  - *De Abraham* (stoa018)
+  - *De Bono Mortis* (stoa020)
+  - *De Cain et Abel* (stoa021)
+  - *De Isaac vel Anima* (stoa033)
+  - *De Iacob* (stoa034)
+  - *De Ioseph* (stoa035)
+  - *De Noe* (stoa039)
+  - *De Obitu Theodosii* (stoa040)
+  - *De Obitu Valentiani* (stoa041)
+  - *De Paradiso* (stoa042)  
+  - *De Sacramentis* (stoa043)
+  - *Explanatio Symboli* (stoa050)
+  - *Exameron* (stoa054)
+- Pseudo-Apuleius Madaurensis (stoa0030p):
+  - *Asclepius* (stoa001)
+  - *Peri Hermeneias* (stoa002)
+- Tiberius Claudius Donatus (stoa0110a):
+  - *Interpretationes Vergilianae* (stoa002)
+- Quintus Ennius (phi0043):
+  - *Annales* (phi001)
+- Rutilius Taurus Aemilianus Palladius (stoa0218):
+  - *De Insitione* (stoa001)
+  - *Opus Agriculturae* (stoa002)
+- Giovanni Boccaccio (stoa0382):
+  - *Scripta Breviora* (stoa001)
+- John Calvin (stoa0380):
+  - *Commentaria Senecae "De Clementia"* (stoa001)
+- John of Salisbury (stoa0381):
+  - *Epistolae* (stoa001)
+- Theodosius II (stoa0279):
+  - *Leges Novellae* (stoa001)
+    - Theodosius II (stoa001; 1)
+    - Valentinian III (stoa001; 2)
+    - Majoran (stoa001; 3)
+    - Marcian (stoa001; 4)
+    - Severus (stoa001; 5)
+    - Anthemus (stoa001; 6)
+
+While most texts are completely digitized, the *Interpretationes Vergilianae* is only completed up through the first book (that is, of the *Aeneid*).
+
+## Contributing
+
+If errors persist in our digital editions, we would be glad to correct them!
+Please open an issue to start a conversation on the subject. 
+In your issue, note the document(s) and section(s) where the information presented is inaccurate.
+
+## Citations
+
+### Our Work
+
+[![DOI](https://zenodo.org/badge/914544414.svg)](https://doi.org/10.5281/zenodo.16995507)
+
+Alongside our Zenodo page, we will provide a citation for a whitepaper corresponding to this work once (hopefully) published.
+
+### Textual Sources
+
+Please see individual XML documents, as well as their accompanying `__cts__.xml` files, for source information on our source PDFs' editions.
+We also provide BibTeX citations for these texts below:
+
+```
+@book{ambroseSanctiAmbrosiiOpera1962a,
+  title = {{Sancti Ambrosii Opera. Pars prima, Qua continentur libri: Exameron; De Paradiso; De Cain et Abel; De Noe; De Abraham; De Isaac; De bono mortis}},
+  author = {{Ambrose}},
+  editor = {Schenkl, Karl},
+  year = {1962},
+  series = {{Corpus Scriptorum Ecclesiasticorum Latinorum}},
+  volume = {32.1},
+  publisher = {Johnson Reprint Corporation; F. Tempsky, F. Tempsky, G. Freytag},
+  address = {New York and London},
+  isbn = {978-3-7001-9104-9 3-7001-9104-9},
+  langid = {latin},
+  url = {https://verlag.oeaw.ac.at/en/product/sancti-ambrosii-opera-pars-prima-qua-continentur-libri-exameron-de-paradiso-de-cain-et-abel-de-noe-de-abraham-de-isaac-de-bono-mortis/602271?name=sancti-ambrosii-opera-pars-prima-qua-continentur-libri-exameron-de-paradiso-de-cain-et-abel-de-noe-de-abraham-de-isaac-de-bono-mortis&product_form=5060}
+}
+
+@book{ambroseSanctiAmbrosiiOpera1962b,
+  title = {{Sancti Ambrosii Opera. Pars altera, Qua continentur libri: De Iacob; De Ioseph; De patriarchis; De fuga saeculi; De interpellatione Iob et David; De apologia David; Apologia David altera; De Helia et ieiunio; De Nabuthae; De Tobia}},
+  author = {{Ambrose}},
+  editor = {Schenkl, Karl},
+  year = {1962},
+  series = {{Corpus Scriptorum Ecclesiasticorum Latinorum}},
+  volume = {32.2},
+  publisher = {Johnson Reprint Corporation; F. Tempsky, F. Tempsky, G. Freytag; Austrian Academy of Sciences Press},
+  address = {New York and London},
+  isbn = {978-3-7001-9105-6 3-7001-9105-7},
+  langid = {latin},
+  url = {https://verlag.oeaw.ac.at/en/product/sancti-ambrosii-opera-pars-altera-qua-continentur-libri-de-iacob-de-ioseph-de-patriarchis-de-fuga-saeculi-de-interpellatione-iob-et-david-de-apologia-david-apologia-david-altera-de-helia-et-ieiunio-de-nabuthae-de-tobia/600426?name=sancti-ambrosii-opera-pars-altera-qua-continentur-libri-de-iacob-de-ioseph-de-patriarchis-de-fuga-saeculi-de-interpellatione-iob-et-david-de-apologia-david-apologia-david-altera-de-helia-et-ieiunio-de-nabuthae-de-tobia&product_form=5106}
+}
+
+@book{ambroseSanctiAmbrosiiOpera1955,
+  title = {{Sancti Ambrosii Opera. Pars septima: Explanatio symboli. De sacramentis. De mysteriis. De paenitentia. De excessu fratris. De obitu Valentiniani. De obitu Theodosii.}},
+  shorttitle = {{Sancti Ambrosii Opera. Pars septima}},
+  author = {{Ambrose}},
+  editor = {Faller, Otto},
+  year = {1955},
+  series = {{Corpus Scriptorum Ecclesiasticorum Latinorum}},
+  volume = {73},
+  publisher = {Hoelder-Pichler-Tempsky},
+  address = {Vindobonae},
+  urldate = {2024-08-22},
+  langid = {latin},
+  annotation = {OCLC: 458437729},
+  url = {https://verlag.oeaw.ac.at/en/product/sancti-ambrosii-opera-pars-septima-explanatio-symboli-de-sacramentis-de-mysteriis-de-paenitentia-de-excessu-fratris-de-obitu-valentiniani-de-obitu-theodosii/601285?name=sancti-ambrosii-opera-pars-septima-explanatio-symboli-de-sacramentis-de-mysteriis-de-paenitentia-de-excessu-fratris-de-obitu-valentiniani-de-obitu-theodosii&product_form=341}
+}
+
+@book{ambroseSanctiAmbrosiiOpera1962,
+  title = {{Sancti Ambrosii Opera. Pars octava, De fide: ad Gratianum Augustum}},
+  author = {{Ambrose}},
+  editor = {Faller, Otto},
+  year = {1962},
+  series = {{Corpus Scriptorum Ecclesiasticorum Latinorum}},
+  volume = {78},
+  publisher = {Hoelder-Pichler-Tempsky},
+  address = {Vindobonae},
+  langid = {latin},
+  url = {https://verlag.oeaw.ac.at/en/product/sancti-ambrosii-opera-pars-octava-de-fide-ad-gratianum-augustum/99200781?name=sancti-ambrosii-opera-pars-octava-de-fide-ad-gratianum-augustum&product_form=5082}
+}
+
+@book{apuleiusApuleiOperaQuae1908,
+  title = {Apulei {{Opera}} Quae Supersunt.},
+  author = {{Apuleius}},
+  editor = {Thomas, Paul},
+  year = {1908},
+  series = {Works},
+  publisher = {B. G. Teubner},
+  address = {Leipzig},
+  urldate = {2025-04-07},
+  url = {https://babel.hathitrust.org/cgi/pt?id=inu.30000134550247&seq=1}
+}
+
+@book{boccaccioOpereLatineMinori1928,
+  title = {Opere Latine Minori ({{Buccolicum}} Carmen, Carminum et Epistolarum Quae Supersunt, Scripta Breviora)},
+  author = {Boccaccio, Giovanni},
+  editor = {Mass{\`e}ra, Aldo Francesco.},
+  year = {1928},
+  series = {G. {{Boccaccio}}. {{Opere}}},
+  volume = {9},
+  publisher = {G. Laterza \& Figli},
+  address = {Bari},
+  url = {https://babel.hathitrust.org/cgi/pt?id=mdp.39015049187936&seq=9}
+}
+
+@book{calvinIoannisCalviniOpera1866,
+  title = {{Ioannis Calvini opera quae supersunt omnia}},
+  author = {Calvin, Jean},
+  editor = {Baum, Johann Wilhelm and Cunitz, Ed and Reuss, Eduard},
+  year = {1866},
+  series = {{Corpus reformatorum}},
+  volume = {5},
+  publisher = {{C. A. Schwetschke and Son}},
+  address = {Braunschweig},
+  langid = {latin},
+  url = {https://babel.hathitrust.org/cgi/pt?id=hvd.32044014808612&seq=11}
+}
+
+@book{donatusTiberiClaudiDonati1905,
+  title = {{Tiberi Claudi Donati ad Tiberium Claudium Maximum Donatianum filium suum interpretationes Vergilianae}},
+  author = {Donatus, Tiberius Claudius},
+  editor = {Georges, Heinrich},
+  year = {1905/1906},
+  series = {{Bibliotheca scriptorum Graecorum et Romanorum Teubneriana}},
+  publisher = {B. G. Teubner},
+  address = {Leipzig},
+  langid = {latin},
+  url = {https://babel.hathitrust.org/cgi/pt?id=coo.31924006305613&seq=3}
+}
+
+@book{enniusEnnianaePoesisReliquiae1903,
+  title = {{Ennianae poesis reliquiae iteratis curis recensuit Iohannes Vahlen.}},
+  author = {Ennius, Quintus},
+  editor = {Vahlen, Johannes},
+  year = {1903},
+  publisher = {B. G. Teubner},
+  address = {Leipzig},
+  urldate = {2025-04-07},
+  langid = {latin},
+  url = {https://babel.hathitrust.org/cgi/pt?id=mdp.39015005168292&seq=5}
+}
+
+@book{johnofsalisburyOperaOmnia1848,
+  title = {{Opera omnia}},
+  author = {{John of Salisbury} and Giles, J. A.},
+  year = {1848},
+  series = {{Patres Ecclesiae Anglicanae}},
+  volume = {1},
+  publisher = {J. H. Parker},
+  address = {Oxford},
+  langid = {latin},
+  url = {https://babel.hathitrust.org/cgi/pt?id=hvd.32044004805446&seq=7}
+}
+
+@book{palladiusPalladiiRutiliiTauri1898,
+  title = {{Palladii Rutilii Tauri Aemiliani viri inlustris Opus agriculturae}},
+  author = {Palladius, Rutilius Taurus Aemilianus.},
+  editor = {Schmitt, J. C.},
+  year = {1898},
+  series = {{De re rustica}},
+  number = {xiii, 269 p.},
+  publisher = {B. G. Teubner},
+  address = {Leipzig},
+  langid = {latin},
+  url = {https://babel.hathitrust.org/cgi/pt?id=uc1.b3105450&seq=5}
+}
+
+@book{theodosiusiiTheodosianiLibriXVI1905,
+  title = {{Theodosiani libri XVI cum Constitutionibus Sirmondianis: et Leges novellae ad Theodosianum pertinentes}},
+  shorttitle = {{Theodosiani libri XVI cum Constitutionibus Sirmondianis}},
+  author = {{Theodosius II}},
+  editor = {Meyer, Paul M. and Mommsen, Theodor},
+  year = {1905},
+  volume = {2},
+  publisher = {Weidmann},
+  address = {Berlin},
+  urldate = {2025-04-07},
+  langid = {latin},
+  url = {https://babel.hathitrust.org/cgi/pt?id=coo.31924022080968&seq=6}
+}
+```
+
+### Software Sources
+
+Please consult the following sources for information on the software used:
+
+```
+@inproceedings{smithOverviewTesseractOCR2007,
+  title = {An Overview of the Tesseract {{OCR}} Engine},
+  booktitle = {Ninth International Conference on Document Analysis and Recognition ({{ICDAR}} 2007)},
+  author = {Smith, R.},
+  year = {2007},
+  volume = {2},
+  pages = {629--633},
+  publisher = {IEEE},
+  address = {Curitiba, Brazil},
+  doi = {10.1109/ICDAR.2007.4376991},
+  abstract = {The Tesseract OCR engine, as was the HP Research Prototype in the UNLV Fourth Annual Test of OCR Accuracy, is described in a comprehensive overview. Emphasis is placed on aspects that are novel or at least unusual in an OCR engine, including in particular the line finding, features/classification methods, and the adaptive classifier.},
+  langid = {english},
+  keywords = {Filters,Independent component analysis,Inspection,Open source software,Optical character recognition software,Pipelines,Prototypes,Search engines,Testing,Text recognition}
+}
+
+@misc{barrusBarrustPyspellchecker2025,
+  title = {Barrust/Pyspellchecker},
+  author = {Barrus, Tyler},
+  urldate = {2025-02-07},
+  abstract = {Pure Python Spell Checking http://pyspellchecker.readthedocs.io/en/latest/},
+  copyright = {MIT},
+  keywords = {levenshtein-distance,python,python-spell-checking,spellcheck,spellchecker,spelling-checker},
+  version = {0.8.1}
+}
+
+@misc{belvalBelvalPdf2image2025,
+  title = {Belval/Pdf2image},
+  author = {Belval, Edouard},
+  urldate = {2025-01-09},
+  abstract = {A python module that wraps the pdftoppm utility to convert PDF to PIL Image object},
+  copyright = {MIT},
+  keywords = {convert,pdf,pil,pil-image,poppler},
+  version = {1.17.0}  
+}
+
+@misc{leeMadmazePytesseract2025,
+  title = {Madmaze/Pytesseract},
+  author = {Lee, Matthias A.},
+  urldate = {2025-02-07},
+  abstract = {A Python wrapper for Google Tesseract},
+  copyright = {Apache-2.0},
+  version = {0.3.13}
+}
+
+@misc{robertsonBrobertsonLace22024,
+  title = {Brobertson/{{Lace2}}},
+  author = {Robertson, Bruce},
+  urldate = {2024-08-22},
+  abstract = {In-broswer OCR editing program that transforms OCR results into structured, citable TEI. No XML experience required!},
+  copyright = {GPL-3.0},
+  keywords = {exist-db,ocr,tei-xml},
+  version = {0.6.22}  
+}
+
+@misc{clericeCapitainsDockerhooktest2018,
+  title = {Capitains/Docker-Hooktest},
+  author = {Cl{\'e}rice, Thibault},
+  year = {2018},
+  month = nov,
+  urldate = {2025-03-14},
+  abstract = {Docker Image to run HookTest on a repository},
+  copyright = {GPL-3.0},
+  howpublished = {CapiTainS}
+}
+```
+
+## Acknowledgements
+
+We would like to thank the [Navari Family Center for Digital Scholarship (NFCDS)](https://cds.library.nd.edu/)
+at the University of Notre Dame for supporting our work on 
+digitization and creating openly-accessible materials.
