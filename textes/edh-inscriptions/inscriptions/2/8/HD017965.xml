@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Grabinschrift auf Cippus</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>Epigraphische Datenbank Heidelberg</authority>
+                <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD017965</idno>
+                <idno type="TM">210044</idno><idno type="localID">HD017965</idno>
+                <availability>
+                    <p>© Heidelberg Academy of Sciences and Humanities</p>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        
+                        
+                        
+                        <repository ref="www.trismegistos.org/">Dijon, Mus. Arch.</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/85">Cippus</objectType>
+                                    <material ref="http://www.eagle-network.eu/voc/material/lod/60">Kalkstein</material>
+                                    <p/>
+                                    <dimensions unit="cm">
+                                        <height>150</height>
+                                        <width>44</width>
+                                        <depth>33</depth>
+                                    </dimensions>
+                                    <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/1000">nein</rs>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                    <rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/21">unbestimmt</rs>
+
+
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                                <dimensions>
+                                    <width unit="cm"/>
+                                    <height unit="cm">5-5.7</height>
+                                </dimensions>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace><placeName type="provinceItalicRegion" ref="http://www.trismegistos.org/place/016528">Germania superior</placeName><placeName>Divio (Civitas Lingonum)?</placeName></origPlace>
+                            <origDate notBefore-custom="0051" notAfter-custom="0200" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">51 AD – 200 AD
+                            </origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date notAfter="1900">1900</date>
+                        <placeName ref="http://www.geonames.org/3021372">Dijon?</placeName><placeName type="modern_region" ref="http://www.geonames.org/">Bourgogne-Franche-Comté?</placeName><placeName type="modernCountry" ref="http://www.geonames.org/countries/fr/">Frankreich</placeName></provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term ref="http://www.eagle-network.eu/voc/typeins/lod/92">Grabinschrift</term>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2020-10-07" who="Osnabrügge">
+             überprüft an Foto
+         </change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="http://edh-www.adw.uni-heidelberg.de/fotos/F030762.JPG">
+            <desc>F030762</desc>
+        </graphic>
+        <graphic url="http://edh-www.adw.uni-heidelberg.de/fotos/F030763.JPG">
+            <desc>F030763</desc>
+        </graphic>
+        <graphic url="http://edh-www.adw.uni-heidelberg.de/fotos/F030764.JPG">
+            <desc>F030764</desc>
+        </graphic>
+        <graphic url="http://edh-www.adw.uni-heidelberg.de/fotos/F031460.JPG">
+            <desc>F031460</desc>
+        </graphic>
+
+        <graphic url="http://ubi-erat-lupa.org/imagelink/index.php?Nr=25109">
+        </graphic>
+
+    </facsimile>
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+                    <bibl>
+                        AE 1961, 0238. 
+                    </bibl>
+                    <bibl>
+                         CIL 13, 05511. (B) 
+                    </bibl>
+                    <bibl>
+                         CIL 13, 05629. (B) 
+                    </bibl>
+                    <bibl>
+                         ILTG 412. 
+                    </bibl>
+                    <bibl>
+                         P. Lebel, MCACO 24, 1954-1958, 37. - AE 1961. 
+                    </bibl>
+                    <bibl>
+                         Y. Le Bohec, Inscriptions de la cité des Lingons. Inscriptions sur pierre (Paris 2003) 155, Nr. 247; Abb. 112. (B) 
+                    </bibl>
+                    <bibl>
+                         M. Provost - D. Périchon, in: M. Provost u. a. (Hrsg.), La Côte-d'Or d'Allerey à Normier, Carte archéologique de la Gaule 21, 2 (Paris 2009) 287. (B) 
+                    </bibl>
+                    <bibl>
+                         B. Benoit - M. Provost, in: M. Provost u. a. (Hrsg.), La Côte-d'Or de Nuits-Saint-Georges à Voulaines-les-Templiers, Carte archéologique de la Gaule 21, 3 (Paris 2009) 222; fig. 338. (B) 
+                    </bibl>
+
+                </listBibl>
+            </div>
+            
+            
+            <!--
+                M(onumentum) / Decmi/llus / Decm/ani fi(lius)(?)
+            --><div type="edition" xml:lang="la"><head>Text</head><ab><lb n="1"/>
+                <expan><abbr>M</abbr><ex>onumentum</ex></expan> <lb n="2"/>Decmi<lb break="no" n="3"/>llus <lb n="4"/>Decm<lb break="no" n="5"/>ani <expan><abbr>fi</abbr><ex>lius</ex></expan><certainty match="preceding-sibling::node()" locus="value"/>
+            </ab></div>
+            <div type="apparatus">
+                <p/>
+            </div>
+            <div type="commentary">
+                <p> Spitz zulaufender Grabpfeiler/Pyramidion (obélisque lingon). Die Inschrift wurde mit einer stark abweichenden Lesung erneut im CIL 13 publiziert, ihre Identität nicht erkannt. (B): CIL 13, 05511: Z. 2: Decm(i)/llus; Z. 4/5: Decm/anii [f(il.)]. CIL 13, 05629: Mo/nim / LIV / II CIV / ANIPI; Benoit - Provost; Le Bohec: Z. 5: p(oni) i(ussit); Provost - Périchon: Z. 4/5: Decm/anii [fil(ii)]?. Fundort nach CIL 13, 05511; Provost - Périchon: Dijon; nach Le Bohec; CIL 13, 05629; ILTG; AE 1961; Lebel; Benoit - Provost: Til-Châtel.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

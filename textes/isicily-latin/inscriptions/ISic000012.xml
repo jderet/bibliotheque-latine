@@ -1,0 +1,309 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>I.Sicily inscription 000012</title>
+                <editor ref="#JP">Jonathan Prag</editor>
+                <principal ref="#JP">Jonathan Prag</principal>
+                <funder>John Fell OUP Research Fund</funder>
+                <funder>
+                    <ref target="https://cordis.europa.eu/project/id/885040">ERC Advanced Grant no.885040</ref>
+                </funder>
+                <respStmt>
+                    <name xml:id="JP" ref="http://orcid.org/0000-0003-3819-8537">Jonathan Prag</name>
+                    <resp>original data collection and editing</resp>
+                </respStmt>
+                <respStmt>
+                    <name xml:id="JCu" ref="http://orcid.org/0000-0002-6686-3728">James Cummings</name>
+                    <resp>conversion to EpiDoc</resp>
+                </respStmt>
+                <respStmt>
+                    <name xml:id="TA" ref="https://orcid.org/0000-0001-8417-7089">Tuuli Ahlholm</name>
+                    <resp>EpiDoc editing</resp>
+                </respStmt>
+                <respStmt>
+                    <name xml:id="SS" ref="https://orcid.org/0000-0003-3914-9569">Simona Stoyanova</name>
+                    <resp>standardisation of template and tidying up encoding</resp>
+                </respStmt>
+                <respStmt>
+                    <name xml:id="RC" ref="https://orcid.org/0000-0002-0100-7437">Robert Crellin</name>
+                    <resp>Lemmatization</resp>
+                </respStmt>
+            <respStmt><name xml:id="Coccato" ref="https://orcid.org/0000-0002-6641-2820">Alessia Coccato</name><resp>Petrographic observation and analysis</resp></respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>I.Sicily</authority>
+                <idno type="filename">ISic000012</idno>
+                <idno type="TM">491773</idno>
+                <idno type="EDR">137645</idno>
+                <idno type="EDH"/>
+                <idno type="EDCS">22000857</idno>
+                <idno type="PHI"/>
+                <idno type="URI">http://sicily.classics.ox.ac.uk/inscription/ISic000012</idno>
+                <idno type="DOI" when="2020-12-17">10.5281/zenodo.4333763</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">Licensed under a Creative Commons-Attribution 4.0 licence.</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Italy</country>
+                        <region>Sicily</region>
+                        <settlement>Palermo</settlement>
+                        <repository role="museum" ref="http://sicily.classics.ox.ac.uk/museum/064">Museo Archeologico Regionale Antonino Salinas</repository>
+                        <idno type="inventory">3512</idno>
+                        <!--Adding location for old id numbers if available-->
+                        <altIdentifier>
+                            <settlement/>
+                            <repository/>
+                            <idno type="old"/>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <textLang mainLang="la">Latin</textLang>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material ana="#material.inorganic.stone" type="stone.unspecified" subtype="unspecified" resp="#Coccato" ref="http://www.eagle-network.eu/voc/material/lod/66.html">limestone</material>
+                                    <objectType ana="#object.plaque" ref="http://www.eagle-network.eu/voc/objtyp/lod/259.html">plaque</objectType>
+                                    <dimensions><!--ILPal-->
+                                        <height unit="cm">65</height>
+                                        <width unit="cm">66.5</width>
+                                        <depth unit="cm">5</depth>
+                                    </dimensions>
+                                </support>
+                                <condition ana="#condition.damaged"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                    <rs ana="#execution.chiselled" ref="http://www.eagle-network.eu/voc/writing/lod/1">chiselled</rs>
+                                    <damage ana="#text_condition.incomplete"/>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote><!--ILPal-->
+                                <locus from="line1" to="line1">Line 1</locus>
+                                <dimensions type="letterHeight">
+                                    <height unit="mm" atLeast="60" atMost="60">60</height>
+                                </dimensions>
+                                <locus from="line2" to="line4">Line 2-4</locus>
+                                <dimensions type="letterHeight">
+                                    <height unit="mm" atLeast="55" atMost="55">55</height>
+                                </dimensions>
+                                <locus from="line5" to="line5">Line 5</locus>
+                                <dimensions type="letterHeight">
+                                    <height unit="mm" atLeast="50" atMost="50">50</height>
+                                </dimensions>
+                                <locus from="line1" to="line2">Interlineation line 1 to 2</locus>
+                                <dimensions type="interlinear">
+                                    <height unit="mm"/>
+                                </dimensions>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace><region>Sicilia</region>
+                                <placeName type="ancient" ref="http://pleiades.stoa.org/places/462410">Panhormus</placeName>
+                                <placeName type="modern" ref="http://sws.geonames.org/2523920">Palermo</placeName>
+                                <geo>38.13205, 13.33561</geo>
+                            </origPlace>
+                            <origDate datingMethod="#julian" notBefore-custom="0195" notAfter-custom="0211" evidence="prosopography">195—211 CE (after Raepsaet-Charlier)</origDate>
+                        </origin>
+                        <provenance type="found">Original discovery not recorded.</provenance>
+                        <provenance type="observed" subtype="autopsied">None</provenance>
+                        <acquisition/>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Encoded following the latest EpiDoc guidelines</p>
+            <xi:include href="../alists/ISicily-taxonomies.xml">
+                <xi:fallback>
+                    <p>Taxonomies for ISicily controlled values</p>
+                </xi:fallback>
+            </xi:include>
+            <xi:include href="../alists/charDecl.xml">
+                <xi:fallback>
+                    <p>ISicily glyphs authority list</p>
+                </xi:fallback>
+            </xi:include>
+        </encodingDesc>
+        <profileDesc>
+            <calendarDesc>
+                <calendar xml:id="julian">
+                    <p>Julian Calendar</p>
+                </calendar>
+            </calendarDesc>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="it">Italian</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="la">Latin</language>
+                <language ident="he">Hebrew</language>
+                <language ident="phn">Phoenician</language>
+                <language ident="xpu">Punic</language>
+                <language ident="osc">Oscan</language>
+                <language ident="xly">Elymian</language>
+                <language ident="scx">Sikel</language>
+                <language ident="sxc">Sikan</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="https://ontology.inscriptiones.org/type_of_inscription">
+                    <term ana="#function.honorific" ref="https://ontology.inscriptiones.org/type_of_inscription/Honorific">honorific</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc status="draft">
+            <listChange>
+                <change when="2016-12-03" who="#JCu">James Cummings autogenerated EpiDoc output from database</change>
+                <change when="2018-03-27" who="#TA">Tuuli Ahlholm revised the Epidoc and added an apparatus</change>
+                <change when="2020-10-05" who="#SS">Simona Stoyanova normalised Unicode</change>
+                <change when="2020-10-08" who="#SS">Simona Stoyanova updated list of languages</change>
+                <change when="2020-11-20" who="#SS">Simona Stoyanova added EDCS numbers</change>
+                <change when="2020-11-26" who="#SS">Simona Stoyanova restructured bibliography</change>
+                <change when="2020-12-17" who="#JP">Updated Zenodo DOI</change>
+                <change when="2021-01-19" who="#SS">renumbered files, uris and references</change>
+                <change when="2025-05-21" who="#RC">Robert Crellin added ids and lemmatizations</change>
+                <change when="2025-07-03" who="#RC">Robert Crellin added local ids to new elements</change>
+                <change when="2025-07-03" who="#RC">Robert Crellin added new elements to the lemmatized edition</change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <surface type="front">
+            <graphic n="screen" url="ISic000012_tiled.tif" height="2367px" width="1905px">
+                <desc>I.Sicily with the permission of the Assessorato Regionale dei Beni Culturali e dell’Identità Siciliana - Dipartimento dei Beni Culturali e dell’Identità Siciliana</desc>
+            </graphic>
+            <graphic n="print" url="ISic000012.jpg" height="2367px" width="1905px">
+                <desc>I.Sicily with the permission of the Assessorato Regionale dei Beni Culturali e dell’Identità Siciliana - Dipartimento dei Beni Culturali e dell’Identità Siciliana</desc>
+            </graphic>
+        </surface>
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition" subtype="primary" xml:space="preserve" xml:lang="la" resp="#TA" source="https://www.zotero.org/groups/382445/items/FZWWPUD6">
+                <ab>
+                    <lb n="1"/><persName type="attested" subtype="imperial"><roleName type="supracivic" subtype="imperator"><w n="5"><supplied reason="lost"><expan><abbr>Imp</abbr><ex>eratori</ex></expan></supplied></w></roleName> <name><w n="10"><supplied reason="lost"><expan><abbr>Caes</abbr><ex>ari</ex></expan></supplied></w></name> <name><w n="15"><supplied reason="lost"><expan><abbr>L</abbr><ex>ucio</ex></expan></supplied></w></name> <name><w n="20"><supplied reason="lost">Septimio</supplied></w></name> <name><w n="25"><supplied reason="lost">Severo</supplied></w></name>
+                    <lb n="1a"/><gap reason="lost" atLeast="1" atMost="2" unit="line" n="30"/>
+                    <lb n="2"/><persName type="attested" subtype="imperial"><w n="35"><supplied reason="lost">divi</supplied></w> <name><w n="40"><supplied reason="lost"><expan><abbr>M</abbr><ex>arci</ex></expan></supplied></w></name> <name><w n="45"><supplied reason="lost">Aureli</supplied></w></name> <name><w n="50"><supplied reason="lost">Commodi</supplied></w></name>
+                    <lb n="3"/><name><w n="55"><supplied reason="lost">Anto</supplied><unclear>nini</unclear></w></name></persName> <g ref="#interpunct" n="60">·</g> <w n="65">fratri</w> <g ref="#interpunct" n="70">·</g> <persName type="attested" subtype="imperial"><w n="75">divi</w> <g ref="#interpunct" n="80">·</g> <name><w n="85"><expan><abbr>M</abbr><ex>arci</ex></expan></w></name> <g ref="#interpunct" n="90">·</g> <name><w n="95">Aureli</w></name>
+                    <lb n="4"/><name><w n="100">Antonini</w></name> <g ref="#interpunct" n="105">·</g> <name><w n="110">Pii</w></name></persName> <g ref="#interpunct" n="115">·</g> <w n="120"><expan><abbr>fil</abbr><ex>io</ex></expan></w> <g ref="#interpunct" n="125">·</g> <persName type="attested" subtype="imperial"><w n="130">divi</w> <g ref="#interpunct" n="135">·</g> <name><w n="140">Pii</w></name></persName> <g ref="#interpunct" n="145">·</g> <w n="150">nepoti</w> <g ref="#interpunct" n="155">·</g> <persName type="attested" subtype="imperial"><w n="160">di
+                    <lb n="5" break="no"/>vi</w> <g ref="#interpunct" n="165">·</g> <name><w n="170">Hadriani</w></name></persName> <g ref="#interpunct" n="175">·</g> <w n="180">pronepoti</w> <g ref="#interpunct" n="185">·</g> <persName type="attested" subtype="imperial"><w n="190">divi</w> <g ref="#interpunct" n="195">·</g> <name><w n="200">Traia
+                    <lb n="6" break="no"/>ni</w></name></persName> <g ref="#interpunct" n="205">·</g> <w n="210">abnepoti</w> <g ref="#interpunct" n="215">·</g> <persName type="attested" subtype="imperial"><w n="220">divi</w> <g ref="#interpunct" n="225">·</g> <name><w n="230">Nervae</w></name></persName> <g ref="#interpunct" n="235">·</g> <w n="240">adnepoti</w></persName>
+                    <lb n="7"/><w n="245">res</w> <g ref="#interpunct" n="250">·</g> <w n="255"><expan><abbr>p</abbr><ex>ublica</ex></expan></w> <g ref="#interpunct" n="260">·</g> <name><w n="265">Panhormitanorum</w></name>
+                </ab>
+            </div>
+            <div type="edition" subtype="simple-lemmatized" resp="#RC">
+                <ab>
+                    <w n="5" lemma="imperator">Imperatori</w>
+                    <w n="10" lemma="Caesar">Caesari</w>
+                    <w n="15" lemma="Lucius">Lucio</w>
+                    <w n="20" lemma="Septimius">Septimio</w>
+                    <w n="25" lemma="Severus">Severo</w>
+                    <gap reason="lost" atLeast="1" atMost="2" unit="line" n="30"><desc>[-?-]</desc></gap>
+                    <w n="35" lemma="divus">divi</w>
+                    <w n="40" lemma="Marcus">Marci</w>
+                    <w n="45" lemma="Aurelius">Aureli</w>
+                    <w n="50" lemma="Commodus">Commodi</w>
+                    <w n="55" lemma="Antoninus">Antonini</w>
+                    <w n="65" lemma="frater">fratri</w>
+                    <w n="75" lemma="divus">divi</w>
+                    <w n="85" lemma="Marcus">Marci</w>
+                    <w n="95" lemma="Aurelius">Aureli</w>
+                    <w n="100" lemma="Antoninus">Antonini</w>
+                    <w n="110" lemma="Pius">Pii</w>
+                    <w n="120" lemma="filius">filio</w>
+                    <w n="130" lemma="divus">divi</w>
+                    <w n="140" lemma="Pius">Pii</w>
+                    <w n="150" lemma="nepos">nepoti</w>
+                    <w n="160" lemma="divus">divi</w>
+                    <w n="170" lemma="Hadrianus">Hadriani</w>
+                    <w n="180" lemma="pronepos">pronepoti</w>
+                    <w n="190" lemma="divus">divi</w>
+                    <w n="200" lemma="Traianus">Traiani</w>
+                    <w n="210" lemma="abnepos">abnepoti</w>
+                    <w n="220" lemma="divus">divi</w>
+                    <w n="230" lemma="Nerva">Nervae</w>
+                    <w n="240" lemma="adnepos">adnepoti</w>
+                    <w n="245" lemma="res">res</w>
+                    <w n="255" lemma="publicus">publica</w>
+                    <w n="265" lemma="Panhormitanus">Panhormitanorum</w>
+                </ab>
+            </div>
+            <div type="apparatus">
+                <listApp>
+                    <app>
+                        <note>Text of ILMusPalermo</note>
+                    </app>
+                </listApp>
+            </div>
+            <div type="translation">
+                <p><!--translation(s) - add @xml:lang for 'en' or 'it' to div--></p>
+            </div>
+            <div type="commentary">
+                <p><!--commented out pending revision-->
+                    <!--Raepsaet-Charlier critical of Biv on a) the date, and b) following Mommsen that this and ILLPa 13 & 15 dedicated by same IIviri. --></p>
+            </div>
+            <div type="bibliography">
+                <listBibl type="edition">
+                    <bibl>
+                        <author>Gualtherus</author>
+                        <date>1624</date>
+                        <citedRange>7</citedRange>
+                        <ptr target="https://www.zotero.org/groups/382445/items/GIN6NANU"/>
+                        <ref target="https://biblio.inscriptiones.org/epig10002388">https://biblio.inscriptiones.org/epig10002388</ref>
+                    </bibl>
+                    <bibl>
+                        <author>Gualtherus</author>
+                        <date>1624 [1625]</date>
+                        <citedRange>163</citedRange>
+                        <ptr target="https://www.zotero.org/groups/382445/items/ZP8DE8KS"/>
+                        <ref target="https://biblio.inscriptiones.org/epig10001931">https://biblio.inscriptiones.org/epig10001931</ref>
+                    </bibl>
+                    <bibl type="corpus" n="CIL">
+                        <author>Mommsen</author>
+                        <date>1883</date>
+                        <citedRange>
+                            <ref target="http://arachne.uni-koeln.de/item/buchseite/650788">7271</ref>
+                        </citedRange>
+                        <ptr target="https://www.zotero.org/groups/382445/items/GQN8UZSI"/>
+                        <ref target="https://biblio.inscriptiones.org/epig10000589">https://biblio.inscriptiones.org/epig10000589</ref>
+                    </bibl>
+                    <bibl type="corpus" n="ILMusPalermo">
+                         <author>Bivona</author>
+                         <date>1970</date> 
+                        <citedRange>12</citedRange>
+                        <ptr target="https://www.zotero.org/groups/382445/items/FZWWPUD6"/>
+                        <ref target="https://biblio.inscriptiones.org/epig10002142">https://biblio.inscriptiones.org/epig10002142</ref>
+                    </bibl>
+                    <bibl>
+                        <author>Raepsaet-Charlier</author>
+                        <date>1974</date>
+                        <citedRange>125</citedRange>
+                        <ptr target="https://www.zotero.org/groups/382445/items/PZHQV5MN"/>
+                        <ref target="https://biblio.inscriptiones.org/epig10001648">https://biblio.inscriptiones.org/epig10001648</ref>
+                    </bibl>
+                    <bibl>
+                        <author>Manganaro</author>
+                        <date>1988</date>
+                        <citedRange>76</citedRange>
+                        <ptr target="https://www.zotero.org/groups/382445/items/RZSFKACR"/>
+                        <ref target="https://biblio.inscriptiones.org/epig10001427">https://biblio.inscriptiones.org/epig10001427</ref>
+                    </bibl>
+                </listBibl>
+                <listBibl type="discussion">
+                    <bibl/>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

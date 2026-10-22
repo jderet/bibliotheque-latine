@@ -1,0 +1,238 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Epitaph of Quintus Pompeius Sosius Clementianus</title>
+                <editor ref="#JP">Jonathan Prag</editor>
+                <principal ref="#JP">Jonathan Prag</principal>
+                <funder>John Fell OUP Research Fund</funder>
+	   <funder><ref target="https://cordis.europa.eu/project/id/885040">ERC Advanced Grant no.885040</ref></funder>
+                <respStmt>
+                    <name xml:id="JP" ref="http://orcid.org/0000-0003-3819-8537">Jonathan Prag</name>
+                    <resp>original data collection and editing</resp>
+                </respStmt>
+                <respStmt>
+                    <name xml:id="JCu" ref="http://orcid.org/0000-0002-6686-3728">James Cummings</name>
+                    <resp>conversion to EpiDoc</resp>
+                </respStmt>
+                <respStmt>
+                    <name xml:id="AA" ref="http://orcid.org/0000-0001-7077-0703">Alex Antoniou</name>
+                    <resp>EpiDoc editing and English translation</resp>
+                </respStmt>
+	    <respStmt>
+     	       <name xml:id="SS" ref="https://orcid.org/0000-0003-3914-9569">Simona Stoyanova</name>
+     	       <resp>standardisation of template and tidying up encoding</resp>
+ 	   </respStmt>
+            <respStmt><name xml:id="Coccato" ref="https://orcid.org/0000-0002-6641-2820">Alessia Coccato</name><resp>Petrographic observation and analysis</resp></respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>I.Sicily</authority>
+                <idno type="filename">ISic003150</idno>
+                <idno type="TM">285099</idno>
+                <idno type="EDR"/>
+                <idno type="EDH"/>
+                <idno type="EDCS">13800758</idno>
+                <idno type="PHI"/>
+                <idno type="URI">http://sicily.classics.ox.ac.uk/inscription/ISic003150</idno>
+                <idno type="DOI" when="2020-12-18">10.5281/zenodo.4357188</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">Licensed under a Creative Commons-Attribution 4.0 licence.</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Italy</country>
+                        <region>Sicily</region>
+                        <settlement>Catania</settlement>
+                        <repository role="museum" ref="http://sicily.classics.ox.ac.uk/museum/018">Museo Civico di Catania</repository>
+                        <idno type="inventory">585</idno>
+                        <!--Adding location for old id numbers if available-->
+                        <altIdentifier>
+                            <settlement/>
+                            <repository/>
+                            <idno type="old"/>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <textLang mainLang="la">Latin</textLang>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support><p>A white marble plaque, intact on all sides. Roughly finished on the rear, with the edges roughly cut back for insertion into a wall or other setting. The letters appear to have been crudely repainted since antiquity</p>
+                                    <material ana="#material.inorganic.stone.metamorphic_rock.marble" type="stone.marble" subtype="unspecified" resp="#Coccato" ref="http://www.eagle-network.eu/voc/material/lod/48.html">Very fine-grained, altered, white marble, likely unspecified (identification based on pXRF)</material>
+                                    <objectType ana="#object.plaque" ref="https://www.eagle-network.eu/voc/objtyp/lod/259.html">plaque</objectType>
+                                    <dimensions><!--Korhonen-->
+                                        <height unit="cm">23</height>
+                                        <width unit="cm">28.5</width>
+                                        <depth unit="cm">3.3</depth>
+                                    </dimensions>
+                                </support>
+                                <condition ana="#condition.complete"/>
+		    </supportDesc>
+                            <layoutDesc>
+                                <layout><p>The text is roughly centred on the stone.</p>
+                                    <rs ana="#execution.chiselled" ref="http://www.eagle-network.eu/voc/writing/lod/1">chiselled</rs>
+                                	<damage ana="#text_condition.complete"/>
+			</layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote><p>V-cut letters of slightly irregular module and height, with pronounced serifs. Interpuncts are above the line and not clearly distinguishable from apices</p>
+                                <locus from="line1" to="line7">Line 1-7</locus>
+                                <dimensions type="letterHeight">
+                                    <height unit="mm" atLeast="17" atMost="21">17-21</height>
+                                </dimensions>
+                                <locus from="line1" to="line2">Interlineation line 1 to 2</locus>
+                                <dimensions type="interlinear">
+                                    <height unit="mm"/>
+                                </dimensions>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace><region>Sicilia</region>
+                                <placeName type="ancient" ref="http://pleiades.stoa.org/places/462270">Catina</placeName>		
+                                <placeName type="modern" ref="http://sws.geonames.org/2525068">Catania</placeName>
+                            	<geo>37.49223, 15.07041</geo>
+		</origPlace>
+                            <origDate datingMethod="#julian" notBefore-custom="0151" notAfter-custom="0250" evidence="prosopography">Second half of 2nd century CE or early 3rd century CE (Korhonen)</origDate>
+                        </origin>
+                        <provenance type="found" subtype="discovered" notAfter="1883">First observed, in the Biscari collection, by Mommsen. Mommsen considered it to be from Rome, but Korhonen rightly argues that the well attested presence of the Pompeii Sosii in Centuripe and Catania, and the physical form of the epitaph make a Catania - or Centuripe - provenance far more likely. Now in the Museo Civico (sala VII.229, mag. sup.)</provenance>
+                        <provenance type="observed" subtype="autopsied">Photographed but not transcribed, Prag 2016-10-14</provenance>
+                        <acquisition/>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+             <p>Encoded following the latest EpiDoc guidelines</p>
+             <xi:include href="../alists/ISicily-taxonomies.xml">
+                 <xi:fallback>
+                     <p>Taxonomies for ISicily controlled values</p>
+                 </xi:fallback>
+             </xi:include>
+	  <xi:include href="../alists/charDecl.xml">
+	     <xi:fallback>
+	       <p>ISicily glyphs authority list</p>
+	     </xi:fallback>
+	   </xi:include>
+         </encodingDesc>
+        <profileDesc>
+            <calendarDesc>
+                <calendar xml:id="julian">
+                    <p>Julian Calendar</p>
+                </calendar>
+            </calendarDesc>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="it">Italian</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="la">Latin</language>
+                <language ident="he">Hebrew</language>
+                <language ident="phn">Phoenician</language>
+                <language ident="xpu">Punic</language>
+                <language ident="osc">Oscan</language>
+                <language ident="xly">Elymian</language>
+                <language ident="scx">Sikel</language>
+                <language ident="sxc">Sikan</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="https://ontology.inscriptiones.org/type_of_inscription">
+                    <term ana="#function.funerary" ref="https://ontology.inscriptiones.org/type_of_inscription/Funerary">funerary</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc status="draft">
+            <listChange>
+                <change when="2016-12-03" who="#JCu">James Cummings autogenerated EpiDoc output from database</change>
+                <change when="2019-07-22" who="#AA">Alex Antoniou Epidoc editing and English translation</change>
+            	   <change when="2020-10-05" who="#SS">Simona Stoyanova normalised Unicode</change>
+            	   <change when="2020-10-08" who="#SS">Simona Stoyanova updated list of languages</change>
+            	<change when="2020-11-20" who="#SS">Simona Stoyanova added EDCS numbers</change>
+		<change when="2020-11-26" who="#SS">Simona Stoyanova restructured bibliography</change>
+	    <change when="2020-12-18" who="#JP">Updated Zenodo DOI</change>
+            	<change when="2021-01-19" who="#SS">renumbered files, uris and references</change>
+                <change when="2025-11-27" who="#JP">Jonathan Prag revised from publication and photograph</change>
+	</listChange>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <surface type="front">
+            <graphic n="screen" url="ISic003150_tiled.tif" height="4912px" width="7360px">
+                <desc>I.Sicily with the permission of the Assessorato Regionale dei Beni Culturali e dell’Identità Siciliana - Dipartimento dei Beni Culturali e dell’Identità Siciliana; photo J. Prag 2016-10-14</desc>
+            </graphic>
+            <graphic n="print" url="ISic003150.jpg" height="4912px" width="7360px">
+                <desc>I.Sicily with the permission of the Assessorato Regionale dei Beni Culturali e dell’Identità Siciliana - Dipartimento dei Beni Culturali e dell’Identità Siciliana; photo J. Prag 2016-10-14</desc>
+            </graphic>
+         </surface>
+        <surface type="rear">
+            <graphic n="screen" url="ISic003150_rear_tiled.tif" height="4912px" width="7360px">
+                <desc>I.Sicily with the permission of the Assessorato Regionale dei Beni Culturali e dell’Identità Siciliana - Dipartimento dei Beni Culturali e dell’Identità Siciliana; photo J. Prag 2016-10-14</desc>
+            </graphic>
+            <graphic n="print" url="ISic003150_rear.jpg" height="4912px" width="7360px">
+                <desc>I.Sicily with the permission of the Assessorato Regionale dei Beni Culturali e dell’Identità Siciliana - Dipartimento dei Beni Culturali e dell’Identità Siciliana; photo J. Prag 2016-10-14</desc>
+            </graphic>
+        </surface>
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition" subtype="primary" xml:space="preserve" xml:lang="la" resp="#AA #JP" source="#JP">
+                <ab>
+                    <lb n="1"/><expan><abbr>D</abbr><ex>is</ex></expan> <expan><abbr>m</abbr><ex>anibus</ex></expan> <expan><abbr>s</abbr><ex>acrum</ex></expan>
+                    <lb n="2"/><persName type="attested"><name><expan><abbr>Q</abbr><ex>uinto</ex></expan></name> <g ref="#interpunct">·</g> <name>Pompeio</name> <g ref="#interpunct">·</g> Sosio
+                    <lb n="3"/><name>Cl<hi rend="apex">e</hi>mentiano</name></persName> <g ref="#interpunct">·</g>
+                    <lb n="4"/>filio <g ref="#interpunct">·</g> et infanti
+                    <lb n="5"/>dulcissimo <g ref="#interpunct">·</g> qui vixit
+                    <lb n="6"/><expan><abbr>mensib</abbr><ex>us</ex></expan> <g ref="#interpunct">·</g> <num value="7">VII</num> <g ref="#interpunct">·</g> <expan><abbr>dieb</abbr><ex>us</ex></expan> <g ref="#interpunct">·</g> <num value="28">X<hi rend="ligature">XV</hi>III</num>
+                    <lb n="7"/>parentes
+                </ab>
+            </div>
+            <div type="apparatus">
+                <listApp>
+                    <app><note>Text of Prag from photograph</note></app>
+                    <app loc="4"><note>The F of infanti has a substantial foot, giving the appearance of an E (visual confusion between these letters not uncommon in C2-C3 inscriptions); the A of infanti lacks a cross-bar.</note></app>
+                </listApp>
+            </div>
+            <div type="translation" xml:lang="en" resp="#AA">
+                <p>Sacred to the spirits of the underworld. To Quintus Pompeius Sosius Clementianus, son and sweetest newborn, who lived for 7 months and 28 days, erected by his parents</p>
+            </div>
+            <div type="commentary">
+                <p>Given that Biscari undertook excavations at Centuripe, and that the family of the Pompeii Sosii has part of its origin in Centuripe, it is at least as possible that the stone comes originally from Centuripe as from Catania. It seems most likely that Clementianus is the son of a freedman of the family.</p>
+                <p>Korhonen's suggestion that the apices/interpuncts in line 6 serve to indicate abbreviations cannot stand given that the sign appears after the numeral VII also, so they serve simply to separate all elements on the line, as is typical.</p>
+            </div>
+            <div type="bibliography">
+                <listBibl type="edition">
+                    <bibl type="corpus" n="CIL">
+                        <author>Huelsen</author>
+                        <date>1894</date>
+                        <citedRange>24510</citedRange>
+                        <ptr target="https://www.zotero.org/groups/382445/items/93LFW73G"/>
+                        <ref target="https://biblio.inscriptiones.org/epig10000268">https://biblio.inscriptiones.org/epig10000268</ref>
+                    </bibl>
+                    <bibl type="corpus" n="CIL">
+                        <author>Mommsen</author>
+                        <date>1883</date>
+                        <citedRange>
+                            <ref target="http://arachne.uni-koeln.de/item/buch/4004">1088*.282</ref>
+                        </citedRange>
+                        <ptr target="https://www.zotero.org/groups/382445/items/HSQETNGN"/>
+                        <ref target="https://biblio.inscriptiones.org/epig10001137">https://biblio.inscriptiones.org/epig10001137</ref></bibl>
+                    <bibl type="corpus" n="IMusCatania">
+                         <author>Korhonen</author>
+                         <date>2004</date> 
+                        <citedRange>13</citedRange>
+                        <ptr target="https://www.zotero.org/groups/382445/items/2EUC82DH"/>
+                    <ref target="https://biblio.inscriptiones.org/epig10000028">https://biblio.inscriptiones.org/epig10000028</ref></bibl>
+                    <bibl/>
+                </listBibl>
+	   <listBibl type="discussion"><bibl/></listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

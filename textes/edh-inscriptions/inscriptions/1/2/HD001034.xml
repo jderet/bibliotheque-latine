@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="de" xml:base="ex-epidoctemplate.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Weihinschrift auf Architekturteil</title>
+            </titleStmt>  
+            <publicationStmt>
+                <authority>Epigraphische Datenbank Heidelberg</authority>
+                <idno type="URI">http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD001034</idno>
+                <idno type="TM">208050</idno><idno type="localID">HD001034</idno>
+                <availability>
+                    <p>© Heidelberg Academy of Sciences and Humanities</p>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        
+                        
+                        
+                        <repository ref="www.trismegistos.org/">Épinal, Mus. dép. art anc. contemp.</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <objectType ref="http://www.eagle-network.eu/voc/objtyp/lod/35">Architekturteil?</objectType>
+                                    <material>Gesteine</material>
+                                    <p/>
+                                    <dimensions unit="cm">
+                                        <height>-75</height>
+                                        <width>-50</width>
+                                        <depth>33</depth>
+                                    </dimensions>
+                                    <rs type="decoration" ref="http://www.eagle-network.eu/voc/decor/lod/2000">Ja</rs>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                    <rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/21">unbestimmt</rs>
+
+
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                                <dimensions>
+                                    <width unit="cm"/>
+                                    <height unit="cm">10-4.5</height>
+                                </dimensions>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace><placeName type="provinceItalicRegion" ref="http://www.trismegistos.org/place/016528">Germania superior</placeName><placeName>Grannum (Civitas Lingonum)?</placeName></origPlace>
+                            <origDate notBefore-custom="0161" notAfter-custom="0222" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">161 AD – 222 AD
+                            </origDate>
+                        </origin>
+                        <provenance type="found">  
+                            <date when="1820">1820</date>
+                        <placeName ref="http://www.geonames.org/3015368">Grand</placeName><placeName type="modern_region" ref="http://www.geonames.org/">Grand Est</placeName><placeName type="modernCountry" ref="http://www.geonames.org/countries/fr/">Frankreich</placeName></provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Marked-up according to the EpiDoc Guidelines</p>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="representation">
+                        <catDesc>Digitized other representations</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term ref="http://www.eagle-network.eu/voc/typeins/lod/80">Weihinschrift</term>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="ar">Arabic</language>
+                <language ident="en">English</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="grc-Latn">Transliterated Greek</language>
+                <language ident="el">Modern Greek</language>
+                <language ident="he">Hebrew</language>
+                <language ident="it">Italian</language>
+                <language ident="la">Latin</language>
+                <language ident="sp">Spanish</language>
+            </langUsage>
+        <creation>EAGLE - Europeana Network of Ancient Greek and Latin Epigraphy</creation></profileDesc>
+        <revisionDesc>
+         <change when="2020-11-30" who="Gräf">
+             überprüft an Foto
+         </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+                       
+            <div type="bibliography">
+                <listBibl>
+                    <bibl>
+                        AE 1983, 0716. 
+                    </bibl>
+                    <bibl>
+                         AE 2006, 0854. (B) 
+                    </bibl>
+                    <bibl>
+                         AE 2013, 1104. 
+                    </bibl>
+                    <bibl>
+                         CIL 13, 05940. 
+                    </bibl>
+                    <bibl>
+                         CIMRM 1376. 
+                    </bibl>
+                    <bibl>
+                         R. Billoret, Gallia 26, 1968, 389. 401, Nr. c. - AE 1983. 
+                    </bibl>
+                    <bibl>
+                         Y. Burnand, in: Y. Burnand, Études d'architecture gallo-romaine (Nancy 1983) 24-26. - AE 1983. 
+                    </bibl>
+                    <bibl>
+                         A. Daguet-Gagey, in: J.-M. Demarolle (Hrsg.), La mosaïque de Grand (Metz 2006) 57-62, Nr. a; Fig. 11. (B) - AE 2006. 
+                    </bibl>
+                    <bibl>
+                         Y. Maligorne, in: T. Dechezleprêtre - K. Gruel - M. Joly (Hrsg.), Agglomérations et sanctuaires. Réflexions à partir de l'exemple de Grand. Actes du colloque de Grand 2011 (Épinal 2015) 100-101; fig. 1. - AE 2013 
+                    </bibl>
+                    <bibl>
+                         P. Vipard, in: T. Dechezleprêtre - K. Gruel - M. Joly (Hrsg.), Agglomérations et sanctuaires. Réflexions à partir de l'exemple de Grand. Actes du colloque de Grand 2011 (Épinal 2015) 76, Nr. 9.1a; fig. 6 u. 7 (Zeichnungen). - AE 2013. 
+                    </bibl>
+                    <bibl>
+                         Y. Maligorne, in: T. Dechezleprêtre - K. Gruel - M. Joly (Hrsg.), Agglomérations et sanctuaires. Réflexions à partir de l'exemple de Grand. Actes du colloque de Grand 2011 (Épinal 2015) 101; fig. 1. - AE 2013. 
+                    </bibl>
+
+                </listBibl>
+            </div>
+            
+            
+            <!--
+                [- - -]o Invi[cto] // [- - -] ac deinde c[- - -] / [- - - A]ntoninum / [- - -]g(- - -) s(- - -) numini E(?)[ius? - - -] / [- - -]O(?)MI(?) SER[- - -] / [- - - - - -
+            --><div type="edition" xml:lang="la"><head>Text</head><div n="1" type="textpart"><ab><lb n="1"/>
+                <gap reason="lost" extent="unknown" unit="character"/>o Invi<supplied reason="lost">cto</supplied> </ab></div><div n="2" type="textpart"><ab><lb n="1"/> <gap reason="lost" extent="unknown" unit="character"/> ac deinde c<gap reason="lost" extent="unknown" unit="character"/> <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost">A</supplied>ntoninum <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><abbr>g</abbr> <abbr>s</abbr> numini <expan><abbr>E</abbr><ex cert="low"/></expan><supplied reason="lost">ius<certainty locus="name" match="preceding-sibling::text()" cert="low"/> <gap reason="lost" extent="unknown" unit="character"/></supplied> <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/><expan><abbr>O</abbr><ex cert="low"/>MI</expan><certainty match="preceding-sibling::node()" locus="value"/> SER<gap reason="lost" extent="unknown" unit="character"/> <lb n="0"/><gap reason="lost" extent="unknown" unit="line"/>
+            </ab></div></div>
+            <div type="apparatus">
+                <p/>
+            </div>
+            <div type="commentary">
+                <p> Inschriftträger: Fragment eines Architravs über einem Eingang oder einer Porticus. Zwei Fragmente mit offenbar dem gleichen Inschrifttext: HD082388. Nach Daguet-Gagey nicht zu HD082389 gehörig. Fundjahr: 1820 oder 1822. (B): Daguet-Gagey; AE 2006: Z. 4 (Anfang): [---]S; AE 2006: Z. 5: [---]MI.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

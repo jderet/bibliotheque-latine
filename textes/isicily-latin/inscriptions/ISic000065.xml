@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Dedication to the Emperor Marcus Aurelius</title>
+                <editor ref="#JP">Jonathan Prag</editor>
+                <principal ref="#JP">Jonathan Prag</principal>
+                <funder>John Fell OUP Research Fund</funder>
+	   <funder><ref target="https://cordis.europa.eu/project/id/885040">ERC Advanced Grant no.885040</ref></funder>
+                <respStmt>
+                    <name xml:id="JP" ref="http://orcid.org/0000-0003-3819-8537">Jonathan Prag</name>
+                    <resp>original data collection and editing</resp>
+                </respStmt>
+                <respStmt>
+                    <name xml:id="JCu" ref="http://orcid.org/0000-0002-6686-3728">James Cummings</name>
+                    <resp>conversion to EpiDoc</resp>
+                </respStmt>
+                <respStmt>
+                    <name xml:id="TA" ref="https://orcid.org/0000-0001-8417-7089">Tuuli Ahlholm</name>
+                    <resp>EpiDoc editing</resp>
+                </respStmt>
+	    <respStmt>
+     	       <name xml:id="SS" ref="https://orcid.org/0000-0003-3914-9569">Simona Stoyanova</name>
+     	       <resp>standardisation of template and tidying up encoding</resp>
+ 	   </respStmt>
+                <respStmt>
+                    <name xml:id="AT" ref="https://orcid.org/0009-0009-2753-4014">Alfredo Tosques</name>
+                    <resp>Translations</resp>
+                </respStmt>
+            <respStmt><name xml:id="Coccato" ref="https://orcid.org/0000-0002-6641-2820">Alessia Coccato</name><resp>Petrographic observation and analysis</resp></respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>I.Sicily</authority>
+                <idno type="filename">ISic000065</idno>
+                <idno type="TM">175742</idno>
+                <idno type="EDR">142424</idno>
+                <idno type="EDH"/>
+                <idno type="EDCS">22100593</idno>
+                <idno type="EDCS">6100250</idno>
+                <idno type="PHI"/>
+                <idno type="URI">http://sicily.classics.ox.ac.uk/inscription/ISic000065</idno>
+                <idno type="DOI" when="2020-12-17">10.5281/zenodo.4333966</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">Licensed under a Creative Commons-Attribution 4.0 licence.</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Italy</country>
+                        <region>Sicily</region>
+                        <settlement>Palermo</settlement>
+                        <repository role="museum" ref="http://sicily.classics.ox.ac.uk/museum/064">Museo Archeologico Regionale Antonino Salinas</repository>
+                        <idno type="inventory">3566</idno>
+                        <!--Adding location for old id numbers if available-->
+                        <altIdentifier>
+                            <settlement/>
+                            <repository/>
+                            <idno type="old"/>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <textLang mainLang="la">Latin</textLang>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support><p>Seven fragments of the upper left and lower portion of a large marble plaque; the upper right half is missing. The fragments have been mounted in plaster to recreate the inscription (the alignment of the fragments is not perfect, with insufficient space vertically left between the upper left fragments and the lower fragments to allow for lines 6 and 7 to be separated.</p>
+                                    <material ana="#material.inorganic.stone.metamorphic_rock.marble.calcitic_marble.Proconnesian" type="stone.marble" subtype="Proconnesian" resp="#Coccato" ref="http://www.eagle-network.eu/voc/material/lod/48.html">Medium-grained, banded, white, calcitic marble, likely Proconnesian. Optical microscopy: heteroblastic fabric. Digital microscopy: heteroblastic fabric (identification based on pXRF, digital microscopy, XRD, optical microscopy)
+<placeName type="provenance">
+ <ref target="https://www.geonames.org/741729/marmara-adasi.html">Marmara District</ref>
+ <location>
+  <geo>40.61972,27.61694</geo>
+ </location>
+</placeName><note> Petrographic imagery at <ref target="https://iiif.csad.ox.ac.uk/viewer/isicily/ISic000065">https://iiif.csad.ox.ac.uk/viewer/isicily/ISic000065</ref></note></material>
+                                    <objectType ana="#object.plaque" ref="https://www.eagle-network.eu/voc/objtyp/lod/259.html">plaque</objectType>
+                                    <dimensions><!-- Bivona -->
+                                        <height unit="cm">82</height>
+                                        <width unit="cm">60.5</width>
+                                        <depth unit="cm">6.2</depth>
+                                    </dimensions>
+                                </support>
+                                <condition/>
+		    </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                    <rs ana="#execution.chiselled" ref="http://www.eagle-network.eu/voc/writing/lod/1">chiselled</rs>
+                                    <rs ana="#execution.rubrication.red">Rubrication, red colour</rs><!-- uncertain if ancient -->
+                                	<damage/>
+			</layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote><!--Bivona-->
+                                <locus from="line1" to="line7">Line 1-7</locus>
+                                <dimensions type="letterHeight">
+                                    <height unit="mm" atLeast="60" atMost="65">60-65</height>
+                                </dimensions>
+                                <locus from="line1" to="line2">Interlineation line 1 to 2</locus>
+                                <dimensions type="interlinear">
+                                    <height unit="mm"/>
+                                </dimensions>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace><region>Sicilia</region>
+                                <placeName type="ancient" ref="http://pleiades.stoa.org/places/462527">Tyndaris</placeName>		
+                                <placeName type="modern" ref="http://sws.geonames.org/10282151">Tindari</placeName>
+                            	<geo>38.14227, 15.04385</geo>
+		</origPlace>
+                            <origDate datingMethod="#julian" notBefore-custom="0160-12-10" notAfter-custom="0161-12-09" evidence="office">probably 10th December 160—9th December 161 CE;
+                                161</origDate>
+                        </origin>
+                        <provenance type="found" subtype="discovered">Found at Tyndaris by Fagan</provenance>
+                        <provenance type="observed" subtype="autopsy">partially recorded 2022-05-23</provenance>
+                        <acquisition/>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+             <p>Encoded following the latest EpiDoc guidelines</p>
+             <xi:include href="../alists/ISicily-taxonomies.xml">
+                 <xi:fallback>
+                     <p>Taxonomies for ISicily controlled values</p>
+                 </xi:fallback>
+             </xi:include>
+	  <xi:include href="../alists/charDecl.xml">
+	     <xi:fallback>
+	       <p>ISicily glyphs authority list</p>
+	     </xi:fallback>
+	   </xi:include>
+         </encodingDesc>
+        <profileDesc>
+            <calendarDesc>
+                <calendar xml:id="julian">
+                    <p>Julian Calendar</p>
+                </calendar>
+            </calendarDesc>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="it">Italian</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="la">Latin</language>
+                <language ident="he">Hebrew</language>
+                <language ident="phn">Phoenician</language>
+                <language ident="xpu">Punic</language>
+                <language ident="osc">Oscan</language>
+                <language ident="xly">Elymian</language>
+                <language ident="scx">Sikel</language>
+                <language ident="sxc">Sikan</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="https://ontology.inscriptiones.org/type_of_inscription">
+                    <term ana="#function.honorific" ref="https://ontology.inscriptiones.org/type_of_inscription/Honorific">honorific</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc status="draft">
+            <listChange>
+                <change when="2016-12-03" who="#JCu">James Cummings autogenerated EpiDoc output from database</change>
+                <change when="2018-05-11" who="#TA">Tuuli Ahlholm cleaned up the autogenerated text and added an apparatus</change>
+            	   <change when="2020-10-05" who="#SS">Simona Stoyanova normalised Unicode</change>
+            	   <change when="2020-10-08" who="#SS">Simona Stoyanova updated list of languages</change>
+            	<change when="2020-11-20" who="#SS">Simona Stoyanova added EDCS numbers</change>
+		<change when="2020-11-26" who="#SS">Simona Stoyanova restructured bibliography</change>
+	    <change when="2020-12-17" who="#JP">Updated Zenodo DOI</change>
+            	<change when="2021-01-19" who="#SS">renumbered files, uris and references</change>
+                <change when="2022-07-17" who="#JP">Amended references to second fragment, as no longer to be attributed to this text</change>
+                <change when="2025-12-02" who="#JP">Jonathan Prag added image, updated metadata, added Alfredo Tosques' translations</change>
+	</listChange>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <surface type="front">
+            <graphic n="screen" url="ISic000065_tiled.tif" height="3522px" width="2550px">
+                <desc>I.Sicily with the permission of the Assessorato Regionale dei Beni Culturali e dell’Identità Siciliana - Dipartimento dei Beni Culturali e dell’Identità Siciliana; photo J. Prag 2017-07-21</desc>
+            </graphic>
+            <graphic n="print" url="ISic000065.jpg" height="3522px" width="2550px">
+                <desc>I.Sicily with the permission of the Assessorato Regionale dei Beni Culturali e dell’Identità Siciliana - Dipartimento dei Beni Culturali e dell’Identità Siciliana; photo J. Prag 2017-07-21</desc>
+            </graphic>
+         </surface>
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition" subtype="primary" xml:space="preserve" xml:lang="la" resp="#TA" source="https://www.zotero.org/groups/382445/items/FZWWPUD6">
+                <ab>
+                    <lb n="1"/><persName type="attested" subtype="imperial"><roleName type="supracivic" subtype="imperator"><w n="5"><expan><abbr>Imp</abbr><ex>eratori</ex></expan></w></roleName> <g ref="#interpunct" n="10">·</g> <name><w n="15"><unclear>C</unclear><supplied reason="lost">aesari</supplied></w></name> <persName type="attested" subtype="imperial"><w n="20"><supplied reason="lost">divi</supplied></w> <name><w n="25"><supplied reason="lost">Antoni</supplied>
+                    <lb n="2" break="no"/>ni</w></name></persName> <g ref="#interpunct" n="30">·</g> <w n="35"><expan><abbr>f</abbr><ex>ilio</ex></expan></w> <g ref="#interpunct" n="40">·</g> <persName type="attested" subtype="imperial"><w n="45">d<supplied reason="lost">ivi</supplied></w> <name><w n="50"><supplied reason="lost">Hadriani</supplied></w></name></persName> <w n="55"><supplied reason="lost">ne</supplied>
+                    <lb n="3" break="no"/>poti</w> <g ref="#interpunct" n="60">·</g> <persName type="attested" subtype="imperial"><w n="65"><unclear>d</unclear><supplied reason="lost">ivi</supplied></w> <name><w n="70"><supplied reason="lost">Traiani</supplied></w></name> <name><w n="75"><supplied reason="lost">Parthi</supplied>
+                    <lb n="4" break="no"/>ci</w></name></persName> <g ref="#interpunct" n="80">·</g> <w n="85">pr<supplied reason="lost">onepoti</supplied></w> <persName type="attested" subtype="imperial"><w n="90"><supplied reason="lost">divi</supplied></w> <name><w n="95"><supplied reason="lost">Ner</supplied>
+                    <lb n="5" break="no"/>va<supplied reason="lost">e</supplied></w></name></persName> <w n="100"><supplied reason="lost">abnepoti</supplied></w> <name><w n="105"><supplied reason="lost"><expan><abbr>M</abbr><ex>arco</ex></expan></supplied></w></name> <name><w n="110"><supplied reason="lost">Aur
+                    <lb n="6" break="no"/>elio</supplied></w></name> <name><w n="115"><supplied reason="lost">Antonino</supplied></w></name> <name><w n="120"><supplied reason="lost"><expan><abbr>Aug</abbr><ex>usto</ex></expan></supplied></w></name></persName> <roleName type="supracivic.religious" subtype="pontifex.maximus"><w n="125"><supplied reason="lost"><expan><abbr>p</abbr><ex>ontifici</ex></expan></supplied></w> <w n="130"><supplied reason="lost"><expan><abbr>m</abbr><ex>aximo</ex></expan></supplied></w></roleName> <roleName type="supracivic" subtype="tribunicia.potestas"><w n="135"><supplied reason="lost"><expan><abbr>trib</abbr><ex>unicia</ex></expan></supplied></w> <w n="140"><supplied reason="lost"><expan><abbr>p</abbr><ex>otestate</ex></expan></supplied></w></roleName> <num value="15"><unclear>X</unclear>V</num>
+                    <lb n="7"/><roleName type="supracivic" subtype="consul"><w n="145"><expan><abbr>c</abbr><supplied reason="lost"><abbr>o</abbr><ex>n</ex><abbr>s</abbr><ex>uli</ex></supplied></expan></w></roleName> <supplied reason="lost"><num value="3">III</num></supplied> <roleName type="supracivic" subtype="pater.patriae"><w n="150"><supplied reason="lost"><expan><abbr>p</abbr><ex>atri</ex></expan></supplied></w> <w n="155"><supplied reason="lost"><expan><abbr>p</abbr><ex>atriae</ex></expan></supplied></w></roleName>
+                    <lb n="8"/><placeName><w n="160"><expan><abbr>co<unclear>l</unclear></abbr><ex>onia</ex></expan></w> <g ref="#interpunct" n="165">·</g> <name><w n="170"><expan><abbr>Au<unclear>g</unclear></abbr><ex>usta</ex></expan></w></name> <g ref="#interpunct" n="175">·</g> <w n="180"><expan><abbr><unclear>Ty</unclear>nda<supplied reason="lost">rit</supplied></abbr><supplied reason="lost"><ex>anorum</ex></supplied></expan></w></placeName>
+                    <lb n="9"/><w n="185">curante</w> <g ref="#interpunct" n="190">·</g> <persName type="attested"><name><w n="195"><expan><abbr>M</abbr><ex>arco</ex></expan></w></name> <g ref="#interpunct" n="200">·</g> <name><w n="205">Va<supplied reason="lost">le</supplied>
+                    <lb break="no" n="10"/>rio</w></name> <g ref="#interpunct" n="210">·</g> <name><w n="215">Vitale</w></name></persName> <g ref="#interpunct" n="220">·</g> <roleName type="civic" subtype="curator"><w n="225"><expan><abbr>cura<supplied reason="lost">t</supplied></abbr><supplied reason="lost"><ex>ore</ex></supplied></expan></w></roleName> <w n="230"><supplied reason="lost"><expan><abbr>r</abbr><ex>ei</ex></expan></supplied></w> <w n="235"><supplied reason="lost"><expan><abbr>p</abbr><ex>ublicae</ex></expan></supplied></w>
+                </ab>
+            </div>
+            <div type="apparatus">
+                <listApp>
+                    <app><note>Text of ILPalermo</note></app>
+                </listApp>
+            </div>
+            <div type="translation" xml:lang="en" resp="#AT">
+                <p>To the Emperor Caesar, son of the deified Antoninus, grandson of the deified Hadrian, great-grandson of the deified Trajan Parthicus, great-great-grandson of the deified Nerva, Marcus Aurelius Antoninus Augustus, Pontifex Maximus, holding tribunician power for the fifteenth time, consul for the third time, father of the fatherland, the Colonia Augusta of the Tyndaritani, under the care of Marcus Valerius Vitalis, curator of the public affairs.</p>
+            </div>
+            <div type="translation" xml:lang="it" resp="#AT">
+                <p>All’imperatore Cesare, figlio del divo Antonino, nipote del divo Adriano, pronipote del divo Traiano Partico, trisnipote del divo Nerva, Marco Aurelio Antonino Augusto, pontefice massimo, investito della potestà tribunizia per la quindicesima volta, console per la terza volta, padre della patria, la Colonia Augusta dei Tindaritani, sotto la supervisione di Marco Valerio Vitale, curatore degli affari pubblici.</p>
+            </div>
+            <div type="commentary" resp="#JP">
+                <p>One of two inscriptions erected by Marcus Valerius Vitalis, curator of public affairs, in honour of the joint emperors Marcus Aurlius (this inscription) and Lucius Verus (<ref target="http://sicily.classics.ox.ac.uk/inscription/ISic000066">ISic000066.</ref>)</p>
+                <p>Manganaro published in 1989 a small fragment on display in the Tindari site antiquarium (and still on display in 2022). Manganaro proposed that the fragment formed the ends of lines 3-5 of this inscription in Palermo Archaeological Museum, and this attribution has generally been accepted (e.g. Zambito 2007). Fasolo 2013: 73 no.5 rejected the attribution, but his reasoning is flawed (he suggested that the presence of VA at the start of line 5 in the preserved fragments precluded the integration of the new fragment, and yet at first sight it directly supports it, only that the word division at the end of line 5 in the currently proposed restorations of the text would require minor revision). However, a more serious objection lies in the fact that the new fragment is only half as thick (3.5-3.9 cm) as the existing plaque (6.5 cm), and close study of the letter forms (which have the same height, 60-65mm in the existing plaque; 60mm in the new fragment) also suggests minor differences. It is, additionally, given that the right margin of the new plaque is preserved, extremely hard to restore ARTHI at the end of line 1 of the fragment (required at the end of line 3 of the existing text, given CI at the start of line 4), where autopsy confirms that there appears to be no trace of, or space for, the final two verticals required, and the traces preserved are more readily compatible with e.g. ARI·F or similar, unless a complex triple ligature has been employed (unlikely). The new fragment clearly comes from a very similar and contemporary text, but unless other arguments can be adduced, it should be considered part of a separate text (<ref target="http://sicily.classics.ox.ac.uk/inscription/ISic002007">ISic002007</ref>). It is also unclear whether the stone is the same. The existing text of ISic000065 is entirely painted in red, but this is presumably antiquarian recolouring in the earlier 19th century and the absence of paint in the new fragment should not be considered an argument either way.</p>
+                    <!--commented out pending revision-->
+                    <!--two frags, second supplied by Mang (1989) [Only Zambito seems to notice Manganaro's addition], first only in CIL. In honour of Marcus Aurelius. Bivona, ILLPa, p.78: 'Marco Valerio Vitale non compare in alteri documenti. Come e noto il curator r.p. o civitatis aveva il compito di esercitare un controllo sull'amministrazione locale, specialmente finanziaria, nei singoli comuni o anche in piu comuni. Istituito da Traiano e da lui nominati fra i senatori o i cavalieri, i curatores finirono poi col perdere il carattere eccezionale e limitato a casi particolari delle province, o di nomina imperiale che avevano avuto e divennero dei veri e propri funzionari stabili delle citta.' Cf. CIL 10.7475 for another by the same, to Luvius Verus. Photograph of second fragment from antiquarium visit, 2006-->
+            </div>
+            <div type="bibliography">
+                <listBibl type="edition">
+                    <bibl>
+                        <author>Maggiore</author>
+                        <date>1829</date>
+                        <citedRange>292 no.2</citedRange>
+                        <ptr target="https://www.zotero.org/groups/382445/items/T4NR9UP5"/>
+                        <ref target="https://biblio.inscriptiones.org/epig10002795">https://biblio.inscriptiones.org/epig10002795</ref>
+                    </bibl>
+                    <bibl type="corpus" n="CIL">
+                        <author>Mommsen</author>
+                        <date>1883</date>
+                        <citedRange>
+                            <ref target="http://arachne.uni-koeln.de/item/buchseite/650805">7474</ref>
+                        </citedRange>
+                        <ptr target="https://www.zotero.org/groups/382445/items/GQN8UZSI"/>
+                    <ref target="https://biblio.inscriptiones.org/epig10000589">https://biblio.inscriptiones.org/epig10000589</ref></bibl>
+                    <bibl type="bulletin" n="AE">
+                        <date>2007</date>
+                        <citedRange>682</citedRange>
+                        <ptr target="https://www.zotero.org/groups/382445/items/R46KDTZX"/>
+                    <ref target="https://biblio.inscriptiones.org/epig10001283">https://biblio.inscriptiones.org/epig10001283</ref></bibl>
+                    <bibl type="bulletin" n="AE">
+                        <citedRange>1989.0338c</citedRange>
+                        <ptr target="https://www.zotero.org/groups/382445/items/R46KDTZX"/>
+                    <ref target="https://biblio.inscriptiones.org/epig10001283">https://biblio.inscriptiones.org/epig10001283</ref></bibl>
+                    <bibl type="corpus" n="ILMusPalermo">
+                         <author>Bivona</author>
+                         <date>1970</date> 
+                        <citedRange>66</citedRange>
+                        <ptr target="https://www.zotero.org/groups/382445/items/FZWWPUD6"/>
+                    <ref target="https://biblio.inscriptiones.org/epig10002142">https://biblio.inscriptiones.org/epig10002142</ref></bibl>
+                    <bibl>
+                        <author>Raepsaet-Charlier</author>
+                        <date>1974</date>
+                        <citedRange>127</citedRange>
+                        <ptr target="https://www.zotero.org/groups/382445/items/PZHQV5MN"/>
+                    <ref target="https://biblio.inscriptiones.org/epig10001648">https://biblio.inscriptiones.org/epig10001648</ref></bibl>
+                    <bibl>
+                        <author>Zambito</author>
+                        <date>2007</date>
+                        <citedRange>105 and fig. 1</citedRange>
+                        <ptr target="https://www.zotero.org/groups/382445/items/I2845RRS"/>
+                    <ref target="https://biblio.inscriptiones.org/epig10001503">https://biblio.inscriptiones.org/epig10001503</ref></bibl>
+                    <bibl>
+                        <author>Fasolo</author>
+                        <date>2013</date>
+                        <citedRange>72-73 no. 4 fig. 34</citedRange>
+                        <ptr target="https://www.zotero.org/groups/382445/items/X2SEXMRX"/>
+                    <ref target="https://biblio.inscriptiones.org/epig10002011">https://biblio.inscriptiones.org/epig10002011</ref></bibl>
+                    <bibl>
+                        <author>Manganaro</author>
+                        <date>1988</date>
+                        <citedRange>74</citedRange>
+                        <ptr target="https://www.zotero.org/groups/382445/items/RZSFKACR"/>
+                        <ref target="https://biblio.inscriptiones.org/epig10001427">https://biblio.inscriptiones.org/epig10001427</ref></bibl>
+                </listBibl>
+	   <listBibl type="discussion">
+	       <bibl>
+	           <author>Manganaro</author>
+	           <date>1989</date>
+	           <citedRange>162 no. 4 fig. 4-4a</citedRange>
+	           <ptr target="https://www.zotero.org/groups/382445/items/EZMBJ6GN"/>
+	       <ref target="https://biblio.inscriptiones.org/epig10001831">https://biblio.inscriptiones.org/epig10001831</ref></bibl>
+	   </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

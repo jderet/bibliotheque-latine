@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Fragmentary imperial dedication</title>
+                <editor ref="#JP">Jonathan Prag</editor>
+                <principal ref="#JP">Jonathan Prag</principal>
+                <funder>John Fell OUP Research Fund</funder>
+                <funder>
+                    <ref target="https://cordis.europa.eu/project/id/885040">ERC Advanced Grant no.885040</ref>
+                </funder>
+                <respStmt>
+                    <name xml:id="JP" ref="http://orcid.org/0000-0003-3819-8537">Jonathan Prag</name>
+                    <resp>original data collection and editing</resp>
+                </respStmt>
+                <respStmt>
+                    <name xml:id="JCu" ref="http://orcid.org/0000-0002-6686-3728">James Cummings</name>
+                    <resp>conversion to EpiDoc</resp>
+                </respStmt>
+                <respStmt>
+                    <name xml:id="TA" ref="https://orcid.org/0000-0001-8417-7089">Tuuli Ahlholm</name>
+                    <resp>EpiDoc editing</resp>
+                </respStmt>
+                <respStmt>
+                    <name xml:id="SS" ref="https://orcid.org/0000-0003-3914-9569">Simona Stoyanova</name>
+                    <resp>standardisation of template and tidying up encoding</resp>
+                </respStmt>
+                <respStmt>
+                    <name xml:id="RC" ref="https://orcid.org/0000-0002-0100-7437">Robert Crellin</name>
+                    <resp>lemmatization and linguistic analysis</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>I.Sicily</authority>
+                <idno type="filename">ISic000088</idno>
+                <idno type="TM">285021</idno>
+                <idno type="EDR">109649</idno>
+                <idno type="EDH"/>
+                <idno type="EDCS">22100041</idno>
+                <idno type="PHI"/>
+                <idno type="URI">http://sicily.classics.ox.ac.uk/inscription/ISic000088</idno>
+                <idno type="DOI" when="2020-12-17">10.5281/zenodo.4334083</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">Licensed under a Creative Commons-Attribution 4.0 licence.</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Italy</country>
+                        <region>Sicily</region>
+                        <settlement>Termini</settlement>
+                        <repository>unknown</repository>
+                        <!--No inventory number found-->
+                        <!--Adding location for old id numbers if available-->
+                        <altIdentifier>
+                            <settlement/>
+                            <repository/>
+                            <idno type="old"/>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <textLang mainLang="la">Latin</textLang>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <p>Two fragments of a stone altar, but no details preserved.</p>
+                                    <material ana="#material.inorganic.stone" type="stone.unspecified" subtype="unverified" ref="http://www.eagle-network.eu/voc/material/lod/2.html">stone</material>
+                                    <objectType ana="#object.altar" ref="http://www.eagle-network.eu/voc/objtyp/lod/29.html">altar</objectType>
+                                    <dimensions>
+                                        <height unit="cm"/>
+                                        <width unit="cm"/>
+                                        <depth unit="cm"/>
+                                    </dimensions>
+                                </support>
+                                <condition ana="#condition.fragments"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                    <p>It is unclear exactly what the relationship of the two fragments to one another was.</p>
+                                    <rs ana="#execution.chiselled" ref="http://www.eagle-network.eu/voc/writing/lod/1">chiselled</rs>
+                                    <damage ana="#text_condition.incomplete"/>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                                <locus from="line1" to="line1">Line 1</locus>
+                                <dimensions type="letterHeight">
+                                    <height unit="mm"/>
+                                </dimensions>
+                                <locus from="line1" to="line2">Interlineation line 1 to 2</locus>
+                                <dimensions type="interlinear">
+                                    <height unit="mm"/>
+                                </dimensions>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>
+                                <region>Sicilia</region>
+                                <placeName type="ancient" ref="http://pleiades.stoa.org/places/462513" cert="low">Thermae Himeraeae</placeName>
+                                <placeName type="modern" ref="http://sws.geonames.org/6539140">Termini Imerese</placeName>
+                                <geo>37.98365, 13.69555</geo>
+                            </origPlace>
+                            <origDate datingMethod="#julian" notBefore-custom="0004" notAfter-custom="0014" evidence="prosopography">Post-4 CE, date of Tiberius' adoption</origDate>
+                        </origin>
+                        <provenance type="found" subtype="discovered" notAfter="1624">Observed by Gualtherus (1624) inside the town-hall of Termini, broken and one of the two parts already missing. Not seen since.</provenance>
+                        <provenance type="not-observed" subtype="lost">Lost.</provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Encoded following the latest EpiDoc guidelines</p>
+            <xi:include href="../alists/ISicily-taxonomies.xml">
+                <xi:fallback>
+                    <p>Taxonomies for ISicily controlled values</p>
+                </xi:fallback>
+            </xi:include>
+            <xi:include href="../alists/charDecl.xml">
+                <xi:fallback>
+                    <p>ISicily glyphs authority list</p>
+                </xi:fallback>
+            </xi:include>
+        </encodingDesc>
+        <profileDesc>
+            <calendarDesc>
+                <calendar xml:id="julian">
+                    <p>Julian Calendar</p>
+                </calendar>
+            </calendarDesc>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="it">Italian</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="la">Latin</language>
+                <language ident="he">Hebrew</language>
+                <language ident="phn">Phoenician</language>
+                <language ident="xpu">Punic</language>
+                <language ident="osc">Oscan</language>
+                <language ident="xly">Elymian</language>
+                <language ident="scx">Sikel</language>
+                <language ident="sxc">Sikan</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="https://ontology.inscriptiones.org/type_of_inscription">
+                    <term ana="#function.dedication" ref="https://ontology.inscriptiones.org/type_of_inscription/Dedication">dedication</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc status="draft">
+            <listChange>
+                <change when="2016-12-03" who="#JCu">James Cummings autogenerated EpiDoc output from database</change>
+                <change when="2018-05-18" who="#TA">Tuuli Ahlholm cleaned up the autogenerated text and added an apparatus</change>
+                <change when="2020-09-09" who="#JP">Jonathan Prag undertook minor edits from publications</change>
+                <change when="2020-10-05" who="#SS">Simona Stoyanova normalised Unicode</change>
+                <change when="2020-10-08" who="#SS">Simona Stoyanova updated list of languages</change>
+                <change when="2020-11-20" who="#SS">Simona Stoyanova added EDCS numbers</change>
+                <change when="2020-11-26" who="#SS">Simona Stoyanova restructured bibliography</change>
+                <change when="2020-12-17" who="#JP">Updated Zenodo DOI</change>
+                <change when="2021-01-19" who="#SS">renumbered files, uris and references</change>
+                <change when="2024-07-25" who="#JP">Jonathan Prag revised from publications</change>
+                <change when="2026-06-10" who="#RC">Robert Crellin provided lemmatizations</change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <surface/><!-- 
+        <surface type="front">
+            <graphic n="screen" url="ISic000088_tiled.tif" height="3680px" width="5520px">
+                <desc>I.Sicily with the permission of the Assessorato Regionale dei Beni Culturali e dell’Identità Siciliana - Dipartimento dei Beni Culturali e dell’Identità Siciliana</desc>
+            </graphic>
+            <graphic n="print" url="ISic000088.jpg" height="3680px" width="5520px">
+                <desc>I.Sicily with the permission of the Assessorato Regionale dei Beni Culturali e dell’Identità Siciliana - Dipartimento dei Beni Culturali e dell’Identità Siciliana</desc>
+            </graphic>
+         </surface> -->
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition" subtype="primary" xml:space="preserve" xml:lang="la" resp="#TA">
+                <ab>
+                    <lb n="1"/><w n="5">ara</w>
+                    <lb n="2"/><roleName type="supracivic" subtype="imperator"><w n="10"><expan><abbr>imp</abbr><ex>eratori</ex></expan></w></roleName> <g ref="#interpunct" n="15">·</g> <name><w n="20">Cae<supplied reason="lost">sari</supplied></w></name> <name><w n="25"><supplied reason="lost">Augusto</supplied></w></name>
+                    <lb n="3"/><w n="30">et</w> <g ref="#interpunct" n="35">·</g> <name><w n="40"><unclear>L</unclear>iv<unclear>i</unclear><supplied reason="lost">ae</supplied></w></name>
+                    <lb n="4"/><w n="45">matri</w> <name><w n="50"><supplied reason="lost"><expan><abbr>Ti</abbr><ex>beri</ex></expan></supplied></w></name> <name><w n="55"><supplied reason="lost"><expan><abbr>Caes</abbr><ex>aris</ex></expan></supplied></w></name>
+                    <lb n="5"/><roleName type="supracivic" subtype="imperator"><w n="60"><expan><abbr>imp</abbr><ex>eratoris</ex></expan></w></roleName> <name><w n="65"><expan><abbr>Cae<supplied reason="lost">s</supplied></abbr><supplied reason="lost"><ex>aris</ex></supplied></expan></w></name> <w n="70"><supplied reason="lost">filii</supplied></w> <gap reason="lost" extent="unknown" unit="character" n="75"/>
+                </ab>
+            </div>
+            <div type="edition" subtype="simple-lemmatized" resp="#RC">
+                <ab>
+                    <w n="5" lemma="ara">ara</w>
+                    <w n="10" lemma="imperator">imperatori</w>
+                    <w n="20" lemma="Caesar">Caesari</w>
+                    <w n="25" lemma="Augustus">Augusto</w>
+                    <w n="30" lemma="et">et</w>
+                    <w n="40" lemma="Livia">Liviae</w>
+                    <w n="45" lemma="mater">matri</w>
+                    <w n="50" lemma="Tiberius">Tiberi</w>
+                    <w n="55" lemma="Caesar">Caesaris</w>
+                    <w n="60" lemma="imperator">imperatoris</w>
+                    <w n="65" lemma="Caesar">Caesaris</w>
+                    <w n="70" lemma="filius">filii</w>
+                    <gap reason="lost" extent="unknown" unit="character" n="75"><desc>[-?-]</desc></gap>
+                </ab>
+            </div>
+            <div type="apparatus">
+                <listApp>
+                    <app>
+                        <note>Text after Gualtherus and Manganaro</note>
+                    </app>
+                    <app loc="2">
+                        <note>Mommsen: imp(eratori) Cae[sari]</note>
+                    </app>
+                    <app loc="3">
+                        <note>Gualtherus prints I... at the end of line 3 of frag. 1 and IVL. at the start of the second fragment, united by Mommsen and Manganaro; Manganaro: Liv[iae deae]</note>
+                    </app>
+                </listApp>
+            </div>
+            <div type="translation" xml:lang="en" resp="#JP">
+                <p>Altar (dedicated) to Imperator Caesar Augustus and Livia mother of Tiberius Caesar son of Imperator Caesar...</p>
+            </div>
+            <div type="commentary">
+                <p>Gualtherus reports the text as being in two fragments, of which the second was already lost. Neither Mommsen nor Manganaro in their proposed restoration and unification of the fragments really make clear how they get from ARA / IMP.CAE.. / ET . I... and IVL. / MATRI. / IMP. CAE. to the restoration of Livia in line 3, although Mommsen's sketch suggests what is proposed here, namely that I... and IVL. need to be understood as a garbled reading of LIVIAE across the break and the transcription of the lost fragment. As Torremuzza observed, it would theoretically be possible instead to refer this e.g. to Caracalla and Iulia Severa.</p>
+            </div>
+            <div type="bibliography">
+                <listBibl type="edition">
+                    <bibl>
+                        <author>Gualtherus</author>
+                        <date>1624</date>
+                        <citedRange>95</citedRange>
+                        <ptr target="https://www.zotero.org/groups/382445/items/GIN6NANU"/>
+                        <ref target="https://biblio.inscriptiones.org/epig10002388">https://biblio.inscriptiones.org/epig10002388</ref>
+                    </bibl>
+                    <bibl>
+                        <author>Gualtherus</author>
+                        <date>1624 [1625]</date>
+                        <citedRange>
+                            <ref target="http://arachne.uni-koeln.de/item/buchseite/310968">252</ref>
+                        </citedRange>
+                        <ptr target="https://www.zotero.org/groups/382445/items/ZP8DE8KS"/>
+                        <ref target="https://biblio.inscriptiones.org/epig10001931">https://biblio.inscriptiones.org/epig10001931</ref>
+                    </bibl>
+                    <bibl>
+                        <author>Castelli</author>
+                        <date>1769</date>
+                        <citedRange>cl.4, no.5</citedRange>
+                        <ptr target="https://www.zotero.org/groups/382445/items/SPTB56H3"/>
+                        <ref target="https://biblio.inscriptiones.org/epig10002084">https://biblio.inscriptiones.org/epig10002084</ref>
+                    </bibl>
+                    <bibl>
+                        <author>Castelli</author>
+                        <date>1784</date>
+                        <citedRange>cl.4, no.5</citedRange>
+                        <ptr target="https://www.zotero.org/groups/382445/items/7PSFHSUH"/>
+                        <ref target="https://biblio.inscriptiones.org/epig10002083">https://biblio.inscriptiones.org/epig10002083</ref>
+                    </bibl>
+                    <bibl type="corpus" n="CIL">
+                        <author>Mommsen</author>
+                        <date>1883</date>
+                        <citedRange>
+                            <ref target="http://arachne.uni-koeln.de/item/buchseite/650795">7340</ref>
+                        </citedRange>
+                        <ptr target="https://www.zotero.org/groups/382445/items/GQN8UZSI"/>
+                        <ref target="https://biblio.inscriptiones.org/epig10000589">https://biblio.inscriptiones.org/epig10000589</ref>
+                    </bibl>
+                    <bibl type="corpus" n="ILMusTermini">
+                        <author>Bivona</author>
+                        <date>1994</date>
+                        <citedRange>4</citedRange>
+                        <ptr target="https://www.zotero.org/groups/382445/items/JCV85C79"/>
+                        <ref target="https://biblio.inscriptiones.org/epig10002137">https://biblio.inscriptiones.org/epig10002137</ref>
+                    </bibl>
+                    <bibl>
+                        <author>Manganaro</author>
+                        <date>1989</date>
+                        <citedRange>192 n.128</citedRange>
+                        <ptr target="https://www.zotero.org/groups/382445/items/EZMBJ6GN"/>
+                        <ref target="https://biblio.inscriptiones.org/epig10001831">https://biblio.inscriptiones.org/epig10001831</ref>
+                    </bibl>
+                    <bibl>
+                        <author>Manganaro</author>
+                        <date>1988</date>
+                        <citedRange>48, 65</citedRange>
+                        <ptr target="https://www.zotero.org/groups/382445/items/RZSFKACR"/>
+                        <ref target="https://biblio.inscriptiones.org/epig10001427">https://biblio.inscriptiones.org/epig10001427</ref>
+                    </bibl>
+                </listBibl>
+                <listBibl type="discussion">
+                    <bibl/>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

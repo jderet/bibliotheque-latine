@@ -1,0 +1,253 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscription erected by Tettia, priestess of Ceres for her son</title>
+                <editor ref="#JP">Jonathan Prag</editor>
+                <principal ref="#JP">Jonathan Prag</principal>
+                <funder>John Fell OUP Research Fund</funder>
+	   <funder><ref target="https://cordis.europa.eu/project/id/885040">ERC Advanced Grant no.885040</ref></funder>
+                <respStmt>
+                    <name xml:id="JP" ref="http://orcid.org/0000-0003-3819-8537">Jonathan Prag</name>
+                    <resp>original data collection and editing</resp>
+                </respStmt>
+                <respStmt>
+                    <name xml:id="JCu" ref="http://orcid.org/0000-0002-6686-3728">James Cummings</name>
+                    <resp>conversion to EpiDoc</resp>
+                </respStmt>
+	    <respStmt>
+     	       <name xml:id="SS" ref="https://orcid.org/0000-0003-3914-9569">Simona Stoyanova</name>
+     	       <resp>standardisation of template and tidying up encoding</resp>
+ 	   </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>I.Sicily</authority>
+                <idno type="filename">ISic002984</idno>
+                <idno type="TM">175842</idno>
+                <idno type="EDR">073827</idno>
+                <idno type="EDH"/>
+                <idno type="EDCS">13900574</idno>
+                <idno type="PHI"/>
+                <idno type="URI">http://sicily.classics.ox.ac.uk/inscription/ISic002984</idno>
+                <idno type="DOI" when="2020-12-23">10.5281/zenodo.4387867</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">Licensed under a Creative Commons-Attribution 4.0 licence</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Italy</country>
+                        <region>Sicily</region>
+                        <settlement>Enna</settlement>
+                        <repository role="museum" ref="http://sicily.classics.ox.ac.uk/museum/004">Museo Archeologico Varisano</repository>
+                        <idno type="inventory">174</idno>
+                        <!--Adding location for old id numbers if available-->
+                        <altIdentifier>
+                            <settlement/>
+                            <repository/>
+                            <idno type="old"/>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <textLang mainLang="la">Latin</textLang>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support><p>The left half of a marble plaque, broken diagonally down the middle from upper left to lower right. The surface has been engraved in relief with the form of a tabula ansata, with a triple moulding, the inscription set inside the frame. The edges are roughly finished, the rear not visible.</p>
+                                    <material ana="#material.inorganic.stone.metamorphic_rock.marble" type="stone.marble" subtype="unverified" ref="http://www.eagle-network.eu/voc/material/lod/48.html">marble</material>
+                                    <objectType ana="#object.plaque" ref="http://www.eagle-network.eu/voc/objtyp/lod/259.html">plaque</objectType>
+                                    <dimensions>
+                                        <height unit="cm">31</height>
+                                        <width unit="cm">27</width>
+                                        <depth unit="cm">3.5-4.0</depth>
+                                    </dimensions>
+                                </support>
+                                <condition ana="#condition.fragment"/>
+		    </supportDesc>
+                            <layoutDesc>
+                                <layout><p>Six lines of Latin letters, lines 1 and 3 (the start of each individual name) set hard against the left margin, lines 2, 4-6 consistently indented by approximately half a letter space. The inscription neatly fills the available field.</p>
+                                    <rs ana="#execution.chiselled" ref="http://www.eagle-network.eu/voc/writing/lod/1">chiselled</rs>
+                                	<damage ana="#text_condition.legible"/>
+			</layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote><p>Clear v-cut letters, relatively short and broad, with modest serifs. Cross-strokes are faint, width of letters somewhat uneven; C, V, M notably broad; M has four sloping, full-length strokes; R is slightly open with extended tail; T has upward sloping / curved horizontal; deep triangular interpuncts.</p>
+                                <locus from="line1" to="line1">Line 1</locus>
+                                <dimensions type="letterHeight">
+                                    <height unit="mm" atLeast="24" atMost="24">24</height>
+                                </dimensions>
+                                <locus from="line2" to="line6">Line 2-6</locus>
+                                <dimensions type="letterHeight">
+                                    <height unit="mm" atLeast="22" atMost="22">22</height>
+                                </dimensions>
+                                <locus from="line1" to="line2">Interlineation line 1 to 2</locus>
+                                <dimensions type="interlinear">
+                                    <height unit="mm"/>
+                                </dimensions>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace><region>Sicilia</region>
+                                <placeName type="ancient" ref="http://pleiades.stoa.org/places/462236">Enna</placeName>		
+                                <placeName type="modern" ref="http://sws.geonames.org/2524819">Enna</placeName>
+                            	<geo>37.5655, 14.27433</geo>
+		</origPlace>
+                            <origDate datingMethod="#julian" notBefore-custom="0014" notAfter-custom="0068" evidence="lettering">Julio-Claudian (Manganaro)</origDate>
+                        </origin>
+                        <provenance type="found" subtype="discovered" when="1942-11">Found 'in localita Porto Salvo, non lungi dalla torre di Federico II' during military works in November 1942<geo>37.5631813,14.2720323</geo>. Now on display in the Museo Varisano.</provenance><!-- vicinity of the Torre di Federico II -->
+                        <provenance type="observed" subtype="autopsied" xml:id="autopsy" resp="#JP">Autopsy by Prag 2026-02-04, on display in the Museum.</provenance>
+                        <acquisition/>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+             <p>Encoded following the latest EpiDoc guidelines</p>
+             <xi:include href="../alists/ISicily-taxonomies.xml">
+                 <xi:fallback>
+                     <p>Taxonomies for ISicily controlled values</p>
+                 </xi:fallback>
+             </xi:include>
+	  <xi:include href="../alists/charDecl.xml">
+	     <xi:fallback>
+	       <p>ISicily glyphs authority list</p>
+	     </xi:fallback>
+	   </xi:include>
+         </encodingDesc>
+        <profileDesc>
+            <calendarDesc>
+                <calendar xml:id="julian">
+                    <p>Julian Calendar</p>
+                </calendar>
+            </calendarDesc>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="it">Italian</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="la">Latin</language>
+                <language ident="he">Hebrew</language>
+                <language ident="phn">Phoenician</language>
+                <language ident="xpu">Punic</language>
+                <language ident="osc">Oscan</language>
+                <language ident="xly">Elymian</language>
+                <language ident="scx">Sikel</language>
+                <language ident="sxc">Sikan</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="https://ontology.inscriptiones.org/type_of_inscription">
+                    <term ana="#function.funerary" ref="https://ontology.inscriptiones.org/type_of_inscription/Funerary">funerary</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc status="edited">
+            <listChange>
+                <change when="2016-12-03" who="#JCu">James Cummings autogenerated EpiDoc output from database</change>
+            	   <change when="2020-10-05" who="#SS">Simona Stoyanova normalised Unicode</change>
+            	   <change when="2020-10-08" who="#SS">Simona Stoyanova updated list of languages</change>
+            	<change when="2020-11-20" who="#SS">Simona Stoyanova added EDCS numbers</change>
+	<change when="2020-11-26" who="#SS">Simona Stoyanova restructured bibliography</change>
+	    <change when="2020-12-23" who="#JP">Updated Zenodo DOI</change>
+            	<change when="2021-01-19" who="#SS">renumbered files, uris and references</change>
+                <change when="2021-02-08" who="#JP">Jonathan Prag edited from photograph and publications</change>
+                <change when="2026-02-12" who="#JP">Jonathan Prag revised from autopsy</change>
+	</listChange>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <surface type="front">
+            <graphic n="screen" url="ISic002984_tiled.tif" height="4216px" width="3594px">
+                <desc>I.Sicily with the permission of the Assessorato Regionale dei Beni Culturali e dell’Identità Siciliana - Dipartimento dei Beni Culturali e dell’Identità Siciliana; photo J. Prag 2026-02-04</desc>
+            </graphic>
+            <graphic n="print" url="ISic002984.jpg" height="4216px" width="3594px">
+                <desc>I.Sicily with the permission of the Assessorato Regionale dei Beni Culturali e dell’Identità Siciliana - Dipartimento dei Beni Culturali e dell’Identità Siciliana; photo J. Prag 2026-02-04</desc>
+            </graphic>
+            <graphic n="screen" url="ISic002984_copy2_tiled.tif" height="4080px" width="3072px">
+                <desc>I.Sicily with the permission of the Assessorato Regionale dei Beni Culturali e dell’Identità Siciliana - Dipartimento dei Beni Culturali e dell’Identità Siciliana; photo J. Prag 2026-02-04</desc>
+            </graphic>
+            <graphic n="print" url="ISic002984_copy2.jpg" height="4080px" width="3072px">
+                <desc>I.Sicily with the permission of the Assessorato Regionale dei Beni Culturali e dell’Identità Siciliana - Dipartimento dei Beni Culturali e dell’Identità Siciliana; photo J. Prag 2026-02-04</desc>
+            </graphic>
+         </surface>
+        <surface type="left">
+            <graphic n="screen" url="ISic002984_left_tiled.tif" height="3768px" width="1842px">
+                <desc>I.Sicily with the permission of the Assessorato Regionale dei Beni Culturali e dell’Identità Siciliana - Dipartimento dei Beni Culturali e dell’Identità Siciliana; photo J. Prag 2026-02-04</desc>
+            </graphic>
+            <graphic n="print" url="ISic002984_left.jpg" height="3768px" width="1842px">
+                <desc>I.Sicily with the permission of the Assessorato Regionale dei Beni Culturali e dell’Identità Siciliana - Dipartimento dei Beni Culturali e dell’Identità Siciliana; photo J. Prag 2026-02-04</desc>
+            </graphic>
+        </surface>
+    </facsimile>
+    <text>
+        <body>
+           <div type="edition" subtype="primary" xml:space="preserve" xml:lang="la" resp="#JP" source="#autopsy">
+               <ab>
+                   <lb n="1"/><expan><abbr>M</abbr><ex>arco</ex></expan> <g ref="#interpunct">·</g> T<gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" extent="unknown" unit="character"/>
+                   <lb n="2"/>Iulio <gap reason="lost" extent="unknown" unit="character"/>
+                   <lb n="3"/>Tettia <g ref="#interpunct">·</g> <expan><abbr><unclear>L</unclear></abbr><ex>uci</ex></expan> <supplied reason="lost"><expan><abbr>f</abbr><ex>ilia</ex></expan></supplied> <gap reason="lost" extent="unknown" unit="character"/>
+                   <lb n="4"/><roleName type="civic.religious" subtype="sacerdos">sacerd<supplied reason="lost">os</supplied></roleName> <supplied reason="lost" cert="low"><expan><abbr>publ</abbr><ex>ica</ex></expan></supplied>
+                   <lb n="5"/>Cereris <gap reason="lost" unit="character" extent="unknown"/>
+                   <lb n="6"/>mater <g ref="#interpunct">·</g> <expan><abbr>l</abbr><ex>ocus</ex></expan> <g ref="#interpunct">·</g> <supplied reason="lost"><expan><abbr>d</abbr><ex>atus</ex></expan></supplied> <supplied reason="lost"><expan><abbr>d</abbr><ex>ecreto</ex></expan></supplied> <supplied reason="lost"><expan><abbr>d</abbr><ex>ecurionum</ex></expan></supplied>
+               </ab>
+           </div>
+            <div type="apparatus" resp="#JP">
+                <listApp>
+                    <app><note>Text based upon autopsy</note></app>
+                    <app loc="line 1"><note>Manganaro: TI[---]; stone shows traces of cross stroke at base of vertical, compatible with e.g. E</note></app>
+                    <app loc="line 5"><note>Manganaro: Cereris [Aug(ustae) (?)]</note></app>
+                 </listApp>
+            </div>
+            <div type="translation" resp="#JP" xml:lang="en">
+                <p>To Marcus T(ettius?) [---] Iulius [---]. Tettia, daughter of Lucius [---], public priestess of Ceres [---], his mother (set this up). Location granted by decree of the decuriones.</p>
+            </div>
+            <div type="commentary">
+                <p>The reading and proposed restorations of Manganaro are here broadly accepted, other than that in line 1, the base of the final surviving letter is visible and clearly compatible with E rather than I, which would allow e.g. Tettius, although clearly that is hardly a necessary reading, since the son would ordinarily be expected to have the father's name. The interpunct after the L in line 6 is clearly visible, and while other expansions are possible, the typical formulation LDDD is highly plausible, and fits well with the likely original width of the stone. Assuming nomen and filiation in line 1 (and theoretically also tribal), the cognomen in line 2 seems likely to have been followed by a further onomastic element. Tettia in line 3 is presumably followed by not only filiation but a second name. There is space in line four for sacerdos publica, although whether either element was partially abbreviated cannot be known for certain. Manganaro proposed Cereris Augustae in line 5, and although other epithets (or indeed another divinity) are possible, this is undoubtedly the most likely restoration, again with some degree of abbreviation likely.</p>
+            </div>
+            <div type="bibliography">
+                <listBibl type="edition">
+                    <bibl type="bulletin" n="AE">
+                        <date>1951</date>
+                        <citedRange>180</citedRange>
+                        <ptr target="https://www.zotero.org/groups/382445/items/R46KDTZX"/>
+                    <ref target="https://biblio.inscriptiones.org/epig10001283">https://biblio.inscriptiones.org/epig10001283</ref>
+                    </bibl>
+                    <bibl type="bulletin" n="NSA">
+                        <author>Bernabo Brea</author>
+                        <title>NSA</title>
+                        <date>1947</date>
+                        <citedRange>241-242 fig.1</citedRange>
+                        <ptr target="https://www.zotero.org/groups/382445/items/4MCP2PVV"/>
+                    <ref target="https://biblio.inscriptiones.org/epig10001392">https://biblio.inscriptiones.org/epig10001392</ref>
+                    </bibl>
+                    <bibl>
+                        <author>Manganaro</author>
+                        <date>1965</date>
+                        <citedRange>189 tav.65.2</citedRange>
+                        <ptr target="https://www.zotero.org/groups/382445/items/RGTHAFKT"/>
+                    <ref target="https://biblio.inscriptiones.org/epig10001841">https://biblio.inscriptiones.org/epig10001841</ref>
+                    </bibl>
+                    <bibl>
+                        <author>Manganaro</author>
+                        <date>1988</date>
+                        <citedRange>68 n.348</citedRange>
+                        <ptr target="https://www.zotero.org/groups/382445/items/RZSFKACR"/>
+                        <ref target="https://biblio.inscriptiones.org/epig10001427">https://biblio.inscriptiones.org/epig10001427</ref></bibl>
+                    <bibl>
+                        <author>Amata</author>
+                        <date>2016</date>
+                        <citedRange>109-110 fig.30</citedRange>
+                        <ptr target="https://www.zotero.org/groups/382445/items/QUSE9NVG"/>
+                    </bibl>
+                </listBibl>
+	   <listBibl type="discussion"><bibl/></listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

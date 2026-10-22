@@ -1,0 +1,285 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Funerary inscription for Tiberius Claudius</title>
+                <editor ref="#JP">Jonathan Prag</editor>
+                <principal ref="#JP">Jonathan Prag</principal>
+                <funder>John Fell OUP Research Fund</funder>
+                <funder>
+                    <ref target="https://cordis.europa.eu/project/id/885040">ERC Advanced Grant no.885040</ref>
+                </funder>
+                <respStmt>
+                    <name xml:id="JP" ref="http://orcid.org/0000-0003-3819-8537">Jonathan Prag</name>
+                    <resp>original data collection and editing</resp>
+                </respStmt>
+                <respStmt>
+                    <name xml:id="JCu" ref="http://orcid.org/0000-0002-6686-3728">James Cummings</name>
+                    <resp>conversion to EpiDoc</resp>
+                </respStmt>
+                <respStmt>
+                    <name xml:id="TA" ref="https://orcid.org/0000-0001-8417-7089">Tuuli Ahlholm</name>
+                    <resp>EpiDoc editing</resp>
+                </respStmt>
+                <respStmt>
+                    <name xml:id="SS" ref="https://orcid.org/0000-0003-3914-9569">Simona Stoyanova</name>
+                    <resp>standardisation of template and tidying up encoding</resp>
+                </respStmt>
+                <respStmt>
+                    <name xml:id="VF" ref="https://orcid.org/0000-0001-6302-3726">Victoria Fendel</name>
+                    <resp>lemmatization and linguistic analysis</resp>
+                </respStmt>
+                <respStmt>
+                    <name xml:id="RC" ref="https://orcid.org/0000-0002-0100-7437">Robert Crellin</name>
+                    <resp>lemmatization and linguistic analysis</resp>
+                </respStmt>
+            <respStmt><name xml:id="Coccato" ref="https://orcid.org/0000-0002-6641-2820">Alessia Coccato</name><resp>Petrographic observation and analysis</resp></respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>I.Sicily</authority>
+                <idno type="filename">ISic000153</idno>
+                <idno type="TM">285273</idno>
+                <idno type="EDR">111299</idno>
+                <idno type="EDH"/>
+                <idno type="EDCS">10900648</idno>
+                <idno type="PHI"/>
+                <idno type="URI">http://sicily.classics.ox.ac.uk/inscription/ISic000153</idno>
+                <idno type="DOI" when="2020-12-17">10.5281/zenodo.4334348</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">Licensed under a Creative Commons-Attribution 4.0 licence.</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Italy</country>
+                        <region>Sicily</region>
+                        <settlement>Termini Imerese</settlement>
+                        <repository role="museum" ref="http://sicily.classics.ox.ac.uk/museum/066">Museo Civico Baldassare Romano</repository>
+                        <idno type="inventory">88</idno>
+                        <!--red 108 on the stone-->
+                        <!--Adding location for old id numbers if available-->
+                        <altIdentifier>
+                            <settlement/>
+                            <repository/>
+                            <idno type="old"/>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <textLang mainLang="la">Latin</textLang>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <p>Thick rectangular plaque of marble, intact top, left and right, broken below. The edges and the rear are cut smooth. jThe edges have been painted with red in modern times, and two holdes drilled in the lower edge and one in the right edge, presumably for display. There is some chipping to the edges, and the face is worn concave, with much of the inscription after line 1 worn away.</p>
+                                    <material ana="#material.inorganic.stone.metamorphic_rock.marble" type="stone.marble" subtype="unspecified" resp="#Coccato" ref="http://www.eagle-network.eu/voc/material/lod/48.html">marble</material>
+                                    <objectType ana="#object.plaque" ref="https://www.eagle-network.eu/voc/objtyp/lod/259.html">plaque</objectType>
+                                    <dimensions>
+                                        <height unit="cm">18.6</height>
+                                        <width unit="cm">36.8</width>
+                                        <depth unit="cm">6.5-6.8</depth>
+                                    </dimensions>
+                                </support>
+                                <condition/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                    <p>Traces are visible of three lines of text, but it is possible, from the spacing, that a fourth line (which would be line 3 of the text) is simply completely lost; the spacing would be tight, however, and more plausibly there is simply a vacat between lines 2 and 3, after the name and prior to the record of age at death, a simple formulation that finds multiple parallels at Termini.</p>
+                                    <rs ana="#execution.chiselled" ref="http://www.eagle-network.eu/voc/writing/lod/1">chiselled</rs>
+                                    <damage/>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                                <p>Simply cut, somewhat irregular letters of varying width, with extended upper strokes and pronounced serifs.</p>
+                                <locus from="line1" to="line1">Line 1</locus>
+                                <dimensions type="letterHeight">
+                                    <height unit="mm" atLeast="32" atMost="39">32-39</height>
+                                </dimensions>
+                                <locus from="line2" to="line2">Line 2</locus>
+                                <dimensions type="letterHeight">
+                                    <height unit="mm" atLeast="35" atMost="35">35</height>
+                                </dimensions>
+                                <locus from="line3" to="line3">Line 3</locus>
+                                <dimensions type="letterHeight">
+                                    <height unit="mm" atLeast="34" atMost="34">34</height>
+                                </dimensions>
+                                <locus from="line1" to="line2">Interlineation line 1 to 2</locus>
+                                <dimensions type="interlinear">
+                                    <height unit="mm" atLeast="6" atMost="6">6</height>
+                                </dimensions>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace><region>Sicilia</region>
+                                <placeName type="ancient" ref="http://pleiades.stoa.org/places/462513">Thermae Himeraeae</placeName>
+                                <placeName type="modern" ref="http://sws.geonames.org/6539140">Termini Imerese</placeName>
+                                <geo>37.98365, 13.69555</geo>
+                            </origPlace>
+                            <origDate datingMethod="#julian" notBefore-custom="0001" notAfter-custom="0300" cert="low">Imperial</origDate>
+                        </origin>
+                        <provenance type="found" subtype="discovered" when="1885">Found in 1885 in the ruins of the castle, Termini Imerese<geo>37.9885961,13.6972313</geo></provenance><!-- representative point on the site of the castle -->
+                        <provenance type="observed" subtype="autopsied">Prag 2023-07-05, in the storeroom of the Museo Civico, room 1, rack 8, shelf 2.</provenance>
+                        <acquisition/>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Encoded following the latest EpiDoc guidelines</p>
+            <xi:include href="../alists/ISicily-taxonomies.xml">
+                <xi:fallback>
+                    <p>Taxonomies for ISicily controlled values</p>
+                </xi:fallback>
+            </xi:include>
+            <xi:include href="../alists/charDecl.xml">
+                <xi:fallback>
+                    <p>ISicily glyphs authority list</p>
+                </xi:fallback>
+            </xi:include>
+        </encodingDesc>
+        <profileDesc>
+            <calendarDesc>
+                <calendar xml:id="julian">
+                    <p>Julian Calendar</p>
+                </calendar>
+            </calendarDesc>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="it">Italian</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="la">Latin</language>
+                <language ident="he">Hebrew</language>
+                <language ident="phn">Phoenician</language>
+                <language ident="xpu">Punic</language>
+                <language ident="osc">Oscan</language>
+                <language ident="xly">Elymian</language>
+                <language ident="scx">Sikel</language>
+                <language ident="sxc">Sikan</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="https://ontology.inscriptiones.org/type_of_inscription">
+                    <term ana="#function.funerary" ref="https://ontology.inscriptiones.org/type_of_inscription/Funerary">funerary</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc status="edited">
+            <listChange>
+                <change when="2016-12-03" who="#JCu">James Cummings autogenerated EpiDoc output from database</change>
+                <change when="2019-05-17" who="#TA">Tuuli Ahlholm cleaned up the autogenerated text and added an apparatus</change>
+                <change when="2020-10-05" who="#SS">Simona Stoyanova normalised Unicode</change>
+                <change when="2020-10-08" who="#SS">Simona Stoyanova updated list of languages</change>
+                <change when="2020-11-20" who="#SS">Simona Stoyanova added EDCS numbers</change>
+                <change when="2020-11-26" who="#SS">Simona Stoyanova restructured bibliography</change>
+                <change when="2020-12-17" who="#JP">Updated Zenodo DOI</change>
+                <change when="2021-01-19" who="#SS">renumbered files, uris and references</change>
+                <change when="2024-05-01" who="#JP">Jonathan Prag revised from autopsy and added images</change>
+                <change when="2025-07-24" who="#VF">Victoria Fendel's lemmatizations were added</change>
+                <change when="2025-08-13" who="#RC">Robert Crellin moved global IDs to inner w elements</change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <surface type="front">
+            <graphic n="screen" url="ISic000153_tiled.tif" height="3680px" width="5520px">
+                <desc>I.Sicily with the permission of the Assessorato Regionale dei Beni Culturali e dell’Identità Siciliana - Dipartimento dei Beni Culturali e dell’Identità Siciliana; photo J. Prag 2023-07-05.</desc>
+            </graphic>
+            <graphic n="print" url="ISic000153.jpg" height="3680px" width="5520px">
+                <desc>I.Sicily with the permission of the Assessorato Regionale dei Beni Culturali e dell’Identità Siciliana - Dipartimento dei Beni Culturali e dell’Identità Siciliana; photo J. Prag 2023-07-05.</desc>
+            </graphic>
+        </surface>
+        <surface type="rear">
+            <graphic n="screen" url="ISic000153_rear_tiled.tif" height="3680px" width="5520px">
+                <desc>I.Sicily with the permission of the Assessorato Regionale dei Beni Culturali e dell’Identità Siciliana - Dipartimento dei Beni Culturali e dell’Identità Siciliana; photo J. Prag 2023-07-05.</desc>
+            </graphic>
+            <graphic n="print" url="ISic000153_rear.jpg" height="3680px" width="5520px">
+                <desc>I.Sicily with the permission of the Assessorato Regionale dei Beni Culturali e dell’Identità Siciliana - Dipartimento dei Beni Culturali e dell’Identità Siciliana; photo J. Prag 2023-07-05.</desc>
+            </graphic>
+        </surface>
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition" subtype="primary" xml:space="preserve" xml:lang="la" resp="#TA #JP">
+                <ab>
+                    <lb n="1" xml:id="APeAK"/><w xml:id="APeAU" n="5"><expan xml:id="APeAe"><abbr xml:id="APeAo">Ti</abbr><ex xml:id="APeAy">berius</ex></expan></w> <g ref="#interpunct" xml:id="APeAΙ" n="10">·</g> <name><w n="15" xml:id="APeAΤ">Claudius</w></name> <g ref="#interpunct" xml:id="APeAε" n="20">·</g>
+                    <lb n="2" xml:id="APeAο"/><gap reason="lost" extent="unknown" unit="character" cert="low" xml:id="APeBA" n="25"/> <orig xml:id="APeBK" n="30"><unclear xml:id="APeBU">A</unclear></orig><gap reason="lost" extent="unknown" unit="character" xml:id="APeBe" n="35"/>
+                    <lb n="3" xml:id="APeBo"/><gap reason="lost" extent="unknown" unit="character" cert="low" xml:id="APeBy" n="40"/> <w xml:id="APeBΙ" n="45"><expan xml:id="APeBΤ"><abbr xml:id="APeBε"><unclear xml:id="APeBο">v</unclear>ix</abbr><ex xml:id="APeCA">it</ex></expan></w> <w xml:id="APeCK" n="50"><supplied reason="lost" xml:id="APeCU"><expan xml:id="APeCe"><abbr xml:id="APeCo">ann</abbr><ex xml:id="APeCy">is</ex></expan></supplied></w> <gap reason="illegible" unit="character" quantity="3" xml:id="APeCΙ" n="55"/> <gap reason="lost" extent="unknown" unit="character" cert="low" xml:id="APeCΤ" n="60"/>
+                </ab>
+            </div>
+            <div type="edition" subtype="simple-lemmatized" resp="#VF">
+                <ab>
+                    <w n="5" lemma="Tiberius">Tiberius</w>
+                    <w n="15" lemma="Claudius">Claudius</w>
+                    <gap reason="lost" extent="unknown" unit="character" cert="low" n="25"><desc>[-?-]</desc></gap>
+                    <orig n="30">A</orig>
+                    <gap reason="lost" extent="unknown" unit="character" n="35"><desc>[-?-]</desc></gap>
+                    <gap reason="lost" extent="unknown" unit="character" cert="low" n="40"><desc>[-?-]</desc></gap>
+                    <w n="45" lemma="vivo">vixit</w>
+                    <w n="50" lemma="annus">annis</w>
+                    <gap reason="illegible" unit="character" quantity="3" n="55"><desc>[-?-]</desc></gap>
+                    <gap reason="lost" extent="unknown" unit="character" cert="low" n="60"><desc>[-?-]</desc></gap>
+                </ab>
+            </div>
+            <div type="apparatus">
+                <listApp>
+                    <app>
+                        <note>Text from autopsy</note>
+                    </app>
+                    <app>
+                        <note>Bivona appears to assume 5 lines in total, assuming a missing line after line 2, and a further missing line below the last surviving line; Fiorelli, following Ciofalo, assumed four lines (a line between lines 2 and 3), his text reproduced in Ephemeris Epigraphica VIII.</note>
+                    </app>
+                    <app loc="3">
+                        <note>Bivona: [---]IX[---]; traces of V clearly visible before, and tops of three lettes, probably numerals, visible at right end.</note>
+                    </app>
+                </listApp>
+            </div>
+            <div type="translation">
+                <p><!--translation(s) - add @xml:lang for 'en' or 'it' to div--></p>
+            </div>
+            <div type="commentary" resp="#JP">
+                <p>It is impossible to know on what basis Manganaro assumed that this stone contains a dedication that described 'un intervento edilizio'. Even given its very worn state, it is difficult if not impossible to construe it as anything other than a funerary inscription of a simple and common type at Termini, name plus age at death. Most likely line 2 contained the cognomen of the individual, quite possibly beginning with the visible letter A and so centred on the stone. Although theoretically there is room for a line between lines 2 and 3, this would be very compressed and absolutely no traces are visible. In the final line, traces of a curved V (compare the broad Vs in line 1) precede the visible IX, followed by a gap commensurate with ANN, which in turn is followed by traces of the tops of at least two, and possibly three strokes, probably the tops of Xs, i.e. the age at death.</p>
+            </div>
+            <div type="bibliography">
+                <listBibl type="edition">
+                    <bibl type="corpus" n="ILMusTermini">
+                         <author>Bivona</author>
+                         <date>1994</date> 
+                        <citedRange>73</citedRange>
+                        <ptr target="https://www.zotero.org/groups/382445/items/JCV85C79"/>
+                        <ref target="https://biblio.inscriptiones.org/epig10002137">https://biblio.inscriptiones.org/epig10002137</ref>
+                    </bibl>
+                    <bibl type="bulletin" n="NSA">
+                        <author>Fiorelli</author>
+                        <title>NSA</title>
+                        <date>1885</date>
+                        <citedRange>405</citedRange>
+                        <ptr target="https://www.zotero.org/groups/382445/items/4MCP2PVV"/>
+                        <ref target="https://biblio.inscriptiones.org/epig10001392">https://biblio.inscriptiones.org/epig10001392</ref>
+                    </bibl>
+                    <bibl type="bulletin" n="EphEp">
+                        <citedRange>VIII 702</citedRange>
+                        <ptr target="https://www.zotero.org/groups/382445/items/PU8UDAF3"/>
+                        <ref target="https://biblio.inscriptiones.org/epig10002649">https://biblio.inscriptiones.org/epig10002649</ref>
+                    </bibl>
+                    <bibl>
+                        <author>Manganaro</author>
+                        <date>1988</date>
+                        <citedRange>70</citedRange>
+                        <ptr target="https://www.zotero.org/groups/382445/items/RZSFKACR"/>
+                        <ref target="https://biblio.inscriptiones.org/epig10001427">https://biblio.inscriptiones.org/epig10001427</ref>
+                    </bibl>
+                </listBibl>
+                <listBibl type="discussion">
+                    <bibl/>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

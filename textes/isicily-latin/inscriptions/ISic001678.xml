@@ -1,0 +1,241 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Plaster graffito</title>
+                <editor ref="#JP">Jonathan Prag</editor>
+                <principal ref="#JP">Jonathan Prag</principal>
+                <funder>John Fell OUP Research Fund</funder>
+                <funder>
+                    <ref target="https://cordis.europa.eu/project/id/885040">ERC Advanced Grant no.885040</ref>
+                </funder>
+                <respStmt>
+                    <name xml:id="JP" ref="http://orcid.org/0000-0003-3819-8537">Jonathan Prag</name>
+                    <resp>original data collection and editing</resp>
+                </respStmt>
+                <respStmt>
+                    <name xml:id="JCu" ref="http://orcid.org/0000-0002-6686-3728">James Cummings</name>
+                    <resp>establishment of EpiDoc template</resp>
+                </respStmt>
+                <respStmt>
+                    <name xml:id="SS" ref="https://orcid.org/0000-0003-3914-9569">Simona Stoyanova</name>
+                    <resp>standardisation of template and tidying up encoding</resp>
+                </respStmt>
+                <respStmt>
+                    <name xml:id="MMohr"/>
+                    <resp>provision of data and imagery</resp>
+                </respStmt>
+                <respStmt>
+                    <name xml:id="RC" ref="https://orcid.org/0000-0002-0100-7437">Robert Crellin</name>
+                    <resp>lemmatization and linguistic analysis</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>I.Sicily</authority>
+                <idno type="filename">ISic001678</idno>
+                <idno type="TM"/>
+                <idno type="EDR"/>
+                <idno type="EDH"/>
+                <idno type="EDCS"/>
+                <idno type="PHI"/>
+                <idno type="URI">http://sicily.classics.ox.ac.uk/inscription/ISic001678</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">Licensed under a Creative Commons-Attribution 4.0 licence</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Italy</country>
+                        <region>Sicily</region>
+                        <settlement>San Cipirello</settlement>
+                        <repository role="museum" ref="http://sicily.classics.ox.ac.uk/museum/192">depot of the Zurich Ietas excavation</repository>
+                        <idno type="inventory"/><!--  no inv nr -->
+                        <!--Adding location for old id numbers if available-->
+                        <altIdentifier>
+                            <settlement/>
+                            <repository/>
+                            <idno type="old"/>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <textLang mainLang="grc">Ancient Greek</textLang>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <p>Two joining fragmenta of plaster fallen from the surface of a wall within the building</p>
+                                    <material ana="#material.inorganic.mortars.plaster" type="inorganic.mortars" subtype="plaster" ref="https://www.eagle-network.eu/voc/material/lod/126.html">plaster</material>
+                                    <objectType ana="#object.arch_element.wall" ref="https://www.eagle-network.eu/voc/objtyp/lod/416.html">wall</objectType>
+                                    <dimensions><!-- not recorded-->
+                                        <height unit="cm"/>
+                                        <width unit="cm"/>
+                                        <depth unit="cm"/>
+                                    </dimensions>
+                                </support>
+                                <condition ana="#condition.fragments.contiguous"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                    <p>letters scratched into plaster; a single line preserved, unclear if text complete to left, but clearly incomplete to right; space above and below</p>
+                                    <rs ana="#execution.scratched" ref="http://www.eagle-network.eu/voc/writing/lod/9">scratched</rs>
+                                    <damage ana="#text_condition.complete"/>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                                <p>Moderately regular and evenly spaced letters of generally equal height. Straight-bar alpha; slightly open gamma; lunate epsilon; kappa has full-length arms; rho has a triangular eye.</p>
+                                <p source="https://kingsdigitallab.github.io/crossreads/annotator.html">
+                                    Types list:
+                                    <ref target="https://kingsdigitallab.github.io/crossreads/data/allographs/types/greek-Α-type1.html">Α type1</ref>
+                                    <ref target="https://kingsdigitallab.github.io/crossreads/data/allographs/types/greek-Α-type1.3.html">Α type1.3</ref>
+                                    <ref target="https://kingsdigitallab.github.io/crossreads/data/allographs/types/greek-Ε-type3.html">Ε type3</ref>
+                                    <ref target="https://kingsdigitallab.github.io/crossreads/data/allographs/types/greek-Ε-type3.1.html">Ε type3.1</ref>
+                                    <ref target="https://kingsdigitallab.github.io/crossreads/data/allographs/types/greek-Ι-type1.html">Ι type1</ref>
+                                    <ref target="https://kingsdigitallab.github.io/crossreads/data/allographs/types/greek-Κ-type1.html">Κ type1</ref>
+                                    <ref target="https://kingsdigitallab.github.io/crossreads/data/allographs/types/greek-Κ-type1.1.html">Κ type1.1</ref>
+                                    <ref target="https://kingsdigitallab.github.io/crossreads/data/allographs/types/greek-Ρ-type1.html">Ρ type1</ref>
+                                    <ref target="https://kingsdigitallab.github.io/crossreads/data/allographs/types/greek-Ρ-type1.5.html">Ρ type1.5</ref>
+                                </p>
+                                <locus from="line1" to="line1">Line 1</locus>
+                                <dimensions type="letterHeight">
+                                    <height unit="mm"/>
+                                </dimensions>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace><region>Sicilia</region>
+                                <placeName type="ancient" ref="http://pleiades.stoa.org/places/462258" corresp="#findspot">Ietas</placeName>
+                                <placeName type="modern" ref="http://sws.geonames.org/2524540">Monte Iato</placeName>
+                                <geo>37.967050, 13.198199</geo>
+                            </origPlace>
+                            <origDate datingMethod="#julian" notBefore-custom="-0300" notAfter-custom="-0201" evidence="archaeological-context">third century BCE</origDate>
+                        </origin>
+                        <provenance type="found" subtype="discovered" when="2008">Found in 2008 among material fallen to the floor in the north ambulacrum of the peristyle of peristyle house 2<geo>37.967473, 13.194732</geo></provenance>
+                        <provenance type="observed" subtype="autopsied">None</provenance>
+                        <acquisition/>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Encoded following EpiDoc guidelines 9.2</p>
+            <xi:include href="../alists/ISicily-taxonomies.xml">
+                <xi:fallback>
+                    <p>Taxonomies for ISicily controlled values</p>
+                </xi:fallback>
+            </xi:include>
+            <xi:include href="../alists/charDecl.xml">
+                <xi:fallback>
+                    <p>ISicily glyphs authority list</p>
+                </xi:fallback>
+            </xi:include>
+        </encodingDesc>
+        <profileDesc>
+            <calendarDesc>
+                <calendar xml:id="julian">
+                    <p>Julian Calendar</p>
+                </calendar>
+            </calendarDesc>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="it">Italian</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="la">Latin</language>
+                <language ident="he">Hebrew</language>
+                <language ident="phn">Phoenician</language>
+                <language ident="xpu">Punic</language>
+                <language ident="osc">Oscan</language>
+                <language ident="xly">Elymian</language>
+                <language ident="scx">Sikel</language>
+                <language ident="sxc">Sikan</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="https://ontology.inscriptiones.org/type_of_inscription">
+                    <term ana="#function.attribution.production" ref="https://ontology.inscriptiones.org/type_of_inscription/Production">production record</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc status="draft">
+            <listChange>
+                <change when="2021-05-20" who="#JP">Jonathan Prag created file from template based upon publication and information/photographs provided by M. Mohr</change>
+                <change when="2025-10-15" who="#RC">Robert Crellin added local IDs to edition elements</change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <surface type="front">
+            <graphic n="screen" url="ISic001678_tiled.tif" height="1960px" width="3008px">
+                <desc>Photo courtesy Zurich Ietas excavations</desc>
+            </graphic>
+            <graphic n="print" url="ISic001678.jpg" height="1960px" width="3008px">
+                <desc>Photo courtesy Zurich Ietas excavations</desc>
+            </graphic>
+        </surface>
+        <surface type="front">
+            <graphic n="screen" url="ISic001678_tiled.tif" height="3680px" width="5520px">
+                <desc>I.Sicily with the permission of the Assessorato Regionale dei Beni Culturali e dell’Identità Siciliana - Dipartimento dei Beni Culturali e dell’Identità Siciliana</desc>
+            </graphic>
+            <graphic n="print" url="ISic001678.jpg" height="3680px" width="5520px">
+                <desc>I.Sicily with the permission of the Assessorato Regionale dei Beni Culturali e dell’Identità Siciliana - Dipartimento dei Beni Culturali e dell’Identità Siciliana</desc>
+            </graphic>
+        </surface>
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition" subtype="primary" xml:space="preserve" xml:lang="grc" resp="#JP">
+                <ab>
+                    <lb n="1" xml:id="BΠεAK"/><gap reason="lost" extent="unknown" unit="character" xml:id="BΠεAU" n="5"/><w xml:id="BΠεAe" n="10">ἔργα</w> <foreign xml:lang="la" xml:id="BΠεAo"><g ref="#denarius" xml:id="BΠεAy" n="15">𐆖</g></foreign> <num value="10" xml:id="BΠεAΙ"><w n="20">ι</w></num> <w xml:id="BΠεAΤ" n="25">καὶ</w> <gap reason="lost" extent="unknown" unit="character" xml:id="BΠεAε" n="30"/>
+                </ab>
+                </div>
+            <div type="apparatus" resp="#JP">
+                <listApp>
+                    <app>
+                        <note>Text of Isler, checked against photograph</note>
+                    </app>
+                </listApp>
+            </div>
+            <div type="translation" xml:lang="en" resp="#JP">
+                <p>... work (to the value of) 10 denarii, and...</p>
+            </div>
+            <div type="commentary" resp="#JP">
+                <p/>
+            </div>
+            <div type="bibliography">
+                <listBibl type="edition">
+                    <bibl type="bulletin" n="SEG">
+                        <date>2009</date>
+                        <citedRange>59.1101</citedRange>
+                        <ptr target="https://www.zotero.org/groups/382445/items/F2GG87EQ"/>
+                        <ref target="https://biblio.inscriptiones.org/epig10000796">https://biblio.inscriptiones.org/epig10000796</ref>
+                    </bibl>
+                    <bibl>
+                        <author>Isler</author>
+                        <date>2009</date>
+                        <citedRange>103-104 with taf. 18.5</citedRange>
+                        <ptr target="https://www.zotero.org/groups/382445/items/8GY54CVP"/>
+                        <ref target="https://biblio.inscriptiones.org/epig10002631">https://biblio.inscriptiones.org/epig10002631</ref>
+                    </bibl>
+                    <bibl>
+                        <author>Isler</author>
+                        <date>2012</date>
+                        <citedRange>96 with fig. 182</citedRange>
+                        <ptr target="https://www.zotero.org/groups/382445/items/LFFYHVVY"/>
+                        <ref target="https://biblio.inscriptiones.org/epig10002481">https://biblio.inscriptiones.org/epig10002481</ref>
+                    </bibl>
+                </listBibl>
+                <listBibl type="discussion">
+                    <bibl>
+	       </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

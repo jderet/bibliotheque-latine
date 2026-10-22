@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>I.Sicily inscription 000519</title>
+                <editor ref="#JP">Jonathan Prag</editor>
+                <principal ref="#JP">Jonathan Prag</principal>
+                <funder>John Fell OUP Research Fund</funder>
+                <funder>
+                    <ref target="https://cordis.europa.eu/project/id/885040">ERC Advanced Grant no.885040</ref>
+                </funder>
+                <respStmt>
+                    <name xml:id="JP" ref="http://orcid.org/0000-0003-3819-8537">Jonathan Prag
+                    </name>
+                    <resp>original data collection and editing</resp>
+                </respStmt>
+                <respStmt>
+                    <name xml:id="JCu" ref="http://orcid.org/0000-0002-6686-3728">James
+                        Cummings
+                    </name>
+                    <resp>conversion to EpiDoc</resp>
+                </respStmt>
+                <respStmt>
+                    <name xml:id="JCh" ref="http://orcid.org/0000-0001-6823-0265">James
+                        Chartrand
+                    </name>
+                    <resp>site construction and encoding</resp>
+                </respStmt>
+                <respStmt>
+                    <name xml:id="VV" ref="http://orcid.org/0000-0002-9695-0240">Valeria
+                        Vitale
+                    </name>
+                    <resp>editing of geo data</resp>
+                </respStmt>
+                <respStmt>
+                    <name xml:id="SS" ref="https://orcid.org/0000-0003-3914-9569">Simona Stoyanova</name>
+                    <resp>standardisation of template and tidying up encoding</resp>
+                </respStmt>
+                <respStmt>
+                    <name xml:id="Coccato" ref="https://orcid.org/0000-0002-6641-2820">Alessia Coccato</name>
+                    <resp>Petrographic observation and analysis</resp>
+                </respStmt>
+                <respStmt>
+                    <name xml:id="RC" ref="https://orcid.org/0000-0002-0100-7437">Robert Crellin</name>
+                    <resp>lemmatization and linguistic analysis</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>I.Sicily</authority>
+                <idno type="filename">ISic000519</idno>
+                <idno type="TM">175714</idno>
+                <idno type="EDR">080558</idno>
+                <idno type="EDH"/>
+                <idno type="EDCS">22000825</idno>
+                <idno type="PHI"/>
+                <idno type="URI">http://sicily.classics.ox.ac.uk/inscription/ISic000519</idno>
+                <idno type="DOI" when="2020-12-17">10.5281/zenodo.4337857</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">Licensed under a Creative Commons-Attribution 4.0
+                        licence.
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Italy</country>
+                        <region>Sicily</region>
+                        <settlement>Marsala</settlement>
+                        <repository role="museum" ref="http://sicily.classics.ox.ac.uk/museum/114">Museo Civico di Marsala</repository>
+                        <!--No inventory number found-->
+                        <!--Adding location for old id numbers if available-->
+                        <altIdentifier>
+                            <settlement/>
+                            <repository/>
+                            <idno type="old"/>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <textLang mainLang="la">Latin</textLang>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material ana="#material.inorganic.stone.sedimentary_rock.limestone.calcite_limestone.white.calcare-lucidabile_bianco" type="stone.limestone.polishable.white" subtype="calcare_bianco_SiciliaOCC" resp="#Coccato" ref="http://www.eagle-network.eu/voc/material/lod/2.html">compact white limestone, likely Western Sicilian white limestone (ellipsactinia boundstone??? red algae, benthic foraminifera (actinocyclina), bryozoans???)) (identification based on pXRF, digital microscopy, XRD, optical microscopy)<note> Petrographic imagery at <ref target="https://iiif.csad.ox.ac.uk/viewer/isicily/ISic000519">https://iiif.csad.ox.ac.uk/viewer/isicily/ISic000519</ref></note></material>
+                                    <objectType ana="#object.base" ref="http://www.eagle-network.eu/voc/objtyp/lod/57.html">base</objectType>
+                                    <dimensions>
+                                        <!--Default values and requires editing-->
+                                        <height unit="cm"/>
+                                        <width unit="cm"/>
+                                        <depth unit="cm"/>
+                                    </dimensions>
+                                </support>
+                                <condition/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                    <rs ana="#execution.chiselled" ref="http://www.eagle-network.eu/voc/writing/lod/1">chiselled</rs>
+                                    <damage/>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote><!--Default value and requires editing-->
+                                <locus from="line1" to="line1">Line 1
+                                </locus>
+                                <dimensions type="letterHeight">
+                                    <height unit="mm"/>
+                                </dimensions>
+                                <locus from="line1" to="line2">Interlineation line 1 to 2
+                                </locus>
+                                <dimensions type="interlinear">
+                                    <height unit="mm"/>
+                                </dimensions>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>
+                                <region>Sicilia</region>
+                                <placeName type="ancient" ref="http://pleiades.stoa.org/places/462281">Lilybaeum</placeName>
+                                <placeName type="modern" ref="http://sws.geonames.org/6542148">Marsala</placeName>
+                                <geo>37.80355, 12.4379</geo>
+                            </origPlace>
+                            <origDate datingMethod="#julian" notBefore-custom="0193" evidence="textual-context">After 193 CE due to the reference to colonia</origDate>
+                            <origDate datingMethod="#julian" notBefore-custom="0275" notAfter-custom="0325" source="https://www.zotero.org/groups/382445/items/NBA3MBAP">Marino suggests late 3rd — early 4th century, but very late use of tribal if so</origDate>
+                        </origin>
+                        <provenance type="found">Original discovery not recorded.</provenance>
+                        <provenance type="observed">Display no.1</provenance>
+                        <provenance type="observed" subtype="autopsied" resp="#MM">2015.11.12 Metcalfe
+                        </provenance>
+                        <acquisition/>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Encoded following the latest EpiDoc guidelines</p>
+            <xi:include href="../alists/ISicily-taxonomies.xml">
+                <xi:fallback>
+                    <p>Taxonomies for ISicily controlled values</p>
+                </xi:fallback>
+            </xi:include>
+            <xi:include href="../alists/charDecl.xml">
+                <xi:fallback>
+                    <p>ISicily glyphs authority list</p>
+                </xi:fallback>
+            </xi:include>
+        </encodingDesc>
+        <profileDesc>
+            <calendarDesc>
+                <calendar xml:id="julian">
+                    <p>Julian Calendar</p>
+                </calendar>
+            </calendarDesc>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="it">Italian</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="la">Latin</language>
+                <language ident="he">Hebrew</language>
+                <language ident="phn">Phoenician</language>
+                <language ident="xpu">Punic</language>
+                <language ident="osc">Oscan</language>
+                <language ident="xly">Elymian</language>
+                <language ident="scx">Sikel</language>
+                <language ident="sxc">Sikan</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="https://ontology.inscriptiones.org/type_of_inscription">
+                    <term ana="#function.honorific" ref="https://ontology.inscriptiones.org/type_of_inscription/Honorific">honorific</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc status="draft">
+            <listChange>
+                <change when="2016-12-03" who="#JCu">James Cummings
+                    autogenerated EpiDoc output from database
+                </change>
+                <change when="2017-01-20" who="#JP">Jonathan Prag
+                    cleaned up the EpiDoc, and the text, added image
+                    and initial apparatus and commentary
+                </change>
+                <change when="2017-11-16" who="#JP">Jonathan Prag edited a bibl element</change>
+                <change when="2020-10-05" who="#SS">Simona Stoyanova normalised Unicode</change>
+                <change when="2020-10-08" who="#SS">Simona Stoyanova updated list of languages</change>
+                <change when="2020-11-20" who="#SS">Simona Stoyanova added EDCS numbers</change>
+                <change when="2020-11-26" who="#SS">Simona Stoyanova restructured bibliography</change>
+                <change when="2020-12-17" who="#JP">Updated Zenodo DOI</change>
+                <change when="2021-01-19" who="#SS">renumbered files, uris and references</change>
+                <change when="2026-07-23" who="#RC">Robert Crellin provided lemmatizations</change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <surface type="front">
+            <graphic n="screen" url="ISic000519_tiled.tif" height="3072px" width="4608px">
+                <desc>Photo by M. Metcalfe</desc>
+            </graphic>
+            <graphic n="print" url="ISic000519.jpg" height="3072px" width="4608px">
+                <desc>Photo by M. Metcalfe</desc>
+            </graphic>
+        </surface>
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition" subtype="primary" xml:space="preserve" xml:lang="la" resp="#JP">
+                <ab>
+                    <lb n="1"/><name><w n="5"><expan><abbr>T</abbr><ex>ito</ex></expan></w></name> <name><w n="10">Quarto</w></name>
+                    <lb n="2"/><name><w n="15">Masculo</w></name>
+                    <lb n="3"/><name><w n="20"><expan><abbr>T</abbr><ex>iti</ex></expan></w></name> <name><w n="25">Quarti</w></name> <name><w n="30">Cres
+                    <lb n="4" break="no"/>centinii</w></name> <g ref="#interpunct" n="35">·</g> <orgName><w n="40"><expan><abbr>Q</abbr><ex>ui</ex><abbr>r</abbr><ex>ina</ex></expan></w></orgName> <g ref="#interpunct" n="45">·</g>
+                    <lb n="5"/><w n="50"><expan><abbr>fil</abbr><ex>io</ex></expan></w> <w n="55"><expan><abbr>dec</abbr><ex>urioni</ex></expan></w> <w n="60"><expan><abbr>spl</abbr><ex>endidissimae</ex></expan></w>
+                    <lb n="6"/><w n="65"><expan><abbr>col</abbr><ex>oniae</ex></expan></w> <name><w n="70"><expan><abbr>Aug</abbr><ex>ustae</ex></expan></w></name> <placeName type="ethnic"><w n="75"><expan><abbr>Lilyb</abbr><ex>itanorum</ex></expan></w></placeName>
+                    <lb n="7"/><w n="80"><expan><abbr>q</abbr><ex>uestori</ex></expan></w> <w n="85"><expan><abbr>p</abbr><ex>ecuniae</ex></expan></w> <w n="90"><expan><abbr>p</abbr><ex>ublicae</ex></expan></w> <w n="95"><expan><abbr>cur</abbr><ex>atori</ex></expan></w> <w n="100"><expan><abbr>f</abbr><ex>rumenti</ex></expan></w> <w n="105"><expan><abbr>p</abbr><ex>ublici</ex></expan></w>
+                    <lb n="8"/><gap reason="lost" extent="unknown" unit="line" n="110"/>
+                </ab>
+            </div>
+            <div type="edition" subtype="simple-lemmatized" resp="#RC">
+                <ab>
+                    <w n="5" lemma="Titus">Tito</w>
+                    <w n="10" lemma="Quartus">Quarto</w>
+                    <w n="15" lemma="Masculus">Masculo</w>
+                    <w n="20" lemma="Titus">Titi</w>
+                    <w n="25" lemma="Quartus">Quarti</w>
+                    <w n="30" lemma="Crescentinius">Crescentinii</w>
+                    <w n="40" lemma="Quirina">Quirina</w>
+                    <w n="50" lemma="filius">filio</w>
+                    <w n="55" lemma="decurio">decurioni</w>
+                    <w n="60" lemma="splendidus">splendidissimae</w>
+                    <w n="65" lemma="colonia">coloniae</w>
+                    <w n="70" lemma="Augusta">Augustae</w>
+                    <w n="75" lemma="Lilybitanus">Lilybitanorum</w>
+                    <w n="80" lemma="questor">questori</w>
+                    <w n="85" lemma="pecunia">pecuniae</w>
+                    <w n="90" lemma="publicus">publicae</w>
+                    <w n="95" lemma="curator">curatori</w>
+                    <w n="100" lemma="frumentum">frumenti</w>
+                    <w n="105" lemma="publicus">publici</w>
+                    <gap reason="lost" extent="unknown" unit="line" n="110"><desc>[-?-]</desc></gap>
+                </ab>
+            </div>
+            <div type="apparatus">
+                <listApp>
+                    <app>
+                        <note>Text after Mommsen, with amendments.</note>
+                    </app>
+                    <app loc="line4">
+                        <note>The letters QR at the end of the line are
+                            smaller, and between interpuncts. Mommsen (CIL)
+                            read CENTINI · EQR; the reading here is that of
+                            Marino and Forni, and appears better to reflect
+                            what is visible on the stone
+                        </note>
+                    </app>
+                </listApp>
+            </div>
+            <div type="translation">
+                <p><!--translation(s) - add @xml:lang for 'en' or 'it' to div--></p>
+            </div>
+            <div type="commentary">
+                <p>Forni, following the reading of Marino of line
+                    4, argues that this an abbreviation for the tribal
+                    Quirina, of a form known only in Africa and
+                    Numidia, i.e. areas of Punic culture. On the basis
+                    that Lilybaeum is also such an area, he suggests
+                    the same model, namely an abbreviation showing
+                    semitic influence, omitting vowels (examples
+                    offered by Forni are, from Africa CIL 8.1686,
+                    1737, 6117; I.L.Alg. 2.4361, 4758, 4919, 5343,
+                    5908). Bivona, in Kokalos 26-27 (1980-81), 408
+                    rejects this view. Fresh autopsy is perhaps
+                    required.</p>
+            </div>
+            <div type="bibliography">
+                <listBibl type="edition">
+                    <bibl>
+                        <author>Gualtherus</author>
+                        <date>1624</date>
+                        <citedRange>239</citedRange>
+                        <ptr target="https://www.zotero.org/groups/382445/items/GIN6NANU"/>
+                        <ref target="https://biblio.inscriptiones.org/epig10002388">https://biblio.inscriptiones.org/epig10002388</ref>
+                    </bibl>
+                    <bibl>
+                        <author>Gualtherus</author>
+                        <date>1624 [1625]</date>
+                        <citedRange>132</citedRange>
+                        <ptr target="https://www.zotero.org/groups/382445/items/ZP8DE8KS"/>
+                        <ref target="https://biblio.inscriptiones.org/epig10001931">https://biblio.inscriptiones.org/epig10001931</ref>
+                    </bibl>
+                    <bibl type="corpus" n="CIL">
+                        <author>Mommsen</author>
+                        <date>1883</date>
+                        <citedRange>
+                            <ref target="http://arachne.uni-koeln.de/books/CILv10pII1883">7239</ref>
+                        </citedRange>
+                        <ptr target="https://www.zotero.org/groups/382445/items/GQN8UZSI"/>
+                        <ref target="https://biblio.inscriptiones.org/epig10000589">https://biblio.inscriptiones.org/epig10000589</ref>
+                    </bibl>
+                    <bibl type="bulletin" n="AE">
+                        <date>1987</date>
+                        <citedRange>467</citedRange>
+                        <ptr target="https://www.zotero.org/groups/382445/items/R46KDTZX"/>
+                        <ref target="https://biblio.inscriptiones.org/epig10001283">https://biblio.inscriptiones.org/epig10001283</ref>
+                    </bibl>
+                    <bibl>
+                        <author>Marino</author>
+                        <date>1978</date>
+                        <citedRange>98-100</citedRange>
+                        <ptr target="https://www.zotero.org/groups/382445/items/NBA3MBAP"/>
+                        <ref target="https://biblio.inscriptiones.org/epig10001760">https://biblio.inscriptiones.org/epig10001760</ref>
+                    </bibl>
+                    <bibl>
+                        <author>Forni</author>
+                        <date>1984</date>
+                        <citedRange>160-162 taf.13a</citedRange>
+                        <ptr target="https://www.zotero.org/groups/382445/items/MQ7B55Q2"/>
+                        <ref target="https://biblio.inscriptiones.org/epig10001474">https://biblio.inscriptiones.org/epig10001474</ref>
+                    </bibl>
+                    <bibl>
+                        <author>Manganaro</author>
+                        <date>1988</date>
+                        <citedRange>44, 53</citedRange>
+                        <ptr target="https://www.zotero.org/groups/382445/items/RZSFKACR"/>
+                        <ref target="https://biblio.inscriptiones.org/epig10001427">https://biblio.inscriptiones.org/epig10001427</ref>
+                    </bibl>
+                </listBibl>
+                <listBibl type="discussion">
+                    <bibl/>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

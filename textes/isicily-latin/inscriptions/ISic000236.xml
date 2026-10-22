@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Funerary inscription for Marcus Voluscius Felix</title>
+                <editor ref="#JP">Jonathan Prag</editor>
+                <principal ref="#JP">Jonathan Prag</principal>
+                <funder>John Fell OUP Research Fund</funder>
+                <funder>
+                    <ref target="https://cordis.europa.eu/project/id/885040">ERC Advanced Grant no.885040</ref>
+                </funder>
+                <respStmt>
+                    <name xml:id="JP" ref="http://orcid.org/0000-0003-3819-8537">Jonathan Prag</name>
+                    <resp>original data collection and editing</resp>
+                </respStmt>
+                <respStmt>
+                    <name xml:id="JCu" ref="http://orcid.org/0000-0002-6686-3728">James Cummings</name>
+                    <resp>conversion to EpiDoc</resp>
+                </respStmt>
+                <respStmt>
+                    <name xml:id="SS" ref="https://orcid.org/0000-0003-3914-9569">Simona Stoyanova</name>
+                    <resp>standardisation of template and tidying up encoding</resp>
+                </respStmt>
+                <respStmt>
+                    <name xml:id="VM" ref="https://orcid.org/0000-0002-7122-2511">Valentina Mignosa</name>
+                    <resp>encoding text division and checking the edition</resp>
+                </respStmt>
+                <respStmt>
+                    <name xml:id="AA" ref="http://orcid.org/0000-0001-7077-0703">Alex Antoniou</name>
+                    <resp>Edition on basis of autopsy and photographs</resp>
+                </respStmt>
+                <respStmt>
+                    <name xml:id="VF" ref="https://orcid.org/0000-0001-6302-3726">Victoria Fendel</name>
+                    <resp>lemmatization and linguistic analysis</resp>
+                </respStmt>
+            <respStmt><name xml:id="Coccato" ref="https://orcid.org/0000-0002-6641-2820">Alessia Coccato</name><resp>Petrographic observation and analysis</resp></respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>I.Sicily</authority>
+                <idno type="filename">ISic000236</idno>
+                <idno type="TM">285269</idno>
+                <idno type="EDR">127488</idno>
+                <idno type="EDH"/>
+                <idno type="EDCS">22100150</idno>
+                <idno type="PHI"/>
+                <idno type="URI">http://sicily.classics.ox.ac.uk/inscription/ISic000236</idno>
+                <idno type="DOI" when="2020-12-17">10.5281/zenodo.4334678</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">Licensed under a Creative Commons-Attribution 4.0 licence.</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Italy</country>
+                        <region>Sicily</region>
+                        <settlement>Termini Imerese</settlement>
+                        <repository role="museum" ref="http://sicily.classics.ox.ac.uk/museum/066">Museo Civico Baldassare Romano</repository>
+                        <!--No inventory number found-->
+                        <!--Red 37 on front, inv. number illegible on tope edge. -->
+                        <altIdentifier>
+                            <settlement/>
+                            <repository/>
+                            <idno type="old"/>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <textLang mainLang="la">Latin</textLang>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <p>Grey-stone marble plaque, sides rough but not broken. Rear is flat. Front surface is smooth and polished. Modern red paint on sides.</p>
+                                    <material ana="#material.inorganic.stone" type="stone.unspecified" subtype="unspecified" resp="#Coccato" ref="http://www.eagle-network.eu/voc/material/lod/48.html">marble</material>
+                                    <objectType ana="#object.plaque" ref="http://www.eagle-network.eu/voc/objtyp/lod/259">plaque</objectType>
+                                    <dimensions>
+                                        <height unit="cm">31</height>
+                                        <width unit="cm">36.5</width>
+                                        <depth unit="cm">8.5</depth>
+                                    </dimensions>
+                                </support>
+                                <condition/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                    <p>Two lines of Latin text, not centred on stone. Three different interpuncts used: L1 triangular, L2 comma and dash.</p>
+                                    <rs ana="#execution.chiselled" ref="http://www.eagle-network.eu/voc/writing/lod/1">chiselled</rs>
+                                    <damage/>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                                <p>Text is straight and well-carved. Serifs used on most letters, pronounced tails on most letters. Letters are not evenly spaced. Cs are distinctive in shape, with a high rounded bulge. Whilst Bivona (1994) attested that the text is included within guidelines, no traces of these were apparent on the stone in autopsy.</p>
+                                <locus from="line1" to="line1">Line 1</locus>
+                                <dimensions type="letterHeight">
+                                    <height unit="mm" atLeast="59" atMost="63">59-63</height>
+                                </dimensions>
+                                <locus from="line2" to="line2">Line 2</locus>
+                                <dimensions type="letterHeight">
+                                    <height unit="mm" atLeast="48" atMost="52">48-52</height>
+                                </dimensions>
+                                <locus from="line1" to="line2">Interlineation line 1 to 2</locus>
+                                <dimensions type="interlinear">
+                                    <height unit="mm"/>
+                                </dimensions>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace><region>Sicilia</region>
+                                <placeName type="ancient" ref="http://pleiades.stoa.org/places/462513" cert="low">Thermae Himeraeae</placeName>
+                                <placeName type="modern" ref="http://sws.geonames.org/6539140">Termini Imerese</placeName>
+                                <geo>37.98365, 13.69555</geo>
+                            </origPlace>
+                            <origDate datingMethod="#julian" notBefore-custom="0001" notAfter-custom="0300" cert="low">Imperial</origDate>
+                        </origin>
+                        <provenance type="found" subtype="discovered" notBefore="1784" notAfter="1829">Found between 1784 and 1829 in Termini Imerese (exact provenance unknown), and in the local civic collection by 1829 (Romano).</provenance>
+                        <provenance type="observed" subtype="autopsied" when="2023-07-04" resp="#AA">Antoniou, 2023-07-04. In the Depositi of Museo Civico Baldassare Romano, room 1, scaffold 4, shelf 3.</provenance>
+                        <acquisition/>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Encoded following the latest EpiDoc guidelines</p>
+            <xi:include href="../alists/ISicily-taxonomies.xml">
+                <xi:fallback>
+                    <p>Taxonomies for ISicily controlled values</p>
+                </xi:fallback>
+            </xi:include>
+            <xi:include href="../alists/charDecl.xml">
+                <xi:fallback>
+                    <p>ISicily glyphs authority list</p>
+                </xi:fallback>
+            </xi:include>
+        </encodingDesc>
+        <profileDesc>
+            <calendarDesc>
+                <calendar xml:id="julian">
+                    <p>Julian Calendar</p>
+                </calendar>
+            </calendarDesc>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="it">Italian</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="la">Latin</language>
+                <language ident="he">Hebrew</language>
+                <language ident="phn">Phoenician</language>
+                <language ident="xpu">Punic</language>
+                <language ident="osc">Oscan</language>
+                <language ident="xly">Elymian</language>
+                <language ident="scx">Sikel</language>
+                <language ident="sxc">Sikan</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="https://ontology.inscriptiones.org/type_of_inscription">
+                    <term ana="#function.funerary" ref="https://ontology.inscriptiones.org/type_of_inscription/Funerary">funerary</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc status="edited">
+            <listChange>
+                <change when="2016-12-03" who="#JCu">James Cummings autogenerated EpiDoc output from database</change>
+                <change when="2020-10-05" who="#SS">Simona Stoyanova normalised Unicode</change>
+                <change when="2020-10-08" who="#SS">Simona Stoyanova updated list of languages</change>
+                <change when="2020-10-12" who="#VM">Valentina Mignosa encoded text division, cleaned up the autogenerated text and checked the edition</change>
+                <change when="2020-11-20" who="#SS">Simona Stoyanova added EDCS numbers</change>
+                <change when="2020-11-26" who="#SS">Simona Stoyanova restructured bibliography</change>
+                <change when="2020-12-17" who="#JP">Updated Zenodo DOI</change>
+                <change when="2021-01-19" who="#SS">renumbered files, uris and references</change>
+                <change when="2023-10-24" who="#AA">edition on basis of autopsy and photographs</change>
+                <change when="2025-07-24" who="#VF">Victoria Fendel's lemmatizations were added</change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile><surface/><!-- 
+        <surface type="front">
+            <graphic n="screen" url="ISic000236_tiled.tif" height="3680px" width="5520px">
+                <desc>I.Sicily with the permission of the Assessorato Regionale dei Beni Culturali e dell’Identità Siciliana - Dipartimento dei Beni Culturali e dell’Identità Siciliana</desc>
+            </graphic>
+            <graphic n="print" url="ISic000236.jpg" height="3680px" width="5520px">
+                <desc>I.Sicily with the permission of the Assessorato Regionale dei Beni Culturali e dell’Identità Siciliana - Dipartimento dei Beni Culturali e dell’Identità Siciliana</desc>
+            </graphic>
+        </surface> -->
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition" subtype="primary" xml:space="preserve" xml:lang="la" resp="#VM #AA">
+                <ab>
+                    <lb n="1"/><persName type="attested"><name><w n="5"><expan><abbr>M</abbr><ex>arco</ex></expan></w></name> <g ref="#interpunct" n="10">·</g> <name><w n="15">Voluscio</w></name>
+                    <lb n="2"/><persName type="attested"><name type="patronym"><w n="20"><expan><abbr>M</abbr><ex>arci</ex></expan></w></name></persName> <g ref="#interpunct" n="25">·</g> <w n="30"><expan><abbr>f</abbr><ex>ilio</ex></expan></w> <g ref="#interpunct" n="35">·</g> <name><w n="40">Felici</w></name></persName>
+                </ab>
+            </div>
+            <div type="edition" subtype="simple-lemmatized" resp="#VF">
+                <ab>
+                    <w n="5" lemma="Marcus">Marco</w>
+                    <w n="15" lemma="Voluscius">Voluscio</w>
+                    <w n="20" lemma="Marcus">Marci</w>
+                    <w n="30" lemma="filius">filio</w>
+                    <w n="40" lemma="Felix">Felici</w>
+                </ab>
+            </div>
+            <div type="apparatus">
+                <listApp>
+                    <app>
+                        <note>Text from autopsy</note>
+                    </app>
+                </listApp>
+            </div>
+            <div type="translation" xml:lang="en" resp="#AA">
+                <p>To Marcus Voluscius Felix, son of Marcus.</p>
+            </div>
+            <div type="commentary" resp="#AA">
+                <p>The gens Voluscius is rare across the empire, found only in Italy (CIL 10.5150), Rome, (CIL 6.29511), Spain (Olisipo 14), and Sardinia (AE 2003, 805). A tribune of the plebs by the name of M. Volscius Fictor is also recorded by Livy (3.13.1) and Dionysius of Halicarnassus (Ant. Rom. 10.7.1).</p>
+            </div>
+            <div type="bibliography">
+                <listBibl type="edition">
+                    <bibl>
+                        <author>Romano</author>
+                        <date>1829</date>
+                        <citedRange>305 no.18</citedRange>
+                        <ptr target="https://www.zotero.org/groups/382445/items/2UJS2UVS"/>
+                        <ref target="https://biblio.inscriptiones.org/epig10002748">https://biblio.inscriptiones.org/epig10002748</ref>
+                    </bibl>
+                    <bibl type="corpus" n="CIL">
+                        <author>Mommsen</author>
+                        <date>1883</date>
+                        <citedRange>
+                            <ref target="http://arachne.uni-koeln.de/books/CILv10pII1883">7448</ref>
+                        </citedRange>
+                        <ptr target="https://www.zotero.org/groups/382445/items/GQN8UZSI"/>
+                        <ref target="https://biblio.inscriptiones.org/epig10000589">https://biblio.inscriptiones.org/epig10000589</ref>
+                    </bibl>
+                    <bibl type="corpus" n="ILMusTermini">
+                         <author>Bivona</author>
+                         <date>1994</date> 
+                        <citedRange>163</citedRange>
+                        <ptr target="https://www.zotero.org/groups/382445/items/JCV85C79"/>
+                        <ref target="https://biblio.inscriptiones.org/epig10002137">https://biblio.inscriptiones.org/epig10002137</ref>
+                    </bibl>
+                    <bibl/>
+                </listBibl>
+                <listBibl type="discussion">
+                    <bibl/>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

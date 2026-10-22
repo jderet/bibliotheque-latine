@@ -1,0 +1,238 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Epitaph for Threptylos</title>
+                <editor ref="#JP">Jonathan Prag</editor>
+                <principal ref="#JP">Jonathan Prag</principal>
+                <funder>John Fell OUP Research Fund</funder>
+	   <funder><ref target="https://cordis.europa.eu/project/id/885040">ERC Advanced Grant no.885040</ref></funder>
+                <respStmt>
+                    <name xml:id="JP" ref="http://orcid.org/0000-0003-3819-8537">Jonathan Prag</name>
+                    <resp>original data collection and editing</resp>
+                </respStmt>
+                <respStmt>
+                    <name xml:id="JCu" ref="http://orcid.org/0000-0002-6686-3728">James Cummings</name>
+                    <resp>conversion to EpiDoc</resp>
+                </respStmt>
+                <respStmt>
+                    <name xml:id="AA" ref="http://orcid.org/0000-0001-7077-0703">Alex Antoniou</name>
+                    <resp>EpiDoc editing and English translation</resp>
+                </respStmt>
+	    <respStmt>
+     	       <name xml:id="SS" ref="https://orcid.org/0000-0003-3914-9569">Simona Stoyanova</name>
+     	       <resp>standardisation of template and tidying up encoding</resp>
+ 	   </respStmt>
+                <respStmt>
+                    <name xml:id="martaf" ref="https://orcid.org/0000-0001-5187-5163">Marta Fogagnolo</name>
+                    <resp>editing, translation and commentary</resp>
+                </respStmt>
+            <respStmt><name xml:id="Coccato" ref="https://orcid.org/0000-0002-6641-2820">Alessia Coccato</name><resp>Petrographic observation and analysis</resp></respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>I.Sicily</authority>
+                <idno type="filename">ISic001300</idno>
+                <idno type="TM">492905</idno>
+                <idno type="EDR"/>
+                <idno type="EDH"/>
+                <idno type="EDCS">39101670</idno>
+                <idno type="PHI">140792</idno>
+                <idno type="PHI">316240</idno>
+                <idno type="URI">http://sicily.classics.ox.ac.uk/inscription/ISic001300</idno>
+                <idno type="DOI" when="2020-12-18">10.5281/zenodo.4352344</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">Licensed under a Creative Commons-Attribution 4.0 licence.</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Italy</country>
+                        <region>Sicily</region>
+                        <settlement>Catania</settlement>
+                        <repository role="museum" ref="http://sicily.classics.ox.ac.uk/museum/018">Museo Civico di Catania</repository>
+                        <idno type="inventory">278</idno>
+                        <!--Adding location for old id numbers if available-->
+                        <altIdentifier>
+                            <settlement/>
+                            <repository/>
+                            <idno type="old"/>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <textLang mainLang="grc">Ancient Greek</textLang>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support><p>Two reconnected fragments of a marble plaque, of which the upper right corner is lost; set in plaster in modern times.</p>
+                                    <material ana="#material.inorganic.stone" type="stone.unspecified" subtype="unspecified" resp="#Coccato" ref="http://www.eagle-network.eu/voc/material/lod/48.html">marble</material>
+                                    <objectType ana="#object.plaque" ref="http://www.eagle-network.eu/voc/objtyp/lod/259">plaque</objectType>
+                                    <dimensions><!--measurements from Korhonen-->
+                                        <height unit="cm">16</height>
+                                        <width unit="cm">27</width>
+                                        <depth unit="cm">1-5</depth>
+                                    </dimensions>
+                                </support>
+                                <condition ana="#condition.damaged"/>
+		    </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                    <rs ana="#execution.chiselled" ref="http://www.eagle-network.eu/voc/writing/lod/1">chiselled</rs>
+                                    <damage ana="#text_condition.incomplete"/>
+			</layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote><p>Lunate Ε, Θ, Σ, cursive Μ, Φ with a long vertical stroke, ΝΗ in ligature. Occasional presence of interpuncts (triangular).</p><!--measurements from Korhonen-->
+                                <locus from="line1" to="line4">Lines 1-4</locus>
+                                <dimensions type="letterHeight">
+                                    <height unit="mm" atLeast="11" atMost="14">11-14</height>
+                                </dimensions>
+                                <locus from="line1" to="line2">Interlineation line 1 to 2</locus>
+                                <dimensions type="interlinear">
+                                    <height unit="mm">not recorded</height>
+                                </dimensions>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace><region>Sicilia</region>
+                                <placeName type="ancient" ref="http://pleiades.stoa.org/places/462270">Catina</placeName>		
+                                <placeName type="modern" ref="http://sws.geonames.org/2525068">Catania</placeName>
+                            	<geo>37.49223, 15.07041</geo>
+		</origPlace>
+                            <origDate datingMethod="#julian" notBefore-custom="0051" notAfter-custom="0200">Second half of 1st — 2nd century CE</origDate>
+                        </origin>
+                        <provenance type="found">Original discovery not recorded.</provenance>
+                        <provenance type="observed">First recorded by Kaibel in Museo Biscari, later by Korhonen in magazzino del cortile, Collezione Biscari (formerly sala VI.86).</provenance>
+                        <provenance type="observed" subtype="autopsied">None</provenance>
+                        <acquisition/>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+             <p>Encoded following the latest EpiDoc guidelines</p>
+             <xi:include href="../alists/ISicily-taxonomies.xml">
+                 <xi:fallback>
+                     <p>Taxonomies for ISicily controlled values</p>
+                 </xi:fallback>
+             </xi:include>
+	  <xi:include href="../alists/charDecl.xml">
+	     <xi:fallback>
+	       <p>ISicily glyphs authority list</p>
+	     </xi:fallback>
+	   </xi:include>
+         </encodingDesc>
+        <profileDesc>
+            <calendarDesc>
+                <calendar xml:id="julian">
+                    <p>Julian Calendar</p>
+                </calendar>
+            </calendarDesc>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="it">Italian</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="la">Latin</language>
+                <language ident="he">Hebrew</language>
+                <language ident="phn">Phoenician</language>
+                <language ident="xpu">Punic</language>
+                <language ident="osc">Oscan</language>
+                <language ident="xly">Elymian</language>
+                <language ident="scx">Sikel</language>
+                <language ident="sxc">Sikan</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="https://ontology.inscriptiones.org/type_of_inscription">
+                    <term ana="#function.funerary" ref="https://ontology.inscriptiones.org/type_of_inscription/Funerary">funerary</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc status="draft">
+            <listChange>
+                <change when="2016-12-03" who="#JCu">James Cummings autogenerated EpiDoc output from database</change>
+                <change when="2019-07-04" who="#AA">Alex Antoniou Epidoc editing and English translation</change>
+            	   <change when="2020-10-05" who="#SS">Simona Stoyanova normalised Unicode</change>
+            	   <change when="2020-10-08" who="#SS">Simona Stoyanova updated list of languages</change>
+            	<change when="2020-11-20" who="#SS">Simona Stoyanova added EDCS numbers</change>
+		<change when="2020-11-26" who="#SS">Simona Stoyanova restructured bibliography</change>
+	    <change when="2020-12-18" who="#JP">Updated Zenodo DOI</change>
+            	<change when="2021-01-19" who="#SS">renumbered files, uris and references</change>
+                <change when="2022-05-17" who="#martaf">Marta Fogagnolo revised the text encoding, added dimensions, translations and commentary</change>
+	</listChange>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile><surface/><!--
+        <surface type="front">
+            <graphic n="screen" url="ISic001300_tiled.tif" height="3680px" width="5520px">
+                <desc>I.Sicily with the permission of the Assessorato Regionale dei Beni Culturali e dell’Identità Siciliana - Dipartimento dei Beni Culturali e dell’Identità Siciliana</desc>
+            </graphic>
+            <graphic n="print" url="ISic001300.jpg" height="3680px" width="5520px">
+                <desc>I.Sicily with the permission of the Assessorato Regionale dei Beni Culturali e dell’Identità Siciliana - Dipartimento dei Beni Culturali e dell’Identità Siciliana</desc>
+            </graphic>
+         </surface>
+     --></facsimile>
+    <text>
+        <body>
+            <div type="edition" subtype="primary" xml:space="preserve" xml:lang="grc" resp="#martaf">
+                <ab>
+                    <lb n="1"/><g ref="#interpunct">•</g> <w><expan><abbr>Θ</abbr><ex>εοῖς</ex></expan></w> <w><supplied reason="lost"><expan><abbr>Κ</abbr><ex>ατακθονίοις</ex></expan></supplied></w>
+                    <lb n="2"/><persName type="attested"><name>Θρεπτύλο<supplied reason="lost">ς</supplied></name></persName> <w><supplied reason="lost">ἔζησεν</supplied></w>
+                    <lb n="3"/><w>μῆνας</w> <num><gap reason="lost" extent="unknown" unit="character"/></num>
+                    <lb n="4"/><g ref="#interpunct">•</g> <persName type="attested"><name>Εὐφροσύνη</name></persName> <g ref="#interpunct">•</g> <w>μήτηρ</w>
+                </ab>
+            </div>
+            <div type="apparatus" resp="#martaf">
+                <listApp>
+                    <app><note>Text based on photographs</note></app>
+                    <app loc="4"><note>Kaibel: μήτηρ [ἐποίησεν] (but the inscription seems to be intact in the last line)</note></app>
+                </listApp>
+            </div>
+            <div type="translation" xml:lang="en" resp="#martaf">
+                <p>To the underworld spirits. Threptylos lived for [---] months. His mother Euphrosyne (made it).</p>
+            </div>
+            <div type="translation" xml:lang="it" resp="#martaf">
+                <p>Agli Dei inferi. Threptylos visse [---] mesi. Sua madre Euphrosyne (realizzò).</p>
+            </div>
+            <div type="commentary">
+                <p>The epitaph presents the traditional structure recurring in many pagan epitaphs from Catania: a main sentence with the name of the deceased and his/her age, followed by a second sentence with the name of the dedicant with an attribute qualifying his/her relationship with the deceased. The dedication verb is often omitted, as in this case (Korhonen 2004: 85-87). The name <foreign xml:lang="grc">Θρεπτύλος</foreign> is not attested elsewhere, whereas in imperial times <foreign xml:lang="grc">Θρεπτός</foreign> is well attested (<foreign xml:lang="la">Threptus</foreign> in two inscriptions from Lilybaion: CIL 10.7243 = <ref target="http://sicily.classics.ox.ac.uk/inscription/ISic000523">ISic000523</ref>, Silvestrini (2014) 220-223 no.4 = <ref target="http://sicily.classics.ox.ac.uk/inscription/ISic003459">ISic003459</ref>, see LGPN 3a: 213). <foreign xml:lang="grc">Θρεπτύλος</foreign> seems to be a diminutive (with the suffix -<foreign xml:lang="grc">ύλος</foreign>) of the better-known <foreign xml:lang="grc">Θρεπτός</foreign>, considering also the very young age of the deceased (<foreign xml:lang="grc">μῆνας</foreign>).</p>
+            </div>
+            <div type="bibliography">
+                <listBibl type="edition">
+                    <bibl type="corpus" n="IG">
+                        <author>Kaibel</author>
+                        <date>1890</date>
+                        <citedRange>
+                            <ref target="https://clio.columbia.edu/catalog/6873760">477</ref>
+                        </citedRange>
+                        <ptr target="https://www.zotero.org/groups/382445/items/Q2SBPG9F"/>
+                    <ref target="https://biblio.inscriptiones.org/epig10001072">https://biblio.inscriptiones.org/epig10001072</ref></bibl>
+                    <bibl type="corpus" n="IMusCatania">
+                         <author>Korhonen</author>
+                         <date>2004</date> 
+                        <citedRange>137</citedRange>
+                        <ptr target="https://www.zotero.org/groups/382445/items/2EUC82DH"/>
+                    <ref target="https://biblio.inscriptiones.org/epig10000028">https://biblio.inscriptiones.org/epig10000028</ref></bibl>
+                    <bibl type="corpus" n="SGDI">
+                        <author>Hoffmann</author>
+                        <date>1904</date>
+                        <citedRange>5240</citedRange>
+                        <ptr target="https://www.zotero.org/groups/382445/items/DQDPC573"/>
+                    <ref target="https://biblio.inscriptiones.org/epig10000817">https://biblio.inscriptiones.org/epig10000817</ref></bibl>
+                </listBibl>
+                <listBibl type="discussion"><bibl type="corpus" n="IMusCatania">
+                         <author>Korhonen</author>
+                         <date>2004</date> 
+                    <citedRange>85-87</citedRange>
+                    <ptr target="https://www.zotero.org/groups/382445/items/2EUC82DH"/>
+                <ref target="https://biblio.inscriptiones.org/epig10000028">https://biblio.inscriptiones.org/epig10000028</ref></bibl></listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,187 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Fragment of a monumental Latin inscription</title>
+                <editor ref="#JP">Jonathan Prag</editor>
+                <principal ref="#JP">Jonathan Prag</principal>
+                <funder>John Fell OUP Research Fund</funder>
+                <funder><ref target="https://cordis.europa.eu/project/id/885040">ERC Advanced Grant no.885040</ref></funder>
+                <respStmt>
+                    <name xml:id="JP" ref="http://orcid.org/0000-0003-3819-8537">Jonathan Prag</name>
+                    <resp>original data collection and editing</resp>
+                </respStmt>
+                <respStmt>
+                    <name xml:id="SS" ref="https://orcid.org/0000-0003-3914-9569">Simona Stoyanova</name>
+                    <resp>standardisation of template and tidying up encoding</resp>
+                </respStmt>
+                </titleStmt>
+            <publicationStmt>
+                <authority>I.Sicily</authority>
+                <idno type="filename">ISic001878</idno>
+                <idno type="TM"/>
+                <idno type="EDR"/>
+                <idno type="EDH"/>
+                <idno type="EDCS"/>
+                <idno type="PHI"/>
+                <idno type="URI">http://sicily.classics.ox.ac.uk/inscription/ISic001878</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">Licensed under a Creative Commons-Attribution 4.0 licence.</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Italy</country>
+                        <region>Sicily</region>
+                        <settlement>Taormina</settlement>
+                        <repository>unknown</repository>
+                        <!--Adding location for old id numbers if available-->
+                        <altIdentifier>
+                            <settlement/>
+                            <repository/>
+                            <idno type="old"/>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <textLang mainLang="la">Latin</textLang>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support><p>A slab of white limestone or marble ('pietra calcarea bianca') found probably in re-use as part of a tomb. Unclear what the state of the stone was.</p>
+                                    <material ana="#material.inorganic.stone.metamorphic_rock.marble" type="stone.marble" subtype="unverified" ref="http://www.eagle-network.eu/voc/material/lod/48.html">marble</material>
+                                    <objectType ana="#object.plaque" ref="http://www.eagle-network.eu/voc/objtyp/lod/259">plaque</objectType>
+                                    <dimensions><!--Stevenson ap. Muscolino-->
+                                        <height unit="cm">39</height>
+                                        <width unit="cm">31</width>
+                                        <depth unit="cm"/>
+                                    </dimensions>
+                                </support>
+                                <condition ana="#condition.damaged"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout><p>Single monumental letter, presumably part of a single(?) line of monumental text?</p>
+                                    <rs ana="#execution.chiselled" ref="http://www.eagle-network.eu/voc/writing/lod/1">chiselled</rs>
+                                    <damage ana="#text_condition.incomplete"/>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote><p></p>
+                                <locus from="line1" to="line1">Line 1</locus>
+                                <dimensions type="letterHeight">
+                                    <height unit="mm" atLeast="115" atMost="115">115</height><!-- Stevenson ap. Muscolino-->
+                                </dimensions>
+                                <locus from="line1" to="line2">Interlineation line 1 to 2</locus>
+                                <dimensions type="interlinear">
+                                    <height unit="mm"/>
+                                </dimensions>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace><region>Sicilia</region>
+                                <placeName type="ancient" ref="http://pleiades.stoa.org/places/462506">Tauromenium</placeName>		
+                                <placeName type="modern" ref="http://sws.geonames.org/2522975">Taormina</placeName>
+                                <geo>37.85358, 15.28851</geo>
+                            </origPlace>
+                            <origDate datingMethod="#julian" notBefore-custom="0001" notAfter-custom="0300">Roman?</origDate>
+                        </origin>
+                        <provenance type="found" subtype="discovered" notAfter="1882">Recorded by Henry Stevenson junior during his 1882 voyage to Sicily, preserved in Vat. lat. 10574 f.182r; not otherwise recorded/ observed</provenance>
+                        <provenance type="observed" subtype="autopsied">None</provenance>
+                        <provenance type="not-observed" subtype="lost">Lost.</provenance>
+                        <acquisition/>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Encoded following the latest EpiDoc guidelines</p>
+            <xi:include href="../alists/ISicily-taxonomies.xml">
+                <xi:fallback>
+                    <p>Taxonomies for ISicily controlled values</p>
+                </xi:fallback>
+            </xi:include>
+            <xi:include href="../alists/charDecl.xml">
+                <xi:fallback>
+                    <p>ISicily glyphs authority list</p>
+                </xi:fallback>
+            </xi:include>
+        </encodingDesc>
+        <profileDesc>
+            <calendarDesc>
+                <calendar xml:id="julian">
+                    <p>Julian Calendar</p>
+                </calendar>
+            </calendarDesc>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="it">Italian</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="la">Latin</language>
+                <language ident="he">Hebrew</language>
+                <language ident="phn">Phoenician</language>
+                <language ident="xpu">Punic</language>
+                <language ident="osc">Oscan</language>
+                <language ident="xly">Elymian</language>
+                <language ident="scx">Sikel</language>
+                <language ident="sxc">Sikan</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="https://ontology.inscriptiones.org/type_of_inscription">
+                    <term ana="#function.unknown" ref="https://ontology.inscriptiones.org/type_of_inscription/Unable_to_determine">unknown</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc status="draft">
+            <listChange>
+                <change when="2024-07-31" who="#JP">Jonathan Prag created file from edition of Muscolino</change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <surface/><!-- 
+        <surface type="front">
+            <graphic n="screen" url="ISic001878_tiled.tif" height="960px" width="1280px">
+                <desc>I.Sicily with the permission of the Assessorato Regionale dei Beni Culturali e dell’Identità Siciliana - Dipartimento dei Beni Culturali e dell’Identità Siciliana</desc>
+            </graphic>
+            <graphic n="print" url="ISic001878.jpg" height="960px" width="1280px">
+                <desc>I.Sicily with the permission of the Assessorato Regionale dei Beni Culturali e dell’Identità Siciliana - Dipartimento dei Beni Culturali e dell’Identità Siciliana</desc>            </graphic>
+         </surface> -->
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition" subtype="primary" xml:space="preserve" xml:lang="la" resp="#JP">
+                <ab>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><orig>E</orig><gap reason="lost" extent="unknown" unit="character"/>
+                </ab>
+            </div>
+            <div type="apparatus">
+                <listApp><app><note>Text of Muscolino</note></app></listApp>
+            </div>
+          <div type="translation" xml:lang="en">
+                <p/>
+            </div>
+            <div type="commentary" resp="#JP">
+                <p>Muscolino not unreasonably suggests the letter could be either Greek or Latin, but the described form of a slab bearing a monumental text would seem to fit the Latin monumental context much more readily than Greek (where such texts are inscribed on the building blocks directly), and implies a monumental architraval building text, subsequently broken and re-used in a later Roman funerary context (as Muscolino also notes, most likely to be in re-use, not funerary).</p>
+            </div>
+            <div type="bibliography">
+                <listBibl type="edition">
+                    <bibl>
+                        <author>Muscolino</author>
+                        <date>2011-2012</date>
+                        <citedRange>239 G/L1</citedRange>
+                        <ptr target="https://www.zotero.org/groups/382445/items/GJKY97S8"/>
+                        <ref target="https://biblio.inscriptiones.org/epig10002215">https://biblio.inscriptiones.org/epig10002215</ref>
+                    </bibl>
+                </listBibl>
+                <listBibl type="discussion"><bibl/></listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

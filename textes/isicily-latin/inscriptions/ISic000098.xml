@@ -1,0 +1,291 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Honours for an unknown member of the equestrian order</title>
+                <editor ref="#JP">Jonathan Prag</editor>
+                <principal ref="#JP">Jonathan Prag</principal>
+                <funder>John Fell OUP Research Fund</funder>
+                <funder>
+                    <ref target="https://cordis.europa.eu/project/id/885040">ERC Advanced Grant no.885040</ref>
+                </funder>
+                <respStmt>
+                    <name xml:id="JP" ref="http://orcid.org/0000-0003-3819-8537">Jonathan Prag</name>
+                    <resp>original data collection and editing</resp>
+                </respStmt>
+                <respStmt>
+                    <name xml:id="JCu" ref="http://orcid.org/0000-0002-6686-3728">James Cummings</name>
+                    <resp>conversion to EpiDoc</resp>
+                </respStmt>
+                <respStmt>
+                    <name xml:id="TA" ref="https://orcid.org/0000-0001-8417-7089">Tuuli Ahlholm</name>
+                    <resp>EpiDoc editing</resp>
+                </respStmt>
+                <respStmt>
+                    <name xml:id="SS" ref="https://orcid.org/0000-0003-3914-9569">Simona Stoyanova</name>
+                    <resp>standardisation of template and tidying up encoding</resp>
+                </respStmt>
+                <respStmt>
+                    <name xml:id="RC" ref="https://orcid.org/0000-0002-0100-7437">Robert Crellin</name>
+                    <resp>lemmatization and linguistic analysis</resp>
+                </respStmt>
+            <respStmt><name xml:id="Coccato" ref="https://orcid.org/0000-0002-6641-2820">Alessia Coccato</name><resp>Petrographic observation and analysis</resp></respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>I.Sicily</authority>
+                <idno type="filename">ISic000098</idno>
+                <idno type="TM">285316</idno>
+                <idno type="EDR">127534</idno>
+                <idno type="EDH"/>
+                <idno type="EDCS">22100052</idno>
+                <idno type="PHI"/>
+                <idno type="URI">http://sicily.classics.ox.ac.uk/inscription/ISic000098</idno>
+                <idno type="DOI" when="2020-12-17">10.5281/zenodo.4334126</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">Licensed under a Creative Commons-Attribution 4.0 licence.</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Italy</country>
+                        <region>Sicily</region>
+                        <settlement>Termini Imerese</settlement>
+                        <repository role="museum" ref="http://sicily.classics.ox.ac.uk/museum/066">Museo Civico Baldassare Romano</repository>
+                        <!--No inventory number found; a stencilled number 17 on the stone-->
+                        <!--Adding location for old id numbers if available-->
+                        <altIdentifier>
+                            <settlement/>
+                            <repository/>
+                            <idno type="old"/>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <textLang mainLang="la">Latin</textLang>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <p> Four joining fragments of a large tablet of white-veined pink 'breccia di San Marco'. Part of the lower border is preserved, with traces of a raised moulding which has been subsequently chiselled off. All of the top, left and right edges are lost, but the size of line 1 suggests this was the original first line and so not much is missing from the top of the stone, while vacats at the start of lines 4-7 of the text show that the left margin of the text, if not of the stone, is preserved there. The rear of the stone is finished smooth and traces are visible of a raised moulding along the lower edge comparable to that on the front of the stone.</p>
+                                    <material ana="#material.inorganic.stone.sedimentary_rock.limestone.calcite_limestone.red.calcare-lucidabile_rosso_sicilia-occidentale" type="stone.limestone.polishable.red" subtype="calcare_rosso_SiciliaOCC" resp="#Coccato" ref="http://www.eagle-network.eu/voc/material/lod/73.html">red brecciated limestone with white veins and dark stylolites, likely Western Sicilian red limestone (Buccheri FM) (wackestone (lamellibranchs, radiolarians, sponge spicules) with Fe-Mn encrustation) (identification based on pXRF, digital microscopy, XRD, optical microscopy)<note> Petrographic imagery at <ref target="https://iiif.csad.ox.ac.uk/viewer/isicily/ISic000098">https://iiif.csad.ox.ac.uk/viewer/isicily/ISic000098</ref></note></material>
+                                    <objectType ana="#object.plaque" ref="http://www.eagle-network.eu/voc/objtyp/lod/259">plaque</objectType>
+                                    <dimensions>
+                                        <height unit="cm">42.5 (preserved max)</height>
+                                        <width unit="cm">57 (preserved max)</width>
+                                        <depth unit="cm">3.6-4.1</depth>
+                                    </dimensions>
+                                </support>
+                                <condition/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                    <p>Line 1 is considerably larger than the others, while the spacing of line 5 suggests a clear effort to keep the text centered. The final line consists of widely spaced abbreviations.</p>
+                                    <rs ana="#execution.chiselled" ref="http://www.eagle-network.eu/voc/writing/lod/1">chiselled</rs>
+                                    <damage/>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                                <p>Elegantly v-cut letters, with serifs and interpuncts and reasonably wide modules. Occasional tall letters (Y line 4, 55mm, I line 6, 48 mm) and some exuberant strokes, such as the Y in line 4 or the Q in line 5.</p>
+                                <locus from="line1" to="line1">Line 1</locus>
+                                <dimensions type="letterHeight">
+                                    <height unit="mm">c.80 (preserved 41)</height>
+                                </dimensions>
+                                <locus from="line2" to="line2">Line 2</locus>
+                                <dimensions type="letterHeight">
+                                    <height unit="mm" atLeast="44" atMost="47">44-47</height>
+                                </dimensions>
+                                <locus from="line3" to="line3">Line 3</locus>
+                                <dimensions type="letterHeight">
+                                    <height unit="mm" atLeast="38" atMost="42">38-42</height>
+                                </dimensions>
+                                <locus from="line4" to="line4">Line 4</locus>
+                                <dimensions type="letterHeight">
+                                    <height unit="mm" atLeast="37" atMost="42">37-42</height>
+                                </dimensions>
+                                <locus from="line5" to="line5">Line 5</locus>
+                                <dimensions type="letterHeight">
+                                    <height unit="mm" atLeast="28" atMost="33">28-33</height>
+                                </dimensions>
+                                <locus from="line6" to="line6">Line 6</locus>
+                                <dimensions type="letterHeight">
+                                    <height unit="mm" atLeast="41" atMost="42">41-42</height>
+                                </dimensions>
+                                <locus from="line7" to="line2">Line 7</locus>
+                                <dimensions type="letterHeight">
+                                    <height unit="mm" atLeast="36" atMost="36">36</height>
+                                </dimensions>
+                                <locus from="line1" to="line2">Interlineation line 1 to 2</locus>
+                                <dimensions type="interlinear">
+                                    <height unit="mm"/>
+                                </dimensions>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace><region>Sicilia</region>
+                                <placeName type="ancient" ref="http://pleiades.stoa.org/places/462513" cert="low">Thermae Himeraeae</placeName>
+                                <placeName type="modern" ref="http://sws.geonames.org/6539140">Termini Imerese</placeName>
+                                <geo>37.98365, 13.69555</geo>
+                            </origPlace>
+                            <origDate datingMethod="#julian" notBefore-custom="-0021" notAfter-custom="-0001" evidence="office">The post of governor of Cyprus precedes the transfer of the province to the Senate in 22 BCE, but only provides a terminus post quem for the inscription, which in any case must surely belong after the foundation of the colonia in 21 BCE, but not, therefore, by much.</origDate>
+                        </origin>
+                        <provenance type="found" subtype="discovered" when="1783">The three left-hand fragments were found in 1783, the fourth (upper right) at a date prior to 1829 (but Romano 1829 does not appear to have recognised the connection).</provenance>
+                        <provenance type="observed" subtype="autopsied">Prag 2022-07-06</provenance>
+                        <acquisition/>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Encoded following the latest EpiDoc guidelines</p>
+            <xi:include href="../alists/ISicily-taxonomies.xml">
+                <xi:fallback>
+                    <p>Taxonomies for ISicily controlled values</p>
+                </xi:fallback>
+            </xi:include>
+            <xi:include href="../alists/charDecl.xml">
+                <xi:fallback>
+                    <p>ISicily glyphs authority list</p>
+                </xi:fallback>
+            </xi:include>
+        </encodingDesc>
+        <profileDesc>
+            <calendarDesc>
+                <calendar xml:id="julian">
+                    <p>Julian Calendar</p>
+                </calendar>
+            </calendarDesc>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="it">Italian</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="la">Latin</language>
+                <language ident="he">Hebrew</language>
+                <language ident="phn">Phoenician</language>
+                <language ident="xpu">Punic</language>
+                <language ident="osc">Oscan</language>
+                <language ident="xly">Elymian</language>
+                <language ident="scx">Sikel</language>
+                <language ident="sxc">Sikan</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="https://ontology.inscriptiones.org/type_of_inscription">
+                    <term ana="#function.honorific" ref="https://ontology.inscriptiones.org/type_of_inscription/Honorific">honorific</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc status="draft">
+            <listChange>
+                <change when="2016-12-03" who="#JCu">James Cummings autogenerated EpiDoc output from database</change>
+                <change when="2017-11-10" who="#JP">Jonathan Prag added bibl</change>
+                <change when="2017-11-16" who="#JP">Jonathan Prag edited a bibl element</change>
+                <change when="2018-05-18" who="#TA">Tuuli Ahlholm cleaned up the autogenerated text and added an apparatus</change>
+                <change when="2020-10-05" who="#SS">Simona Stoyanova normalised Unicode</change>
+                <change when="2020-10-08" who="#SS">Simona Stoyanova updated list of languages</change>
+                <change when="2020-11-20" who="#SS">Simona Stoyanova added EDCS numbers</change>
+                <change when="2020-11-26" who="#SS">Simona Stoyanova restructured bibliography</change>
+                <change when="2020-12-17" who="#JP">Updated Zenodo DOI</change>
+                <change when="2021-01-19" who="#SS">renumbered files, uris and references</change>
+                <change when="2023-08-23" who="#JP">Jonathan Prag added image</change>
+                <change when="2024-02-14" who="#JP">Jonathan Prag revised from autopsy notes</change>
+                <change when="2025-10-15" who="#RC">Robert Crellin added local IDs to edition elements</change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <surface type="front">
+            <graphic n="screen" url="ISic000098_tiled.tif" height="3249px" width="4312px">
+                <desc>I.Sicily with the permission of the Assessorato Regionale dei Beni Culturali e dell’Identità Siciliana - Dipartimento dei Beni Culturali e dell’Identità Siciliana</desc>
+            </graphic>
+            <graphic n="print" url="ISic000098.jpg" height="3249px" width="4312px">
+                <desc>I.Sicily with the permission of the Assessorato Regionale dei Beni Culturali e dell’Identità Siciliana - Dipartimento dei Beni Culturali e dell’Identità Siciliana</desc>
+            </graphic>
+        </surface>
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition" subtype="primary" xml:space="preserve" xml:lang="la" resp="#TA #JP">
+                <ab>
+                    <lb n="1" xml:id="AJεAK"/><persName type="attested" xml:id="AJεAU"><gap reason="lost" extent="unknown" unit="character" xml:id="AJεAe" n="5"/><name xml:id="AJεAo"><w n="10"><gap reason="lost" extent="unknown" unit="character" xml:id="AJεAy" n="15"/>io</w></name> <name xml:id="AJεAΙ"><w n="20">Sex<gap reason="lost" extent="unknown" unit="character" xml:id="AJεAΤ" n="25"/></w></name> <gap reason="lost" extent="unknown" unit="character" xml:id="AJεAε" n="30"/></persName>
+                    <lb n="2" xml:id="AJεAο"/><w xml:id="AJεBA" n="35"><supplied reason="lost" xml:id="AJεBK"><roleName type="supracivic" subtype="eques" xml:id="AJεBU">equo</roleName></supplied></w> <w xml:id="AJεBe" n="40"><supplied reason="lost" xml:id="AJεBo">public</supplied>o</w> <g ref="#interpunct" xml:id="AJεBy" n="45">·</g> <roleName type="military" subtype="praefectus.fabrum" xml:id="AJεBΙ"><w xml:id="AJεBΤ" n="50"><expan xml:id="AJεBε"><abbr xml:id="AJεBο">praef</abbr><ex xml:id="AJεCA">ecto</ex></expan></w> <g ref="#interpunct" xml:id="AJεCK" n="55">·</g> <w xml:id="AJεCU" n="60"><expan xml:id="AJεCe"><abbr xml:id="AJεCo">fab<unclear xml:id="AJεCy">r</unclear></abbr><ex xml:id="AJεCΙ">um</ex></expan></w></roleName> <roleName type="military" subtype="tribunus.militum" xml:id="AJεCΤ"><w xml:id="AJεCε" n="65"><supplied reason="lost" xml:id="AJεCο"><expan xml:id="AJεDA"><abbr xml:id="AJεDK">trib</abbr><ex xml:id="AJεDU">uno</ex></expan></supplied></w> <w xml:id="AJεDe" n="70"><supplied reason="lost" xml:id="AJεDo"><expan xml:id="AJεDy"><abbr xml:id="AJεDΙ">milit</abbr><ex xml:id="AJεDΤ">um</ex></expan></supplied></w></roleName>
+                    <lb n="3" xml:id="AJεDε"/><w xml:id="AJεDο" n="75"><expan xml:id="AJεEA"><abbr xml:id="AJεEK"><supplied reason="lost" xml:id="AJεEU">le</supplied>g</abbr><ex xml:id="AJεEe">ionis</ex></expan></w> <g ref="#interpunct" xml:id="AJεEo" n="80">·</g> <num value="12" xml:id="AJεEy"><w n="85">XII</w></num> <w xml:id="AJεEΙ" n="90"><unclear xml:id="AJεEΤ">F</unclear><supplied reason="lost" xml:id="AJεEε">ul</supplied>min<hi rend="apex" xml:id="AJεEο">a</hi>tae</w> <g ref="#interpunct" xml:id="AJεFA" n="95">·</g> <roleName type="supracivic" subtype="prolegato" xml:id="AJεFK"><w xml:id="AJεFU" n="100">pro</w> <w xml:id="AJεFe" n="105"><supplied reason="lost" xml:id="AJεFo">legato</supplied></w></roleName>
+                    <lb n="4" xml:id="AJεFy"/><w xml:id="AJεFΙ" n="110">Caesar<unclear xml:id="AJεFΤ">i</unclear><supplied reason="lost" xml:id="AJεFε">s</supplied></w> <placeName type="ancient" xml:id="AJεFο"><w xml:id="AJεGA" n="115">C<hi rend="tall" xml:id="AJεGK">y</hi>pri</w></placeName> <g ref="#interpunct" xml:id="AJεGU" n="120">·</g> <roleName type="military" subtype="praefectus.cohortis" xml:id="AJεGe"><w xml:id="AJεGo" n="125"><expan xml:id="AJεGy"><abbr xml:id="AJεGΙ">praef</abbr><ex xml:id="AJεGΤ">ecto</ex></expan></w> <g ref="#interpunct" xml:id="AJεGε" n="130">·</g> <w xml:id="AJεGο" n="135"><expan xml:id="AJεHA"><abbr xml:id="AJεHK">c<supplied reason="omitted" xml:id="AJεHU">o</supplied>h<supplied reason="lost" xml:id="AJεHe">ort</supplied></abbr><supplied reason="lost" xml:id="AJεHo"><ex xml:id="AJεHy">is</ex></supplied></expan></w></roleName> <gap reason="lost" extent="unknown" unit="character" xml:id="AJεHΙ" n="140"/>
+                    <lb n="5" xml:id="AJεHΤ"/><w xml:id="AJεHε" n="145">equit<hi rend="apex" xml:id="AJεHο">a</hi>tae</w> <space unit="character" quantity="1" xml:id="AJεIA" n="150"/><g ref="#interpunct" xml:id="AJεIK" n="155">·</g> <space unit="character" quantity="2" xml:id="AJεIU" n="160"/><w xml:id="AJεIe" n="165">et</w> <space unit="character" quantity="1" xml:id="AJεIo" n="170"/><g ref="#interpunct" xml:id="AJεIy" n="175">·</g> <space unit="character" quantity="1" xml:id="AJεIΙ" n="180"/><name xml:id="AJεIΤ"><w n="185">Iulia<supplied reason="lost" xml:id="AJεIε">e</supplied></w></name> <gap reason="lost" extent="unknown" unit="character" xml:id="AJεIο" n="190"/>
+                    <lb n="6" xml:id="AJεJA"/><persName type="attested" xml:id="AJεJK"><name xml:id="AJεJU"><w n="195"><expan xml:id="AJεJe"><abbr xml:id="AJεJo">M</abbr><ex xml:id="AJεJy">arcus</ex></expan></w></name> <g ref="#interpunct" xml:id="AJεJΙ" n="200">·</g> <name xml:id="AJεJΤ"><w n="205">L<hi rend="tall" xml:id="AJεJε">i</hi>vius</w></name> <g ref="#interpunct" xml:id="AJεJο" n="210">·</g> <name xml:id="AJεKA"><w n="215">Macedonic<supplied reason="lost" xml:id="AJεKK">us</supplied></w></name></persName> <gap reason="lost" extent="unknown" unit="character" xml:id="AJεKU" n="220"/>
+                    <lb n="7" xml:id="AJεKe"/><w xml:id="AJεKo" n="225"><expan xml:id="AJεKy"><abbr xml:id="AJεKΙ">l</abbr><ex xml:id="AJεKΤ">ocus</ex></expan></w> <g ref="#interpunct" xml:id="AJεKε" n="230">·</g> <space unit="character" quantity="3" xml:id="AJεKο" n="235"/><w xml:id="AJεLA" n="240"><supplied reason="lost" xml:id="AJεLK"><expan xml:id="AJεLU"><abbr xml:id="AJεLe">d</abbr><ex xml:id="AJεLo">atus</ex></expan></supplied></w> <w xml:id="AJεLy" n="245"><supplied reason="lost" xml:id="AJεLΙ"><expan xml:id="AJεLΤ"><abbr xml:id="AJεLε">d</abbr><ex xml:id="AJεLο">ecreto</ex></expan></supplied></w> <roleName type="civic" subtype="decurio" xml:id="AJεMA"><w xml:id="AJεMK" n="250"><supplied reason="lost" xml:id="AJεMU"><expan xml:id="AJεMe"><abbr xml:id="AJεMo">d</abbr><ex xml:id="AJεMy">ecurionum</ex></expan></supplied></w></roleName>
+                </ab>
+            </div>
+            <div type="apparatus">
+                <listApp>
+                    <app>
+                        <note>Text based on autopsy</note>
+                    </app>
+                </listApp>
+            </div>
+            <div type="translation">
+                <p><!--translation(s) - add @xml:lang for 'en' or 'it' to div--></p>
+            </div>
+            <div type="commentary">
+                <p>The restored text is based upon that proposed by H.G. Pflaum, in Les carrières procuratoriennes équestres sous le Haut-Empire romain (1960-61), vol. 1, p. 7, A(8).</p>
+            </div>
+            <div type="bibliography">
+                <listBibl type="edition">
+                    <bibl>
+                        <author>Castelli</author>
+                        <date>1784</date>
+                        <citedRange>331 no.5</citedRange>
+                        <ptr target="https://www.zotero.org/groups/382445/items/7PSFHSUH"/>
+                        <ref target="https://biblio.inscriptiones.org/epig10002083">https://biblio.inscriptiones.org/epig10002083</ref>
+                    </bibl>
+                    <bibl>
+                        <author>Romano</author>
+                        <date>1829</date>
+                        <citedRange>304 no.15, 305 no.19</citedRange>
+                        <ptr target="https://www.zotero.org/groups/382445/items/2UJS2UVS"/>
+                        <ref target="https://biblio.inscriptiones.org/epig10002748">https://biblio.inscriptiones.org/epig10002748</ref>
+                    </bibl>
+                    <bibl type="corpus" n="CIL">
+                        <author>Mommsen</author>
+                        <date>1883</date>
+                        <citedRange>
+                            <ref target="http://arachne.uni-koeln.de/item/buchseite/650796">7351</ref>
+                        </citedRange>
+                        <ptr target="https://www.zotero.org/groups/382445/items/GQN8UZSI"/>
+                        <ref target="https://biblio.inscriptiones.org/epig10000589">https://biblio.inscriptiones.org/epig10000589</ref>
+                    </bibl>
+                    <bibl type="corpus" n="ILMusTermini">
+                        <author>Bivona</author>
+                        <date>1994</date>
+                        <citedRange>16</citedRange>
+                        <ptr target="https://www.zotero.org/groups/382445/items/JCV85C79"/>
+                        <ref target="https://biblio.inscriptiones.org/epig10002137">https://biblio.inscriptiones.org/epig10002137</ref>
+                    </bibl>
+                    <bibl>
+                        <author>Manganaro</author>
+                        <date>1988</date>
+                        <citedRange>53 n.259, cf 10 n.23, 42</citedRange>
+                        <ptr target="https://www.zotero.org/groups/382445/items/RZSFKACR"/>
+                        <ref target="https://biblio.inscriptiones.org/epig10001427">https://biblio.inscriptiones.org/epig10001427</ref>
+                    </bibl>
+                    <bibl>
+                        <author>Wilson</author>
+                        <date>1990</date>
+                        <citedRange>38 n.55</citedRange>
+                        <ptr target="https://www.zotero.org/groups/382445/items/VF9MMBI9"/>
+                        <ref target="https://biblio.inscriptiones.org/epig10001509">https://biblio.inscriptiones.org/epig10001509</ref>
+                    </bibl>
+                </listBibl>
+                <listBibl type="discussion">
+                    <bibl/>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Epitaph of Theodoule</title>
+                <editor ref="#JP">Jonathan Prag</editor>
+                <principal ref="#JP">Jonathan Prag</principal>
+                <funder>John Fell OUP Research Fund</funder>
+                <funder>
+                    <ref target="https://cordis.europa.eu/project/id/885040">ERC Advanced Grant no.885040</ref>
+                </funder>
+                <respStmt>
+                    <name xml:id="JP" ref="http://orcid.org/0000-0003-3819-8537">Jonathan Prag</name>
+                    <resp>original data collection and editing</resp>
+                </respStmt>
+                <respStmt>
+                    <name xml:id="JCu" ref="http://orcid.org/0000-0002-6686-3728">James Cummings</name>
+                    <resp>conversion to EpiDoc</resp>
+                </respStmt>
+                <respStmt>
+                    <name xml:id="SS" ref="https://orcid.org/0000-0003-3914-9569">Simona Stoyanova</name>
+                    <resp>standardisation of template and tidying up encoding</resp>
+                </respStmt>
+                <respStmt>
+                    <name xml:id="VF" ref="https://orcid.org/0000-0001-6302-3726">Victoria Fendel</name>
+                    <resp>lemmatization and linguistic analysis</resp>
+                </respStmt>
+                <respStmt>
+                    <name xml:id="RC" ref="https://orcid.org/0000-0002-0100-7437">Robert Crellin</name>
+                    <resp>lemmatization and linguistic analysis</resp>
+                </respStmt>
+                <respStmt>
+                    <name xml:id="martaf" ref="https://orcid.org/0000-0001-5187-5163">Marta Fogagnolo</name>
+                    <resp>check encoded text, translation and commentary</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>I.Sicily</authority>
+                <idno type="filename">ISic001423</idno>
+                <idno type="TM">644973</idno>
+                <idno type="EDR"/>
+                <idno type="EDH"/>
+                <idno type="EDCS">41300022</idno>
+                <idno type="EDCS">64900779</idno>
+                <idno type="PHI">333362</idno>
+                <idno type="URI">http://sicily.classics.ox.ac.uk/inscription/ISic001423</idno>
+                <idno type="DOI" when="2020-12-22">10.5281/zenodo.4385916</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">Licensed under a Creative Commons-Attribution 4.0 licence.</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Italy</country>
+                        <region>Sicily</region>
+                        <settlement>Catania</settlement>
+                        <repository><!--Add Repository Here--></repository>
+                        <!--No inventory number found-->
+                        <!--Adding location for old id numbers if available-->
+                        <altIdentifier>
+                            <settlement/>
+                            <repository/>
+                            <idno type="old"/>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <textLang mainLang="grc">Ancient Greek</textLang>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material ana="#material.inorganic.stone.metamorphic_rock.marble" type="stone.marble" subtype="unverified" ref="http://www.eagle-network.eu/voc/material/lod/48.html">marble</material>
+                                    <objectType ana="#object.plaque" ref="http://www.eagle-network.eu/voc/objtyp/lod/259">plaque</objectType>
+                                    <dimensions><!--Default values and requires editing-->
+                                        <height unit="cm"/>
+                                        <width unit="cm"/>
+                                        <depth unit="cm"/>
+                                    </dimensions>
+                                </support>
+                                <condition/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout><!--Default value and requires checking-->
+                                    <rs ana="#execution.chiselled" ref="http://www.eagle-network.eu/voc/writing/lod/1">chiselled</rs>
+                                    <damage/>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote><!--Default value and requires editing-->
+                                <locus from="line1" to="line1">Line 1</locus>
+                                <dimensions type="letterHeight">
+                                    <height unit="mm"/>
+                                </dimensions>
+                                <locus from="line1" to="line2">Interlineation line 1 to 2</locus>
+                                <dimensions type="interlinear">
+                                    <height unit="mm"/>
+                                </dimensions>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace><region>Sicilia</region>
+                                <placeName type="ancient" ref="http://pleiades.stoa.org/places/462270">Catina</placeName>
+                                <placeName type="modern" ref="http://sws.geonames.org/2525068">Catania</placeName>
+                                <geo>37.49223, 15.07041</geo>
+                            </origPlace>
+                            <origDate datingMethod="#julian" notBefore-custom="0301" notAfter-custom="0350">First half of 4th century CE</origDate>
+                        </origin>
+                        <provenance type="found" subtype="discovered">via Androne, under the pavement of a C6 CE small basilica</provenance>
+                        <provenance type="observed" subtype="autopsied">None</provenance>
+                        <acquisition/>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Encoded following the latest EpiDoc guidelines</p>
+            <xi:include href="../alists/ISicily-taxonomies.xml">
+                <xi:fallback>
+                    <p>Taxonomies for ISicily controlled values</p>
+                </xi:fallback>
+            </xi:include>
+            <xi:include href="../alists/charDecl.xml">
+                <xi:fallback>
+                    <p>ISicily glyphs authority list</p>
+                </xi:fallback>
+            </xi:include>
+        </encodingDesc>
+        <profileDesc>
+            <calendarDesc>
+                <calendar xml:id="julian">
+                    <p>Julian Calendar</p>
+                </calendar>
+            </calendarDesc>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="it">Italian</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="la">Latin</language>
+                <language ident="he">Hebrew</language>
+                <language ident="phn">Phoenician</language>
+                <language ident="xpu">Punic</language>
+                <language ident="osc">Oscan</language>
+                <language ident="xly">Elymian</language>
+                <language ident="scx">Sikel</language>
+                <language ident="sxc">Sikan</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="https://ontology.inscriptiones.org/type_of_inscription">
+                    <term ana="#function.funerary" ref="https://ontology.inscriptiones.org/type_of_inscription/Funerary">funerary</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc status="draft">
+            <listChange>
+                <change when="2016-12-03" who="#JCu">James Cummings autogenerated EpiDoc output from database</change>
+                <change when="2020-10-05" who="#SS">Simona Stoyanova normalised Unicode</change>
+                <change when="2020-10-08" who="#SS">Simona Stoyanova updated list of languages</change>
+                <change when="2020-11-20" who="#SS">Simona Stoyanova added EDCS numbers</change>
+                <change when="2020-11-26" who="#SS">Simona Stoyanova restructured bibliography</change>
+                <change when="2020-12-22" who="#JP">Updated Zenodo DOI</change>
+                <change when="2021-01-19" who="#SS">renumbered files, uris and references</change>
+                <change when="2024-07-10" who="#JP">Jonathan Prag revised text from published edition</change>
+                <change when="2025-11-05" who="#VF">Victoria Fendel's lemmatizations were added from source CoNLL-U files using PyEpiDoc and associated scripts</change>
+                <change when="2025-11-05" who="#RC">Robert Crellin integrated lemmatizations into EpiDoc</change>
+                <change when="2026-08-03" who="#martaf">Marta Fogagnolo revised added the translation and the commentary</change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile><surface/><!--
+        <surface type="front">
+            <graphic n="screen" url="ISic001423_tiled.tif" height="3680px" width="5520px">
+                <desc>I.Sicily with the permission of the Assessorato Regionale dei Beni Culturali e dell’Identità Siciliana - Dipartimento dei Beni Culturali e dell’Identità Siciliana</desc>
+            </graphic>
+            <graphic n="print" url="ISic001423.jpg" height="3680px" width="5520px">
+                <desc>I.Sicily with the permission of the Assessorato Regionale dei Beni Culturali e dell’Identità Siciliana - Dipartimento dei Beni Culturali e dell’Identità Siciliana</desc>
+            </graphic>
+        </surface>
+     --></facsimile>
+    <text>
+        <body>
+            <div type="edition" subtype="primary" xml:space="preserve" xml:lang="grc" resp="#JP">
+                <ab>
+                    <lb n="1"/><g ref="#staurogram" n="5">𐆠</g> <g ref="#staurogram" n="10">𐆠</g> <g ref="#staurogram" n="15">𐆠</g>
+                    <lb n="2"/><w n="20">ἐνθάδε</w> <w n="25"><choice><orig>κεῖτ<surplus>τ</surplus>ε</orig><reg>κεῖται</reg></choice></w> <g ref="#ivy-leaf" n="35">❦</g>
+                    <lb n="3"/><w n="40">ἀεὶ</w> <w n="45">παρθένος</w> <w n="50">ὀ
+                    <lb n="4" break="no"/>νόματι</w> <persName type="attested"><name><w n="55">Θεοδούλη</w></name></persName> <w n="60">ζή
+                    <lb n="5" break="no"/>σασα</w> <w n="65"><supplied reason="lost">ἔ</supplied>τη</w> <num value="22"><w n="70">κβ</w></num> <g ref="#ivy-leaf" n="75">❦</g> <w n="80">τελευτᾷ</w> <w n="85">τῇ</w>
+                    <lb n="6"/><w n="90">πρὸ</w> <num value="3"><w n="95">γ</w></num> <w n="100"><expan><abbr>καλ</abbr><ex>ανδῶν</ex></expan></w> <g ref="#staurogram" n="105">𐆠</g> <name><w n="110">Ἰανουαρίων</w></name>
+                    <lb n="7"/><w n="115">ἐδόθη</w> <w n="120">δὲ</w> <w n="125">ἡ</w> <w n="130">ἔνβασις</w> <w n="135">κατὰ</w> <w n="140">δωρε
+                    <lb n="8" break="no"/>ὰν</w> <w n="145">σφραγῖδος</w> <w n="150">τῆς</w> <w n="155"><expan><abbr>πρεσβυτέ</abbr><ex>ρας</ex></expan></w>
+                </ab>
+            </div>
+            <div type="edition" subtype="simple-lemmatized" resp="#VF #RC">
+                <ab>
+                    <w n="20" lemma="ἐνθάδε">ἐνθάδε</w>
+                    <w n="25" lemma="κεῖμαι">κεῖται</w>
+                    <w n="40" lemma="ἀεί">ἀεὶ</w>
+                    <w n="45" lemma="παρθένος">παρθένος</w>
+                    <w n="50" lemma="ὄνομα">ὀνόματι</w>
+                    <w n="55" lemma="Θεοδούλη">Θεοδούλη</w>
+                    <w n="60" lemma="ζάω">ζήσασα</w>
+                    <w n="65" lemma="ἔτος">ἔτη</w>
+                    <w n="70" lemma="κβ">κβ</w>
+                    <w n="80" lemma="τελευτάω">τελευτᾷ</w>
+                    <w n="85" lemma="ὁ">τῇ</w>
+                    <w n="90" lemma="πρό">πρὸ</w>
+                    <w n="95" lemma="γ">γ</w>
+                    <w n="100" lemma="kalendae">καλανδῶν</w>
+                    <w n="110" lemma="Ianuarius">Ἰανουαρίων</w>
+                    <w n="115" lemma="δίδωμι">ἐδόθη</w>
+                    <w n="120" lemma="δέ">δὲ</w>
+                    <w n="125" lemma="ὁ">ἡ</w>
+                    <w n="130" lemma="ἔμβασις">ἔνβασις</w>
+                    <w n="135" lemma="κατά">κατὰ</w>
+                    <w n="140" lemma="δωρεά">δωρεὰν</w>
+                    <w n="145" lemma="σφραγίς">σφραγῖδος</w>
+                    <w n="150" lemma="ὁ">τῆς</w>
+                    <w n="155" lemma="πρέσβυς">πρεσβυτέρας</w>
+                </ab>
+            </div>
+            <div type="apparatus">
+                <listApp>
+                    <app>
+                        <note>Text of Rizza and Bitto</note>
+                    </app>
+                    <app loc="line 7"><note>σφραγῖδος τῆς πρεσβυτέ(ρας) Bitto; σφραγῖδος τῆς πρεσβυτέ(ρου) Ferrua; τῆς πρεσβυτε(ρικῆς) Manganaro, Rizzone</note></app>
+                </listApp>
+            </div>
+            <div type="translation" xml:lang="en" resp="#martaf">
+                <p>Here lies the ever-virgin Theodoule, who lived for 22 years. She died three days before the Kalends of January. A burial place was granted to her on account of the gift of the oldest and most prestigious sphragis.</p>
+            </div>
+            <div type="commentary" resp="#martaf">
+                <p>The funerary inscription was discovered within a burial complex associated with the cult of the martyrs, including an adjoining basilica, dating to the 4th-6th centuries AD and located in the central-southern sector of the insula bounded by Via Androne, Via Tomaselli, and Via Dottor Consoli (cf. Rizza 1964). The young deceased, Theodoule (for this Christian name in Catania, see also IMusCatania 167 = ISic001648), who died at only twenty-two years of age, is described as <foreign xml:lang="grc">ἀειπαρθένος</foreign> ("ever-virgin"), an epithet of consecrated virgins frequently attested in Christian epigraphy (cf. Rizzone 2008, 179). Lines 6–7 mention the grant of the burial place, but the passage is difficult to interpret because of the uncertain resolution of the final abbreviated word. Ferrua (1989, no. 425) expanded it as <foreign xml:lang="grc">σφραγῖδος τῆς πρεσβυτέ(ρου)</foreign>, interpreting "the seal of the priest" as a reference to baptism. On this interpretation, Theodoule would have been baptized relatively late in life, a conclusion that sits uneasily with her designation as <foreign xml:lang="grc">ἀειπαρθένος</foreign>. Bitto (1996), by contrast, restored <foreign xml:lang="grc">σφραγῖδος τῆς πρεσβυτέ(ρας)</foreign>, interpreting the phrase as "on account of the gift of the highest sphragis," namely the martyr's baptism. According to this interpretation, Theodoule enjoyed a privileged status that would explain her burial within such a prestigious funerary complex, which also appears to have accommodated the young Iulia Florentina (CIL X 7112 = <ref target="https://sicily.classics.ox.ac.uk/inscription/ISic000083">ISic000083</ref>), buried <foreign xml:lang="la">apud fores martyrum</foreign>. This interpretation seems preferable, although it is difficult to dismiss entirely Manganaro's proposal (1993, 560), who restored <foreign xml:lang="grc">σφραγῖδος τῆς πρεσβυτε(ρικῆς)</foreign> and interpreted the expression as "by a deed of donation authenticated with the presbyter's seal," attributing to it an administrative meaning connected with the concession of burial in ecclesiastical buildings.</p>
+            </div>
+            <div type="bibliography">
+                <listBibl type="edition">
+                    <bibl type="bulletin" n="AE">
+                        <date>1996</date>
+                        <citedRange>792</citedRange>
+                        <ptr target="https://www.zotero.org/groups/382445/items/R46KDTZX"/>
+                        <ref target="https://biblio.inscriptiones.org/epig10001283">https://biblio.inscriptiones.org/epig10001283</ref>
+                    </bibl>
+                    <bibl type="bulletin" n="SEG">
+                        <date>1996</date>
+                        <citedRange>46.1261</citedRange>
+                        <ptr target="https://www.zotero.org/groups/382445/items/F2GG87EQ"/>
+                        <ref target="https://biblio.inscriptiones.org/epig10000796">https://biblio.inscriptiones.org/epig10000796</ref>
+                    </bibl>
+                    <bibl>
+                        <author>Rizza</author>
+                        <date>1964</date>
+                        <citedRange>604 no.1 fig.13</citedRange>
+                        <ref target="https://www.zotero.org/groups/382445/items/9FWKQU6Q"/>
+                        <ref target="https://biblio.inscriptiones.org/epig10003143">https://biblio.inscriptiones.org/epig10003143</ref>
+                    </bibl>
+                    <bibl>
+                        <author>Ferrua</author>
+                        <date>1989</date>
+                        <citedRange>no.425</citedRange>
+                        <ptr target="https://www.zotero.org/groups/382445/items/759ZXHKQ"/>
+                        <ref target="https://biblio.inscriptiones.org/epig10001995">https://biblio.inscriptiones.org/epig10001995</ref>
+                    </bibl>
+                    <bibl>
+                        <author>Manganaro</author>
+                        <date>1993</date>
+                        <citedRange>560 fig.5</citedRange>
+                        <ptr target="https://www.zotero.org/groups/382445/items/JBI7CI5R"/>
+                        <ref target="https://biblio.inscriptiones.org/epig10001827">https://biblio.inscriptiones.org/epig10001827</ref>
+                    </bibl>
+                    <bibl>
+                        <author>Bitto</author>
+                        <date>1996</date>
+                        <citedRange>279-292</citedRange>
+                        <ref target="https://www.zotero.org/groups/382445/items/DMBTEE76"/>
+                        <ref target="https://biblio.inscriptiones.org/epig10002146">https://biblio.inscriptiones.org/epig10002146</ref>
+                    </bibl>
+                </listBibl>
+                <listBibl type="discussion">
+                    <bibl>
+                        <author>Rizzone</author>
+                        <date>2008</date>
+                        <citedRange>179</citedRange>
+                        <ptr target="http://zotero.org/groups/382445/items/RBAQK3IB"/>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

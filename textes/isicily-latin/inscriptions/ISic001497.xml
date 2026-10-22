@@ -1,0 +1,243 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Epitaph for Caius Terentius Symphorus</title>
+                <editor ref="#JP">Jonathan Prag</editor>
+                <principal ref="#JP">Jonathan Prag</principal>
+                <funder>John Fell OUP Research Fund</funder>
+	   <funder><ref target="https://cordis.europa.eu/project/id/885040">ERC Advanced Grant no.885040</ref></funder>
+                <respStmt>
+                    <name xml:id="JP" ref="http://orcid.org/0000-0003-3819-8537">Jonathan Prag</name>
+                    <resp>original data collection and editing</resp>
+                </respStmt>
+                <respStmt>
+                    <name xml:id="JCu" ref="http://orcid.org/0000-0002-6686-3728">James Cummings</name>
+                    <resp>conversion to EpiDoc</resp>
+                </respStmt>
+                <respStmt>
+                    <name xml:id="ME">Michael Economou</name>
+                    <resp>Epidoc encoding, translation</resp>
+                </respStmt>
+                <respStmt>
+                    <name xml:id="RG" ref="https://orcid.org/0009-0003-5190-1722">Romeo Gessaga</name>
+                    <resp>named entity annotation</resp>
+                </respStmt>
+	    <respStmt>
+     	       <name xml:id="SS" ref="https://orcid.org/0000-0003-3914-9569">Simona Stoyanova</name>
+     	       <resp>standardisation of template and tidying up encoding</resp>
+ 	   </respStmt>
+            <respStmt><name xml:id="Coccato" ref="https://orcid.org/0000-0002-6641-2820">Alessia Coccato</name><resp>Petrographic observation and analysis</resp></respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>I.Sicily</authority>
+                <idno type="filename">ISic001497</idno>
+                <idno type="TM">175832</idno>
+                <idno type="EDR">073509</idno>
+                <idno type="EDH"/>
+                <idno type="EDCS">14805798</idno>
+                <idno type="PHI">313639</idno>
+                <idno type="URI">http://sicily.classics.ox.ac.uk/inscription/ISic001497</idno>
+                <idno type="DOI" when="2020-12-18">10.5281/zenodo.4354185</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">Licensed under a Creative
+                        Commons-Attribution 4.0 licence.
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Italy</country>
+                        <region>Sicily</region>
+                        <settlement>Messina</settlement>
+                        <repository role="museum" ref="http://sicily.classics.ox.ac.uk/museum/147">Museo regionale interdisciplinare di Messina</repository>
+                        <idno type="inventory">A3573</idno>
+                        <altIdentifier type="former">
+                            <settlement>Messina</settlement>
+                            <repository>Museo regionale interdisciplinare di Messina</repository>
+                            <idno type="old">2476</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <textLang mainLang="la">Latin</textLang>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support><p>A marble slab, with lightly convex suface, broken into three joining pieces (and restored). The upper left corner is missing. Part of a damaged moulding projects along the upper edge.</p>
+                                    <material ana="#material.inorganic.stone.metamorphic_rock.marble" type="stone.marble" subtype="unspecified" resp="#Coccato" ref="http://www.eagle-network.eu/voc/material/lod/48.html">marble</material>
+                                    <objectType ana="#object.plaque" ref="http://www.eagle-network.eu/voc/objtyp/lod/259">plaque</objectType>
+                                    <dimensions><!--measurements of Bitto 2001: 47-->
+                                        <height unit="cm">26.2</height>
+                                        <width unit="cm">29.8</width>
+                                        <depth unit="cm">1-1.7</depth>
+                                    </dimensions>
+                                </support>
+                                <condition/>
+		    </supportDesc>
+                            <layoutDesc>
+                                <layout><p>The text is carefully aligned on the left margin, less evenly along the right, and fills the stone over 5 lines, with a large hedera at the end of the text, lower right.</p>
+                                    <rs ana="#execution.chiselled" ref="http://www.eagle-network.eu/voc/writing/lod/1">chiselled</rs>
+                                	<damage/>
+			</layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote><!--measurements from Bitto 2001: 47-->
+                                <locus from="line1" to="line5">Lines 1-5</locus>
+                                <dimensions type="letterHeight">
+                                    <height unit="mm" atLeast="33" atMost="34">33-34</height>
+                                </dimensions>
+                                <locus from="line1" to="line5">Interlineation lines 1 to 5</locus>
+                                <dimensions type="interlinear">
+                                    <height unit="mm" atLeast="11" atMost="15">11-15</height>
+                                </dimensions>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace><region>Sicilia</region>
+                                <placeName type="ancient" ref="http://pleiades.stoa.org/places/462538">Messana</placeName>		
+                                <placeName type="modern" ref="http://sws.geonames.org/2524170">Messina</placeName>
+                            	<geo>38.19394, 15.55256</geo>
+		</origPlace>
+                            <origDate datingMethod="#julian" notBefore-custom="0101" notAfter-custom="0300">2nd — 3rd century CE</origDate>
+                        </origin>
+                        <provenance type="found" subtype="discovered" when="1914">Found in 1914 in exavations by Orsi in the<placeName ref="https://pleiades.stoa.org/places/888447551">Necropolis of San Placido</placeName><geo>38.1992517, 15.5566385</geo>, sep.104</provenance>
+                        <provenance type="observed" subtype="autopsied">None</provenance>
+                        <acquisition/>
+                    </history>
+                    </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+             <p>Encoded following the latest EpiDoc guidelines</p>
+             <xi:include href="../alists/ISicily-taxonomies.xml">
+                 <xi:fallback>
+                     <p>Taxonomies for ISicily controlled values</p>
+                 </xi:fallback>
+             </xi:include>
+	  <xi:include href="../alists/charDecl.xml">
+	     <xi:fallback>
+	       <p>ISicily glyphs authority list</p>
+	     </xi:fallback>
+	   </xi:include>
+         </encodingDesc>
+        <profileDesc>
+            <calendarDesc>
+                <calendar xml:id="julian">
+                    <p>Julian Calendar</p>
+                </calendar>
+            </calendarDesc>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="it">Italian</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="la">Latin</language>
+                <language ident="he">Hebrew</language>
+                <language ident="phn">Phoenician</language>
+                <language ident="xpu">Punic</language>
+                <language ident="osc">Oscan</language>
+                <language ident="xly">Elymian</language>
+                <language ident="scx">Sikel</language>
+                <language ident="sxc">Sikan</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="https://ontology.inscriptiones.org/type_of_inscription">
+                    <term ana="#function.funerary" ref="https://ontology.inscriptiones.org/type_of_inscription/Funerary">funerary</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc status="draft">
+            <listChange>
+                <change when="2016-12-03" who="#JCu">James Cummings autogenerated EpiDoc output from database</change>
+                <change when="2019-01-18" who="#ME">Michael Economou Bottino encoded the text division and added some metadata</change>
+                <change when="2019-01-24" who="#JP">Jonathan Prag checked and revised the file with additional metadata</change>
+            	   <change when="2020-10-05" who="#SS">Simona Stoyanova normalised Unicode</change>
+            	   <change when="2020-10-08" who="#SS">Simona Stoyanova updated list of languages</change>
+            	<change when="2020-11-20" who="#SS">Simona Stoyanova added EDCS numbers</change>
+		<change when="2020-11-26" who="#SS">Simona Stoyanova restructured bibliography</change>
+	    <change when="2020-12-18" who="#JP">Updated Zenodo DOI</change>
+            	<change when="2021-01-19" who="#SS">renumbered files, uris and references</change>
+                <change when="2026-02-02" who="#RG">tagged names and persons</change>
+	</listChange>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile><surface/><!--  
+        <surface type="front">
+            <graphic n="screen" url="ISic001497_tiled.tif" height="3680px" width="5520px">
+                <desc>I.Sicily with the permission of the Assessorato Regionale dei Beni Culturali e dell’Identità Siciliana - Dipartimento dei Beni Culturali e dell’Identità Siciliana</desc>
+            </graphic>
+            <graphic n="print" url="ISic001497.jpg" height="3680px" width="5520px">
+                <desc>I.Sicily with the permission of the Assessorato Regionale dei Beni Culturali e dell’Identità Siciliana - Dipartimento dei Beni Culturali e dell’Identità Siciliana</desc>
+            </graphic>
+         </surface>-->
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition" subtype="primary" xml:space="preserve" xml:lang="la" resp="#ME">
+                <ab>
+                    <lb n="1"/><persName type="attested"><name type="praenomen"><supplied reason="undefined" evidence="previouseditor"><expan><abbr>C</abbr><ex>aio</ex></expan></supplied></name> <supplied reason="undefined" evidence="previouseditor"><g ref="#interpunct">·</g></supplied> <name type="nomen">Terentio</name> <g ref="#interpunct">·</g> <name type="cognomen">Symphoro</name>
+                    <lb n="2"/><persName type="attested"><name type="praenomen"><expan><abbr>C</abbr><ex>ai</ex></expan></name> <g ref="#interpunct">·</g> <name type="nomen">Terenti</name> <g ref="#interpunct">·</g> <name type="cognomen">Syntro<hi rend="ligature">phi</hi></name></persName> <g ref="#interpunct">·</g> <expan><abbr>lib</abbr><ex>erto</ex></expan></persName>
+                    <lb n="3"/><roleName type="military" subtype="medicus.chirurgus.cohortis">medico <expan><abbr>chir</abbr><ex>urgo</ex></expan> <g ref="#interpunct">·</g> <expan><abbr>coh</abbr><ex>ortis</ex></expan></roleName> <g ref="#interpunct">·</g> <hi rend="supraline">IIII</hi>
+                    <lb n="4"/><expan><abbr>praet</abbr><ex>oriae</ex></expan> <g ref="#interpunct">·</g> <expan><abbr>ann</abbr><ex>orum</ex></expan> <g ref="#interpunct">·</g> <hi rend="supraline"><num value="28">XXIIX</num></hi> <g ref="#interpunct">·</g> huius
+                    <lb n="5"/><expan><abbr>cura</abbr><ex>m</ex></expan> <g ref="#interpunct">·</g> egit <g ref="#interpunct">·</g> <persName type="attested"><name>Atticus</name></persName> <g ref="#ivy-leaf"/>
+                </ab>
+            </div>
+            <div type="apparatus">
+                <listApp><app><note>Text after Bitto 2001</note></app></listApp>
+            </div>
+            <div type="translation" xml:lang="en" resp="#ME">
+                <p>To Caius Terentius Symphorus, freedman of Caius Terentius Syntrophus, surgeon of the 4th Praetorian Cohort, died aged 28 (or 'surgeon for 28 years'). Atticus took care of this.</p>
+            </div>
+            <div type="commentary">
+                <p/>
+            </div>
+            <div type="bibliography">
+                <listBibl type="edition">
+                    <bibl type="bulletin" n="AE">
+                        <date>1945</date>
+                        <citedRange>62</citedRange>
+                        <ptr target="https://www.zotero.org/groups/382445/items/R46KDTZX"/>
+                    <ref target="https://biblio.inscriptiones.org/epig10001283">https://biblio.inscriptiones.org/epig10001283</ref></bibl>
+                    <bibl type="corpus" n="IMusMessina">
+                         <author>Bitto</author>
+                         <date>2001</date> 
+                        <citedRange>11</citedRange>
+                        <ptr target="https://www.zotero.org/groups/382445/items/M9HMEP2R"/>
+                    <ref target="https://biblio.inscriptiones.org/epig10000029">https://biblio.inscriptiones.org/epig10000029</ref></bibl>
+                    <bibl>
+                        <author>Ferrua</author>
+                        <date>1941</date>
+                        <citedRange>258 no.13</citedRange>
+                        <ptr target="https://www.zotero.org/groups/382445/items/P7QQ9SB6"/>
+                    <ref target="https://biblio.inscriptiones.org/epig10002655">https://biblio.inscriptiones.org/epig10002655</ref></bibl>
+                    <bibl>
+                        <author>Orsi</author>
+                        <date>1916</date>
+                        <citedRange>162-163</citedRange>
+                        <ptr target="https://www.zotero.org/groups/382445/items/P49V3TMD"/>
+                    <ref target="https://biblio.inscriptiones.org/epig10001701">https://biblio.inscriptiones.org/epig10001701</ref></bibl>
+                    <bibl>
+                        <author>Manganaro</author>
+                        <date>1988</date>
+                        <citedRange>63</citedRange>
+                        <ptr target="https://www.zotero.org/groups/382445/items/RZSFKACR"/>
+                        <ref target="https://biblio.inscriptiones.org/epig10001427">https://biblio.inscriptiones.org/epig10001427</ref></bibl>
+                    <bibl>
+                        <author>Cassia</author>
+                        <date>2009-2012</date>
+                        <citedRange>167 no.16</citedRange>
+                        <ptr target="https://www.zotero.org/groups/382445/items/8YSBQ8MM"/>
+                    </bibl>
+                </listBibl>
+	   <listBibl type="discussion"><bibl/></listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

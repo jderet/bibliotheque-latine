@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Epitaph for Kassia Benousta</title>
+                <editor ref="#JP">Jonathan Prag</editor>
+                <principal ref="#JP">Jonathan Prag</principal>
+                <funder>John Fell OUP Research Fund</funder>
+                <funder>
+                    <ref target="https://cordis.europa.eu/project/id/885040">ERC Advanced Grant no.885040</ref>
+                </funder>
+                <respStmt>
+                    <name xml:id="JP" ref="http://orcid.org/0000-0003-3819-8537">Jonathan Prag</name>
+                    <resp>original data collection and editing</resp>
+                </respStmt>
+                <respStmt>
+                    <name xml:id="martaf" ref="https://orcid.org/0000-0001-5187-5163">Marta Fogagnolo</name>
+                    <resp>editing, translation and commentary</resp>
+                </respStmt>
+                <respStmt>
+                    <name xml:id="JCu" ref="http://orcid.org/0000-0002-6686-3728">James Cummings</name>
+                    <resp>conversion to EpiDoc</resp>
+                </respStmt>
+                <respStmt>
+                    <name xml:id="AA" ref="http://orcid.org/0000-0001-7077-0703">Alex Antoniou</name>
+                    <resp>EpiDoc editing and English translation</resp>
+                </respStmt>
+                <respStmt>
+                    <name xml:id="SS" ref="https://orcid.org/0000-0003-3914-9569">Simona Stoyanova</name>
+                    <resp>standardisation of template and tidying up encoding</resp>
+                </respStmt>
+                <respStmt>
+                    <name xml:id="VF" ref="https://orcid.org/0000-0001-6302-3726">Victoria Fendel</name>
+                    <resp>lemmatization and linguistic analysis</resp>
+                </respStmt>
+                <respStmt>
+                    <name xml:id="RC" ref="https://orcid.org/0000-0002-0100-7437">Robert Crellin</name>
+                    <resp>lemmatization and linguistic analysis</resp>
+                </respStmt>
+            <respStmt><name xml:id="Coccato" ref="https://orcid.org/0000-0002-6641-2820">Alessia Coccato</name><resp>Petrographic observation and analysis</resp></respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>I.Sicily</authority>
+                <idno type="filename">ISic001306</idno>
+                <idno type="TM">492911</idno>
+                <idno type="EDR"/>
+                <idno type="EDH"/>
+                <idno type="EDCS">39101676</idno>
+                <idno type="PHI">140798</idno>
+                <idno type="PHI">316210</idno>
+                <idno type="URI">http://sicily.classics.ox.ac.uk/inscription/ISic001306</idno>
+                <idno type="DOI" when="2020-12-18">10.5281/zenodo.4353405</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">Licensed under a Creative Commons-Attribution 4.0 licence.</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Italy</country>
+                        <region>Sicily</region>
+                        <settlement>Catania</settlement>
+                        <repository role="museum" ref="http://sicily.classics.ox.ac.uk/museum/018">Museo Civico di Catania</repository>
+                        <idno type="inventory">242</idno>
+                        <!--Adding location for old id numbers if available-->
+                        <altIdentifier>
+                            <settlement/>
+                            <repository/>
+                            <idno type="old"/>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <textLang mainLang="grc">Ancient Greek</textLang>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <p>Marble plaque set in plaster in modern times.</p>
+                                    <material ana="#material.inorganic.stone" type="stone.unspecified" subtype="unspecified" resp="#Coccato" ref="http://www.eagle-network.eu/voc/material/lod/48.html">marble</material>
+                                    <objectType ana="#object.plaque" ref="http://www.eagle-network.eu/voc/objtyp/lod/259">plaque</objectType>
+                                    <dimensions><!--masurements from Korhonen-->
+                                        <height unit="cm">20</height>
+                                        <width unit="cm">27.5</width>
+                                        <depth unit="cm">0.5-4</depth>
+                                    </dimensions>
+                                </support>
+                                <condition ana="#condition.damaged"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                    <rs ana="#execution.chiselled" ref="http://www.eagle-network.eu/voc/writing/lod/1">chiselled</rs>
+                                    <damage ana="#text_condition.complete"/>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                                <p>Regular letters: rhomboid Θ, Ο, Ω (open); Α with accentuated upper serif, Μ with slanting full-length bars (but irregular), Υ with an extended right arm (line 6), ΗΝΕ at l. 4 and ΤΗ at l. 5 (x2) in ligature. In the last line, some letters are smaller than others for lack of space.</p><!--measurements from Korhonen-->
+                                <locus from="line1" to="line6">Lines 1-6</locus>
+                                <dimensions type="letterHeight">
+                                    <height unit="mm" atLeast="20" atMost="25">20-25</height>
+                                </dimensions>
+                                <locus from="line1" to="line2">Interlineation line 1 to 2</locus>
+                                <dimensions type="interlinear">
+                                    <height unit="mm">not registered</height>
+                                </dimensions>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace><region>Sicilia</region>
+                                <placeName type="ancient" ref="http://pleiades.stoa.org/places/462270">Catina</placeName>
+                                <placeName type="modern" ref="http://sws.geonames.org/2525068">Catania</placeName>
+                                <geo>37.49223, 15.07041</geo>
+                            </origPlace>
+                            <origDate datingMethod="#julian" notBefore-custom="0051" notAfter-custom="0200">Second half of 1st — end 2nd century CE</origDate>
+                        </origin>
+                        <provenance type="found" subtype="discovery">Original discovery not recorded, probably from Catania..</provenance>
+                        <provenance type="observed">Observed by Kaibel in Museo dei Benedettini, later by Korhonen in magazzino del cortile, Collezione dei Benedettini (formerly sala VI.50)</provenance>
+                        <provenance type="observed" subtype="autopsied">None</provenance>
+                        <acquisition/>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Encoded following the latest EpiDoc guidelines</p>
+            <xi:include href="../alists/ISicily-taxonomies.xml">
+                <xi:fallback>
+                    <p>Taxonomies for ISicily controlled values</p>
+                </xi:fallback>
+            </xi:include>
+            <xi:include href="../alists/charDecl.xml">
+                <xi:fallback>
+                    <p>ISicily glyphs authority list</p>
+                </xi:fallback>
+            </xi:include>
+        </encodingDesc>
+        <profileDesc>
+            <calendarDesc>
+                <calendar xml:id="julian">
+                    <p>Julian Calendar</p>
+                </calendar>
+            </calendarDesc>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="it">Italian</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="la">Latin</language>
+                <language ident="he">Hebrew</language>
+                <language ident="phn">Phoenician</language>
+                <language ident="xpu">Punic</language>
+                <language ident="osc">Oscan</language>
+                <language ident="xly">Elymian</language>
+                <language ident="scx">Sikel</language>
+                <language ident="sxc">Sikan</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="https://ontology.inscriptiones.org/type_of_inscription">
+                    <term ana="#function.funerary" ref="https://ontology.inscriptiones.org/type_of_inscription/Funerary">funerary</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc status="draft">
+            <listChange>
+                <change when="2016-12-03" who="#JCu">James Cummings autogenerated EpiDoc output from database</change>
+                <change when="2019-07-08" who="#AA">Alex Antoniou Epidoc editing and English translation</change>
+                <change when="2020-10-05" who="#SS">Simona Stoyanova normalised Unicode</change>
+                <change when="2020-10-08" who="#SS">Simona Stoyanova updated list of languages</change>
+                <change when="2020-11-20" who="#SS">Simona Stoyanova added EDCS numbers</change>
+                <change when="2020-11-26" who="#SS">Simona Stoyanova restructured bibliography</change>
+                <change when="2020-12-18" who="#JP">Updated Zenodo DOI</change>
+                <change when="2021-01-19" who="#SS">renumbered files, uris and references</change>
+                <change when="2022-05-18" who="#martaf">Marta Fogagnolo revised the text encoding, added dimensions, apparatus, translations and commentary</change>
+                <change when="2025-11-05" who="#VF">Victoria Fendel's lemmatizations were added from source CoNLL-U files using PyEpiDoc and associated scripts</change>
+                <change when="2025-11-05" who="#RC">Robert Crellin integrated lemmatizations into EpiDoc</change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile><surface/><!--
+        <surface type="front">
+            <graphic n="screen" url="ISic001306_tiled.tif" height="3680px" width="5520px">
+                <desc>I.Sicily with the permission of the Assessorato Regionale dei Beni Culturali e dell’Identità Siciliana - Dipartimento dei Beni Culturali e dell’Identità Siciliana</desc>
+            </graphic>
+            <graphic n="print" url="ISic001306.jpg" height="3680px" width="5520px">
+                <desc>I.Sicily with the permission of the Assessorato Regionale dei Beni Culturali e dell’Identità Siciliana - Dipartimento dei Beni Culturali e dell’Identità Siciliana</desc>
+            </graphic>
+        </surface>
+     --></facsimile>
+    <text>
+        <body>
+            <div type="edition" subtype="primary" xml:space="preserve" xml:lang="grc" resp="#martaf">
+                <ab>
+                    <lb n="1"/><g ref="#interpunct" n="5">·</g> <w n="10"><expan><abbr>Θ</abbr><ex>εοῖς</ex></expan></w> <g ref="#interpunct" n="15">·</g> <w n="20"><expan><abbr>Κ</abbr><ex>αταχθονίοις</ex></expan></w> <g ref="#interpunct" n="25">·</g>
+                    <lb n="2"/><persName type="attested"><name><w n="30">Κασσία</w></name> <name><w n="35">Βενοῦστα</w></name></persName> <w n="40">ἔ
+                    <lb n="3" break="no"/>ζησεν</w> <w n="45">ἔτη</w> <g ref="#interpunct" n="50">·</g> <num value="11"><w n="55">ἔνδεκα</w></num>
+                    <lb n="4"/><w n="60">μ<hi rend="ligature">ῆνε</hi>ς</w> <g ref="#interpunct" n="65">·</g> <num value="9"><w n="70">θ</w></num> <w n="75">ἡμέρες</w> <g ref="#interpunct" n="80">·</g> <num value="8"><w n="85">η</w></num> <g ref="#interpunct" n="90">·</g>
+                    <lb n="5"/><w n="95">πα<hi rend="ligature">τὴ</hi>ρ</w> <w n="100">καὶ</w> <w n="105">μή<hi rend="ligature">τη</hi>ρ</w> <w n="110">τέ <g ref="#interpunct" n="115">·</g>
+                    <lb n="6" break="no"/>κνῳ</w> <w n="120">γλυκυτάτῳ</w> <w n="125">ἐποίησαν</w>
+                </ab>
+            </div>
+            <div type="edition" subtype="simple-lemmatized" resp="#VF #RC">
+                <ab>
+                    <w n="10" lemma="θεός">Θεοῖς</w>
+                    <w n="20" lemma="καταχθόνιος">Καταχθονίοις</w>
+                    <w n="30" lemma="Κασσία">Κασσία</w>
+                    <w n="35" lemma="Βενοῦστα">Βενοῦστα</w>
+                    <w n="40" lemma="ζάω">ἔζησεν</w>
+                    <w n="45" lemma="ἔτος">ἔτη</w>
+                    <w n="55" lemma="ἔνδεκα">ἔνδεκα</w>
+                    <w n="60" lemma="μείς">μῆνες</w>
+                    <w n="70" lemma="θ">θ</w>
+                    <w n="75" lemma="ἡμέρα">ἡμέρες</w>
+                    <w n="85" lemma="η">η</w>
+                    <w n="95" lemma="πατήρ">πατὴρ</w>
+                    <w n="100" lemma="καί">καὶ</w>
+                    <w n="105" lemma="μήτηρ">μήτηρ</w>
+                    <w n="110" lemma="τέκνον">τέκνῳ</w>
+                    <w n="120" lemma="γλυκύς">γλυκυτάτῳ</w>
+                    <w n="125" lemma="ποιέω">ἐποίησαν</w>
+                </ab>
+            </div>
+            <div type="apparatus" resp="#martaf">
+                <listApp>
+                    <app>
+                        <note>Text based on photographs</note>
+                    </app>
+                    <app loc="line 5">
+                        <note>Kaibel saw an ivy leaf at the end of the line, but it rather seems to be a triangle-shaped interpunct.</note>
+                    </app>
+                </listApp>
+            </div>
+            <div type="translation" xml:lang="en" resp="#martaf">
+                <p>To the underworld spirits. Kassia Benousta, lived for 11 years, 9 months, and 8 days. Her father and mother made this for their sweetest child.</p>
+            </div>
+            <div type="translation" xml:lang="it" resp="#martaf">
+                <p>Agli Dei inferi. Kassia Benousta visse 11 anni, 9 mesi e 8 giorni. Suo padre e sua madre realizzarono questo per la loro dolce figlia.</p>
+            </div>
+            <div type="commentary" resp="#martaf">
+                <p>The structure of the epitaph is the most frequent in pagan epitaphs, with the invocation to the underworld spirits, the name of the deceased in the nominative form, his/her age, the name of the dedicants (in this case, the parents) and the dedication verb in aorist (Korhonen 2004: 85-86). An interesting linguistic detail is the indication of months and days in the nominative and not in the accusative form (<foreign xml:lang="grc">μῆνες, ἡμέρες</foreign>), which seems to be due to confusion with Latin where the nominative and accusative plural of <foreign xml:lang="la">mensis</foreign> and <foreign xml:lang="la">dies</foreign> correspond: for a similar confusion, see also SEG 44.0762 = <ref target="http://sicily.classics.ox.ac.uk/inscription/ISic000641">ISic000641</ref>. On the name <foreign xml:lang="grc">Βενοῦστα</foreign>, see SEG 29.931-3 (from Morgantina, 1st century CE). Note too the spelling out of the first numeral in full, rather than using the standard alphabetic notation.</p>
+            </div>
+            <div type="bibliography">
+                <listBibl type="edition">
+                    <bibl type="corpus" n="IG">
+                        <author>Kaibel</author>
+                        <date>1890</date>
+                        <citedRange>
+                            <ref target="https://clio.columbia.edu/catalog/6873760">483</ref>
+                        </citedRange>
+                        <ptr target="https://www.zotero.org/groups/382445/items/Q2SBPG9F"/>
+                        <ref target="https://biblio.inscriptiones.org/epig10001072">https://biblio.inscriptiones.org/epig10001072</ref>
+                    </bibl>
+                    <bibl>
+                        <author>Spuches</author>
+                        <date>1864</date>
+                        <citedRange>13 no.3</citedRange>
+                        <ptr target="https://www.zotero.org/groups/382445/items/NBACXKXQ"/>
+                        <ref target="https://biblio.inscriptiones.org/epig10002042">https://biblio.inscriptiones.org/epig10002042</ref>
+                    </bibl>
+                    <bibl type="corpus" n="IMusCatania">
+                        <author>Korhonen</author>
+                        <date>2004</date>
+                        <citedRange>67</citedRange>
+                        <ptr target="https://www.zotero.org/groups/382445/items/2EUC82DH"/>
+                        <ref target="https://biblio.inscriptiones.org/epig10000028">https://biblio.inscriptiones.org/epig10000028</ref>
+                    </bibl>
+                    <bibl/>
+                </listBibl>
+                <listBibl type="discussion">
+                    <bibl type="corpus" n="IMusCatania">
+                        <author>Korhonen</author>
+                        <date>2004</date>
+                        <citedRange>85-86</citedRange>
+                        <ptr target="https://www.zotero.org/groups/382445/items/2EUC82DH"/>
+                        <ref target="https://biblio.inscriptiones.org/epig10000028">https://biblio.inscriptiones.org/epig10000028</ref>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

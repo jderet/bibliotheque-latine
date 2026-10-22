@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>I.Sicily inscription 000249</title>
+                <editor ref="#JP">Jonathan Prag</editor>
+                <principal ref="#JP">Jonathan Prag</principal>
+                <funder>John Fell OUP Research Fund</funder>
+                <funder>
+                    <ref target="https://cordis.europa.eu/project/id/885040">ERC Advanced Grant no.885040</ref>
+                </funder>
+                <respStmt>
+                    <name xml:id="JP" ref="http://orcid.org/0000-0003-3819-8537">Jonathan Prag</name>
+                    <resp>original data collection and editing</resp>
+                </respStmt>
+                <respStmt>
+                    <name xml:id="JCu" ref="http://orcid.org/0000-0002-6686-3728">James Cummings</name>
+                    <resp>conversion to EpiDoc</resp>
+                </respStmt>
+                <respStmt>
+                    <name xml:id="SS" ref="https://orcid.org/0000-0003-3914-9569">Simona Stoyanova</name>
+                    <resp>standardisation of template and tidying up encoding</resp>
+                </respStmt>
+                <respStmt>
+                    <name xml:id="VM" ref="https://orcid.org/0000-0002-7122-2511">Valentina Mignosa</name>
+                    <resp>encoding text division and checking the edition</resp>
+                </respStmt>
+                <respStmt>
+                    <name xml:id="RC" ref="https://orcid.org/0000-0002-0100-7437">Robert Crellin</name>
+                    <resp>text improvement</resp>
+                </respStmt>
+                <respStmt>
+                    <name xml:id="Coccato" ref="https://orcid.org/0000-0002-6641-2820">Alessia Coccato</name>
+                    <resp>Petrographic observation and analysis</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>I.Sicily</authority>
+                <idno type="filename">ISic000249</idno>
+                <idno type="TM">491836</idno>
+                <idno type="EDR">127511</idno>
+                <idno type="EDH"/>
+                <idno type="EDCS">22100573</idno>
+                <idno type="PHI"/>
+                <idno type="URI">http://sicily.classics.ox.ac.uk/inscription/ISic000249</idno>
+                <idno type="DOI" when="2020-12-17">10.5281/zenodo.4334723</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">Licensed under a Creative
+                        Commons-Attribution 4.0 licence.
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier><!--Default country and region-->
+                        <country>Italy</country>
+                        <region>Sicily</region>
+                        <settlement>Termini Imerese</settlement>
+                        <repository role="museum" ref="http://sicily.classics.ox.ac.uk/museum/066">Museo Civico Baldassare Romano</repository>
+                        <!--No inventory number found-->
+                        <!--Adding location for old id numbers if available-->
+                        <altIdentifier>
+                            <settlement/>
+                            <repository/>
+                            <idno type="old"/>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <textLang mainLang="la">Latin</textLang>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material ana="#material.inorganic.stone.metamorphic_rock.marble" type="stone.marble" subtype="unspecified" resp="#Coccato" ref="http://www.eagle-network.eu/voc/material/lod/48.html">marble</material>
+                                    <dimensions><!--Default values and requires editing-->
+                                        <height unit="cm"/>
+                                        <width unit="cm"/>
+                                        <depth unit="cm"/>
+                                    </dimensions>
+                                </support>
+                                <condition/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout><!--Default value and requires checking-->
+                                    <rs ana="#execution.chiselled" ref="http://www.eagle-network.eu/voc/writing/lod/1">chiselled</rs>
+                                    <damage/>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote><!--Default value and requires editing-->
+                                <locus from="line1" to="line1">Line 1</locus>
+                                <dimensions type="letterHeight">
+                                    <height unit="mm"/>
+                                </dimensions>
+                                <locus from="line1" to="line2">Interlineation line 1 to 2</locus>
+                                <dimensions type="interlinear">
+                                    <height unit="mm"/>
+                                </dimensions>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>
+                                <region>Sicilia</region>
+                                <placeName type="ancient" ref="http://pleiades.stoa.org/places/462513" cert="low">Thermae Himeraeae</placeName>
+                                <placeName type="modern" ref="http://sws.geonames.org/6539140">Termini Imerese</placeName>
+                                <geo>37.98365, 13.69555</geo>
+                            </origPlace>
+                            <origDate datingMethod="#julian" notBefore-custom="0601" notAfter-custom="0650">B:'La menzione dell'
+                                imperatore Eraclio e dell'indizione suggeriscono una data che puo essere il 611/2 o il
+                                626/7 d.C [CIL ad loc]...Ferrua circoscrive la datazione agli anni 612 e 627...'</origDate>
+                        </origin>
+                        <provenance type="found">Original discovery not recorded.</provenance>
+                        <provenance type="observed" subtype="autopsied">None</provenance>
+                        <acquisition/>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Encoded following the latest EpiDoc guidelines</p>
+            <xi:include href="../alists/ISicily-taxonomies.xml">
+                <xi:fallback>
+                    <p>Taxonomies for ISicily controlled values</p>
+                </xi:fallback>
+            </xi:include>
+            <xi:include href="../alists/charDecl.xml">
+                <xi:fallback>
+                    <p>ISicily glyphs authority list</p>
+                </xi:fallback>
+            </xi:include>
+        </encodingDesc>
+        <profileDesc>
+            <calendarDesc>
+                <calendar xml:id="julian">
+                    <p>Julian Calendar</p>
+                </calendar>
+            </calendarDesc>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="it">Italian</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="la">Latin</language>
+                <language ident="he">Hebrew</language>
+                <language ident="phn">Phoenician</language>
+                <language ident="xpu">Punic</language>
+                <language ident="osc">Oscan</language>
+                <language ident="xly">Elymian</language>
+                <language ident="scx">Sikel</language>
+                <language ident="sxc">Sikan</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="https://ontology.inscriptiones.org/type_of_inscription">
+                    <term ana="#function.funerary" ref="https://ontology.inscriptiones.org/type_of_inscription/Funerary">funerary</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc status="draft">
+            <listChange>
+                <change when="2016-12-03" who="#JCu">James Cummings autogenerated EpiDoc output from database</change>
+                <change when="2020-10-05" who="#SS">Simona Stoyanova normalised Unicode</change>
+                <change when="2020-10-08" who="#SS">Simona Stoyanova updated list of languages</change>
+                <change when="2020-10-13" who="#VM">Valentina Mignosa encoded text division, cleaned up the autogenerated text and checked the edition</change>
+                <change when="2020-11-20" who="#SS">Simona Stoyanova added EDCS numbers</change>
+                <change when="2020-11-26" who="#SS">Simona Stoyanova restructured bibliography</change>
+                <change when="2020-12-17" who="#JP">Updated Zenodo DOI</change>
+                <change when="2021-01-19" who="#SS">renumbered files, uris and references</change>
+                <change when="2025-04-29" who="#RC">Line 4: change 'mens' to 'mense': mind:NOM.SG to month:ABL.SG</change>
+                <change when="2026-06-10" who="#RC">Robert Crellin provided lemmatizations</change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <surface type="front">
+            <graphic n="screen" url="ISic000249_tiled.tif" height="5520px" width="3680px">
+                <desc>I.Sicily with the permission of the Assessorato Regionale dei Beni Culturali e dell’Identità Siciliana - Dipartimento dei Beni Culturali e dell’Identità Siciliana; photo J. Prag 2023-07-07</desc>
+            </graphic>
+            <graphic n="print" url="ISic000249.jpg" height="5520px" width="3680px">
+                <desc>I.Sicily with the permission of the Assessorato Regionale dei Beni Culturali e dell’Identità Siciliana - Dipartimento dei Beni Culturali e dell’Identità Siciliana; photo J. Prag 2023-07-07</desc>
+            </graphic>
+        </surface>
+        <surface type="rear">
+            <graphic n="screen" url="ISic000249_rear_tiled.tif" height="5520px" width="3680px">
+                <desc>I.Sicily with the permission of the Assessorato Regionale dei Beni Culturali e dell’Identità Siciliana - Dipartimento dei Beni Culturali e dell’Identità Siciliana; photo J. Prag 2023-07-07</desc>
+            </graphic>
+            <graphic n="print" url="ISic000249_rear.jpg" height="5520px" width="3680px">
+                <desc>I.Sicily with the permission of the Assessorato Regionale dei Beni Culturali e dell’Identità Siciliana - Dipartimento dei Beni Culturali e dell’Identità Siciliana; photo J. Prag 2023-07-07</desc>
+            </graphic>
+        </surface>
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition" subtype="primary" xml:space="preserve" xml:lang="la" resp="#VM #RC">
+                <ab>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character" n="5"/> <w n="10"><supplied reason="lost">hic</supplied></w> <w n="15"><supplied reason="lost">requi</supplied>esc<supplied reason="lost">it</supplied></w> <w n="20"><supplied reason="lost">in</supplied></w> <w n="25"><supplied reason="lost">pace</supplied></w>
+                    <lb n="2"/><w n="30"><supplied reason="lost">bonae</supplied></w> <w n="35"><supplied reason="lost">memo</supplied>riae</w> <name><w part="I" n="40">A</w></name><gap reason="lost" extent="unknown" unit="character" n="45"/> <w n="47"><supplied reason="lost">anno
+                    <lb n="3" break="no"/>rum</supplied></w> <w n="50"><supplied reason="lost">plus</supplied></w> <w n="55">minus</w> <num value="45"><w n="60">XLV</w></num> <w n="65"><supplied reason="lost">die</supplied></w> <w n="70"><supplied reason="lost">tali</supplied></w>
+                    <lb n="4"/><w n="75"><supplied reason="lost">mense</supplied></w> <w n="80"><expan><abbr>A</abbr><ex>u</ex><abbr>g</abbr><ex>usti</ex></expan></w> <w n="85"><expan><abbr>ind</abbr><ex>ictione</ex></expan></w> <num value="15"><w n="90">XV</w></num> <roleName type="supracivic" subtype="imperator"><w n="95"><expan><abbr>im<supplied reason="lost">p</supplied></abbr><ex>eratore</ex></expan></w></roleName> <roleName type="supracivic" subtype="dominus"><w n="100"><supplied reason="lost"><expan><abbr>d</abbr><ex>omino</ex></expan></supplied></w></roleName> <w n="105"><supplied reason="lost"><expan><abbr>n</abbr><ex>ostro</ex></expan></supplied></w>
+                    <lb n="5"/><name><w n="110"><supplied reason="lost">H</supplied>eraclio</w></name> <w n="115"><choice><orig n="120">piisimo</orig><reg>piissimo</reg></choice></w>
+                    <lb n="6"/><w n="125"><expan><abbr>s</abbr><ex>emper</ex></expan></w> <name><w n="130"><expan><abbr>A</abbr><ex>ugusto</ex></expan></w></name>
+                </ab>
+            </div>
+            <div type="edition" subtype="simple-lemmatized" resp="#RC">
+                <ab>
+                    <gap reason="lost" extent="unknown" unit="character" n="5"><desc>[-?-]</desc></gap>
+                    <w n="10" lemma="hic">hic</w>
+                    <w n="15" lemma="requiesco">requiescit</w>
+                    <w n="20" lemma="in">in</w>
+                    <w n="25" lemma="pax">pace</w>
+                    <w n="30" lemma="bonus">bonae</w>
+                    <w n="35" lemma="memoria">memoriae</w>
+                    <w n="40" lemma="A">A</w>
+                    <gap reason="lost" extent="unknown" unit="character" n="45"><desc>[-?-]</desc></gap>
+                    <w n="47" lemma="annus">annorum</w>
+                    <w n="50" lemma="multus">plus</w>
+                    <w n="55" lemma="paruus">minus</w>
+                    <w n="60" lemma="XLV">XLV</w>
+                    <w n="65" lemma="dies">die</w>
+                    <w n="70" lemma="talis">tali</w>
+                    <w n="75" lemma="mensis">mense</w>
+                    <w n="80" lemma="Augustus">Augusti</w>
+                    <w n="85" lemma="indictio">indictione</w>
+                    <w n="90" lemma="XV">XV</w>
+                    <w n="95" lemma="imperator">imperatore</w>
+                    <w n="100" lemma="dominus">domino</w>
+                    <w n="105" lemma="noster">nostro</w>
+                    <w n="110" lemma="Heraclius">Heraclio</w>
+                    <w n="115" lemma="pius">piissimo</w>
+                    <orig n="120"/>
+                    <w n="125" lemma="semper">semper</w>
+                    <w n="130" lemma="Augustus">Augusto</w>
+                </ab>
+            </div>
+            <div type="apparatus">
+                <listApp>
+                    <app>
+                        <note>Text of ILTermini</note>
+                    </app>
+                </listApp>
+            </div>
+            <div type="translation">
+                <p><!--translation(s) - add @xml:lang for 'en' or 'it' to div--></p>
+            </div>
+            <div type="commentary">
+                <p><!--commentary--></p>
+            </div>
+            <div type="bibliography">
+                <listBibl type="edition">
+                    <bibl type="corpus" n="CIL">
+                        <author>Mommsen</author>
+                        <date>1883</date>
+                        <citedRange>
+                            <ref target="http://arachne.uni-koeln.de/books/CILv10pII1883">7454</ref>
+                        </citedRange>
+                        <ptr target="https://www.zotero.org/groups/382445/items/GQN8UZSI"/>
+                        <ref target="https://biblio.inscriptiones.org/epig10000589">https://biblio.inscriptiones.org/epig10000589</ref>
+                    </bibl>
+                    <bibl type="corpus" n="ILMusTermini">
+                        <author>Bivona</author>
+                        <date>1994</date>
+                        <citedRange>175</citedRange>
+                        <ptr target="https://www.zotero.org/groups/382445/items/JCV85C79"/>
+                        <ref target="https://biblio.inscriptiones.org/epig10002137">https://biblio.inscriptiones.org/epig10002137</ref>
+                    </bibl>
+                    <bibl>
+                        <author>Ferrua</author>
+                        <date>1982-1983</date>
+                        <citedRange>26 no.85</citedRange>
+                        <ptr target="https://www.zotero.org/groups/382445/items/Q7DDNWD6"/>
+                        <ref target="https://biblio.inscriptiones.org/epig10001996">https://biblio.inscriptiones.org/epig10001996</ref>
+                    </bibl>
+                    <bibl>
+                        <author>Ferrua</author>
+                        <date>1989</date>
+                        <citedRange>no.525a</citedRange>
+                        <ptr target="https://www.zotero.org/groups/382445/items/759ZXHKQ"/>
+                        <ref target="https://biblio.inscriptiones.org/epig10001995">https://biblio.inscriptiones.org/epig10001995</ref>
+                    </bibl>
+                </listBibl>
+                <listBibl type="discussion">
+                    <bibl/>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

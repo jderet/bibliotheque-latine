@@ -1,0 +1,205 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Epitaph of Caius Publicius Clarus Auctus</title>
+                <editor ref="#JP">Jonathan Prag</editor>
+                <principal ref="#JP">Jonathan Prag</principal>
+                <funder>John Fell OUP Research Fund</funder>
+	   <funder><ref target="https://cordis.europa.eu/project/id/885040">ERC Advanced Grant no.885040</ref></funder>
+                <respStmt>
+                    <name xml:id="JP" ref="http://orcid.org/0000-0003-3819-8537">Jonathan Prag</name>
+                    <resp>original data collection and editing</resp>
+                </respStmt>
+                <respStmt>
+                    <name xml:id="JCu" ref="http://orcid.org/0000-0002-6686-3728">James Cummings</name>
+                    <resp>conversion to EpiDoc</resp>
+                </respStmt>
+                <respStmt>
+                    <name xml:id="DEE" ref="http://orcid.org/0000-0002-2337-9047">David Espinosa Espinosa</name>
+                    <resp>editing, EpiDoc encoding, and full name and word tagging</resp>
+                </respStmt>
+	    <respStmt>
+     	       <name xml:id="SS" ref="https://orcid.org/0000-0003-3914-9569">Simona Stoyanova</name>
+     	       <resp>standardisation of template and tidying up encoding</resp>
+ 	   </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>I.Sicily</authority>
+                <idno type="filename">ISic004283</idno>
+                <idno type="TM">493827</idno>
+                <idno type="EDR">159491</idno>
+                <idno type="EDH"/>
+                <idno type="EDCS">25601320</idno>
+                <idno type="PHI">334886</idno>
+                <idno type="URI">http://sicily.classics.ox.ac.uk/inscription/ISic004283</idno>
+                <idno type="DOI" when="2020-12-23">10.5281/zenodo.4390297</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">Licensed under a Creative Commons-Attribution 4.0 licence.</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Italy</country>
+                        <region>Sicily</region>
+                        <settlement>Lipari</settlement>
+                        <repository role="museum" ref="http://sicily.classics.ox.ac.uk/museum/048">Museo Archeologico Regionale Eoliano "Luigi Bernabò Brea"</repository>
+                        <idno type="inventory">11632</idno>
+                        <!--Adding location for old id numbers if available-->
+                        <altIdentifier>
+                            <settlement/>
+                            <repository/>
+                            <idno type="old"/>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <textLang mainLang="la">Latin</textLang>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support><p>Large plaque of volcanic stone (pietra di Fuardo), re-used at least once, with an earlier text on what was originally the top of the front face; and this second text on the lowest, projecting part of the front face. This is the same support as <ref sameAs="ISic003988.xml">ISic003988</ref> =  I.Lipara 373. The upper left corner is missing.</p>
+                                    <material ana="#material.inorganic.stone.magmatic_rock.basalt" type="stone.basalt" subtype="unverified" ref="http://www.eagle-network.eu/voc/material/lod/28.html">volcanic</material>
+                                    <objectType ana="#object.plaque" ref="https://www.eagle-network.eu/voc/objtyp/lod/259.html">plaque</objectType>
+                                    <dimensions><!--from ILipara-->
+                                        <height unit="cm">108</height>
+                                        <width unit="cm">42.5</width>
+                                        <depth unit="cm">14</depth>
+                                    </dimensions>
+                                </support>
+                                <condition ana="#condition.damaged"/>
+		    </supportDesc>
+                            <layoutDesc>
+                                <layout><p>The text is deeply carved on the projecting lower part of the front face of the plaque, set out somewhat irregularly over two lines.</p>
+                                    <rs ana="#execution.chiselled" ref="http://www.eagle-network.eu/voc/writing/lod/1">chiselled</rs>
+                                	<damage ana="#text_condition.complete"/>
+			</layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote><!--from ILipara--><p>Deep, relatively plain and uneven letters of irregular size.</p>
+                                <locus from="line1" to="line2">Line 1 to 2</locus>
+                                <dimensions type="letterHeight">
+                                    <height unit="mm" atLeast="40" atMost="50">40-50</height>
+                                </dimensions>
+                                <locus from="line1" to="line2">Interlineation line 1 to 2</locus>
+                                <dimensions type="interlinear">
+                                    <height unit="mm"/>
+                                </dimensions>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace><region>Sicilia</region>
+                                <placeName type="ancient" ref="http://pleiades.stoa.org/places/462283">Lipara</placeName>		
+                                <placeName type="modern" ref="http://sws.geonames.org/2524378">Lipari</placeName>
+                            	<geo>38.48333, 14.93333</geo>
+		</origPlace>
+                            <origDate datingMethod="#julian" notBefore-custom="-0050" notAfter-custom="0100">1st century BCE — 1st century CE</origDate>
+                        </origin>
+                        <provenance type="found" subtype="discovered" when="1971">Found in 1971 in trench XXXI, west side, in re-use in the cover of a stone-built tomb no. 1225 (dating to the second century CE) (Property of the Bishop's palace).</provenance>
+                        <provenance type="observed" subtype="autopsied">None</provenance>
+                        <acquisition/>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+             <p>Encoded following the latest EpiDoc guidelines</p>
+             <xi:include href="../alists/ISicily-taxonomies.xml">
+                 <xi:fallback>
+                     <p>Taxonomies for ISicily controlled values</p>
+                 </xi:fallback>
+             </xi:include>
+	  <xi:include href="../alists/charDecl.xml">
+	     <xi:fallback>
+	       <p>ISicily glyphs authority list</p>
+	     </xi:fallback>
+	   </xi:include>
+         </encodingDesc>
+        <profileDesc>
+            <calendarDesc>
+                <calendar xml:id="julian">
+                    <p>Julian Calendar</p>
+                </calendar>
+            </calendarDesc>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="it">Italian</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="la">Latin</language>
+                <language ident="he">Hebrew</language>
+                <language ident="phn">Phoenician</language>
+                <language ident="xpu">Punic</language>
+                <language ident="osc">Oscan</language>
+                <language ident="xly">Elymian</language>
+                <language ident="scx">Sikel</language>
+                <language ident="sxc">Sikan</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc status="draft">
+            <listChange>
+                <change when="2016-12-03" who="#JCu">James Cummings autogenerated EpiDoc output from database</change>
+            	   <change when="2020-10-05" who="#SS">Simona Stoyanova normalised Unicode</change>
+            	   <change when="2020-10-08" who="#SS">Simona Stoyanova updated list of languages</change>
+            		<change when="2020-11-26" who="#SS">Simona Stoyanova restructured bibliography</change>
+	    <change when="2020-12-23" who="#JP">Updated Zenodo DOI</change>
+            	<change when="2021-01-19" who="#SS">renumbered files, uris and references</change>
+                <change when="2021-12-06" who="#DEE">David Espinosa Espinosa tagged full name and word</change>
+                <change when="2022-06-17" who="#JP">General editing</change>
+	</listChange>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile><surface/><!--
+        <surface type="front">
+            <graphic n="screen" url="ISic004283_tiled.tif" height="3680px" width="5520px">
+                <desc>I.Sicily with the permission of the Assessorato Regionale dei Beni Culturali e dell’Identità Siciliana - Dipartimento dei Beni Culturali e dell’Identità Siciliana</desc>
+            </graphic>
+            <graphic n="print" url="ISic004283.jpg" height="3680px" width="5520px">
+                <desc>I.Sicily with the permission of the Assessorato Regionale dei Beni Culturali e dell’Identità Siciliana - Dipartimento dei Beni Culturali e dell’Identità Siciliana</desc>
+            </graphic>
+         </surface>
+     --></facsimile>
+    <text>
+        <body>
+            <div type="edition" subtype="primary" xml:space="preserve" xml:lang="la" resp="#DEE">
+                <ab>
+                    <lb n="1"/><persName type="attested"><name type="praenomen"><expan><abbr>C</abbr><ex>aius</ex></expan></name> <g ref="#interpunct">·</g> <name type="nomen">Publicius</name> <name type="cognomen">Clarus</name>
+                    <lb n="2"/><name type="supernomen.cognomen">Auctus</name></persName>
+                </ab>
+            </div>
+            <div type="apparatus">
+                <listApp><app><note>Text according to ILipara 778</note></app></listApp>
+            </div>
+            <div type="translation" xml:lang="en" resp="#DEE">
+                <p>Caius Publicius Clarus Auctus.</p>
+            </div>
+            <div type="translation" xml:lang="it" resp="#DEE">
+                <p>Caius Publicius Clarus Auctus.</p>
+            </div>
+            <div type="commentary">
+                <p><!--commentary--></p>
+                <!--ILipara 373 (ISic003988) above on the same face-->
+            </div>
+            <div type="bibliography">
+                <listBibl type="edition">
+                    <bibl type="corpus" n="ILipara">
+                          <author>Bernabó-Brea</author>
+                          <author>Cavalier</author>
+                          <author>Campagna</author>
+                          <date>2003</date> 
+                        <citedRange>778</citedRange>
+                        <ptr target="https://www.zotero.org/groups/382445/items/VDAQH5D2"/>
+                    <ref target="https://biblio.inscriptiones.org/epig10000541">https://biblio.inscriptiones.org/epig10000541</ref></bibl>
+                    <bibl/>
+                </listBibl>
+	   <listBibl type="discussion"><bibl/></listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

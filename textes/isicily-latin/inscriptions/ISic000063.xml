@@ -1,0 +1,251 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Honours for the Emperor Trajan</title>
+                <editor ref="#JP">Jonathan Prag</editor>
+                <principal ref="#JP">Jonathan Prag</principal>
+                <funder>John Fell OUP Research Fund</funder>
+	   <funder><ref target="https://cordis.europa.eu/project/id/885040">ERC Advanced Grant no.885040</ref></funder>
+                <respStmt>
+                    <name xml:id="JP" ref="http://orcid.org/0000-0003-3819-8537">Jonathan Prag</name>
+                    <resp>original data collection and editing</resp>
+                </respStmt>
+                <respStmt>
+                    <name xml:id="JCu" ref="http://orcid.org/0000-0002-6686-3728">James Cummings</name>
+                    <resp>conversion to EpiDoc</resp>
+                </respStmt>
+                <respStmt>
+                    <name xml:id="TA" ref="https://orcid.org/0000-0001-8417-7089">Tuuli Ahlholm</name>
+                    <resp>EpiDoc editing</resp>
+                </respStmt>
+	    <respStmt>
+     	       <name xml:id="SS" ref="https://orcid.org/0000-0003-3914-9569">Simona Stoyanova</name>
+     	       <resp>standardisation of template and tidying up encoding</resp>
+ 	   </respStmt>
+                <respStmt>
+                    <name xml:id="AT" ref="https://orcid.org/0009-0009-2753-4014">Alfredo Tosques</name>
+                    <resp>translations</resp>
+                </respStmt>
+            <respStmt><name xml:id="Coccato" ref="https://orcid.org/0000-0002-6641-2820">Alessia Coccato</name><resp>Petrographic observation and analysis</resp></respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>I.Sicily</authority>
+                <idno type="filename">ISic000063</idno>
+                <idno type="TM">175834</idno>
+                <idno type="EDR">094013</idno>
+                <idno type="EDH"/>
+                <idno type="EDCS">22100591</idno>
+                <idno type="PHI"/>
+                <idno type="URI">http://sicily.classics.ox.ac.uk/inscription/ISic000063</idno>
+                <idno type="DOI" when="2020-12-17">10.5281/zenodo.4333956</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">Licensed under a Creative Commons-Attribution 4.0 licence.</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Italy</country>
+                        <region>Sicily</region>
+                        <settlement>Palermo</settlement>
+                        <repository role="museum" ref="http://sicily.classics.ox.ac.uk/museum/064">Museo Archeologico Regionale Antonino Salinas</repository>
+                        <idno type="inventory">3564</idno>
+                        <!--Adding location for old id numbers if available-->
+                        <altIdentifier>
+                            <settlement/>
+                            <repository/>
+                            <idno type="old"/>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <textLang mainLang="la">Latin</textLang>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support><p>Large marble plaque, broken in fragments, which have been recomposed in a plaster seting. The lower right corner is lost, and several letters in the first two lines have been large restored, but the text is complete.</p>
+                                    <material ana="#material.inorganic.stone.metamorphic_rock.marble" type="stone.marble" subtype="unspecified" resp="#Coccato" ref="http://www.eagle-network.eu/voc/material/lod/48.html">marble</material>
+                                    <objectType ana="#object.plaque" ref="http://www.eagle-network.eu/voc/objtyp/lod/259.html">plaque</objectType>
+                                    <dimensions><!--Bivona-->
+                                        <height unit="cm">64</height>
+                                        <width unit="cm">134.5</width>
+                                        <depth unit="cm">4</depth>
+                                    </dimensions>
+                                </support>
+                                <condition ana="#condition.fragments.contiguous"/>
+		    </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                    <rs ana="#execution.chiselled" ref="http://www.eagle-network.eu/voc/writing/lod/1">chiselled</rs>
+                                	<damage ana="#text_condition.complete"/>
+			</layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote><!--Bivona-->
+                                <locus from="line1" to="line6">Line 1-6</locus>
+                                <dimensions type="letterHeight">
+                                    <height unit="mm" atLeast="68" atMost="75">68-75</height>
+                                </dimensions>
+                                <locus from="line1" to="line2">Interlineation line 1 to 2</locus>
+                                <dimensions type="interlinear">
+                                    <height unit="mm"/>
+                                </dimensions>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace><region>Sicilia</region>
+                                <placeName type="ancient" ref="http://pleiades.stoa.org/places/462527">Tyndaris</placeName>		
+                                <placeName type="modern" ref="http://sws.geonames.org/10282151">Tindari</placeName>
+                            	<geo>38.14227, 15.04385</geo>
+		</origPlace>
+                            <origDate datingMethod="#julian" notBefore-custom="0102" notAfter-custom="0103" evidence="office">dated by consular year</origDate>
+                        </origin>
+                        <provenance type="found" subtype="discovered">Found in Tyndaris, in close proximity to a statue of Trajan.</provenance>
+                        <provenance type="observed" subtype="autopsied">None</provenance>
+                        <acquisition/>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+             <p>Encoded following the latest EpiDoc guidelines</p>
+             <xi:include href="../alists/ISicily-taxonomies.xml">
+                 <xi:fallback>
+                     <p>Taxonomies for ISicily controlled values</p>
+                 </xi:fallback>
+             </xi:include>
+	  <xi:include href="../alists/charDecl.xml">
+	     <xi:fallback>
+	       <p>ISicily glyphs authority list</p>
+	     </xi:fallback>
+	   </xi:include>
+         </encodingDesc>
+        <profileDesc>
+            <calendarDesc>
+                <calendar xml:id="julian">
+                    <p>Julian Calendar</p>
+                </calendar>
+            </calendarDesc>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="it">Italian</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="la">Latin</language>
+                <language ident="he">Hebrew</language>
+                <language ident="phn">Phoenician</language>
+                <language ident="xpu">Punic</language>
+                <language ident="osc">Oscan</language>
+                <language ident="xly">Elymian</language>
+                <language ident="scx">Sikel</language>
+                <language ident="sxc">Sikan</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="https://ontology.inscriptiones.org/type_of_inscription">
+                    <term ana="#function.honorific" ref="https://ontology.inscriptiones.org/type_of_inscription/Honorific">honorific<certainty locus="value" match="../@ana" assertedValue="#function.building"><desc>possibly building</desc></certainty></term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc status="draft">
+            <listChange>
+                <change when="2016-12-03" who="#JCu">James Cummings autogenerated EpiDoc output from database</change>
+                <change when="2018-05-11" who="#TA">Tuuli Ahlholm cleaned up the autogenerated text and added an apparatus</change>
+            	   <change when="2020-10-05" who="#SS">Simona Stoyanova normalised Unicode</change>
+            	   <change when="2020-10-08" who="#SS">Simona Stoyanova updated list of languages</change>
+            	<change when="2020-11-20" who="#SS">Simona Stoyanova added EDCS numbers</change>
+		<change when="2020-11-26" who="#SS">Simona Stoyanova restructured bibliography</change>
+	    <change when="2020-12-17" who="#JP">Updated Zenodo DOI</change>
+            	<change when="2021-01-19" who="#SS">renumbered files, uris and references</change>
+                <change when="2025-12-02" who="#JP">Jonathan Prag added metadata, image, and translations and comment of Alfredo Tosques</change>
+	</listChange>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <surface type="front">
+            <graphic n="screen" url="ISic000063_tiled.tif" height="3680px" width="5520px">
+                <desc>I.Sicily with the permission of the Assessorato Regionale dei Beni Culturali e dell’Identità Siciliana - Dipartimento dei Beni Culturali e dell’Identità Siciliana; photo J. Prag 2022-05-23</desc>
+            </graphic>
+            <graphic n="print" url="ISic000063.jpg" height="3680px" width="5520px">
+                <desc>I.Sicily with the permission of the Assessorato Regionale dei Beni Culturali e dell’Identità Siciliana - Dipartimento dei Beni Culturali e dell’Identità Siciliana; photo J. Prag 2022-05-23</desc>
+            </graphic>
+         </surface>
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition" subtype="primary" xml:space="preserve" xml:lang="la" resp="#TA" source="https://www.zotero.org/groups/382445/items/FZWWPUD6">
+                <ab>
+                    <lb n="1"/><persName type="attested" subtype="imperial"><roleName type="supracivic" subtype="imperator"><w n="5"><expan><abbr>Imp</abbr><ex>erator</ex></expan></w></roleName> <g ref="#ivy-leaf" n="10"/> <name><w n="15">Caesar</w></name> <g ref="#ivy-leaf" n="20"/> <persName type="attested" subtype="imperial"><w n="25">divi</w> <g ref="#ivy-leaf" n="30"/> <name><w n="35">Nervae</w></name></persName> <g ref="#ivy-leaf" n="40"/>
+                    <lb n="2"/><g ref="#ivy-leaf" n="45"/> <w n="50"><expan><abbr>f</abbr><ex>ilius</ex></expan></w> <g ref="#ivy-leaf" n="55"/> <name><w n="60">Nerva</w></name> <g ref="#ivy-leaf" n="65"/> <name><w n="70">Traianus</w></name> <g ref="#ivy-leaf" n="75"/> <name><w n="80"><expan><abbr>Aug</abbr><ex>ustus</ex></expan></w></name> <g ref="#ivy-leaf" n="85"/>
+                    <lb n="3"/><name><w n="90">Germanicus</w></name> <g ref="#ivy-leaf" n="95"/> <name><w n="100">Dacicus</w></name></persName> <g ref="#ivy-leaf" n="105"/>
+                    <lb n="4"/><roleName type="supracivic.religious" subtype="pontifex.maximus"><w n="110">pontifex</w> <w n="115">maximus</w></roleName> <g ref="#ivy-leaf" n="120"/>
+                    <lb n="5"/><roleName type="supracivic" subtype="tribunicia.potestas"><w n="125"><expan><abbr>tr</abbr><ex>ibunicia</ex></expan></w> <g ref="#ivy-leaf" n="130"/> <w n="135"><expan><abbr>pot</abbr><ex>estate</ex></expan></w></roleName> <g ref="#ivy-leaf" n="140"/> <num value="7"><hi rend="supraline">VII</hi></num> <g ref="#ivy-leaf" n="145"/> <roleName type="supracivic" subtype="imperator"><w n="150"><expan><abbr>imp</abbr><ex>erator</ex></expan></w></roleName> <g ref="#ivy-leaf" n="155"/> <num value="4"><hi rend="supraline">IIII</hi></num> <g ref="#ivy-leaf" n="160"/>
+                    <lb n="6"/><roleName type="supracivic" subtype="consul"><w n="165"><expan><abbr>co</abbr><ex>n</ex><abbr>s</abbr><ex>ul</ex></expan></w></roleName> <g ref="#ivy-leaf" n="170"/> <num value="5">V</num> <g ref="#ivy-leaf" n="175"/> <roleName type="supracivic" subtype="pater.patriae"><w n="180"><expan><abbr>p</abbr><ex>ater</ex></expan></w> <g ref="#ivy-leaf" n="185"/> <w n="190"><expan><abbr>p</abbr><ex>atriae</ex></expan></w></roleName> <g ref="#ivy-leaf" n="195"/>
+                </ab>
+            </div>
+            <div type="apparatus">
+                <listApp>
+                    <app><note>Text of IMusPalermo</note></app>
+                </listApp>
+            </div>
+            <div type="translation" xml:lang="en" resp="#AT">
+                <p>Emperor Caesar, son of the deified Nerva, Nerva Trajan Augustus Germanicus Dacicus, Pontifex Maximus, holding tribunician power for the seventh time, acclaimed imperator for the fourth time, consul for the fifth time, father of the fatherland.</p>
+            </div>
+            <div type="translation" xml:lang="it" resp="#AT">
+                <p>L’imperatore Cesare, figlio del divo Nerva, Nerva Traiano Augusto Germanico Dacico, pontefice massimo, investito della potestà tribunizia per la settima volta, imperatore per la quarta volta, console per la quinta volta, padre della patria.</p>
+            </div>
+            <div type="commentary" resp="#AT">
+                <p>Roman imperial dedications normally follow a very rigid structure, with the emperor and his full titulature in the dative case at the beginning, followed by the dedicants in the nominative at the end of the text. In this inscription, however, the Emperor appears unusually in the nominative, with no dedicants mentioned. This may indicate that the inscription commemorated an act of imperial euergetism (public benefaction) carried out by the Emperor himself. If this were the case, as the agent rather than the dedicatee, the use of the nominative would be explained.</p>
+            </div>
+            <div type="bibliography">
+                <listBibl type="edition">
+                    <bibl>
+                        <author>Maggiore</author>
+                        <date>1829</date>
+                        <citedRange>298 no.4</citedRange>
+                        <ptr target="https://www.zotero.org/groups/382445/items/T4NR9UP5"/>
+                        <ref target="https://biblio.inscriptiones.org/epig10002795">https://biblio.inscriptiones.org/epig10002795</ref>
+                    </bibl>
+                    <bibl type="corpus" n="CIL">
+                        <author>Mommsen</author>
+                        <date>1883</date>
+                        <citedRange>
+                            <ref target="http://arachne.uni-koeln.de/item/buchseite/650805">7472</ref>
+                        </citedRange>
+                        <ptr target="https://www.zotero.org/groups/382445/items/GQN8UZSI"/>
+                    <ref target="https://biblio.inscriptiones.org/epig10000589">https://biblio.inscriptiones.org/epig10000589</ref></bibl>
+                    <bibl type="corpus" n="ILMusPalermo">
+                         <author>Bivona</author>
+                         <date>1970</date> 
+                        <citedRange>64</citedRange>
+                        <ptr target="https://www.zotero.org/groups/382445/items/FZWWPUD6"/>
+                    <ref target="https://biblio.inscriptiones.org/epig10002142">https://biblio.inscriptiones.org/epig10002142</ref></bibl>
+                    <bibl>
+                        <author>Raepsaet-Charlier</author>
+                        <date>1974</date>
+                        <citedRange>126</citedRange>
+                        <ptr target="https://www.zotero.org/groups/382445/items/PZHQV5MN"/>
+                    <ref target="https://biblio.inscriptiones.org/epig10001648">https://biblio.inscriptiones.org/epig10001648</ref></bibl>
+                    <bibl>
+                        <author>Manganaro</author>
+                        <date>1988</date>
+                        <citedRange>73</citedRange>
+                        <ptr target="https://www.zotero.org/groups/382445/items/RZSFKACR"/>
+                        <ref target="https://biblio.inscriptiones.org/epig10001427">https://biblio.inscriptiones.org/epig10001427</ref></bibl>
+                    <bibl>
+                        <author>Fasolo</author>
+                        <date>2013</date>
+                        <citedRange>71 no.2 fig.32</citedRange>
+                        <ptr target="https://www.zotero.org/groups/382445/items/X2SEXMRX"/>
+                    <ref target="https://biblio.inscriptiones.org/epig10002011">https://biblio.inscriptiones.org/epig10002011</ref></bibl>
+                </listBibl>
+	   <listBibl type="discussion"><bibl/></listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

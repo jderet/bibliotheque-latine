@@ -1,0 +1,221 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../schematron/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Epitaph for [---]ius Innocens</title>
+                <editor ref="#JP">Jonathan Prag</editor>
+                <principal ref="#JP">Jonathan Prag</principal>
+                <funder>John Fell OUP Research Fund</funder>
+	   <funder><ref target="https://cordis.europa.eu/project/id/885040">ERC Advanced Grant no.885040</ref></funder>
+                <respStmt>
+                    <name xml:id="JP" ref="http://orcid.org/0000-0003-3819-8537">Jonathan Prag</name>
+                    <resp>original data collection and editing</resp>
+                </respStmt>
+                <respStmt>
+                    <name xml:id="JCu" ref="http://orcid.org/0000-0002-6686-3728">James Cummings</name>
+                    <resp>conversion to EpiDoc</resp>
+                </respStmt>
+                <respStmt>
+                    <name xml:id="DEE" ref="http://orcid.org/0000-0002-2337-9047">David Espinosa Espinosa</name>
+                    <resp>editing, EpiDoc encoding, and full name and word tagging</resp>
+                </respStmt>
+	    <respStmt>
+     	       <name xml:id="SS" ref="https://orcid.org/0000-0003-3914-9569">Simona Stoyanova</name>
+     	       <resp>standardisation of template and tidying up encoding</resp>
+ 	   </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>I.Sicily</authority>
+                <idno type="filename">ISic003323</idno>
+                <idno type="TM">284780</idno>
+                <idno type="EDR">033622</idno>
+                <idno type="EDH"/>
+                <idno type="EDCS"/>
+                <idno type="PHI">313633</idno>
+                <idno type="URI">http://sicily.classics.ox.ac.uk/inscription/ISic003323</idno>
+                <idno type="DOI" when="2020-12-23">10.5281/zenodo.4388406</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">Licensed under a Creative
+                        Commons-Attribution 4.0 licence.
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier><!--Default country and region-->
+                        <country>Italy</country>
+                        <region>Sicily</region>
+                        <settlement>unknown</settlement>
+                        <repository>unknown</repository>
+                        <!--No inventory number found-->
+                        <!--Adding location for old id numbers if available-->
+                        <altIdentifier>
+                            <settlement/>
+                            <repository/>
+                            <idno type="old"/>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <textLang mainLang="la">Latin</textLang>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support><p>A slab of marble with molding broken into numerous pieces although with the text partially preserved.</p>
+                                    <material ana="#material.inorganic.stone.metamorphic_rock.marble" type="stone.marble" subtype="unverified" ref="http://www.eagle-network.eu/voc/material/lod/48.html" cert="low">marble</material>
+                                    <objectType ana="#object.plaque" ref="http://www.eagle-network.eu/voc/objtyp/lod/259">plaque</objectType>
+                                    <dimensions><!--from IMusMessina V-->
+                                        <height unit="cm">not recorded</height>
+                                        <width unit="cm">not recorded</width>
+                                        <depth unit="cm">not recorded</depth>
+                                    </dimensions>
+                                </support>
+                                <condition/>
+		    </supportDesc>
+                            <layoutDesc>
+                                <layout><p>The text is centered on the stone, with a careful layout (ordinatio) and uniform distribution. The first line with the name of the deceased appears in a larger size.</p>
+                                    <rs ana="#execution.chiselled" ref="http://www.eagle-network.eu/voc/writing/lod/1">chiselled</rs>
+                                	<damage/>
+			</layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote><!--from IMusMessina V-->
+                                <locus from="line1" to="line7">Line 1 to 7</locus>
+                                <dimensions type="letterHeight">
+                                    <height unit="mm">not recorded</height>
+                                </dimensions>
+                                <locus from="line1" to="line7">Interlineation line 1 to 7</locus>
+                                <dimensions type="interlinear">
+                                    <height unit="mm">not recorded</height>
+                                </dimensions>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace><region>Sicilia</region>
+                                <placeName type="ancient" ref="http://pleiades.stoa.org/places/462538">Messana</placeName>		
+                                <placeName type="modern" ref="http://sws.geonames.org/2524170">Messina</placeName>
+                            	<geo>38.19394, 15.55256</geo>
+		</origPlace>
+                            <origDate datingMethod="#julian" notBefore-custom="0201" notAfter-custom="0400" cert="low">3rd — 4th century CE
+                                (?)</origDate>
+                        </origin>
+                        <provenance type="found" subtype="discovered">Necropolis of San Placido</provenance>
+                        <provenance type="observed" subtype="autopsied">None</provenance>
+                        <provenance type="not-observed" subtype="lost">Lost.</provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+             <p>Encoded following the latest EpiDoc guidelines</p>
+             <xi:include href="../alists/ISicily-taxonomies.xml">
+                 <xi:fallback>
+                     <p>Taxonomies for ISicily controlled values</p>
+                 </xi:fallback>
+             </xi:include>
+	  <xi:include href="../alists/charDecl.xml">
+	     <xi:fallback>
+	       <p>ISicily glyphs authority list</p>
+	     </xi:fallback>
+	   </xi:include>
+         </encodingDesc>
+        <profileDesc>
+            <calendarDesc>
+                <calendar xml:id="julian">
+                    <p>Julian Calendar</p>
+                </calendar>
+            </calendarDesc>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="it">Italian</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="la">Latin</language>
+                <language ident="he">Hebrew</language>
+                <language ident="phn">Phoenician</language>
+                <language ident="xpu">Punic</language>
+                <language ident="osc">Oscan</language>
+                <language ident="xly">Elymian</language>
+                <language ident="scx">Sikel</language>
+                <language ident="sxc">Sikan</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="https://ontology.inscriptiones.org/type_of_inscription">
+                    <term ana="#function.funerary" ref="https://ontology.inscriptiones.org/type_of_inscription/Funerary">funerary</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc status="draft">
+            <listChange>
+                <change when="2016-12-03" who="#JCu">James Cummings autogenerated EpiDoc output from database</change>
+            	   <change when="2020-10-05" who="#SS">Simona Stoyanova normalised Unicode</change>
+            	   <change when="2020-10-08" who="#SS">Simona Stoyanova updated list of languages</change>
+            		<change when="2020-11-26" who="#SS">Simona Stoyanova restructured bibliography</change>
+	    <change when="2020-12-23" who="#JP">Updated Zenodo DOI</change>
+            	<change when="2021-01-19" who="#SS">renumbered files, uris and references</change>
+                <change when="2021-07-23" who="#DEE">David Espinosa Espinosa edited, encoded the text division, and tagged full name and word</change>
+	</listChange>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile><surface/><!--
+        <surface type="front">
+            <graphic n="screen" url="ISic003323_tiled.tif" height="3680px" width="5520px">
+                <desc>I.Sicily with the permission of the Assessorato Regionale dei Beni Culturali e dell’Identità Siciliana - Dipartimento dei Beni Culturali e dell’Identità Siciliana</desc>
+            </graphic>
+            <graphic n="print" url="ISic003323.jpg" height="3680px" width="5520px">
+                <desc>I.Sicily with the permission of the Assessorato Regionale dei Beni Culturali e dell’Identità Siciliana - Dipartimento dei Beni Culturali e dell’Identità Siciliana</desc>
+            </graphic>
+         </surface>
+     --></facsimile>
+    <text>
+        <body>
+            <div type="edition" subtype="primary" xml:space="preserve" xml:lang="la" resp="#DEE">
+                <ab>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><persName type="attested"><name type="nomen"><seg part="F"><unclear>io</unclear></seg></name> <name type="cognomen"><supplied reason="lost">I</supplied><unclear>nnoc</unclear>enti</name></persName>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><orig>v</orig> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><orig><unclear>t</unclear></orig><gap reason="illegible" quantity="1" unit="character"/><orig><unclear>nia</unclear><gap reason="illegible" quantity="1" unit="character"/></orig><orig><unclear>nis</unclear></orig> <g ref="#interpunct">·</g> <orig>hu</orig> <gap reason="lost" extent="unknown" unit="character"/> <w>obito</w> <g ref="#interpunct">·</g> <w>ex</w>
+                    <lb n="4"/><w><supplied reason="lost">testamento</supplied></w> <w><supplied reason="lost">eius</supplied></w> <w><supplied reason="lost">os</supplied><unclear>s</unclear>a</w> <w>h<supplied reason="lost"><choice><corr>ic</corr><sic>eic</sic></choice></supplied></w> <w><supplied reason="lost">in</supplied></w> <w><supplied reason="lost">cella</supplied></w> <w><supplied reason="lost">absi</supplied><unclear>d</unclear>ata</w> <g ref="#interpunct">·</g> <w>sunt</w> <g ref="#interpunct">·</g>
+                    <lb n="5"/><orig>e</orig><gap reason="lost" extent="unknown" unit="character"/><orig>l</orig><gap reason="illegible" quantity="1" unit="character"/> <w><expan><abbr>eor</abbr><ex>um</ex></expan></w> <w>statua<unclear>e</unclear></w>
+                    <lb n="6"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">et</supplied></w> <w><supplied reason="lost">statua</supplied></w> <w><supplied reason="lost">seden</supplied>s</w> <g ref="#interpunct">·</g> <w>eius</w> <w>pe<unclear>r</unclear>missum</w> <w>est</w>
+                    <lb n="7"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><orig>iamcas</orig> <w><expan><abbr>mat</abbr><ex>er</ex></expan></w> <g ref="#interpunct">·</g> <w><expan><abbr>s</abbr><ex>ua</ex></expan></w> <w><expan><abbr>p</abbr><ex>ecunia</ex></expan></w>
+                </ab>
+            </div>
+            <div type="apparatus">
+                <listApp><app><note>Text according to IMusMessina V</note></app></listApp>
+            </div>
+            <div type="translation" xml:lang="en" resp="#DEE">
+                <p>To [...]ius Innocens. [...] dies from the will of him (that his) bones are in a vaulted room (?) [...] their statues [...] and a seated statue of him has been allowed [...] mother at her own expense.</p>
+            </div>
+            <div type="translation" xml:lang="it" resp="#DEE">
+                <p>Per [...]ius Innocens. [...] muore dal testamento di lui (che le sue) ossa siano in una stanza ad arco (?) [...] le sue statue [...] e una statua seduta di lui è stata concessa [...] madre a sue spesse.</p>
+            </div>
+            <div type="commentary">
+                <p><!--commented out pending revision-->
+                    <!--drawing shows face of a quadrangular base with mouldings; a fragmentary honorific statue base from a funerary context, recorded by Orsi, whose reconstr. is reproduced by Bitto. From the content it is clearly later than, e.g. IMusMess 36, the honorific to Cerrinia Cottia.-->
+                    <!--plaque placed on a base for statue--></p>
+            </div>
+            <div type="bibliography">
+                <listBibl type="edition">
+                    <bibl type="corpus" n="IMusMessina">
+                         <author>Bitto</author>
+                         <date>2001</date> 
+                        <citedRange>V</citedRange>
+                        <ptr target="https://www.zotero.org/groups/382445/items/M9HMEP2R"/>
+                    <ref target="https://biblio.inscriptiones.org/epig10000029">https://biblio.inscriptiones.org/epig10000029</ref></bibl>
+                    <bibl>
+                        <author>Orsi</author>
+                        <date>1916</date>
+                        <citedRange>144-145 fig.18</citedRange>
+                        <ptr target="https://www.zotero.org/groups/382445/items/P49V3TMD"/>
+                    <ref target="https://biblio.inscriptiones.org/epig10001701">https://biblio.inscriptiones.org/epig10001701</ref></bibl>
+                </listBibl>
+	   <listBibl type="discussion"><bibl/></listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>
