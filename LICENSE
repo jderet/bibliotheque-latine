@@ -1,0 +1,8 @@
+Ce dépôt est une compilation de corpus publiés sous des licences différentes.
+
+- Les textes du dossier textes/ restent sous la licence de leur producteur
+  (CC0, domaine public, CC BY, CC BY-SA, CC BY-NC-SA, CC BY-NC-ND).
+  Voir LICENCES.md et catalogue/sources.csv.
+- Les scripts (scripts/) et la documentation propre au dépôt (README.md,
+  LICENCES.md, catalogue/) sont placés sous CC0 1.0 :
+  https://creativecommons.org/publicdomain/zero/1.0/
