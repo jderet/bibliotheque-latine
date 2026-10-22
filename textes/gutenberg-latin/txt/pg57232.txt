@@ -1,0 +1,3786 @@
+The Project Gutenberg eBook of Pons tironum
+    
+This eBook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this eBook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+Title: Pons tironum
+
+Author: R. B. Appleton
+        W. H. S. Jones
+
+
+        
+Release date: May 29, 2018 [eBook #57232]
+
+Language: Latin
+
+Other information and formats: www.gutenberg.org/ebooks/57232
+
+Credits: Produced by an anonymous Project Gutenberg volunteer
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK PONS TIRONUM ***
+
+
+
+
+Produced by an anonymous Project Gutenberg volunteer
+
+
+
+
+[Transcriber's note:
+This text marks a few vowels as long which are considered short by
+the Oxford Latin Dictionary/OLD (or vice versa).
+This affects the following words:
+(i) 'mīsceō' (long i); OLD considers 'misceō' (short i) correct.
+(ii) 'affīrmō' (long i); OLD considers 'affirmō' (short i) correct.
+(iii) 'mīttō' (long i); OLD considers 'mittō' correct.
+      This affects also the corresponding composites.
+(iv) 'īmmō' (long i), whereas OLD considers 'immō' (short i) correct
+(v) 'līttera' (long i, 2 't'); OLD considers 'littera' or 'lītera' correct
+(vi) īgnis (long first i); OLD considers 'ignis' (short first i) correct
+(vii) Some prefixes "in-" (like īnsalūbris) have 'long i' in the text,
+      but are considered short in the OLD.
+In the "Poēta" chapter, one misprint has been corrected: "dormio" -> "dormiō".
+
+In the appendix, which lists the vocabulary ("index verbōrum"),
+a few words are explained by pictures. To avoid these pictures
+in the interest of readers who cannot display pictures on their devices,
+they have been replaced by their definitions in English,
+using the label 'Image.']
+
+PONS TIRONUM
+
+QUEM FECERUNT R. B. APPLETON ET W. H. S. JONES
+
+Trita manu puerili est ut, mea cura, senescas;
+si modo non frustra, non mihi tota peris.
+
+LONDINII APUD AEDES G. BELL ET FILIORUM
+CIↃIↃCCCCXIIII
+
+PRAEFATIO
+
+Libellum habes, lector benevole, quo quasi ponte usi
+tirones a primo tirocinii anno in secundum transire
+possint. Primo enim anno solum simplices, quas
+vocant, sententiae tractari solent; secundo autem
+adfectanda sunt difficiliora. Multa singularum
+constructionum exempla in unoquoque capite ita
+congregata sunt ut discipuli ipsa similium sententiarum
+frequentia sensim difficultates superare
+possint. Latinam linguam ubique, nusquam invenies
+Anglicum.
+
+Gratias debemus maximas amico nostro A. W.
+Spratt, Aulae S. Catharinae socio, et W. H. D.
+Rouse, viro doctissimo, gratissima nobis amicitia
+coniuncto, qui ambo, qua sunt benevolentia, multis
+modis nos adiuverunt. Si tamen menda te offendent,
+ita nobis ipsis culpam ascribe, ut veniam non omnino
+deneges.
+
+R. B. A.
+W. H. S. J.
+
+EXPERGĪSCOR.
+
+Animum attende! Imperō tibi ut animum attendās.
+
+Ante lūcem servus quīdam nōmine Dāvus ad
+cellam, ubi dormiō, venit; forēs pulsat, āc mihi
+ut surgam imperat. Ego dormīre volō; servō
+igitur ut abeat imperō. Servus abit, sed pater eum
+redīre iubet. Redit igitur et clāmāns "Pater tuus,"
+inquit, "ut statim surgās tibi imperat." Ē lectulō,
+in quō dormiēbam, sine morā surgō; sed vestēs,
+quibus mē amicīre soleō, invenīre nōn possum.
+Dāvō igitur ut novam tunicam quaerat imperō. Ille
+autem "Cūr," inquit, "quod māter tibi imperat numquam
+facis? Cūr eī nōn pārēs? Nam semper tibi
+imperat ut tunicam apud lectulum tuum dēpōnās."
+Ego tamen īrātus eī ut taceat imperō. Tacet igitur
+et aliī imperat servō ut tunicam novam mihi det.
+Servus ille alteram tunicam adfert, et mihi "Dāvus,"
+inquit, "ut hanc tunicam tibi darem mihi imperāvit.
+Imperāvit quoque ut celeriter tē amicīrēs." Fēstīnō
+igitur et servum alterum calceōs (quōs in pedibus
+gerere soleō) adferre iubeō. Calceōs ille adfert, quōs
+ego pedibus indūcō. Deinde redit Dāvus, et "Māter
+tua," inquit, "ut statim ad sē veniās tibi imperat."
+Ad mātrem igitur eō, quae tunicam et calceōs meōs
+cūriōsē īnspicit, et ut comās pectam mihi imperat.
+Dāvum igitur pectinem (quō comās pectimus)
+quaerere iubeō. Deinde māter mihi imperat ut
+collum iterum lavem, atque ut ad lūdum lītterārium
+(ubi nōs puerī lītterās discimus) proficīscar.
+Servum mēcum īre iubet. Hīc igitur servus, quī
+paedagōgus appellātur, mē ad lūdum comitātur.
+Loculōs meōs (quī librōs continent) ut portet
+imperō; at ille mihi imperat nē in viīs morer.
+Hōc modō ad lūdum venīmus, et paedagōgō ut
+domum redeat imperō.
+
+Māter ad lūdum nōn it. Servōs ad sē venīre
+iubet. Omnibus nē tempus terant imperat; hunc
+ātrium purgāre, illum aquam ex impluviō (hōc est, ē
+stāgnō in mediō ātriō sitō in quod pluviae cadunt)
+adferre iubet. Dāvō tamen ut ad macellum (ubi
+multae sunt tabernae ex quibus variās rēs emimus)
+eat cibumque emat imperat. Dāvus igitur ad
+macellum abit et vēnditōrī ut būbulam domum
+nostram tempore mīttat imperat. Saepenumerō
+tamen vēnditor nōn tempore mīttit. Pater igitur
+īrātus Dāvum ad sē venīre iubet et "Nōnne," inquit,
+"domina tibi imperāvit ut cibum emerēs?" Cuī
+Dāvus "Imperāvit," inquit, "ut ad macellum īrem.
+Ad macellum īvī; laniō, ā quō carnem emere solēmus,
+ut būbulam mihi mōnstrāret imperāvī; nūllam
+praestō habēbat, sed aliī cuīdam ut bovem quaereret
+imperāvit; alius ille in agrōs abīvit, agricolaeque ut
+bovem trucīdāret imperāvit. Agricola uxōrī imperāvit
+ut cultrum sibi daret; uxor vīcīnō, quī prope
+habitābat, cuī mūtuum dederat cultrum, ut sibi
+redderet imperāvit. Is cultrum reddidit, et uxōrī
+imperāvit ut grātiās marītō ageret. Uxor marītō
+suō cultrum dedit, eīque ut bovem statim trucīdāret
+imperāvit. Marītus ēius bovem trucīdāvit, servīsque
+ut ad macellum portārent imperāvit. Servī ad
+macellum bovem portāvērunt, laniōque ut pecūniam
+solveret imperāvērunt. Lanius eīs nē nimis poscerent
+imperāvit; ego quoque laniō nē nimis ā mē posceret
+imperāvī; būbulam ad nōs statim mīttere iūssī.
+Lanius ad nōs būbulam mīsit; ego coquō dedī, eīque
+ut statim coqueret imperāvī. Coquus mihi ut omnia
+tibi expōnerem imperāvit, āc būbulam coquere
+incēpit, quae nunc, ecce! parāta adest." Pater
+servum būbulam adportantem vīdit, et Dāvō ut ad
+culīnam redīret imperāvit.
+
+Pater mihi nē nimis celeriter edam semper imperat.
+Ō mē miserum, ut multa sunt quibus semper
+dēbēmus abstinēre! Magister semper mihi imperat
+nē in lūdō lūdam; paedagōgus nē in viīs morer
+imperat; māter mihi nē digitōs rōdam imperat,
+imperat quoque nē frāterculum laedam. Frāterculus
+mihi nē crepundiīs suīs (quibus ipse lūdere solet)
+lūdam imperat. Herī frāterculum crepundia in ōs
+īnserentem vīdī, cuī "Nōnne," inquam, "māter tibi
+imperāvit nē crepundia in ōs īnsererēs?" āc
+crepundia ab eō āvellere cōnābar. Ille autem vāgīre
+incēpit; imperāvī eī nē īnfantem sē praestāret;
+vāgītum tamen māter audīvit, et mihi ut statim ad
+sē īrem imperāvit. "Nōnne," inquit, "tibi imperāvī
+nē frātrem laederēs?" Cuī ego "Nōnne
+frātrī," inquam, "imperāvistī nē crepundia in ōs
+īnsereret? Ille tamen crepundia hōc modō in ōs
+īnserēbat"—et digitōs in ōs īnseruī. Sed—ō mē
+miserum!—digitōs māter vīdit et "Nōnne," inquit,
+"nē digitōs mordērēs tibi imperāvī?" Deinde
+paedagōgum ad sē venīre iubet, cuī ut mē ad patrem
+dūcat imperat. Paedagōgus mē ad patrem dūcit.
+Ego īre nōlō; itaque moror, sed paedagōgus "Nōnne,"
+inquit, "saepenumerō nē morēris tibi imperāvī?"
+Pater mē reprehendit et "Nōnne," inquit, "ut
+mātrī semper oboedīrēs tibi herī imperāvī? " Ego
+nihil respondeō, et pater mē ad cubiculum abīre
+iubet.
+
+POĒTA.
+
+ Magister venit ut discipulōs doceat.
+ Discipulī ut recitent librōs aperiunt.
+
+Posterō diē pater meus negōtia aliquot āctūrus
+in urbem est prōgrēssus. Dum ante tabernam
+quandam stat, subitō accurrit malus nescioquis poēta
+quī "Carmen," inquit, "ut recitem, amīce, ad tē veniō."
+Cuī pater "Nōn vacō," respondet, nē tālī pēste
+vexētur. Merīdiē in porticū Pompēiī ut sē recreāret
+cōnsēdit; cuī sedentī Ligurīnus īdem accurrēns "Ō
+optime," inquit, "iterum ad tē veniō ut carmina mea
+recitem." Cuī pater "Nōn vacō," inquit, "nam ut
+dormīrem hūc ā multitūdine recēssī." Ligurīnus
+discēssit, et pater iterum obdormīvit. Octāvā hōrā,
+in thermās fūgit nē iterum poētae fieret obvius. Sed
+statim ad aurem sonat "Ō optime patrōne, vēnī tibi
+carmen aliquod recitātum." Fugit pater ad piscīnam.
+Nōn tamen natāre licet, quia Ligurīnus exclāmāns
+"Nunc tandem," inquit, "ut audiās carmina, prope
+aquam stāns sum tibi recitātūrus."
+
+Posteā pater hōc dē Ligurīnō scrīpsit carmen:—
+
+ Et stantī legis et legis sedentī,
+ Currentī legis et legis morantī.
+ In thermās fugiō; sonās ad aurem.
+ Piscīnam peto: nōn licet natāre:
+ Ad cēnam properō; tenēs euntem.
+ Ad cēnam veniō; fugās sedentem.
+ Lassus dormiō; suscitās iacentem.
+
+Quam pulchrum est carmen! Ego quoque dum
+carmina audiō poēta fierī volō. Nōnnumquam versūs
+compōnere cōnor, sed malī, īmmō vērō pessimī, sunt
+versiculī. Aliquando versiculōs quōs scrīpsī lūdī
+magistrō mōnstrō, sed ille "Vīsne, Lūcī," inquit,
+"poēta fierī?" Ego āiō, et ille semper mihi imperat ut
+Graecōs scrīptōrēs identidem diēs noctēsque perlegam
+ut optima imiter exempla. Sed rēs est difficillima;
+multō facilius mihi vidētur esse prō patriā pūgnāre.
+Herī dum domum redeō multōs vīdī mīlitēs, et mīles
+fierī et ipse cōnstituī. Quam pulchram speciem prae
+sē ferunt mīlitēs! Ut dulce et decōrum est prō
+patriā pūgnāre! Quam fortēs videntur esse mīlitēs!
+Ut nihil honestius agere possumus quam prō patriā
+morī! Nihil pulchrius esse potest quam mīlitis
+habitus. Ut hunc habitum videās spectā tabulam
+pīctam.
+
+MĪLES.
+
+Hīc est mīles; gregārius est mīles quī ita appellātur
+quia quasi ūnus est ex grege mīlitum. Ut in pūgnā
+servētur fert scūtum, galeam, lōrīcam, brācās; galeam
+quae caput ab ictibus dēfendat, lōrīcam quae pectus
+prōtegat, brācās nē crūra volnerentur, scūtum ut ab
+omnī corpore ictūs arceat. Tenet quoque, ut vidēs,
+pīlum et gladium; pīlum habet ut in hostēs ēminus
+cōniciat, gladium ut comminus eōs feriat.
+
+In Rōmānō exercitū alia quoque mīlitum sunt
+genera; equitēs, quī ex equō pūgnant, ut victōs hostēs
+persequantur, funditōrēs quī fundīs glandēs vel
+lapidēs in hostēs iaciant, sagittāriī quī sagittās
+arcubus ēmīttant. Est etiam dux ut exercitūs quasi
+caput sit. Is ut omnia ōrdine agantur iūssa dat
+mīlitibus. Ante pūgnam solet omnibus imperāre
+ut summā virtūte, summō animō, summīs vīribus
+dēcertent.
+
+CĒNA.
+
+Licetne nōbīs cēnāre? Ōrāmus tē ut nōbīs cēnāre liceat.
+
+Cottīdiē ferē domum apud nōs convīvae cēnātum
+veniunt. Convīvās pater ita dispōnit: ut in summō
+lectō accumbant rogat Semprōnium, avunculum
+meum, frātrēsque ēius duōs, ut in mediō cōnsulem
+aliōsque duōs magistrātūs, ut in īmō, ubi ipse
+accumbit, duōs reliquōs. Tum servō cuīdam imperat
+ut gustum appōnat. Ōvīs plērumque aliīsque
+ēscīs, quō magis edere cupiant convīvae, initiō
+cēnae vescimur; deinde per cēnam rēctam prōcēdimus
+ūsque ad mēnsās secundās, frūgēs cūiusvīs
+generis ut māla, pira, ūvās,—unde fit prōverbium "Ab
+ōvō ūsque ad mālum." Dum secundīs fruuntur
+mēnsīs quīdam ex convīvīs patrem ōrat ut mē vocet.
+"Cupiō enim," inquit, "eum recitantem audīre."
+Pater igitur servō imperat ut mē roget ut praestō
+sim. Servus igitur mē intrōdūxit; tum pater mē
+ōrāvit ut quam optimē carmen aliquod recitārem.
+Ego autem omnēs precātus sum ut attentō animō
+mē audīrent et hunc in modum incēpī:—
+
+ Ut nova rīdent
+ nitōre prāta daedalō,
+ rīdet iuventūs
+ ah! quam fugāx!
+   Carpite (nam licet)
+   pūra, sodālēs,
+   gaudia quae dabit
+   prīma iuventūs.
+
+ Dum salit aestū
+ fervente sanguis artubus,
+ rōburque nescit
+ frangī malīs,
+   carpite (nam licet)
+   pūra, sodālēs,
+   gaudia quae dabit
+   prīma iuventūs.
+
+ Ēia! per aurās
+ follis sonantēs ēvolet;
+ nec lūsus ācris
+ cesset pilae.
+   Carpite (nam licet)
+   pūra, sodālēs,
+   gaudia quae dabit
+   prīma iuventūs.
+
+ Ōtia lūdōs
+ labōre parta suādeant
+ lūdīque Mūsīs
+ dent vigōrem.
+   Carpite (nam licet)
+   pūra, sodālēs,
+   gaudia quae dabit
+   prīma iuventūs.
+
+Postquam carmen recitāvī pater servum semper
+rogat ut crūstula quaedam mihi adferat. Convīvae
+quoque nōnnūllīs praemiīs mē dōnant. Semprōnius
+librum pulcherrimum fābulās Aesōpī continentem
+mihi dedit. Hunc librum identidem legō, nam
+māximē mihi placet. Multae īnsunt tabulae pulcherrimē
+pīctae, quārum dē ūnā vōbīs nārrābō.
+Spectā tabulam.
+
+CANIS.
+
+Quāle est hōc animal? Dīc mihi quāle sit.
+
+Vidēsne hunc canem quī carnem ōre tenet?
+Scīsne quālis sit carō? Bovis est carō, būbula
+nōmināta. Dīc mihi quid canis agat. Intellegisne
+cūr pontem trānseat? Ut ā laniō effugiat pontem
+trānsit; nam carnem, quam ōre portat, ā laniō
+quōdam abstulit. Rogāsne cūr fugiat? Nē ā laniō
+capiātur scīlicet fugit. Dum aufugit ad pontem
+pervēnit. Quō ferret pōns omnīnō nesciēbat, sed ut
+lanium vītāret trānsgredī incēpit. Dum trānsgreditur
+aliquid in aquā vīdit; quid esset nesciēbat,
+nūllus enim canis quid sit imāgō intellegere potest.
+Sed carō esse vidēbātur, et canis ille invenīre
+cupiēbat utrum illa in aquā carō melior esset carne
+(quam in ōre habēbat) necne. Quid igitur āctūrus
+sit omnēs, ut putō, bene scītis. Ōs enim ut imāginem
+rapiat apertūrus est, nam, ut dīxī, quid imāgō esset
+nōn intellegēbat.
+
+Ut mihi placet hūiusmodī legere librōs! Multō
+iūcundiōrēs sunt quam grammaticī istī quōs in lūdō
+recitāmus. Equidem vērō cūr necesse sit tālēs
+legere librōs nesciō. Sed quō sapientior fīam pater
+mihi imperat ut lūdum frequentem; lūdī magister
+omnibus ut librīs et stilō incumbāmus imperat nē
+semper rudēs incultīque sīmus. Sed cūr tantam
+necesse sit operam dare ut sapientēs fīāmus, nēmō
+mihi dīcere potest. Ōlim ipsum magistrum quam
+ob rem sapientēs nōn nātī essēmus rogāvī, sed ille
+nihil nisi mihi imperāvit nē stultum mē praestārem.
+Cūr hunc in modum respondisset tunc nescīvī; sed
+fortāsse et ipse nescit quam ob rem necesse sit studēre
+ut sapientēs fīāmus. Ego saltem quōmodo rēs sē
+habeant nesciō; hōc tamen sciō—māter mihi ut ad
+lūdum eam imperat; pater imperat ut mātrī pāream;
+lūdī magister mē operam librīs dare iubet.
+
+LŪDUS.
+
+Ad lūdum currō quia timeō nē sērus veniam.
+
+Multa posteā tibi dē lūdō nārrābō, nunc autem
+haec pauca. Lūdum frequentāre mihi molestum
+est; quam molestum sit nēmō nisi puer intellegere
+potest. Sed cum condiscipulīs lūdere satis grātum
+mihi est, atque ut amīcōs mihi conciliem necesse est
+ad lūdum īre. Quot in lūdō nostrō sint discipulī
+nōn nārrābō. Quis enim hōc scīre volt? Nōn
+quot, sed quālēs sint discipulī scīre vīs. Dē omnibus
+nunc nārrāre nōn possum, sed quantum licet nunc
+audī. Quīdam ex discipulīs, nōmine Gāius, ā condiscipulīs
+etiam Timidus est appellātus. Rogāsne
+cūr ita sit appellātus? Precārisne mē ut tibi dīcam
+cūr illud sit nōmen? Paucīs expōnam verbīs:
+Gāius semper timet, metuit, verētur; semper trepidus
+est. Māne timet nē pluat, nē magister
+pūniat. Dum pilā lūdit timet nē ipse cadat, vel nē
+cadat pila. Ante cēnam timet nē parum sit cibī.
+Dēnique semper timet nē quid malī accidat. Herī
+timēbat nē pēnsum recitāre nōn posset. A lūdō
+igitur omnīnō sē abstinuit; domum tamen nōn iit,
+timēbat enim nē māter sibi veniam nōn daret.
+Herī timēbat nē magister pūnīret; hodiē nē pūniat
+timet, crās timēbit nē pūniat. Intellegisne nunc
+tandem cūr Timidus sit appellātus?
+
+Plērumque praelēctiōnēs in lūdō ōdī, sed interdum
+magister fābulās nōbīs nārrat. Hās valdē amō.
+Vīsne scīre quālēs sint? Animum igitur attende ut
+intellegās, āc tibi ūnam ex eīs quās magister nōbīs
+recitāvit nārrābō.
+
+FĀBULA DĒ ANŪ.
+
+Magistrō docente oportet discipulōs tacēre.
+
+"Ōlim erat anus quaedam quae sex assēs invēnit.
+Itaque ad macellum ut porculum emeret profecta est.
+Porculō emptō domum redībat, sed ad portam vēnit
+per quam porculus īre nōluit. Itaque anus canem
+ōrāvit ut porculum mordēret. Sed canis nōluit.
+Itaque cane recūsante ferulam ōrāvit ut canem
+percuteret. Sed ferula nōluit. Itaque ferulā recūsante
+īgnem rogāvit ut ferulam ūreret. Sed īgnis
+nōluit. Itaque īgnī recūsante aquae imperāvit ut
+īgnem exstingueret. Sed aqua nōluit. Itaque aquā
+recūsante taurum ōrāvit ut aquam biberet. Sed
+taurus nōluit. Itaque taurō recūsante lanium ōrāvit
+ut taurum interficeret. Sed lanius nōluit. Itaque
+laniō recūsante fūnem ōrāvit ut lanium suspenderet.
+Sed fūnis nōluit. Itaque fūne recūsante mūrem
+ōrāvit ut fūnem rōderet. Sed mūs nōluit. Itaque
+mūre recūsante fēlem ōrāvit ut mūrem ederet.
+Fēlēs autem 'Sī lac,' inquit, 'mihi dederis, ego mūrem
+edam.' Anus igitur ad vaccam prōgrēssa ōrāvit
+ut lac sibi daret. Vacca tamen 'Sī aliquantulum
+faenī,' inquit, 'mihi dederis, ego lac tibi dabō.' Itaque
+anus hominem quī agrōs colēbat ut faenum sibi
+daret ōrāvit. Sed homō 'Sī,' inquit, 'aquam in
+crībrō mihi adportāveris, faenum tibi dabō.' Anus
+igitur lapidēs et argillam crībrō imposuit et aquam
+adportāvit. Itaque aquā acceptā homō faenum dedit;
+faenō comēsō vacca lac dedit; lacte exhaustō fēlēs
+mūrem edere incēpit; caudā morsā mūs incēpit
+fūnem rōdere; quō factō fūnis lanium angere
+incēpit; iugulō compressō lanius incēpit taurum
+interficere; capite percussō taurus incēpit aquam
+bibere. Quibus factīs aqua īgnem exstinguere incēpit;
+aquā sparsā īgnis ferulam ūrere incēpit et
+ferula incēpit canem percutere. Itaque canis ferulā
+verberātus porculum mordēre incēpit et porculus per
+portam saltāns ēvāsit. Quibus factīs anus domum
+rediit."
+
+Nūdius tertius hanc fābulam magister nōbīs
+nārrāvit, sed fābulās cottīdiē nōn nārrat. "Sī
+pēnsa," inquit, "bene fēceritis fābulam vōbīs nārrābō,"
+sed ūnus et alter male faciunt. Nūllam igitur
+audīmus fābulam, sed magister artem grammaticam
+nōs docet.
+
+Herī conclāve intrāvit. Cum intrāvisset discipulōs
+spectāvit. Cum discipulōs spectāvisset (vel,
+ubi discipulōs spectāvit; vel, postquam discipulōs
+spectāvit; vel, discipulīs spectātīs; vel, cum discipulī
+spectātī essent) crētam sustulit. Crētā sublātā
+(vel, cum sublāta esset crēta; vel, cum crētam sustulisset;
+vel, ubi crētam sustulit; vel, postquam
+crētam sustulit) in tabulā scrīpsit carmen. Carmine
+scrīptō (vel, ubi scrīptum est carmen; vel, postquam
+scrīpsit carmen; vel, cum scrīpsisset carmen; vel,
+cum scrīptum esset carmen) discipulōs recitāre
+iūssit. Discipulī iūssī carmen recitāvērunt. Carmine
+recitātō (vel, ubi recitāvērunt; vel, postquam
+recitāvērunt; vel, cum recitāvissent carmen) magister
+duās nārrāvit fābulās. Quibus fābulīs nārrātīs (vel,
+quās cum nārrāvisset fābulās; vel, quae cum nārrātae
+essent fābulae; vel, quās ubi nārrāvit fābulās)
+dīmīsit discipulōs. Discipulīs dīmīssīs ipse prandium
+ēdit; discipulī dīmīssī lūsum ēgrēssī sunt.
+
+Ō mē miserrimum, stultissimum! Nōn possum
+haec omnia comprehendere. Mēns mihi pertūrbātur,
+cōnfunditur, mīscētur. Quam multa idem sīgnificant!
+
+Sed fēriae adsunt et lūdum multōs diēs omīttam.
+
+LECTĪCĀRIUS.
+
+Fēriae adsunt, sed nisi fēriae advēnissent ego mortuus essem.
+
+Sī magister nōs ad lūdum per fēriās īre vellet ego nōn īrem.
+
+Dum hae fēriae aguntur Viā Sacrā forte ībam,
+cum subitō lectīcārius quīdam, quī aliquem
+lectīcā gestābat, ā tergō appropinquāns caput meum
+assere percussit. Petasum, ut accidit, gerēbam quī
+aliquid dē vī ictūs remīsit. Sed nisi petasum
+habuissem scelerātus ille omnīnō mē interfēcisset.
+Sī modo eum appropinquantem vīdissem dē viā eī
+dēcēssissem, sed nōn vīdī. Sī modo "Cavē" clāmāvisset,
+idem fēcissem, sed nihil clāmāvit. Itaque
+mē offendit. Sī mē multō vehementius percussisset
+fortāsse mē interfēcisset, et sī mē interfēcisset comprehēnsus
+esset ut sīcārius. Sī comprehēnsus esset
+in vincula esset iactus. Sī in vincula iactus esset
+inter sīcāriōs accūsātus esset. Sī accūsātus esset
+capitis esset damnātus. Sed, ut iam dīxī, nihil
+accidit nisi quod caput meum tumōre māgnō fīēbat
+tumidum. Sī pater adfuisset valdē, putō, īrātus
+esset et hominem pulsāvisset. Tū quoque sī capitis
+tumōrem vīdissēs hominem reprehendissēs. Equidem
+vērō hunc in modum hominem allocūtus sum.
+"Quid, malum, fēcistī? Cūr tam celeriter curris?
+Nisi celeriter fēstīnāvissēs mē nōn percussissēs.
+Cavē nē poenās posteā dēs. Nam sī adultus essem
+tē iam caederem, quod nunc facerem sī modo
+baculum habērem. Utinam habērem, vel pater vel
+paedagōgus adesset, āctum esset dē pelle tuā,
+fūrcifer!" Ille autem "Tacē," inquit, "nam quod
+mihi ita maledīxistī iterum tē percuterem nisi
+puerulus modo essēs." Quibus dictīs ego hominem
+quī in lectīcā vehēbātur āgnōvī. Ō mē miserum!
+lūdī magister erat! Quō cōgnitō quam celerrimē mē
+recēpī; timēbam enim nē ille quoque mē āgnōsceret.
+Domum reversus magistrum cum patre
+loquentem invēnī. Statim valdē timēbam nē rē vērā
+mē āgnōvisset nēve quod lectīcāriō dīxeram audīvisset.
+Diū quam ob rem apud nōs adesset frūstrā mīrābar,
+sed tandem Dāvus ad mē vēnit et "Pater," inquit,
+"ut statim ad sē in tablīnum eās tibi imperat."
+
+Iterum nē poenās darem timuī, sed ut quam ob rem
+adesset magister invenīrem ad tablīnum sine morā
+mē contulī. Valvīs apertīs magistrum—mīrābile
+dictū!—rīdentem vīdī et, omnī timōre iam dēpositō,
+sēcūrus intrāvī. Pater, cum mē adstantem percēpisset,
+"Cornēlius," inquit,—ita enim nōminātus est
+lūdī magister—"ut negōtia quaedam sēcum agam
+mē in rūs vocāvit; itaque eum precātus sum ut tibi
+nōbīscum īre liceat." Quibus audītīs vix auribus
+meīs crēdere potuī et magistrum rogāvī num vēra
+nārrāret pater. Ille ait, et pater mihi imperāvit ut
+statim mē parārem.
+
+Tam benīgnus est magister ut mē sēcum rūs īre sinat.
+
+Dum ego mē ad profectiōnem parō haec quoque
+pater mihi expōnit: "Adsunt Kalendae Sextīlēs.
+Itaque Cornēlius lūdum in Octōbrēs Īdūs dīmīsit."
+Quibus audītīs quam māximē gaudeō, nam tantā vī sōl
+aestāte ārdet ut nihil discere possim. Etiam sī lūdum
+aestāte frequentārem nihil discere possem. Quid
+enim? Nōnne Mārtiālis hunc in modum loquitur:—
+
+ Lūdī magister, parce simplicī turbae!
+ Sīc tē frequentēs audiant capillātī.
+ Ferulaeque trīstēs, scēptra paedagōgōrum,
+ Cessent, et Īdūs dormiant in Octōbrēs.
+ Aestāte puerī sī valent satis discunt.
+
+Nam sī qua alia urbs, est īnsalūbris Rōma; tantus
+est ārdor sōlis ut nēmō quicquam possit discere; īmmō
+vērō adeō est īnsalūbris urbs ut lūdī magistrī suōs
+quisque discipulōs in Īdūs Octōbrēs dīmīttant. Ita
+grassantur febrēs ut dītissimus quisque aestāte
+in vīllās migret, īmmō vērō nēmō Rōmae maneat
+nisi urbāna cōgunt officia. Omnēs, ut putō, sī
+modo officia sinerent ad vīllās sē reciperent. Ultimō
+annō tempestās ita erat rabida ut omnēs tōtum
+diem in lectulīs ōtiōsī requiēscerent. Ita furēbat
+aestus ut neque lītterās discere, neque ambulāre,
+neque edere, nihil nisi bibere possent. Ut Mārtiālis
+dīxit, tantum vītae ēius dētrāxit urbis pēstilentia,
+ut, sī eōs modo computāret annōs per quōs valēbat,
+rē vērā īnfāns etiam nunc esset. Pater igitur ita
+veritus est nē in morbum inciderem, ut mē rūs sēcum
+addūcere cōnstituerit.
+
+ITER.
+
+Sed ut nārrātiōnem meam bene intellegās, oportet
+mē aliquid grammaticē expōnere. Nōlī timēre nē
+tē taedeat. Nōn sum magister lūdī neque illī
+adsunt diēs per quōs lūdum frequentāmus. Fēriae
+adsunt, et iter nostrum sum tibi nārrātūrus.
+Prīmum tamen hōc grammaticē: sententiam _Magister
+venit ut doceat_ nōs Rōmānī hunc quoque in modum
+vertimus _Magister docendī causā venit_. Similiter
+dīcimus aut
+
+  _Puerī ut discant lūdum frequentant_.
+
+aut
+
+  _Puerī discendī causā lūdum frequentant_.
+
+Sed vereor ut intellegās. Oportet mē melius
+expōnere; melius mihi expōnendum est. _Docendī
+causā_ idem sīgnificat quod _ut doceat_ prīmā in
+sententiā, et _discendī causā_ idem quod _ut discant_
+secundā in sententiā. Intellegisne nunc? Oportet
+tē intellegere; intellegendum est tibi. Hōc quoque
+mihi dīcendum est:—Eandem sententiam _Magister
+docendī causā venit_ hunc quoque in modum vertere
+possumus:—
+
+  _Magister ad discipulōs docendōs venit_.
+
+Sed vereor nē artis grammaticae iam tē taedeat.
+Reliquā igitur parte omīssā, ad iter nostrum pergam.
+
+Māne experrēctus cum patre ad forum īvī raedae
+condūcendae causā. Prīmā hōrā magistrō comitante
+profectī sumus ut iter tempore perficerēmus. Dum
+Viā Appiā vehimur, multa mihi posteā nārranda
+vīdimus. Quārtā circiter hōrā ad dēversōrium pervēnimus,
+ubi omnibus ex raedā dēscendendum erat
+edendī bibendīque causā. Quam iēiūnus eram!
+
+Tam avidē edēbam, ut pater hīs verbīs mē reprehendere
+incēperit. "Nōlī cibum tam avidē dēvorāre;
+nōnne saepenumerō tibi imperāvī nē avidum in
+edendō tē praestēs; prōverbium meum nōn īgnōrās
+—_ut vīvāmus edendum est, nōn vīvendum est ut
+edāmus_—prūdentissimus quisque vīvendī causā edit;
+stultissimus quisque edendī causā vīvit. Fēstīnā
+tamen, namque iterum in raedam nōbīs est ascendendum."
+Quibus audītīs ego fēstīnō; aliquantulum
+cibī in sinū pōnō, et omnēs iterum raedam ascendimus.
+
+In itinere faciendō ut sunt multa cūranda! Nē
+nimis impedīmentōrum raedae imponāmus prōvidendum
+est; ungulae equī identidem sunt spectandae,
+nē lapidēs inhaeserint, nec nōn rotae sunt īnspiciendae,
+nē quid damnī accēperint. Quae omnia in
+hōc itinere faciendō nōbīs accidērunt. Nam simul
+atque iterum sumus profectī, pater ad raedārium
+versus "Timeō," inquit, "nē sērō adveniāmus. Cūr
+nōn cursum accelerās?" Cuī raedārius "Celerius,"
+inquit, "īre nōn possum; cūr tot impedīmenta tēcum
+adportās? Sī minus impedīmentōrum adportārēs,
+celerius īre possēmus. Num colōniae dēdūcendae
+causā iter facis?" Quibus audītīs Cornēlius quidem
+rīsit et facētiās hominis laudāvit, sed pater et
+raedārius paulisper inter sē collocūtī, ad dēversōrium
+redīre cōnstituērunt, onera levandī causā. Itaque
+Cornēliō comitante hī duo reversī sunt. Ego tamen
+lūdendī causā ē raedā dēscendī. Calculīs, quippe
+quī tālōs nōn habērem, hunc in modum lūdēbam.
+Septem vel octō calculōs in manum collēctōs in āëra
+iaciēbam et dum calculī cadunt quam plūrimōs manū
+reversā excipere cōnābar. Diū hunc lūdum, dum
+patrem exspectō, lūsī. Tandem autem pater rediit
+et mihi ut in raedam iterum ascenderem imperāvit.
+Cuī ego "Cūr, pater," inquam, "tam diū āfuistī?"
+"Tam celeriter," respondit ille, "ad dēversōrium
+contendēbāmus, ut rota dextra celerrimō cursū agitāta
+ab āxe omnīnō sē līberāverit raedaque prōna nōs
+omnēs ad terram praecipitāverit." Cuī ego exclāmāns
+"Ō pater," inquam, "num laesus es?" "Mīrābile
+dictū," respondit ille, "nihil damnī accēpimus nisi
+quod rota refīxa iterum nōbīs erat affīgenda; cūius
+rotae affīgendae causā diū sumus morātī. Sed nisi
+Iūppiter nōs servāvisset, omnīnō essēmus interfectī.
+Nunc autem prōcēdāmus." Quibus dictīs vix iterum
+profectī sumus, cum equus subitō claudicāre
+incēpit, et pater raedārium rogāvit quae causa esset.
+"Vereor," respondit raedārius, "nē calculus ungulae
+inhaereat," et rursus nōbīs erat dēscendendum calculī
+ex ungulā extrahendī causā. Quō extractō raedārius
+"Hunc," inquit, "nisi extrāxissem equus omnīnō
+claudus esset factus."
+
+Tandem autem ad vīllam ad quam contendēbāmus
+tūtī pervēnimus. Equidem vērō adeō fatīgātus
+eram, ut statim cubitum īrem. Proximō diē māne
+in agrōs vagātus, multa inūsitāta neque anteā ā mē
+vīsa invēnī. Vīlicum mīrum quoddam īnstrūmentum
+fingentem vīdī, cuī ego "Quid, sōdēs," inquam,
+"ibi facis?" "Arātrum," respondit, "fingō, namque
+ut pānis suppetat nōbīs segetēs sunt serendae;
+ut segetēs crēscant agrī arandī sunt, āc mihi ad
+agrōs arandōs hōc īnstrūmentum faciendum est."
+Multa quoque alia vīlicus mihi expōnere incēpit,
+sed mox mihi abeundum erat ad prandium edendum.
+Ut in prandiō edendō gaudēbam! Coquus
+enim multa āc varia legūmina nōs dēlectandī
+causā apposuit. Ego timēbam nē pater mē iterum
+reprehenderet quod mē tam avidum in edendō
+praestārem.
+
+Posterō diē pater, rēbus perfectīs ad quās perficiendās
+profectus est, Rōmam rediit. Mē tamen
+rūrī relīquit, nē sī ad urbem īnsalūbrem reversus
+essem in morbum inciderem. Mēnse tamen Octōbrī
+appropinquante mē quoque ad urbem revocāvit,
+ut ad lūdum redīrem. Dē lūdō pauca tibi iam
+nārrāvī, sed, ut anteā dīxī, multa alia mihi sunt
+nārranda.
+
+ITERUM DĒ LŪDŌ NĀRRŌ.
+
+Herī in lūdō discipulus quīdam, Decimus nōmine,
+rīsit. Magister "Decime," inquit, "putō tē rīsisse."
+Deinde perrēxit hunc in modum nōs docēre. "Sī
+ante hūiusmodī sententiās 'Decimus rīdet,' 'Omnēs
+rīsērunt,' 'Rīdēbō,' verbum pōnō dīcendī vel sentiendī
+(ut 'dīcere,' 'respondēre,' 'arbitrārī,' 'putāre,'
+'prō certō habēre') subiectum ('Decimus,' 'omnēs,'
+'ego') in cāsum vertitur accūsātīvum ('Decimum,'
+'omnēs,' 'mē'), verbum in īnfīnītīvum vertitur, ita
+tamen ut et tempus idem sit, et vōx quoque sit
+eadem."
+
+Decimus rīdet.        | putō Decimum rīdēre.
+omnēs rīsērunt.       | putō omnēs rīsisse.
+rīdēbō.               | putō mē rīsūrum esse.
+mīles interficitur.   | putant mīlitem interficī.
+mīles interfectus est.| putābant mīlitem interfectum esse.
+mīles interficiētur   | putāvit mīlitem interfectum īrī.
+
+Ut hunc dīcendī modum bene intellegāmus,
+magister nōnnumquam puerō cuīdam imperat ut
+sententiās quāsdam dīcat, alterīque imperat puerō ut
+omnia cēterīs discipulīs nārret. Statim hunc in
+modum pergimus:—
+
+_Discipulus_.                    | _Discipulus alter cēterīs nārrāns_.
+Magister est īrācundus.          | Sextus magistrum īrācundum esse dīcit.
+Magister discipulōs male docuit. | Sextus magistrum discipulōs
+                                   male docuisse dīcit.
+Magister mihi praemium dabit.    | Sextus magistrum sibi praemium
+                                   datūrum esse dīcit.
+Bonus sum discipulus.            | Sextus sē bonum esse discipulum putat.
+Pessimī sunt aliī discipulī.     | Sextus aliōs discipulōs pessimōs esse putat.
+Māter mea mihi crūstula dabit.   | Sextus mātrem suam sibi
+                                   crūstula datūram esse putat.
+Hanc cōnstructiōnem omnēs iam intellēxērunt. | Sextus omnēs hanc cōnstructiōnem
+                                               iam intellēxisse putat.
+
+Et vōs omnia iam intellegere prō certō habeō.
+Nōn enim putō vōs stultōs esse discipulōs: vōs
+stultōs esse negō. Magister nōnnumquam mē
+stultum esse dīcit, sed putō eum errāre. Mox mē
+sapientem esse inveniet, nam pater et māter prō certō
+habent mē sapientem fore; negant enim magistrum
+omnia posse praedīcere. Cēterum magister
+omnēs parentēs stultōs esse putat, et saepenumerō
+in lūdō "Omnēs," inquit, "parentēs suōs līberōs
+optimōs esse arbitrantur."
+
+ROGĀTOR.
+
+Num ex memoriā tuā cecidit ille discipulus cuī
+āgnōmen erat Timidus? Est enim alius condiscipulus
+dē quō velim tibi nōnnūlla nārrāre. Nōmen eī est
+Mārcō. Cum tamen numquam loquātur nisi interrogandō,
+āgnōmen eī quoque indidimus. Appellāmus
+enim Rogātōrem. Herī patrem rogāvit quid ageret,
+quid prīdiē ēgisset, quid posterō diē esset āctūrus.
+Deinde rogāvit quot mīlitēs stīpendia merērent,
+quōrum quot essent gregāriī, quot centuriōnēs, quot
+tribūnī, quot prīmipīlārēs. Mox dum ad lūdum
+pergit obvius fit condiscipulō cuīdam quem statim
+rogāvit num pēnsum perfēcisset, quot hōrās in perficiendō
+cōnsūmpsisset, utrum difficile fuisset necne;
+utrum posteā lūsūrus esset necne, multa alia
+quōrum oblītus sum. Lūdum ingrēssus magistrum
+quoque rogandō excruciat. Rogat num pulchrē
+pēnsum scrīpserit; quandō fēriās rūrsus sīmus
+āctūrī, quandō incipiant spectācula, multās aliās
+nūgās quās taedet mē nārrandī. Et vereor nē tē
+quoque taedeat; reliquās igitur interrogātiōnēs
+ēius omīttam, nam putō mē iam satis dē lūdō
+et condiscipulīs meīs nārrāvisse. Ad alia pergendum
+est.
+
+PATRIS ŌRĀTIŌ APUD TRIBŪNAL PRAETŌRIS HABITA.
+
+Ōlim pater, quī causidicus praeclārus est, ut
+ōrātiōnēs audīrem ad tribūnal praetōris sēcum mē
+addūxit. Quam multī hominēs aderant—reus ipse,
+quī fūrtī erat accūsātus, patrōnus ēius, quī eum
+dēfenderet, pater meus ōrātiōnem contrā accūsātum
+habitūrus, nec nōn praetor togā praetextā amictus
+quī in sellā curūlī sedābat, iūdicēs quī in subselliīs
+ad praetōris pedēs sedēbant! Mox praetor ad patrem
+meum versus ut ōrātiōnem habēret eī imperāvit,
+quī hunc in modum statim incēpit:—
+
+"Nēmō dubitāre potest, iūdicēs, quīn hīc improbissimus,
+scelerātissimus, nēquissimus, quem
+ante oculōs sūdantem, pallentem, rubentem, sceleris
+sibi cōnscium vidētis, sī quis alius nocēns sit. Nōn
+dubium est quīn valdē pertūrbētur. Spectāte, iūdicēs!
+Vidētisne labra quō modō eī tremant? et genās ut
+exsanguēs fīant? Quis dubitāre potest quīn hīc
+sceleris sibi cōnscius sit? Mihi quidem nōn dubium
+est quīn iam ante oculōs carcerem, vincula, carnificem
+ipsum cernere videātur. Namque omnia ē tēstibus
+dīligenter quaesīvī, quae singula vōbīs expōnam.
+Hīc enim, quī nunc nē capitis damnētur vehementer
+timet, anteā nihil timēbat. Quid enim? Timēbatne
+nē comprehenderētur? Minimē vērō. Nōn dubitāvit
+quīn facile effugere posset. Intempestā nocte
+domuī petītōris appropinquāvit. Fenestram apertam
+vīdit; nōn dubium erat quīn omnēs iam dormīrent.
+Nūllum sonum audīvit. Nihil eī obstitit quīn per
+fenestram ingrēssus argentum caelātum auferret.
+Per fenestram igitur tacitus, nē quem ē somnō
+excitāret, intrāvit. Omnia prōsperē ēvēnērunt;
+argentum caelātum facile invēnit; in saccum, quem
+sēcum adportāverat, immīsit. Nihil eum impediēbat
+quīn tūtus ēvāderet, cum subitō ab hōc, quī ut
+omnia mihi tēstificētur adest, oppressus ad terram
+dēicitur. Tēstem, iūdicēs, audīte."
+
+_Tēstis_. "Ex animī meī sententiā iūrābō vērumque
+dīcam. Nūdius quīntus, quippe quī ex ventre
+labōrārem, noctū dormīre nōn poteram. Nōn dubitāvī
+quīn gravī morbō affectus moritūrus essem.
+Mūcium igitur quī tēstāmentum mihi cōnsīgnāret
+quaerere cōnstituī. Domum apud eum statim īvī,
+et—mīrābile dictū—aliquem per fenestram intrantem
+vīdī. Nōn dubitāre poteram quīn scelus quoddam
+conciperet, et eī obstāre cōnstituī quōminus effugeret.
+Itaque per fenestram et ipse ingrēssus quid esset
+āctūrus exspectāvī, nam nūllum mihi dubium
+erat quīn esset fūr. Et rēctē suspicātus sum. Multa
+enim pōcula argentea et aliud argentum, et pūrum
+et caelātum, in saccum immīsit, et iam ad fenestram,
+quā intrāverat, regrediēbātur, cum subitō ego ā tergō
+appropinquāvī et eum comprehendī."
+
+Quō tēstimōniō datō pater meus assurrēxit et
+"Nēmō," inquit, "iūdicēs, dubitāre potest quīn hīc
+vēra nārret. Quid igitur vōbīs obstat quōminus
+hominem tam scelestum, tam nefārium, statim damnētis?
+Dīxī."
+
+Patrōnus fūris deinde ōrātiōnem habuit, sed ego
+quī nēminem nisi patrem audīre voluissem domum
+abīvī. Sed patrem posteā rogāvī utrum iūdicēs fūrem
+damnāvissent necne, et ille arrīdēns eum omnium
+cōnsēnsū esse damnātum dīxit.
+
+FĀBULAE.
+
+Nōn ita multō post, convīvae quīdam ut diem
+mihi nātālem celebrārent apud nōs vēnērunt. Itaque
+mātrī persuādēre cōnābar, ut paulō diūtius quam
+solitum mihi licēret vigilāre. Facile eī persuāsum
+est. Itaque ōmnēs circā focum cōnsēdimus ut
+ōtiō fābulās nārrandō fruerēmur. Cum omnēs cōnsēdissent
+avunculus meus hunc in modum prīmus incēpit:—
+
+_Scīrōn_.
+
+"Scīrōn latrō īnfāmis erat, quī regiōnem inter
+Megaram et Atticam īnfēstam reddēbat. Ad mare
+locō quōdam praeruptō solēbat sedēre; deinde sī
+quis appropinquāverat viātor, eum cōgēbat sibi
+pedēs lavāre atque in mare praecipitābat. Hunc
+Thēseus, dum iter facit, saxō residentem cōnspexit.
+Quō vīsō statim quae audierat in memoriam revocāvit.
+Itaque ā tergō appropinquāns Scīrōnem ex
+imprōvīsō aggrēssus parī lētō in mare dēiēcit; cūius
+ossa flūctibus agitāta scopulīs inhaesērunt. Unde
+Scīrōnia saxa ab ēius nōmine sunt appellāta."
+
+Quā nārrātā fābulā, māter cum patrem nōn
+adesse animadvertisset, versa ad mē "Abī, Lūcī,"
+inquit, "ad patrem, quī epistulās in tablīnō scrībit,
+et cōnāre eī persuādēre ut ad nōs veniat." Ego
+igitur abitūrus "Nōlīte," inquam, "aliās nārrāre
+fābulās priusquam ego redeam." Patrem in tablīnō
+invēnī, cuī diū persuādēre cōnābar ut negōtia sua
+paulisper omītteret. "Statim," inquam, "venī, pater,
+priusquam aliam nārrent fābulam." Quō dictō, eī
+persuāsum est ut ad nōs venīret. Quae iam nārrāta
+essent māter eī breviter exposuit. Avunculum
+fābulam hūiusmodī nārrāvisse dīxit. Scīrōnem latrōnem
+īnfāmem esse quī regiōnem inter Megaram et
+Atticam īnfēstam redderet. Solēre hunc ad mare
+locō praeruptō sedēre; deinde sī quis appropinquāvisset
+viātor cōgere eum sibi pedēs lavāre atque
+in mare praecipitāre. Quem Thēseum, dum iter facit,
+saxō residentem vīdisse. Quō vīsō statim quae
+audīvisset in memoriam revocāvisse. Itaque Thēseum
+ā tergō appropinquantem Scīrōnem ex imprōvīsō
+aggrēssum parī lētō in mare dēiēcisse.
+
+Quibus expositīs et patrī persuāsimus ut aliquid
+nārrāret. Nec mora erat, sed ille statim "Nesciō,"
+inquit, "an possim; audīte tamen et quantum
+possum faciam." Cuī māter, "Fēstīnā modo," inquit,
+"nam Lūcius nōn prius volt cubitum abīre quam
+aliam audiat fābulam, et secunda iam adest vigilia."
+Pater igitur hunc in modum perrēxit.
+
+_Nīsus_.
+
+"Līber, cum in Indiam exercitum ductūrus esset,
+Nīsō nūtrīciō suō, dum ipse redīret, rēgnī Thēbānī
+potestātem trādidit. Sed postquam inde reversus
+est, Nīsus rēgnō cēdere nōluit. Itaque Līber, quippe
+quī cum nūtrīciō contendere nōllet, passus est eum
+rēgnum obtinēre dum occāsiō sibi rēgnī occupandī
+darētur. In grātiam igitur cum eō rediit, et post
+tertium annum ut rēgnō eum prīvāret hōc iniit
+cōnsilium. Cum sacra quaedam sē factūrum esse
+simulāvisset, mīlitēs muliebrī ōrnātū tamquam
+Bacchās intrōdūxit, quī Nīsum sē rēgnō abdicāre
+coēgērunt."
+
+Quibus nārrātīs māter statim mihi ut cubitum
+abīrem persuādēre est cōnāta, cuī ego "Sine mē,"
+inquam, "māter, dōnec aliam audiam fābulam
+manēre." Sed nūllō modō eī persuāsum est ut
+veniam mihi daret. Dum autem cōnor, ūnus ex
+convīvīs rogāvit cūr in lectīs adhibērentur asellōrum
+capita, quī negantibus sē scīre haec exposuit:—
+
+_Cūr in lectīs sunt asellōrum capita._
+
+"Ōlim asellus quīdam erat quī vītem in prātō inventam
+gustābat. Suāvitāte dēlectātus hanc edēbat;
+āc vītis palmite abrōsō in māius crēscēbat et multō
+ferācior reddita est. Ūvas dēnique prōcreāvit quās
+pāstōrēs invēnērunt, vīnumque fēcērunt. Quāpropter
+Rōmānī, quod asellus eōs vītēs amputāre docuit, in
+triclīniōrum fulcrīs capita asellōrum vīte alligāta
+habent."
+
+Quibus audītīs ego cubitum abīvī. Ut placet
+mihi tālēs audīre fābulās! Numquam iterum, ut
+putō, aliās tam ēgregiās sum audītūrus dōnec proximus
+mihi aderit diēs nātālis. Sed cum proximus aderit
+annus nōn iam fortāsse Romae erimus.
+
+EXERCITĀTIŌNĒS—I
+(Adde partēs vocābulōrum omīssās.)
+
+EXPERGĪSCOR.
+i. Servus mihi imperat ut surg—.
+ii. Servus mihi imperat ut tunicam quaer—.
+iii. Pater fīliō imperat ut tac—.
+iiii. Pater fīliō imperāv— ut tac—.
+v. Imperābō servō ut ven—.
+vi. Imperābās serv— ut venīrent.
+vii. Imperāv— pater frātrī me— ut ad lūd— proficīsc—.
+viii. Ille mihi imperat nē in vi— mor—.
+viiii. Pater īrāt— Dāv— ad sē ven— iub—.
+x. Agricola uxōr— imperāv— ut cultrum sibi dar—.
+xi. Servīs imperat ut bovem ad macell— port—.
+xii. Dāvō imperāvit ut ad culīn— red—.
+xiii. Māt— mihi nē digitōs rōd— imperat.
+xiiii. Frātr— imperāvit māter nē crepundia in ōs īnser—.
+xv. Imperāvī tibi nē digitōs mord—
+xvi. Ego ut mātr— oboed— tibi herī imperāv—.
+xvii. Pater mē ad cubiculum abī— iubet.
+
+POĒTA.
+i. Ut recit— carmen ad tē veniō.
+ii. Ut recit— carmina ad tē vēnī.
+iii. Ut mē recre— cōnsīdō.
+iiii. In thermās fugit nē poētae obvius fī—.
+v. In thermās fūgit nē poētae obvius fi—.
+vi. Magister puerō imperāb— ut Graecōs scrīptōrēs perlegat.
+vii. Tabul— pīctam spectābāmus ut habitum mīlit— vid—.
+
+MĪLES.
+i. Gregār— mīles ita appellāt— quia ūn— est ex grege mīlit—.
+ii. Ut in pūgnā serv— ferēbat scūtum.
+iii. Brācās habēbat nē crūr— volner—.
+iiii. Pīlum habēbat ut in hostēs cōnic—.
+v. Nōnnūllī sagittās habēbant ut ēmītt—.
+vi. Iūssa d— mīlitibus dat ut omnia ōrdin— ag—.
+
+CĒNA.
+i. Cottīdiē ferē dom— apud nōs convīvae ven—.
+ii. Convīv— pater ita dispōn—.
+iii. Ut in summ— lectō accumb— rogat Semprōni— frātrēsque ēius.
+iiii. Tum serv— cuīdam imperat ut gust— appōn—.
+v. Ōvīs ali—que ēsc— initi— cēnae vescimur.
+vi. Deinde per rēct— cēn— ūsque ad mēns— secund— prōcēdimus.
+vii. Ab ōv— ūsque ad māl—.
+viii. Quīdam ex convīv— patr— rogat ut mē voc—.
+viiii. Pater mē ōrāv— ut carm— recitār—.
+x. Ego omnēs precātus— ut mē attent— anim— audīr—.
+
+CANIS.
+(i)
+i. Quō in libr— erat canis pīctūra?
+ii. Dīc mihi quāl— in hōc librō animal sit.
+iii. Vidēsne can— qu— car— ōre tenet?
+iiii. Dīc mihi quālis sit car—.
+v. Ut ā lani— effugiat pon— trānsit.
+vi. Ut lan— vīt— pontem trānsiit.
+vii. Nūllus can— quid sit imāg— intellegere pot—.
+viii. Apertūrus est ōs ut imāg— rapi—.
+viiii. Carō bovis būbul— nōmināt— est.
+x. Nōn carō erat in aqu— sed imāg—.
+(ii)
+i. Ut mihi placet hūiusmodī legere libr— !
+ii. Iūcundiōrēs sunt quam grammatic— ist— qu— in lūd— recitāmus.
+iii. Ut sapi— fīam pater ut lūd— frequent— mihi imperat.
+iiii. Lūdī magister omnibus ut librīs— et stil—
+ incumb— imperat.
+v. Magister mihi imperāv— nē stult— mē praestārem.
+vi. Māter mihi ut ad lūd— eam imper—.
+vii. Pater imperat ut mātr— pāre—.
+viii. Lūdī magister mē oper— libr— dare iubet.
+viiii. Ut sapientēs fīam— necesse est studēre.
+x. Cūr nōn nāt— essēmus sapientēs magistr— rogāvī.
+
+LŪDUS.
+i. Lūdum frequentāre mihi molest— est.
+ii. Ut amīc— mihi concili— necesse est ad lūd— īre.
+iii. Quālēs sint discipul— scīre vīs.
+iiii. Ante cēn— timet nē parum sit cib—.
+v. Semper timet nē quid mal— accid—.
+vi. Nē māter sibi veni— nōn daret timēbat.
+vii. Interdum magister fābul— nōbīs nārrat.
+viii. Vīsne scīre quāl— sint?
+viiii. Ūn— tibi nārrābō.
+x. Anim— attende ut intelleg—.
+
+FABULA DĒ ANŪ.
+(i)
+i. Magistr— docent— oportet discipulōs tacēre.
+ii. Assibus invent— anus ad macell— profect— est.
+iii. Porculō empt— dom— redībat.
+iiii. Ferulā recūsant— īgn— ōrāvit ut ferul— ūrer—.
+v. Īgnī recūsant— aqu— imperāvit ut ignem exstingu—.
+vi. "Sī aliquantulum faen— mihi ded— ego lac tibi dabō."
+vii. "Sī aqu— in crībrō mihi adport— faenum tibi dabō."
+viii. Aquā accept— homō faenum dedit.
+viiii. Lacte exhaust— fēlēs mūr— edere incēpit.
+x. Capite percuss— taur— incēpit aqu— bibere.
+(ii)
+i. Quibus fact— aqu— īgnem exstinguere incēpit.
+ii. Canis ferulā verberāt— perculum mordēre incēpit.
+iii. "Si pēns— bene fēc— fābulam vōbīs nārrābō."
+iiii. Herī magist— conclāve intrāv—.
+v. Cum intrāv— discipui— spectāvit.
+vi. Ubi discipulōs spectāv— crēt— sustulit.
+vii. Cum sublāt— esset crēta carm— scrīpsit.
+viii. Postquam carmen scrī— discipulōs recitāre iūssit.
+viiii. Discipulī iūss— carmen recitāv—.
+x. Discipulīs dīmīss— magist— prandium ēdit.
+
+LECTĪCĀRIUS.
+(i)
+i. Lectīcārius ā terg— appropinquāns caput me— assere percussit.
+ii. Petas— aliquid dē vī ict— remīsit.
+iii. Nisi petas— habuissem omnīnō mē interfēc—.
+iiii. Sī modo eum appropinqu— vīdissem dē vi— eī dēcēss—.
+v. Sī modo "Cavē" clāmāv— idem fēcissem.
+vi. Sī mē interfēc— comprehēnsus esset ut sīcāri—.
+vii. Sī in vincul— iactus esset inter sīcāri— accūsātus esset.
+viii. Sī accūsātus esset cap— esset damnātus.
+viiii. Caput me— tumōr— māgn— fīēbat tumidum.
+x. Sī modo baculum hab— tē nunc caederem.
+(ii)
+i. Sī pater adesset āct— esset dē pelle tu—, fūrcifer!
+ii. Iterum tē percut— nisi puerul— modo essēs.
+iii. Hominem qu— in lectīcā vehēbātur āgnōvī.
+iiii. Domum revers— magistrum cum patr— loquen— invēnī.
+v. Timēbam nē quid ego lectīcār— dīc— audīvisset.
+vi. Diū quam ob rem apud nōs vēn— mīrābar.
+vii. Pater mihi ut ad sē in tablīn— īr— imperāvit.
+viii. Valvīs apertīs magistrum rīdent— vīdī.
+viiii. Omnī timōre dēposit— tablīn— intrāvī.
+x. Vix aur— meīs crēdēre potuī.
+(iii)
+i. Etiam sī lūdum aestāt— frequentārem nihil discere poss—.
+ii. Aestāt— puerī sī valent satis disc—.
+iii. Sī qua ali— urbs est īnsalūbr— Rōma.
+iiii. Nēmō Rōm— manet nisi urbān— cōgunt officia.
+v. Omnēs sī modo officia sin— ad vīll— sē reciperent.
+vi. Ultimō ann— tempestās ita erat rabid— ut
+omnēs tōtum di— in lectulis ōtiōs— requiēscerent.
+vii. Sī Mārtiālis eōs modo comput— ann— per
+qu— valēbat etiam nunc īnfāns esset.
+viii. Cornēlius lūd— in Octōbrēs Īd— dīmīsit.
+viiii. Quibus aud— quam māximē gaudeō.
+x. Tant— est ārdor sōl— ut nēmō lītterās possit discere.
+
+ITER.
+(i)
+i. Māne experrēct— cum patr— ad forum īvī raed— condūcendae causā.
+ii. Ad dēversōrium pervēnimus ubi omni— ex raed— dēscenden— erat.
+iii. Tam avidē edēbam ut pater hīs verb— mē reprehendere incēp—.
+iiii. Nōnne saepenumerō tibi imperāvī nē avid— in edend— tē praestēs?
+v. Prūdentissi— quisque vīvend— causā edit.
+vi. Iterum in raed— nōbis est ascendend—.
+vii. In itinere faciend— ut sunt multa cūrand— !
+viii. Nē nimis impedīment— raed— impōnāmus prōvidend— est.
+viiii. Ungulae equ— spectand— sunt nē lapidēs inhaeserint.
+x. Sī minus impedīment— adportārēs celer— īre poss—.
+(ii)
+i. Num colōniae dēdūcend— causā iter facis?
+ii. Quibus audīt— Cornēli— rīsit et facēti— hominis laudāvit.
+iii. Pater et raedāri— paulisper inter sē collocūt—
+ad dēversōrium redīre cōnstituērunt.
+iiii. Itaque Cornēliō comitant— hī duo revers— sunt.
+v. Septem vel octō calcul— in manum collēctōs in āër— iaciēbam.
+vi. Dum cadunt quam plūrim— manū revers— excipere cōnor.
+vii. Tam celeriter ad dēversōri— contendēbāmus ut
+rota dext— celerrim— cursū agitāta ab āxe
+sē līberāverit.
+viii. Nihil damn— accēpimus nisi quod rot— refīxa
+iterum nōbīs erat affīgend—.
+iiii. Cūius rotae affīgend— causā diū sumus morāt—.
+x. Nisi Iūppiter nōs serv— omnīnō essēmus interfect—.
+(iii)
+i. Vereor nē calcul— ungul— inhaereat.
+ii. Hunc nisi extrāx— equus omnīnō claud— esset factus.
+iii. Tandem ad vīll— ad qu— contendēbāmus tūt— pervēnimus.
+iiii. Proxim— diē māne in agr— vagātus sum.
+v. Vīlicum arātrum fingen— vīdī.
+vi. Ut pān— suppetat nōbīs segetēs sunt serend—.
+vii. Ad agrōs arand— hōc īnstrūmentum mihi faciend— est.
+viii. Ut in prandiō edend— gaudēbam!
+viiii. Pater rēbus perfect— ad aquās perficiend—
+profect— est Rōmam rediit.
+x. Mēnse Octōbrī appropinquant— mē quoque ad
+urb— revocāvit ut ad lūd— red—.
+
+ITERUM DĒ LŪDŌ NĀRRŌ.
+(i)
+i. Putō Decim— rīdēre.
+ii. Putō omnēs rīs—.
+iii. Putō mē rīsūr— esse.
+iiii. Putō omnēs rīsūr— esse.
+v. Putō puellās rīsūr— esse.
+vi. Putant mīlit— interficī.
+vii. Putābant mīlitem interfect— esse.
+viii. Putābant omnēs interfect— esse.
+viiii. Putābant fēminās interfect— esse.
+x. Putāvit mīlit— interfectum īrī.
+(ii)
+i. Sext— magistrum īrācund— esse dīcit.
+ii. Sextus magistr— discipul— male docuisse dīcit.
+iii. Discipul— magistrum praemium sibi datūr— esse dīcit.
+iiii. Putō eōs praemium nōbīs datūr— esse.
+v. Prō certō habēmus fēmin— iūs suffrāgiī sibi vindicātūrās esse.
+vi. Sextus sē bon— esse discipulum putat.
+vii. Magist— aliōs pessim— esse discipul— putat.
+viii. Puer mātr— suam sibi crūstula datūr— esse arbitrātur.
+viiii. Nōn putō vōs stult— esse discipulōs.
+x. Magist— mē stult— esse dīcit.
+(iii)
+i. Omnēs parentēs suōs līber— optim— esse arbitrantur.
+ii. Convīv— cēnam bon— esse putant.
+iii. Lanius can— carnem abstulisse dīcit.
+iiii. Mīles sē victūr— esse arbitrātur.
+v. Discipulī sē sapientēs futūr— esse putant.
+vi. Puellae sē praemium acceptūr— esse dīcunt.
+vii. Prō certō habeō carnem ablāt— esse.
+viii. Putāmus fūnem ā mūribus rōs— esse.
+viiii. Negō vaccās ā laniō interfect— esse.
+x. Magister putat puer— optimōs esse.
+
+ROGĀTOR.
+i. Pater mē rogāvit num prōverbium su— intelleger—.
+ii. Pater raedāri— rogat cūr cursum nōn acceler—.
+iii. Raedārius patr— rogāvit cūr tot impedīmenta adport—.
+iiii. Ego patr— rogāvī cūr tam diū āfu—.
+v. Deinde patr— rogāvī num laesus—.
+vi. Pater raedārium rogat quam ob rem equus claudic—.
+vii. Vīlic— rogāvī quid fing—.
+viii. Puer magistr— rogat quandō nōs iterum fēri— āctūrī—.
+viiii. Māt— servum rogāvit quid ēg—.
+x. Magister puer— rogat quid āctūrī—.
+
+PATRIS ŌRĀTIŌ APUD TRIBUNAL PRAETŌRIS HABITA.
+i. Reus fūrt— erat accūsāt—.
+ii. Praetor togā praetext— amict— in sellā curūl— sedēbat.
+iii. Iūdicēs reum ante ocul— pallen— sūdan— vīdērunt.
+iiii. Genae eī exsangu— fīēbant.
+v. Omnia ē tēst— dīligenter quaesīvī.
+vi. Argentum caelāt— fūr in saccum qu— sēcum adportāverat immīsit.
+vii. Nihil eum impediēbat quīn tūt— ēvāderet.
+viii. Quippe quī ex vent— labōr— medicum quaesīvī.
+viiii. Tēstimōniō dat— pater me— assurrēxit.
+x. Patrem posteā rogāvī utrum iūdic— fūr— damnāv— necne.
+
+SCĪRŌN.
+i. Scīrōn latrō īnfām— erat qu— regiōnem inter
+Megaram et Atticam īnfēst— reddēbat.
+ii. Sī qu— appropinquāverat viātor eum cōgēbat sib— ped— lavāre.
+iii. Hunc Thēseus dum it— facit saxō resid— cōnspexit.
+iiii. Scīrōnem parī lēt— in mar— dēiēcit.
+v. Ēius ossa flūctibus agitāt— scopul— inhaesērunt.
+vi. "Nōlīte aliās nārrāre fābul— priusquam ego red—."
+vii. Patr— persuādēre cōnābar ut ad nōs ven—.
+viii. "Nesciō an fābul— nārrāre poss—."
+viiii. Māter patr— imperāvit ut fēstīn—.
+x. "Lūcius nōn prius cubit— abīre volt quam aliam audi— fābul—."
+
+NĪSUS.
+i. Līber cum in Indiam exercit— ductūr— esset,
+Nīsō nūtrīci— suō dum ipse red— rēgnī Thēbān— potestāt— trādidit.
+ii. Postquam Līber revers— est, Nīsus rēgn— cēdere nōluit.
+iii. Līber passus est eum rēgnum obtin— dum
+occāsiō sibi rēgnī occupan— dar—.
+iiii. In grāt— cum eō rediit.
+v. Ut rēgn— eum prīvār— hōc iniit cōnsilium.
+vi. Cum sacra quaedam sē factūr— esse simulāv—
+mīlitēs muliebr— ōrnātū tamquam Bacchās intrōdūxit.
+vii. Mīlitēs Nīs— sē rēgn— abdicāre coēgērunt.
+viii. Sine mē dōnec ali— audi— fābulam manēre.
+viiii. Unus ex convīv— rogāvit cūr in lectīs adhib— asellōrum capita.
+x. Vītis palmite abrōs— mult— ferācior reddit— est.
+
+EXERCITĀTIŌNĒS—II
+
+EXPERGĪSCOR.
+i. Quid mihi imperat servus?
+ii. Quid servō imperō?
+iii. Quid semper imperat mihi māter?
+iiii. Quid imperāvit mihi Dāvus?
+v. Quōmodo tunicam īnspicit māter?
+vi. Quō in locō lītterās discimus?
+vii. Quem iubet māter mēcum ad lūdum īre?
+viii. Quid māter servōs iubet?
+viiii. Agricola uxōrī quid imperat?
+x. Quid ego laniō imperō ? Quid imperāvī?
+xi. Quid mihi imperāvit coquus?
+xii. Quid frāterculō crepundia in ōs īnserentī imperāvī?
+
+POĒTA.
+i. Quō prōgrēssus est pater?
+ii. Quis accurrit?
+iii. Cūr ad patrem venit?
+iiii. Quō cōnsiliō "Nōn vacō" respondet pater?
+v. Quō cōnsiliō ad porticum pater recēssit?
+vi. Quō cōnsiliō aderat poēta?
+
+MĪLES.
+(i)
+i. Cūr "gregārius" ita appellātur?
+ii. Quid fert? Quid aliud?
+iii. Quō cōnsiliō haec fert?
+iiii. Quid manū tenet?
+v. Cūr ex equō pūgnant nōnnūllī?
+vi. Cūr dux iūssa dat mīlitibus?
+vii. Quid ante pūgnam mīlitibus solet imperāre?
+(ii)
+Verte in tempus imperfectum:—
+i. Mīles scūtum fert ut in pūgnā servētur.
+ii. Lōrīcam habet quae pectus prōtegat.
+iii. Gladium habet ut comminus pūgnet.
+iiii. Ex equō pūgnant equitēs ut victōs persequantur.
+v. Iūssa dux dat ut omnia ōrdine agantur.
+vi. Imperat omnibus ut summā virtūte dēcertent.
+
+CĒNA.
+i. Cūr apud nōs convīvae veniunt?
+ii. Quid Semprōnium frātrēsque ēius rogat pater?
+iii. Quōs ōrat ut in mediō lectō accumbant?
+iiii. Quid reliquōs ōrāvit?
+v. Quid servō imperāvit?
+vi. Cūr gustum edimus?
+vii. Quid sīgnificat prōverbium "Ab ōvō usque ad mālum"?
+viii. Quid ōrāvit quīdam ex convīvīs?
+viiii. Quid mē ōrat pater?
+x. Quid ego convīvās precor?
+
+CANIS.
+(i)
+Verte in tempus perfectum:—
+i. Scīsne quālis sit carō?
+ii. Scīsne quid canis agat?
+iii. Intellegisne cūr pontem trānseat?
+iiii. Rogō cūr canis fugiat.
+v. Quid sit imāgō nūllus canis intellegit.
+Verte in tempus praesēns:—
+i. Quō ferret pōns omnīnō nesciēbat.
+ii. Quid in aquā esset nōn intellēxit.
+iii. Cūr tam stultus esset canis nēmō intellegēbat.
+iiii. Cūr ōs apertūrus esset omnēs sciēbant.
+v. Quid ageret canis iam nārrāvī.
+(ii)
+Verte in tempus perfectum:—
+i. Cūr necesse sit tālēs legere librōs nesciō.
+ii. Pater ut lūdum frequentem mihi imperat.
+iii. Magister omnibus ut librīs et stilō incumbant imperat.
+iiii. Cūr tantam necesse sit operam dare nēmō mihi dīcere potest.
+v. Quōmodo rēs sē habeant nesciō.
+Verte in tempus praesēns:—
+i. Magistrum quam ob rem sapientēs nōn nātī essēmus rogāvī.
+ii. Ille mihi imperāvit nē stultum mē praestarem.
+iii. Cūr hunc in modum respondisset nesciēbam.
+iiii. Cūr necesse esset in tempus praesēns hās sententiās vertere nesciēbam.
+v. Lūdī magister mē operam librīs dare iūssit.
+
+LŪDUS.
+(i)
+Verte in tempus perfectum:—
+i. Quam molestum mihi sit lūdum frequentāre
+ nēmō nisi puer intellegere potest.
+ii. Ut amīcōs mihi conciliem necesse est ad lūdum īre.
+iii. Quot in lūdō nostrō sint discipulī nōn nārrō.
+iiii. Quālēs sint discipulī scīre volō.
+v. Rogāsne cūr Timidus appellātus sit discipulus?
+vi. Māne timet nē pluat.
+vii. Timet nē magister pūniat.
+viii. Timet nē cadat.
+viiii. Timet nē parum sit cibī.
+x. Semper timet nē quid malī accidat.
+(ii)
+Verte in tempus praesēns:—
+i. Herī timēbat nē pēnsum recitāre nōn posset.
+ii. Nē māter sibi veniam nōn daret timēbat.
+iii. Timēbat nē magister pūnīret.
+iiii. Omnēs timēbant nē caderent.
+v. Puerī timuērunt nē magister īrāscerētur.
+vi. Canis timuit nē ā laniō caperētur.
+vii. Lanius timuit nē canis carnem auferret.
+viii. Timuī nē sērus ad lūdum venīrem.
+viiii. Timuit nē magister sē ferulā percuteret.
+x. Timuimus nē pēnsa facere nōn possēmus.
+
+FABULA DĒ ANU.
+(i)
+Verte in tempus praesēns:—
+i. Anus ad macellum ut perculum emeret profecta est.
+ii. Canem ōrāvit ut perculum mordēret.
+iii. Ferulam ōrāvit ut canem percuteret.
+iiii. Īgnem ōrāvit ut ferulam ūreret.
+v. Aquae imperāvit ut īgnem exstingueret.
+vi. Taurum ōrāvit ut aquam biberet.
+vii. Lanium ōrāvit ut taurum interficeret.
+viii. Fūnem ōrāvit ut lanium suspenderet.
+viiii. Mūrem ōrāvit ut fūnem rōderet.
+x. Fēlem ōrāvit ut mūrem ederet.
+(ii)
+Scrībe aliter:—
+i. Cum magister discipulōs spectāvisset crētam sustulit.
+ii. Cum sublāta esset crēta carmen in tabulā scrīpsit.
+iii. Carmine scrīptō discipulōs recitāre iūssit.
+iiii. Postquam discipulī carmen recitāvērunt magister duās nārrāvit fābulās.
+v. Quās ubi nārrāvit fābulās discipulōs dīmīsit.
+vi. Discipulīs dīmīssīs ipse prandium ēdit.
+vii. Prandiō comēsō dormītum iit.
+viii. Iānuā apertā discipulī ēgrēssī sunt.
+viiii. Porculō emptō anus domum redībat.
+x. Assibus inventīs anus ad macellum profecta est.
+(iii)
+Scrībe aliter:—
+i.Cane recūsante ferulam ōrāvit ut canem percuteret.
+ii. Aquā acceptā homō faenum dedit.
+iii. Faenō comēsō vacca lac dedit.
+iiii. Lacte exhaustō fēlēs murem edere incēpit.
+v. Caudā morsā mūs incēpit fūnem rōdere.
+vi. Iugulō compressō lanius incēpit taurum interficere.
+vii. Capite percussō taurus incēpit aquam bibere.
+viii. Quibus factīs aqua īgnem exstinguere incēpit.
+viiii. Aquā sparsā īgnis ferulam ūrere incēpit.
+x. Fabulā nārrātā artem grammaticam discimus.
+
+LECTĪCĀRIUS.
+(i)
+i. Quid mihi accidisset nisi petasum habuissem?
+ii. Quid fēcissem sī lectīcārium appropinquantem vīdissem?
+iii. Quid fēcisset ille sī mē vehementius percussisset?
+iiii. Sī hōc fēcisset quid eī accidisset?
+v. Sī hōc accidisset quid aliud passus esset?
+vi. Sī pater adfuisset quid fēcisset?
+vii. Sī adultus essem quid ego nunc facerem?
+viii. Nisi puerulus essem quid faceret lectīcārius?
+viiii. Homine in lectīcā āgnitō quid fēcī?
+x. Quid timēbam?
+(ii)
+i. Quid timēbam cum magistrum cum patre loquentem invēnissem ?
+ii. Quid diū frūstrā mīrābar?
+iii. Quid Dāvus mihi imperāvit?
+iiii. Quid iterum timuī?
+v. Cūr tablīnum intrāvī?
+vi. Valvīs apertīs quid vīdī?
+vii. Cūr patrem vīsit Cornēlius?
+viii. Quid pater Cornēlium est precātus?
+viiii. Quid ego magistrum rogāvī?
+x. Quid mihi imperāvit pater?
+(iii)
+Verte in tempus perfectum:—
+i. Tantā vī sōl aestāte ārdet ut nihil discere possim.
+ii. Adeō est īnsalūbris Rōma ut lūdī magistrī suōs
+quisque discipulōs in Īdūs Octōbrēs dīmīttant.
+iii. Ita grassantur febrēs ut dītissimus quisque aestāte in vīllās migret.
+iiii. Magister ita īrāscitur ut puerī timeant.
+v. Tam fessī sunt discipulī ut obdormīre velint.
+Verte in tempus praesēns:—
+i. Tempestās ita erat rabida ut omnēs tōtum diem
+in lectulīs requiēscerent.
+ii. Ita furēbat aestus ut neque lītterās discere neque ambulāre posset.
+iii. Pater ita veritus est nē in morbum inciderem ut mē sēcum rūs addūcere
+cōnstitueret.
+iiii. Tantam operam librīs dedī ut sapiēns sim factus.
+v. Tot mīlitēs vīdī ut eōs numerāre nōn possem.
+
+ITER.
+(i)
+Scrībe aliter:—
+i. Ad forum cum patre raedae condūcendae causā īvī.
+ii. Prīmā hōrā profectī sumus ut iter tempore perficerēmus.
+iii. Omnibus ex raedā dēscendendum erat edendī bibendīque causā.
+iiii. Ut vīvāmus edendum est.
+v. Stultissimus quisque edendī causā vīvit.
+vi. In itinere faciendō ut sunt multa cūranda!
+vii. Num colōniae dēdūcendae causā iter facis?
+viii. Ad dēversōrium redīre cōnstituērunt onera levandī causā.
+viiii. Lūdendī causā ē raedā dēscendī.
+x. Rotae affīgendae causā diū sumus morātī.
+(ii)
+Scrībe aliter:—
+i. Rūrsus nōbīs erat dēscendendum calculī extrahendī causā.
+ii. Ad agrōs arandōs arātrum faciendum est.
+iii. Multa legūmina nōs dēlectandī causā apposuit coquus.
+iiii. Pater mē ad urbem revocāvit ut ad lūdum redīrem.
+v. Apud nōs convīvae cēnātum veniunt.
+vi. Ut lanium vītāret canis pontem trānsgredī incēpit.
+vii. Ut imāginem rapiat ōs est apertūrus.
+viii. Ut amīcōs mihi conciliem necesse est ad lūdum eam.
+viiii. Ut porculum emeret anus ad macellum profecta est.
+x. Ut recitem librum aperiō.
+(iii)
+Verte in tempus perfectum:—
+i. Nē nimis impedīmentōrum raedae impōnāmus prōvidendum est.
+ii. Rotae sunt īnspiciendae nē quid damnī accēperint.
+iii. Timeō nē sērō adveniāmus.
+iiii. Vereor nē calculus ungulae inhaereat.
+v. Ut pānis suppetat nōbīs segetēs sunt serendae.
+Verte in tempus praesēns:—
+i. Nōnne saepenumerō tibi imperāvī nē avidum in edendō tē praestārēs?
+ii. Pater mihi ut in raedam iterum ascenderem imperāvit.
+iii. Tam celeriter contendēbāmus ut raeda nōs omnēs ad terram praecipitāverit.
+iiii. Pater raedārium rogāvit quae causa esset.
+v. Adeō fatīgātus eram ut statim cubitum īrem.
+
+ITERUM DĒ LŪDŌ NĀRRŌ.
+(i)
+Verte in ōrātiōnem oblīquam prīncipālī verbō "putō" ūsus:—
+i. Decimus rīdet.
+ii. Omnēs rīsērunt.
+iii. Rīdēbō.
+iiii. Mīles interficitur.
+v. Mīles interfectus est.
+vi. Mīles interficiētur.
+vii. Magister est īrācundus.
+viii. Magister discipulōs male docuit.
+viiii. Magister mihi praemium dabit.
+x. Bonus discipulus sum.
+(ii)
+Verte in ōrātiōnem oblīquam prīncipalī verbō "prō certō habēmus" ūsus:—
+i. Pessimī sunt aliī discipulī.
+ii. Māter nōbīs crūstula dabit.
+iii. Hanc cōnstructiōnem omnēs iam intellēxērunt.
+iiii. Vōs omnia iam intellegitis.
+v. Nōn stultī estis.
+vi. Magister errat.
+vii. Sapiēns erō.
+viii. Magister nōn omnia potest praedīcere.
+viiii. Canis est hōc animal.
+x. Canis carnem abstulit.
+(iii)
+Verte in ōrātiōnem oblīquam prīncipālī verbō "dīcō" vel "negō" ūsus:—
+i. Anus ad macellum proficīscitur.
+ii. Anus porcum ēmit.
+iii. Fēminae iūs suffrāgiī sibi vindicābunt.
+iiii. Nōs iūs suffragiī nōn dabimus.
+v. Lectīcārius caput meum percussit.
+vi. Pater poenās sūmet.
+vii. Discipulī librōs aperiunt.
+viii. Fēriae mox aderunt.
+viiii. Omnēs gaudēbimus.
+x. Pēnsum perfēcērunt.
+
+ROGĀTOR.
+Verte in tempus perfectum:—
+i. Puer magistrum rogat num bene pēnsum scrīpserit.
+ii. Magister puerum rogat num lūdat.
+iii. Discipulus rogat quandō fēriās rūrsus sīmus āctūrī.
+iiii. Māter mē rogat utrum frāterculum laeserim necne.
+v. Magister nōs rogat utrum intellegāmus necne.
+Verte in tempus praesēns:—
+i. Puer patrem rogāvit quid ageret.
+ii. Eum rogāvī quid ēgisset.
+iii. Voluimus scīre quid eī essent āctūrī.
+iiii. Condiscipulum meum num pēnsum perfēcisset rogāvī.
+v. Mātrem rogāvī quandō mihi praemium datūra esset.
+
+PATRIS ŌRĀTIŌ APUD TRIBŪNAL PRAETŌRIS HABITA.
+(i)
+i. Cūr ad tribūnal praetōris pater mē sēcum addūxit?
+ii. Cūius reī erat fūr accūsātus?
+iii. Cūr fūris aderat patrōnus?
+iiii. Quid praetor patrī meō imperāvit?
+v. Quālem pater dīxit esse accūsātum?
+vi. Quid timēbat reus?
+vii. Vīsā apertā fenestrā quid putāvit fūr?
+viii. Cūr tacitus per fenestram ingrēssus est?
+viiii. Quid tēstis dīxit sē factūrum esse?
+x. Cūr Mūcium quaerere cōnstituit?
+(ii)
+Verte in tempus praesēns:—
+i. Nōn dubitāvit quīn facile effugere posset.
+ii. Nōn dubium erat quīn omnēs iam dormīrent.
+iii. Nihil eī obstitit quīn argentum caelātum auferret.
+iiii. Nihil eum impediēbat quīn tūtus ēvāderet.
+v. Nōn dubitāvī quīn gravī morbō affectus moritūrus essem.
+Verte in tempus perfectum:—
+i. Nēmō dubitāre potest quīn hīc sceleris sibi cōnscius sit.
+ii. Nōn dubium est quīn valdē pertūrbētur.
+iii. Mihi quidem nōn dubium est quīn reus iam
+ ante oculōs carnificem cernere videātur.
+iiii. Nēmō dubitāre potest quīn tēstis vēra nārret.
+v. Quid iūdicibus obstat quōminus reum damnent?
+
+SCĪRŌN.
+i. Quis erat Scīrōn?
+ii. Ubi solēbat sedēre?
+iii. Quid viātōrēs facere cōgēbat?
+iiii. Quid fēcit Thēseus cum dē Scīrōne certior esset factus?
+v. Hāc fābulā nārrātā quid māter mē facere iūssit?
+vi. Quid ego aliōs ōrāvī?
+vii. Quid patrī persuāsī?
+Verte in ōrātiōnem oblīquam accēdente prīncipālī verbō _dīxit_:—
+viii. Librum habeō quem frāter mihi dedit.
+viiii. Haec est fābula quae mihi placet.
+x. Lūcius nōn prius volt cubitum abīre quam aliam audiat fābulam.
+
+NĪSUS.
+i. Cuī rēgnī potestātem trādidit Līber?
+ii. Quam diū rēgnum eī trādidit?
+iii. Postquam Līber reversus est quid nōluit facere Nīsus?
+iiii. Quamdiū igitur eum rēgnum obtinēre passus est Līber?
+v. Occāsiōnem nactus quid simulāvit?
+vi. Quid mīlitēs Nīsum facere coēgērunt?
+vii. Quid in prātō invēnit asellus?
+viii. Quid ēgērunt pāstōrēs?
+viiii. Cūr in triclīniōrum fulcrīs asinōrum capita adhibēmus?
+x. Quandō putāvī mē iterum tam ēgregiās auditūrum esse fābulās?
+
+
+ARS GRAMMATICA.
+     M.      F.      N.
+Nōm. bonus   bona    bonum
+Voc. bone    bona    bonum
+Acc. bonum   bonam   bonum
+Gen. bonī    bonae   bonī
+Dat. bonō    bonae   bonō
+Abl. bonō    bonā    bonō
+
+Nōm. bonī    bonae   bona
+Voc. bonī    bonae   bona
+Acc. bonōs   bonās   bona
+Gen. bonōrum bonārum bonōrum
+Dat. bonīs   bonīs   bonīs
+Abl. bonīs   bonīs   bonīs
+
+Secunda Dēclīnātiō.
+       M.        M.
+N.V.   puer      magister
+Acc.   puerum    magistrum
+Gen.   puerī     magistrī
+D.Abl. puerō     magistrō
+
+N.V.   puerī     magistrī
+Acc.   puerōs    magistrōs
+Gen.   puerōrum  magistrōrum
+D.Abl. puerīs    magistrīs
+
+       M.               M.                  M.
+Nōm.   fīlius           vir                 deus
+Voc.   fīlī             vir                 deus
+Acc.   fīlium           virum               deum
+Gen.   fīliī _vel_ fīlī virī                deī
+D.Abl. filiō            virō                deō
+
+N.V.   fīliī            virī                dī (deī)
+Acc.   fīliōs           virōs               deōs
+Gen.   fīliōrum         virōrum _vel_ virum deōrum _vel_ deum
+D.Abl. fīliīs           virīs               dīs (deīs)
+
+Tertia Dēclīnātiō.
+     M.         M.            N.
+N.V. iūdex      imber         crūs      mare
+Acc. iūdicem    imbrem        crūs      mare
+Gen. iūdicis    imbris        crūris    maris
+Dat. iūdicī     imbrī         crūrī     marī
+Abl. iūdice     imbrī, e      crūre     marī
+
+N.V. iūdicēs    imbrēs        crūra     maria
+Acc. iūdicēs    imbrīs, ēs    crūra     maria
+Gen. iūdicum    imbrium       crūrum    marium
+Dat. iūdicibus  imbribus      crūribus  maribus
+Abl. iūdicibus  imbribus      crūribus  maribus
+
+Quārta Dēclīnātiō.       Quīnta Dēclīnātiō.
+       M.                F.
+N.V.   currus            rēs
+Acc.   currum            rem
+Gen.   currūs            reī
+Dat.   curruī            reī
+Abl.   currū             rē
+
+N.V.A. currūs            rēs
+Gen.   curruum           rērum
+D.Abl. curribus          rēbus
+
+ADIECTĪVA.
+          M.        F.        N.
+Nōm.      niger     nigra     nigrum
+Voc.      niger     nigra     nigrum
+Acc.      nigrum    nigram    nigrum
+Gen.      nigrī     nigrae    nigrī
+Dat.      nigrō     nigrae    nigrō
+Abl.      nigrō     nigrā     nigrō
+
+N.V.      nigrī     nigrae    nigra
+Acc.      nigrōs    nigrās    nigra
+Gen.      nigrōrum  nigrārum  nigrōrum
+D.Abl.    nigrīs    nigrīs    nigrīs
+
+Similiter miser     misera    miserum
+          miserum   miseram   miserum
+
+       M. F.  N.     M. F.  N.
+N.V.   omnis  omne   omnēs  omnia
+Acc.   omnem  omne   omnēs  omnia
+Gen.       omnis       omnium
+D.Abl.     omnī        omnibus
+
+        M.     F.      N.
+N.V.   ācer    ācris   ācre
+Acc.   ācrem   ācrem   ācre
+Gen.   ācris   ācris   ācris
+D.Abl. ācrī    ācrī    ācrī
+
+N.V.A. ācrēs   ācrēs   ācria
+Gen.   ācrium  ācrium  ācrium
+D.Abl. acribus acribus ācribus
+
+      M.F.      N.          M. F.      N.
+N.V.  sapiēns   sapiēns    sapientēs sapientia
+Acc.  sapientem sapiēns    sapientēs sapientia
+Gen.       sapientis              sapientium
+D.Abl.     sapientī               sapientibus
+
+PRŌNŌMINA.
+     M.     F.     N.      M.        F.     N.
+Nōm. is     ea     id      eī (iī)   eae    ea
+Acc. eum    eam    id      eōs       eās    ea
+Gen. ēius   ēius   ēius    eōrum     eārum  eōrum
+Dat. eī     eī     eī      eīs (iīs) eīs    eīs
+Abl. eō     eā     eō      eīs (iīs) eīs    eīs
+
+Nōm. hīc    haec   hōc     hī        hae     haec
+Acc. hunc   hanc   hōc     hōs       hās     haec
+Gen. hūius  hūius  hūius   hōrum     hārum   hōrum
+Dat. huic   huic   huic    hīs       hīs     hīs
+Abl. hōc    hāc    hōc     hīs       hīs     hīs
+
+Nōm. ille   illa   illud   illī      illae   illa
+Acc. illum  illam  illud   illōs     illās   illa
+Gen. illīus illīus illīus  illōrum   illārum illōrum
+Dat. illī   illī   illī    illīs     illīs   illīs
+Abl. illō   illā   illō    illīs     illīs   illīs
+
+Nōm. quī    quae   quod     quī      quae    quae
+Acc. quem   quam   quod     quōs     quās    quae
+Gen. cūius  cūius  cūius    quōrum   quārum  quōrum
+Dat. cuī    cuī    cuī        quibus _vel_ quīs
+Abl. quō    quā    quō        quibus _vel_ quīs
+
+     M.        F.         N.
+Nōm. alter     altera     alterum
+Acc. alterum   alteram    alterum
+Gen. alterius  alterius   alterius
+Dat. alterī    alterī     alterī
+Abl. alterō    alterā     alterō
+
+Nōm. alterī    alterae    altera
+Acc. alterōs   alterās    altera
+Gen. alterōrum alterārum  alterōrum
+Dat. alterīs   alterīs    alterīs
+Abl. alterīs   alterīs    alterīs
+
+Nōm. īdem      eadem      idem
+Acc. eundem    eandem     idem
+Gen. ēiusdem   ēiusdem    ēiusdem
+Dat. eīdem     eīdem      eīdem
+Abl. eōdem     eādem      eōdem
+
+Nōm. eīde _vel_ īdem eaedem    eadem
+Acc. eōsdem          eāsdem    eadem
+Gen. eōrundem        eārundem  eōrundem
+Dat.            eīsdem _vel_ īsdem
+Abl.            eīsdem _vel_ īsdem
+
+     M.     F.     N.      M.      F.      N.
+Nōm. ipse   ipsa   ipsum   ipsī    ipsae   ipsa
+Acc. ipsum  ipsam  ipsum   ipsōs   ipsās   ipsa
+Gen. ipsīus ipsīus ipsīus  ipsōrum ipsārum ipsōrum
+Dat. ipsī   ipsī   ipsī    ipsīs   ipsīs   ipsīs
+Abl. ipsō   ipsā   ipsō    ipsīs   ipsīs   ipsīs
+
+Nōm. alius  alia   aliud   aliī    aliae   alia
+Acc. alium  aliam  aliud   aliōs   aliās   alia
+Gen. (alīus alīus  alīus)  aliōrum aliārum aliōrum
+Dat. aliī   aliī   aliī    aliīs   aliīs   aliīs
+Abl. aliō   aliā   aliō    aliīs   aliīs   aliīs
+
+VERBA.
+
+Tempus.     | Modus       | Modus                 | Modus
+            | Indicātīvus.| Subiūnctīvus.         | Imperātīvus.
+----------------------------------------------------------------------
+Praesēns.   | sum         | sim                   |
+            | es          | sīs                   | es, estō
+            | est         | sit                   | estō
+            | sumus       | sīmus                 |
+            | estis       | sītis                 | este, estōte
+            | sunt        | sint                  | suntō
+----------------------------------------------------------------------
+Futūrum.    | erō         |                       |
+            | eris        |                       |
+            | erit        |                       | Modus Īnfīnītīvus.
+            | erimus      |                       |
+            | eritis      |                       | Praesēns.
+            | erunt       |                       | esse
+---------------------------------------------------
+Imperfectum | eram        | essem _vel_ forem     | Perfectum.
+            | erās        | essēs _vel_ forēs     | fuisse
+            | erat        | esset _vel_ foret     |
+            | erāmus      | essēmus               | Futūrum.
+            | erātis      | essētis               | futūrus esse _vel_ fore
+            | erant       | essent _vel_ forent   |
+--------------------------------------------------- Participium futūrum.
+Perfectum   | fuī         | fuerim                | futūrus
+            | fuistī      | fueris                |
+            | fuit        | fuerit                |
+            | fuimus      | fuerimus              |
+            | fuistis     | fueritis              |
+            | fuērunt     | fuerint               |
+---------------------------------------------------
+Futūrum et  | fuerō       |                       |
+Perfectum   | fueris      |                       |
+            | fuerit      |                       |
+            | fuerimus    |                       |
+            | fueritis    |                       |
+            | fuerint     |                       |
+---------------------------------------------------
+Plūs quam   | fueram      | fuissem               |
+Perfectum   | fuerās      | fuissēs               |
+            | fuerat      | fuisset               |
+            | fuerāmus    | fuissēmus             |
+            | fuerātis    | fuissētis             |
+            | fuerant     | fuissent              |
+---------------------------------------------------
+
+Cōniugātiō Prīma.
+
+Tempus.     | Modus       | Modus                 | Modus
+            | Indicātīvus.| Subiūnctīvus.         | Imperātīvus.
+----------------------------------------------------------------------
+Praesēns.   | amō         | amem (+)              |
+            | amās        | amēs                  | amā, amātō
+            | amat        | amet                  | amātō
+            | amāmus      | amēmus                |
+            | amātis      | amētis                | amāte, amātōte
+            | amant       | ament                 | amantō
+----------------------------------------------------------------------
+  (+) in secundā Cōniugātiōne. -eam, -eās, -eat
+----------------------------------------------------------------------
+Futūrum.    | amābō       |                       |
+            | amābis      |                       |
+            | amābit      |                       | Modus Īnfīnītīvus.
+            | amābimus    |                       |
+            | amābitis    |                       | Praesēns Tempus
+            | amābunt     |                       | amāre
+---------------------------------------------------
+Imperfectum.| amābam      | amārem                | Perfectum.
+            | amābās      | amārēs                | amāvisse.
+            | amābat      | amāret                |
+            | amābāmus    | amārēmus              | Futūrum.
+            | amābātis    | amārētis              | amātūrus esse
+            | amābant     | amārent               |
+---------------------------------------------------
+Perfectum.  | amāvī       | amāverim              | Gerundium.
+            | amāvistī    | amāveris              | N.Acc. amandum
+            | amāvit      | amāverit              | Gen.   amandī
+            | amāvimus    | amāverimus            | D.Abl. amandō
+            | amāvistis   | amāveritis            |
+            | amāvērunt   | amaverint             |
+---------------------------------------------------
+Futūrum et  | amāverō     |                       | Supīna.
+Perfectum   | amāveris    |                       | amātum
+            | amāverit    |                       | amātū
+            | amāverimus  |                       |
+            | amāveritis  |                       |
+            | amāverint   |                       |
+---------------------------------------------------
+Plūs quam   | amāveram    | amāvissem             | Participia.
+Perfectum   | amāverās    | amāvissēs             | Praesēns. amāns
+            | amāverat    | amāvisset             | Futūrum.  amātūrus
+            | amāverāmus  | amāvissēmus           |
+            | amāverātis  | amāvissētis           |
+            | amāverant   | amāvissent            |
+---------------------------------------------------
+
+Cōniugātiō secunda similis est prīmae, nisi quod in locō vōcālis a
+adhibētur e. Partēs prīncipālēs hūiusmodī sunt moneō, -ēre,
+monuī, monitum.
+
+Cōniugātiō Tertia.
+
+Tempus.     | Modus       | Modus                 | Modus
+            | Indicātīvus.| Subiūnctīvus.         | Imperātīvus.
+----------------------------------------------------------------------
+Praesēns.   | regō        | regam                 |
+            | regis       | regās                 | rege, regitō
+            | regit       | regāt                 | regitō
+            | regimus     | regāmus               |
+            | regitis     | regātis               | regite, regitōte
+            | regunt      | regant                | reguntō
+----------------------------------------------------------------------
+Futūrum.    | regam       |                       |
+            | regēs       |                       |
+            | reget       |                       | Modus Īnfīnītīvus.
+            | regēmus     |                       |
+            | regētis     |                       | Praesēns Tempus
+            | regent      |                       | regere
+---------------------------------------------------
+Imperfectum.| regēbam     | regerem               | Perfectum.
+            | regēbās     | regerēs               | rēxisse.
+            | regēbat     | regeret               |
+            | regēbāmus   | regerēmus             | Futūrum.
+            | regēbātis   | regerētis             | rēctūrus esse
+            | regēbant    | regerent              |
+---------------------------------------------------
+Perfectum.  | rēxī        | rēxerim               | Gerundium.
+            | rēxistī     | rēxeris               | N.Acc. regendum
+            | rēxit       | rēxerit               | Gen.   regendī
+            | rēximus     | rēxerimus             | D.Abl. regendō
+            | rēxistis    | rēxeritis             |
+            | rēxērunt    | rēxerint              |
+---------------------------------------------------
+Futūrum et  | rēxero      |                       | Supīna.
+Perfectum   | rēxeris     |                       | rēctum
+            | rēxerit     |                       | rēctū
+            | rēxerimus   |                       |
+            | rēxeritis   |                       |
+            | rēxerint    |                       |
+---------------------------------------------------
+Plūs quam   | rēxeram    | rēxissem               | Participia.
+Perfectum   | rēxerās    | rēxissēs               | Praesēns. regēns
+            | rēxerat    | rēxisset               | Futūrum.  rēctūrus
+            | rēxerāmus  | rēxissēmus             |
+            | rēxerātis  | rēxissētis             |
+            | rēxerant   | rēxissent              |
+---------------------------------------------------
+Cōniugātiō quārta similis est tertiae, nisi quod vōcālis prīncipālis
+est ī. Partēs principālēs hūiusmodī sunt: audiō, -īre, audīvī,
+audītum.
+
+Tabula Temporum.
+
+Praesēns                       AM-ō
+Futūrum                          -ābō
+Imperfectum                      -ābam
+Praesēns sub. modī               -em
+Imperātīvus                      -ā
+Gerundium                        -andum
+Partic. praesēns                 -āns
+-------------------------------------------
+Īnfīnītīvus praesēns           AMĀRE
+Imperfectum subiūnctīvī modī   AMĀRE-m
+-------------------------------------------
+Perfectum                      AMĀV-ī
+Perfectum et futūrum               -erō
+Plūs quam perfectum                -eram
+Modī Subiūnctīvī.
+Perfectum                          -erim
+Plūs quam perfectum                -issem
+Īnfīnītīvus perfectum              -isse
+-------------------------------------------
+Supīnum                        AMĀT-um
+Partic. Fut.                       -ūrus
+Īnfīn. Fut.                        -ūrus esse
+Vōx Passīva.
+Partic. Perf.                      -us
+Īnfīn.                             -us esse
+Perf. Indic.                       -us sum
+Fut. et. Perf. Indic.              -us erō
+Plūs quam Perf. Indic.             -us eram
+Perf. Sub.                         -us sim
+Plūs quam Perf. Sub.               -us essem
+-------------------------------------------
+Tempora aliārum cōniungātiōnum similī modō ā partibus prīncipālibus sunt
+ducta, nisi quod in modō indicātīvō tempus futūrum et -am, -ēs,-et,
+et in modō subiūnctīvō tempus prasēns est -am, -ās, -at.
+-------------------------------------------
+Tempora vōcis passīvae quae in hāc tabulā nōn
+sunt adhibita hunc in modum ā vōce āctīvā facile dūcēs.
+
+Sīngulāriter.     Vōx Āctīva.      Vōx Passīva.
+Prīma persōna     -ō _vel_ -m      -r
+Secunda persōna   -s               -ris (+)
+Tertia persōna    -t               -tur
+
+Plūrāliter.
+Prīma persōna     -mus             -mur
+Secunda persōna   -tis             -minī
+Tertia persōna    -nt              -ntur
+(+) -is in vōce āctīvā cōniugātiōnis tertiae fit -eris in vōce passīvā.
+
+Tempora quaedam quae nōn secundum rēgulās sunt ducta.
+-----------------------------------------------------
+eō, īre, īvī (iī), itum.
+Praesēns  | Futūrum  | Imperfectum
+eō        | ībō      | ībam
+īs        | ībis     | ībās
+it        | ībit     | ībat
+īmus      | ībimus   | ībāmus
+ītis      | ībitis   | ībātis
+eunt      | ībunt    | ībant
+
+Imperātīvus.
+ī, ītō
+ītō
+īte, ītōte
+euntō
+
+Gerundium.
+Nōm. Acc. eundum
+Gen.      eundī
+Dat. Abl. eundō
+
+Participium praesēns.
+iēns, euntis
+
+----------------------------------------
+volō, velle, voluī
+nōlō, nōlle, nōluī
+mālō, mālle, māluī
+
+Praesēns tempus indicātīvī modī.
+volō     nōlō       mālō
+vīs      nōnvīs     māvīs
+volt     nōnvolt    māvolt
+volumus  nōlumus    mālumus
+voltis   nōnvoltis  māvoltis
+volunt   nōlunt     mālunt
+
+Praesēns tempus subiūnctīvī modī.
+velim    nōlim    mālim
+velīs    nōlīs    mālīs
+velit    nōlit    mālit
+velīmus  nōlīmus  mālīmus
+velītis  nōlītis  mālītis
+velint   nōlint   malint
+
+----------------------------------------
+ferō, ferre, tulī, latum.
+Praesēns.
+ferō
+fers
+fert
+ferimus
+fertis
+ferunt
+
+-------------------------------------------------------
+possum, posse, potuī.
+             | Modus Indicātīvus   | Modus Subiūnctīvus
+Praesēns.    | possum              | possim
+             | potes               | possīs
+             | potest              | possit
+             | possumus            | possīmus
+             | potestis            | possītis
+             | possunt             | possint
+-------------------------------------------------------
+Futūrum.     | poterō              |
+             | poteris             |
+             | poterit             |
+             | poterimus           |
+             | poteritis           |
+             | poterunt            |
+-------------------------------------------------------
+Imperfectum. | poteram             | possem
+             | poterās             | possēs
+             | poterat             | posset
+             | poterāmus           | possēmus
+             | poterātis           | possētis
+             | poterant            | possent
+
+fīō, fierī, factus sum.
+
+Tempus.     | Modus       | Modus                 | Modus
+            | Indicātīvus | Subiūnctīvus.         | Imperātīvus.
+---------------------------------------------------------------
+Praesēns.   | fīō         | fīam                  |
+            | fīs         | fīās                  | Īnfīnītīvus.
+            | fit         | fīat                  |
+            |             | fīāmus                | Tempus Praesēns
+            |             | fīātis                | fierī
+            | fīunt       | fīant                 |
+--------------------------------------------------- Perfectum.
+Futūrum.    | fīam        |                       | factus esse
+            | fīes        |                       |
+            | fīet        |                       | Futūrum.
+            | fīēmus      |                       | factum īrī
+            | fīētis      |                       |
+            | fīent       |                       |
+--------------------------------------------------- Participium
+Imperfectum.| fīēbam      | fierim                | Perfectum.
+            | fīēbās      | fierēs                | factus
+            | fīēbat      | fieret                |
+            | fīēbāmus    | fierēmus              |
+            | fīēbātis    | fierētis              |
+            | fīēbant     | fierent               |
+---------------------------------------------------
+Perfectum.  | factus sum  | factus sim            |
+---------------------------------------------------
+
+
+INDEX VERBŌRUM
+Fīnximus puerōs iam didicisse haec verba: prōnōmina, prōnōminālia,
+praepositiōnēs, cōniūnctiōnēs, numerālia omnia.
+
+NŌMINA.
+
+Aestās, aetās, ager, amīcus, animal, animus, annus, aqua,
+arbor, auxilium, avis, bōs, caelum, canis, caput, carmen, cāsus,
+causa, cēna, color, comes, corpus, cūra, cūstōs, dēns, diēs, dominus,
+domus, dōnum, dux, equus, fābula, figūra, fīnis, flūmen, frāter,
+frūx, fuga, gaudium, genus, grātiae, herba, homō, hōra, iānua,
+īgnis, imperātor, ira, iter, iānua, iūdex, iuvenis, lapis, liber,
+līttera, locus, magister, manus, mare, māter, mēnsa, metallum,
+modus, mora, morbus, mors, mūrus, nāsus, negōtium, nōmen, nox,
+nummus, oculus, officium, opus, ōrdō, ōs (ōris), ōs (ossis), pānis,
+pars, pater, pectus, pecūnia, pellis, pēs, poēta, pōns, puer, rēs, rēx,
+rūs, sella, senex, sēnsus, servus, sōl, sonus, soror, spatium, speciēs,
+tabula, tempus, terra, timor, turba, umerus, unda, urbs, uxor,
+verbum, via, vir, vīs, vīrēs, virtūs, volnus, vōx.
+
+VERBA.
+
+Accipiō, adsum, afficiō, agō, ambulō, aperiō, ascendō, attinēre
+ad, audiō, bibō, cadō, caedō, capiō, cādō, cingō, claudō, cōgō, colō,
+cōnor, cōnsentiō, crēdo, crēscō, cūrō, currō, decet, dēcipiō, decorō,
+dēfendō, dēscendō, dēsistō, discō, doceō, doleō, dō, dūcō, edō,
+efficiō, emō, eō, faciō, ferō, fīō, fleō, fluō, frangō, fruor, fugiō,
+gaudeō, gerō, habeō, habitō, haereō, iaceō, iaciō, imperō, impōnō,
+incipiō, indūcō, induō, īnsum, intellegō, iungō, iubeō, laudō, legō,
+līberō, licet, loquor, lūdō, maneō, meminī, mīsceō, mīttō, mōnstrō,
+morior, moveō, nārrō, nāscor, nesciō, noceō, numerō, oportet, ōrnō,
+ōrō, pāreō, parō, pendō, perdō, persuādeō, petō, placeō, pōnō, poscō,
+possum, praebeō, premō, proficīscor, pūgnō, pulsō, putō, quatiō,
+rapiō, recitō, reddō, redeō, relinquō, reperiō, respondeō, rīdeō, rogō,
+scrībō, secō, sedeō, sīgnificō, sinō, soleō, spectō, spīrō, stō, surgō,
+taceō, taedet, tangō, tegō, teneō, tendō, timeō, tollō, trahō,
+ūtor, vehō, vēndō, veniō, vertō, videō, vincō, vīvō, vocō, volō
+(velle).
+
+ADIECTĪVA.
+Ācer, aptus, bonus, calidus, certus, clārus, contrārius, crūdēlis,
+dīgnus, dīves, dubius, dulcis, facilis, fēssus, grātus, gravis,
+honestus, humilis, inānis, īnsānus, īrātus, iūstus, levis, longus,
+māgnus, malus, medius, mīrus, miser, mollis, multus, niger,
+nōbilis, novus, parvus, plēnus, praesēns, pūblicus, pulcher,
+pūrus, rēctus, Rōmānus, ruber, sacer, saevus, sānus, sērus,
+similis, stultus, summus, tacitus, tālis, tūtus, validus, varius,
+vērus.
+
+ADVERBIA.
+Anteā, bene, breviter, celeriter, certē, cūr, deinde, diū,
+dīligenter, ferē, forte, fortāsse, herī, igitur, interdum, intus,
+iterum, ita, longē, male, māne, nimis, nunquam, nunc, ōlim,
+omnīnō, paene, plērumque, posteā, repente, retrō, semper, sērō,
+saepe, tandem, valdē, vix, ūsque.
+
+abdicō, -āre; _aliqua rē sē abdicāre_ = aliquam rem omīttere, dēpōnere,
+cēdere ab aliquā rē.
+
+abeō, -īre, -īvī (-iī), -itum; ex hōc locō in alium eō.
+
+abripiō, -ere, -ripuī, -reptum; ab aliquō rapiō.
+
+abrōdō, -ere, -sī, -sum; ab aliquā rē rōdō.
+
+abscīdō, -ere, -cīdī, -cīsum; ab aliquā rē secō.
+
+abstineō, -ere, abstinuī, abstentum; ā cibō mē abstineō sī nōn edō.
+
+abstrahō, -ere, -trāxī, -tractum; ab aliquō trahō.
+
+absum, -esse, āfuī; nōn adsum.
+
+accelerō, -āre; celerius īre faciō, vel cōgō.
+
+accidō, -ere, accidī; id accidit quod cāsū, vel forte, fit.
+
+accumbō, -ere, -cubuī, -cubitum; iaceō.
+
+accurrō, -ere, accurrī, accursum; ad aliquem locum currō;
+currō est celeriter eō, fēstīnō.
+
+accūsō, -āre; apud iūdicēs aliquem scelus admīsisse affīrmō.
+Sī quis "Hominem," inquit, "interfēcistī," mē ut sīcārium accūsat.
+
+addūcō, -ere, -dūxī, -ductum; dūcō ad.
+
+adeō; ita.
+
+adeō, -īre, -īvī, -itum; eō ad.
+
+adferō, -ferre, attulī, allātum; ad aliquem ferō vel portō.
+
+adhibeō, -ēre; habeō, mōnstrō, praestō.
+
+admīror, -ārī; id quod mīrābile est admīror.
+
+adportō, -āre; portō ad.
+
+adstō, -stāre, -stitī; prope aliquem stō.
+
+adultus est is quī iam nōn crēscit; homō.
+
+āēr, āëris (m.); āëra spīrāmus et respīrāmus; sine āëre vīvere nōn possumus.
+
+Aesōpus, -ī (m.); fābulārum scrīptor.
+
+aestus, -ūs (m.); ārdor; mōtus aquae, sanguinis, maris, cēterōrum.
+
+affīgō, -ere, -fīxī, -fīxum; iungō.
+
+affīrmō, -āre; dīcō.
+
+aggredior, -ī, -grēssus sum; impetum faciō in, contrā aliquem currō.
+
+agitō, -āre; quatiō.
+
+āgnōmen, -inis (n.); nōmen quod aliī nōminī additum est.
+
+āgnōscō, -ere, -nōvī, -nitum; quis vel quālis sit intellegō.
+
+agricola, -ae (m.); quī agrōs colit.
+
+āiō; dīcō _ita_, nōn negō.
+
+aliquantulum; nōn multum.
+
+aliter; aliō modō.
+
+alligō, -āre; vinciō.
+
+alloquor, -ī, allocūtus sum; loquor cum aliquō.
+
+amiciō, -īre, -icuī _vel_ -ixī, -ictum; vestēs induō.
+
+amputō, -āre; partem abscīdō.
+
+angō, -ere, ānxī, ānctum _vel_ ānxum; iugulum comprimō.
+
+animadvertō, -ere, -vertī, -versum; animum ad aliquid vertō; percipiō; videō.
+
+anus, -ūs (f.); fēmina multōs annōs nāta; fēmina prōvectae aetātis.
+
+appellor, -ārī; nōmen est mihi.
+
+appōnō, -ere, -posuī, -positum; ad aliquem pōnō; praecipuē in mēnsā pōnō.
+
+appropinquō, -āre; eō ad.
+
+arātrum, -ī (n.); īnstrūmentum quō agrōs arāmus. Vidē pāginam trīcēsimam sextam.
+
+arbitror, -ārī; putō.
+
+arceō, -ēre, arcuī; dēfendō; in contrāriam partem vertō.
+
+arcus, -ūs (m.). [Image: a bow]
+
+ārdeō, -ēre, ārsī, ārsum; calidus sum.
+
+ārdor, -ōris (m.); vīs sōlis, īgnis, cēterārumque rērum calidārum.
+
+argenteus, -a, -um; id est argenteum quod ex argentō factum est.
+
+argentum, -ī (n.); metallum albī colōris ex quō nummōs facimus.
+
+argilla, -ae (f.); terra mollis ex quā vāsa facimus.
+
+arō, -āre; arātor arat agrum arātrō. Vidē pāginam trīcēsimam sextam.
+
+arrīdeō, -ēre, -rīsī, -rīsum; paene idem quod _rīdeō_.
+
+ars, -tis (f.); _ars grammatica_ grammaticīs librīs continētur;
+ars poētae est carmina compōnere, pīctōris pīctūrās pingere.
+
+artus, -ūs (m.); pars vel membrum corporis.
+
+as, assis (m.); nummus.
+
+asellus, -ī (m.); asinus; animal omnium stultissimum quod longās habet aurōs.
+
+asser, -eris (m.); vidē lectīcam apud pāginam vīcēsimam octāvam.
+
+assurgō, -ere, -surrēxī, -surrēctum; surgō.
+
+ātrium, -iī (n.); māgna cella in mediā parte domūs. Vidē pāginam quārtam.
+
+attendō, -ere, -tendī, -tentum; valdē tendo, vertō ad;
+_amimum attendere_ est animum ad aliquid advertere.
+Advertō = vertō ad. Attentō animō = summā cūrā.
+
+auferō, -ferre, abstulī, ablātum; ab aliquō rapiō.
+
+aufugiō, -ere, -fūgi; ab aliquō fugiō.
+
+aura, -ae (f.); ventus lēnis vel mollis; āēr.
+
+auris, -is (f.); id quō audīmus.
+
+āvellō, -ere, -vulsī (-vellī), -vulsum; abripiō; vī abstrahō.
+
+avidē; adverbium ab adiectīvō _avidus_ ductum.
+
+avidus, -a, -um; is est avidus quī nimis edit.
+
+avunculus, -ī (m.); mātris frāter.
+
+āxis, -is (m.); pars currūs vel raedae cuī rotae iunguntur.
+
+Bacchae, -ārum (f.); fēminae quae saliunt dum sacra Bacchī honōris causā agunt.
+
+Bacchus, -ī (m.); deus vīnī.
+
+baculum, -ī (n.); senex īnfirmus dum ambulat baculum sēcum portat
+quō facilius prōgrediātur.
+
+balneum, -ī (n.); stāgnum in quō natāre licet. Vidē pāginam quārtam decimam.
+
+benīgnus, -a, -um; contrārium quam _crūdēlis_.
+
+brācae, -ārum (f.); vidē pāginam septimam decimam.
+
+būbula, -ae (f.); carō bovis.
+
+caelātus, -a, -um; nōn pūrus sed variīs figūrīs ōrnātus et decorātus.
+
+calceus, -ī (m.); quod pedibus induimus vel indūcimus.
+
+calculus, -ī (m.); lapis parvus.
+
+capillātus; nōbilis. Hōc sīgnificat quia nōbilēs iuvenēs
+capillum longum habēbant.
+Capillus est id quod in capite crēscit.
+
+carcer, -eris (m.); locus ubi malōs hominēs cūstōdīmus.
+
+carnifex, -icis (m.); quī hominēs damnātōs occīdit, vel interficit.
+
+carō, carnis (f.); pars corporis mollior quae ossa quasi amicit.
+Carnem, pānem, piscēs edimus.
+
+carpō, -ere, carpsī, carptum; capiō; colligō, rapiō.
+
+cauda, -ae (f.); pars corporis quam hominēs nōn habent.
+
+causidicus, -ī (m.); is quī causās agit et ōrātiōnēs ad iūdicēs habet.
+
+caveō, -ēre, cāvī, cautum; cūram adhibeō nē quid accidat.
+Dum magister appropinquat discipulī _Cavē_ exclāmant. Cavē canem.
+
+celebrō, -āre; diēs fēstōs celebrāmus.
+
+cella, -ae (f.); pars domūs quattuor inter mūrōs.
+
+cēnō, -āre; cēnam edō.
+
+centuriō, -ōnis (m.); centum mīlitum dux.
+
+cernō, -ere, crēvī, crētum; percipiō, videō.
+
+certus, -a, -um; nōn dubius.
+
+cēssō, -āre; dēsistō.
+
+cēterī, -ae, -a; omnēs aliī.
+
+cēterum; sed.
+
+cibus, -ī (m.); quicquid edimus.
+
+circiter; circā.
+
+circumdō, -are, -dedī, -datum; cingō.
+
+clāmō, -āre; māgnā vōce loquor.
+
+claudicō, -āre; nōn bene ambulō. Claudicāmus sī pedēs nōbīs sunt laesī.
+
+claudus, -a, -um; claudus est is quī claudicat.
+
+cōgnōscō, -ere, -nōvī, -nitum; reperiō.
+
+colligō, -ere, -lēgī, -lēctum; ūnum in locum pōnō.
+
+collum, -ī (n.); pars corporis in quā situm est caput.
+
+colōnia, -ae (f.); hominēs quī in aliam terram migrant colōniam faciunt,
+vel colōniam dēdūcunt.
+
+coma, -ae (f.); crīnis vel capillus; id quod summō in capite crēscit.
+
+comedō, -ere, -ēdī, -ēsum; omnīnō dēvorō.
+
+comitor, -ārī; eō cum aliquō; comes eī sum.
+
+comminus; contrārium quam _ēminus_.
+
+compōnō, -ere, -posuī, -positum; faciō, scrībō.
+
+comprehendō, -ere, -prehendī, -prehēnsum; intellegō;
+capiō aliquem ut in carcerem eum iaciam.
+
+comprimō, -ere, -pressī, -pressum; vehementer premō.
+
+computō, -āre; numerō.
+
+conciliō, -āre; _conciliāre mihi amīcōs_ = parāre mihi amīcōs.
+
+concipiō, -ere, -cēpī, -ceptum; _scelus concipiō_ = scelus faciō.
+
+conclāve, -is (n.); cella.
+
+condiscipulus, -ī (m.); quī mēcum discit.
+
+condūcō, -ere, -dūxī, -ductum; pecūniam alicuī solvō
+ut aliquā rē mihi ūtī liceat.
+
+cōnferō, -ferre, -tulī, -lātum; sē cōnferre = īre.
+
+cōnfundō, -ere, -fūdī, -fūsum; paene idem quod mīsceō.
+
+cōniciō, -ere, -iēcī, -iectum; iaciō contrā.
+
+cōnscius mihi sum; sciō me aliquid fēcisse.
+
+cōnsēnsus, -ūs (m.); cum omnēs cōnsentiunt, vel idem putant, est cōnsēnsus.
+
+cōnsīdō, -ere, -sēdī, -sessum; inter aliōs sedeō.
+
+cōnsīgnō, -āre; nōmen meum scrībō.
+
+cōnsilium, -iī (n.); modus vel ratiō aliquid agendī.
+
+cōnspiciō, -ere, -spexī, -spectum; videō.
+
+cōnstituō, -ere, -uī, -ūtum; in animō habeō.
+
+cōnsul, -ulis (m.); summus apud Rōmānōs magistrātus.
+
+cōnsūmō, -ere, -sūmpsī, -sūmptum; ita ūtor aliquā rē ut nihil maneat.
+
+contendō, -ere, -tendī, -tentum; fēstīnō ad;
+ _cum aliquō contendō_ = contra eum pūgnō.
+
+contineō, -ēre, -tinuī, -tentum; intus habeō.
+
+convīva, -ae (m. f.); quī apud eandem mēnsam cēnant convīvae sunt.
+
+coquō, -ere, coxī, coctum; īgnī vel aquā calidā cibum ad cēnam parō.
+
+coquus, -ī (m.); is quī cibum coquit.
+
+cottīdiē; diem ex diē, per omnēs diēs.
+
+crepundia, -ōrum (n.); rēs quae sī quatitur sonum facit.
+Īnfantēs crepundiīs māximē gaudent; itaque cum vāgiunt crepundia quatimus.
+
+crēta, -ae (f.); rēs quaedam alba quā in tabulā nigrā scrībimus.
+
+crībrum, -i (n.). [Image: a sieve]
+
+crūs, crūris (n.). [Image: a leg]
+
+crūstulum, -ī (n.); dulce cibī genus; puerī crūstula edere amant.
+
+cubiculum, -ī (n.); cella ubi dormīmus.
+
+cubō, -āre, cubuī, cubitum; in lectulō recumbō ut dormiam.
+
+culīna, -ae (f.); locus ubi coquus cibum coquit.
+
+culter, -trī (m.); id quō aliquid secāmus.
+
+cupiō, -ere, -īvī (-iī), -ītum; volō.
+
+cūriōsē; cum cūrā; māgnā cūrā.
+
+currus, -ūs (m.); curribus vehimur.
+
+cursus, -ūs (m.); _verbum_ est _currō_; _nōmen_ est _cursus_.
+
+curūlis, -e; sella curūlis est sella magistrātūs.
+
+cūstōdiō, -īre; cūstōs cūstōdit.
+
+daedalus, -a, -um; variī colōris.
+
+damnō, -āre; condemnō; iūdicēs scelerātōs damnant, poenās ab eīs sūmunt.
+
+damnum, -ī (n.); sī quid perdō damnum patior; sī quid laeditur damnum accipit.
+
+dēbeō, -ēre; oportet mē.
+
+dēcēdō, -ere, -cēssī, -cēssum; cēdō; ē locō mē moveō, mē recipiō.
+
+dēcertō, -āre; pūgnō, contrā aliōs contendō.
+
+decōrus, -a, -um; decōrum est id quod decet.
+
+dēiciō, -ere, -iēcī, -iectum; ad terram iaciō; praecipitō.
+
+dēlectō, -āre; gaudium praestō; delector = gaudeō.
+
+dēnique ūnum ex adverbiīs est quōrum est seriēs
+prīmō, deinde, dēnique, postrēmō.
+
+dēpōnō, -ere, -posuī, -positum; pōnō, omīttō, abiciō.
+
+dētrahō, -ere, -trāxī, -tractum; abstrahō, capiō ab.
+
+dēversōrium, -iī (n.); taberna, stabulum;
+locus quō ē viā devertimus cum domum ante noctem pervenīre nōn possumus.
+
+dēvorō, -āre; edō celeriter; cōnsūmō.
+
+difficilis, -e; nōn facilis.
+
+digitus, -ī (m.); pars manūs vel pedis;
+vīgintī igitur digitōs habeō, decem in manibus, in pedibus decem.
+
+dīmīttō, -ere, -mīsī, -mīssum; abīre iubeō.
+
+discēdō, -ere, -cēssī, -cēssum; idem quod recēdō.
+
+dispōnō, -ere, -posuī, -positum; ex ōrdine pōnō.
+
+domina, -ae (f.); uxor dominī.
+
+dōnō, -āre; dō.
+
+dormiō, -īre; nocte in lectulīs dormīmus cum claudimus oculōs.
+
+dubitō, -āre; nōn prō certō habeō.
+
+dubius, -a, -um; contrārium quam _certus_. _Nōmen_ est _dubium_.
+
+dulce adverbium est; _adiectīvum_ est _dulcis_.
+
+ecce; vidē, spectā. Exclāmātiō est.
+
+effugiō, -ere, -fūgī; fugiō ex aliquō locō.
+
+ēgredior, -ī, -grēssus sum; exeō.
+
+ēgregius, -a, -um; optimus, eximius.
+
+ēminus; longē, ex longinquō ex longō spatiō.
+
+ēmīttō, -ere, -mīsī, -mīssum; mīttō vel iaciō ex aliquā rē.
+
+epistula, -ae (f.); aliquid scrīptī quod aliī mīttimus.
+
+eques, -itis (m.); mīles quī ex equō pūgnat.
+
+equidem; ego quidem; ego prō meā parte.
+
+errō, -āre; nōn rēctē putō, vel faciō.
+
+ēsca, -ae (f.); parva pars cibī. Cibus est id quod edimus.
+
+ēvādō, -ere, -vāsī, -vāsum; effugiō.
+
+ēveniō, -īre, -vēnī, -ventum; accidō.
+
+ēvolō, -āre; volō ex. Volō = per āere mē moveō; avis vel volucris volat.
+
+excipiō, -ere, -cēpī, -ceptum; capiō; alicuī reī obstō quōminus cadat.
+
+excitō, -āre; efficiō ut aliquis expergīscātur.
+
+exclāmō, -āre; subitō clāmō, loquor māgnā vōce.
+
+excruciō, -āre; vexō, ita perturbō ut paene interficiam aliquem.
+
+exemplum, -ī (n.); id quod imitārī dēbēmus.
+
+exercitus, -ūs (m.); multī ūnō sub duce mīlitēs.
+
+exhauriō, -īre, -hausī, -haustum; exhauriō aquam cum omnem bibō.
+
+expergīscor, -ī, experrēctus sum; ex somnō excitor; ē lectulō surgō.
+
+expōnō, -ere, -posuī, -positum; clārum vel plānum faciō, explicō.
+
+exsanguis, -e; sine sanguine.
+
+exspectō, -āre; exspectō dōnec aliquis redeat; maneō.
+
+exstinguō, -ere, -stīnxī, -stīnctum; exstinguimus īgnem aquā.
+
+extrahō, -ere, -trāxī, -tractum; ex aliquā rē trahō.
+
+facētiae, -ārum (f.); verba, quae rīsum nōbīs movent.
+
+faenum, -ī (n.); cibus equī; grāmen sōle tostum.
+
+fāma, -ae (f.); id quod dē aliquō dīcitur; quod dē mē ipsō audiō.
+
+fatīgātus, -a, -um; fessus.
+
+febris, -is (f.); morbus quī corpus nunc calidum nunc frīgidum reddit.
+
+fēlēs, -is (f.); animal domesticum quod canis ōdit.
+
+fēmina, -ae (f.); pater est vir, māter fēmina.
+
+fenestra, -ae (f.); in mūrīs sunt fenestrae per quās lūx intrat.
+
+ferāx, -ācis; fertilis; ferāx est arbor quae multās prōcreat frūgēs.
+
+fēriae, -ārum (f.); diēs fēstī quibus lūdum nōn frequentāmus.
+
+feriō, -īre; pulsō, percutiō.
+
+ferula, -ae (f.); īnstrūmentum quō magister puerōs pūnit.
+
+ferveō, -ēre, ferbuī; calidus sum.
+
+fēstīnō, -āre; celeriter rem agō.
+
+fingō, -ere, fīnxī, fīctum; faciō.
+
+flāgitō, -āre; vehementer poscō.
+
+flō, -āre; ventus flat.
+
+flūctus, -ūs (m.); unda.
+
+focus, -ī (m.); locus ubi solet fierī īgnis.
+
+follis, -is (m.); pila ventō īnflāta vel plēna.
+
+forēs, -um (f.); iānua quae duās habet partēs; aliter _valvae_.
+
+forte; cāsū; ut accidit.
+
+fortis, -e; validus. Herculēs erat fortis, īmmō vērō fortissimus.
+
+forum, -ī (n.); locus apertus in mediā urbe situs circum quem stant tabernae.
+
+fragmentum, -ī (n.); pars parva.
+
+frāterculus, -ī (m.); frāter parvus.
+
+frequēns, -tis; frequentēs sunt multī.
+
+frequentō, -āre; identidem eō atque redeō.
+
+frōns, -dis (f.). [Image: a leafy branch, foliage]
+
+frūstrā cōnōr facere quod facere nōn possum.
+
+fugāx, -ācis; is est fugāx quī celeriter fugit.
+
+fugō, -āre; aliquem in fugam vertō.
+
+fulcrum, -ī (n.); pars superior et quasi caput lectī.
+
+funda, -ae (f.) [Image: a sling]
+
+funditor, -ōris(m.); quī fundā ūtitur.
+
+fūnis, -is (m.). [Image: a rope]
+
+fūr, fūris (m.); is quī quod nōn est suum capit.
+
+furcifer, -erī (m.); homō scelerātus.
+
+furō, -ere, -uī; saeviō, rabidus sum.
+
+fūrtum, -ī (n.); scelus quod fūr admīttit.
+
+galea, -ae (f.). Vidē pāginam septimam decimam.
+
+gallus, -ī (m.). [Image: a cock]
+
+genae, -ārum (f.); partēs ōris inter quās est nāsus.
+
+gestō, -āre; portō.
+
+gladius, -ī (m.). Vidē pāginam septimam decimam.
+
+glāns, glandis (f.); lapis quem ē fundā mīttimus.
+
+Graecus, -a, -um; quī Graeciam habitat.
+
+grammaticē; quōmodo magister grammaticus rem expōnere solet.
+
+grammaticus liber omnia dē verbīs docet.
+
+grassor, -ārī; saeviō, saevus sum.
+
+grātia, -ae (f.); amīcitia, favor; _in grātiam cum aliquō redeō_ =
+ iterum amīcus eī fīō. Amīcitia inter amīcōs est.
+
+grātus, -a, -um; nōn molestus.
+
+grex, gregis (m.); turba vel animālium vel hominum.
+
+gustō, -āre; edō.
+
+gustus, -ūs (m.); prīma pars cēnae.
+
+habitus, -ūs (m.); speciēs vestium quās gerimus.
+
+hostis, -is (m.); quī contrā patriam nostram pūgnat.
+
+hūc; ad hunc locum.
+
+hūiusmodi; scīlicet _hūius modī_, tālis.
+
+ictus, -ūs (m.); id quod tibi dō sī tē pulsō.
+_Feriō_, _pulsō_ sunt _verba_, _ictus_ est _nōmen_.
+
+identidem; saepe, iterum atque iterum.
+
+Īdūs, -uum (f.); diēs mēnsis aut tertius decimus aut quīntus decimus.
+
+iēiūnus, -a, -um; iēiūnus est is quī edere volt.
+
+īgnōrō, -āre; nōn sciō.
+
+imāgō, -inis (f.). Vidē pāginam vīcēsimam secundam.
+
+imitōr, -ārī; aliquid alicuī simile facere cōnor.
+
+immīttō, -ere, -mīsī, -mīssum; impōnō; iaciō in.
+
+impedīmenta, -ōrum (n.); omnia quae nōbīscum portāmus dum iter facimus.
+
+impediō, -īre; obstō.
+
+impetus, -ūs (m.); vīs alicūius currentis.
+
+impluvium, -ī (n.); locus in mediō ātriō situs in quem aqua dē caelō cadit;
+quasi stāgnum parvum. Vidē pāginam quārtam.
+
+improbus, -a, -um; malus, scelestus.
+
+imprōvīsus, -a, -um; nōn prōvīsus; _ex imprōvīsō_= subitō.
+
+īmus, -a, -um; contrārium quam summus.
+
+incidō, -ere, -cidī, -cāsum; cadō in.
+
+incultus, -a, -um; nōn cultus; paene idem quod rudis.
+
+incumbō, -ere, -cubuī, -cubitum (dat.); operam dō.
+
+indō, -ere, -didī, -ditum; dō, addō.
+
+īnfāmis, -e; quī malam famam habet.
+
+īnfāns, -antis (m. f.); puer parvus vel puella parva. Īnfāns loquī nōn potest.
+
+īnfēstus, -a, -um; nōn tūtus; īnfēstus est locus ubi grassantur latrōnēs.
+
+infīnītus, -a, -um; sine fīne, aeternus, diūturnus.
+
+īnfīrmus, -a, -um; nōn validus.
+
+ingredior, -ī, -grēssus sum; intrō.
+
+inhaereo, -ēre, -haesī, -haesum; haereō in aliquā rē.
+
+initium, -ī (n.); contrārium quam fīnis.
+
+inquit; dīcit vel dīxit.
+
+insalūbris, -e; nōn salūbris, nōn sānus.
+
+īnserō, -ere, -seruī, -sertum; impōnō, immīttō.
+
+īnspiciō, -ere, -spexī, -spectum; spectō.
+
+intempestā nocte; mediā nocte.
+
+interficiō, -ere, -fēcī, -fectum; caedō.
+
+intrō, -āre; eō in.
+
+intrōdūcō, -ere, -dūxī, -ductum; dūcō in.
+
+inūsitātus, -a, -um; novus, mīrus.
+
+inveniō, -īre, -vēnī, -ventum; reperiō; quasi _in rem veniō_.
+
+īrācundus, -a, -um; īrā plēnus.
+
+īrāscor, -ī, īrātus sum; īrātus sum.
+
+itaque; hanc ob rem, igitur.
+
+iūcundus, -a, -um; is quī iūcundus est placet mihi.
+
+iugulum, -ī (n.); pars corporis inter caput et umerōs.
+
+iūrō, -āre; affirmō. Nōs Anglī dum iūrāmus librum sacrum manū tenēmus.
+
+iūs, iūris (n.); potestās quam oportet nōs habēre.
+
+iūssum, -ī (n.); quod iubeō.
+
+iuventūs, -tūtis (f.); aetās iuvenum.
+
+Kalendae, -ārum (f.); prīmus diēs mēnsis.
+
+labor, -ōris (m.); negōtium quod fessōs reddit hominēs.
+
+labōrō, -āre; doleō, dolōrem sentiō.
+_Ē ventre labōrō_, dolōrem in ventre sentiō.
+
+labrum, -ī (n.); pars ōris quae dentēs tegit.
+
+lac, lactis (n.); vacca lac nōbīs dat.
+
+laedō, -ere, -sī, -sum; noceō, efficiō ut aliquis doleat.
+
+lanius, -ī (m.); quī animālia trucīdat, vel interficit, vel caedit,
+quōrum carnem vēndit.
+
+lassus, -a, -um; fessus.
+
+latrō, -ōnis (m.); fūr.
+
+lavō, -āre, lāvī, lavātum (lautum _vel_ lōtum); aquā purgō.
+
+lectīca, -ae (f.). Vidē pāginam vīcēsimam octāvam.
+
+lectīcārius, -ī (m.); quī aliquem lectīcā gestat.
+
+lectulus,-ī (m.); lectus parvus.
+
+lectus, -ī (m.). [Image: a bed]
+
+legūmen, -inis (n.); herba quam edimus.
+
+lētum, -ī (n.); nex, mors.
+
+levō, -āre; levius aliquid faciō.
+
+Līber, -erī (m.); Bacchus, deus vīnī.
+
+lītterārius, -a, -um; adiectīvum dē nōmine _līttera_ ductum.
+_Lūdus lītterārius_ est locus in quō lītterās discimus.
+
+loculī, -ōrum (m.); rēs in quā pecūniam aliāsque rēs habēmus.
+Puerī librōs in loculīs ad lūdum portant.
+
+lōrīca, -ae (f.). Vidē pāginam septimam decimam.
+
+lūsus, -ūs (m.); lūsum lūdimus. Verbum est _lūdō_, nōmen _lūsus_.
+
+lūx, lūcis (f.); lūmen; id quod sōl dat; diē est lūx, nocte nōn est.
+
+macellum, -ī (n.); locus ubi multae sunt tabernae ē quibus carnem, legūmina,
+aliāsque rēs emimus.
+
+magistrātus, -ūs (m.); quī negōtia pūblica cūrat.
+
+maledīcō, -ere, -dīxī, dictum (dat.); mala verba dīcō.
+
+mālum, -ī (n.). [Image: an apple]
+
+marītus, -ī (m.); cuī est uxor. Pater tuus est marītus tuae mātris.
+
+memoria, -ae (f.); pars mentis quā meminimus.
+
+mēns, mentis (f.); animus.
+
+mereor, -ērī, meritus sum; dīgnus sum aliquā rē.
+
+merīdiē; mediō diē.
+
+metuō, -ere, -uī, -ūtum; timeō.
+
+migrō, -āre; in alium locum abeō.
+
+mīles, -itis (m.); homō quī pūgnat et patriam dēfendit.
+Vidē pāginam septimam decimam.
+
+mīrābilis, -e; mīrus; id quod admīror est mīrābile.
+
+mīror, -ārī; intellegere nōn possum.
+
+molestus, -a, -um; pessimus; homō molestus mihi displicet; incommodō mihi est.
+
+mordeō, -ēre, momordī, morsum; dentibus mordēmus aliquid.
+
+moror, -ārī; moram faciō; nōn fēstīnō.
+
+mox; post breve tempus; brevī.
+
+muliebris, -e; fēmineus; ad mulierēs vel fēminās attinēns.
+
+multitūdō, -inis (f.); māgna hominum turba.
+
+mūs, mūris (m.); animal parvum quod fēlēs grātō animō interficiunt eduntque.
+
+Mūsae, -ārum (f.); deae carminum.
+
+mūtuus, -a, -um; propriē id quod ad multōs attinet est mūtuum.
+_Mūtuum aliquid dō_ est _aliquid dō quod oportet tē posteā mihi reddere_.
+
+nārrātiō, -ōnis (f.); id quod nārrō.
+
+nātālis, -e; _nātālis diēs_ est diēs quō nātus est aliquis.
+
+natō, -āre; in aquā quasi currō et manibus et pedibus ūsus.
+
+necesse est; oportet.
+
+nefārius, -a, -um; scelestus.
+
+nēquam; nefārius.
+
+nescioquis; aliquis.
+
+nihil; nulla rēs.
+
+nitor, -ōris (m.); splendor; fulgor; sōl clārō nitōre rīdet.
+
+nocēns, -entis; nōn innocēns; is quī rē vērā scelus admīsit nocēns est.
+
+nōlō, nōlle, nōluī; nōn volō.
+
+nōnnumquam; nōn numquam; interdum.
+
+nūdius tertius; abhinc tribus diēbus.
+
+nūgae, -ārum (f.); nullīus mōmentī rēs; rēs inānēs.
+
+nūtrīcius, -ī (m.); tūtor vel cūstōs aliōrum.
+
+obdormiō, -īre, -īvī, -ītum; dormīre incipiō.
+
+oblīvīscor, -ī, oblītus sum (gen.); nōn meminī; memoriā nōn teneō.
+
+oboediō, -īre (dat.); pāreō.
+
+obstō, -āre, -stitī, -stātum (dat.); impediō; nōn sinō.
+
+obtineō, -ēre, -tinuī, -tentum; habeō; teneō.
+
+obvius fīō alicuī; accurrō; alicuī occurrō; dum per viam eō aliquem inveniō.
+
+occāsiō, -ōnis (f.); opportūnitās; facultās; potestās;
+occāsiōnem alicūius reī faciendae habeō sī eam facere possum.
+
+occupō, -āre; rapiō; capiō.
+
+Octōber, -ris; mēnsis octāvī.
+
+ōdī, ōdisse; contrārium quam _amō_.
+
+offendō, -ere, -dī, -sum; ita currō ut aliquem corpore meō feriam.
+
+omīttō, -ere, -mīsī, -mīssum; praetereō, trānseō, neglegō.
+_Lūdum omīttō_ est _lūdum nōn frequentō_.
+
+omnis, -e; cūnctus; ūnusquisque.
+
+onus, -eris (n.); pondus; rēs gravis.
+
+operam dō; rem dīligenter agō.
+
+opprimō, -ere, -pressī, -pressum; vī superō; ad terram dēiciō.
+
+ōrātiō, -ōnis (f.); dum loquor ōrātiōnem faciō vel habeō.
+
+ōrnātus, -ūs (m.); habitus.
+
+ōtiōsus, -a, -um; quī ōtium agit; nūllīs negōtiīs occupātus.
+
+ōtium, -ī (n.); contrārium quam negōtium.
+
+ovis, -is (f.). [Image: a sheep]
+
+ōvum, -ī (n.); ex quō pullus nāscitur.
+
+paedagōgus, -ī (m.); servus quī cūstōs est puerōrum, quōs ad lūdum dūcit.
+
+palleō, -ēre, -uī; pallidus sum; nūllum colōrem ōs habet.
+
+palmes, -itis (m.); frōns vītis.
+
+pār, paris; similis, īdem.
+
+parcō, -ere, pepercī, parsum; veniam dō.
+
+parēns, -entis (m.f.); māter et pater sunt parentēs.
+
+pariō, -ere, peperī, partum; faciō, gīgnō; avis ōva parit.
+
+parum; nōn satis.
+
+pāstor, -ōris (m.); quī ovēs cūstōdit.
+
+patior, -ī, passus sum; sinō, sentiō.
+
+patria, -ae (f.); terra ubi nātus est aliquis.
+
+patrōnus, -ī (m.); amīcus et quasi cūstōs quī aliōs cūrat quibus auxilium dat;
+causidicus quī aliquem in iūdiciō dēfendit.
+
+pauca, nōn multa.
+
+paulisper; breve tempus; nōn longum tempus.
+
+paulō; nōn multō.
+
+pecten, -inis (m.); id quō comās pectimus. [Image: a comb]
+
+pectō, -ere, pexī, pexum; aptum ōrdinem comīs praestō.
+
+pēnsum, -ī (n.); opus domī factum.
+
+percipiō, -ere, -cēpī, -ceptum; spectō, videō, intellegō.
+
+percutiō, -ere, -cussī, -cussum; pulsō.
+
+perficiō, -ere, -fēcī, -fectum; contrārium quam _incipiō_.
+
+pergō, -ere, perrēxī, perrēctum; prōcēdō.
+
+perlegō, -ere, -lēgī, -lēctum; ūsque ad fīnem legō.
+
+persequor, -ī, -secūtus sum; sequor ūsque ad fīnem.
+Sequor = currō post aliquem.
+
+perturbō, -āre; agitō; timor vel terror mentem perturbat.
+
+perveniō, -īre, -vēnī, -ventum; veniō ūsque ad fīnem.
+
+pēstilentia, -ae (f.); tempestās īnsalūbris.
+
+pēstis, -is (f.); quicquid malī quod nōs vexat.
+
+petasus, -ī (m.); id quod in capite gerō.
+
+petītor, -ōris (m.); is quī aliquid ab homine accūsātō recipere cōnātur.
+
+pila, -ae (f.) [Image: a ball]
+
+pīlum, -ī (n.). Vidē pāginam septimam decimam.
+
+pingō, -ere, pīnxī, pīctum; alium colōrem alicuī reī dō.
+
+pirum, -ī (n.). [Image: a pear]
+
+piscīna, -ae (f.); balneum. Vidē pāginam quārtam decimam.
+
+pluit cum aqua dē caelō dēcidit.
+
+pluvia, -ae (f.); aqua quae dē caelō dēscendit; imber.
+
+pōculum, -ī (n.); vās ē quō bibimus.
+
+poenās dō; pūnior. Contrārium est _poenās sūmō_.
+
+Pompēius, -ī (m.); vir clārrissimus quī contrā Iūlium Caesarem pūgnāvit.
+
+porculus, -ī (m.); porcus parvus.
+
+porcus, -ī (m.). [Image: a tame swine, a pig]
+
+porticus, -ūs (f.); locus columnīs circumdatus.
+
+portō, -āre; ferō, gerō.
+
+posterus, -a, -um; quī posteā venit; _posterō diē_, diē secundō.
+
+potestās, -tātis (f.); _verbum_ est _possum_; _nōmen_ est _potestās_.
+
+prae mē ferō; praestō.
+
+praecipitō, -āre; in caput aliquem iaciō.
+
+praeclārus, -a, -um; nōbilis, clārus, illūstris.
+
+praedīcō, -ere, -dīxī, dictum; quāle futūrum sit aliquid dīcō.
+
+praelēctiō, -ōnis (f.); praelēctiō est dum magister in lūdō docet.
+
+praemium, -ī (n.); dōnum quod ob virtūtem accipiō.
+
+praeruptus, -a, -um; abscīsus, abruptus.
+
+praestō, -āre, -stitī, -stātum (-stitum); praebeō;
+ _sē praestāre_ est _sē mōnstrāre_, vel _esse_.
+
+praestō (adv.); ad manum; _praestō esse_ sīgnificat _adesse_, _praesentem esse_,
+ _parātum esse_. _Praestō sum_ = _adsum_.
+
+praetor, -ōris (m.); magistrātus Rōmānus quī iūs dat. Seriēs magistrātuum
+ est aedīlis, quaestor, praetor, cōnsul, prō cōnsule, cēnsor.
+
+prandium, -ī (n.); quod merīdiē edimus.
+
+prātum, -ī (n.); ager viridis ubi nihil nisi herba crēscit.
+
+precor, -ārī; ōrō.
+
+prīdiē; diē priōre.
+
+prīmipīlāris, -e; mīles quī inter prīmōs mīlitum ōrdinēs stat est prīmipīlāris.
+
+prīvō, -āre; _aliquem aliquā rē prīvō_ = _aliquam rem ab aliquō capiō_.
+
+prōcēdō, -ere, -cēssī, -cēssum; eō.
+
+prōcreō, -āre; pariō, gignō.
+
+profectiō, -ōnis (f.); _profectiōnem fāciō_ = _proficīscor_.
+
+prōgredior, -ī, -grēssus sum; proficīscor; prōcēdō.
+
+prōnus, -a, -um; quasi in caput cadēns.
+
+properō, -āre; fēstīnō; contrārium quam moror.
+
+prōsperē; bene, fēlīciter.
+
+prōtegō, -ere, -tēxī, -tēctum; tegō; dēfendō.
+
+prōverbium, -ī (n.); verba sapientiae. _Sapiēns_ est contrārium quam _stultus_.
+
+prōvideō, -ēre, -vīdī, -vīsum; caveō; cūram adhibeō nē quid accidat.
+
+prūdēns, -entis; quī prōvidet.
+
+puerulus, -ī (m.); puer parvus.
+
+pullus, -ī (m.). [Image: a chicken]
+
+pūniō, -īre; sī quandō pēnsum male faciō magister mē pūnīt; poenās ā mē sūmit.
+ Ego—ō mē miserum!—poenās dō.
+
+purgō, -āre; pūrum faciō. Cum tabula nigra lītterārum est plēna magister puerō
+ cuīdam imperat ut eam purget.
+
+pūrus, -a, -um; _argentum pūrum_ est contrārium quam _caelātum_.
+
+quaerō, -ere, quaesīvī, quaesītum; invenīre cōnor; petō.
+
+quāpropter; quam ob causam; quārē.
+
+rabidus, -a, -um; furiōsus, īnsānus.
+
+raeda, -ae (f.). Vidē pāginam trīcēsimam tertiam.
+
+raedārius, -ī (m.); is quī raedam regit.
+
+recēdō, -ere, -cēssī, -cēssum; ab aliquō locō cēdō; mē recipiō.
+
+recipiō, -ere, -cēpī, -ceptum; iterum capiō. _Mē recipiō_ = _abeō_.
+
+recreō, -āre; _mē recreō_ = _vīrēs recipiō_; _iterum validus fīō_.
+
+rēctus, -a, -um; iūstus; paene idem quod _solitus_.
+Id rēctum est quod fierī solet.
+
+recūsō, -āre; nōlō, nōn volō.
+
+reddō, -ere, -didī, -ditum; faciō.
+
+refīgō, -ere, -fīxī, -fīxum; contrārium quam affīgō; solvō.
+
+regiō, -ōnis (f.); pars terrae vel cīvitātis;
+multae regiōnēs in ūnā cīvitāte sunt.
+
+rēgnum, -ī (n.); rēx rēgnum obtinet.
+
+regredior, -ī, -grēssus sum; redeō.
+
+reliquus, -a, -um; relictus; sī ē tribus librīs ūnum capiō, duo sunt reliquī.
+
+remīttō, -ere, -mīsī, -mīssum; levō; vīm dēminuō vel minōrem faciō.
+
+reprehendō, -ere, -dī, -sum; contrārium quam _laudō_.
+Sī male scrībō lūdī magister mē reprehendit.
+
+requiēscō, -ere, -quiēvī, -quiētum; quiētem agō; dormiō.
+
+resideō, -ēre, -sēdī; sedeō.
+
+reus, -ī (m.); homō accūsātus.
+
+revertor, -ī, -versus sum; mē recipiō.
+
+revocō, -āre; retrō vocō.
+
+rīdeō, -ēre, rīsī, rīsum; _rīdet_ sīgnificat _pulchrum vidētur esse_.
+
+rōbur, -oris (n.); vīs valida.
+
+rōdō, -ere, -sī, -sum; paene idem quod _mordeō_; dentibus aliquid frangō.
+Mūrēs rōdunt chartam.
+
+rogātor, -ōris (m.); is quī interrogātiōnēs rogat.
+
+rota, -ae (f.). Vidē pāginam trīcēsimam tertiam.
+
+rubeō, -ēre; ruber fīō; genae mihi rubent.
+
+rudis, -e; contrārium quam _doctus_.
+
+rūrsus; iterum.
+
+rūsticus, -a, -um; ad rūs attinēns; quī rūrī habitat.
+
+saccus, -ī (m.). [Image: a sack]
+
+sacra, -ōrum (n.); rēs sacrae, caerimōniae.
+
+saepenumerō; saepe.
+
+sagittārius, -ī (m.); quī sagittīs pūgnat. Sagittās ex arcū ēmīttit.
+
+saliō, -īre, -uī, saltum; brāchia, pedēs, corpus hūc,
+illūc iactandō ad sonum tībiae moveor. Puer salit. [Image: a jumping boy]
+
+saltem; certē.
+
+saltō, -āre; saliō.
+
+sanguis, -inis (m.); ruber quīdam liquor quī corporī inest.
+
+sapiēns, -entis; doctus.
+
+saxum, -ī (n.); lapis māgnus; rūpēs.
+
+scelerātus, -a, -um; scelestus, pessimus, quī scelus admīttit.
+
+scelus, -eris (n.); nefās; id quod nōn oportet nōs facere.
+Scelus est fūrārī, aliquem interficere.
+
+scēptrum, -ī (n.); rēgis baculum.
+
+scīlicet; scīre licet, nīmīrum, sine dubiō, ut omnēs intellegere possunt.
+scopulus, -ī (m.); saxum.
+
+scrīptor, -ōris (m.); is quī scrībit aliquid.
+
+scūtum, -ī (n.). Vidē pāginam septimam decimam.
+
+sēcūrus, -a, -um; sine timōre.
+
+seges, -etis (f.); ager herbīs plēnus.
+
+sententia, -ae (f.); verbōrum numerus quī sēnsum habet:
+ _ex animī meī sententiā_ = _ut rē vērā putō_.
+
+sentiō, -īre, sēnsī, sēnsum; animō percipiō; intellegō, patior.
+
+seriēs, -eī (f.); numerī seriem faciunt, i, ii, iii, iiii, v.
+
+serō, -ere, sēvī, satum; in terram īnserō. Segetēs serimus.
+
+servō, -āre; tūtum vel salvum faciō; cūstōdiō; dēfendō.
+
+sevēritās, -tātis (f.); vīs gravis.
+
+sextīlis, -e; sextī mēnsis. Mēnsis est duodecima pars annī.
+
+sīcārius, -ī (m.); is quī aliquem interficit.
+
+similiter; similī modō.
+
+simplex, -icis; simplex homō est bonus probusque quī nēminem dēcipit.
+
+simulō, -āre; simulō mē esse quod rē vērā nōn sum.
+Sī lātrō simulō mē esse canem; sī mūgiō bovem mē esse simulō.
+
+sinus, -ūs (m.); quasi duplex pars vestis, in quā aliquid ferre possumus.
+
+situs, -a, -um; positus.
+
+sodālis, -is (m.f.); comes.
+
+sōdēs; sī audēs; sī vīs; sī placet tibi.
+
+solvō, -ere, solvī, solūtum; līberō; _pecūniam solvō_ = _pecūnīam dō_.
+
+somnus, -ī (m.); _somnum capiō_ = _dormiō_.
+
+sonō, -āre, sonuī, sonitum; sonum faciō; dīcō.
+
+spargō, -ere, sparsī, sparsum; hūc illūc iactō vel iaciō.
+
+spectācula, -ōrum (n.); lūdus quem in circō spectāmus.
+
+stāgnum, -ī (n.); quasi lacus parvus.
+_Lacus_ est quasi parvum mare in mediā terrā situm.
+
+statim; sine morā.
+
+stilus, -ī (m.); īnstrūmentum quō scrībimus.
+
+stīpendium, -ī (n.); pecūnia quam mīlitēs accipiunt.
+_Stīpendia mereor_ = _in exercitū sum_.
+
+studeō, -ēre, -uī; operam librīs dō.
+
+suādeō, -ēre, suāsī, suāsum; ōrō, persuādeō.
+
+suāvis, -e; dulcis, iūcundus.
+
+suāvitās, -tātis (f.); _suāvis_ est adiectīvum; _suāvitās_ est nōmen.
+
+subiectum, -ī (n.); id dē quō loquimur.
+
+subitō; repente, ex imprōvīsō.
+
+subsellium, -ī (n.); sella humilior.
+
+sūdō, -āre; cum sūdāmus liquor, sūdor nōminātus, per tōtum corpus fluit.
+
+suffrāgium, -iī (n.); aut tabella aut vōx eōrum quī cōnsulēs aliōsque
+magistrātūs creant. Hodiē apud nōs fēminae iūs suffrāgiī flāgitant.
+
+sūmō, -ere, sūmpsī, sumptum; capiō.
+
+superō, -āre; vincō.
+
+suppetō, -ere, -īvī (iī), -ītum; satis esse.
+
+suscitō, -āre; nōn sinō dormīre.
+
+suspendō, -ere, -dī, -sum; pendō; tabulās pīctās dē mūrīs suspendimus.
+
+suspicor, -ārī; nōn prō certō habeō sed putō.
+
+tabella, -ae (f.); tabula parva.
+
+taberna, -ae (f.); locus ubi rēs vēnduntur.
+
+tablīnum, -ī (n.); prīvātum patris conclāve.
+
+tālī, -ōrum (m.); fragmenta ossis, quibus Rōmānī tesserīs ūtēbantur.
+[Image: a die (orig. made from the knuckle-bones of certain animals)
+          of an oblong shape]
+
+tālis, -e; hūius modī.
+
+taurus, -ī (m.); bōs masculīnus.
+
+tempestās, -tātis (f.); aut salūbritās aut pēstilentia locī.
+
+tempore; bonō tempore; nōn sērō.
+
+tempus terō, -ere, trīvī, trītum; _tempus terō_ est tempus perdō;
+tempore nōn bene ūtor.
+
+tergum, -ī (n.); posterior pars corporis.
+_Ā tergō_ contrārium est quam _ā fronte_.
+
+tesserae, -ārum (f.) [Image: cubes (to play dice)]
+
+tēstāmentum, -ī (n.); id quod homō moritūrus scrībit.
+
+tēstificor, -ārī; vērum esse dīcō; tēstis tēstificātur vel tēstimōnium dat.
+
+tēstimōnium, -ī (n.); id quod tēstis dīcit.
+
+tēstis, -is (m.); is quī dicit sē aliquid vīdisse.
+
+thermae, -ārum (f.); balneae ubi calida est aqua.
+Balneae sunt quasi stāgna in quibus natāre licet. Vidē pāginam quārtam decimam.
+
+tībia, -ae (f.); īnstrūmentum mūsicae quō ūtimur īnflandō.
+
+timidus, -a, -um; quī timēre solet.
+
+tīrō, -ōnis; contrārium quam veterānus; novus quīdam.
+
+toga, -ae (f.); vestis Rōmāna. Vidē pāginam trīcēsimam nōnam.
+Magister lūdī togam gerit. _Toga praetexta_ est magistrātūs toga.
+
+trādō, -ere, trādidī, trāditum; alicuī aliquid ut servet dō; mandō; commendō.
+
+trānseō, -īre, -īvī, -itum; eō trāns.
+
+trānsgredior, -ī, -grēssus sum; trānseō.
+
+tremō, -ere, -uī; ob timōrem quatior.
+
+trepidus, -a, -um; timidus.
+
+tribūnal, -ālis (n.); locus ubi praetor iūs dat.
+
+tribūnus, -ī (m.); centuriōnēs, tribūnī, legātī,
+imperātor exercitum regunt dūcuntque.
+
+triclīnium, -i (n.); lectus in quō recumbimus dum cēnāmus.
+
+trucīdō, -āre; caedō; interficiō.
+
+tumidus, -a, -um; id quod tumet est tumidum.
+
+tumor, -ōris (m.); sī caput tuum vehementer percutiō
+tumor rotundus in capite fit. Verbum est _tumeō_.
+
+tunica, -ae (f.); vestis quae sub aliīs vestibus est.
+
+ultimus, -a, -um; postrēmus.
+
+unde; ex quō.
+
+ungula, -ae (f.); pēs equī.
+
+urbānus, -a, -um; ad urbem attinēns.
+
+ūrō, -ere, ussī, ūstum; īgnis quicquid tangit ūrit.
+
+utinam; exclāmātiō volentis vel cupientis.
+
+ūvae, -ārum (f.). [Image: vine grapes]
+
+vacca, -ae (f.); bōs fēminīnus.
+
+vacō, -āre; ōtium agō; _ōtium_ est contrārium quam _negōtium_.
+
+vāgiō, -īre; fleō ut īnfāns.
+
+vagor, -ārī; hūc illūc ambulō.
+
+valeō, -ēre; validus et fortis sum; nōn aegrōtō.
+
+valvae, -ārum (f.); forēs; iānua quae duās habet partēs.
+
+vās, vāsis (n.). [Image: a vase]
+
+vehementer; māgnā vī.
+
+vēnditor, -ōris (m.); is quī vēndit. _Vēndō_ est contrārium quam _emō_.
+
+venia, -ae (f.); potestās; _veniam dō_ = _sinō_.
+
+venter, -ris (m.); pars corporis quō cibus it; stomachus.
+
+ventus, -ī (m.); quasi āēr qui movētur.
+
+verberō, -āre; ferulā percutiō.
+
+vereor, -ērī; timeō.
+
+versiculus, -ī (m.); versus parvus.
+
+versus, -ūs (m.); carminis pars.
+
+vescor, -ī; edō; dēvorō.
+
+vestis, -is (f.); id quō corpus tegitur vel amicītur.
+
+vexō, -āre; perturbō; agitō; pēstis sum alicuī.
+
+viātor, -ōris (m.); quī iter facit.
+
+vīcīnus, -ī (m.); quī prope habitat.
+
+vigilia, -ae (f.); pars noctis; quattuor noctis sunt vigiliae quārum
+quaeque ternās continet hōrās.
+
+vigilō, -āre; nōn dormiō.
+
+vigor, -ōris (m.); vīrēs.
+
+vilicus, -ī (m.); vīllae cūstōs.
+
+vīlla, -ae (f.); domus rūstica.
+
+vinciō, -īre, vīnxī, vīnctum; vinculīs cingō.
+
+vinculum, -ī (n.); id quod manibus et pedibus eōrum
+quī in carcere sunt impōnimus.
+
+vindicō, -āre; _mihi vindicō_ est _dīcō oportēre mē habēre_.
+
+vīnum, -ī (n.); id quod ex ūvīs facimus.
+
+vīsō, -ere, -sī, -sum; apud aliquem eō ut eum videam.
+
+vītis, -is (f.); arbor quae ūvās prōcreat.
+
+vītō, -āre; cōnor aliquem fugere.
+
+volnerō, -āre; volnus dō.
+
+Libellus loquitur.
+
+Cur mordacibus hunc novum libellum,
+lector, dic mihi dentibus lacessas.
+quid culpae merui? Vocasne crimen
+nostris me pueris opem tulisse
+ut discant bene litteras Latinas?
+ne mentem reprehende laude dignam.
+mendas tollere si tamen iubebis,
+monstranti tibi gratias agemus.
+
+
+
+
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK PONS TIRONUM ***
+
+
+    
+
+Updated editions will replace the previous one—the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away—you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG™ LICENSE
+
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project Gutenberg
+electronic works
+
+1.A. By reading or using any part of this Project Gutenberg
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B. “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg mission of promoting
+free access to electronic works by freely sharing Project Gutenberg
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg License must appear
+prominently whenever any copy of a Project Gutenberg work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+    This eBook is for the use of anyone anywhere in the United States and most
+    other parts of the world at no cost and with almost no restrictions
+    whatsoever. You may copy it, give it away or re-use it under the terms
+    of the Project Gutenberg™ License included with this eBook or online
+    at www.gutenberg.org. If you
+    are not located in the United States, you will have to check the laws
+    of the country where you are located before using this eBook.
+  
+1.E.2. If an individual Project Gutenberg electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg electronic works
+provided that:
+
+    • You pay a royalty fee of 20% of the gross profits you derive from
+        the use of Project Gutenberg works calculated using the method
+        you already use to calculate your applicable taxes. The fee is owed
+        to the owner of the Project Gutenberg trademark, but he has
+        agreed to donate royalties under this paragraph to the Project
+        Gutenberg Literary Archive Foundation. Royalty payments must be paid
+        within 60 days following each date on which you prepare (or are
+        legally required to prepare) your periodic tax returns. Royalty
+        payments should be clearly marked as such and sent to the Project
+        Gutenberg Literary Archive Foundation at the address specified in
+        Section 4, “Information about donations to the Project Gutenberg
+        Literary Archive Foundation.”
+    
+    • You provide a full refund of any money paid by a user who notifies
+        you in writing (or by e-mail) within 30 days of receipt that s/he
+        does not agree to the terms of the full Project Gutenberg™
+        License. You must require such a user to return or destroy all
+        copies of the works possessed in a physical medium and discontinue
+        all use of and all access to other copies of Project Gutenberg™
+        works.
+    
+    • You provide, in accordance with paragraph 1.F.3, a full refund of
+        any money paid for a work or a replacement copy, if a defect in the
+        electronic work is discovered and reported to you within 90 days of
+        receipt of the work.
+    
+    • You comply with all other terms of this agreement for free
+        distribution of Project Gutenberg™ works.
+    
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg
+
+Project Gutenberg is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg’s
+goals and ensuring that the Project Gutenberg collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation’s EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state’s laws.
+
+The Foundation’s business office is located at 41 Watchung Plaza #516,
+Montclair NJ 07042, USA, +1 (862) 621-9288. Email contact links and up
+to date contact information can be found at the Foundation’s website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg™ depends upon and cannot survive without widespread
+public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit www.gutenberg.org/donate.
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate.
+
+Section 5. General Information About Project Gutenberg electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org.
+
+This website includes information about Project Gutenberg,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+

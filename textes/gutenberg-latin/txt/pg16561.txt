@@ -1,0 +1,1097 @@
+The Project Gutenberg eBook of Encomium artis medicae
+    
+This eBook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this eBook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+Title: Encomium artis medicae
+
+Author: Desiderius Erasmus
+
+
+        
+Release date: August 20, 2005 [eBook #16561]
+                Most recently updated: December 12, 2020
+
+Language: Latin
+
+Other information and formats: www.gutenberg.org/ebooks/16561
+
+Credits: Produced by Louise Hope, Frank van Drogen and the Online
+        Distributed Proofreading Team at https://www.pgdp.net. This
+        file was produced from images generously made available
+        by The Internet Archive/Canadian Libraries
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK ENCOMIUM ARTIS MEDICAE ***
+
+
+
+
+Produced by Louise Hope, Frank van Drogen and the Online
+Distributed Proofreading Team at https://www.pgdp.net. This
+file was produced from images generously made available
+by The Internet Archive/Canadian Libraries
+
+
+
+
+
+[Illustration:
+IMAGO·ERASMI·ROTERODA
+MI·AB·ALBERTO·DVRERO·AD
+VIVAM·EFFIGIEM·DELINIATA·
+
+"TÊN·KREITTÔ·TA·SYNGRAMMATA·DEIXEI"
+
+·MDXXVI·
+
+A/D]
+
+       *       *       *       *       *
+
+
+             ENCOMIUM ARTIS MEDICÆ
+
+      Desiderio Erasmo Roterodamo Autore.
+
+
+
+            DE LOF DER GENEESKUNDE
+                     van
+              Desiderius Erasmus.
+
+
+       *       *       *       *       *
+
+_Erasmus Roterodamus_
+_D. Henrico Afinio Lyrano_
+            _insigni Medico_
+                _S.D._
+
+Nuper dum bibliothecam recenseo, doctissime Afini, venit in manus
+oratio quaedam olim mihi nihil non experienti, in laudem artis medicae
+declamata; continuo visum est orationem non optimam optimo dicare
+medico, ut vel tui nominis lenocinio studiosorum centuriis commendetur.
+
+Erit hoc interim mei in te animi qualecunque documentum, dum dabitur
+aliud nostra necessitudine dignius.
+
+Bene vale.
+
+Lovanii tertio Idus Martias Anno MDXVIII.
+
+
+       *       *       *       *       *
+
+[Transcriber's Note:
+
+All sidenotes have been collected here to act as a table of contents.
+Most repeat key words, names or phrases from the text. Those that
+appear at the beginning of a paragraph, along with a few others that
+function as explanatory notes, have also been kept in their original
+places.
+
+A few Greek words have been transliterated, and will appear within
+"double quotes."
+
+_Attentio._
+_Propositio._
+_Laudandi ratio per comparationem._
+_Dignitas et autoritas medicinae._
+  _Inventio artis._
+  _Torquet exemplum in suum commodum._
+_A difficultate._
+  _Longum hyperbaton._
+  _Divina res medicina._
+  _Laus ab effectu._
+  _Ars medicorum et mortuos excitare credita est._
+  _Initium vitae medicis debetur._
+  _Ab utilitate perpetua._
+_Senectam remoratur ars medicorum._
+_Totum hominem curat medicus._
+  _Temperaturam corporis emendat medicus._
+  _A simili._
+  _Plato._
+_Principibus maxime necessarius medicus._
+  _Ab exemplo._
+  _Honos habitus medicinae._
+  _Honora medicum._
+_A similibus._
+_Sanitatis custos medicus._
+  _Exempla._
+  _Christus non aegrotavit._
+  _Confutatio._
+  _Donum curationis._
+_Exemplum._
+  _Detorquet._
+_Quibus culta medicina._
+  _Moses._
+  _Orpheus._
+  _Homerus._
+  _Moly._
+  _Nepenthes._
+  _Machaon._
+  _Paeon._
+  _Chiron._
+_Christus ipse medicus._
+  _Paulus medicus._
+  _Raphael._
+_A simili._
+  Seleucides.
+_A quaestu._
+_Confutatio._
+  _Ex Aristophane._
+  _Proverbium._
+_Epilogus._ ]
+
+       *       *       *       *       *
+
+
+         DECLAMATIO ERASMI ROTERODAMI
+            IN LAUDEM ARTIS MEDICÆ.
+
+
+  [Sidenote: _Attentio._]
+
+Quo saepius est ars medicinae, meditatis et elaboratis orationibus,
+hoc ex loco, apud plerosque vestrum praedicata, idque a viris singulari
+facundia praeditis, auditores celeberrimi, hoc mihi sane minus est
+fiduciae, me vel tantae rei, vel aurium vestrarum expectationi
+satisfacturum. Neque enim rem prope divinam nostra facile assequetur
+infantia, neque vulgaris oratio de re toties audita taedium possit
+effugere.
+
+  [Sidenote: _Propositio._]
+
+Verumtamen ne salutari maiorum instituto videar deesse, qui solenni
+encomio juventutis animos ad huius praeclarae scientiae studium,
+admirationem, amorem, excitandos, accendendos, inflammandosque
+censuerunt, experiar et ipse pro mea virili (siquidem me dicentem
+adjutabit vestra tum attentio, tum humanitas, favore candido prosequens,
+quem ad hoc muneris vestra adegit autoritas) medicae facultatis
+dignitatem, autoritatem, usum, necessitatem, non dicam explicare, quod
+prorsus infiniti fuerit negotii, sed summatim modo perstringere, ac
+veluti confertissimas locupletissimae cujuspiam reginae opes, per
+transennam (ut aiunt) studiosorum exhibere conspectibus.
+
+  [Sidenote: _Laudandi ratio per comparationem._]
+
+Cuius quidem ea vel praecipua laus est, primum quod nullis omnino
+praeconiis indiget, ipsa abunde per se vel utilitate, vel necessitate
+commendata mortalibus. Deinde quod toties iam a tam praeclaris ingeniis
+praedicata, semper tamen novam laudum suarum materiam, ingeniis etiam
+parum foecundis ex sese suppeditat, ut nihil necesse sit, eam vulgato
+more invidiosis illis contentionibus, non sine caeterarum disciplinarum
+contumelia depraedicare. Quin illud magis metuendum, ne domesticas
+illius dotes, ne germanam ac nativam amplitudinem, ne majestatem humana
+conditione maiorem, mortalis oratio non assequatur. Tantum abest, ut vel
+aliena contumelia, vel asciticiis Rhetorum fucis, aut amplificationum
+praestigiis sit attollenda. [Sidenote: "gnômê."] Mediocrium est
+formarum, deformiorum comparatione, aut cultus lenociniis commendari;
+res per se vereque praeclaras, satis est vel nudas oculis ostendisse.
+
+  [Sidenote: _Dignitas et autoritas medicinae._]
+
+Iam primum enim (ut ad rem festinemus) reliquae artes quoniam nulla non
+magnam aliquam vitae commoditatem attulit, summo quidem in pretio fuere.
+Verum medicinae quondam tam admirabilis fuit humano generi inventio, tam
+dulcis experientia, ut eius autores, aut plane pro diis habiti sint,
+velut Apollo, et huius filius Aesculapius, imo (quod ait Plinius)
+singula quosdam inventa deorum numero addiderunt, aut certe divinis
+honoribus digni sint existimati, velut Asclepiades, quem Illyrici
+numinis instar receptum Herculi in honoribus aequarunt. Non equidem
+probo quod fecit antiquitas, affectum sane ac iudicium laudo, quippe
+quae recte et senserit et declararit, docto fidoque medico nullum satis
+dignum praemium persolvi posse.
+
+  [Sidenote: _A difficultate._]
+
+Etenim si quis secum reputet, quam multiplex in corporibus humanis
+diversitas, quanta ex aetatibus, sexu, regionibus, coelo, educatione,
+studiis, usu varietas, quam infinita in tot milibus herbarum (ne
+quid interim dicam de caeteris remediis) quae alibi aliae nascuntur,
+discrimina. Tum quot sint morborum genera, quae trecenta nominatim
+fuisse prodita scribit Plinius, exceptis generum partibus, quarum omnium
+quam nullus sit numerus, facile perpendet, qui tantum norit, quot formas
+in se febris vocabulum complectatur, ut ex uno caetera aestimentur;
+exceptis his, qui quotidie novi accrescunt, neque secus accrescunt,
+quam si de composito cum arte nostra bellum suscepisse videantur.
+Exceptis venenorum plus mille periculis, quorum quot species sunt,
+tot sunt mortis genera, totidem remediorum differentias flagitantia.
+Exceptis casibus quotidianis lapsuum, ruinarum, ruptionum, adustionum,
+luxationum, vulnerum, atque his consimilium, quae prope cum ipso
+morborum agmine ex aequo certant. Denique qui cogitet, quanta sit
+in corporum coelestium observatione difficultas, quae nisi cognoris,
+saepenumero venenum erit, quod in remedium datur. Ne quid interim
+commemorem saepe fallaces morborum notas, sive coloris habitum spectes,
+sive lotii signa rimeris, sive pulsus harmoniam observes, velut hoc
+agentibus malis, ut hostem medicum fallant et imponant. Tantum undique
+sese offundit difficultatum, ut mihi difficile sit omnes vel oratione
+prosequi.
+
+Sed ut dicere coeperam, has omnes rerum varietates studio persequi,
+obscuritates ingenio assequi, difficultates industria pervincere, ac
+penetratis terrae fibris, excussis undique totius naturae arcanis, ex
+omnibus herbis, fruticibus, arboribus, animantibus, gemmis, ex ipsis
+denique venenis, cunctis humanae vitae malis efficacia quaerere remedia,
+atque horum opportunum usum ex tot autoribus, tot disciplinis, imo et ab
+ipsis sideribus petere. Haec inquam, tam abdita rimari cura, tam ardua
+viribus animi adipisci, tam multa memoria complecti, tam necessaria ad
+salutem universi mortalium generis in commune proferre, nonne prorsus
+homine maius ac plane divinum quiddam fuisse videtur? Absit invidia
+verbis. Liceat id quod vero verius est ingenue praedicare. Non me jacto,
+sed artem ipsam effero. Etenim si dare vitam proprium dei munus est,
+certe datam tueri, jamque fugientem retinere, deo proximum fateamur
+oportet. Quamquam ne prius quidem illud, quod nos soli deo proprium esse
+volumus, medicorum arti detraxit antiquitas, ut credula, ita gratissima.
+Nam Aesculapii quidem ope Tyndaridam, et post eum complures ab Orco
+in lucem redisse credidit. Asclepiades hominem exanimatum, elatum,
+comploratumque ab rogo domum vivum reduxisse legitur. Xanthus historicus
+catulum leonis occisum, praeterea et hominem, quem Draco occiderat,
+vitae redditum fuisse, posteris prodidit, herba quam halin nominant. Ad
+haec Juba, in Africa quendam herba revocatum ad vitam, testis est. Neque
+vero laboraverim, si sint apud quos haec fide careant. Certe (quod
+agimus) admirationem artis tanto magis implent, quanto magis supra
+fidem veri sunt, et immensum esse fateri cogunt id quod vero supersit.
+Quamquam quantum ad eum attinet, qui vitae redditur, quid refert utrum
+anima denuo in artus relictos divinitus reponatur, an penitus in corpore
+sepulta, morbique victoris oppressa viribus, arte curaque medici
+suscitetur atque eliciatur, iamque certo migratura retineatur? An non
+pene paria sunt mortuum restituere, et mox moriturum servare? Atqui
+permultos nominatim recenset Plinius libro historiae mundanae septimo,
+qui iam elati partim in ipso rogo, partim post dies complusculos
+revixerint.
+
+Miraculum est, quod paucis dedit casus. Et non magis mirandum, quod
+quotidie multis largitur ars nostra? Etiamsi hanc deo Opt. Max. debemus,
+cui nihil non debemus, ne quis haec a me putet arrogantius dicta quam
+verius. Complurium morborum ea vis est, ut certa mors sint, nisi
+praesens adsit medicus, veluti stupor is, qui mulieribus potissimum
+solet accidere, veluti syncopis profunda, paralysis, apoplexia. Neque
+desunt ulli vel seculo, vel genti sua in hanc rem exempla. Hic qui
+mortem ingruentem arte sua depellit, qui vitam subito oppressam revocat,
+nonne ceu numen quoddam dextrum ac propitium semper habendus est? Quot
+censes homines ante diem sepultos fuisse priusquam medicorum solertia
+morborum vires, et remediorum naturas deprehenderat? Quot hodie
+mortalium milia vivunt, valentque, qui ne nati quidem essent, nisi eadem
+haec ars, et tot nascendi discriminibus remedia, et obstetricandi
+rationem reperisset? Adeo statim in ipso vitae limine, et pariens simul
+et nascens salutarem medicorum opem miserabili voce implorat. Horum
+arti vitam debet, et qui nondum vitam accepit, dum per eam prohibentur
+abortus, dum mulieri seminis recipiendi retinendique vis confertur, dum
+pariendi facultas datur. [Sidenote: "paroimia"] Quod si vere dictum est
+illud Deus est juvare mortalem, profecto mea sententia aut nusquam locum
+habebit illud nobile Graecorum adagium "anthrôpos anthrôpou daimonion",
+aut in medico fido proboque locum habebit, qui non juvat modo verum
+etiam servat. An non igitur ingratitudine ipsa videatur ingratior, ac
+ipse prope vita indignus, qui medicinam alteram secundum deum, vitae
+parentem, tutricem, servatricem, vindicem non amet, non honoret, non
+suspiciat, non veneretur? Cuius praesidiis nunquam ulli non est opus.
+Nam reliquis quidem artibus nec semper nec omnes egemus. Huius utilitate
+mortalium omnis vita constat. Nam fac abesse morbos, fac omnibus
+prosperam adesse valetudinem, tamen hanc qui poterimus tueri, nisi
+medicus ciborum salutarium ac noxiorum discrimen, nisi totius victus,
+quam Graeci diaetam vocant, rationem doceat?
+
+  [Sidenote: _Senectam remoratur ars medicorum._]
+
+Grave mortalibus est onus senecta, quam non magis licet effugere quam
+mortem ipsam. Atque ea medicorum opera multis contingit, tum serius, tum
+multo etiam levior. Neque enim fabula est, quinta, quam vocant, essentia
+senio depulso hominem velut abjecto exuvio rejuvenescere, cum extent
+aliquot huius rei testes.
+
+  [Sidenote: _Totum hominem curat medicus._]
+
+Neque vero corporis tantum, quae vilior hominis pars est, curam gerit,
+imo totius hominis curam agit, etiamsi Theologus ab animo, medicus a
+corpore sumat initium. Siquidem propter arctissimam amborum intet se
+cognationem et copulam, ut animi vitia redundant in corpus, ita vicissim
+corporis morbi animae vigorem aut impediunt, aut etiam extinguunt.
+Quis aeque pertinax suasor abstinentiae, sobrietatis, moderandae irae,
+fugiendae tristitiae, vitandae crapulae, amoris abjiciendi, temperandae
+Veneris, atque medicus? Quis efficacius suadet aegroto, ut si vivere
+velit, et salutarem experiri medici opem, prius animum a vitiorum
+colluvie repurget? Idem quoties vel diaetetica ratione, vel ope
+pharmaceutica bilem atram minuit, labantes cordis vires reficit, cerebri
+spiritus fulcit, mentis organa purgat, ingenium emendat, memoriae
+domicilium sarcit, totumque animi habitum commutat in melius, nonne per
+exteriorem, ut vocant, hominem, et interiorem servat? Qui phreneticum,
+lethargicum, maniacum, sideratum, lymphatum restituit, nonne totum
+restituit hominem? Theologus efficit ut homines a vitiis resipiscant, at
+medicus efficit, ut sit qui possit resipiscere. Frustra ille medicus sit
+animae, si jam fugerit anima, cui paratur antidotus. Cum impium hominem
+subito corripuit paralysis, apoplexia, aut alia quaedam praesentanea
+pestis, quae vitam prius adimat, quam vacet de castiganda cogitare vita,
+hunc qui restituit, alioquin infeliciter in suis sceleribus sepeliendum,
+nonne quodammodo tum corpus, tum animum ab inferis revocat? In eum certe
+locum reponit hominem, ut ei in manu jam sit, si velit, aeternam mortem
+fugere. Quid suadebit lethargico Theologus, qui suadentem non audiat?
+Quid movebit phreneticum, nisi medicus prius atram bilem repurgarit?
+
+Pietas caeteraeque virtutes, quibus Christiana constat felicitas, ab
+animo potissimum pendent, haud infitior. Caeterum quoniam is corpori
+illigatus, corporeis organis velit nolit utitur, fit ut bona pars bonae
+mentis a corporis habitu pendeat. Permultos homines infelix corporis
+temperatura, quam Graeci modo "krasin" modo "systêma" vocant, velut
+invitos ac reclamantes, ad peccandum pertrahit, dum animus insessor
+frustra moderatur habenas, frustra subdit calcaria, sed equum
+ferocientem in praecipitium sequi cogitur. Animus videt, animus audit
+sed si oculos occuparit glaucoma, si aurium meatus crassus humor
+obsederit, frustra vim suam habet animus. Odit animus, irascitur animus,
+at vitiosus humor mentis organa obsidens in causa est, ut oderis, quem
+amore dignum judices, irasceris cui nolis irasci. Philosophiae summam in
+hoc sitam esse fatetur Plato, si rationi pareant affectus, atque ad eam
+rem praecipuus est adjutor medicus, hoc agens ut ea pars hominis vigeat
+sapiatque, cuius arbitrio geruntur, quaecunque cum laude geruntur.
+Si hominis vocabulo censentur indigni, qui pecudum ritu rapiuntur
+cupiditatibus, huius nominis dignitatem bona ex parte debemus medicis.
+
+  [Sidenote: _Principibus maxime necessarius medicus._]
+
+Id cum maximum sit in singulis ac privatis, quanto praeclarius est
+beneficium, cum id praestatur in principe? Nulla fortuna magis est
+obnoxia malis huiusmodi, quam felicissimorum regum. Quos autem rerum
+tumultus ciet unius homunculi vitiatum cerebrum? Frustra reclament qui
+sunt a consiliis, furis o princeps, ad te redi, ni medicus arte sua
+neque volenti, neque sentienti suam mentem reddiderit. Si Caligulae
+fidus adfuisset medicus, non usque ad pugionum ac venenorum scrinia in
+perniciem humani generis insanisset. Atque ob eam sane causam publica
+consuetudine receptum est apud omnes orbis nationes, ne princeps usquam
+gentium agat absque medicis. Proinde cordati principes nulli unquam arti
+plus honoris habuerunt, quam medicinae. Quandoquidem Erasistratus (ut
+reliquos taceam) Aristotelis ex filia nepos, ob Antiochum regem sanatum,
+centum talentis donatus est a Ptolemaeo huius filio. Quin et divinae
+literae jubent medico suum haberi honorem, non tantum ob utilitatem,
+verum etiam ob necessitatem, ut in caeteros benemeritos ingratitudo sit,
+in medicum impietas, quippe qui tamquam beneficii divini adjutor, id
+arte sua tuetur, quod optimum nobis et carissimum largitus est deus,
+videlicet vitam.
+
+  [Sidenote: _A similibus._]
+
+Parentibus nihil non debemus, quod per hos vitae munus accepisse
+quodammodo videmur. Plus mea sententia debetur medico, cui toties
+debemus, quod parentibus semel dumtaxat debemus, si tamen illis debemus.
+Pietatem debemus ei, qui hostem a cervicibus depulit, et medico non
+magis debemus, qui pro nobis servandis cum tot capitalibus vitae
+hostibus quotidie depugnat? Reges ceu deos suspicimus, quia vitae
+necisque jus habere creduntur, qui tamen ut possint occidere, certe
+vitam non aliter dare possunt, nisi quatenus non eripiunt, quemadmodum
+servare dicuntur latrones, si quem non jugulent, nec aliam tamen vitam
+dare possunt, quam corporis. At quanto propius ad divinam benignitatem
+accedit medici beneficium, hominem iam inferis destinatum arte, ingenio,
+cura, fideque sua, velut ex ipsis mortis faucibus retrahentis? Aliis
+in rebus profuisse sit officium, caeterum in certo corporis animique
+periculo servasse, plus quam pietas est. Adde his quod quicquid in
+homine magnum est, eruditio, virtus, naturae dotes, aut si quid aliud,
+id omne medicorum arti acceptum feramus oportet, quatenus id servat,
+sine quo ne reliqua quidem queant subsistere. Si omnia propter hominem,
+et hominem ipsum servat medicus, nimirum omnium nomine gratia debetur
+medico.
+
+  [Sidenote: _Sanitatis custos medicus._]
+
+Si non vivit, qui vivit morbis obnoxius, et vitam salubrem aut reddit
+aut tuetur medicus, an non convenit hunc ceu vitae parentem agnoscere?
+Si res exoptanda est immortalitas, hanc medicorum industria, quoad
+licet, meditatur, quae vitam in longum prorogat. Quid enim hic notissima
+referam exempla, Pythagoram, Chrysippum, Platonem, Catonem censorium,
+Antonium, Castorem, cumque his innumerabiles, quorum plerique medicinae
+observatione, vitam ab omni morbo liberam neque fatiscente ingenii
+vigore, neque concussa memoriae soliditate, neque fractis aut
+labefactatis sensibus, ultra centesimum annum prorogarunt? An non
+istuc est immortalitatis, quam speramus, hic iam nunc imaginem quandam
+exhibere? Christus ipse immortalitatis autor ac vindex unicus corpus
+assumpsit, mortale quidem illud, sed tamen nullis morbis obnoxium.
+Crucem non horruit, morbos horruit. An non pulcherrimum fuerit, nos
+principem nostrum in hoc quoque pro viribus imitari? Apostolos, quorum
+nemo fere non multam vixit aetatem, caesos legimus, interfectos legimus,
+aegrotasse non legimus. Quocunque pacto hoc illis contigit, certe
+praestat idem ars medicorum, quod illis praestitit sua felicitas. Nec
+enim audiendos arbitror, qui nobis non minus indocte, quam impudenter
+solent illud objicere: Virtus in infirmitate perficitur, somniantes
+Paulum gravi capitis dolori fuisse obnoxium, cum ille infirmitatem
+vel animi tentationem, vel quod vero propius est, improborum hominum
+molestam insectationem appellet. Atque idem ille Paulus, inter
+apostolicas dotes, donum curationis recensuit.
+
+Iam auget et illud non levi argumento medicinae gloriam, quod et
+Caesarearum legum majestas, et pontificiarum autoritas sese ultro
+medicorum judicio submittit, velut in quaestionibus pubertatum,
+partuum ac veneficiorum. Item in quaestionibus aliquot ad matrimonium
+facientibus. O nova dignitas medicinae. Agitur de capite hominis, et
+judicis sententia pendet ex medici praejudicio. Summi pontificis pietas,
+si quid indulget, in nonnullis non aliter indulget, nisi medicorum
+accedat calculus. Atque in decretis Romanus pontifex episcopum eum, qui
+delatus fuerat tamquam foedo immanique morbo obnoxius, ex medicae rei
+judicio censet aut amovendum episcopatu, aut suo loco restituendum.
+Divus item Augustinus ex medicorum consilio fieri jubet, quod faciendum
+est, etiamsi nolit aegrotus. Idem honorem medico debitum, hoc est artis
+et industriae praemium, recte eripi scribit ab eo qui detinet, velut
+ab injusto possessore et quod alienum est mala fide occupante. Quin ii
+quoque, qui conceptis precaminibus, daemones impios e corporibus humanis
+exigunt, non raro in consilium adhibent, velut in his morbis, qui
+secretis rationibus quaedam sensuum organa spiritusque vitiant, et adeo
+daemoniacam speciem imitantur, ut nisi a peritissimis medicis discerni
+non queant, sive sunt crassiores aliqui daemones, ut fertur illorum
+varia natura, qui medicam etiam opem sentiant, sive morbus adeo penitus
+intimis animi recessibus insidet, ut a corpore videatur alienus. In
+cuius rei fidem, dum ex innumeris mihi compertum exemplum refero,
+quaeso ut me patienter audiatis.
+
+  [Sidenote: _Exemplum._]
+
+Panaceum celeberrimi nominis medicum adolescens colui, is me teste
+quendam restituit, nomine Phlyarium, patria Spoletanum, qui ex vermibus
+in novum maniae genus inciderat, ita ut in morbo probe teutonice
+loqueretur, quod (uti constabat) sanus nunquam potuerat. Quis imperitus
+rei medicae non hunc daemoniacum vel dejerasset etiam? At is hominem
+facili paratoque remedio menti reddidit. Redditus sibi, teutonice nec
+loquebatur, nec intelligebat. Quod si quis hunc vere daemoniacum fuisse
+contendat, ea sane res vel maxime medicorum illustrat artem, cui
+compertum est et daemones impios parere, quemadmodum in restituenda
+vita, ita et in exigendis spiritibus divinae virtutis tum ministrae, tum
+aemulae. Neque vero deerant, qui factum hoc magicis artibus tribuebant,
+quorum ego calumniam arti nostrae gloriae laudique verto, per quam ea
+praestantur, quae vulgus hominum humanis viribus praestari posse non
+credit.
+
+  [Sidenote: _Quibus culta medicina._]
+
+Optimo igitur jure priscis seculis, cum nondum sordidi quaestus et
+spurcae voluptates vitiassent omnia, medendi ars inter omnes una divinis
+ac summatibus viris, opulentissimis regibus, clarissimis senatoribus
+praecipue cordi fuit, nec alia mortalium generi gratior. Siquidem Moses
+ille magnus, non alia ratione quam artis medicae, cibos suos distinxisse
+creditur. Orpheus, Graecorum vetustissimus, de viribus herbarum nonnulla
+prodidisse legitur. Homerus ipse, citra controversiam, unicus ingeniorum
+fons, plurimus est et in herbarum commemoratione, et in laude medicorum.
+Is et Moly nobis depinxit, herbarum omnium (teste Plinio) laudatissimam,
+efficacem adversus veneficia, cuius inventionem Mercurio tribuit, hac
+Ulyssem suum adversus Circes pocula praemuniens. Idem nepenthes indicat
+in conviviis adhibendum, quod moerorem tristitiamque discutiat. Porro
+Machaonem, Paeonem, Chironem, Podalirium, ut hac arte praestantes,
+saepicule non sine honore commemorat, quorum arte non solum heroibus,
+verum ipsis etiam diis subventum esse fingit, illud videlicet
+subindicans, summis etiam principibus medicorum praesidiis opus esse,
+atque horum vitam medicis in manu esse, qui in caeteros omnes jus vitae
+ac necis habere videntur. Quid quod idem Poeta libro Iliados undecimo,
+huius artis professionem longe pulcherrimo nobilitavit elogio, cum ait:
+[Sidenote: "iatros gar anêr pollôn antaxios allôn"] Unum medicum pluris
+habendum, quam caeterorum hominum permultos. Rursum alibi medicum ita
+notat, ut dicat eum eruditum in omnibus, palam testans id quod res est,
+hanc artem non una aut altera disciplina, sed omnium artium cognitione
+circuloque, tum praeter exactum ingenium, multo etiam rerum usu
+constare. Pythagoras ille Samius, cui divinitatem quandam tribuebat
+antiquitas, de naturis herbarum nobile volumen reliquisse legitur. Atque
+ut Platonem, Aristotelem, Theophrastum, Chrysippum, Catonem censorium,
+Varronem praeteream, quibus studio fuit hanc artem suis vel studiis, vel
+negotiis admiscere, Mithridatem Ponti regem, non perinde regnum, alioqui
+locupletissimum, non tam unius et viginti linguarum miraculum, quam rei
+medicae peritia nobilitavit, vereque magnum virum declaravit, qui artis
+huius commentationes, et exemplaria, effectusque in arcanis reliquit,
+ut autor est Plinius. Cuius et hodie nobile theriacae genus nomine
+celebratur. Nunc fere regium habetur, aleam ludere, venari, nugas agere.
+At olim populi Romani principibus nihil magis erat curae, quam ut ex
+longinquo novis importandis herbis, rem medicam adjuvarent, neque populo
+illi tum orbis domino aliud erat munus gratius.
+
+  [Sidenote: _Christus ipse medicus._]
+
+Quid quod Christus ipse, disciplinarum omnium et autor et princeps, sese
+non Iureconsultum, non Rhetorem, non Philosophum, sed Medicum professus
+est, dum de se loquens negat opus esse medico iis, qui bene habeant, dum
+Samaritanus vulneribus oleum ac vinum infundit, dum sputum terrae mixtum
+illinit oculis caeci. Quid quod idem hac potissimum commendatione, cum
+adhuc orbi esset ignotus, sese paulatim in animos atque affectus hominum
+insinuavit, non auro, non imperiis, sed morborum remediis? Quod ille
+nutu fecit, nempe deus, hoc medicus pro virili sua cura imitatur. Neque
+deest his quoque divina vis, nimirum medendi viribus in hunc usum rebus
+a deo inditis. Nec alio viatico magis instruxit Apostolos, mandans ut
+hoc protinus officio sibi devincirent hospitem, medentes inquit, morbis
+illorum, et ungentes oleo. Paulus ille magnus dum Timetheo suo modicum
+vini praescribit usum, ad fulciendam stomachi imbecillitatem, nonne
+palam medici partibus utitur? Sed quid hoc mirum in Apostolo, cum
+Raphael angelus Tobiae caecitati medicans hinc nomen etiam invenerit
+apud arcanarum rerum studiosos? O coelestem vereque sacram disciplinam,
+cuius cognomento divinae illae mentes insigniuntur.
+
+Inter mortales alii alias artes vel discunt, vel profitentur, hanc unam
+oportebat ab omnibus disci, quae nulli non est necessaria. Sed o heu
+perversissima hominum judicia.
+
+Nemo nescire sustinet, quis nummus legitimus sit, quis adulterinus, ne
+quid fallatur in re vilissima, nec scire studio est, quibus modis id
+quod habet optimum tueatur. In numismate non credit alienis oculis,
+in negotio vitae ac sanitatis, clausis quod dicitur oculis, sequitur
+alienum judicium. Quod si totius artis absoluta cognitio non potest nisi
+paucis contingere, qui totam vitam huic uni studio dedicarunt, certe
+partem eam, quae ad tuendam valetudinem pertinet, non conveniebat
+quemquam nescire. Etiam si bona pars difficultatis, non ab ipsa arte,
+sed ab improborum medicorum vel inscitia, vel ambitione proficiscatur.
+
+  [Sidenote: _A simili._]
+
+Semper apud efferas etiam ac barbaras nationes sanctum ac venerabile
+fuit amicitiae nomen. Atque is egregius habetur amicus, qui se fortunae
+utriusque comitem sociumque praebeat, quod vulgus amicorum velut
+hirundines aestate, rebus secundis adsunt, rebus adversis, quemadmodum
+illae ingruente bruma devolant. At quanto sincerior amicus medicus, qui
+Seleucidum avium exemplo, quas narrant nusquam a Casii montis incolis
+conspici, nisi cum illarum praesidio est opus, adversus vim locustarum
+fruges vastantium, rebus integris ac laetis nusquam sese ingerit, in
+periculis, in his casibus, in quibus uxor ac liberi saepe deserunt
+hominem, velut in phrenesi, phthiriasi, in peste solus medicus
+constanter adest, et adest non inutili officio, quemadmodum plerique
+caeterorum, sed adest opitulaturus, adest pro capite periclitantis cum
+morbo dimicans, nonnunquam suo quoque periculo. Et o plus quam ingratos,
+qui talis amici officio servati, jam depulso periculo medicum odisse
+possunt, ac non potius parentis vice colunt ac venerantur. Vulgarem
+amicum, qui subinde salutat obvium, ad coenam rogant, qui latus claudit,
+officio pensant, et talem amicum ubi desierint egere, aversantur? Et ob
+hoc ipsum aversantur, quod intelligant illius officio nullam meritis
+parem gratiam rependi posse.
+
+Quod si is optimus vir est, qui maxime prodest Reipublicae, ars haec
+optimo cuique viro discenda est.
+
+[Siquidem inter munia profani magistratus non minima portio est, et
+haud scio an praecipua, dare operam, ut corpora civium bene habeant.
+Quid prodest depulisse hostem a moenibus, si pestilentia intus grassans,
+plures tollit quam sublaturus erat gladius? Quid refert curasse ne cui
+pereat census, si perit prospera corporis valetudo? Prisci qui bonorum
+ordines digesserunt, primas tribuunt bonae valetudini. Quid enim prodest
+incolumis possessio, nisi valet possessor? Proinde leges priscorum, cum
+nondum quaestus et ambitio corrupisset omnia, potissimum huc spectabant,
+ut corpora civium essent valida, robusta, beneque temperata. Ea
+res partim pendet a nativitate, partim ab educatione, partim ab
+exercitamentis, et victus ratione, nonnihil etiam ab aedificiorum modo.
+Nimirum medici fungebantur officio, qui bene temperata corpora jungebant
+matrimonio, qui nutrices adhibebant integrae valetudinis, qui balnea
+publica, qui publica gymnasmata instituebant, qui ferebant leges
+sumptuarias, qui mutatis aedificiis, qui siccatis paludibus pestilentiam
+excludebant, qui in hoc vigilabant, ne quid esculentum aut poculentum
+venderetur, quod laederet corporum incolumitatem. Et hodie principes
+fere nihil ad se pertinere credunt, si pro vinis vendantur venena, si
+tritico vitiato, si putribus piscibus tot morbi invehantur in publicum.
+
+Adeo nulla vitae pars est, quae citra medicinae praesidia recte possit
+administrari.]
+
+  [Sidenote: _A quaestu._]
+
+Iam vero si qui sint, qui rerum pretia malint utilitate quaestuque
+metiri (licet haec ars divinior est, quam ut huiusmodi rationibus sit
+aestimanda) ne hac quidem parte cuiquam aliarum cedit artium. Neque enim
+ulla magis fuit frugifera, et ad rem subito parandam aeque praesentanea.
+Erasistratus cuius ante memini, a rege Ptolemaeo, Critobolus ab
+Alexandro magno, praemiis ingentibus ac vix credendis donati leguntur.
+Quamquam quod tandem praemium non exiguum videatur, repensum servatori
+capitis, pro cuius unius salute tot hominum millia depugnabant? Quid ego
+nunc commemorem Cassios, Carpitanos, Aruncios, Albutios, quibus Romae
+tum apud principem, tum apud populum immodicum quaestum fuisse refert
+Plinius? Quanquam quid nos haec ex priscis aetatibus repetimus, quasi
+non hodie cuique complures succurrant, quos haec ars ad Croesi opes
+evexerit?
+
+Rhetorica aut Poetica non alit nisi insignem. Musicus ni praecellat,
+esurit. Iureconsulto tenuis proventus est, ni sit eximius. Sola medicina
+quomodocunque doctum alit ac tuetur. Innumeris disciplinis, infinita
+rerum cognitione constat res medica, et tamen frequenter unum aut
+alterum remedium alit idiotam. Tantum abest, ut haec ars sterilitatis
+damnari possit.
+
+Adde quod caeterarum artium non ubique paratus est quaestus. Rhetor
+frigebit apud Sarmatas, juris Caesarei peritus apud Britannos. Medicum
+quoquo terrarum sese contulerit suus comitatur honos, suum sequitur
+viaticum, ut in nullam disciplinam verius competat vulgatissimum illud
+Graecorum proverbium, "to technion hê pasa gê trephei".
+
+  [Sidenote: _Confutatio._]
+
+Sed hoc ipsum indignatur Plinius, aut certe apud hunc alii, quaestum
+esse medicinae professionem. Maior est, fateor, haec facultas quam ut
+quaestui lucroque serviat, sordidarum id est artium. Sed nimis ingratum
+est, eam solam sua fraudare gratia, cui nulla par gratia rependitur.
+Egregius medicus ceu numen quoddam, servat gratis, servat et invitos.
+Sed impietas est, non agnoscere numinis beneficium. Nihil ille
+moratur mercedem, tu tamen dignus qui legibus mulcteris ob insignem
+ingratitudinem.
+
+Iam haudquaquam me fugit, hanc egregiam artem et olim apud veteres
+audisse male, et hodie apud indoctos quosdam male audire. Catoni
+non placuit, non quod rem damnaret, sed quod ambitiosam Graecorum
+professionem non ferret homo mere Romanus. Isque tantum tribuit
+experientiae, ut artem esse noluerit, sed idem universam Graecorum
+philosophiam ex urbe pellendam censuit. Existimabat homo durus, ad
+purgandum hominis corpus sufficere brassicam et crebros vomitus, et
+tamen ille ipse medicorum hostis observatione medicinae, in extremam
+usque senectutem robur infractum tutatus scribitur.
+
+Solis, inquiunt, medicis summa occidendi impunitas est. At hoc nomine
+magis suspiciendi boni medici, quibus cum in manu sit, non solum
+impune, verum etiam mercede occidere, tamen servare malunt. Quod possunt
+facultatis est, quod nolunt probitatis. Decantatur iam passim inter
+pocula temulentorum adagium, Qui medice vivit, misere vivit. Quasi vero
+felicitas sit, distendi crapula, rumpi Venere, turgescere cervisia,
+sepeliri somno. Sed istos Sycophantas quid opus est oratione refellere,
+cum ipsi petulantiae suae satis magnas poenas dant arti, mox podagra
+contorti, paralysi stupidi, desipiscentes ante tempus, caecutientes ante
+senectutem, iamque prius vituperatae medicinae, exemplo Stesichori,
+seram canunt palinodiam miseri. Et tamen his licet indignissimis, artis
+bonitas non gravatur esse praesidio, quantum licet. Sunt qui, mutuato ex
+vetere comoedia scommate, vocent medicos "skatophagous". Quasi vero non
+isto nomine vel praecipue laudari mereantur, qui quo subveniant hominum
+calamitatibus, ex illa sua sublimitate sese ad haec sordida dejiciant.
+Quod si medicis tantum esset supercilii, quantum istis est procacitatis,
+liceret passim impune mori. Verum habet hoc ars nostra cum bonis regibus
+commune, ut bene faciat ac male audiat.
+
+Quod si maxime sunt, ut sunt in hoc ordine, qui se pro medicis gerunt,
+cum nihil minus sint quam medici. Si sunt qui pro remediis venena
+ministrant, si sunt qui ob quaestum et ambitionem aegrotis male
+consulunt, quid iniquius est, quam hominum vitia in artis calumniam
+detorquere? Sunt et inter sacerdotes adulteri, inter monachos homicidae
+ac piratae, sed quid hoc ad religionem per se optimam? Nulla tam sancta
+professio est, quae non alat sceleratos aliquot. Votis quidem omnibus
+optandum, omnes principes eiusmodi esse, cuiusmodi decet esse, qui
+censeantur hoc digni nomine. Nec tamen ideo damnandus est principatus,
+quod nonnulli sub eo titulo praedones reique publicae hostes agant.
+Optarim et ipse medicos omnes vere medicos esse, nec in his locum dari
+Graecorum proverbio, "polloi boukentai pauroi de te gês arotêres".
+Optarim ab omnibus eam praestari sanctimoniam, quam Hippocrates
+sacramento verbis solennibus concepto a professoribus exigit. Neque
+tamen huc non enitendum est nobis, si id a plerisque negligi
+conspicimus.
+
+Sed quoniam huius argumenti tanta est ubertas, viri praestantissimi, ut
+difficillimum sit in eo dicendi finem invenire, ne non praestem quod
+initio sum pollicitus, tempestivum arbitror, universas eius laudes
+summatim complecti.
+
+  [Sidenote: _Epilogus._]
+
+Etenim si permultas res sola commendat antiquitas, hanc artem primam
+omnium reperit necessitas. Si scientiam autores illustrant, huius
+inventio semper diis attributa est. Si quid autoritatis addit honos, non
+alia tam passim ac tam diu divinos honores meruit. Si magni fiunt, quae
+summis viris probantur, haec summos reges, haec primates non solum
+delectavit, verum etiam illustravit. Si difficilia quae sunt, ea sunt
+et pulchra, nihil hac operosius, quae tot disciplinis, tantarum rerum
+pervestigatione usuque constat. Si dignitate rem aestimamus, quid
+excellentius, quam ad dei benignitatem proxime accedere? Si facultate,
+quid potentius aut efficacius quam totum hominem certo exitio periturum
+sibi posse restituere? Si necessitate, quid aeque necessarium atque id
+sine quo nec vivere, nec nasci licet? Si virtute, quid honestius, quam
+servare genus humanum? Si utilitate, nullius usus neque maior est, neque
+latius patet. Si compendio, aut haec in primis frugifera sit oportet,
+aut ingratissimi mortales.
+
+Vobis igitur magnopere gratulor, eximii viri, quibus contingit in hoc
+pulcherrimo genere professionis excellere.
+
+Vos adhortor, optimi juvenes, hanc toto pectore complectimini, in hanc
+nervis omnibus incumbite, quae vobis decus, gloriam, autoritatem, opes
+est conciliatura, per quam vos vicissim amicis, patriae, atque adeo
+mortalium generi non mediocrem utilitatem estis allaturi.
+
+
+                     Dixi.
+
+       *       *       *       *       *
+
+[Transcriber's Errata:
+
+page 6n.
+  Laudandi ratio
+    _text reads_ Laudandiratio
+
+page 14
+  propter arctissimam amborum inter se cognationem
+    _text reads_ intet se
+
+page 18n.
+  Honora medicum.
+    _text reads_ honara
+
+page 26n.
+  iatros gar anêr pollôn antaxios allôn
+    _spelling as in original_
+
+page 30
+  Timetheo suo
+    _spelling as in original_
+
+pages 32 - 34
+  [Siquidem inter ... administrari.]
+    _text bracketed in original_
+
+page 34
+  qui mutatis aedificiis
+    _text reads_ aedifiiciis ]
+
+
+
+
+
+End of Project Gutenberg's Encomium artis medicae, by Desiderius Erasmus
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK ENCOMIUM ARTIS MEDICAE ***
+
+
+    
+
+Updated editions will replace the previous one—the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away—you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG™ LICENSE
+
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project Gutenberg
+electronic works
+
+1.A. By reading or using any part of this Project Gutenberg
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B. “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg mission of promoting
+free access to electronic works by freely sharing Project Gutenberg
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg License must appear
+prominently whenever any copy of a Project Gutenberg work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+    This eBook is for the use of anyone anywhere in the United States and most
+    other parts of the world at no cost and with almost no restrictions
+    whatsoever. You may copy it, give it away or re-use it under the terms
+    of the Project Gutenberg™ License included with this eBook or online
+    at www.gutenberg.org. If you
+    are not located in the United States, you will have to check the laws
+    of the country where you are located before using this eBook.
+  
+1.E.2. If an individual Project Gutenberg electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg electronic works
+provided that:
+
+    • You pay a royalty fee of 20% of the gross profits you derive from
+        the use of Project Gutenberg works calculated using the method
+        you already use to calculate your applicable taxes. The fee is owed
+        to the owner of the Project Gutenberg trademark, but he has
+        agreed to donate royalties under this paragraph to the Project
+        Gutenberg Literary Archive Foundation. Royalty payments must be paid
+        within 60 days following each date on which you prepare (or are
+        legally required to prepare) your periodic tax returns. Royalty
+        payments should be clearly marked as such and sent to the Project
+        Gutenberg Literary Archive Foundation at the address specified in
+        Section 4, “Information about donations to the Project Gutenberg
+        Literary Archive Foundation.”
+    
+    • You provide a full refund of any money paid by a user who notifies
+        you in writing (or by e-mail) within 30 days of receipt that s/he
+        does not agree to the terms of the full Project Gutenberg™
+        License. You must require such a user to return or destroy all
+        copies of the works possessed in a physical medium and discontinue
+        all use of and all access to other copies of Project Gutenberg™
+        works.
+    
+    • You provide, in accordance with paragraph 1.F.3, a full refund of
+        any money paid for a work or a replacement copy, if a defect in the
+        electronic work is discovered and reported to you within 90 days of
+        receipt of the work.
+    
+    • You comply with all other terms of this agreement for free
+        distribution of Project Gutenberg™ works.
+    
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg
+
+Project Gutenberg is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg’s
+goals and ensuring that the Project Gutenberg collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation’s EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state’s laws.
+
+The Foundation’s business office is located at 41 Watchung Plaza #516,
+Montclair NJ 07042, USA, +1 (862) 621-9288. Email contact links and up
+to date contact information can be found at the Foundation’s website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg™ depends upon and cannot survive without widespread
+public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit www.gutenberg.org/donate.
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate.
+
+Section 5. General Information About Project Gutenberg electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org.
+
+This website includes information about Project Gutenberg,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+

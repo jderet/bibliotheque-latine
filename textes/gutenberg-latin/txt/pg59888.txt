@@ -1,0 +1,1042 @@
+The Project Gutenberg eBook of Termini medici in lingua fennica occurrentes
+    
+This eBook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this eBook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+Title: Termini medici in lingua fennica occurrentes
+
+Author: Johannes Agapetus Törngren
+
+
+        
+Release date: July 10, 2019 [eBook #59888]
+
+Language: Latin
+
+Other information and formats: www.gutenberg.org/ebooks/59888
+
+Credits: E-text prepared by Jari Koivisto
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK TERMINI MEDICI IN LINGUA FENNICA OCCURRENTES ***
+
+
+E-text prepared by Jari Koivisto
+
+
+
+           TERMINI MEDICI
+     IN LINGUA FENNICA OCCURRENCES
+
+       DISSERTATIO ACADEMICA
+               QUAM,
+  VENIA EXPERIENTISSIMÆ FACULTATIS MEDICÆ
+  AD IMPERIAL. ALEXANDR. IN FINNIA UNIV.,
+
+            PRAESIDE
+
+  JOHANNE AGAPETO TÖRNGREN,
+  Med. Doct., Chir. Mag., Chirurgiae et Artis Obstetriciae
+  Professore P.O. General. Direct, rei Medicae in
+  Finlandia locum tenente, Ordinum Imperialium
+  de S:ta Anna in II:da Classe, cum orona
+  Imperiali et de S:to Wolodimiro in
+  IV:ta Classe Equite,
+
+     PRO GRADU MEDICO
+  PUBLICO EXAMINI SUBJICIT
+
+    JOHANNES FREDERICUS TICKLÉN,
+  Philos. Doctor, Med. Licentiatus, et Amanuensis ad
+  Bibliothecam Imper. Alexandr. in Fennia
+  Univers. Ordinarius.
+
+ In Audit. Nov. Aedium die XIV Junii a. MDCCCXXXII.
+                   h. a. m. s.
+
+HELLINGFORSIAE
+Excudebant J.C. Frenckell & Fil.
+
+
+
+
+Artem Medicam inter primas apud omnes gentes in exercitio fuisse,
+et ipsius rei natura probat et historia quoque omnium temporum
+testatur. Hanc vero disciplinam, generi humano saluberrimam, non
+nisi observationibus mere empiricis et commentis superstitiosis
+ubique primis temporibus fuisse conflatam facile intelliges. Scilicet
+praesente semper valetudinis recuperandae desiderio, at deficiente
+medico bene informato, optima medicastris et agyrtis ministrabatur
+occasio fallacias suas aegrotis quamcumque opem avide petentibus
+venditandi. Quae res quantum mali hominibus intulerit, omnem superat
+conjecturam. Ad hoc malum, quantum fiere posset, tollendum,
+recentioribus temporibus apud omnes fere gentes partim doctrinae
+medicae studium facilius redditum est eo, quod vernacula lingua opera
+sua exscripserint auctores medici, partim vero civibus etiam non
+medicis ad veritates hujus disciplinae maxime necessarias per populares
+tractatus therapeuticos patefactus est aditus. At haec nostratibus
+adhuc omnino fere desunt commoda. -- Contra vero et in praxi medica
+impedimentum est permagnum apud medicos haud paucos, quamvis de cetera
+et doctrinae soliditate et benevolentiae integritate insignes, penuria
+linguae fennicae, qua evenit ut neque plane intelligere possint morbi
+naturam fennice descripti, neque semper optimam eligere medendi
+methodum. Incommoda haecce, quibus nostra adhuc, laborat patria,
+perpendentes operae praetium esse existimavimus, quo et facilior in
+posterum cuilibet fiat labor medicas res fennica lingua tractare,
+et major beneficia artis medicae civibus nostris impertiendi potestas
+medicis linguae fennicae minus peritis suppeditetur, terminos medicos
+in lingua fennica occurrentes, quantum et propria assequi potuimus
+diligentia et aliorum etiam collectis accepimus, sequentibus pagellis
+exhibere. -- Fontes et adminicula, quibus in conficiendo opusculo
+occe usi sumus, praecipua sunt _Lexicon Linguae Fennicae, Auctore
+Gust. Renvall, Maan-Miehen Huone ja Koti-Apotheekki et Eläinten
+Tauti-Kirja Cgristfried Gananderilda Wuonna 1785, Svensk Botanik,
+utgiven af Palmstruck m.fl._ ubi plantarum nomina comptura et fennice
+exhibitA sunt, nec non _UNderrättelse om de mest gångbara sjukdomars
+kännande och motande; samt ett litet Res- och Hus-Apothek af Johan
+Joh:son Haartman_, Åbo, 1765.
+
+Est vero in consilio eos tantummodo terminos medicos heic admittere,
+qui plurimum in genuino versantur Fennonum sermone et qui respectu
+pathologico et therapeutico maximi sunt momenti cognitu. Quamobrem
+repudiavimus omnes qui aut sueticismum nimis olent aut per, meram
+versionem ex latinis denominationibus extitere fennico idiomati minus
+congrui, quippe illis genium linguae vernaculae inquinare noluimus,
+hos vero ex medicorutn fictione, non ex populi ore, in lucem prodiisse
+arbitraverimus. Ordinem tractationis potissimum elegimus alphabeticum,
+utpote et nostra sententia aptissimum, et illis, qui ex opusculo
+hocce aliquam utilitaten quaerere velint, commodissimum, atque
+latino-quidem fennicum ea ex caussa praetulimus, quod exstat nobis jam
+lexicon fennico-latinum supra citatum Celeberrimi Renvall, quo perbene
+uti possunt in medicis illi quibus hic ordo magis convenerit.
+
+Sed antequam ipsum opus aggrediamur, non incommodum videtur, pauca
+quaedam et generalia tantummodo pro instituti ratione de medicina
+Fennonum praemittere, ne nimis offendatur lector, si in sequentibus
+invenerit nonnulla quae primo adspectu a veritate abhorere forsan
+videantur. -- Antiquitus jam, ars medica Fennonibus propria quidem
+fuit, sive ipsi secum e peregrinis terris huc commigrantes attulerint,
+sive a Lapponibus tunc temporis Fenniam habitantibus acceperint, --
+quod quidem verisimile, cum et hodie maxima sit similitudo inter
+Lapponum et Fennonum artificia medica, et in septemtrionalibus Fenniae
+regionibus adhucdum pluris quam alibi habeatur magica ilia medicinae
+exercitatio; -- attamen, et deficiente caeterarum scientiarum omni
+lumine, et cum, variis impediti superstitionibus, magicisque imprimis
+et incantatoriis usi medendi, rationibus, accuratioris observationis
+auxilium omnino fere rejicerent Fennonum magi (_loihtiat, tietäjät_)
+fieri non potuit, quin multae notiones medicae admodum vagae et sibi
+inconstantes orirentur. Natura morborum cum ignota plerumque maneret,
+denominationes ipsorum aptas, ne dicam definitiones, fingere non
+potuerunt. Hancce penitioris cognitionis penuriam testantur permulta
+nomina morborum fennica, ut e.g. _Sydäntauti_, quod, quamvis quasi
+excuset synonyma denominatio latina _Cardialgia_, in fennica tamen
+multo magis vagum habet sensum, cum omnes fere morbos significet,
+quorum symptomata aut regionem epigastricam aut thoracis inferiora
+quocumque modo feriant. Ejusdem generis est _Riisi_ quod complures
+et diversos significat infantum morbus chronicos; -- et multa alia.
+Caussas vero morborum exquirere neglexerunt, cum superstitiose easdem
+a daemone quodam malo aut ab hominibus daemonica quadam vi
+praeditis organismo illatas esse opinarentur. Quod vero ad curam
+morborum attinet, partira exstatica quadam inspiratione ducti remedia
+invenerunt interdum non omnino abhorrentia, partim vero, hanc
+immediatae, ut ita dicam, indaginis viam deserentes, in varia pericula
+aberrarunt. Negari equidem non potest, in quibusdam morbis medicamenta
+sua seu arcana feliciter adhibuisse et ad huc, adhibere Fennonura magos;
+et si ad id attenderis, quod ubique in iisdem fere familiis conservata
+fuerir haecce mystica medicinam exercendi ars, neque omnino vagam nec
+arbitrariam eandem esse judicabis. Contra vero, si adminicula adessent
+stadium sciendae medicae promoventia, summo jure sperare liceret, pro
+ingenii fennici sagacitate, haud raro mirefice emicante, medicinam
+quoque rusticorum hucusque omni carentem verae scentiae praesidio,
+sensim sensimque in melius conversam, majori tandem nostratibus
+futuram utilitati.
+
+Pharmacologicae Fennonum denominationes plurimum ad vegitabilia
+pertinent, utpote quae sola ad Fennonum rusticorum cognitionem
+pervenire potuerant et testantur plures ex ipto usu originem suam,
+ut _riisi-ruoho, koi-ruoho, rutto-juuri_ &c. Ceteri vero omnes
+termini, qui Anatomiam, Physiologiam, Diaeteticen et Medicinam
+Forensem spectant, adeo pauci adhuc Fennonibus sunt, ut illorum vix
+alia facienda videatur mentio quam enumeratio alphabetica, cum et
+ceteroquin nihil fere habeant singulari animadversione dignum.
+
+Haecce obiter tantummodo perstrinximus, quo et rationem operis,
+specimen academicum sistentis, systematico ordine carentem quodammodo
+excusaremus et imprimis consilii nostri probitatem vel paucis hisce
+ostenderemus. Tuo vero, Lector benevole! mansueto judicio opusculam
+nostrum impense commendamus, non ex adytis quidem scientiae medicae
+depromtum, attamen, quod pio animo speramus et optamus, non sine omni
+futurum utilitate.
+
+
+
+
+Termini medici in Lingua Fennica occurrentes.
+
+
+  Abdomen.                   Wahta.
+  Ablactatio.                Wierottaminen.
+  Abortus.                   Keskoinen, -- um pati, murteu'a,
+                             luu'a kesken, kantaa.
+  Acetocella.                Jäneksen käpälä.
+  Acromion.                  Olkapä.
+  Acutus.                    Puuskainen.
+  Aeger.                     Potilas, sairas, taudillinen.
+  Aegritudo.                 Nurwe (anxiety; melancholy; pk. huom.).
+  Affectus animi.            Into.
+  Allium cepa.               Sipuli.
+  Allium sativ.              Kynsi-laukka.
+  Alterallo.                 Peljästys.
+  Ambusta.                   Polttohaawat, pallanneet.
+  Angelica silfverstr.       Karhun putki, ryti-putki.
+  Angina.                    Närä, Kurkun poltto, poltet tauti.
+  Anhelatio.                 Puhka.
+  Anhelo.                    Läähötän, tuhostan.
+  Animum delinquere.         Julehtua, menehtyä.
+  Apertura vulneris.         Malo.
+  Aphtae.                    Sammas, talma.
+  Apoplexia.                 Ampu-tauti, Kaatumus-tauti.
+  Apostema.                  Mähkä, putkama, pukama, äkämä, kuisma.
+  Araneae tela.              Lukin werkko.
+  Artemisia absinth.         Koiso, Koin-ruoho.
+  Artemis. vulgaris.         Pujo.
+  Arteria.                   Henkisuoni, sydänsuoni, waltasuoni.
+  Arteria aspera.            Henkitorwi, kurkkutorwi.
+  Arthritis.                 Luutauti, luuwalo, luuwana, jäsenten
+                             särkö, A. vaga. Juoksia-tauti, kleini.
+  Articulatio.               Niwelä.
+  Asa foetida.               Pirun paska.
+  Ascarides.                 Pienet madot.
+  Asthma.                    Hinku, rinnan ahdistus, sulku-tauti.
+  Asthmaticus.               Sulkuinen.
+  Atheroma.                  Liika.
+  Atrophia.                  Riisi.
+  Axilla.                    Kainalo.
+
+  Balneum.                   Kylpy, sauna.
+  Beta vulgar.               Puna juuri.
+  Betula.                    Koiwu.
+
+  Cacoëthes.                 Mätähaawa.
+  Calculus.                  Kiwi-tauti.
+  Callus.                    Juote, lunn-juote.
+  Calvaria.                  Kallo, pääkallo.
+  Calvum caput.              Paljas pää.
+  Calx.                      Kanta, kantapää.
+  Cannabis sativa.           Hamppu.
+  Carbunculus.               Weripahka, vid. Apostema.
+  Carcinoma.                 Ruumiin mato, Syöpä, Eläwä.
+  Cardamine pratens.         Nuttu-krassi.
+  Cardialgia.                Kukonnuora, Hiuka, niuka, sydäntauti,
+                             wesiahma.
+  Caries.                    Luun lahominen.
+  Caro gangraenosa.          Talwiliha.
+  Caro luxurians.            Liika-liha, kuollut liha.
+  Carpus.                    Ranne, rystä, kalwoisin.
+  Cartilago.                 Rusto.
+  Cartil. thyreoid.          Kurkun solmu.
+  Carvum.                    Kumina.
+  Castoreum.                 Hausta, majan haju.
+  Cataplasma.                Haudet.
+  Cataracta.                 v. Pterygium.
+  Catarrhus.                 Röhkä, nenän tukko.
+  Centaurium (chironia).     Ranta-sappi.
+  Cerumen.                   Waikku.
+  Cervicis cavamen.          Niskatuuru.
+  Centipellio.               Satakerttu, satakerta.
+  Cephalalgia.               Päänsärkeminen.
+  Chamaemorus (Rubas)        Muurama.
+  Chamomilla.                Saunakukkainen, Johannexen kukkainen.
+  Chronicus.                 Pitkittäwä.
+  Cibi fastidium.            Nirso, niwo, nujo
+  Cibus cito transiens.      Hupa.
+  Cib. tarde transiens.      Näkylä
+  Cicatrix.                  Arpi.
+  Cicuta.                    Keisan putki, myrkkyputki, iso juuri.
+  Cilia.                     Otarwat, silmän ripset.
+  Clavus.                    Warwaskänsä.
+  Clinopod. vulgare.         Kissan minttu.
+  Clunes.                    Pakara, puo, peppu, perse.
+  Cohibeo magice.            Tymeän, tyretän, tydytän
+  Colica.                    Sydäntauti, watsatauti, puhistus,
+  C. flatulenta.             Pöhö.
+  C. cum abstructione.       Ähky, ahma.
+  Colostrum.                 Terni-maito.
+  Conium.                    Iso-yrtti.
+  Convallar. majal.          wilkun walkku.
+  Contagium.                 Rupeus, ruutana, saasta. -- osus. Tarttuwa.
+  Contractura.               Rampa tauti; liha-suonten kuiwaminen.
+  Contusio.                  Loukkaus.
+  Convallaria majalis.       Koiran kieli.
+  Convulsio.                 Wäwähteleminen.
+  Cophosis.                  Kuurous.
+  Corylus avellana.          Pähkinäpuu.
+  Coryza.                    Nuha, unha, nuoha.
+  Coxae.                     Kaatio, longas luu, luntio, lanneluu,
+                             risti-luu. ronkka.
+  Coxae apices.              Sarwento.
+  Coxarum morbus.            Lanne-tauti, Lonkka-tauti, läpineet.
+  Coxendix.                  Ristiluut.
+  Cranium.                   Raiwa.
+  Crisis.                    Murre.
+  Cruor.                     Tyrmä, hurme.
+  Crusta.                    Kuori, C. lactis. Kerma,
+  C. vulneris.               Rehne.
+  Cunnus.                    Wittu, kuttu, pillu.
+  Cutis tenuis.              Masmalo, C. Callosa. Kalsia, C. iuduratio.
+                             Sierotus.
+  Cynanche.                  Kurkun ahdistus. v. Asthma, Angina.
+  Conoglossum officin.       Williruoho.
+
+  Debilis pedibus.           Rammio.
+  Delirium.                  Houraileminen.
+  Deliquuim patior.          Menehdyn, tainnun.
+  Dentes incisores.          Etuhampaat, D. molares. Syömähampaat.
+                             D. sapient. Ijäntäyttäjät.
+  Diagnostica signa.         Tuntomerkit.
+  Diaphragma.                Sydänkalwo, wälikalwo.
+  Diarrhoea.                 Watsa-tauti, ulkoinen, kura-tauti, kuratti,
+                             wahturi, ruikka-tauti, ruikku-tauti
+  Digeror.                   Wetäyn. (pharmacol.)
+  Doleo.                     Poden, raiskan, paasen.
+  Dolet.                     Porottaa, mojottaa, kiwistää, jumottaa,
+                             pakottaa.
+  Dolor,                     Kipu, poro. D. internus, Walo. D. occultus.
+                             Umpi-kuju. D. ossium. Raiste.
+  Dysenteria.                Punatauti, sydämentauti.
+  Dyspepsia.                 Heikko mako.
+
+  Ecchymoma.                 Sinimarja, kyhmy.
+  Ecclampsia.                Meneskelewäisyys.
+  Enteritis.                 Watsan poltto.
+  Ephialtes.                 Painaja, leäwämato, talwikko.
+  Epidemia.                  Kulkutauti, liikkuwatauti.
+  Epiglottis.                Kurkun kansi, l. kannin.
+  Epilepsia.                 Lankeewaiset, kaatuwa, pahan pieksiä.
+  Errans.                    Juoksewa.
+  Erysimun offic.            Perna-ruoho.
+  Euphrasia offic.           Nummen kukoistus, silmä-ruoho.
+  Exanthema.                 Rahko, maahiteet, rupi, maahifso,
+                             E. infantum. Kerni, E. e vento.
+                             Tuulen lento.
+  Excoriatio.                Lyötäntö, heltynyt.
+  Excrementum.               Sitta, paska, sonta.
+  Expositus infans.          Heitto lapsi.
+  Exsecratio morbi magica.   Kirot.
+
+  Fascia vulneris.           Tukko, katet-liina.
+  Fastidium.                 Niwo, nujo
+  Fauces.                    Nielu, kita, kurkku.
+  Febris.                    Poltto, syttö, wäreet, lämmin-tauti.
+  F. catarrhalis.            Kino-tauti.
+  F. lntermittens.           Wilu-tauti.
+  F. Interm. quartana cum delirio. Horkka.
+  Femur.                     Reisi, jorwa. reitikka.
+  Foetor.                    Haju, myrkkä, löyhkä.
+  Formica.                   Kusiainen.
+  Fractura.                  Raino, Luun sämä, luun murtuminen.
+  Fragar. vesca.             Maa-mansikka.
+  Fuligo.                    Karsta.
+  Fumaria.                   Linnun-herne.
+  Furor.                     Wiltiö.
+  Furunculus.                Äkämä, putkama, putken polttama.
+
+  Gallae turcicae.           Tammen terho.
+  Ganglion.                  Syylä.
+  Gangraena.                 Wihat.
+  Genitalia.                 Neuwot.
+  Gentiana.                  Pässin kellukka.
+  Geum rivale et urbanum.    Karwa-kellukka.
+  Gibbus.                    Pyhä, kyssä, kässä,  kupu, kellukka.
+  Glandula.                  Rauhainen, kirtti, risa.
+  Gravedo.                   Nuha, unha.
+  Gravida.                   Kohdullinen, tiine.
+  Guttur.                    Henkikurkku, luukurkku.
+
+  Haematemesis.              Werenoxento.
+  Haematuria.                Weren heitto.
+  Haemoptysis.               Weren sylkö, weren yskeminen.
+  Haemorrhagia.              Hurmikko.
+  Haemorrhoides.             Punan juoru.
+  Hernia.                    Suonimulkku, tyrät, kupeet.
+  Hernia umbilicalis.        Nawan puhkema.
+  Herpes.                    Sawipuoli. l. sawipyörä, mettän nenät,
+                             maaginen.
+  Hordeolum.                 Naaran nappi.
+  Humulus lupul.             Hiiwa, humala.
+  Hydrargyrum.               Eläwä hopea.
+  Hydrops.                   Wesitauti, pöhô-tauti.
+  Hyoscyamus.                Hullu-ruoho.
+  Hypochondriasis.           Kewäisin, pirun wihlauxet, kynsellinen,
+                             pernatauti, sydämmen tauti, irrallinen.
+  Hypochondrium.             Nures, keltti, kuwet.
+  Hysteria. v. Hypochondriasis. Sydämmen irki-tauti.
+
+  Ichor.                     Wiswa, hyösi.
+  Icterus.                   Kelta-tauti.
+  Ictus.                     Puuska, kohtaus, kennos, letto.
+  Ilia.                      Ohimot.
+  Imperatoria ostruthium.    Ylimmäinen yrtti.
+  Impetigo.                  Sawipuoli, syyhelmä, pisama.
+  Inclinatio mentis.         Oikka.
+  Incubus,                   Painaja, talwikko.
+  lndicatio.                 Taika.
+  Indigestio.                Kino.
+  lnfectio magica.           Taikia, taie.
+  lnficior.                  Rehdun, ryyhdyn.
+  lnflammatio.               Wiha, Löyly, kuumeus.
+  Infoecunda equa.           Marto-tamma, l. vacca. Maho.
+  Inguen.                    Rauhaisimet, sapsi, pallio.
+  Intertrigo,                Lyötetty.
+  Intestina.                 Sisullukset, suolet, sisi-kunta.
+  Intumescere.               Pöhöttyä.
+  Ischuria.                  Tippa-taüti, wesi-ummet.
+
+  Juniperus.                 Kataja.
+
+  Labiun leporin.            Harahuuli, risti huuli.
+  Lacrimalis saccus.         Kyynelwieres.
+  Laesio.                    Pulma, wamma, rampa.
+  Languidus.                 Näiwä, L. fio. Riudun.
+  Laxare stomach.            Huoltaa.
+  Ledum palustre.            Suo-kanerwa, suo-pursu.
+  Lentigo.                   Kesakko, Huun-purema, pisama.
+  Lethargia.                 Uni-tauti.
+  Leucorrhoea.               Walkian juoksu.
+  Lichen Island, v. Muscus Island.
+  Lippitudo.                 Wetiset silmät, tihmaska, tihma, tihru,
+                             hätärä, wesikarwa.
+  Lithiasis.                 Kiwi-tauti.
+  Livor.                     Mustelma, sinelmä, naarma.
+  Lochia.                    Jälkimenot, jälkeiset, jälkijuoksu.
+  Lumbi.                     Kaatiot, lanne, uumi.
+  Lumbricus intestin.        Suolikka, L. teres. Suoninkainen.
+  Luxari.                    Niseltyä, järkähtyä.
+  Luxatio.                   Luuwana, hiwellys, niwellys.
+  Luxatus armo equus.        Lapaantunut.
+  Lycopodium clavat.         Wareksen warpaat
+  Lycopodium selago.         Riisi-ruoho.
+
+  Mala, v. Maxilla.
+  Malleolus.                 Ketara.
+  Malum residuum ex morbo.   Mahle.
+  Mamma.                     Nisä, rinta.
+  Mammarum dolor parturientium. Rintain ajaminen.
+  Mancas.                    Rampa.
+  Mania.                     Heikkopäisyys, nöyräpäisyys
+  Maxilla.                   Kaswoluu, leukaluu.
+  Medicamen.                 Parannus, katse, lääke
+  Mel.                       hunaja.
+  Menorrhagia.               Punasen juoksu.
+  Menses.                    Kuukautiset, kuun menot, waimoiset menot.
+  Mentagra.                  Sawipuoli, sawipyörä
+  Metacarpus.                Rystäs.
+  Mezereum.                  Nasia, näsiä.
+  Millefolium.               Sata-lehti.
+  Monorchis.                 Piettiö, pietin.
+  Morbilli.                  Tuhkarupuli, tuhkarokko.
+  Morbus.                    Rampa, tauti, sairaus, kipu.
+  Muscus Island.             Kangas-jäkälä.
+  Mutilus.                   Rampa, rämppä.
+  Myrica gale.               Suopursu.
+  Myrtillus.                 Mustikka.
+
+  Naevus.                    Pirpula, luomi.
+  Nativus.                   Synnytö.
+  Nauseam excitare.          Ilwoittaa.
+  Nauseosus.                 Tylkkiä, tympiä äitelä, N. et subdulcis.
+                             Ytelä, läätewä.
+  Nepeta cataria.            Kissan minttu.
+  Nervosus.                  Jäntewä.
+  Nervus.                    Juoni, jänne.
+  Noma.                      Ruumiin  mato.
+
+  Obstetrix.                 Kätilöin, lasten waimo.
+  Obstipatio v.
+  Obstructio.                Ummetti, suolten tukkio, turpuus,
+                             umpi-tauti. O-nem pati. Ummehtuua, O-nem
+                             facere. Ähkäistä.
+  Obturatio.                 Suuwus.
+  Obturo.                    Ummistan, O-ror. Suuwun, ummehdun.
+  Oculi Bulbus.              Silmän muna, O. obscuritas. Kaihelma.
+  Odontalgia.                Hammastauti.
+  Oleum Fraxini.             Saarnen terwa.
+  Ophthalmia.                Wuoro, pasko.
+  Os.                        Luu, O. coxyg. Nupero, O. frontis process.
+                             nasalis. Käpäluu, O. maxillare superius.
+                             Itkuluu, O. sacr. Ristiluu, O. sterni.
+                             Rynnäs, O. temper. Uniluu, waikkuluu.
+  Osteocopus.                Luukleini, v. Arthritis.
+  Oxycoccos.                 Karpalo.
+
+  Padus (Prunus).            Tuomi
+  Palatum.                   Suun laki, kurkku-laki, kita-laki.
+  Palpebra.                  Silmän luomi.
+  Panaritium.                Jäsen-koi, koiso, iso kumpani, wieras.
+  Paralysis.                 Halwaus, hermottomuus.
+  Paroxysmus.                Setki, topi, woolmeet.
+  Parturientis dolores.      Kuurot.
+  Patella.                   Lumpio.
+  Pediculus bubulus.         Wäiwet.
+  Peltidea aphthosa.         Sampaam lakki.
+  Penis.                     Seipo, kulli, kyrpä, P. glans. Terska.
+  Pericardium.               Sydänkarsina.
+  Periglottis.               Kielen kanta.
+  Pernio.                    Wilun kyhmy.
+  Pestis.                    Rutto.
+  Phlyctaena.                Wesikellukka.
+  Phthisis.                  Täwy-tauti, täty-tauti, keuhko-tauti.
+  Pimpinella saxifraga.      Kangas-kumina, wannen-ruoho.
+  Pinus.                     Mänty, honka.
+  Pituita.                   Nalwa, näljä, natta, tahma, talma, ikjä,
+                             jälä, kuola, kuotta, liita, liiwa, kina.
+  Plantag. maj.              Rauta-lehti.
+  Pleura.                    Täky-kalwo, keuhko-kalwo.
+  Pleuritis.                 Pistoxet, pisto-tauti.
+  Podagra.                   Jalka-tauti.
+  Podex.                     puo. v. Clunes.
+  Polypodium vulg.           Mäen makiaien, imartti.
+  Poples.                    Kinttu.
+  Populus tremula.           Haapa.
+  Porrigo.                   Köhnä, röhnä, rehnet.
+  Praecordia.                Sydän ala, P-orum dolor. Sydämmem wihlaus.
+  Praemolimina morbi.        Oireet, P. m. habeo. Oirin.
+  Prodromorum stadium.       Id. Oirinto.
+  Prognosis.                 Ouno.
+  Prunnus padus.             Tuomi
+  Prurigo.                   Syyhelmä.
+  Prurio.                    Kiherrän, syyhyn, kutkun.
+  Psora.                     Kapi.
+  Pteris aquilina.           Kuoleman koura.
+  Pterygium.                 Häiwä, kaihi, jää, kalwo, werko,
+                             liika, kynsi.
+  Puerpera.                  Pirtiket, sauna-waimo.
+  Pulmo.                     Täky, täty, keuhko.
+  Pulsare.                   Tykyttää
+  Pupilla.                   Silmän-terä.
+  Pus.                       Raatta, märkä, P. eculor. Räämä,
+                             rääppä, räättä.
+  Pustula.                   Pisa, putken polttama, wesikello,
+                             putkama, pukama, nypylä, P. maligna.
+                             Ruton nuoli.
+  Pyrola rotundifol.         Käen kukka.
+
+  Quercus robur.             Tammi.
+
+  Rabies.                    Wíltis.
+  Ranunculus flammula.       Kleinf. ruoho.
+  Raucedo.                   Äänen lankeeminem.
+  Rectum.                    Perä-suoli.
+  Relaxatio morbi id. q.
+  Remissio.                  Hoipa, Hoiwa.
+  Remitto.                   Peräyn, takaus.
+  Ren.                       Munoinen, risainen.
+  Repentinus morbus.         Kohtaus, noian nuoli, lennostauti.
+  Respiratio.                Henkiweto, huoku.
+  Revalesco.                 Toiwun, wirkeän.
+                             qui R-luit. Wauras.
+  Rhachitis.                 Riisi.
+  Ribes nigr.                Hiestain, siestain, kolli, ourukka.
+  Rigesco.                   Tankistun.
+  Rodo.                      Nirhaan.
+  Rosa canina.               Orjan tappura.
+  Rubeola.                   Tuhka-rupuli.
+  Rubus arcticus.            Luhdikka, mesi-marja, maan-muurama.
+  Rubus idaeus.              Waarama, watukka.
+  Ructo.                     Röyhkäilen.
+  Rumex acut.                Tuli-ruoho, hewon hiira, suolakka.
+  Ruptura.                   Katko.
+
+  Sacrum                     Ristiluu
+  Salix pentandra.           Raita.
+  Sambucas ebulus.           Wesitauwin yrtti.
+  Sambucus nigra.            Selja-puu.
+  Sanguis.                   Weri.
+  Sanies.                    Wiswa.
+  Scapies.                   Kapi, rehne, pirun purema, rohtuma,
+                             syyhelmä.
+  Scapula.                   Lapa-luu.
+  Sceletus.                  Ruotto, l. ruoto.
+  Scirrhus.                  Nuha, liika.
+  Scorbutus.                 Kerpunkki, keripukki.
+  Scrotum.                   Rauhaisin, tyrä, kuohat. inde
+                             Kuohari, castrator.
+  Sedum acre.                Kukon marja, kukon lehti, wilu-ruoho.
+  Serpigo.                   Sawi-puoli.
+  Setaceum.                  Nori-nuora, nori-jouhi.
+  Singultus.                 Nikka, S. ex fletu et risu. Tihku, nihku.
+                             S-um patior. Nyhdän, nikottelen.
+  Soda.                      Närä, wesi-kobhtaus.
+  Solanum dulcam.            Koi-ruoho, koisso, koison-puu.
+  Somnium id. q.
+  Somnus.                    Uni, S. levis. Huowe.
+  Sorbus aucup.              Pihlawa l. pihlaja.
+  Spasmus cutan.             Wainos, wärwäinen.
+  Sphacelus.                 Syöwät, musta liha.
+  Spina dorsi.               Selkäranka, selkä-ruoto, selkä-ronkka.
+  Splenitis.                 Perna wallallansa.
+  Squamosus.                 Röhnäinen, suomuinen.
+  Stagnatio.                 Pakko.
+  Sterilis v. Infoecundus.
+  Sternum.                   Rintaluu, rynnäsluu.
+  Sternutatio.               Aiwastus.
+  Sterto.                    Korisen, korsaan.
+  Stranguria.                Tippa-tauti.
+  Stria.                     Wanne.
+  Struma.                    Kupu.
+  Subluxatio.                Niukahus, nyrjähys, Horjahtuminen.
+  Sudor colliquat.           Hiki-tauti.
+  Suffocari.                 Läkähtyä, S. aqua. Hukkua.
+  Sulphur.                   Rikki, tuli-kiwi.
+  Supercillium.              Silmän ripset.
+  Supposititius infans.      Waihokka.
+  Sutura lambdoidea.         Kiireen rako.
+  Syncope.                   Pyörtyminen.
+  Synocha.                   Poltet-tauti.
+  Syphilis,                  Howi-tauti, Kuppa-tauti, Paha-tauti.
+
+  Tabes.                     Kuiwatus, kuiwa tauti, T. dorsal.
+                             Selkä tauti.
+  Taenia,                    Heisimato, rihma-mato, letti-mato,
+  Talus.                     Kanta, kantapää.
+  Tanacetum.                 Pietarin-ruoho.
+  Taraxacum.                 Maitiainen.
+  Tarsus.                    Nilkka.
+  Tempora.                   Ohimet, ohtakulma, silmäkulma.
+  Tendo.                     Kinner, T. Achillis. Kanta-kinner,
+                             wäkisuoni.
+  Tenesmus.                  Wäyttäminen.
+  Testiculi.                 Mulkut.
+  Thymus serpyll.            Muisto-ruoho.
+  Tibia.                     Sääri-luu, sääriterä.
+  Tilia Eurupea.             Niinipuu.
+  Tinea.                     Umpi-kapi. T. capitis. Päähkä.
+  Tinnitio aurium.           Lumme, lummehos, Lumo.
+  Tormentilla erecta.        Punajuuri.
+  Tormina,                   Puret.
+  Torpor,                    Hermottomuus.
+  Torreo assando.            Paahdan.
+  Transpiratio.              Höyryäminen.
+  Tremor.                    Wäret.
+  Trichiasis.                Wesikarwa.
+  Trifolium aquat.           Raataket, peuran wehka.
+  Truncus.                   Runko.
+  Tuber et Tuberculum.       Nuha, kaswanto, kuhlo, kupla, liika,
+                             nystyrä, nyppylä, nystermä, nyylä.
+  Tumor.                     Mähkä, kuhlo, ajos,
+  T. abdominis.              Watsan pöhötys.
+  Tussihlago farfara.        Lesken lehti.
+  Tussis.                    Yskä,
+  T. pertuss.                Hinku, näähtö-yskä. T. sicca. Rähjä.
+  Tympanitis.                Ähky, ähmä.
+
+  Uber.                      Utareet, nisä, U. lacte dificiens. Umpi
+                             nisä, U. lacte dificit. Ehtyy, U. lacte
+                             crescit. Heruu.
+  Ulcus.                     Mätä-haawa.
+  Umbilicus.                 Napa.
+  Unguentum.                 Raswa, woidet.
+  Unguis radix.              Kynnen oas.
+  Uredo.                     Kerni, maan hiteet.
+  Urtica dioica et urens.    Wihalainen poltiainen, nokkonen.
+  Uterus.                    Kohtu, lapsen kota.
+  Uva.                       Kurkun kansi. l. kannin, Uva ursi.
+                             Sian-puolainen, kangas-parkki.
+  Uvulae prolapsus.          Kurkku-laen langemus.
+
+  Vacillatio.                Horjuminen.
+  Vagus.                     Juoksewa.
+  Valeriana officin.         Rutto-juuri.
+  Valetudinarius.            Raihnas.
+  Vari.                      Kesakko.
+  Variolae.                  Rupuli, rokko, V. latiores aquosae.
+                             Laatta-rokko.
+  Varix.                     Werisuonen mulkku.
+  Vegetus corporis status.   Rowet.
+  Vehemens et abruptus.      Puuskainen.
+  Vena.                      Weri-suoni, V-am secare. Iskee suonta,
+                             laskea werta l. suonta.
+  Venenum.                   Myrkky.
+  Venter.                    Wahta, maha, V-tris tormina. Wääntö-tauti,
+                             wäännet, watsan pureet.
+  Ventriculus.               Mako, maha.
+  Ventus hiemalis frigidus.  Kiima, V. vernal frigid. Ulo.
+  Verbascum.                 Röhkä-ruoho.
+  Vermes.                    Madot.
+  Veronica officin.          Täyn ruoho.
+  Verruca.                   Syylä, nyppylä, nystermä, ruuppa.
+  Vertex.                    Kiireet, V. capit. Päälaki.
+  Vertigo.                   Huimaus, heidytys, pyöry, wiemistyö,
+                             V-gine afficior. Huimaun, huimerrun.
+  Vesania                    Heikkomielisyys, houste.
+  Vesica urinaria.           Kusitin, kusirakko
+  Vibex.                     Palko, wannet, mustelma, V. rufa.
+                             Werinaarma, werijuoni, sinelmä, sini marja.
+  Viscidus fio.              Lakistun.
+  Vitis idaea.               Puolama puolukka.
+  Vitium nativum.            Synnyntö-wika.
+  Vomitus.                   Ylenanto, oksentaminen, V-ire. Kuwoa,
+                             kyölätä, ylönantaa, oksentaa.
+  Vulnus.                    Werestäminen.
+  Vulva. v. Cunnus.
+
+
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK TERMINI MEDICI IN LINGUA FENNICA OCCURRENTES ***
+
+
+    
+
+Updated editions will replace the previous one—the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away—you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG™ LICENSE
+
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project Gutenberg
+electronic works
+
+1.A. By reading or using any part of this Project Gutenberg
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B. “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg mission of promoting
+free access to electronic works by freely sharing Project Gutenberg
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg License must appear
+prominently whenever any copy of a Project Gutenberg work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+    This eBook is for the use of anyone anywhere in the United States and most
+    other parts of the world at no cost and with almost no restrictions
+    whatsoever. You may copy it, give it away or re-use it under the terms
+    of the Project Gutenberg™ License included with this eBook or online
+    at www.gutenberg.org. If you
+    are not located in the United States, you will have to check the laws
+    of the country where you are located before using this eBook.
+  
+1.E.2. If an individual Project Gutenberg electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg electronic works
+provided that:
+
+    • You pay a royalty fee of 20% of the gross profits you derive from
+        the use of Project Gutenberg works calculated using the method
+        you already use to calculate your applicable taxes. The fee is owed
+        to the owner of the Project Gutenberg trademark, but he has
+        agreed to donate royalties under this paragraph to the Project
+        Gutenberg Literary Archive Foundation. Royalty payments must be paid
+        within 60 days following each date on which you prepare (or are
+        legally required to prepare) your periodic tax returns. Royalty
+        payments should be clearly marked as such and sent to the Project
+        Gutenberg Literary Archive Foundation at the address specified in
+        Section 4, “Information about donations to the Project Gutenberg
+        Literary Archive Foundation.”
+    
+    • You provide a full refund of any money paid by a user who notifies
+        you in writing (or by e-mail) within 30 days of receipt that s/he
+        does not agree to the terms of the full Project Gutenberg™
+        License. You must require such a user to return or destroy all
+        copies of the works possessed in a physical medium and discontinue
+        all use of and all access to other copies of Project Gutenberg™
+        works.
+    
+    • You provide, in accordance with paragraph 1.F.3, a full refund of
+        any money paid for a work or a replacement copy, if a defect in the
+        electronic work is discovered and reported to you within 90 days of
+        receipt of the work.
+    
+    • You comply with all other terms of this agreement for free
+        distribution of Project Gutenberg™ works.
+    
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg
+
+Project Gutenberg is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg’s
+goals and ensuring that the Project Gutenberg collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation’s EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state’s laws.
+
+The Foundation’s business office is located at 41 Watchung Plaza #516,
+Montclair NJ 07042, USA, +1 (862) 621-9288. Email contact links and up
+to date contact information can be found at the Foundation’s website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg™ depends upon and cannot survive without widespread
+public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit www.gutenberg.org/donate.
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate.
+
+Section 5. General Information About Project Gutenberg electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org.
+
+This website includes information about Project Gutenberg,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+
