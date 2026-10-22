@@ -1,0 +1,23 @@
+<?xml-model href="../../../capitains.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<collection xmlns:ti="http://chs.harvard.edu/xmlns/cts" xmlns:dct="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://purl.org/capitains/ns/1.0#" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:bib="http://bibliotek-o.org/1.0/ontology/" xmlns:cts="http://chs.harvard.edu/xmlns/cts" xmlns:foaf="http://xmlns.com/foaf/0.1/">
+   <identifier>urn:cts:formulae:elexicon.maleficium</identifier>
+   <parent>urn:cts:formulae:elexicon</parent>
+   <dc:title xml:lang="lat">Maleficium</dc:title>
+   <dc:type>cts:work</dc:type>
+   <members>
+      <collection readable="true" path="./elexicon.maleficium.deu001.xml">
+         <identifier>urn:cts:formulae:elexicon.maleficium.deu001</identifier>
+         <parent>urn:cts:formulae:elexicon.maleficium</parent>
+         <dc:title xml:lang="deu">Maleficium (deu)</dc:title>
+         <dc:type>cts:edition</dc:type>
+         <dc:creator>Horst Lößlein</dc:creator>
+         <dc:publisher xml:lang="mul">Formulae-Litterae-Chartae. Neuedition der frühmittelalterlichen Formulae, Hamburg</dc:publisher>
+         <dc:language>deu</dc:language>
+         <dc:format>application/tei+xml</dc:format>
+         <structured-metadata>
+            <dct:bibliographicCitation>Lößlein, Horst, "Maleficium", in: Formulae-Litterae-Chartae. Neuedition der frühmittelalterlichen Formulae, Hamburg (2021-12-09), [URL: https://werkstatt.formulae.uni-hamburg.de/texts/urn:cts:formulae:elexicon.maleficium.deu001/passage/all]</dct:bibliographicCitation>
+            <dct:created>2021-12-09</dct:created>
+         <dct:alternative>Übeltat, Schaden, Zauberei</dct:alternative><dct:isReferencedBy>%urn:cts:formulae:andecavensis.form012.lat001%illo per &lt;span class='elex-word'&gt;maleficio&lt;/span&gt; eum interfecisset.</dct:isReferencedBy><dct:isReferencedBy>%urn:cts:formulae:marmoutier_dunois.mabille_cartularium_dunense_0041.lat001%habitum inibi &lt;span class='elex-word'&gt;monachicum&lt;/span&gt; suscepturus devenit,</dct:isReferencedBy><dct:isReferencedBy>%urn:cts:formulae:marmoutier_dunois.mabille_cartularium_dunense_0051.lat001%Flagellus, quando &lt;span class='elex-word'&gt;monachicum&lt;/span&gt; habitum ei</dct:isReferencedBy><dct:isReferencedBy>%urn:cts:formulae:marmoutier_dunois.mabille_cartae_prioratum_0243.lat001%in dicto &lt;span class='elex-word'&gt;maleficio&lt;/span&gt; deprehenderetur vel</dct:isReferencedBy><dct:isReferencedBy>%urn:cts:formulae:stavelot_malmedy.halkin0244.lat001%dicatur, in &lt;span class='elex-word'&gt;maleficium&lt;/span&gt;, virorum ac</dct:isReferencedBy></structured-metadata>
+      </collection>
+   </members>
+</collection>

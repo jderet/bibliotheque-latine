@@ -1,0 +1,23 @@
+<?xml-model href="../../../capitains.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<collection xmlns:ti="http://chs.harvard.edu/xmlns/cts" xmlns:dct="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://purl.org/capitains/ns/1.0#" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:bib="http://bibliotek-o.org/1.0/ontology/" xmlns:cts="http://chs.harvard.edu/xmlns/cts" xmlns:foaf="http://xmlns.com/foaf/0.1/">
+   <identifier>urn:cts:formulae:elexicon.solsadium</identifier>
+   <parent>urn:cts:formulae:elexicon</parent>
+   <dc:title xml:lang="lat">Solsadium</dc:title>
+   <dc:type>cts:work</dc:type>
+   <members>
+      <collection readable="true" path="./elexicon.solsadium.deu001.xml">
+         <identifier>urn:cts:formulae:elexicon.solsadium.deu001</identifier>
+         <parent>urn:cts:formulae:elexicon.solsadium</parent>
+         <dc:title xml:lang="deu">Solsadium (deu)</dc:title>
+         <dc:type>cts:edition</dc:type>
+         <dc:creator>Horst Lößlein</dc:creator>
+         <dc:publisher xml:lang="mul">Formulae-Litterae-Chartae. Neuedition der frühmittelalterlichen Formulae, Hamburg</dc:publisher>
+         <dc:language>deu</dc:language>
+         <dc:format>application/tei+xml</dc:format>
+         <structured-metadata>
+            <dct:bibliographicCitation>Lößlein, Horst, "Solsadium", in: Formulae-Litterae-Chartae. Neuedition der frühmittelalterlichen Formulae, Hamburg (2021-12-09), [URL: https://werkstatt.formulae.uni-hamburg.de/texts/urn:cts:formulae:elexicon.solsadium.deu001/passage/all]</dct:bibliographicCitation>
+            <dct:created>2021-12-09</dct:created>
+         <dct:alternative/><dct:isReferencedBy>%urn:cts:formulae:andecavensis.form012.lat001%Titel Noticia &lt;span class='elex-word'&gt;solsadii&lt;/span&gt;, qualiter vel</dct:isReferencedBy><dct:isReferencedBy>%urn:cts:formulae:andecavensis.form013.lat001%INCIPIT ITEM &lt;span class='elex-word'&gt;SOLSADIA&lt;/span&gt; Noticia &lt;span class='elex-word'&gt;solsadii&lt;/span&gt;,%&lt;span class='elex-word'&gt;SOLSADIA&lt;/span&gt; Noticia &lt;span class='elex-word'&gt;solsadii&lt;/span&gt;, qualiter vel%custodivit et &lt;span class='elex-word'&gt;solsadivit&lt;/span&gt;. |Nam illi%custoditus aut &lt;span class='elex-word'&gt;saulsaditus&lt;/span&gt;,aut hanc</dct:isReferencedBy><dct:isReferencedBy>%urn:cts:formulae:andecavensis.form014.lat001%ITEM &lt;span class='elex-word'&gt;SOLSADII&lt;/span&gt; Noticia &lt;span class='elex-word'&gt;solsadi&lt;/span&gt;%&lt;span class='elex-word'&gt;SOLSADII&lt;/span&gt; Noticia &lt;span class='elex-word'&gt;solsadi&lt;/span&gt; qualiter vel%custodivit et &lt;span class='elex-word'&gt;solsadivit&lt;/span&gt;.Nam illi%custoditus aut &lt;span class='elex-word'&gt;solsaditus&lt;/span&gt;, aut hanc</dct:isReferencedBy><dct:isReferencedBy>%urn:cts:formulae:andecavensis.form016.lat001%custodierunt et &lt;span class='elex-word'&gt;solsadierunt&lt;/span&gt;. Propterea necessarium</dct:isReferencedBy><dct:isReferencedBy>%urn:cts:formulae:andecavensis.form053.lat001%costodivit et &lt;span class='elex-word'&gt;solsadivit&lt;/span&gt;. Nam illi</dct:isReferencedBy><dct:isReferencedBy>%urn:cts:formulae:fu2.146v147r.lat001%custoditus aut &lt;span class='elex-word'&gt;solsaditus&lt;/span&gt;, aut hanc</dct:isReferencedBy><dct:isReferencedBy>%urn:cts:formulae:marculf.form1_037.lat001%abiectisset vel &lt;span class='elex-word'&gt;solsatisset&lt;/span&gt;,ipse nec%abiectivit vel &lt;span class='elex-word'&gt;solsativit&lt;/span&gt;, et ipse</dct:isReferencedBy><dct:isReferencedBy>%urn:cts:formulae:tours.form033.lat001%obiectivit vel &lt;span class='elex-word'&gt;solsativit&lt;/span&gt;,qui nec</dct:isReferencedBy></structured-metadata>
+      </collection>
+   </members>
+</collection>

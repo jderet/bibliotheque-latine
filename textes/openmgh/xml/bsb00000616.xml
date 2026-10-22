@@ -1,0 +1,924 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>MGH Dt. MA 3: Das Leben der Liutbirg</title>
+        <editor>Menzel, Ottokar</editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Monumenta Germaniae Historica (MGH)</publisher>
+        <publisher>Bavarian State Library (BSB), München</publisher>
+        <idno type="BSB">bsb00000616</idno>
+        <idno type="MGH">MGH Dt. MA 3</idno>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/">
+            <p>Distributed under the Creative Commons Attribution 4.0 International (CC BY 4.0) license.</p>
+            <p>This license covers the annotations added by the Monumenta Germaniae Historica and the
+            Bavarian State Library, Munich, in the course of project "digital MGH"
+            <ref target="http://www.dmgh.de">http://www.dmgh.de</ref>, funded by the
+            German Research Foundation (DFG).</p>
+            <p>We do not claim any rights on the text itself which is believed to be in the public domain.</p>
+            <p>If you distribute a copy or a derivative version of this file, please indicate the source
+            of the file by mentioning the Monumenta Germaniae Historica (MGH) and the
+            Bavarian State Library, Munich (BSB).</p>
+          </licence>
+        </availability>
+        <date when="2016-11-28T16:17:00+01:00">2016-11-28, 16:17:00</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Das Leben der Liutbirg</title>
+            <editor>Menzel, Ottokar</editor>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Hiersemann</publisher>
+            <pubPlace>Leipzig</pubPlace>
+            <date>1937</date>
+          </publicationStmt>
+          <seriesStmt>
+            <title>Deutsches Mittelalter. Kritische Studientexte</title>
+            <biblScope unit="volume">3</biblScope>
+          </seriesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+<body>
+<div type="volume">
+<div n="Vita Liutbirgae virginis" type="work"><ab>
+<pb xml:id="bsb00000616_00013" n="(10)"/><lb n="1" xml:id="bsb00000616_00013_1"/>[VITA LIUTBIRGAE VIRGINIS.]
+<lb n="2" xml:id="bsb00000616_00013_2"/>1. Temporibus imperatoris magni Karoli, qui primus in Germaniae
+<lb n="3" xml:id="bsb00000616_00013_3"/>partibus Augusti Caesaris nomen adeptus est, qui multas gentes <w lemma="Francorum" xml:id="w1" corresp="#w1 #w2">Fran-</w>
+<lb n="4" xml:id="bsb00000616_00013_4"/><w lemma="Francorum" xml:id="w2" corresp="#w1 #w2">corum</w> regno subiugavit et inter quam plurimas eo tempore nobilissimam
+<lb n="5" xml:id="bsb00000616_00013_5"/>ac praepotentem viribus gentem Saxonum partim bellis, partim ingenio
+<lb n="6" xml:id="bsb00000616_00013_6"/>suo ac magnae sagacitatis industria, insuper etiam magnis muneribus 5
+<lb n="7" xml:id="bsb00000616_00013_7"/>acquisivit, ex paganico ritu Christianae religioni subiugavit, quendam
+<lb n="8" xml:id="bsb00000616_00013_8"/>inter primores ac nobilissimos gentis illius, nomine Hessi, cum aliis
+<lb n="9" xml:id="bsb00000616_00013_9"/>quam plurimis, quibus comitatum dederat, magnis etiam sustentavit
+<lb n="10" xml:id="bsb00000616_00013_10"/>honoribus, quia fidelem sibi in cunctis repererat. Is ergo praedictus
+<lb n="11" xml:id="bsb00000616_00013_11"/>Hessi masculi prolis carens, unicum quem habuerat filium in 10
+<lb n="12" xml:id="bsb00000616_00013_12"/>adolescentiae flore defuncto, filiabus locupletem dimisit substantiam et
+<lb n="13" xml:id="bsb00000616_00013_13"/>tandem grandaevus ac bona aetate provectus, hereditate filiabus <w lemma="distributa" xml:id="w3" corresp="#w3 #w4">distri-</w>
+<lb n="14" xml:id="bsb00000616_00013_14"/><w lemma="distributa" xml:id="w4" corresp="#w3 #w4">buta</w>, Fuldense coenobium Domino militaturus perrexit ibique sub <w lemma="monachico" xml:id="w5" corresp="#w5 #w6">mo-</w>
+<lb n="15" xml:id="bsb00000616_00013_15"/><w lemma="monachico" xml:id="w6" corresp="#w5 #w6">nachico</w> habitu diem ultimum feliciter obiit.
+<lb n="16" xml:id="bsb00000616_00013_16"/>2. Unam vero de filiabus eius, Gislam, quae inter alios maior natu 15
+<lb n="17" xml:id="bsb00000616_00013_17"/>fuerat, comes quidam in matrimonium acceperat, nomine Unuuan,
+<pb xml:id="bsb00000616_00014" n="11"/><lb n="1" xml:id="bsb00000616_00014_1"/>ex quo unum filium habuit, nomine Bernhart, et duas filias, unam,
+<lb n="2" xml:id="bsb00000616_00014_2"/>quae vocabatur Bilihilt, alteram vero Hruothilt. Quibus utrisque
+<lb n="3" xml:id="bsb00000616_00014_3"/>in habitu sanctimoniali post obitum viri sui duo condidit <w lemma="monasteriola" xml:id="w7" corresp="#w7 #w8">monas-</w>
+<lb n="4" xml:id="bsb00000616_00014_4"/><w lemma="monasteriola" xml:id="w8" corresp="#w7 #w8">teriola</w>: unum in loco, qui dicitur Uuinithohus, in provincia Saxoniae,
+<lb n="5" xml:id="bsb00000616_00014_5"/>in pago, qui dicitur Harthageuui, in saltu, qui vocatur Harz, qui
+<lb n="6" xml:id="bsb00000616_00014_6"/>dividit Saxoniam et Thuringiam; alterum in Francia in pago Salugeuue,
+<lb n="7" xml:id="bsb00000616_00014_7"/>in vicinio saltus Bochoniae, in loco nuncupato Charoltesbach.
+<lb n="8" xml:id="bsb00000616_00014_8"/>Quibus utrisque congregationibus  virginum adhibitis praedictas
+<lb n="9" xml:id="bsb00000616_00014_9"/>praefecit filias, Bilihildam scilicet in Uuinadohusun, Hruothildam in
+<lb n="10" xml:id="bsb00000616_00014_10"/>villa Charoltespach. Ipsa vero in viduitate sua religiosam ducens
+<lb n="11" xml:id="bsb00000616_00014_11"/>vitam post obitum viri sui multa operando et ecclesias construendo,
+<lb n="12" xml:id="bsb00000616_00014_12"/>elemosinarum largitione sedula ac susceptione peregrinorum <w lemma="largiflua" xml:id="w9" corresp="#w9 #w10">largi-</w>
+<lb n="13" xml:id="bsb00000616_00014_13"/><w lemma="largiflua" xml:id="w10" corresp="#w9 #w10">flua</w>, ita ut in sexu femineo virilem cerneres animum et exercitati <w lemma="diversis" xml:id="w11" corresp="#w11 #w12">di-</w>
+<lb n="14" xml:id="bsb00000616_00014_14"/><w lemma="diversis" xml:id="w12" corresp="#w11 #w12">versis</w> in rebus acumen ingenii – pervigilem nescio potius pietatis
+<lb n="15" xml:id="bsb00000616_00014_15"/>mirares effectum.
+<lb n="16" xml:id="bsb00000616_00014_16"/>3. Aliquando igitur haec eadem praedicta matrona pro causis <w lemma="necessariis" xml:id="w13" corresp="#w13 #w14">ne-</w>
+<lb n="17" xml:id="bsb00000616_00014_17"/><w lemma="necessariis" xml:id="w14" corresp="#w13 #w14">cessariis</w>, quia plurimis in locis possessiones habebat procurandas, iter
+<lb n="18" xml:id="bsb00000616_00014_18"/>agens in quendam locum devenerat, ubi hospitandi tempus eam <w lemma="urgebat" xml:id="w15" corresp="#w15 #w16">ur-</w>
+<lb n="19" xml:id="bsb00000616_00014_19"/><w lemma="urgebat" xml:id="w16" corresp="#w15 #w16">gebat</w>. Ibi etiam et monasterium erat virginum, congruumque sibi
+<pb xml:id="bsb00000616_00015" n="12"/><lb n="1" xml:id="bsb00000616_00015_1"/>receptaculum et satis apta suis comodis aedificia ab illis parabantur.
+<lb n="2" xml:id="bsb00000616_00015_2"/>Contigit autem, ut inter ministeria puellarum obsequium sibi <w lemma="exhibentium" xml:id="w17" corresp="#w17 #w18">exhi-</w>
+<lb n="3" xml:id="bsb00000616_00015_3"/><w lemma="exhibentium" xml:id="w18" corresp="#w17 #w18">bentium</w>, ut virgunculam quandam forma vel ingenio ceteris <w lemma="coaetaneis" xml:id="w19" corresp="#w19 #w20">coaeta-</w>
+<lb n="4" xml:id="bsb00000616_00015_4"/><w lemma="coaetaneis" xml:id="w20" corresp="#w19 #w20">neis</w> suis praestantiorem cerneret suique in eunctis famulatus <w lemma="affectibus" xml:id="w21" corresp="#w21 #w22">affecti-</w>
+<lb n="5" xml:id="bsb00000616_00015_5"/><w lemma="affectibus" xml:id="w22" corresp="#w21 #w22">bus</w> morigeram, quae veluti ad nutum illius omnia sagaci mente
+<lb n="6" xml:id="bsb00000616_00015_6"/>dirigeret. Tacita consideratione actus habitumque eius perlustrans
+<lb n="7" xml:id="bsb00000616_00015_7"/>percunctari coeperat, quaenam esset aut unde  originem duceret, quae
+<lb n="8" xml:id="bsb00000616_00015_8"/>natalium suorum atque condicionis professio. Haec ergo illi prudenti
+<lb n="9" xml:id="bsb00000616_00015_9"/>responsione per ordinem disserenti seque de loco, qui dicitur <w lemma="Solazburg" xml:id="w23" corresp="#w23 #w24">Solaz-</w>
+<lb n="10" xml:id="bsb00000616_00015_10"/><w lemma="Solazburg" xml:id="w24" corresp="#w23 #w24">burg</w>, parentes habere dicenti indeque progenitam ac qualitatem
+<lb n="11" xml:id="bsb00000616_00015_11"/>condicionis exprimenti omnesque vitae suae conversationes exponenti, et
+<lb n="12" xml:id="bsb00000616_00015_12"/>illa libenter talis aetatulae facundae rationis sermonem excepisset,
+<lb n="13" xml:id="bsb00000616_00015_13"/>conglutinata est subito mens illius in tantum cum ea, ut summo conamine
+<lb n="14" xml:id="bsb00000616_00015_14"/>coepisset eam exhortari secum ire et fidei suae semetipsam <w lemma="committere" xml:id="w25" corresp="#w25 #w26">commit-</w>
+<lb n="15" xml:id="bsb00000616_00015_15"/><w lemma="committere" xml:id="w26" corresp="#w25 #w26">tere</w>, sub divina testificatione confirmans, in pari dilectione filiarum
+<lb n="16" xml:id="bsb00000616_00015_16"/>suarum omni tempore secum eam fore permansuram.
+<lb n="17" xml:id="bsb00000616_00015_17"/>4. His ergo promissionibus illa credula iter cum ea arripuerat, et,
+<lb n="18" xml:id="bsb00000616_00015_18"/>ut credo, divinae providentiae nutu, pari consensu voluntas utriusque
+<lb n="19" xml:id="bsb00000616_00015_19"/>completur. Nam ut illa postmodum asserebat se votum peregrinandi
+<lb n="20" xml:id="bsb00000616_00015_20"/>habere; cui Deus, quod in mentem dederat, oportunitate temporis
+<pb xml:id="bsb00000616_00016" n="13"/><lb n="1" xml:id="bsb00000616_00016_1"/>adimplevit. Perrexit itaque praefata puella Liutbirg  cum praedicta
+<lb n="2" xml:id="bsb00000616_00016_2"/>matrona Gisla usque loca possessionis suae, et amplius puella cum
+<lb n="3" xml:id="bsb00000616_00016_3"/>ea in summo caritatis persistens officio, de die vero proficiens in diem
+<lb n="4" xml:id="bsb00000616_00016_4"/>et in brevi cara cunctis, non solum his, cum quibus conversabatur, sed
+<lb n="5" xml:id="bsb00000616_00016_5"/>et ex omnibus, qui noverant eam. Permansit ergo in domo dominae
+<lb n="6" xml:id="bsb00000616_00016_6"/>suae magnae indolis puella et variis virtutum floribus singulos crescens
+<lb n="7" xml:id="bsb00000616_00016_7"/>in annos. Erat autem in consiliis provida, verax in verbis, in <w lemma="commisso" xml:id="w27" corresp="#w27 #w28">com-</w>
+<lb n="8" xml:id="bsb00000616_00016_8"/><w lemma="commisso" xml:id="w28" corresp="#w27 #w28">misso</w> fidelis, in elemosinis larga, constans in opere, pietate <w lemma="praecellens" xml:id="w29" corresp="#w29 #w30">prae-</w>
+<lb n="9" xml:id="bsb00000616_00016_9"/><w lemma="praecellens" xml:id="w30" corresp="#w29 #w30">cellens</w>, erga cunctos benignitate praecipua, curam infirmantium gerens,
+<lb n="10" xml:id="bsb00000616_00016_10"/>discordantium sequestra. Cunctis ergo indigentibus miserationis gremium
+<lb n="11" xml:id="bsb00000616_00016_11"/>pandens, omnes diligebat et diligebatur ab omnibus. His vero et aliis
+<lb n="12" xml:id="bsb00000616_00016_12"/>quam pluribus muneribus felix pollens virago, cottidie gradatim suae
+<lb n="13" xml:id="bsb00000616_00016_13"/>perfectionis cumulum augens magis ac magis placuit tam Deo quam
+<lb n="14" xml:id="bsb00000616_00016_14"/>hominibus.
+<lb n="15" xml:id="bsb00000616_00016_15"/>5. Erat enim praefata virago Liutbirg aptis, ut praediximus, moribus
+<lb n="16" xml:id="bsb00000616_00016_16"/>pollens et praecipue in divinis laudibus indeficienter perseverans, in
+<lb n="17" xml:id="bsb00000616_00016_17"/>psalmis et ymnis et canticis spiritalibus secundum apostolum in corde
+<lb n="18" xml:id="bsb00000616_00016_18"/>suo Domino devote sacrificium mentis offerens et, ut breviter studium
+<lb n="19" xml:id="bsb00000616_00016_19"/>conversationis explicem, quaecumque bona Deoque placita censuerat,
+<lb n="20" xml:id="bsb00000616_00016_20"/>toto cordis ambiebat affectu, mala vero atque mundi illecebra quasi
+<lb n="21" xml:id="bsb00000616_00016_21"/>praecipitia voraginum declinabat. In sacris ergo scripturis <w lemma="incessanter" xml:id="w31" corresp="#w31 #w32">inces-</w>
+<lb n="22" xml:id="bsb00000616_00016_22"/><w lemma="incessanter" xml:id="w32" corresp="#w31 #w32">santer</w> exercebatur et quottidie meditando quantulumcumque <w lemma="proficiens" xml:id="w33" corresp="#w33 #w34">pro-</w>
+<lb n="23" xml:id="bsb00000616_00016_23"/><w lemma="proficiens" xml:id="w34" corresp="#w33 #w34">ficiens</w>, quousque ad profunditatem intellectus perveniens et, si <w lemma="imbecillitas" xml:id="w35" corresp="#w35 #w36">im-</w>
+<lb n="24" xml:id="bsb00000616_00016_24"/><w lemma="imbecillitas" xml:id="w36" corresp="#w35 #w36">becillitas</w> sexus non impediret, docibilis existere potuisset.
+<lb n="25" xml:id="bsb00000616_00016_25"/>6. In tantum igitur capax ingenii fuerat, ut diversarum artium, quae
+<lb n="26" xml:id="bsb00000616_00016_26"/>muliebribus conveniunt operibus, illis, in quibus conversabatur, locis
+<lb n="27" xml:id="bsb00000616_00016_27"/>prae ceteris circumquaque habitantibus veluti daedala diffamabatur.
+<pb xml:id="bsb00000616_00017" n="14"/><lb n="1" xml:id="bsb00000616_00017_1"/>Fidelis ergo dominae suae permanebat et ad omnium necessitudinum
+<lb n="2" xml:id="bsb00000616_00017_2"/>proventibus pia miseratione flexibilis in tantum, ut mater indigentium
+<lb n="3" xml:id="bsb00000616_00017_3"/>dicebatur. Inde factum est, ut vulgo felix fama eius percrebruit et ut
+<lb n="4" xml:id="bsb00000616_00017_4"/>multi de nobilibus gentis illius proceres ac matronae ad notitiam illius
+<lb n="5" xml:id="bsb00000616_00017_5"/>et ad amicitiam gregatim ac summo conamine affectabant venire et
+<lb n="6" xml:id="bsb00000616_00017_6"/>mirum in modum eis prius cara esset quam nota et suae peregrinationis
+<lb n="7" xml:id="bsb00000616_00017_7"/>loco plures quam in patria possideret amicos.
+<lb n="8" xml:id="bsb00000616_00017_8"/>7. Adventante iam tempore maturae profectaeque aetatis <w lemma="venerabilis" xml:id="w37" corresp="#w37 #w38">venera-</w>
+<lb n="9" xml:id="bsb00000616_00017_9"/><w lemma="venerabilis" xml:id="w38" corresp="#w37 #w38">bilis</w> matrona Gisla coeperat infirmari. Et cum obitus sui diem <w lemma="appropinquare" xml:id="w39" corresp="#w39 #w40">appro-</w>
+<lb n="10" xml:id="bsb00000616_00017_10"/><w lemma="appropinquare" xml:id="w40" corresp="#w39 #w40">pinquare</w> cerneret, vocavit ad se Bernhardum filium suum dixitque ei:
+<lb n="11" xml:id="bsb00000616_00017_11"/><hi rend="ITALICS">Fili mi, noli negligere sermones matris tuae, sed ultima praecepta mea</hi>
+<lb n="12" xml:id="bsb00000616_00017_12"/><hi rend="ITALICS">libenter intende. Substantiam tibi locupletam derelinquo diversisque</hi>
+<lb n="13" xml:id="bsb00000616_00017_13"/><hi rend="ITALICS">possessionibus et aedificiis ac ceteris ornamentis, quae ad huius praesentis</hi>
+<lb n="14" xml:id="bsb00000616_00017_14"/><hi rend="ITALICS">vitae sustentacula tibi Deo propitiante sufficiunt, ut prae omnibus semper</hi>
+<lb n="15" xml:id="bsb00000616_00017_15"/><hi rend="ITALICS">sis memor, ut pro ecclesiarum restauratione et recuperatione rerum tuae</hi>
+<lb n="16" xml:id="bsb00000616_00017_16"/><hi rend="ITALICS">procurationi derelictarum, deinde sororum tuarum causas sollicite </hi><w lemma="procurare" xml:id="w41" corresp="#w41 #w42"><hi rend="ITALICS">pro</hi>-</w>
+<lb n="17" xml:id="bsb00000616_00017_17"/><w lemma="procurare" xml:id="w42" corresp="#w41 #w42"><hi rend="ITALICS">curare</hi></w><hi rend="ITALICS"> studeas et eas iusta atque benigna circumspicias diligentia et</hi>
+<lb n="18" xml:id="bsb00000616_00017_18"/><hi rend="ITALICS">germana tuearis dilectione, quia muliebris in parvo defectum facile patitur</hi>
+<lb n="19" xml:id="bsb00000616_00017_19"/><hi rend="ITALICS">custodia, si pervigil omnimodo virilis ad tempus abest tuitio. Unum</hi>
+<lb n="20" xml:id="bsb00000616_00017_20"/><hi rend="ITALICS">ergo tibi iterum iterumque commendo, quod fidei tuae mater tua committit</hi>
+<lb n="21" xml:id="bsb00000616_00017_21"/><hi rend="ITALICS">et speciali summopere petitione ac materno affectu deposcit: est, filiam ut</hi>
+<lb n="22" xml:id="bsb00000616_00017_22"/><hi rend="ITALICS">meam dilectam Liutbirgam, quam promissione fidei adoptavi michi in</hi>
+<pb xml:id="bsb00000616_00018" n="15"/><lb n="1" xml:id="bsb00000616_00018_1"/><hi rend="ITALICS">filiam, dignis eam honoribus procures et ut in numero sororum tuarum</hi>
+<lb n="2" xml:id="bsb00000616_00018_2"/><hi rend="ITALICS">ac dilectione coniunctam habeas et in consiliis prae illis ea utaris et,</hi>
+<lb n="3" xml:id="bsb00000616_00018_3"/><hi rend="ITALICS">quicquid pretiosi suppellectili possideas, eius procurationi committas,</hi>
+<lb n="4" xml:id="bsb00000616_00018_4"/><hi rend="ITALICS">quia michi semper in cunctis fidelis extiterat</hi>. Et manum eius <w lemma="apprehendens" xml:id="w43" corresp="#w43 #w44">apprehen-</w>
+<lb n="5" xml:id="bsb00000616_00018_5"/><w lemma="apprehendens" xml:id="w44" corresp="#w43 #w44">dens</w> in fidem filii commendabat et osculans filium ac salutatis omnibus
+<lb n="6" xml:id="bsb00000616_00018_6"/>in pace vitam finivit. Et honorifice sepulta est temporibus videlicet
+<lb n="7" xml:id="bsb00000616_00018_7"/>Ludouuici imperatoris, patris scilicet Lotharii et Pippini ac <w lemma="Ludouuici" xml:id="w45" corresp="#w45 #w46">Ludo-</w>
+<lb n="8" xml:id="bsb00000616_00018_8"/><w lemma="Ludouuici" xml:id="w46" corresp="#w45 #w46">uuici</w> atque Karoli filiumque suum Bernhardum reliquit lieredem.
+<lb n="9" xml:id="bsb00000616_00018_9"/>8. Permansit autem venerabilis Liutbirg in domo domini sui et
+<lb n="10" xml:id="bsb00000616_00018_10"/>secundum matris suae dispositionem rerumque suarum gubernacula
+<lb n="11" xml:id="bsb00000616_00018_11"/>in tantum possidebat, ut domus penes eam regimen constiterit penitus
+<lb n="12" xml:id="bsb00000616_00018_12"/>et maternus circa eam domini sui cum sinceritatis honore permanserit
+<lb n="13" xml:id="bsb00000616_00018_13"/>amor et a cunctis utriusque sexus domesticis amoris gratia pro matre
+<lb n="14" xml:id="bsb00000616_00018_14"/>colebatur familias. Accepit itaque Bernhardus coniugem cuiusdam
+<lb n="15" xml:id="bsb00000616_00018_15"/>filiam Lotharii comitis, praeclari viri, nomine Reginhildam, quae peperit
+<lb n="16" xml:id="bsb00000616_00018_16"/>ei duos filios, unum patris aequivocum, alterum Otuuin vocatum.
+<lb n="17" xml:id="bsb00000616_00018_17"/>Quae etiam erga venerandam Liutbirgam tanto fervebat amore, ut
+<lb n="18" xml:id="bsb00000616_00018_18"/>non facile ad tempus eius fraudebatur aspectibus; et veluti maternis
+<lb n="19" xml:id="bsb00000616_00018_19"/>ab eius colloquio documentis venustatis habitum et honestatis gravitatem
+<lb n="20" xml:id="bsb00000616_00018_20"/>moribus, generositatis suae prosapiem magnis quottidie profectibus
+<lb n="21" xml:id="bsb00000616_00018_21"/>exornabat. Post multum vero temporis infirmitate detenta inmaturae
+<lb n="22" xml:id="bsb00000616_00018_22"/>actenus aetatis vitam suis omnibus cara finivit et summum viro filiisque
+<lb n="23" xml:id="bsb00000616_00018_23"/>maerorem intempestivo discessu reliquit.
+<lb n="24" xml:id="bsb00000616_00018_24"/>9. Idemque igitur Bernhardus iuventutis suae vitam sine <w lemma="consolatione" xml:id="w47" corresp="#w47 #w48">consola-</w>
+<lb n="25" xml:id="bsb00000616_00018_25"/><w lemma="consolatione" xml:id="w48" corresp="#w47 #w48">tione</w> coniugis non sustinens, alteram eiusdem gentis praeclaris
+<pb xml:id="bsb00000616_00019" n="16"/><lb n="1" xml:id="bsb00000616_00019_1"/>natalibus editam pulchramque valde ac specie decoram coniugem
+<lb n="2" xml:id="bsb00000616_00019_2"/>duxit, et ob locupletum matrimonium prioris declinavit vulnus doloris.
+<lb n="3" xml:id="bsb00000616_00019_3"/>Quae namque Helmburg vocabatur, ex qua quatuor filios ac duas
+<lb n="4" xml:id="bsb00000616_00019_4"/>procreavit filias, quorum qui maior natu erat, Unuuan, secundus
+<lb n="5" xml:id="bsb00000616_00019_5"/>Adalbert, tertius Asic, quartus Ediram, parentum suorum sortiti <w lemma="vocabula" xml:id="w49" corresp="#w49 #w50">voca-</w>
+<lb n="6" xml:id="bsb00000616_00019_6"/><w lemma="vocabula" xml:id="w50" corresp="#w49 #w50">bula</w>, et duarum filiarum nomina Gisla et Bilihilt, appellati sunt. Matri
+<lb n="7" xml:id="bsb00000616_00019_7"/>ergo necnon et filiis venerabilis Liutbirg solitae fidelitatis vigorem et
+<lb n="8" xml:id="bsb00000616_00019_8"/>summae devotionis intimum demonstravit amorem in tantum, ut illis
+<lb n="9" xml:id="bsb00000616_00019_9"/>genitrix potius  quam nutrix diceretur.
+<lb n="10" xml:id="bsb00000616_00019_10"/>10. Memoratus itaque Bernhardus multas habens ex utrisque <w lemma="parentibus" xml:id="w51" corresp="#w51 #w52">parenti-</w>
+<lb n="11" xml:id="bsb00000616_00019_11"/><w lemma="parentibus" xml:id="w52" corresp="#w51 #w52">bus</w> possessiones, et ad quaecumque suae proprietatis loca perrexerat,
+<lb n="12" xml:id="bsb00000616_00019_12"/>eius ad tempus absentiam venerabilis feminae non facile sustinens, quia
+<lb n="13" xml:id="bsb00000616_00019_13"/>ut rerum suarum fuerat custos atque fidelis dispensatrix. Ubi ergo
+<lb n="14" xml:id="bsb00000616_00019_14"/>aliquod temporis spatium mansitabat, ecclesias Dei visitando diebus
+<lb n="15" xml:id="bsb00000616_00019_15"/>ac noctibus frequentare non amisit et assidue in divino perdurans
+<lb n="16" xml:id="bsb00000616_00019_16"/>servitio, ita ut usque ad lucem diei pervigil in ecelesia pernoctabat; et
+<lb n="17" xml:id="bsb00000616_00019_17"/>nec minus operis divini detrimenta pertulit in tantum, ut in coeptis
+<lb n="18" xml:id="bsb00000616_00019_18"/>quibusque suis efficax habebatur, ut pertinacia tantae strennuitatis pro
+<lb n="19" xml:id="bsb00000616_00019_19"/>magno tenebatur miraculo, ita ut cunctis eam scientibus clare patebat
+<lb n="20" xml:id="bsb00000616_00019_20"/>non imbecilli corporis eius viribus tam huiuscemodi continuatus labor
+<lb n="21" xml:id="bsb00000616_00019_21"/>exactus, sed divinitatis eius auxilio eius animi constantiam sine dubio
+<lb n="22" xml:id="bsb00000616_00019_22"/>roboratam ac superno caelitus afflatam numine, quae per tantae <w lemma="gravedinis" xml:id="w53" corresp="#w53 #w54">grave-</w>
+<lb n="23" xml:id="bsb00000616_00019_23"/><w lemma="gravedinis" xml:id="w54" corresp="#w53 #w54">dinis</w> onus in tam prolixi temporis spatio nullatenus lassa vel flexo collo
+<lb n="24" xml:id="bsb00000616_00019_24"/>succubuit, sed semper infractis quottidie viribus palaestri certamine
+<lb n="25" xml:id="bsb00000616_00019_25"/>contra mundi illecebras et carnis spurcitias, incentivam quoque corporis
+<lb n="26" xml:id="bsb00000616_00019_26"/>lasciviam ac mentis petulantiam blandam suadentem mollitiam infesto
+<lb n="27" xml:id="bsb00000616_00019_27"/>castimoniae pede proculcans et sobrietatis sarculo aculeatos spinarum
+<lb n="28" xml:id="bsb00000616_00019_28"/>frutices cum delectamentorum radicibus extirpare satagebat.
+<pb xml:id="bsb00000616_00020" n="17"/><lb n="1" xml:id="bsb00000616_00020_1"/>11. Enim vero ieiuniis atque vigiliis confecta, insuper manuum
+<lb n="2" xml:id="bsb00000616_00020_2"/>quoque labore maceratum, ut praetulimus, corpus veluti inedia <w lemma="consumptum" xml:id="w55" corresp="#w55 #w56">con-</w>
+<lb n="3" xml:id="bsb00000616_00020_3"/><w lemma="consumptum" xml:id="w56" corresp="#w55 #w56">sumptum</w> mutato in facie colore, et vigor corporis elanguens, pallor in
+<lb n="4" xml:id="bsb00000616_00020_4"/>vultu vividum coepit mutare colorem, et adhaerens ossibus cutis <w lemma="macellentem" xml:id="w57" corresp="#w57 #w58">macel-</w>
+<lb n="5" xml:id="bsb00000616_00020_5"/><w lemma="macellentem" xml:id="w58" corresp="#w57 #w58">lentem</w> adtenuavit aspectum, quod maxima provenit ex parte ex
+<lb n="6" xml:id="bsb00000616_00020_6"/>nocturnis, quibus summopere periclitabatur, excubiis. Mos etenim
+<lb n="7" xml:id="bsb00000616_00020_7"/>consuetudinis eius fuerat, ut, si in loco, in quo aliquod temporis <w lemma="manserat" xml:id="w59" corresp="#w59 #w60">man-</w>
+<lb n="8" xml:id="bsb00000616_00020_8"/><w lemma="manserat" xml:id="w60" corresp="#w59 #w60">serat</w>, ecclesia dedicata non erat, in quanta eam vicinitate cognoverat,
+<lb n="9" xml:id="bsb00000616_00020_9"/>ad nocturnas illic vigilias singulis semper noctibus cum solo parvo
+<lb n="10" xml:id="bsb00000616_00020_10"/>puerulo vel qualicumque muliercula pertendit incessu; et eo usque in
+<lb n="11" xml:id="bsb00000616_00020_11"/>oratione ibi perdurans, donec missarum celebratione peracta sacroque
+<lb n="12" xml:id="bsb00000616_00020_12"/>sumpto viatico devota Deo mulier viam gaudens, qua venerat, ad opus
+<lb n="13" xml:id="bsb00000616_00020_13"/>pristinum repeditabat et domum domini sui non solum verbis, sed et
+<lb n="14" xml:id="bsb00000616_00020_14"/>eximiis virtutum gubernabat exemplis.
+<lb n="15" xml:id="bsb00000616_00020_15"/>12. Videns itaque praefatus comes faciem aspectus eius tenuem et
+<lb n="16" xml:id="bsb00000616_00020_16"/>macie valde peresam, intendit in eam dicens eis, qui astabant ei: <hi rend="ITALICS">Quali</hi>
+<lb n="17" xml:id="bsb00000616_00020_17"/><hi rend="ITALICS">infirmitate detenta est dilecta mater nostra Liutbirg? </hi>Responsum est illi,
+<lb n="18" xml:id="bsb00000616_00020_18"/>quod nec causa valitudinis hoc esset, sed plus inediae ac vigiliarum
+<lb n="19" xml:id="bsb00000616_00020_19"/>iugis et immoderata corporis afflictio; insuper ergo nocturnus iugiter
+<lb n="20" xml:id="bsb00000616_00020_20"/>ad ecclesias periculosus accessus, et hoc solummodo unius parvi pueruli
+<lb n="21" xml:id="bsb00000616_00020_21"/>vel puellulae comitatu singulis noctibus nudis etiam pedibus ab ea
+<lb n="22" xml:id="bsb00000616_00020_22"/>pervagatum. Obstupefactus autem comes vocavit eam ad se et consueto
+<lb n="23" xml:id="bsb00000616_00020_23"/>mores honorificis eam blandisque sermonibus aggressus est dicens:
+<lb n="24" xml:id="bsb00000616_00020_24"/><hi rend="ITALICS">Cur, carissima mater, quae semper aliis ad</hi> <hi rend="ITALICS">morum gravitatem et honestatis</hi>
+<lb n="25" xml:id="bsb00000616_00020_25"/><hi rend="ITALICS">vitae praecedendo non solum verbis, sed etiam factis in te speculum </hi><w lemma="praebuisti" xml:id="w61" corresp="#w61 #w62"><hi rend="ITALICS">prae</hi>-</w>
+<lb n="26" xml:id="bsb00000616_00020_26"/><w lemma="praebuisti" xml:id="w62" corresp="#w61 #w62"><hi rend="ITALICS">buisti</hi></w><hi rend="ITALICS">, nunc vero quasi praecipitationis viam, temetipsam inmaturo</hi>
+<lb n="27" xml:id="bsb00000616_00020_27"/><hi rend="ITALICS">ante praedestinatum tibi tempus a Deo morti destinare, contendis? Hoc</hi>
+<pb xml:id="bsb00000616_00021" n="18"/><lb n="1" xml:id="bsb00000616_00021_1"/><hi rend="ITALICS">etiam, quod armatis pertimescendum est viris, cum diebus ac noctibus</hi>
+<lb n="2" xml:id="bsb00000616_00021_2"/><hi rend="ITALICS">paganis et falso nomine Cristianis latrocinantibus, robustorum corda </hi><w lemma="perturbat" xml:id="w63" corresp="#w63 #w64"><hi rend="ITALICS">per</hi>-</w>
+<lb n="3" xml:id="bsb00000616_00021_3"/><w lemma="perturbat" xml:id="w64" corresp="#w63 #w64"><hi rend="ITALICS">turbat</hi></w><hi rend="ITALICS">. Quod si periculum tanti furoris abesset, quid aliud nisi te dentibus</hi>
+<lb n="4" xml:id="bsb00000616_00021_4"/><hi rend="ITALICS">saevientium bestiarum ac luporum morsibus praedam spontaneam </hi><w lemma="praebuisses" xml:id="w65" corresp="#w65 #w66"><hi rend="ITALICS">prae</hi>-</w>
+<lb n="5" xml:id="bsb00000616_00021_5"/><w lemma="praebuisses" xml:id="w66" corresp="#w65 #w66"><hi rend="ITALICS">buisses</hi></w><hi rend="ITALICS">? nichil aliud ex non dolentibus et ab inimicis nostris diceretur nisi</hi>
+<lb n="6" xml:id="bsb00000616_00021_6"/><hi rend="ITALICS">vanarum ac superstitiosarum penitas rerum deliratio, et fama venustatis</hi>
+<lb n="7" xml:id="bsb00000616_00021_7"/><hi rend="ITALICS">vitae prioris veluti deputetur ad nichilum</hi>.
+<lb n="8" xml:id="bsb00000616_00021_8"/>13. Cui submissa voce venerabilis Liutbirg protinus respondit:
+<lb n="9" xml:id="bsb00000616_00021_9"/><hi rend="ITALICS">Noli, quaeso, domine mi, nequissimorum hominum garrulitatem attendere,</hi>
+<lb n="10" xml:id="bsb00000616_00021_10"/><hi rend="ITALICS">qui temerario contumelias ore sobrie pieque viventibus semper exaggerant</hi>
+<lb n="11" xml:id="bsb00000616_00021_11"/><hi rend="ITALICS">et rabidis quoque benefacta faucibus desaeviunt et venenata pro viribus</hi>
+<lb n="12" xml:id="bsb00000616_00021_12"/><hi rend="ITALICS">lingua dilacerant. Quod malignitatis exordium primi parentis primogenitus</hi>
+<lb n="13" xml:id="bsb00000616_00021_13"/><hi rend="ITALICS">protulit Kain, hoc postea saeva pullulans propagine et actenus uti </hi><w lemma="seminarium" xml:id="w67" corresp="#w67 #w68"><hi rend="ITALICS">semi</hi>-</w>
+<lb n="14" xml:id="bsb00000616_00021_14"/><w lemma="seminarium" xml:id="w68" corresp="#w67 #w68"><hi rend="ITALICS">narium</hi></w><hi rend="ITALICS"> in pravorum cordibus longe lateque per totum disseminatum est</hi>
+<lb n="15" xml:id="bsb00000616_00021_15"/><hi rend="ITALICS">mundum. Nos ergo pro nichilo illorum habentes malitiam, 'sed iactemus</hi>
+<lb n="16" xml:id="bsb00000616_00021_16"/><hi rend="ITALICS">in Deum curam nostram' secundum prophetam, 'et ipse nos enutriet, nec</hi>
+<lb n="17" xml:id="bsb00000616_00021_17"/><hi rend="ITALICS">dabit in aeternum fluctuationem iusto, sed operarios iniquitatis deducet</hi>
+<lb n="18" xml:id="bsb00000616_00021_18"/><hi rend="ITALICS">in interitum'. Et alibi scriptum est: 'Si Deus pro nobis, quis contra nos?'</hi>
+<lb n="19" xml:id="bsb00000616_00021_19"/><hi rend="ITALICS">Et psalmista velut de eis exprobrando loquitur dicens: 'Dominus michi</hi>
+<lb n="20" xml:id="bsb00000616_00021_20"/><hi rend="ITALICS">adiutor est; non timebo, quid faciat michi homo.' Et iterum: 'Dominus</hi>
+<lb n="21" xml:id="bsb00000616_00021_21"/><hi rend="ITALICS">michi adiutor est; et ego despiciam inimicos meos.' Et: 'Bonum est </hi><w lemma="confidere" xml:id="w69" corresp="#w69 #w70"><hi rend="ITALICS">con</hi>-</w>
+<lb n="22" xml:id="bsb00000616_00021_22"/><w lemma="confidere" xml:id="w70" corresp="#w69 #w70"><hi rend="ITALICS">fidere</hi></w><hi rend="ITALICS"> in Domino, quam confidere in hominem, quia vana salus hominis'.</hi>
+<lb n="23" xml:id="bsb00000616_00021_23"/><hi rend="ITALICS">Sed et alia, nostrae salutis causa, divinarum documenta scripturarum </hi><w lemma="innumera" xml:id="w71" corresp="#w71 #w72"><hi rend="ITALICS">in</hi>-</w>
+<lb n="24" xml:id="bsb00000616_00021_24"/><w lemma="innumera" xml:id="w72" corresp="#w71 #w72"><hi rend="ITALICS">numera</hi></w><hi rend="ITALICS">, quae recto itinere ad coelestem patriam nos inoffenso pede </hi><w lemma="perducunt" xml:id="w73" corresp="#w73 #w74"><hi rend="ITALICS">perdu</hi>-</w>
+<lb n="25" xml:id="bsb00000616_00021_25"/><w lemma="perducunt" xml:id="w74" corresp="#w73 #w74"><hi rend="ITALICS">cunt</hi></w><hi rend="ITALICS">, ut longe inimici terrore repulso, ut quisque fidelis cum psalmista</hi>
+<lb n="26" xml:id="bsb00000616_00021_26"/><hi rend="ITALICS">fiducialiter dicere praesumat: 'In Domino confido, quomodo dicitis animae</hi>
+<lb n="27" xml:id="bsb00000616_00021_27"/><hi rend="ITALICS">meae: Transmigra in montem sicut passer.' Et alibi idem propheta in</hi>
+<lb n="28" xml:id="bsb00000616_00021_28"/><hi rend="ITALICS">Domino gloriando victor exultat dicens: 'Inimicorum meorum dedisti michi</hi>
+<pb xml:id="bsb00000616_00022" n="19"/><lb n="1" xml:id="bsb00000616_00022_1"/><hi rend="ITALICS">dorsum, et odientes me disperdidisti.' Ut quid etiam ad brevis huius vitae</hi>
+<lb n="2" xml:id="bsb00000616_00022_2"/><hi rend="ITALICS">metam et ad tam incerta nos huius momentanei temporis transitoria atque</hi>
+<lb n="3" xml:id="bsb00000616_00022_3"/><hi rend="ITALICS">caduca mentis oculos non elevamus? Ubi magnorum quondam potestas?</hi>
+<lb n="4" xml:id="bsb00000616_00022_4"/><hi rend="ITALICS">Ubi divitiae divitum? Ubi fortium enumeratae vires? Ubi regifico luxu</hi>
+<lb n="5" xml:id="bsb00000616_00022_5"/><hi rend="ITALICS">diffluentes et insatiabilis gulae vel foedae servitores libidinis? Ubi etiam</hi>
+<lb n="6" xml:id="bsb00000616_00022_6"/><hi rend="ITALICS">illi, qui sitibundo iugiter ore, quoscumque poterant, propter aurum et </hi><w lemma="argentum" xml:id="w75" corresp="#w75 #w76"><hi rend="ITALICS">ar</hi>-</w>
+<lb n="7" xml:id="bsb00000616_00022_7"/><w lemma="argentum" xml:id="w76" corresp="#w75 #w76"><hi rend="ITALICS">gentum</hi></w><hi rend="ITALICS"> atque pecunias obsorbuerant? Tales enim quanto plus bibunt,</hi>
+<lb n="8" xml:id="bsb00000616_00022_8"/><hi rend="ITALICS">eo amplius sitient. Hi sunt, qui thesaurisant et ignorant, quibus congregant</hi>
+<lb n="9" xml:id="bsb00000616_00022_9"/><hi rend="ITALICS">ea; quorum rapinis et latrociniis adepta pecunia suos amatores sequitur</hi>
+<lb n="10" xml:id="bsb00000616_00022_10"/><hi rend="ITALICS">in perditionem. Nos vero illos non pertimescimus Domino dicente: 'Nolite</hi>
+<lb n="11" xml:id="bsb00000616_00022_11"/><hi rend="ITALICS">timere eos, qui occidunt corpus, animam autem non possunt occidere, sed</hi>
+<lb n="12" xml:id="bsb00000616_00022_12"/><hi rend="ITALICS">potius eum timete, qui potest et corpus et animam perdere in gehennam'</hi>
+<lb n="13" xml:id="bsb00000616_00022_13"/><hi rend="ITALICS">Et idem Salvator in alio loco: 'Qui amat', inquit, animam suam propter</hi>
+<lb n="14" xml:id="bsb00000616_00022_14"/><hi rend="ITALICS">me, in vitam aeternam custodit eam'. Cur occidi timeam propter Deum</hi>
+<lb n="15" xml:id="bsb00000616_00022_15"/><hi rend="ITALICS">meum? Quis vigilare nisi idem Redemptor noster praecepit dicens: '</hi><w lemma="Vigilate" xml:id="w77" corresp="#w77 #w78"><hi rend="ITALICS">Vigi</hi>-</w>
+<lb n="16" xml:id="bsb00000616_00022_16"/><w lemma="Vigilate" xml:id="w78" corresp="#w77 #w78"><hi rend="ITALICS">late</hi></w><hi rend="ITALICS"> et orate, ne intretis in temptationem'? Ipse, qui vigilare praecepit,</hi>
+<lb n="17" xml:id="bsb00000616_00022_17"/><hi rend="ITALICS">etiam orare subiunxit dicens: 'Orate, ne fiat fuga vestra hieme vel sabbato.'</hi>
+<lb n="18" xml:id="bsb00000616_00022_18"/><hi rend="ITALICS">De ieiunio autem scriptum est: 'In die ieiunii vestri invenietur voluntas</hi>
+<lb n="19" xml:id="bsb00000616_00022_19"/><hi rend="ITALICS">vestra.' Quae magis nostra voluntas prae ceteris fieri potest, quam ut</hi>
+<lb n="20" xml:id="bsb00000616_00022_20"/><hi rend="ITALICS">gratiam suam Deus faciat nos promereri et ut mortale nostrum suae </hi><w lemma="immortalitati" xml:id="w79" corresp="#w79 #w80"><hi rend="ITALICS">im</hi>-</w>
+<lb n="21" xml:id="bsb00000616_00022_21"/><w lemma="immortalitati" xml:id="w80" corresp="#w79 #w80"><hi rend="ITALICS">mortalitati</hi></w><hi rend="ITALICS"> in regno suo particeps fieri mereatur?</hi>
+<lb n="22" xml:id="bsb00000616_00022_22"/>14. His igitur atque aliis huiuscemodi dictis commotum comitis
+<lb n="23" xml:id="bsb00000616_00022_23"/>animum ad tranquillitatis pietatem perduxerat, et tumidi furoris, quae
+<lb n="24" xml:id="bsb00000616_00022_24"/>crescere coeperat, struma medicinali ferro sedata delituit. Et conversus
+<lb n="25" xml:id="bsb00000616_00022_25"/>ad eam dixit: <hi rend="ITALICS">Sententiis tuis, et plus, ut ita dicam, divinis quam tuis,</hi>
+<lb n="26" xml:id="bsb00000616_00022_26"/><hi rend="ITALICS">animum scilicet meum in tantum obligasti iustis desideriis tuis, ut nil</hi>
+<lb n="27" xml:id="bsb00000616_00022_27"/><hi rend="ITALICS">penitus contrasisto; tua ipse vota perficiet, exoro, pro cuius haec nomine,</hi>
+<lb n="28" xml:id="bsb00000616_00022_28"/><hi rend="ITALICS">tantae gravedinis difficultates, arripere non formidasti. Et quaecumque a</hi>
+<lb n="29" xml:id="bsb00000616_00022_29"/><hi rend="ITALICS">me tuae voluntatis implementa poposceris, impetrabis. </hi>Illa namque <w lemma="prolatae" xml:id="w81" corresp="#w81 #w82">pro-</w>
+<lb n="30" xml:id="bsb00000616_00022_30"/><w lemma="prolatae" xml:id="w82" corresp="#w81 #w82">latae</w> sententiae dictis animo penitus exhilarata pedibus eius se <w lemma="provolvere" xml:id="w83" corresp="#w83 #w84">pro-</w>
+<lb n="31" xml:id="bsb00000616_00022_31"/><w lemma="provolvere" xml:id="w84" corresp="#w83 #w84">volvere</w> volens, sed non est ab eo permissa. <hi rend="ITALICS">Hoc ergo, </hi>inquit, <hi rend="ITALICS">domine mi,</hi>
+<lb n="32" xml:id="bsb00000616_00022_32"/><hi rend="ITALICS">corde gratulabundo pro summo tuae pietatis beneficio libenter suscipio et</hi>
+<lb n="33" xml:id="bsb00000616_00022_33"/><hi rend="ITALICS">veluti divinitus munere concesso, pro viribus gratias agere non cesso, si</hi>
+<lb n="34" xml:id="bsb00000616_00022_34"/><hi rend="ITALICS">subsequens petitioni famulae tuae conceditur effectus. </hi>At ille inquit: <hi rend="ITALICS">Dic,</hi>
+<lb n="35" xml:id="bsb00000616_00022_35"/><hi rend="ITALICS">quaeso; quae sint in animo tuo, abscondere noli. Fateor, me, quod paulo</hi>
+<pb xml:id="bsb00000616_00023" n="20"/><lb n="1" xml:id="bsb00000616_00023_1"/><hi rend="ITALICS">ante professus sum, rationabilibus tuis petitionibus vitam viresque Deo</hi>
+<lb n="2" xml:id="bsb00000616_00023_2"/><hi rend="ITALICS">concedente praebere consensum. </hi>Tum illa intimo protracto suspirio <w lemma="lachrimisque" xml:id="w85" corresp="#w85 #w86">lach-</w>
+<lb n="3" xml:id="bsb00000616_00023_3"/><w lemma="lachrimisque" xml:id="w86" corresp="#w85 #w86">rimisque</w> mox erumpentibus aiebat: <hi rend="ITALICS">Peccatrix nimium, domine, in </hi><w lemma="multisque" xml:id="w87" corresp="#w87 #w88"><hi rend="ITALICS">multis</hi>-</w>
+<lb n="4" xml:id="bsb00000616_00023_4"/><w lemma="multisque" xml:id="w88" corresp="#w87 #w88"><hi rend="ITALICS">que</hi></w><hi rend="ITALICS"> vinculis detenta sum ego, quae usque ad huius aetatis metam in omnibus</hi>
+<lb n="5" xml:id="bsb00000616_00023_5"/><hi rend="ITALICS">desideriis delicatam et in huius mundi voluptatibus erroneam vitam peregi,</hi>
+<lb n="6" xml:id="bsb00000616_00023_6"/><hi rend="ITALICS">huc atque illuc cursu vaganti funditus detenta et promissionis meae, quam</hi>
+<lb n="7" xml:id="bsb00000616_00023_7"/><hi rend="ITALICS">Domino promiseram, oblita penitus et ignara. Tandem locum alicubi </hi><w lemma="manendi" xml:id="w89" corresp="#w89 #w90"><hi rend="ITALICS">ma</hi>-</w>
+<lb n="8" xml:id="bsb00000616_00023_8"/><w lemma="manendi" xml:id="w90" corresp="#w89 #w90"><hi rend="ITALICS">nendi</hi></w><hi rend="ITALICS"> pietatem tuam deposco, ut residuum tempus vitae meae in poenitentia</hi>
+<lb n="9" xml:id="bsb00000616_00023_9"/><hi rend="ITALICS">delictorum meorum perseverare valeam ac pro beneficiis eorum, qui in me</hi>
+<lb n="10" xml:id="bsb00000616_00023_10"/><hi rend="ITALICS">misera propter Deum opera misericordiae frequentare, rogitare. Quod, ut</hi>
+<lb n="11" xml:id="bsb00000616_00023_11"/><hi rend="ITALICS">credo, tibi, domine mi, et venerandae memoriae matri tuae perpetuitatis</hi>
+<lb n="12" xml:id="bsb00000616_00023_12"/><hi rend="ITALICS">munere felicius redonetur, Domino dicente: 'Quod uni ex minimis meis</hi>
+<lb n="13" xml:id="bsb00000616_00023_13"/><hi rend="ITALICS">fecistis, michi fecistis', et secundum apostoli Iacobi sententiam dicentis:</hi>
+<lb n="14" xml:id="bsb00000616_00023_14"/><hi rend="ITALICS">'Qui converti fecerit peccatorem ab errore viae suae, salvabit animam eius</hi>
+<lb n="15" xml:id="bsb00000616_00023_15"/><hi rend="ITALICS">a morte et operit multitudinem peccatorum.'</hi>
+<lb n="16" xml:id="bsb00000616_00023_16"/>15. Tunc ille placido vultu respondens inquit: <hi rend="ITALICS">Et ubi tantae quietudinis</hi>
+<lb n="17" xml:id="bsb00000616_00023_17"/><hi rend="ITALICS">reperire poterimus locum, ut sine huius mundi turbulenti strepitu et</hi>
+<lb n="18" xml:id="bsb00000616_00023_18"/><hi rend="ITALICS">tempestatis fluctibus secura deliteas? </hi>Tum illa: <hi rend="ITALICS">Praevidi, </hi>inquit,
+<lb n="19" xml:id="bsb00000616_00023_19"/><hi rend="ITALICS">locum michi ad dies parvitatis meae congruum; ibi si pietas vestra </hi><w lemma="cellulam" xml:id="w91" corresp="#w91 #w92"><hi rend="ITALICS">cel</hi>-</w>
+<lb n="20" xml:id="bsb00000616_00023_20"/><w lemma="cellulam" xml:id="w92" corresp="#w91 #w92"><hi rend="ITALICS">lulam</hi></w><hi rend="ITALICS"> quam parvam fieri praecipit, satis michi habitaculum sufficiet</hi>
+<lb n="21" xml:id="bsb00000616_00023_21"/>ac <hi rend="ITALICS">longe pro divitiis saeculi delectatum atque iocundum in dies meos</hi>
+<lb n="22" xml:id="bsb00000616_00023_22"/><hi rend="ITALICS">abundaverit. </hi>Ammirans ille tantillae mulieris constantiam et virilis
+<lb n="23" xml:id="bsb00000616_00023_23"/>supergredientis animi fiduciam, longo interposito silentio dixit: <hi rend="ITALICS">Ut ergo</hi>
+<lb n="24" xml:id="bsb00000616_00023_24"/><hi rend="ITALICS">de tuis verbis sentio huc usque prolatis, solitariam atque seclusam et</hi>
+<lb n="25" xml:id="bsb00000616_00023_25"/><hi rend="ITALICS">a ceteris in commune viventibus sequestratam temptas suscipere vitam et</hi>
+<lb n="26" xml:id="bsb00000616_00023_26"/><hi rend="ITALICS">hactenus his locis insolitam. Ad hoc utique sacerdotum necnon et </hi><w lemma="pontificis" xml:id="w93" corresp="#w93 #w94"><hi rend="ITALICS">ponti</hi>-</w>
+<lb n="27" xml:id="bsb00000616_00023_27"/><w lemma="pontificis" xml:id="w94" corresp="#w93 #w94"><hi rend="ITALICS">ficis</hi></w><hi rend="ITALICS"> nostri plus quam laicorum adhibenda sunt consilia. </hi>Et cominus
+<lb n="28" xml:id="bsb00000616_00023_28"/>illa prosecuta: <hi rend="ITALICS">Nequaquam, domine mi, tale aliquid inchoandum putavi,</hi>
+<pb xml:id="bsb00000616_00024" n="21"/><lb n="1" xml:id="bsb00000616_00024_1"/><hi rend="ITALICS">nisi ut</hi> <hi rend="ITALICS">sacro nostrorum rectorum </hi>ac <hi rend="ITALICS">provido cerneretur examine, ut</hi>
+<lb n="2" xml:id="bsb00000616_00024_2"/><hi rend="ITALICS">non </hi>mea, <hi rend="ITALICS">sed Domini perficeretur voluntas et ut consilio eorum quid de</hi>
+<lb n="3" xml:id="bsb00000616_00024_3"/><hi rend="ITALICS">talibus fieri ostenderetur inceptis. </hi>Ultimam ergo rationationis eorum
+<lb n="4" xml:id="bsb00000616_00024_4"/>causam pontificis ac sacerdotum congrue ventilandam ac sagaciter <w lemma="deliberandam" xml:id="w95" corresp="#w95 #w96">de-</w>
+<lb n="5" xml:id="bsb00000616_00024_5"/><w lemma="deliberandam" xml:id="w96" corresp="#w95 #w96">liberandam</w> prolixioris temporis spatio decreverunt. Et finito <w lemma="colloquio" xml:id="w97" corresp="#w97 #w98">collo-</w>
+<lb n="6" xml:id="bsb00000616_00024_6"/><w lemma="colloquio" xml:id="w98" corresp="#w97 #w98">quio</w> fidens illa promissionibus laeto revertebatur animo, rerum
+<lb n="7" xml:id="bsb00000616_00024_7"/>omnino suarum divinae pietati spem derelinquens.
+<lb n="8" xml:id="bsb00000616_00024_8"/>16. Contigit autem post aliquod spatium temporis eiusdem provinciae
+<lb n="9" xml:id="bsb00000616_00024_9"/>pontificem beatae memoriae Theotgrimum ad domum praememorati
+<lb n="10" xml:id="bsb00000616_00024_10"/>comitis venire, quia firmam inter se amicitiam habebant; et eo ibi
+<lb n="11" xml:id="bsb00000616_00024_11"/>pernoctanti, sequenti quoque die temporis oportunitatem veneranda
+<lb n="12" xml:id="bsb00000616_00024_12"/>Liutbirg sibi vidit adesse, desideratae mentis tanto consultori secreta
+<lb n="13" xml:id="bsb00000616_00024_13"/>detegere. Tempus ac locum Deo disponente congruum repererat, se
+<lb n="14" xml:id="bsb00000616_00024_14"/>quoque pedibus antistitis humiliter prosternens eiusque indigere
+<lb n="15" xml:id="bsb00000616_00024_15"/>clementiam subiecta voce pronuntians. Ille igitur obstupefactus
+<lb n="16" xml:id="bsb00000616_00024_16"/>animo, quia prius sibi bene fuerat nota et honestis eam moribus
+<lb n="17" xml:id="bsb00000616_00024_17"/>penitus deditam, quin etiam apud dominum suum veluti genitricis
+<lb n="18" xml:id="bsb00000616_00024_18"/>locum tenere noverat, ut multum erat animo misericors, mitis
+<lb n="19" xml:id="bsb00000616_00024_19"/>eam allocutus est sermonibus: <hi rend="ITALICS">Eya, dilecta soror, quaecumque sint </hi><w lemma="animae" xml:id="w99" corresp="#w99 #w100"><hi rend="ITALICS">ani</hi>-</w>
+<lb n="20" xml:id="bsb00000616_00024_20"/><w lemma="animae" xml:id="w100" corresp="#w99 #w100"><hi rend="ITALICS">mae</hi></w><hi rend="ITALICS"> tuae denuntiandae sententiae, licenter expone. Me vero tuae</hi>
+<lb n="21" xml:id="bsb00000616_00024_21"/><hi rend="ITALICS">consolatorem sollicitudinis spontaneum annuente Deo nactum habebis.</hi>
+<lb n="22" xml:id="bsb00000616_00024_22"/>Illa namque, secundum quod scriptum est <hi rend="ITALICS">'iustus in primordio </hi><w lemma="sermonis" xml:id="w101" corresp="#w101 #w102"><hi rend="ITALICS">ser</hi>-</w>
+<lb n="23" xml:id="bsb00000616_00024_23"/><w lemma="sermonis" xml:id="w102" corresp="#w101 #w102"><hi rend="ITALICS">monis</hi></w><hi rend="ITALICS"> accusator est sui', </hi>peccatricem se commemorans et <w lemma="innumerabilium" xml:id="w103" corresp="#w103 #w104">innumera-</w>
+<pb xml:id="bsb00000616_00025" n="22"/><lb n="1" xml:id="bsb00000616_00025_1"/><w lemma="innumerabilium" xml:id="w104" corresp="#w103 #w104">bilium</w> delictorum ream protestabatur esse, eiusque commissis <w lemma="peccatis" xml:id="w105" corresp="#w105 #w106">pec-</w>
+<lb n="2" xml:id="bsb00000616_00025_2"/><w lemma="peccatis" xml:id="w106" corresp="#w105 #w106">catis</w> implorans suppliciter auxilium et, quae mente tegebat, <w lemma="incunctanter" xml:id="w107" corresp="#w107 #w108">in-</w>
+<lb n="3" xml:id="bsb00000616_00025_3"/><w lemma="incunctanter" xml:id="w108" corresp="#w107 #w108">cunctanter</w> exposuit.
+<lb n="4" xml:id="bsb00000616_00025_4"/>17. Ipse vero sermonum suarum sententiam vigilanter intendens,
+<lb n="5" xml:id="bsb00000616_00025_5"/>sciens se iustorum semper desideriorum affectuumque potius debere
+<lb n="6" xml:id="bsb00000616_00025_6"/>pro viribus fautorem fieri quam repulsorem, completo paululum
+<lb n="7" xml:id="bsb00000616_00025_7"/>silentio, alacri quoque vultu eam intendens , inquit: <hi rend="ITALICS">Propositum</hi>
+<lb n="8" xml:id="bsb00000616_00025_8"/><hi rend="ITALICS">animi tui, dilecta filia, considerans a pietatis fonte manantem, sed</hi>
+<lb n="9" xml:id="bsb00000616_00025_9"/><hi rend="ITALICS">quomodo cursum tuae salutis arripiat, prudenti consilio deliberandum</hi>
+<lb n="10" xml:id="bsb00000616_00025_10"/><hi rend="ITALICS">prius esse censemus. Inprimis vero divinum exorandum est auxilium,</hi>
+<lb n="11" xml:id="bsb00000616_00025_11"/><hi rend="ITALICS">ut cooperatore atque auctore omnium bonorum Deo nostra in hoc</hi>
+<lb n="12" xml:id="bsb00000616_00025_12"/><hi rend="ITALICS">prosperantur consilia, ut talis navigationis inchoatio ipso gubernante</hi>
+<lb n="13" xml:id="bsb00000616_00025_13"/><hi rend="ITALICS">portum salutis possit attingere. </hi>Et haec dicens, ad se rogavit vocari
+<lb n="14" xml:id="bsb00000616_00025_14"/>Bernhardum et eum secum sedere fecit. Quibus consedentibus <w lemma="episcopus" xml:id="w109" corresp="#w109 #w110">epi-</w>
+<lb n="15" xml:id="bsb00000616_00025_15"/><w lemma="episcopus" xml:id="w110" corresp="#w109 #w110">scopus</w> ait ad eum:
+<lb n="16" xml:id="bsb00000616_00025_16"/>18. <hi rend="ITALICS">Omnis rationalis creatura, quae in sanctis spiritibus et hominibus</hi>
+<lb n="17" xml:id="bsb00000616_00025_17"/><hi rend="ITALICS">consistit, bona est et ad bonum intendit, sed, diverso tramite incedens, ad</hi>
+<lb n="18" xml:id="bsb00000616_00025_18"/><hi rend="ITALICS">illud, quod adventat venire, disiunctione semitarum ab omnibus minime</hi>
+<lb n="19" xml:id="bsb00000616_00025_19"/><hi rend="ITALICS">pervenitur. In eo ergo, quo se divortia viarum diversa per loca </hi><w lemma="disiungunt" xml:id="w111" corresp="#w111 #w112"><hi rend="ITALICS">dis</hi>-</w>
+<lb n="20" xml:id="bsb00000616_00025_20"/><w lemma="disiungunt" xml:id="w112" corresp="#w111 #w112"><hi rend="ITALICS">iungunt</hi></w><hi rend="ITALICS">, multo minus ad desiderata perveniunt. Fur igitur vel latro per</hi>
+<lb n="21" xml:id="bsb00000616_00025_21"/><hi rend="ITALICS">violentiam ac latrociniarum rapinam ad sufficientiam, quam summum</hi>
+<lb n="22" xml:id="bsb00000616_00025_22"/><hi rend="ITALICS">autumat bonum, se posse pervenire delectat. Sed non eo tramite ad bonum</hi>
+<pb xml:id="bsb00000616_00026" n="23"/><lb n="1" xml:id="bsb00000616_00026_1"/><hi rend="ITALICS">ullo modo pervenitur. Avari quoque et luxuriosi, ceterorum vitiorum </hi><w lemma="illecebris" xml:id="w113" corresp="#w113 #w114"><hi rend="ITALICS">ille</hi>-</w>
+<lb n="2" xml:id="bsb00000616_00026_2"/><w lemma="illecebris" xml:id="w114" corresp="#w113 #w114"><hi rend="ITALICS">cebris</hi></w><hi rend="ITALICS"> dediti et illa pro summa bona deputantes, quae se ad yma demergunt.</hi>
+<lb n="3" xml:id="bsb00000616_00026_3"/><hi rend="ITALICS">Inde quoque fit, ut omnes in appetitu boni secundum naturam, quae bona</hi>
+<lb n="4" xml:id="bsb00000616_00026_4"/><hi rend="ITALICS">est, consentiunt; in qualitate morum ac desideriorum calles per diversos,</hi>
+<lb n="5" xml:id="bsb00000616_00026_5"/><hi rend="ITALICS">quos errando dissentiunt, longe separabuntur a bono; ita dumtaxat, ut</hi>
+<lb n="6" xml:id="bsb00000616_00026_6"/><hi rend="ITALICS">nulli alii, nisi qui viam mandatorum Domini dilatato gradiuntur corde</hi>
+<lb n="7" xml:id="bsb00000616_00026_7"/><hi rend="ITALICS">et qui per adversa ac prospera huius transeuntis vitae medium et angustum</hi>
+<lb n="8" xml:id="bsb00000616_00026_8"/><hi rend="ITALICS">iter arripiunt, licet soli perfecto ad summum, quod desiderant, bonum</hi>
+<lb n="9" xml:id="bsb00000616_00026_9"/><hi rend="ITALICS">Christo perducente et adiuvante perveniunt. Haec itaque est via, quam soror</hi>
+<lb n="10" xml:id="bsb00000616_00026_10"/><hi rend="ITALICS">nostra festinat incedere, sed adversariorum quam multis ac paene innumeris</hi>
+<lb n="11" xml:id="bsb00000616_00026_11"/><hi rend="ITALICS">cuneis catervatim insidunt providendum est exercitus. Hinc superbia </hi><w lemma="militum" xml:id="w115" corresp="#w115 #w116"><hi rend="ITALICS">mili</hi>-</w>
+<lb n="12" xml:id="bsb00000616_00026_12"/><w lemma="militum" xml:id="w116" corresp="#w115 #w116"><hi rend="ITALICS">tum</hi></w><hi rend="ITALICS"> suorum multitudinem ducens, quae non solum in malefactis, sed etiam</hi>
+<lb n="13" xml:id="bsb00000616_00026_13"/><hi rend="ITALICS">in benefactis victricia signa sustollit. Illinc namque avaritiae fallanx</hi>
+<lb n="14" xml:id="bsb00000616_00026_14"/><hi rend="ITALICS">vexillis ducibusque quam plurimis fraterno madentia sanguine hactenus</hi>
+<lb n="15" xml:id="bsb00000616_00026_15"/><hi rend="ITALICS">arma praeponit. Ex una denique parte luxuriae castra diversis delicata</hi>
+<lb n="16" xml:id="bsb00000616_00026_16"/><hi rend="ITALICS">deliciis numerositatem populorum retentant. Ex illa gula gastrimargiaque,</hi>
+<lb n="17" xml:id="bsb00000616_00026_17"/><hi rend="ITALICS">cupiditatis ac libidinis collegae, vallatae considunt. Hic ira facibus armata,</hi>
+<lb n="18" xml:id="bsb00000616_00026_18"/><hi rend="ITALICS">illic invidiae odiique venenata densantur iacula. Hic arrogantiae turmae,</hi>
+<lb n="19" xml:id="bsb00000616_00026_19"/><hi rend="ITALICS">illic simulatio variis fucata coloribus ac socio falsitatis protecta velamine.</hi>
+<lb n="20" xml:id="bsb00000616_00026_20"/><hi rend="ITALICS">Hic fraudis fovea lato patens voragine, illic doli decipulae millenis </hi><w lemma="circumquaque" xml:id="w117" corresp="#w117 #w118"><hi rend="ITALICS">circum</hi>-</w>
+<lb n="21" xml:id="bsb00000616_00026_21"/><w lemma="circumquaque" xml:id="w118" corresp="#w117 #w118"><hi rend="ITALICS">quaque</hi></w><hi rend="ITALICS"> defossis occultantur laqueis, inter quos nullus, nisi praevia virtute</hi>
+<lb n="22" xml:id="bsb00000616_00026_22"/><hi rend="ITALICS">divina Paulique munitus armis, securus incedit.</hi>
+<lb n="23" xml:id="bsb00000616_00026_23"/>19. <hi rend="ITALICS">Has undique terrorum obsidiones cauta mens contemplatione</hi>
+<lb n="24" xml:id="bsb00000616_00026_24"/><hi rend="ITALICS">prospiciens prius in semetipsa perpendat, quibus onusta virtutum cominus</hi>
+<lb n="25" xml:id="bsb00000616_00026_25"/><hi rend="ITALICS">armis tantae vel tam immensae multitudinis horribili bello resistat. </hi><w lemma="Confidat" xml:id="w119" corresp="#w119 #w120"><hi rend="ITALICS">Con</hi>-</w>
+<lb n="26" xml:id="bsb00000616_00026_26"/><w lemma="Confidat" xml:id="w120" corresp="#w119 #w120"><hi rend="ITALICS">fidat</hi></w><hi rend="ITALICS"> firmiter in Domino et in potentiam virtutis eius ac dicat: 'Exurgat</hi>
+<lb n="27" xml:id="bsb00000616_00026_27"/><hi rend="ITALICS">Deus, et dissipentur inimici eius et fugiant a facie eius, qui oderunt eum.'</hi>
+<lb n="28" xml:id="bsb00000616_00026_28"/><hi rend="ITALICS">Et iterum: 'Dum appropiant super me nocentes? et reliqua eiusdem </hi><w lemma="versisiculi" xml:id="w121" corresp="#w121 #w122"><hi rend="ITALICS">versi</hi>-</w>
+<lb n="29" xml:id="bsb00000616_00026_29"/><w lemma="versisiculi" xml:id="w122" corresp="#w121 #w122"><hi rend="ITALICS">siculi</hi></w><hi rend="ITALICS">. Et iterum: 'Si consistant adversum me castra, non timebit cor meum,</hi>
+<lb n="30" xml:id="bsb00000616_00026_30"/><hi rend="ITALICS">et si consurgat adversum me proelium, in hoc ego sperabo.' Et ita demum</hi>
+<lb n="31" xml:id="bsb00000616_00026_31"/><hi rend="ITALICS">roborata in Christo fide pro nichilo deputet tantae multitudinis invalidos</hi>
+<lb n="32" xml:id="bsb00000616_00026_32"/><hi rend="ITALICS">tumultus, quia fallaces semper esse daemones cognitum est, licet aliquando</hi>
+<lb n="33" xml:id="bsb00000616_00026_33"/><hi rend="ITALICS">fraudulenta versutia pronuntiant vera, ut simpliciores quorumque animos</hi>
+<lb n="34" xml:id="bsb00000616_00026_34"/><hi rend="ITALICS">praetenta veritatis ostensione decipere valeant. Ac veluti arte piscatoria quis</hi>
+<pb xml:id="bsb00000616_00027" n="24"/><lb n="1" xml:id="bsb00000616_00027_1"/><hi rend="ITALICS">hamum cibo, quo delectatur piscis, inclusum insidiando delectantis faucibus</hi>
+<lb n="2" xml:id="bsb00000616_00027_2"/><hi rend="ITALICS">praetendit, ut his, quibus gaudere fuerat solitus, decipiatur dapibus, ita</hi>
+<lb n="3" xml:id="bsb00000616_00027_3"/><hi rend="ITALICS">adversarius noster, in omnes partes calliditatis suae perversa simulatione</hi>
+<lb n="4" xml:id="bsb00000616_00027_4"/><hi rend="ITALICS">protenta, ut diversis aranearum cassibus pios, ut praediximus, simplicium</hi>
+<lb n="5" xml:id="bsb00000616_00027_5"/><hi rend="ITALICS">animos capere suescat, et inprimis veritatis ostentu latentis ferri securis</hi>
+<lb n="6" xml:id="bsb00000616_00027_6"/><hi rend="ITALICS">admodum mentibus feriendo vibrat acumen. Aliquos vero formidolosorum</hi>
+<lb n="7" xml:id="bsb00000616_00027_7"/><hi rend="ITALICS">animos diversis terroribus fatigat, ut veluti arundinem quassatam timore</hi>
+<lb n="8" xml:id="bsb00000616_00027_8"/><hi rend="ITALICS">confringat; alios desideriis quam plurimis incendit, ut aliquis iam terrenis</hi>
+<lb n="9" xml:id="bsb00000616_00027_9"/><hi rend="ITALICS">facultatibus abrenuntiatis iterum negotiis saecularibus se implicet; quosdam</hi>
+<lb n="10" xml:id="bsb00000616_00027_10"/><hi rend="ITALICS">precum suarum remunerationis emolumentum sequentes paupertatis suae</hi>
+<lb n="11" xml:id="bsb00000616_00027_11"/><hi rend="ITALICS">inopiam sibi servientium enumerans habendi pruriginem non amittit.</hi>
+<lb n="12" xml:id="bsb00000616_00027_12"/>20. <hi rend="ITALICS">His ergo atque aliis innumerabilibus periculis fidelis animo </hi><w lemma="expergefactus" xml:id="w123" corresp="#w123 #w124"><hi rend="ITALICS">ex</hi>-</w>
+<lb n="13" xml:id="bsb00000616_00027_13"/><w lemma="expergefactus" xml:id="w124" corresp="#w123 #w124"><hi rend="ITALICS">pergefactus</hi></w><hi rend="ITALICS"> et talibus illusionibus expeditus, divino munitus suffragio,</hi>
+<lb n="14" xml:id="bsb00000616_00027_14"/><hi rend="ITALICS">horrificos adversariorum cuneorum tumultus mens provida longe </hi><w lemma="praenoscens" xml:id="w125" corresp="#w125 #w126"><hi rend="ITALICS">prae</hi>-</w>
+<lb n="15" xml:id="bsb00000616_00027_15"/><w lemma="praenoscens" xml:id="w126" corresp="#w125 #w126"><hi rend="ITALICS">noscens</hi></w><hi rend="ITALICS">, quae prius criminum suorum ponderibus vel secura fuerat vel per</hi>
+<lb n="16" xml:id="bsb00000616_00027_16"/><hi rend="ITALICS">poenitentiam vel elemosinarum donis aut orationum instantia purgata</hi>
+<lb n="17" xml:id="bsb00000616_00027_17"/><hi rend="ITALICS">laqueis inimici liberata recesserat, fidei quoque ac spei et caritatis tutamine</hi>
+<lb n="18" xml:id="bsb00000616_00027_18"/><hi rend="ITALICS">roborata aliarumque virtutum comitatu suffulta, divino se per omnia</hi>
+<lb n="19" xml:id="bsb00000616_00027_19"/><hi rend="ITALICS">commendans praesidio tantae molis impetum facile superabit, contrariorum</hi>
+<lb n="20" xml:id="bsb00000616_00027_20"/><hi rend="ITALICS">legionem cum suis nequitiae machinamentis, veluti nubes vento </hi><w lemma="superveniente" xml:id="w127" corresp="#w127 #w128"><hi rend="ITALICS">super</hi>-</w>
+<lb n="21" xml:id="bsb00000616_00027_21"/><w lemma="superveniente" xml:id="w128" corresp="#w127 #w128"><hi rend="ITALICS">veniente</hi></w><hi rend="ITALICS"> vel clarescente sole dissipabitur nebula, quia virtus Christi, quae</hi>
+<lb n="22" xml:id="bsb00000616_00027_22"/><hi rend="ITALICS">eorum destruxit imperium, eorumque principem aeternis vinculis </hi><w lemma="mandpavit" xml:id="w129" corresp="#w129 #w130"><hi rend="ITALICS">mand</hi>-</w>
+<lb n="23" xml:id="bsb00000616_00027_23"/><w lemma="mandpavit" xml:id="w130" corresp="#w129 #w130"><hi rend="ITALICS">pavit</hi></w><hi rend="ITALICS">. Ideoque virtus eorum elanguens deficiet, et ut stipulae nichil aliud</hi>
+<lb n="24" xml:id="bsb00000616_00027_24"/><hi rend="ITALICS">quam strepitum suae fantasiae reddunt, cum supervenerit ignis. Quapropter,</hi>
+<lb n="25" xml:id="bsb00000616_00027_25"/><hi rend="ITALICS">karissima filia, cauta necesse est ut quisque circumspectione partes in omnes</hi>
+<lb n="26" xml:id="bsb00000616_00027_26"/><hi rend="ITALICS">consideret, ut si ad versutias et ad callidas fraudes et spiritales nequitias</hi>
+<lb n="27" xml:id="bsb00000616_00027_27"/><hi rend="ITALICS">inimici invicta mente consistat necnon et malignorum detractiones hominum</hi>
+<lb n="28" xml:id="bsb00000616_00027_28"/><hi rend="ITALICS">et irrisiones et aliquorum adolationum inanes ac seducentium laudes aequa</hi>
+<lb n="29" xml:id="bsb00000616_00027_29"/><hi rend="ITALICS">ferre lance sufficiat. Quia, qui aliquid inusitatum inter eos, quos </hi><w lemma="conversatus" xml:id="w131" corresp="#w131 #w132"><hi rend="ITALICS">conver</hi>-</w>
+<lb n="30" xml:id="bsb00000616_00027_30"/><w lemma="conversatus" xml:id="w132" corresp="#w131 #w132"><hi rend="ITALICS">satus</hi></w><hi rend="ITALICS"> est, inchoare maluerit, omnium se oculis veluti cuiuscumque prodigii</hi>
+<lb n="31" xml:id="bsb00000616_00027_31"/><hi rend="ITALICS">miraculum ostendere nititur et ora multorum aperire, tunc necesse est iter</hi>
+<lb n="32" xml:id="bsb00000616_00027_32"/><hi rend="ITALICS">medium carpere, neque ad dexteram per vanam gloriam et neque per</hi>
+<lb n="33" xml:id="bsb00000616_00027_33"/><hi rend="ITALICS">sinistram in desperationis foveam incidere, summa </hi> <hi rend="ITALICS">procuratione praevidere;</hi>
+<lb n="34" xml:id="bsb00000616_00027_34"/><hi rend="ITALICS">divinum summopere supplicandum est indeficienter auxilium, ut ad bonam</hi>
+<lb n="35" xml:id="bsb00000616_00027_35"/><hi rend="ITALICS">finem bene penitus inchoata suffragante Christo Salvatore nostro perveniant.</hi>
+<pb xml:id="bsb00000616_00028" n="25"/><lb n="1" xml:id="bsb00000616_00028_1"/>21. Talibus namque dictis cum eam praesul ammonuit, iterum
+<lb n="2" xml:id="bsb00000616_00028_2"/>illa pedibus eius provoluta summas ei gratias referens: <hi rend="ITALICS">Gratia Dei, </hi>ait,
+<lb n="3" xml:id="bsb00000616_00028_3"/><hi rend="ITALICS">sum id, quod sum. In eum, qui me creavit et usque ad hos dies vitam</hi>
+<lb n="4" xml:id="bsb00000616_00028_4"/><hi rend="ITALICS">meam disposuerat, spem meam committo, et in quem firmiter credo,</hi>
+<lb n="5" xml:id="bsb00000616_00028_5"/><hi rend="ITALICS">cuius ope, licet indigna, non confundar ab expectatione mea; sed memor</hi>
+<lb n="6" xml:id="bsb00000616_00028_6"/><hi rend="ITALICS">esto, sancte sacerdos, verbi tui, in quo michi spem dedisti. </hi>Et sequentem
+<lb n="7" xml:id="bsb00000616_00028_7"/>versum usque in finem perorans: <hi rend="ITALICS">Tempus, </hi>inquit, <hi rend="ITALICS">ac diem misericordiam</hi>
+<lb n="8" xml:id="bsb00000616_00028_8"/><hi rend="ITALICS">pietatis vestrae deposco michi disponere, ut erga me miseram Dei mei</hi>
+<lb n="9" xml:id="bsb00000616_00028_9"/><hi rend="ITALICS">voluntas impleatur. </hi>Igitur antistes una cum comite tantam in ea
+<lb n="10" xml:id="bsb00000616_00028_10"/>mirantes animi constantiam iudicio communi decreverunt fieri, quod
+<lb n="11" xml:id="bsb00000616_00028_11"/>poposcerat, et diem conveniendi ad locum ab ea desideratum statuerunt.
+<lb n="12" xml:id="bsb00000616_00028_12"/>22. Condicto quoque tempore praefatus venit episcopus non cum
+<lb n="13" xml:id="bsb00000616_00028_13"/>parvo numero presbiterorum ac secundi ordinis et posteriorum graduum
+<lb n="14" xml:id="bsb00000616_00028_14"/>numerosa collectione, cellulam mansiunculae iam ad opus paratam sua
+<lb n="15" xml:id="bsb00000616_00028_15"/>benedictione benedixit et aspersionis aqua salubriter sparserat, atque
+<lb n="16" xml:id="bsb00000616_00028_16"/>in tam parvo domicilio veluti tugurio immissa, et, si non aliqua ingrueret
+<lb n="17" xml:id="bsb00000616_00028_17"/>rerum maximarum necessitas, interdixit egressum, suisque <w lemma="benedictionibus" xml:id="w133" corresp="#w133 #w134">benedictioni-</w>
+<lb n="18" xml:id="bsb00000616_00028_18"/><w lemma="benedictionibus" xml:id="w134" corresp="#w133 #w134">bus</w> ac doctrina, paterno scilicet more constructam, obiectu parietis
+<lb n="19" xml:id="bsb00000616_00028_19"/>clausam lachrimando discessit orans, ut ad bonam finem propitiante
+<lb n="20" xml:id="bsb00000616_00028_20"/>Domino agonem suum perducere mereretur. Iam vero venerabilis
+<pb xml:id="bsb00000616_00029" n="26"/><lb n="1" xml:id="bsb00000616_00029_1"/>ancilla Dei Liutbirg desiderii sui voti compos effecta, diebus ac
+<lb n="2" xml:id="bsb00000616_00029_2"/>noctibus in oratione perdurans abstinentiam ciborum ac potus in
+<lb n="3" xml:id="bsb00000616_00029_3"/>tam imbecilli et extenuato corpore continuis ieiuniorum ac vigiliarum
+<lb n="4" xml:id="bsb00000616_00029_4"/>pressuris assumpserat, ut tantummodos pane cum sale et herbis
+<lb n="5" xml:id="bsb00000616_00029_5"/>vescebatur, dominicis quoque festisque diebus legumina piscesque
+<lb n="6" xml:id="bsb00000616_00029_6"/>parvissimos comedens, sed et hoc raro parvoque sumptu; epularum
+<lb n="7" xml:id="bsb00000616_00029_7"/>eius deliciae in fragis ac pomis agrestibus maxime fuere, cum eorum
+<lb n="8" xml:id="bsb00000616_00029_8"/>tempus advenerat. Igniculum vero in eadem cella carbonum <w lemma="ardentium" xml:id="w135" corresp="#w135 #w136">ar-</w>
+<lb n="9" xml:id="bsb00000616_00029_9"/><w lemma="ardentium" xml:id="w136" corresp="#w135 #w136">dentium</w> propter diversorum tincturam colorum [. . .] sicut <w lemma="praediximus" xml:id="w137" corresp="#w137 #w138">prae-</w>
+<lb n="10" xml:id="bsb00000616_00029_10"/><w lemma="praediximus" xml:id="w138" corresp="#w137 #w138">diximus</w>, multorum muliebrium operum artifex erat, misquam ab
+<lb n="11" xml:id="bsb00000616_00029_11"/>alicuius utilitatis opere cessabat, nisi aut operando manibus aut
+<lb n="12" xml:id="bsb00000616_00029_12"/>orando vel etiam meditando diem continuaret nocti et, si aliquod
+<lb n="13" xml:id="bsb00000616_00029_13"/>spatium temporis tantae strennuitati superfuit, eas, quae sibi aderant,
+<lb n="14" xml:id="bsb00000616_00029_14"/>instruendo, nisi ut minimum tempus cibo somnoque dedisset, quod
+<lb n="15" xml:id="bsb00000616_00029_15"/>humanae fragilitas naturae deposcerat.
+<lb n="16" xml:id="bsb00000616_00029_16"/>23. Enim vero tempus omne vitae suae talibus in rebus expenderat,
+<lb n="17" xml:id="bsb00000616_00029_17"/>uti illas numquam corporis superata molestia tardior in effectu
+<lb n="18" xml:id="bsb00000616_00029_18"/>quam in inceptu subsisteret. Cunctis enim ad se venientibus, ut
+<pb xml:id="bsb00000616_00030" n="27"/><lb n="1" xml:id="bsb00000616_00030_1"/>etiam praestrinximus, affabilis erat, ut a se quoque redeuntium <w lemma="laetificabat" xml:id="w139" corresp="#w139 #w140">laetifi-</w>
+<lb n="2" xml:id="bsb00000616_00030_2"/><w lemma="laetificabat" xml:id="w140" corresp="#w139 #w140">cabat</w> abscessum, ut tempus, quod in eo expenderant, magnae utilitatis
+<lb n="3" xml:id="bsb00000616_00030_3"/>pretio deputabant. Quid plura de tanta morum profectione dicendum?
+<lb n="4" xml:id="bsb00000616_00030_4"/>Si occultorum omnium cognitori vita eius complacuit, mortalium <w lemma="aspectibus" xml:id="w141" corresp="#w141 #w142">as-</w>
+<lb n="5" xml:id="bsb00000616_00030_5"/><w lemma="aspectibus" xml:id="w142" corresp="#w141 #w142">pectibus</w> nulli nisi male volentium, ut aestimo, in aliquo veritatis iure
+<lb n="6" xml:id="bsb00000616_00030_6"/>displicuit, et nisi livore stimulatus invidiae, malitiae solummodo dente
+<lb n="7" xml:id="bsb00000616_00030_7"/>florentem virtutibus vitem decerpere, et qui semetipsum alieno vulnere
+<lb n="8" xml:id="bsb00000616_00030_8"/>necare contenderet.
+<lb n="9" xml:id="bsb00000616_00030_9"/>24. Iam vero quantas inimicorum pertulerit insidias ac varias <w lemma="ludificationes" xml:id="w143" corresp="#w143 #w144">ludi-</w>
+<lb n="10" xml:id="bsb00000616_00030_10"/><w lemma="ludificationes" xml:id="w144" corresp="#w143 #w144">ficationes</w> perpessa sit zabuli, seu per diversorum machinationes
+<lb n="11" xml:id="bsb00000616_00030_11"/>terrorum, sive per astutae calliditatis suae fantasias, sive per ostensiones
+<lb n="12" xml:id="bsb00000616_00030_12"/>et assumptas in se supernorum civium ymagines, et suae semper <w lemma="seductionis" xml:id="w145" corresp="#w145 #w146">se-</w>
+<lb n="13" xml:id="bsb00000616_00030_13"/><w lemma="seductionis" xml:id="w146" corresp="#w145 #w146">ductionis</w> more vera quandoque falsis permiscens, ut cognitione veritatis
+<lb n="14" xml:id="bsb00000616_00030_14"/>facilius animum incautum valeat ad falsa protrahere, nulli possibile
+<lb n="15" xml:id="bsb00000616_00030_15"/>est enarrare. Sed aliqua ex innumeriss carptim disserere putavi, quae
+<lb n="16" xml:id="bsb00000616_00030_16"/>fortassis, ut reor, benivolentium animos contra versutias inimici
+<lb n="17" xml:id="bsb00000616_00030_17"/>redderet fortiores et venenatis eius argumentis resistendi faceret
+<lb n="18" xml:id="bsb00000616_00030_18"/>audaciores et tam infesti certaminis promptiores. Sed, quod saepe
+<lb n="19" xml:id="bsb00000616_00030_19"/>prolixitas legentibus taedium gignit, brevitati studui et, ut utrique <w lemma="commodum" xml:id="w147" corresp="#w147 #w148">com-</w>
+<lb n="20" xml:id="bsb00000616_00030_20"/><w lemma="commodum" xml:id="w148" corresp="#w147 #w148">modum</w>, ne ignoranti cognitio per omnia penitus deesset neque scienti
+<lb n="21" xml:id="bsb00000616_00030_21"/>fastidium facerem, curavi. Erat enim venerabilis ancilla Christi <w lemma="perseverans" xml:id="w149" corresp="#w149 #w150">per-</w>
+<lb n="22" xml:id="bsb00000616_00030_22"/><w lemma="perseverans" xml:id="w150" corresp="#w149 #w150">severans</w> in orationibus diebus ac noctibus et nichil secum praeter vile
+<lb n="23" xml:id="bsb00000616_00030_23"/>corporis indumentum retinens et vascula, quibus cibum capere <w lemma="solebat" xml:id="w151" corresp="#w151 #w152">sole-</w>
+<lb n="24" xml:id="bsb00000616_00030_24"/><w lemma="solebat" xml:id="w152" corresp="#w151 #w152">bat</w>, et parvam lecticam cum matta, in qua dormire consueverat.
+<lb n="25" xml:id="bsb00000616_00030_25"/>Audivit vocem, nescio cuius spiritus, dicentem sibi: <hi rend="ITALICS">Talem volens vitam</hi>
+<lb n="26" xml:id="bsb00000616_00030_26"/><hi rend="ITALICS">ducere tali non debet in lectulo pausare. </hi>Illa hoc audiens suspenso statim
+<lb n="27" xml:id="bsb00000616_00030_27"/>animo volvere coeperat, qualiter illam per parvam fenestellam, quae
+<pb xml:id="bsb00000616_00031" n="28"/><lb n="1" xml:id="bsb00000616_00031_1"/>sola erat in pariete, exponere posset, suis etiam parvis diffidebat
+<lb n="2" xml:id="bsb00000616_00031_2"/>confringere viribus, quod trabiculis opere tornatorio compactum
+<lb n="3" xml:id="bsb00000616_00031_3"/>fuerat, et aliquantulum a terra suspensa angusta mente cogitare
+<lb n="4" xml:id="bsb00000616_00031_4"/>coeperat et, quo se verteret, ignorabat. Elevata subito a spiritu et in
+<lb n="5" xml:id="bsb00000616_00031_5"/>pavimentum collisa et per minutas partes dirupta, ita ut eam <w lemma="particulatim" xml:id="w153" corresp="#w153 #w154">particula-</w>
+<lb n="6" xml:id="bsb00000616_00031_6"/><w lemma="particulatim" xml:id="w154" corresp="#w153 #w154">tim</w> per fenestram eiecerat. Sed et hoc, qualicumque virtute peractum
+<lb n="7" xml:id="bsb00000616_00031_7"/>est, divinitus procul dubio permissum esse confidimus, quia nichil fieri
+<lb n="8" xml:id="bsb00000616_00031_8"/>credimus sine iussione vel permissione divina.
+<lb n="9" xml:id="bsb00000616_00031_9"/>25. Alio quoque tempore veniens ille malignus spiritus in <w lemma="similitudine" xml:id="w155" corresp="#w155 #w156">similitu-</w>
+<lb n="10" xml:id="bsb00000616_00031_10"/><w lemma="similitudine" xml:id="w156" corresp="#w155 #w156">dine</w> cuiusdam tornatoris; nam et ille homo, in cuius speciem se
+<lb n="11" xml:id="bsb00000616_00031_11"/>dyabolus simulabat, cuiusdam Popponis comitis servus erat et notus
+<lb n="12" xml:id="bsb00000616_00031_12"/>olim praedictae famulae Dei fuerat suoque de opere munuscula de
+<lb n="13" xml:id="bsb00000616_00031_13"/>vasculis, quibus illa indigebat, frequentabat offerre. Tunc callidus
+<lb n="14" xml:id="bsb00000616_00031_14"/>insidiator tria, ut sibi videbatur, vascula ferens salutavit eam dicens:
+<lb n="15" xml:id="bsb00000616_00031_15"/><hi rend="ITALICS">En quoque munus, quod tibi non parvo labore gravis viae et prolixitate</hi>
+<lb n="16" xml:id="bsb00000616_00031_16"/><hi rend="ITALICS">tanti itineris adtuli; antiquam amicitiam amittere non potui, ut te</hi>
+<lb n="17" xml:id="bsb00000616_00031_17"/><hi rend="ITALICS">invisitatam relinquerem. Sed, proh dolor, valde dolendo ammiror </hi><w lemma="prudentiam" xml:id="w157" corresp="#w157 #w158"><hi rend="ITALICS">pru</hi>-</w>
+<lb n="18" xml:id="bsb00000616_00031_18"/><w lemma="prudentiam" xml:id="w158" corresp="#w157 #w158"><hi rend="ITALICS">dentiam</hi></w><hi rend="ITALICS"> animi tui in tantum desipientem, ut per tanta bona, in</hi>
+<lb n="19" xml:id="bsb00000616_00031_19"/><hi rend="ITALICS">quibus a iuventute nutrita fuisti, ad tantae paupertatis pervenisti,</hi>
+<pb xml:id="bsb00000616_00032" n="29"/><lb n="1" xml:id="bsb00000616_00032_1"/><hi rend="ITALICS">insuper etiam in similitudine damnatorum ergastulo posita, ut</hi>
+<lb n="2" xml:id="bsb00000616_00032_2"/><hi rend="ITALICS">nec saltem communi luce fruaris viventium, et carcereis inclusa </hi><w lemma="custodiis" xml:id="w159" corresp="#w159 #w160"><hi rend="ITALICS">custo</hi>-</w>
+<lb n="3" xml:id="bsb00000616_00032_3"/><w lemma="custodiis" xml:id="w160" corresp="#w159 #w160"><hi rend="ITALICS">diis</hi></w><hi rend="ITALICS"> nec tibi nec aliis in rebus ullius utilitatis prodesse dinosceris. Eya,</hi>
+<lb n="4" xml:id="bsb00000616_00032_4"/><hi rend="ITALICS">quam magna et execranda dementia, bona atque iocunda praesentis</hi>
+<lb n="5" xml:id="bsb00000616_00032_5"/><hi rend="ITALICS">vitae relinquere et per quaeque difficillima atque asperrima spem suam</hi>
+<lb n="6" xml:id="bsb00000616_00032_6"/><hi rend="ITALICS">ad incerta committere! </hi>Haec et alia quam plurima suae vanitatis
+<lb n="7" xml:id="bsb00000616_00032_7"/>proferens, stultitiam eius exprobrans, se quasi valde indignatus avertens
+<lb n="8" xml:id="bsb00000616_00032_8"/>vasa, quae sibi videbantur praepulchra esse, super fenestram imposuit.
+<lb n="9" xml:id="bsb00000616_00032_9"/>Illa autem dixit ad eum: <hi rend="ITALICS">Quo ire paras modo? </hi>At ille: <hi rend="ITALICS">Iter, quo veneram,</hi>
+<lb n="10" xml:id="bsb00000616_00032_10"/><hi rend="ITALICS">reverti paro tempusque vitae meae cum magistro meo Popponi ducere</hi>
+<lb n="11" xml:id="bsb00000616_00032_11"/><hi rend="ITALICS">secumque usque ad finem vitae manere disposui. </hi>Et quasi fumus evanuit.
+<lb n="12" xml:id="bsb00000616_00032_12"/>Illa autem ad vascula respiciens, quae sibi prius valde delectabilia
+<lb n="13" xml:id="bsb00000616_00032_13"/>videbantur, vetustas ac putridas cortices arboris maxima deformitate
+<lb n="14" xml:id="bsb00000616_00032_14"/>carieque consumptas aspexit, auxilium divinum implorans, ut sibi
+<lb n="15" xml:id="bsb00000616_00032_15"/>contra saevientis astutiam inimici praesidium impenderet, exoravit.
+<lb n="16" xml:id="bsb00000616_00032_16"/>26. Aliam quoque corporeis oculis machinationem ostendens,
+<lb n="17" xml:id="bsb00000616_00032_17"/>cum numquam cessat interius laqueos suae nequitiae seu per <w lemma="cogitationes" xml:id="w161" corresp="#w161 #w162">cogi-</w>
+<lb n="18" xml:id="bsb00000616_00032_18"/><w lemma="cogitationes" xml:id="w162" corresp="#w161 #w162">tationes</w> pravas sive per desideria maligna praetendere, terroribus
+<lb n="19" xml:id="bsb00000616_00032_19"/>eam aggreditur. In puerili quondam effigie veniens et in gremio <w lemma="liminaris" xml:id="w163" corresp="#w163 #w164">limi-</w>
+<lb n="20" xml:id="bsb00000616_00032_20"/><w lemma="liminaris" xml:id="w164" corresp="#w163 #w164">naris</w> fenestrae sedens clamavit ad eam. Ipsa vero in oratione prostrata
+<lb n="21" xml:id="bsb00000616_00032_21"/>responsum non dedit ei. Ipse autem vociferando clamitans aiebat:
+<lb n="22" xml:id="bsb00000616_00032_22"/><hi rend="ITALICS">Timesne me, Liutbirg? </hi>Illa peracta oratione sursum erigens se ac
+<pb xml:id="bsb00000616_00033" n="30"/><lb n="1" xml:id="bsb00000616_00033_1"/>dixit ei: <hi rend="ITALICS">Ut quid timeo te, qui nullam habes potestatem, nisi tibi </hi><w lemma="permissam" xml:id="w165" corresp="#w165 #w166"><hi rend="ITALICS">per</hi>-</w>
+<lb n="2" xml:id="bsb00000616_00033_2"/><w lemma="permissam" xml:id="w166" corresp="#w165 #w166"><hi rend="ITALICS">missam</hi></w><hi rend="ITALICS"> a Deo, in cuius [manu] omnes consistunt potestates? Ipsum</hi>
+<lb n="3" xml:id="bsb00000616_00033_3"/><hi rend="ITALICS">timeo, qui potestatem habet corpus et animam perdere in gehennam. </hi>At
+<lb n="4" xml:id="bsb00000616_00033_4"/>ille respondens: <hi rend="ITALICS">Si me non times, </hi>inquit, <hi rend="ITALICS">acquisiero tibi, quem times.</hi>
+<lb n="5" xml:id="bsb00000616_00033_5"/>Subito recessit; et iterum veniens alium secum in forma caniculae
+<lb n="6" xml:id="bsb00000616_00033_6"/>conferens et in fenestra iterum sedentes, si eos duos timeret, <w lemma="interrogans" xml:id="w167" corresp="#w167 #w168">inter-</w>
+<lb n="7" xml:id="bsb00000616_00033_7"/><w lemma="interrogans" xml:id="w168" corresp="#w167 #w168">rogans</w>. Respondens dixit: <hi rend="ITALICS">Tali modo vos ambos quasi te solum</hi>
+<lb n="8" xml:id="bsb00000616_00033_8"/><hi rend="ITALICS">prius timui. </hi>Recedentes illi duo iterum venerunt et tertium secum
+<lb n="9" xml:id="bsb00000616_00033_9"/>attulerunt, qui habens ymaginem hirci, hirsuta fronte et barba prolixa
+<lb n="10" xml:id="bsb00000616_00033_10"/>ac cornibus oppansis, vultu terribiliter minitans seque veluti <w lemma="cornipetam" xml:id="w169" corresp="#w169 #w170">corni-</w>
+<lb n="11" xml:id="bsb00000616_00033_11"/><w lemma="cornipetam" xml:id="w170" corresp="#w169 #w170">petam</w> ostentans. Canicula vero saeva fronte rictus trahebat. Ipse
+<lb n="12" xml:id="bsb00000616_00033_12"/>quoque homullulus, si illos adhuc tres timeret, interrogabat. Cui
+<lb n="13" xml:id="bsb00000616_00033_13"/>respondente, quamdiu in domo dominorum suorum esset, plus se canes
+<lb n="14" xml:id="bsb00000616_00033_14"/>timere quam illos. Et ille inquit: <hi rend="ITALICS">Tales tibi hospites afferam, quos</hi>
+<lb n="15" xml:id="bsb00000616_00033_15"/><hi rend="ITALICS">pavesces. </hi>Et recedentibus illis ipsa prostrata in oratione intimo
+<lb n="16" xml:id="bsb00000616_00033_16"/>corde clamans ad Dominum, ut eam de potestate liberaret inimici.
+<lb n="17" xml:id="bsb00000616_00033_17"/>Et dum in oratione fuerat intenta, mures in cellam eius irruperant,
+<lb n="18" xml:id="bsb00000616_00033_18"/>et tanta multitudo ex illis intraverat, ut neque pavimentum, neque
+<lb n="19" xml:id="bsb00000616_00033_19"/>parietes domunculi, nec etiam laquearia videbantur. Obducta ergo
+<lb n="20" xml:id="bsb00000616_00033_20"/>tota superficies cellulae fuerat a multitudine murium, ita ut supra
+<lb n="21" xml:id="bsb00000616_00033_21"/>illam in oratione prostratam huc illucque discurrentes iam quoque
+<lb n="22" xml:id="bsb00000616_00033_22"/>prae multitudine huiuscemodi vermium perstrepentium nichil aliud
+<pb xml:id="bsb00000616_00034" n="31"/><lb n="1" xml:id="bsb00000616_00034_1"/>quam tam deformis in eadem penitus cellula discurrebat illuvies.
+<lb n="2" xml:id="bsb00000616_00034_2"/>Finita tandem oratione surrexit et aqua benedicta, quam semper pro
+<lb n="3" xml:id="bsb00000616_00034_3"/>manibus habebat, accepta cum letaniis precibusque respersam <w lemma="circuiens" xml:id="w171" corresp="#w171 #w172">cir-</w>
+<lb n="4" xml:id="bsb00000616_00034_4"/><w lemma="circuiens" xml:id="w172" corresp="#w171 #w172">cuiens</w> aediculam in tantum eos effugaverat, ut nulla solummodo
+<lb n="5" xml:id="bsb00000616_00034_5"/>ibi permanebat.
+<lb n="6" xml:id="bsb00000616_00034_6"/>27. Expulsis admodum muribus eorum tandem immissor <w lemma="superveniens" xml:id="w173" corresp="#w173 #w174">super-</w>
+<lb n="7" xml:id="bsb00000616_00034_7"/><w lemma="superveniens" xml:id="w174" corresp="#w173 #w174">veniens</w> homuncio, qui inprimis venerat, calumniosis eam <w lemma="aggrediens" xml:id="w175" corresp="#w175 #w176">ag-</w>
+<lb n="8" xml:id="bsb00000616_00034_8"/><w lemma="aggrediens" xml:id="w176" corresp="#w175 #w176">grediens</w> verbis dicebat: <hi rend="ITALICS">O nimium sanctam et summae castitatis feminam,</hi>
+<lb n="9" xml:id="bsb00000616_00034_9"/><hi rend="ITALICS">quae nil sibi tantarum putredinum appropinquare permittit! Diem quoque</hi>
+<lb n="10" xml:id="bsb00000616_00034_10"/><hi rend="ITALICS">recordor, quando tales tibi vermiculi in tali despectione non erant. </hi><w lemma="Meminisne" xml:id="w177" corresp="#w177 #w178"><hi rend="ITALICS">Me</hi>-</w>
+<lb n="11" xml:id="bsb00000616_00034_11"/><w lemma="Meminisne" xml:id="w178" corresp="#w177 #w178"><hi rend="ITALICS">minisne</hi></w><hi rend="ITALICS"> te cum consodali tua quondam excubias agere? Cum cenulam</hi>
+<lb n="12" xml:id="bsb00000616_00034_12"/><hi rend="ITALICS">vestram vobis apposuistis, de vase potum vestrum effudistis, suffocatus</hi>
+<lb n="13" xml:id="bsb00000616_00034_13"/><hi rend="ITALICS">mus illico mortuusque profluxerat, cuius subito caudam </hi><w lemma="apprehendisti" xml:id="w179" corresp="#w179 #w180"><hi rend="ITALICS">apprehen</hi>-</w>
+<lb n="14" xml:id="bsb00000616_00034_14"/><w lemma="apprehendisti" xml:id="w180" corresp="#w179 #w180"><hi rend="ITALICS">disti</hi></w><hi rend="ITALICS">, proiciendo cachinnans nullius inquinamentis causam esse</hi>
+<lb n="15" xml:id="bsb00000616_00034_15"/><hi rend="ITALICS">dixisti ac veluti licenter accepto potu sanctimoniam religionis, quam modo</hi>
+<lb n="16" xml:id="bsb00000616_00034_16"/><hi rend="ITALICS">praetendis, eo videlicet tempore ad nichilum deputasti. </hi>Hoc ergo
+<lb n="17" xml:id="bsb00000616_00034_17"/>penitus oblita neque aliquando recordans in confessione delictorum
+<lb n="18" xml:id="bsb00000616_00034_18"/>suorum, quod plus credo divinae pietatis indicium fore quam suae
+<lb n="19" xml:id="bsb00000616_00034_19"/>malignitatis prolatio, ut ostensio vulneris potius medelam quam
+<pb xml:id="bsb00000616_00035" n="32"/><lb n="1" xml:id="bsb00000616_00035_1"/>occultatio medicantis acciperet et poenitenti remedium <w lemma="procuraret" xml:id="w181" corresp="#w181 #w182">procu-</w>
+<lb n="2" xml:id="bsb00000616_00035_2"/><w lemma="procuraret" xml:id="w182" corresp="#w181 #w182">raret</w>,
+<lb n="3" xml:id="bsb00000616_00035_3"/>28. Alio namque tempore pari modo suis eam convitiis aggrediens
+<lb n="4" xml:id="bsb00000616_00035_4"/>ac solito sanctitatem eius exprobrando vituperans, ad memoriam <w lemma="revocans" xml:id="w183" corresp="#w183 #w184">re-</w>
+<lb n="5" xml:id="bsb00000616_00035_5"/><w lemma="revocans" xml:id="w184" corresp="#w183 #w184">vocans</w>, quomodo illa puellari quondam aetate alteram coaetaneam
+<lb n="6" xml:id="bsb00000616_00035_6"/>suam ludificaverat: acum suam in communi eorum opere fractam,
+<lb n="7" xml:id="bsb00000616_00035_7"/>egressa namque compare sua eius integram acum clanculo surripere
+<lb n="8" xml:id="bsb00000616_00035_8"/>suamque confractam in loco eius connectere et sic eam de eius <w lemma="deceptione" xml:id="w185" corresp="#w185 #w186">de-</w>
+<lb n="9" xml:id="bsb00000616_00035_9"/><w lemma="deceptione" xml:id="w186" corresp="#w185 #w186">ceptione</w> gratulari, quasi aliquid bene gestum haberet. <hi rend="ITALICS">Eya, ubi </hi><w lemma="sanctitas" xml:id="w187" corresp="#w187 #w188"><hi rend="ITALICS">sancti</hi>-</w>
+<lb n="10" xml:id="bsb00000616_00035_10"/><w lemma="sanctitas" xml:id="w188" corresp="#w187 #w188"><hi rend="ITALICS">tas</hi></w><hi rend="ITALICS"> tua precesque tuae fuere, quando furtim quid diripere non </hi><w lemma="formidasti" xml:id="w189" corresp="#w189 #w190"><hi rend="ITALICS">formi</hi>-</w>
+<lb n="11" xml:id="bsb00000616_00035_11"/><w lemma="formidasti" xml:id="w190" corresp="#w189 #w190"><hi rend="ITALICS">dasti</hi></w><hi rend="ITALICS">? </hi>Haec illa ita gesta esse cuncta in infantia sua commemorat
+<lb n="12" xml:id="bsb00000616_00035_12"/>annis, quibus primum artem texturae didicerat, et hactenus per
+<lb n="13" xml:id="bsb00000616_00035_13"/>oblivionem inconfessa suis peccatis deputat. Sed hanc, ut <w lemma="praetulimus" xml:id="w191" corresp="#w191 #w192">prae-</w>
+<lb n="14" xml:id="bsb00000616_00035_14"/><w lemma="praetulimus" xml:id="w192" corresp="#w191 #w192">tulimus</w>, ammonitionem divinae potius clementiae quam zabuli <w lemma="declaratione" xml:id="w193" corresp="#w193 #w194">decla-</w>
+<lb n="15" xml:id="bsb00000616_00035_15"/><w lemma="declaratione" xml:id="w194" corresp="#w193 #w194">ratione</w> concedimus, qui plus ad reatum gaudet occultare delicta
+<lb n="16" xml:id="bsb00000616_00035_16"/>quam ad veniam poenitendo pervenire confessa. His igitur atque aliis
+<lb n="17" xml:id="bsb00000616_00035_17"/>innumeris suae machinationis nequitiae praestrigiis versutus eam
+<lb n="18" xml:id="bsb00000616_00035_18"/>hostis accederat, nunc terrendo, nunc exprobrando, nunc convitiis
+<lb n="19" xml:id="bsb00000616_00035_19"/>dilacerando, nunc delectationibus insistendo, quietis ei tempus diebus
+<lb n="20" xml:id="bsb00000616_00035_20"/>ac noctibus non relinquens, nunc per diversas figuras fallaciae
+<pb xml:id="bsb00000616_00036" n="33"/><lb n="1" xml:id="bsb00000616_00036_1"/>suae ludificatas ymagines ostendens, quotiens se angelum aut
+<lb n="2" xml:id="bsb00000616_00036_2"/>aliquem sanctorum vel apostolum referens, sed et aliquando suae
+<lb n="3" xml:id="bsb00000616_00036_3"/>incitatus vesaniae et inflatus superbia, ut se Christum dicere non
+<lb n="4" xml:id="bsb00000616_00036_4"/>metuit ac se, ut ei propitiaretur, orare praecepit. His atque
+<lb n="5" xml:id="bsb00000616_00036_5"/>huiuscemodi nugis prolatis illa Daviticum illud exiterans: <hi rend="ITALICS">Ne </hi><w lemma="derelinquas" xml:id="w195" corresp="#w195 #w196"><hi rend="ITALICS">derelin</hi>-</w>
+<lb n="6" xml:id="bsb00000616_00036_6"/><w lemma="derelinquas" xml:id="w196" corresp="#w195 #w196"><hi rend="ITALICS">quas</hi></w><hi rend="ITALICS"> me, Domine Deus meus, ne discedas a me, sed intende in adiutorium</hi>
+<lb n="7" xml:id="bsb00000616_00036_7"/><hi rend="ITALICS">meum, Domine Deus salutis meae. In quacumque die invocavero te, velociter</hi>
+<lb n="8" xml:id="bsb00000616_00036_8"/><hi rend="ITALICS">exaudi me, quia factus sum sicut passer solitarius in tecto, quia sola</hi>
+<lb n="9" xml:id="bsb00000616_00036_9"/><hi rend="ITALICS">spes mea es in die tribulationis meae.</hi>
+<lb n="10" xml:id="bsb00000616_00036_10"/>29. Interrogata est aliquando a quodam fratre de notitia vel discretione
+<lb n="11" xml:id="bsb00000616_00036_11"/>spirituum, quomodo dinoscere posset, cum ipse Sathanas transfigurat
+<lb n="12" xml:id="bsb00000616_00036_12"/>se in angelum lucis aut aliquam venerabilem personam. Illa ingemiscens
+<lb n="13" xml:id="bsb00000616_00036_13"/>et intimo ex corde longe trahens suspiria paulisper conticuit, <w lemma="formidula" xml:id="w197" corresp="#w197 #w198">formi-</w>
+<lb n="14" xml:id="bsb00000616_00036_14"/><w lemma="formidula" xml:id="w198" corresp="#w197 #w198">dula</w> voce subsecuta est: <hi rend="ITALICS">Aestuantis formidinem et maximam maeroris</hi>
+<lb n="15" xml:id="bsb00000616_00036_15"/><hi rend="ITALICS">mei angustiam, venerande frater, inquiris, quia iam multo tempore, cum</hi>
+<lb n="16" xml:id="bsb00000616_00036_16"/><hi rend="ITALICS">in his, de quibus interrogas, dubia certitudine paene desperationis lacum</hi>
+<lb n="17" xml:id="bsb00000616_00036_17"/><hi rend="ITALICS">inciderim, iugis precibus divinum implorans auxilium, huius michi</hi>
+<lb n="18" xml:id="bsb00000616_00036_18"/><hi rend="ITALICS">praesidium insuperabilis fieri laboris, tandem omnipotentis suffragante</hi>
+<lb n="19" xml:id="bsb00000616_00036_19"/><hi rend="ITALICS">dementia dictum est michi: 'De quibus rogas, certa fueris, si diligenter</hi>
+<lb n="20" xml:id="bsb00000616_00036_20"/><hi rend="ITALICS">adtendis. Nam qualiscumque persona tibi appareat, redeuntem a te </hi><w lemma="diligenter" xml:id="w199" corresp="#w199 #w200"><hi rend="ITALICS">dili</hi>-</w>
+<lb n="21" xml:id="bsb00000616_00036_21"/><w lemma="diligenter" xml:id="w200" corresp="#w199 #w200"><hi rend="ITALICS">genter</hi></w><hi rend="ITALICS"> aspicere procures et, si fantastica tibi fuerit ostensa figura </hi><w lemma="qualicumque" xml:id="w201" corresp="#w201 #w202"><hi rend="ITALICS">quali</hi>-</w>
+<lb n="22" xml:id="bsb00000616_00036_22"/><w lemma="qualicumque" xml:id="w202" corresp="#w201 #w202"><hi rend="ITALICS">cumque</hi></w><hi rend="ITALICS"> vestita colore, nigerrimam maculam in posterioribus eius videbis.'</hi>
+<lb n="23" xml:id="bsb00000616_00036_23"/><hi rend="ITALICS">Hoc michi, venerande frater, signum largiente divina dementia concessum</hi>
+<lb n="24" xml:id="bsb00000616_00036_24"/><hi rend="ITALICS">esse, quasi de intima profunditate baratri liberata, ineffabili repleta tam</hi>
+<lb n="25" xml:id="bsb00000616_00036_25"/><hi rend="ITALICS">piae consolationis laetitia fidentiori mente callidi hostis resistebam </hi><w lemma="versutiis" xml:id="w203" corresp="#w203 #w204"><hi rend="ITALICS">ver</hi>-</w>
+<pb xml:id="bsb00000616_00037" n="34"/><lb n="1" xml:id="bsb00000616_00037_1"/><w lemma="versutiis" xml:id="w204" corresp="#w203 #w204"><hi rend="ITALICS">sutiis</hi></w><hi rend="ITALICS">. </hi>Quod ille cernens paulo remissius angelicas in se figuras assumens,
+<lb n="2" xml:id="bsb00000616_00037_2"/>propriae deformitatis terribilem saepius speciem ostentans, frequentius
+<lb n="3" xml:id="bsb00000616_00037_3"/>fulminis in morem totam cellulam complens et exprobrationibus solitis,
+<lb n="4" xml:id="bsb00000616_00037_4"/>quidquid ubique terrarum mali gestus unter Christianos acciderat, <w lemma="convitiando" xml:id="w205" corresp="#w205 #w206">con-</w>
+<lb n="5" xml:id="bsb00000616_00037_5"/><w lemma="convitiando" xml:id="w206" corresp="#w205 #w206">vitiando</w> cum improperio ac subsannabili cachinnatione perstrepens,
+<lb n="6" xml:id="bsb00000616_00037_6"/>nunc pugnas domesticas, nunc bella civilia referens, nunc parricidia
+<lb n="7" xml:id="bsb00000616_00037_7"/>perpetrata, nunc adulteria et incesta prodens coniugia omnigenumque
+<lb n="8" xml:id="bsb00000616_00037_8"/>malorum crimina, quorum se cunctorum esse iactabat auctorem.
+<lb n="9" xml:id="bsb00000616_00037_9"/><hi rend="ITALICS">Eya, </hi>dixit, <hi rend="ITALICS">te si flere delectat, flendi tibi cumulos augebo, talisque doloris</hi>
+<lb n="10" xml:id="bsb00000616_00037_10"/><hi rend="ITALICS">materiem satis exhibebo. </hi>Illa econtrario: <hi rend="ITALICS">Vires tuas, </hi>inquit, <hi rend="ITALICS">cassatas</hi>
+<lb n="11" xml:id="bsb00000616_00037_11"/><hi rend="ITALICS">video, frustraque nisi crassantem saltem improperii tui perditionis </hi><w lemma="augmentum" xml:id="w207" corresp="#w207 #w208"><hi rend="ITALICS">aug</hi>-</w>
+<lb n="12" xml:id="bsb00000616_00037_12"/><w lemma="augmentum" xml:id="w208" corresp="#w207 #w208"><hi rend="ITALICS">mentum</hi></w><hi rend="ITALICS"> exhibere conaris. Nichil enim passe per temetipsum probaberis,</hi>
+<lb n="13" xml:id="bsb00000616_00037_13"/><hi rend="ITALICS">nisi quod nostris exigentibus delictis a Deo tibi fuerit permissum, in quibus</hi>
+<lb n="14" xml:id="bsb00000616_00037_14"/><hi rend="ITALICS">tuae voluntatem pravitatis pro viribus exerces. </hi>Et licet innumera sint
+<lb n="15" xml:id="bsb00000616_00037_15"/>ludificationum eius fantasiae prosequenda, ne lectori fastidium generent,
+<lb n="16" xml:id="bsb00000616_00037_16"/>utilitatis causa quaedam tamen memoranda putavi.
+<lb n="17" xml:id="bsb00000616_00037_17"/>30. Erat quidam vir ex liberis parentibus, nomine Hruodrat,
+<lb n="18" xml:id="bsb00000616_00037_18"/>vasallus praedictae Bilihioldis, qui unam ex cubicularibus eius pro
+<lb n="19" xml:id="bsb00000616_00037_19"/>carnali copula sequebat. Contigit una dierum iam advesperascente
+<lb n="20" xml:id="bsb00000616_00037_20"/>die prope cellulamclausaeillammulieremcasu properantem ad
+<lb n="21" xml:id="bsb00000616_00037_21"/>eum, ut vidit Liutbirg, vocavit eam dicens: <hi rend="ITALICS">Dilecta filia, en opus,</hi>
+<lb n="22" xml:id="bsb00000616_00037_22"/><hi rend="ITALICS">ame quod vides inceptum, mecum peragere modo non obmittas, quia tibi</hi>
+<lb n="23" xml:id="bsb00000616_00037_23"/><hi rend="ITALICS">proficuus vero labor fuerit, quicquid in divino servitio tui operis </hi><w lemma="expendere" xml:id="w209" corresp="#w209 #w210"><hi rend="ITALICS">expen</hi>-</w>
+<lb n="24" xml:id="bsb00000616_00037_24"/><w lemma="expendere" xml:id="w210" corresp="#w209 #w210"><hi rend="ITALICS">dere</hi></w><hi rend="ITALICS"> habueris, quamquam omne sit bonum, quod aliqua utilitate laboratur.</hi>
+<pb xml:id="bsb00000616_00038" n="35"/><lb n="1" xml:id="bsb00000616_00038_1"/>Funalia sive lichinos ea scilicet hora ad cereos et ad luminaria <w lemma="perpetraverat" xml:id="w211" corresp="#w211 #w212">per-</w>
+<lb n="2" xml:id="bsb00000616_00038_2"/><w lemma="perpetraverat" xml:id="w212" corresp="#w211 #w212">petraverat</w>. Illa cupiens egredi ad eum, qui eam foris operiebatur,
+<lb n="3" xml:id="bsb00000616_00038_3"/>sed pro verecundia mentis, nec ausa petenti resistere, fecit, ut
+<lb n="4" xml:id="bsb00000616_00038_4"/>iusserat. Intellexit ergo venerabilis ancilla Christi motum impatientis
+<lb n="5" xml:id="bsb00000616_00038_5"/>animi fluctuantem, vix eam ad perfectionem operis inceptiretinuit;
+<lb n="6" xml:id="bsb00000616_00038_6"/>quod ille hostis antiquus ferre non pertulit, tanti fragoris sonitum
+<lb n="7" xml:id="bsb00000616_00038_7"/>desuper effecerat, ut totius cellulae funditus putabatur esseruina.
+<lb n="8" xml:id="bsb00000616_00038_8"/>At vero praedicta femina ad ictum sonitus collapsa corruerat et amens
+<lb n="9" xml:id="bsb00000616_00038_9"/>prae timore vix loqui suffecerat. Quam secum signans, veneranda
+<lb n="10" xml:id="bsb00000616_00038_10"/>Liutbirg interrogans, si aliqua ex parte membrorum laesa fuisset, sed
+<lb n="11" xml:id="bsb00000616_00038_11"/>hactenus stupore mentis exacta, pavitantia proferens verba: <hi rend="ITALICS">Tuis,</hi>
+<lb n="12" xml:id="bsb00000616_00038_12"/>inquit, <hi rend="ITALICS">orationibus, digna mater, vitam retinui, sed altero pedemagnum</hi>
+<lb n="13" xml:id="bsb00000616_00038_13"/><hi rend="ITALICS">sustineo dolorem. </hi>Quam materno monens animo, ut a carnalibus
+<lb n="14" xml:id="bsb00000616_00038_14"/>quandoque resipisceret operibus, confortata ab ea et oratione pro
+<lb n="15" xml:id="bsb00000616_00038_15"/>ea facta sana regressa est ad eum. Itaque cum venerat ad eum,
+<lb n="16" xml:id="bsb00000616_00038_16"/>qui eam foris praestolabatur, et ab eo cum interrogata fuerat,
+<lb n="17" xml:id="bsb00000616_00038_17"/>cur tantam moram ibi gereret, hactenus eodem timore perculsa se
+<lb n="18" xml:id="bsb00000616_00038_18"/>prius a Liutbirga non esse dimissam respondit. Ille vero interrogans,
+<lb n="19" xml:id="bsb00000616_00038_19"/>quis esset tantae ruinae sonitus, utrum tota porticus ecclesiae an illa
+<lb n="20" xml:id="bsb00000616_00038_20"/>pars, quae cellulae Liutbirgae coniuncta fuerat, cecidisset. Illa
+<lb n="21" xml:id="bsb00000616_00038_21"/>respondens neque porticum neque cellulam ruentem, sed terrorem
+<pb xml:id="bsb00000616_00039" n="36"/><lb n="1" xml:id="bsb00000616_00039_1"/>inimici pronuntiavit. Ille vero: <hi rend="ITALICS">Sub eadem hora, </hi>dixit, <hi rend="ITALICS">cum timore</hi>
+<lb n="2" xml:id="bsb00000616_00039_2"/><hi rend="ITALICS">dolor nimius me invasit, sed rogo, ut lectulum meum sterni facias,</hi>
+<lb n="3" xml:id="bsb00000616_00039_3"/><hi rend="ITALICS">quia gravissima detentus sum infirmitate, ex quo illius sonitus ruinam</hi>
+<lb n="4" xml:id="bsb00000616_00039_4"/><hi rend="ITALICS">persenseram. </hi>Et cadens in lectum diem ultimum usque perducitur.
+<lb n="5" xml:id="bsb00000616_00039_5"/>Tempore vero suae egressionis animae de corpore signum horribile in
+<lb n="6" xml:id="bsb00000616_00039_6"/>praedicta cellula Liutbirgae visum est oranti. In septentrionali pariete
+<lb n="7" xml:id="bsb00000616_00039_7"/>infirmantis cernerat similitudinem eiusque praedicti viri formam
+<lb n="8" xml:id="bsb00000616_00039_8"/>habentis et huc illucque ex utraque parte duos monachos stantes
+<lb n="9" xml:id="bsb00000616_00039_9"/>tristi quidem vultu, sed facie retro intuentes in eum, qui iacebat
+<lb n="10" xml:id="bsb00000616_00039_10"/>moriens, cum subito superveniens malignus spiritus in tam terribili
+<lb n="11" xml:id="bsb00000616_00039_11"/>forma,ignem ex ore et naribus sulphureum efflantem, oculis micantibus
+<lb n="12" xml:id="bsb00000616_00039_12"/>ignem, corpore nigerrimo, unguibus ultra mensuram praevalidis, et
+<lb n="13" xml:id="bsb00000616_00039_13"/>super eum incumbens genibusque suis pectora opprimens suique hiatu
+<lb n="14" xml:id="bsb00000616_00039_14"/>oris totam faciem iacentis exorbens unguibusque magnis veluti aquila
+<lb n="15" xml:id="bsb00000616_00039_15"/>volucrem eviscerans, in praecordia terribiliter immittens, diu <w lemma="difficillimum" xml:id="w213" corresp="#w213 #w214">diffi-</w>
+<lb n="16" xml:id="bsb00000616_00039_16"/><w lemma="difficillimum" xml:id="w214" corresp="#w213 #w214">cillimum</w> ac miserabilem exeuntis animae graviter extorsit egressum.
+<lb n="17" xml:id="bsb00000616_00039_17"/>Audivit ad se vocem dicentem: <hi rend="ITALICS">Nam quos hic ad funus stare vidisti,</hi>
+<lb n="18" xml:id="bsb00000616_00039_18"/><hi rend="ITALICS">animam istam exeuntem de corpore veluti liberare volentes, sed inimicus</hi>
+<lb n="19" xml:id="bsb00000616_00039_19"/><hi rend="ITALICS">praenimiam super eam potestatem habens poenalibus eam cruciatibus </hi><w lemma="exponendam" xml:id="w215" corresp="#w215 #w216"><hi rend="ITALICS">expo</hi>-</w>
+<lb n="20" xml:id="bsb00000616_00039_20"/><w lemma="exponendam" xml:id="w216" corresp="#w215 #w216"><hi rend="ITALICS">nendam</hi></w><hi rend="ITALICS"> perceperat. Tu ergo in opere, quod coepisti, persiste</hi>! His illa
+<lb n="21" xml:id="bsb00000616_00039_21"/>contemplatis aspectibus simulque audita voce perterrita, cum <w lemma="lachrimis" xml:id="w217" corresp="#w217 #w218">lachri-</w>
+<lb n="22" xml:id="bsb00000616_00039_22"/><w lemma="lachrimis" xml:id="w218" corresp="#w217 #w218">mis</w> se in oratione prosternens, quousque venerunt, qui eam pro anima
+<lb n="23" xml:id="bsb00000616_00039_23"/>defuncti supplicabant fundere preces, ipsum praefatum cominus
+<pb xml:id="bsb00000616_00040" n="37"/><lb n="1" xml:id="bsb00000616_00040_1"/>virum nuntiantes eodem visionis tempore fuisse defunctum. Tum illa
+<lb n="2" xml:id="bsb00000616_00040_2"/>interrogans qualem egressum anima eius de corpore [habuisset], <w lemma="respondentes" xml:id="w219" corresp="#w219 #w220">respon-</w>
+<lb n="3" xml:id="bsb00000616_00040_3"/><w lemma="respondentes" xml:id="w220" corresp="#w219 #w220">dentes</w> difficillimam gravibusque suspiribus singultantem ac <w lemma="circumstantes" xml:id="w221" corresp="#w221 #w222">circum-</w>
+<lb n="4" xml:id="bsb00000616_00040_4"/><w lemma="circumstantes" xml:id="w222" corresp="#w221 #w222">stantes</w> horrore perculsos talique modo corporis habitum referentes, ut
+<lb n="5" xml:id="bsb00000616_00040_5"/>ipsa eadem hora per visionem aspexerat.
+<lb n="6" xml:id="bsb00000616_00040_6"/>31. Sunt et alia quam plurima digna memoriae, ex quibus aliqua
+<lb n="7" xml:id="bsb00000616_00040_7"/>enodare pro utilitate legentium causa commodi curabo. Venit quaedam
+<lb n="8" xml:id="bsb00000616_00040_8"/>mulier ad praefatam Liutbirgam heiulantis vocibus causam <w lemma="querimoniae" xml:id="w223" corresp="#w223 #w224">queri-</w>
+<lb n="9" xml:id="bsb00000616_00040_9"/><w lemma="querimoniae" xml:id="w224" corresp="#w223 #w224">moniae</w> suae pronuntians, qualiter suis exigentibus peccatis partum,
+<lb n="10" xml:id="bsb00000616_00040_10"/>quem genuerat, infeliciter exposuerit, prolem, quam peperit, sine
+<lb n="11" xml:id="bsb00000616_00040_11"/>regenerationis gratia de hac vita migrasse. Quod beata Liutbirg <w lemma="lachrimabili" xml:id="w225" corresp="#w225 #w226">lachri-</w>
+<lb n="12" xml:id="bsb00000616_00040_12"/><w lemma="lachrimabili" xml:id="w226" corresp="#w225 #w226">mabili</w> tristitia referenti condolens. At illa prosecuta supplicatione
+<lb n="13" xml:id="bsb00000616_00040_13"/>humiliter implorans aiebat: <hi rend="ITALICS">Meis ergo miseriis, veneranda mater, </hi><w lemma="succurrere" xml:id="w227" corresp="#w227 #w228"><hi rend="ITALICS">suc</hi>-</w>
+<lb n="14" xml:id="bsb00000616_00040_14"/><w lemma="succurrere" xml:id="w228" corresp="#w227 #w228"><hi rend="ITALICS">currere</hi></w><hi rend="ITALICS"> non dedigneris, per omnipotentem Deum rogabo, quia modo</hi>
+<lb n="15" xml:id="bsb00000616_00040_15"/><hi rend="ITALICS">praegnans sum et iam in partus vicinitate consisto, ut si vita comite natus</hi>
+<lb n="16" xml:id="bsb00000616_00040_16"/><hi rend="ITALICS">fuerit infans, eum de baptismatis fonte tuis manibus levare non dedigneris,</hi>
+<lb n="17" xml:id="bsb00000616_00040_17"/><hi rend="ITALICS">quin magis certam tuae promissionis spem tuaeque consolationis</hi>
+<lb n="18" xml:id="bsb00000616_00040_18"/><hi rend="ITALICS">adhibeas, ut, sicuti maerens praesentiam tuam adieram, ita gratulabunda</hi>
+<lb n="19" xml:id="bsb00000616_00040_19"/><hi rend="ITALICS">mente redire miseram me matrem concedas. </hi>Tantis ergo mulieris
+<lb n="20" xml:id="bsb00000616_00040_20"/>questibus non mediocriter famula Dei permota diu haesitavit animo
+<lb n="21" xml:id="bsb00000616_00040_21"/>penitus ignorans, quid ad haec aestuantibus mulieris doloribus
+<lb n="22" xml:id="bsb00000616_00040_22"/>responderet. <hi rend="ITALICS">Attende, </hi>inquit, <hi rend="ITALICS">filia, quali modo possit hoc fieri, nam</hi>
+<lb n="23" xml:id="bsb00000616_00040_23"/><hi rend="ITALICS">neque fores huic cellulae sunt, ut vel ingrediendi vel egrediendi </hi><w lemma="praebeant" xml:id="w229" corresp="#w229 #w230"><hi rend="ITALICS">prae</hi>-</w>
+<lb n="24" xml:id="bsb00000616_00040_24"/><w lemma="praebeant" xml:id="w230" corresp="#w229 #w230"><hi rend="ITALICS">beant</hi></w><hi rend="ITALICS"> facultatem, et nichil, quod apertum sit, nisi parva solummodo</hi>
+<lb n="25" xml:id="bsb00000616_00040_25"/><hi rend="ITALICS">fenestra, cetera obiectu parietum circumsaepta. Insuper ergo absque </hi><w lemma="licentia" xml:id="w231" corresp="#w231 #w232"><hi rend="ITALICS">li</hi>-</w>
+<pb xml:id="bsb00000616_00041" n="38"/><lb n="1" xml:id="bsb00000616_00041_1"/><w lemma="licentia" xml:id="w232" corresp="#w231 #w232"><hi rend="ITALICS">centia</hi></w><hi rend="ITALICS"> pontificis nostri aut presbiterorum iussione nichil aliud, quam quod</hi>
+<lb n="2" xml:id="bsb00000616_00041_2"/><hi rend="ITALICS">michi praeceptum est, agere praesumo; prius ab eis consilium capere,</hi>
+<lb n="3" xml:id="bsb00000616_00041_3"/><hi rend="ITALICS">necnon et eorum, ut liceat, consilio necesse est procurare, praesertim cum</hi>
+<lb n="4" xml:id="bsb00000616_00041_4"/><hi rend="ITALICS">praecepto coacta sum me nichil ex meo faciendum arbitrio; sed aliis </hi><w lemma="concedentibus" xml:id="w233" corresp="#w233 #w234"><hi rend="ITALICS">con</hi>-</w>
+<lb n="5" xml:id="bsb00000616_00041_5"/><w lemma="concedentibus" xml:id="w234" corresp="#w233 #w234"><hi rend="ITALICS">cedentibus</hi></w><hi rend="ITALICS"> non resisto. </hi>Vocatis autem sacerdotibus, qui ibi fuerant,
+<lb n="6" xml:id="bsb00000616_00041_6"/>mulieris desiderium referebat. Qui propositum mulieris laudantes,
+<lb n="7" xml:id="bsb00000616_00041_7"/>si loci sineret facultas, fieri decreverunt. Illa laeta regrediens
+<lb n="8" xml:id="bsb00000616_00041_8"/>virum suum de promisso secum ovantem effecerat.
+<lb n="9" xml:id="bsb00000616_00041_9"/>32. Venitque dies partus illius, et infantem, quem peperit, post
+<lb n="10" xml:id="bsb00000616_00041_10"/>dies purgationis ad baptisandum gaudebat offerre. Itaque condicto
+<lb n="11" xml:id="bsb00000616_00041_11"/>die, quo infantem adhibere disposuit, morte subita praeventus <w lemma="defunctus" xml:id="w235" corresp="#w235 #w236">de-</w>
+<lb n="12" xml:id="bsb00000616_00041_12"/><w lemma="defunctus" xml:id="w236" corresp="#w235 #w236">functus</w> est infans. Iam tunc miseranda mater quasi prioris orbitatem
+<lb n="13" xml:id="bsb00000616_00041_13"/>doloris oblita, novo superveniente perculsa, quo se verteret, ignorabat;
+<lb n="14" xml:id="bsb00000616_00041_14"/>tamen condicto die talem se vultu, qualis erat in animo, <w lemma="demonstrabat" xml:id="w237" corresp="#w237 #w238">demon-</w>
+<lb n="15" xml:id="bsb00000616_00041_15"/><w lemma="demonstrabat" xml:id="w238" corresp="#w237 #w238">strabat</w>. Quam ut vidit famula Dei Liutbirg lugubri confecta facie,
+<lb n="16" xml:id="bsb00000616_00041_16"/>dixit ad eam: <hi rend="ITALICS">Ey michi, filia, quae causa tantae tristitiae tibi contigerat?</hi>
+<lb n="17" xml:id="bsb00000616_00041_17"/><hi rend="ITALICS">Mortuamne sobolem refers, quam enixa fuisti? </hi>Illa vocis defectu vix
+<lb n="18" xml:id="bsb00000616_00041_18"/>pro magnitudine doloris proferens verba: <hi rend="ITALICS">Quae me, infelicissimam</hi>
+<lb n="19" xml:id="bsb00000616_00041_19"/><hi rend="ITALICS">matrem, fata impia tangunt, quibus non solum me queam orbatam flere,</hi>
+<lb n="20" xml:id="bsb00000616_00041_20"/><hi rend="ITALICS">sed potius ingratam atque Deo perosam aspicio, eo quod miserrima prole</hi>
+<lb n="21" xml:id="bsb00000616_00041_21"/><hi rend="ITALICS">secunda magis tenebrarum quam lucis visa sum loca propagare? Nam</hi>
+<lb n="22" xml:id="bsb00000616_00041_22"/><hi rend="ITALICS">me felicem nimium faterer, si prius miserabilem ante partum mors michi</hi>
+<lb n="23" xml:id="bsb00000616_00041_23"/><hi rend="ITALICS">vitam absumeret. </hi>Hoc illa cum audisset, prolapsis statim manibus
+<lb n="24" xml:id="bsb00000616_00041_24"/>vultuque demisso, lachrimis rigans faciem plorando dicebat: <hi rend="ITALICS">Heu tibi,</hi>
+<pb xml:id="bsb00000616_00042" n="39"/><lb n="1" xml:id="bsb00000616_00042_1"/><hi rend="ITALICS">miserrima Liutbirg, nam te nunc tangunt peccata tua, et inimicus generis</hi>
+<lb n="2" xml:id="bsb00000616_00042_2"/><hi rend="ITALICS">humani minas suas, quas michi saepe promiserat, mordicus </hi><w lemma="adimpleverat" xml:id="w239" corresp="#w239 #w240"><hi rend="ITALICS">adim</hi>-</w>
+<lb n="3" xml:id="bsb00000616_00042_3"/><w lemma="adimpleverat" xml:id="w240" corresp="#w239 #w240"><hi rend="ITALICS">pleverat</hi></w><hi rend="ITALICS">. Quis alius huius homicidii reus quam ego, quae usque in hunc</hi>
+<lb n="4" xml:id="bsb00000616_00042_4"/><hi rend="ITALICS">diem baptismi tempus distuleram et meis exigentibus peccatis, quod alibi</hi>
+<lb n="5" xml:id="bsb00000616_00042_5"/><hi rend="ITALICS">parentibus commodius fieri potuit, pro miseriis utique meis ad istum</hi>
+<lb n="6" xml:id="bsb00000616_00042_6"/><hi rend="ITALICS">proferre locum disposui? </hi>Discedente matre ipsa pro ea magis ac
+<lb n="7" xml:id="bsb00000616_00042_7"/>magis lamentationi succubuit et non diebus neque noctibus <w lemma="solationem" xml:id="w241" corresp="#w241 #w242">sola-</w>
+<lb n="8" xml:id="bsb00000616_00042_8"/><w lemma="solationem" xml:id="w242" corresp="#w241 #w242">tionem</w> recipiens paene usque ad internecionem fuerat consumpta, nec
+<lb n="9" xml:id="bsb00000616_00042_9"/>ab ullo potuit consolari.
+<lb n="10" xml:id="bsb00000616_00042_10"/>33. Tandem pietate divina miserante vox ad eam facta est increpantis
+<lb n="11" xml:id="bsb00000616_00042_11"/>eam dicens: <hi rend="ITALICS">Quousque lugere infantulum non amittis? Non tuo reatu,</hi>
+<lb n="12" xml:id="bsb00000616_00042_12"/><hi rend="ITALICS">sed iusto Dei iudicio praereptum scias </hi>ac, <hi rend="ITALICS">priusquam baptismi gratiam</hi>
+<lb n="13" xml:id="bsb00000616_00042_13"/><hi rend="ITALICS">perciperet, ablatum. Desine iam flere. An lamentationibus tuis </hi><w lemma="iustissimum" xml:id="w243" corresp="#w243 #w244"><hi rend="ITALICS">iustissi</hi>-</w>
+<lb n="14" xml:id="bsb00000616_00042_14"/><w lemma="iustissimum" xml:id="w244" corresp="#w243 #w244"><hi rend="ITALICS">mum</hi></w><hi rend="ITALICS"> divinitatis te posse reflectere atque retorquere iudicium arbitraris?</hi>
+<lb n="15" xml:id="bsb00000616_00042_15"/><hi rend="ITALICS">Iam anima eius apud inferos detinebitur. Sed fac, quod coepisti, tuisque</hi>
+<lb n="16" xml:id="bsb00000616_00042_16"/><hi rend="ITALICS">orationibus pro te cunctisque fidelibus solitas orationes infunde, ne</hi>
+<lb n="17" xml:id="bsb00000616_00042_17"/><hi rend="ITALICS">diutius in his, in quibus fructum precum tuarum nullo exequaris effectu,</hi>
+<lb n="18" xml:id="bsb00000616_00042_18"/><hi rend="ITALICS">moreris, quia talis partus, et quos antea pepererat, omnes temporibus</hi>
+<lb n="19" xml:id="bsb00000616_00042_19"/><hi rend="ITALICS">importunis et prohibitis festisque diebus concepti sunt. Iste vero infans,</hi>
+<lb n="20" xml:id="bsb00000616_00042_20"/><hi rend="ITALICS">pro quo tam nimium doles, die dominico conceptus est, et per hoc non</hi>
+<lb n="21" xml:id="bsb00000616_00042_21"/><hi rend="ITALICS">meruit ad regenerationis gratiam pervenire, sed penis deputandus est</hi>
+<lb n="22" xml:id="bsb00000616_00042_22"/><hi rend="ITALICS">inferorum. </hi>His illa auditis sermonibus divinae consolationis, in his
+<pb xml:id="bsb00000616_00043" n="40"/><lb n="1" xml:id="bsb00000616_00043_1"/>deinceps, quae sibi fuerant imperata, persistens, et cum <w lemma="quascumque" xml:id="w245" corresp="#w245 #w246">quas-</w>
+<lb n="2" xml:id="bsb00000616_00043_2"/><w lemma="quascumque" xml:id="w246" corresp="#w245 #w246">cumque</w> personas pro se rogaverat exorare, cum bonam praesentis vitae
+<lb n="3" xml:id="bsb00000616_00043_3"/>finem se percepturam rogitatura poposcerat.
+<lb n="4" xml:id="bsb00000616_00043_4"/>34. Multis igitur ac paene innumerabilibus quottidie versabatur in
+<lb n="5" xml:id="bsb00000616_00043_5"/>miraculorum ostentationibus atque portentis, quamm quaedam coelitus
+<lb n="6" xml:id="bsb00000616_00043_6"/>admissa, quaedam fraudulentia daemonum sunt permissa, quae aliqua
+<lb n="7" xml:id="bsb00000616_00043_7"/>sibi ad cautelam, aliqua vero ad correptionem delictorum etiam pro
+<lb n="8" xml:id="bsb00000616_00043_8"/>negligentia iuventutis suae oblivioni traditorum, quae omnia divinae
+<lb n="9" xml:id="bsb00000616_00043_9"/>dispositionis gratia fieri suis non dubitamus electis, quae quos vulnerari
+<lb n="10" xml:id="bsb00000616_00043_10"/>ad hoc utiliter permittit, ut salubrius praestet cautelam et foveam <w lemma="seductionis" xml:id="w247" corresp="#w247 #w248">se-</w>
+<lb n="11" xml:id="bsb00000616_00043_11"/><w lemma="seductionis" xml:id="w248" corresp="#w247 #w248">ductionis</w> post casum devitent. Iam de miris et innumeris <w lemma="portentuosisque" xml:id="w249" corresp="#w249 #w250">porten-</w>
+<lb n="12" xml:id="bsb00000616_00043_12"/><w lemma="portentuosisque" xml:id="w250" corresp="#w249 #w250">tuosisque</w> illusionibus inimici pauca retulimus, pauca vero [de] mistica
+<lb n="13" xml:id="bsb00000616_00043_13"/>revelatione sibi concessis praelibavimus.
+<lb n="14" xml:id="bsb00000616_00043_14"/>35. Nunc ad secretiora quidem eius intellectus, quae ad nos aut
+<lb n="15" xml:id="bsb00000616_00043_15"/>ipsa referente venerunt aut fidelium assertione virorum aut mulierum
+<lb n="16" xml:id="bsb00000616_00043_16"/>veridica contestatione ac probabili ratione veraciter firmata sunt.
+<lb n="17" xml:id="bsb00000616_00043_17"/>Prophetiae quidem spiritu a Deo remuneratam eam esse multis in
+<lb n="18" xml:id="bsb00000616_00043_18"/>futurum eventibus claruit, ex quibus pauca, nomen sanctitatis devitans,
+<lb n="19" xml:id="bsb00000616_00043_19"/>fideliter percunctantibus praesagabat. Quidam ergo comes, nomine
+<lb n="20" xml:id="bsb00000616_00043_20"/>Friderich, in eadem villa domum simul cum fratre suo, similiter
+<lb n="21" xml:id="bsb00000616_00043_21"/>comite, nomine Adalger, habens. Cuius praenominati uxor, nomine
+<lb n="22" xml:id="bsb00000616_00043_22"/>Pia, cum solito more quottidie ad missas vel advespertinalespreces
+<lb n="23" xml:id="bsb00000616_00043_23"/>ad illam ecclesiam perrexerat, beata Liutbirg eam affatur dicens:
+<pb xml:id="bsb00000616_00044" n="41"/><lb n="1" xml:id="bsb00000616_00044_1"/>Domina<hi rend="ITALICS"> filiaque dulcissima, pro matre tua ac genitrice debitas</hi>
+<lb n="2" xml:id="bsb00000616_00044_2"/><hi rend="ITALICS">orationes fundere non omittas et alios obsecres orare pro ea, quod</hi>
+<lb n="3" xml:id="bsb00000616_00044_3"/><hi rend="ITALICS">dignum est, ut, quae pro te magnum sustinuit laborem, aequa repensatione</hi>
+<lb n="4" xml:id="bsb00000616_00044_4"/><hi rend="ITALICS">retribuere non amittas. </hi>Ad haec illa respondens: <hi rend="ITALICS">Dignam rem, mater,</hi>
+<lb n="5" xml:id="bsb00000616_00044_5"/><hi rend="ITALICS">efflagitas</hi>, <hi rend="ITALICS">sed miror, cur in hoc praecipue tempore eius michi facere</hi>
+<lb n="6" xml:id="bsb00000616_00044_6"/><hi rend="ITALICS">memoriam impendas. Vivetne, rogo, an aliquis eam retulit de hoc saeculo</hi>
+<lb n="7" xml:id="bsb00000616_00044_7"/><hi rend="ITALICS">migratam? </hi>Cui illa: <hi rend="ITALICS">Nec ullus, </hi>inquit, <hi rend="ITALICS">hominum michi aliquid de eius</hi>
+<lb n="8" xml:id="bsb00000616_00044_8"/><hi rend="ITALICS">obitu referebat, sed quod te recordationis eius debitam fieri sciebam,</hi>
+<lb n="9" xml:id="bsb00000616_00044_9"/><hi rend="ITALICS">ideo te memorem eius esse praemonui. </hi>Postea vero tertia die nuntii
+<lb n="10" xml:id="bsb00000616_00044_10"/>venerunt, qui eam – cuius illa celaverat obitum – fuisse defunctam
+<lb n="11" xml:id="bsb00000616_00044_11"/>ferebant, non solum eadem die, sed eadem hora, qua ipsa memoriam
+<lb n="12" xml:id="bsb00000616_00044_12"/>eius filiae commendabat. Haec utique praefata Pia postmodum
+<lb n="13" xml:id="bsb00000616_00044_13"/>ancillam Dei Liutbirgam interrogans, cur ei causam celare vellet.
+<lb n="14" xml:id="bsb00000616_00044_14"/><hi rend="ITALICS">Nolui tuam, </hi>inquit, <hi rend="ITALICS">filia, mentem praegravare, ut securius orares,</hi>
+<lb n="15" xml:id="bsb00000616_00044_15"/><hi rend="ITALICS">necnon et alios animo laetiori supplieare non retardares. Mens etenim</hi>
+<lb n="16" xml:id="bsb00000616_00044_16"/><hi rend="ITALICS">tristis minus ad utilia quaelibet peragenda persistit ydonea, sed torpendo</hi>
+<lb n="17" xml:id="bsb00000616_00044_17"/><hi rend="ITALICS">potius tepescit; sicut et corpus, qualicumque vulneris gravatur dolore,</hi>
+<lb n="18" xml:id="bsb00000616_00044_18"/><hi rend="ITALICS">ad opus aliquod minus perficiendum suffecerit, sic utique mens tristitiis</hi>
+<lb n="19" xml:id="bsb00000616_00044_19"/><hi rend="ITALICS">enervata a necessitudinum suarum praepeditur effectibus, quarum non</hi>
+<lb n="20" xml:id="bsb00000616_00044_20"/><hi rend="ITALICS">ingruentis tempore maestitiae, sed postmodum detrimenta cognoscit. </hi>In
+<pb xml:id="bsb00000616_00045" n="42"/><lb n="1" xml:id="bsb00000616_00045_1"/>his ergo, quibus quandoque praedixerat, sub iureiurandi testificatione
+<lb n="2" xml:id="bsb00000616_00045_2"/>illis commendans, ut ante diem obitus sui nulli patefacerent, sed aliis
+<lb n="3" xml:id="bsb00000616_00045_3"/>occultata celarent usque post tempus discessionis suae, nec sua <w lemma="voluntate" xml:id="w251" corresp="#w251 #w252">volun-</w>
+<lb n="4" xml:id="bsb00000616_00045_4"/><w lemma="voluntate" xml:id="w252" corresp="#w251 #w252">tate</w> postmodum cuiquam indicarent, divinae denique potestatis esse,
+<lb n="5" xml:id="bsb00000616_00045_5"/>quae vel qualia quandoque iudicii sui secreta pandere decrevisset,
+<lb n="6" xml:id="bsb00000616_00045_6"/>referens, non tamen vilis arrogantiae deputandum esse personae <w lemma="propalari" xml:id="w253" corresp="#w253 #w254">propa-</w>
+<lb n="7" xml:id="bsb00000616_00045_7"/><w lemma="propalari" xml:id="w254" corresp="#w253 #w254">lari</w>. Interrogata ergo quodam tempore a praedicto fratre, qui eam
+<lb n="8" xml:id="bsb00000616_00045_8"/>de notitia discretionis spirituum inquirens, si de fine praesentis vitae
+<lb n="9" xml:id="bsb00000616_00045_9"/>suae vel de obitus sui die tempus praesciret: <hi rend="ITALICS">Praescientiae divinitatis</hi>
+<lb n="10" xml:id="bsb00000616_00045_10"/><hi rend="ITALICS">cuncta disponentis hoc, </hi>inquit, <hi rend="ITALICS">est, frater dilecte, quem cuiusque rei</hi>
+<lb n="11" xml:id="bsb00000616_00045_11"/><hi rend="ITALICS">eventum fortunam fatumve homines appellare censuerint, praevidendo</hi>
+<lb n="12" xml:id="bsb00000616_00045_12"/><hi rend="ITALICS">dinoscere, quibus temporibus aditum vel reditum seu manendi moram</hi>
+<lb n="13" xml:id="bsb00000616_00045_13"/><hi rend="ITALICS">peragat, nec prius nec posterius alicubi certum est posse deflecti,</hi>
+<lb n="14" xml:id="bsb00000616_00045_14"/><hi rend="ITALICS">nisi quo summi potestas arbitris, omnia disponens secundum suae </hi><w lemma="voluntatis" xml:id="w255" corresp="#w255 #w256"><hi rend="ITALICS">volun</hi>-</w>
+<lb n="15" xml:id="bsb00000616_00045_15"/><w lemma="voluntatis" xml:id="w256" corresp="#w255 #w256"><hi rend="ITALICS">tatis</hi></w><hi rend="ITALICS"> nutum, finem cunctis imponit, nec aliquid fieri credo, nisi quae suae</hi>
+<lb n="16" xml:id="bsb00000616_00045_16"/><hi rend="ITALICS">praedestinationis iussum in bonis vel nostris exigentibus peccatis</hi>
+<lb n="17" xml:id="bsb00000616_00045_17"/><hi rend="ITALICS">iustae punitionis in malis permissum sectantur. Natalem scilicet</hi>
+<lb n="18" xml:id="bsb00000616_00045_18"/><hi rend="ITALICS">vel obitus mei diem me nescire fateor, cum sim pulvis et cinis, quod solius</hi>
+<lb n="19" xml:id="bsb00000616_00045_19"/><hi rend="ITALICS">supernae maiestatis praenotione consistit. Sed quia fraternitati tuae </hi><w lemma="parvitatem" xml:id="w257" corresp="#w257 #w258"><hi rend="ITALICS">parvi</hi>-</w>
+<lb n="20" xml:id="bsb00000616_00045_20"/><w lemma="parvitatem" xml:id="w258" corresp="#w257 #w258"><hi rend="ITALICS">tatem</hi></w><hi rend="ITALICS"> meam interroganti libenter in omnibus obedierim, si scire nos</hi>
+<lb n="21" xml:id="bsb00000616_00045_21"/><hi rend="ITALICS">licuisset incognita</hi>,<hi rend="ITALICS"> quae praescire me divina pietas concesserat, triginta</hi>
+<lb n="22" xml:id="bsb00000616_00045_22"/><hi rend="ITALICS">videlicet annorum curricula in hac degere cellula me praedictum est.</hi>
+<lb n="23" xml:id="bsb00000616_00045_23"/><hi rend="ITALICS">Quod iam maxima ex parte peractum est, cui iam numero anni pauci</hi>
+<lb n="24" xml:id="bsb00000616_00045_24"/><hi rend="ITALICS">supersunt. Sed cum ad huius numeri perventum fuerit summam, in</hi>
+<pb xml:id="bsb00000616_00046" n="43"/><lb n="1" xml:id="bsb00000616_00046_1"/><hi rend="ITALICS">eius, ut praediximus, scientia consistit, qui cuncta sua potestate gubernat</hi>
+<lb n="2" xml:id="bsb00000616_00046_2"/><hi rend="ITALICS">et inevitabili fine disponit. </hi>Hoc ergo, ut praedixerat triginta
+<lb n="3" xml:id="bsb00000616_00046_3"/>spatium annorum in eadem cellula permansuram, ita contigerat, et
+<lb n="4" xml:id="bsb00000616_00046_4"/>quaecumque praenuntiaverat, indubitata pervenerant. Nam et in hoc
+<lb n="5" xml:id="bsb00000616_00046_5"/>luculenter damit, quod in his, quae praedixerat, certus semper <w lemma="subsequebatur" xml:id="w259" corresp="#w259 #w260">sub-</w>
+<lb n="6" xml:id="bsb00000616_00046_6"/><w lemma="subsequebatur" xml:id="w260" corresp="#w259 #w260">sequebatur</w> eventus. Sanctum quoque sibi Martinum in visione
+<lb n="7" xml:id="bsb00000616_00046_7"/>vera venisse ac de qualitate victus et vestitus praecepisse, necnon de
+<lb n="8" xml:id="bsb00000616_00046_8"/>orationis instantia et totius vitae conversatione paternis veluti verbis
+<lb n="9" xml:id="bsb00000616_00046_9"/>praedicere narrans; cuius consolatoriis sermocinationibus ceu <w lemma="mellificatis" xml:id="w261" corresp="#w261 #w262">melli-</w>
+<lb n="10" xml:id="bsb00000616_00046_10"/><w lemma="mellificatis" xml:id="w262" corresp="#w261 #w262">ficatis</w> epulis depasta, leviora sibi, quae prius gravia videbantur,
+<lb n="11" xml:id="bsb00000616_00046_11"/>postea deputabantur. Habens ergo cum praecipuae sanctitatis viris
+<lb n="12" xml:id="bsb00000616_00046_12"/>colloquium, etiam cum eis, quos disciplinatos et eruditos divinae legis
+<lb n="13" xml:id="bsb00000616_00046_13"/>esse cognoverat, familiarissimam disputationem, aliquos ab eis
+<lb n="14" xml:id="bsb00000616_00046_14"/>flosculos suae perfectionis decerpens, ac laetos semper utrumque
+<lb n="15" xml:id="bsb00000616_00046_15"/>digressus effecerat. Abbates etenim atque episcopi, qui eius notitiam
+<lb n="16" xml:id="bsb00000616_00046_16"/>habentes aut per semetipsos aut per nuntios suos suis orationibus
+<lb n="17" xml:id="bsb00000616_00046_17"/>se commendantes eamque in suis orationibus recipientes, alterna prece
+<lb n="18" xml:id="bsb00000616_00046_18"/>se sufflatos in Domino gaudebant; cum et pontifex eius, dignae
+<lb n="19" xml:id="bsb00000616_00046_19"/>memoriae Hemmo, summae sanctitatis atque eruditionis vir, ad cuius
+<lb n="20" xml:id="bsb00000616_00046_20"/>procurationem ac cautelam causa conversationis eius pertinebat, in
+<lb n="21" xml:id="bsb00000616_00046_21"/>cuius dyocesi morabatur, cum ea sermocinando multis eam <w lemma="sermonibus" xml:id="w263" corresp="#w263 #w264">ser-</w>
+<lb n="22" xml:id="bsb00000616_00046_22"/><w lemma="sermonibus" xml:id="w264" corresp="#w263 #w264">monibus</w> instructam aedificatamque relinquens et quibusque eam
+<lb n="23" xml:id="bsb00000616_00046_23"/>corporalibus necessariis adiuvatam clementer paterno saepissime
+<lb n="24" xml:id="bsb00000616_00046_24"/>visitabat affectu. Super haec omnia sanctae recordationis vir et
+<pb xml:id="bsb00000616_00047" n="44"/><lb n="1" xml:id="bsb00000616_00047_1"/>omnium profectionibus virtutum adletha Christi praecipuus Ansgerus,
+<lb n="2" xml:id="bsb00000616_00047_2"/>Bremensis archiepiscopus, eam sanctae filiationis amore in tantum
+<lb n="3" xml:id="bsb00000616_00047_3"/>colebat, ut pro eius visitationis gratia tam magnae prolixitatis viam
+<lb n="4" xml:id="bsb00000616_00047_4"/>devotus pater summa benivolentia proripiens et eam non solum suae
+<lb n="5" xml:id="bsb00000616_00047_5"/>praesentiae colloquiis, sed et corporalibus subsidiis venerabilis
+<lb n="6" xml:id="bsb00000616_00047_6"/>praesul et cunctorum necessitudinum voluntarius suffragator sua
+<lb n="7" xml:id="bsb00000616_00047_7"/>munificentia maxime consolabatur. Cui ad divini operis <w lemma="implementum" xml:id="w265" corresp="#w265 #w266">implemen-</w>
+<lb n="8" xml:id="bsb00000616_00047_8"/><w lemma="implementum" xml:id="w266" corresp="#w265 #w266">tum</w>, quibus illa iugiter summo inhaerebat studio, puellas eleganti
+<lb n="9" xml:id="bsb00000616_00047_9"/>forma transmiserat, quas illa et in psalmodiis et in artificiosis
+<lb n="10" xml:id="bsb00000616_00047_10"/>operibus educaverat et edoctas libertate concessa seu ad <w lemma="propinquos" xml:id="w267" corresp="#w267 #w268">pro-</w>
+<lb n="11" xml:id="bsb00000616_00047_11"/><w lemma="propinquos" xml:id="w268" corresp="#w267 #w268">pinquos</w>, sive quo vellent, ire permisit.
+<lb n="12" xml:id="bsb00000616_00047_12"/>36. Quoscumque ergo viros sive mulieres in habitu religionis vel
+<lb n="13" xml:id="bsb00000616_00047_13"/>morum gravitate conspexerat, se supplex eorum precibus commendabat
+<lb n="14" xml:id="bsb00000616_00047_14"/>et hoc inter cetera praecipue flagitans, ut bonam praesentis vitae sibi
+<lb n="15" xml:id="bsb00000616_00047_15"/>finem provenire deposcerent, si quis pro ea supplicare vel sacrificium
+<lb n="16" xml:id="bsb00000616_00047_16"/>dignaretur offerre. Si quis vero pro illa ieiunare benivolentium <w lemma="decrevisset" xml:id="w269" corresp="#w269 #w270">decre-</w>
+<lb n="17" xml:id="bsb00000616_00047_17"/><w lemma="decrevisset" xml:id="w270" corresp="#w269 #w270">visset</w>, diem sabbati ieiunandum elegerat, quia Romani praesulis
+<lb n="18" xml:id="bsb00000616_00047_18"/>decreto sabbati diem, qua Dominus in sepulchro positus fuerat, <w lemma="ieiunandum" xml:id="w271" corresp="#w271 #w272">ieiunan-</w>
+<lb n="19" xml:id="bsb00000616_00047_19"/><w lemma="ieiunandum" xml:id="w272" corresp="#w271 #w272">dum</w> audierat, et discipulis eadem die cum sanctis mulier ibus pro
+<pb xml:id="bsb00000616_00048" n="45"/><lb n="1" xml:id="bsb00000616_00048_1"/>tristitia ieiunantibus, et sabbato quoque die servi necnon et ancillae,
+<lb n="2" xml:id="bsb00000616_00048_2"/>liberiores a dominorum suorum servitio, proprii quoque propositi <w lemma="securius" xml:id="w273" corresp="#w273 #w274">se-</w>
+<lb n="3" xml:id="bsb00000616_00048_3"/><w lemma="securius" xml:id="w274" corresp="#w273 #w274">curius</w> acomodantur affectu. Pauperes vero cottidie recreando, viduas
+<lb n="4" xml:id="bsb00000616_00048_4"/>et pupillos et orphanos consolando et infirmantium curam <w lemma="impendendo" xml:id="w275" corresp="#w275 #w276">im-</w>
+<lb n="5" xml:id="bsb00000616_00048_5"/><w lemma="impendendo" xml:id="w276" corresp="#w275 #w276">pendendo</w>, non solum his, qui sibi in proximo, sed ubicumque positos
+<lb n="6" xml:id="bsb00000616_00048_6"/>audierat, vel qui pro eorum delictis in custodiisfuerant mancipati,
+<lb n="7" xml:id="bsb00000616_00048_7"/>proutcumque potuerat, solatia ministrabat. Quottidie missas
+<lb n="8" xml:id="bsb00000616_00048_8"/>audiens, oblationes Deo referens, exceptis peculiaribus, quibus
+<lb n="9" xml:id="bsb00000616_00048_9"/>quottidie magis ac fine sua propius orationibus ardentius anhelabat.
+<lb n="10" xml:id="bsb00000616_00048_10"/>Horis ergo competentibus nichilominus cum sororibus canendo in
+<lb n="11" xml:id="bsb00000616_00048_11"/>commune psallentium preces augebat. Quid plura de his referam,
+<lb n="12" xml:id="bsb00000616_00048_12"/>quae numerum narrantis excedunt? Sed lassanti viatori huius <w lemma="legendae" xml:id="w277" corresp="#w277 #w278">legen-</w>
+<lb n="13" xml:id="bsb00000616_00048_13"/><w lemma="legendae" xml:id="w278" corresp="#w277 #w278">dae</w> limitem requietionis imponere delectat, ut per fruticum spineta
+<lb n="14" xml:id="bsb00000616_00048_14"/>nimium labore gravi vexatus, tandem aliquando laxata membra
+<lb n="15" xml:id="bsb00000616_00048_15"/>quiescant.
+<lb n="16" xml:id="bsb00000616_00048_16"/>37. De obitu namque eius, ut audivimus, enarramus. Cum
+<lb n="17" xml:id="bsb00000616_00048_17"/>prius aliquantulum infirmari coeperat, accersitis presbiteris quottidie
+<lb n="18" xml:id="bsb00000616_00048_18"/>confessionem singulis faciens simulque cum oratione benedictiones
+<lb n="19" xml:id="bsb00000616_00048_19"/>accipiens usque praescitum tempus ab ea hora, qua spiritum Domino
+<lb n="20" xml:id="bsb00000616_00048_20"/>reddere debuit, et convenientibus presbiteris cum sororibus multisque
+<pb xml:id="bsb00000616_00049" n="46"/><lb n="1" xml:id="bsb00000616_00049_1"/>aliis convenientibus, omnes pro se concorditer orare supplicabat et
+<lb n="2" xml:id="bsb00000616_00049_2"/>omnes postulans peccata sibi remittere et accepto viatico prosternens
+<lb n="3" xml:id="bsb00000616_00049_3"/>se ante crucem, quam fixam super fenestram habebat, et expansis in
+<lb n="4" xml:id="bsb00000616_00049_4"/>modum crucis brachiis, capite in terram dimisso, vox, quae tandem
+<lb n="5" xml:id="bsb00000616_00049_5"/>in fine precis fuerat audita, haec erat: <hi rend="ITALICS">Qui crucis patibulum pro nobis</hi>
+<lb n="6" xml:id="bsb00000616_00049_6"/><hi rend="ITALICS">peccatoribus ascendere dignatus es et latroni pendenti misertus fuisti,</hi>
+<lb n="7" xml:id="bsb00000616_00049_7"/><hi rend="ITALICS">michi misereri digneris, quia in manus tuas commendo spiritum meum.</hi>
+<lb n="8" xml:id="bsb00000616_00049_8"/>Et sic inter psallentium atque lugentium voces felicem, ut credo,
+<lb n="9" xml:id="bsb00000616_00049_9"/>spiritum reddidit Domino, cui est honor et gloria in saecula saeculorum.
+<lb n="10" xml:id="bsb00000616_00049_10"/>Obiit autem temporibus Ludouuici iunioris, gloriosissimi regis <w lemma="Francorum" xml:id="w279" corresp="#w279 #w280">Fran-</w>
+<lb n="11" xml:id="bsb00000616_00049_11"/><w lemma="Francorum" xml:id="w280" corresp="#w279 #w280">corum</w>, et in eadem ecclesia honorifice sepulta ad laudem nominis eius,
+<lb n="12" xml:id="bsb00000616_00049_12"/>qui omnes sperantes in se custodire dignatus est, Iesus Christus, qui
+<lb n="13" xml:id="bsb00000616_00049_13"/>cum Patre et Spiritu Sancto vivit et regnat Deus in saecula saeculorum.
+<lb n="14" xml:id="bsb00000616_00049_14"/>Amen.
+</ab></div>
+</div>
+</body>
+</text>
+</TEI>

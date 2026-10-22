@@ -1,0 +1,42 @@
+<?xml-model href="https://digitallatin.github.io/guidelines/critical-editions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Iudex</title>
+            <author>Horst Lößlein</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher xml:lang="mul">Formulae-Litterae-Chartae Projekt</publisher>
+            <pubPlace>Hamburg</pubPlace>
+            <date when="2021-12-09">2021-12-09</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                            Distributed under a Creative Commons Attribution 4.0 International License.
+                        </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <refsDecl n="CTS">
+            <cRefPattern n="formula" matchPattern="(.+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])">
+               <p>This pattern extracts the whole formula</p>
+            </cRefPattern>
+         </refsDecl>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="edition" xml:lang="deu" n="urn:cts:formulae:elexicon.iudex.deu001">
+            <div type="textpart" n="1">
+               <p xml:space="preserve"><seg type="lex-title"><w>Iudex</w></seg>: <seg type="lex-keyword"><w>Amtsträger</w></seg>, <seg type="lex-keyword"><w>Richter</w></seg>.</p>
+               <p xml:space="preserve"><w>Ursprünglich</w> <w>die</w> <w>Bezeichnung</w> <w>für</w> <w>Richter</w><note><p xml:space="preserve"> <bibl n="&lt;span class=&quot;surname&quot;&gt;Rüfner&lt;/span&gt;, Thomas: Ius, iudex, iurisdictio: Die Terminologie des römischen Prozessrechts in der Spätantike, in: Iris &lt;span class=&quot;surname&quot;&gt;Colditz&lt;/span&gt;, Benjamin &lt;span class=&quot;surname&quot;&gt; Jokisch&lt;/span&gt; und Maria &lt;span class=&quot;surname&quot;&gt; Macuch&lt;/span&gt; (Hgg.), Transferprozesse in spätantiken Rechtssystemen, Wiesbaden 2017,  (Episteme in Bewegung), S. 105–119.">T. Rüfner, Terminologie</bibl>, S. 105f.; <bibl n="&lt;span class=&quot;surname&quot;&gt;Weitzel&lt;/span&gt;, Jürgen: Dinggenossenschaft und Recht: Untersuchungen zum Rechtsverständnis im fränkisch-deutschen Mittelalter, Köln u.a. 1985 (Quellen und Forschungen zur höchsten Gerichtsbarkeit im Alten Reich 15).">J. Weitzel, Dinggenossenschaft</bibl>, S. 204f.</p></note> <w>verlor</w> <w type="latin-word" lemmaRef="iudex">iudex</w> <w>in</w> <w>der</w> <w>Spätantike</w> <w>seine</w> <w>technische</w> <w>Bedeutung</w> <w>und</w> <w>konnte</w> <w>fortan</w> <w>zur</w> <w>Designation</w> <w>verschiedenster</w> <w>Amtsträger</w>, <w>häufig</w> <w>mit</w> <w>Aufgaben</w> <w>in</w> <w>der</w> <w>Rechtspflege</w>, <w>verwendet</w> <w>werden</w><note><p xml:space="preserve"> <bibl n="&lt;span class=&quot;surname&quot;&gt;Rüfner&lt;/span&gt;, Thomas: Ius, iudex, iurisdictio: Die Terminologie des römischen Prozessrechts in der Spätantike, in: Iris &lt;span class=&quot;surname&quot;&gt;Colditz&lt;/span&gt;, Benjamin &lt;span class=&quot;surname&quot;&gt; Jokisch&lt;/span&gt; und Maria &lt;span class=&quot;surname&quot;&gt; Macuch&lt;/span&gt; (Hgg.), Transferprozesse in spätantiken Rechtssystemen, Wiesbaden 2017,  (Episteme in Bewegung), S. 105–119.">T. Rüfner, Terminologie</bibl>, S. 105-110.; <bibl n="&lt;span class=&quot;surname&quot;&gt;Weitzel&lt;/span&gt;, Jürgen: Dinggenossenschaft und Recht: Untersuchungen zum Rechtsverständnis im fränkisch-deutschen Mittelalter, Köln u.a. 1985 (Quellen und Forschungen zur höchsten Gerichtsbarkeit im Alten Reich 15).">J. Weitzel, Dinggenossenschaft</bibl>, S. 204f.; vgl. dazu auch <bibl n="&lt;span class=&quot;surname&quot;&gt;Barbati&lt;/span&gt;, Stefano: Studi sui &quot;iudices&quot; nel diritto romano tardo antico, Milano 2012 (Università Cattolica del Sacro Cuore, Facoltà di Giurisprudenza, Sede di Piacenza, Dipartimento di Scienze Giuridiche 9).">S. Barbati, Studi sui iudices</bibl>.</p></note>. <w>In</w> <w>fränkischer</w> <w>Zeit</w> <w>war</w> <w type="latin-word" lemmaRef="iudex">iudex</w> <w>ein</w> <w>reiner</w> <w>Funktionstitel</w>, <w>der</w> <w>Amtsträger</w> <w>jeglicher</w> <w>Art</w> <w>bezeichnen</w> <w>konnte</w>, <w>die</w> <w>Herrschafts-</w> <w>oder</w> <w>Disziplinarakte</w> <w>ausübten</w><note><p xml:space="preserve"> <bibl n="&lt;span class=&quot;surname&quot;&gt;Claude&lt;/span&gt;, Dietrich: Untersuchungen zum frühfränkischen Comitat, in: Zeitschrift der Savigny-Stiftung für Rechtsgeschichte: Germanistische Abteilung 81 (1964), S. 1–79.">D. Claude, Untersuchungen</bibl>, S. 43; <bibl n="&lt;span class=&quot;surname&quot;&gt;Weidemann&lt;/span&gt;, Margarete: Kulturgeschichte der Merowingerzeit nach den Werken Gregors von Tours, Mainz 1982 (Römisch-Germanisches Zentralmuseum. Monographien 3, 1-2).">M. Weidemann, Kulturgeschichte</bibl> I, S. 86-88; <bibl n="&lt;span class=&quot;surname&quot;&gt;Weitzel&lt;/span&gt;, Jürgen: Dinggenossenschaft und Recht: Untersuchungen zum Rechtsverständnis im fränkisch-deutschen Mittelalter, Köln u.a. 1985 (Quellen und Forschungen zur höchsten Gerichtsbarkeit im Alten Reich 15).">J. Weitzel, Dinggenossenschaft</bibl>, S. 202f. und 213f. Abgeleitet wurde <seg type="italic">iudex </seg>von <seg type="italic">iudicaria potestas </seg>für die Amtsgewalt und die Amtsbefugnisse.</p></note>. <w>In</w> <w>karolingischer</w> <w>Zeit</w> <w>setzte</w> <w>sich</w> <w>Gebrauch</w> <w>von</w> <w type="latin-word">iudicare</w> <w>für</w> <w>„richten“</w> <w>im</w> <w>Gerichtskontext</w> <w>durch</w>, <w>gefolgt</w> <w>von</w> <w>der</w> <w>Gleichsetzung</w> <w>von</w> <w type="latin-word" lemmaRef="iudex">iudex</w> <w>mit</w> <w>„Richter“</w> <w>beginnend</w> <w>im</w> <w>10</w>. <w>Jahrhundert</w><note><p xml:space="preserve"> <bibl n="&lt;span class=&quot;surname&quot;&gt;Köbler&lt;/span&gt;, Gerhard: Richten - Richter - Gericht, in: Zeitschrift der Savigny-Stiftung für Rechtsgeschichte: Germanistische Abteilung 87 (1970), S. 57–113.">G. Köbler, Richten</bibl>, S. 83; <bibl n="&lt;span class=&quot;surname&quot;&gt;Weitzel&lt;/span&gt;, Jürgen: Dinggenossenschaft und Recht: Untersuchungen zum Rechtsverständnis im fränkisch-deutschen Mittelalter, Köln u.a. 1985 (Quellen und Forschungen zur höchsten Gerichtsbarkeit im Alten Reich 15).">J. Weitzel, Dinggenossenschaft</bibl>, S. 281-295. In merowingischer Zeit wurde im Gerichtskontext dagegen zumeist <seg type="italic">decernere </seg>für die Gerichtsentscheidung verwendet, während <seg type="italic">iudicare </seg>vor allem zur Beschreibung der Untersuchungsphase in den niederen Gerichten, nicht aber den königlichen <seg type="italic">placita</seg> Gebrauch fand.</p></note>.</p>
+               <p xml:space="preserve"><w>HL</w></p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

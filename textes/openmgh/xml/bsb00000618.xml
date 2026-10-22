@@ -1,0 +1,1530 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>MGH QQ zur Geistesgesch. 9: Eupolemius, Das Bibelgedicht</title>
+        <editor>Manitius, Karl</editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Monumenta Germaniae Historica (MGH)</publisher>
+        <publisher>Bavarian State Library (BSB), München</publisher>
+        <idno type="BSB">bsb00000618</idno>
+        <idno type="MGH">MGH QQ zur Geistesgesch. 9</idno>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/">
+            <p>Distributed under the Creative Commons Attribution 4.0 International (CC BY 4.0) license.</p>
+            <p>This license covers the annotations added by the Monumenta Germaniae Historica and the
+            Bavarian State Library, Munich, in the course of project "digital MGH"
+            <ref target="http://www.dmgh.de">http://www.dmgh.de</ref>, funded by the
+            German Research Foundation (DFG).</p>
+            <p>We do not claim any rights on the text itself which is believed to be in the public domain.</p>
+            <p>If you distribute a copy or a derivative version of this file, please indicate the source
+            of the file by mentioning the Monumenta Germaniae Historica (MGH) and the
+            Bavarian State Library, Munich (BSB).</p>
+          </licence>
+        </availability>
+        <date when="2016-11-28T16:17:01+01:00">2016-11-28, 16:17:01</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Eupolemius, Das Bibelgedicht</title>
+            <editor>Manitius, Karl</editor>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Böhlau</publisher>
+            <pubPlace>Weimar</pubPlace>
+            <date>1973</date>
+          </publicationStmt>
+          <seriesStmt>
+            <title>Quellen zur Geistesgeschichte des Mittelalters</title>
+            <biblScope unit="volume">9</biblScope>
+          </seriesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+<body>
+<div type="volume">
+<div n="Eupolemius" type="work">
+<div type="part"><ab>
+<pb xml:id="bsb00000618_00029" n="(29)"/><lb n="1" xml:id="bsb00000618_00029_1"/>Incipit liber Eupolemii.
+<lb n="2" xml:id="bsb00000618_00029_2"/>Contra Messyam violenti prelia Caci
+<lb n="3" xml:id="bsb00000618_00029_3"/>Detestanda cano, dudum quem fortibus armis
+<lb n="4" xml:id="bsb00000618_00029_4"/>In dominum pugnasse suum nimiumque potenter
+<lb n="5" xml:id="bsb00000618_00029_5"/>Instruxisse ferunt acies Iebusea per arva,
+<lb n="6" xml:id="bsb00000618_00029_6"/>Que circa Solimam sita sunt. Non hic mihi Clio,
+<lb n="7" xml:id="bsb00000618_00029_7"/>Non mihi Calliape, sed summa vocanda sophya est.
+<lb n="8" xml:id="bsb00000618_00029_8"/>Omnipotens, qui cuncta regis, quem credere vita,
+<lb n="9" xml:id="bsb00000618_00029_9"/>Quem coluisse salus, quem solum credimus unum,
+<lb n="10" xml:id="bsb00000618_00029_10"/>Credimus et trinum, cui 'Sanctus' ter repetitum
+<lb n="11" xml:id="bsb00000618_00029_11"/>Celicus ordo canit, vires mihi suggere, laudem
+<lb n="12" xml:id="bsb00000618_00029_12"/>Ut possim cantare tuam, nam te duce bellum
+<pb xml:id="bsb00000618_00030" n="30"/><lb n="1" xml:id="bsb00000618_00030_1"/>Hoc gestum est victusque dolet te presule Cacus!
+<lb n="2" xml:id="bsb00000618_00030_2"/>Iam pater Antropus sevo sub principe captus
+<lb n="3" xml:id="bsb00000618_00030_3"/>Cum genitis a se planxit sua fata duobus.
+<lb n="4" xml:id="bsb00000618_00030_4"/>Maior erat natu Iudas, sed iunior Ethnis
+<lb n="5" xml:id="bsb00000618_00030_5"/>Nomen habens; illis animus distabat et etas,
+<lb n="6" xml:id="bsb00000618_00030_6"/>Namque minor Cacum vesanus amavit et eius
+<lb n="7" xml:id="bsb00000618_00030_7"/>Iussa sequens studuit nescire, quis Agatus esset.
+<lb n="8" xml:id="bsb00000618_00030_8"/>Hoc etenim suasore miser simulacra vereri
+<lb n="9" xml:id="bsb00000618_00030_9"/>Et Zoroastree fallacia murmura secte
+<lb n="10" xml:id="bsb00000618_00030_10"/>Atque deis didicit campos implere lacusque.
+<lb n="11" xml:id="bsb00000618_00030_11"/>At senior Cedarei non sponte tiranni
+<lb n="12" xml:id="bsb00000618_00030_12"/>Sub ditione fuit dominumque suum, licet absens
+<lb n="13" xml:id="bsb00000618_00030_13"/>Captivusque, tamen devota mente colebat.
+<lb n="14" xml:id="bsb00000618_00030_14"/>Hec secum volvens plus Agatus inquid ad unum,
+<lb n="15" xml:id="bsb00000618_00030_15"/>Cui nomen Moyses, – namque hic et fortis et audax
+<lb n="16" xml:id="bsb00000618_00030_16"/>Miles erat nullique viro, quid Hebrea sonaret
+<lb n="17" xml:id="bsb00000618_00030_17"/>Pagina, plus notum – 'Mihi conversacio Iude
+<lb n="18" xml:id="bsb00000618_00030_18"/>Sancta placet doleoque nimis, quod tam bona iusti
+<lb n="19" xml:id="bsb00000618_00030_19"/>Vita viri Caco nimium dominante gravatur.
+<pb xml:id="bsb00000618_00031" n="31"/><lb n="1" xml:id="bsb00000618_00031_1"/>Vade age, Caldaicam velox urbem pete, namque
+<lb n="2" xml:id="bsb00000618_00031_2"/>In Babilone manet, totamque ex ordine tristi
+<lb n="3" xml:id="bsb00000618_00031_3"/>Pandito mesticie causam, quod mereat ipse,
+<lb n="4" xml:id="bsb00000618_00031_4"/>Quod sub Amartigenis tanta feritate prematur.
+<lb n="5" xml:id="bsb00000618_00031_5"/>Non me culpandum sciat, immo suum genitorem
+<lb n="6" xml:id="bsb00000618_00031_6"/>Abstractum verbis Bethelis ab urbe dolosis.
+<lb n="7" xml:id="bsb00000618_00031_7"/>Attamen Anphicopam legatos Polipatremque
+<lb n="8" xml:id="bsb00000618_00031_8"/>Fortes atque bonos misi, mea nuncia Caco
+<lb n="9" xml:id="bsb00000618_00031_9"/>Dicturos, ut eum dimitteret. Hoc quia frustra
+<lb n="10" xml:id="bsb00000618_00031_10"/>Temptatum video, volo bella movere meosque
+<lb n="11" xml:id="bsb00000618_00031_11"/>Solvere captivos. Hec illi verba referto
+<lb n="12" xml:id="bsb00000618_00031_12"/>Solatura gravem cordis, mihi crede, dolorem'.
+<lb n="13" xml:id="bsb00000618_00031_13"/>Iussa facit Moyses. Quam clara Semiramis urbem
+<lb n="14" xml:id="bsb00000618_00031_14"/>Coctilium cinxisse datur compage petrarum
+<lb n="15" xml:id="bsb00000618_00031_15"/>Ingressus dictis Iudam compellat amicis.
+<lb n="16" xml:id="bsb00000618_00031_16"/>Ille ubi cognovit, quo germine natus et a quo
+<lb n="17" xml:id="bsb00000618_00031_17"/>Missus erat, gaudens excepit et in sua tecta
+<lb n="18" xml:id="bsb00000618_00031_18"/>Inducens iuvenem 'Mihi gracior hospes adesse
+<lb n="19" xml:id="bsb00000618_00031_19"/>Nullus posset 'ait' causa missoris et eius,
+<pb xml:id="bsb00000618_00032" n="32"/><lb n="1" xml:id="bsb00000618_00032_1"/>Quem tantum video fultum virtutibus ad me
+<lb n="2" xml:id="bsb00000618_00032_2"/>Legatum venisse. Cibos aptate, ministri,
+<lb n="3" xml:id="bsb00000618_00032_3"/>Restantemque diem totum ducamus ovantes.'
+<lb n="4" xml:id="bsb00000618_00032_4"/>Sexta fuit siquidem Moysi veniente diei
+<lb n="5" xml:id="bsb00000618_00032_5"/>Hora, ideo dixit 'totum ducamus ovantes'.
+<lb n="6" xml:id="bsb00000618_00032_6"/>Hospite cum grato postquam consederat hospes
+<lb n="7" xml:id="bsb00000618_00032_7"/>Alternisque diem leti duxere loquelis,
+<lb n="8" xml:id="bsb00000618_00032_8"/>Tandem suspirans imo de pectore Iudas
+<lb n="9" xml:id="bsb00000618_00032_9"/>Telices,' inquid 'quos capcio non tenet et qui
+<lb n="10" xml:id="bsb00000618_00032_10"/>Gratanter dominis possunt servire soluti!
+<lb n="11" xml:id="bsb00000618_00032_11"/>En ego, quod nequeo lacrimans nisi dicere, culpa
+<lb n="12" xml:id="bsb00000618_00032_12"/>Nescio qua teneor longo iam tempore captus
+<lb n="13" xml:id="bsb00000618_00032_13"/>Meque premit, qui non deberet.' Ad hec bonus hospes
+<lb n="14" xml:id="bsb00000618_00032_14"/>'Ni te sermonis longi graviumque laborum,
+<lb n="15" xml:id="bsb00000618_00032_15"/>Quos tibi quosque tuis possem memorare, pigeret,
+<lb n="16" xml:id="bsb00000618_00032_16"/>Quo modo sis captus, quod te non nosse fateris,
+<lb n="17" xml:id="bsb00000618_00032_17"/>Vel cur tuque tuus frater sub principe Caco
+<lb n="18" xml:id="bsb00000618_00032_18"/>Sitis et a vobis descendens certa propago,
+<lb n="19" xml:id="bsb00000618_00032_19"/>Dissererem' dixit. Tum Iudas 'Tolle „pigeret",
+<lb n="20" xml:id="bsb00000618_00032_20"/>Immo pergratum mihi ages opus.' Incipit ille
+<lb n="21" xml:id="bsb00000618_00032_21"/>'Urbs est dicta lebus per multos cognita fines,
+<lb n="22" xml:id="bsb00000618_00032_22"/>Quam veteres dixere Salem, quo nomine bino
+<pb xml:id="bsb00000618_00033" n="33"/><lb n="1" xml:id="bsb00000618_00033_1"/>Iuncto appellat eam mutato gramate vulgus;
+<lb n="2" xml:id="bsb00000618_00033_2"/>Hanc Solimam plerumque solent efferre Latini
+<lb n="3" xml:id="bsb00000618_00033_3"/>Gramatici. Colit ut coluit rex Agatus illam;
+<lb n="4" xml:id="bsb00000618_00033_4"/>Ipse trucem Cacum, feritas est cuius ubique
+<lb n="5" xml:id="bsb00000618_00033_5"/>Haut ignota, duces comitesque suos super omnes
+<lb n="6" xml:id="bsb00000618_00033_6"/>Extulit usque adeo, ut dictus tum Phosphorus esset.
+<lb n="7" xml:id="bsb00000618_00033_7"/>Sed retinere diu nescit male cautus honorem
+<lb n="8" xml:id="bsb00000618_00033_8"/>Prosperitasque necat fatuum. Nam protinus ille
+<lb n="9" xml:id="bsb00000618_00033_9"/>Infelix contra dominum tumet atque velut par
+<lb n="10" xml:id="bsb00000618_00033_10"/>Imperium regis sibi vendicat, unde potestas
+<lb n="11" xml:id="bsb00000618_00033_11"/>Regia primatem merito permota superbum
+<lb n="12" xml:id="bsb00000618_00033_12"/>Deiecit solio atque dato privavit honore
+<lb n="13" xml:id="bsb00000618_00033_13"/>Miliciamque ducis tumefacti compulit una
+<lb n="14" xml:id="bsb00000618_00033_14"/>Cedere. Dux pulsus Cedar secedit et inde
+<lb n="15" xml:id="bsb00000618_00033_15"/>Tendit in Egiptum; dat ei cognomen uterque
+<lb n="16" xml:id="bsb00000618_00033_16"/>Sepe locus, quia sepe manet proscriptus utrimque.
+<lb n="17" xml:id="bsb00000618_00033_17"/>Tunc exsanguem Aphilum Superifanemque superbum
+<lb n="18" xml:id="bsb00000618_00033_18"/>Adscivit socios, quibus auxiliantibus omne
+<lb n="19" xml:id="bsb00000618_00033_19"/>Patraret scelus inque sua persistere posset
+<lb n="20" xml:id="bsb00000618_00033_20"/>Nequicia et regem crebris offendere bellis.
+<lb n="21" xml:id="bsb00000618_00033_21"/>Apolidem postquam summoverat, Agatus unum
+<pb xml:id="bsb00000618_00034" n="34"/><lb n="1" xml:id="bsb00000618_00034_1"/>Dilectum Bethele sibi nutrivit alumnum
+<lb n="2" xml:id="bsb00000618_00034_2"/>Indolis eximie, qui te post edidit exul
+<lb n="3" xml:id="bsb00000618_00034_3"/>In Caldeorum terra. Desiderat illi
+<lb n="4" xml:id="bsb00000618_00034_4"/>Rex, si proficiat, solium, quod Cacus habebat,
+<lb n="5" xml:id="bsb00000618_00034_5"/>Et regni conferre locum. Pro ceca, quid hec est,
+<lb n="6" xml:id="bsb00000618_00034_6"/>Invidia, alterius quod semper honore liquescis?
+<lb n="7" xml:id="bsb00000618_00034_7"/>Impiger ut Cacus cognovit talia, seeum
+<lb n="8" xml:id="bsb00000618_00034_8"/>Infremuit sociosque suos crudelis atroces
+<lb n="9" xml:id="bsb00000618_00034_9"/>Consuluit, nec enim poterat sufferre malignus,
+<lb n="10" xml:id="bsb00000618_00034_10"/>Ut sibi subtracto melior frueretur honore.
+<lb n="11" xml:id="bsb00000618_00034_11"/>Dumque sub ancipiti volvebat pectore curas,
+<lb n="12" xml:id="bsb00000618_00034_12"/>„Quid dubitas", Aphilus „quid" ait, „fortissime ductor,
+<lb n="13" xml:id="bsb00000618_00034_13"/>Ambigis? Attempta bellis, in qua manet, urbem
+<lb n="14" xml:id="bsb00000618_00034_14"/>Ille vir! Et quid, si tibi Marte favente potenter
+<lb n="15" xml:id="bsb00000618_00034_15"/>Victor eris? Res in dubio est. Quid agas, nisi temptes?
+<lb n="16" xml:id="bsb00000618_00034_16"/>Sive dolo mavis certare, dolos ineamus,
+<lb n="17" xml:id="bsb00000618_00034_17"/>Nempe mea nil distat, utrum bellando dolisve
+<lb n="18" xml:id="bsb00000618_00034_18"/>Vincam, dum vincam. Sed quid moror? Incipe, vinces!
+<lb n="19" xml:id="bsb00000618_00034_19"/>Die age: quis, cui sit virtus et tanta proborum
+<lb n="20" xml:id="bsb00000618_00034_20"/>Copia quanta tibi sociorum, dedecus illud,
+<lb n="21" xml:id="bsb00000618_00034_21"/>Tu quod habes, tollerare velit? Validusne magis tu,
+<lb n="22" xml:id="bsb00000618_00034_22"/>Multo nobilior, multo sollercior? Illi,
+<pb xml:id="bsb00000618_00035" n="35"/><lb n="1" xml:id="bsb00000618_00035_1"/>Qui te possesso iam subplantavit honore,
+<lb n="2" xml:id="bsb00000618_00035_2"/>Postponendus eras? Tecum bonus Agatus egit.
+<lb n="3" xml:id="bsb00000618_00035_3"/>Turba puerilis quod ubi statuit sibi regem,
+<lb n="4" xml:id="bsb00000618_00035_4"/>Eligit hunc regemque vocat regemque salutat,
+<lb n="5" xml:id="bsb00000618_00035_5"/>Huic caput inclinat, sed eum mox abicit atque,
+<lb n="6" xml:id="bsb00000618_00035_6"/>Quem tunc vult, alium depulso subrogat: et quid
+<lb n="7" xml:id="bsb00000618_00035_7"/>Hic aliud factum est? Non illic causa nec hic est.
+<lb n="8" xml:id="bsb00000618_00035_8"/>Quare, si mecum sentis et sunt tibi cure,
+<lb n="9" xml:id="bsb00000618_00035_9"/>Que loquor, invades hominem vitaque carebit;
+<lb n="10" xml:id="bsb00000618_00035_10"/>Aut si tam bonus es, quod non nego, tollere vitam
+<lb n="11" xml:id="bsb00000618_00035_11"/>Ut nolis iuveni, capiatur et in peregrinas
+<lb n="12" xml:id="bsb00000618_00035_12"/>Ducatur partes vita cariturus amena,
+<lb n="13" xml:id="bsb00000618_00035_13"/>Ut subtractus honor tibi non racione sed ira
+<lb n="14" xml:id="bsb00000618_00035_14"/>Nec tibi nec sit ei." Sic postquam dixit, atrocem
+<lb n="15" xml:id="bsb00000618_00035_15"/>Frendentemque tamen tantum stimulavit in iram,
+<lb n="16" xml:id="bsb00000618_00035_16"/>Quantum nota movent Eleum sibila glaucum
+<lb n="17" xml:id="bsb00000618_00035_17"/>Vel quales Epiros alit, qui carcere nondum
+<lb n="18" xml:id="bsb00000618_00035_18"/>Recluso crebris feriunt hinnitibus auras,
+<lb n="19" xml:id="bsb00000618_00035_19"/>Et piger est vectes tollens properanter agaso.
+<lb n="20" xml:id="bsb00000618_00035_20"/>Tunc erat inter eos, quo non astucior alter
+<lb n="21" xml:id="bsb00000618_00035_21"/>Invidieque capax magis; illi nomen Ofites.
+<lb n="22" xml:id="bsb00000618_00035_22"/>Quem, quia versutum plenumque dolis videt, acer
+<lb n="23" xml:id="bsb00000618_00035_23"/>Cacus, ut Antropum temptet subvertere, mittens
+<pb xml:id="bsb00000618_00036" n="36"/><lb n="1" xml:id="bsb00000618_00036_1"/><hi rend="ITALICS">„</hi>I, bone," ait <hi rend="ITALICS">„</hi>iuvenemque, dolis quia fallere nosti,
+<lb n="2" xml:id="bsb00000618_00036_2"/>Falle dolis! Neque enim poterit, velut arbitror, ulla
+<lb n="3" xml:id="bsb00000618_00036_3"/>Simplex arte capi cicius quam fraude benignus,
+<lb n="4" xml:id="bsb00000618_00036_4"/>Dum credit verbis nec in herba cogitat anguem.
+<lb n="5" xml:id="bsb00000618_00036_5"/>Vade igitur; si te fortuna remiserit ad me
+<lb n="6" xml:id="bsb00000618_00036_6"/>Propositi nostri victorem, munera certe
+<lb n="7" xml:id="bsb00000618_00036_7"/>Multa tibi tribuam nec erit mihi gracior ullus."
+<lb n="8" xml:id="bsb00000618_00036_8"/>Hec postquam ducibus placuere, dolosus Ophites
+<lb n="9" xml:id="bsb00000618_00036_9"/>Antropo parat insidias et, ne sua nullas
+<lb n="10" xml:id="bsb00000618_00036_10"/>Fraus habeat vires, forte in Bethele morantem
+<lb n="11" xml:id="bsb00000618_00036_11"/>Antifrononta petit; quo blandis fallere verbis
+<lb n="12" xml:id="bsb00000618_00036_12"/>Non vixit magis aptus homo, sermone suavis
+<lb n="13" xml:id="bsb00000618_00036_13"/>Et facie gratus, voluit seducere si quem,
+<lb n="14" xml:id="bsb00000618_00036_14"/>Arrisit. Quem rex Solimanus semper habebat
+<lb n="15" xml:id="bsb00000618_00036_15"/>Suspectum iuvenemque suum Bethele manentem
+<lb n="16" xml:id="bsb00000618_00036_16"/>Obtestatus erat, ne crederet illius umquam
+<lb n="17" xml:id="bsb00000618_00036_17"/>Consiliis, iam possessum si nollet honorem
+<lb n="18" xml:id="bsb00000618_00036_18"/>Maioremque dein, si sic perstaret, habendum
+<lb n="19" xml:id="bsb00000618_00036_19"/>Perdere et eternum damnandus inire laborem.
+<lb n="20" xml:id="bsb00000618_00036_20"/>Hoc ergo assumpto sibi complice fraudis Ofites
+<lb n="21" xml:id="bsb00000618_00036_21"/>Pergit ad Antropi pulcre vernancia tecta.
+<pb xml:id="bsb00000618_00037" n="37"/><lb n="1" xml:id="bsb00000618_00037_1"/>Illic ortus erat viridissimus omnigenisque
+<lb n="2" xml:id="bsb00000618_00037_2"/>Consitus arboribus gignentibus, ut memoratur,
+<lb n="3" xml:id="bsb00000618_00037_3"/>Diversi generis fructus variique saporis;
+<lb n="4" xml:id="bsb00000618_00037_4"/>Illic fons etiam scatet, ex quo quatuor amnes
+<lb n="5" xml:id="bsb00000618_00037_5"/>Emanare ferunt. In eodem nascitur horto
+<lb n="6" xml:id="bsb00000618_00037_6"/>Tus et mirra fluit preciosaque balsama stillant,
+<lb n="7" xml:id="bsb00000618_00037_7"/>Multaque preterea sunt oblectancia visus
+<lb n="8" xml:id="bsb00000618_00037_8"/>Illic humanos. Ibi tunc de more sedentem
+<lb n="9" xml:id="bsb00000618_00037_9"/>Inveniunt iuvenem, quem sic affatur Ofites
+<lb n="10" xml:id="bsb00000618_00037_10"/>„Ingenio pollens etatis et integritate,
+<lb n="11" xml:id="bsb00000618_00037_11"/>Regie vir, quam grata tibi, quam florida sedes,
+<lb n="12" xml:id="bsb00000618_00037_12"/>Ut decet ingenuum! Nec, ut invideam, hec tibi dico,
+<lb n="13" xml:id="bsb00000618_00037_13"/>Sed magis admiror, cur te Solimanus, ut aiunt,
+<lb n="14" xml:id="bsb00000618_00037_14"/>Iusserit indigenis Luze bene credere eunctis
+<pb xml:id="bsb00000618_00038" n="38"/><lb n="1" xml:id="bsb00000618_00038_1"/>Excepto virtute suos qui comminus adstans
+<lb n="2" xml:id="bsb00000618_00038_2"/>Impiger Antifronon cives supereminet omnes."
+<lb n="3" xml:id="bsb00000618_00038_3"/>Ille refert „Vere mihi rex – nam cur ego verum
+<lb n="4" xml:id="bsb00000618_00038_4"/>Hoc presente negem? – remonens precepit, ut omnes
+<lb n="5" xml:id="bsb00000618_00038_5"/>Diligerem, quos hec vicinos urbs habet, unum
+<lb n="6" xml:id="bsb00000618_00038_6"/>Hunc devitarem; cito traderer huius iniquis."
+<lb n="7" xml:id="bsb00000618_00038_7"/>„Hunc devitares, quia te cito traderet, inquis,
+<lb n="8" xml:id="bsb00000618_00038_8"/>Artibus iste suis. Non est ita. Sed quoniam rex
+<lb n="9" xml:id="bsb00000618_00038_9"/>'Artibus' aiebat", subicit male fidus Ofites
+<lb n="10" xml:id="bsb00000618_00038_10"/>„Cognovit, quam sit sollers paciensque laborum
+<lb n="11" xml:id="bsb00000618_00038_11"/>Antifronon, et erat sollers paciensque laborum.
+<lb n="12" xml:id="bsb00000618_00038_12"/>Vitandum tibi censet eum; cui si socieris,
+<lb n="13" xml:id="bsb00000618_00038_13"/>Ne tibi se faciat similem, timet, hercule, et ipsi
+<lb n="14" xml:id="bsb00000618_00038_14"/>Par fieres magnisque diis. Et si mihi prudens
+<lb n="15" xml:id="bsb00000618_00038_15"/>Credis eris: sed enim vult hac in sede quietum
+<lb n="16" xml:id="bsb00000618_00038_16"/>Et mundo ignotum miseram te ducere vitam.
+<lb n="17" xml:id="bsb00000618_00038_17"/>Hoc autem duce, si modo te subieceris illi
+<lb n="18" xml:id="bsb00000618_00038_18"/>Egregio fortique viro, per tocius orbis
+<lb n="19" xml:id="bsb00000618_00038_19"/>Climata notus eris". Sic postquam fatus, amicum
+<lb n="20" xml:id="bsb00000618_00038_20"/>Attollens iuvenis vultum „Mihi cerneris" inquit
+<lb n="21" xml:id="bsb00000618_00038_21"/>„Providus et tibi quis monstrarit nescio nostrum,
+<lb n="22" xml:id="bsb00000618_00038_22"/>Sicut habet se, nosse statum. Res ipsa monet me
+<pb xml:id="bsb00000618_00039" n="39"/><lb n="1" xml:id="bsb00000618_00039_1"/>Consilio parere tuo". Quis enim male credat
+<lb n="2" xml:id="bsb00000618_00039_2"/>Iuranti? – iurabat enim. Tunc ambo rogabant
+<lb n="3" xml:id="bsb00000618_00039_3"/>Infaustum iuvenem fallacis tecta tiranni
+<lb n="4" xml:id="bsb00000618_00039_4"/>Visere. Vix limen spondentis amica sed hostis
+<lb n="5" xml:id="bsb00000618_00039_5"/>Contigerat, tectus subito circumvolat hostis:
+<lb n="6" xml:id="bsb00000618_00039_6"/>Torvus Amartigenis, satus Antifrononte ducisque
+<lb n="7" xml:id="bsb00000618_00039_7"/>Intimus Apolide, iuvenem rapit atque revinctis
+<lb n="8" xml:id="bsb00000618_00039_8"/>Post tergum manibus comitante abducit Ofite.
+<lb n="9" xml:id="bsb00000618_00039_9"/>Sic pastor vincto pretentis cassibus agno
+<lb n="10" xml:id="bsb00000618_00039_10"/>Irritare lupum noctu solet; ille bidentis
+<lb n="11" xml:id="bsb00000618_00039_11"/>Crebris illectus balatibus advolat et spe
+<lb n="12" xml:id="bsb00000618_00039_12"/>Prede captus hiat, sed eum plaga precipitem mox
+<lb n="13" xml:id="bsb00000618_00039_13"/>Innectit nexumque tenet, dum rusticus acer
+<lb n="14" xml:id="bsb00000618_00039_14"/>Advenit et frustra temptantem evadere telo
+<lb n="15" xml:id="bsb00000618_00039_15"/>Traicit et stupidum perfosso preripit agnum.
+<lb n="16" xml:id="bsb00000618_00039_16"/>Cacus ut optatum consistere comminus hostem
+<lb n="17" xml:id="bsb00000618_00039_17"/>Vidit, „Io, comites, quante nos nostraque cure
+<lb n="18" xml:id="bsb00000618_00039_18"/>Sint superis", inquid „probat huius captio; quo non
+<lb n="19" xml:id="bsb00000618_00039_19"/>Capto mererem, sed rex videor mihi capto.
+<lb n="20" xml:id="bsb00000618_00039_20"/>Quam bene disposuit rex Agatus, ut miser hic me
+<lb n="21" xml:id="bsb00000618_00039_21"/>Deiceret solio! Dis inmortalibus esset
+<lb n="22" xml:id="bsb00000618_00039_22"/>Dedecus eternum meritoque fatisceret orbis,
+<lb n="23" xml:id="bsb00000618_00039_23"/>Hibrida, polluto si tu fruerere ducatu,
+<pb xml:id="bsb00000618_00040" n="40"/><lb n="1" xml:id="bsb00000618_00040_1"/>Qui Caco permissus erat; ceu siquis honeste
+<lb n="2" xml:id="bsb00000618_00040_2"/>Abstrahat armillam sponse scrofeque lutosas
+<lb n="3" xml:id="bsb00000618_00040_3"/>Ad nares transferre velit." Sic fatus et illum
+<lb n="4" xml:id="bsb00000618_00040_4"/>Tradit Amartigeni religatum colla catenis,
+<lb n="5" xml:id="bsb00000618_00040_5"/>Ut semper sit servus ei, nisi liberet illum
+<lb n="6" xml:id="bsb00000618_00040_6"/>Agatus, et dat ei regnum Babilonis; eodem
+<lb n="7" xml:id="bsb00000618_00040_7"/>Transtulit ille virum. Solimane ceptriger urbis
+<lb n="8" xml:id="bsb00000618_00040_8"/>Comperiens tantis deceptum fraudibus esse
+<lb n="9" xml:id="bsb00000618_00040_9"/>Dilectum iuvenem dolet et simul infremit ira.
+<lb n="10" xml:id="bsb00000618_00040_10"/>Multaque prequestus, quod non sibi caverit et quod
+<lb n="11" xml:id="bsb00000618_00040_11"/>Non exhorruerit contra sua iussa doloso
+<lb n="12" xml:id="bsb00000618_00040_12"/>Credere, Plirisophum, quo non industrior alter
+<lb n="13" xml:id="bsb00000618_00040_13"/>Inpigriorque fuit, quam vir seductus habebat,
+<lb n="14" xml:id="bsb00000618_00040_14"/>Custodire iubet sedem; versatilis illi
+<lb n="15" xml:id="bsb00000618_00040_15"/>Ensis erat sternens obstancia fulminis instar.
+<lb n="16" xml:id="bsb00000618_00040_16"/>At miser Antropus sub iniquo principe tentus,
+<lb n="17" xml:id="bsb00000618_00040_17"/>Ut tandem gemitus et tristia verba quierunt,
+<lb n="18" xml:id="bsb00000618_00040_18"/>Uxorem iunxit sibi, que, clarissime Tuda,
+<lb n="19" xml:id="bsb00000618_00040_19"/>Te peperit fratremque tuum; multum fit adultis
+<lb n="20" xml:id="bsb00000618_00040_20"/>Mens dispar vobis et discordatis ut olim
+<lb n="21" xml:id="bsb00000618_00040_21"/>Infelicis Ade geniti de semine fratres.
+<pb xml:id="bsb00000618_00041" n="41"/><lb n="1" xml:id="bsb00000618_00041_1"/>Et si forte tuas nondum pervenit ad aures
+<lb n="2" xml:id="bsb00000618_00041_2"/>Historia hec, dicam, quia et est dicenda iuvatque
+<lb n="3" xml:id="bsb00000618_00041_3"/>Aures bella pias. Hic solus non genitus vir
+<lb n="4" xml:id="bsb00000618_00041_4"/>Germanos – hec prima fuit generatio – binos
+<lb n="5" xml:id="bsb00000618_00041_5"/>Edidit, alter erat pastor gregis, alter arator;
+<lb n="6" xml:id="bsb00000618_00041_6"/>Nomen aratori Cain, Abel opilioni.
+<lb n="7" xml:id="bsb00000618_00041_7"/>Hic cum diverso ferrent libamina nutu,
+<lb n="8" xml:id="bsb00000618_00041_8"/>Abel dona deus contempto fratre recepit.
+<lb n="9" xml:id="bsb00000618_00041_9"/>Ille, velut fieri solet, ex melioris honore
+<lb n="10" xml:id="bsb00000618_00041_10"/>Lividus eque sua merens sine fine repulsa
+<lb n="11" xml:id="bsb00000618_00041_11"/>Insontem, nisi si summo placuisse reatus
+<lb n="12" xml:id="bsb00000618_00041_12"/>Dicitur, interimit: non secius aspera tigris
+<lb n="13" xml:id="bsb00000618_00041_13"/>Mortificat vitulum trepidumve rapax lupus agnum
+<lb n="14" xml:id="bsb00000618_00041_14"/>Instigante fame. Vox ilico sanguinis Abel
+<lb n="15" xml:id="bsb00000618_00041_15"/>It celo dominumque, suos qui vindicat omnes,
+<lb n="16" xml:id="bsb00000618_00041_16"/>Postulat ultorem. Cur, o manus impia, frustra
+<lb n="17" xml:id="bsb00000618_00041_17"/>In sanctos sevis extinguere lumina mundi
+<lb n="18" xml:id="bsb00000618_00041_18"/>Affectans? Certe plumbatis adde catastas,
+<pb xml:id="bsb00000618_00042" n="42"/><lb n="1" xml:id="bsb00000618_00042_1"/>Non tamen a domini, quos ipse gubernat, amore
+<lb n="2" xml:id="bsb00000618_00042_2"/>Secernes umquam. Non pensas, inprobe tortor,
+<lb n="3" xml:id="bsb00000618_00042_3"/>Qui sunt quos perimis? Nasci facit ista beatos
+<lb n="4" xml:id="bsb00000618_00042_4"/>Mors reprobosque mori. Sed nunc ad omissa revertor.
+<lb n="5" xml:id="bsb00000618_00042_5"/>Vos duo sicut adhuc sub Caco mente fuistis
+<lb n="6" xml:id="bsb00000618_00042_6"/>Principe diversa, tu nolens, ille libenter;
+<lb n="7" xml:id="bsb00000618_00042_7"/>Namque puer sevi mores laudare tiranni
+<lb n="8" xml:id="bsb00000618_00042_8"/>Cepit et, offendunt summum quecumque tonantem,
+<lb n="9" xml:id="bsb00000618_00042_9"/>Hoc didicit monitore libens: homicidia amare
+<lb n="10" xml:id="bsb00000618_00042_10"/>Et Sodomitarum ritu gaudere sinistro
+<lb n="11" xml:id="bsb00000618_00042_11"/>Celumque et terras et flumina credere plena
+<lb n="12" xml:id="bsb00000618_00042_12"/>Numinibus. Pro quo scelerum studio vehementer
+<lb n="13" xml:id="bsb00000618_00042_13"/>Carus erat Caco, tu spernens illa molestus.
+<lb n="14" xml:id="bsb00000618_00042_14"/>Agatus interea vestri sermone parentis
+<lb n="15" xml:id="bsb00000618_00042_15"/>Blando delusi casum miseratus ad istas
+<lb n="16" xml:id="bsb00000618_00042_16"/>Polipatrem terras sibi coniuncto magis acri
+<lb n="17" xml:id="bsb00000618_00042_17"/>Anphicopa solaturos te dirigit, atqui
+<lb n="18" xml:id="bsb00000618_00042_18"/>Insignes virtute viros, tamen hic magis asper
+<lb n="19" xml:id="bsb00000618_00042_19"/>Consiliis fuerat rigidoque minacior ore,
+<lb n="20" xml:id="bsb00000618_00042_20"/>Usque adeo celebs, ut precidenda pudicus
+<lb n="21" xml:id="bsb00000618_00042_21"/>Diceret incestum prepucia. Rex dedit illis
+<pb xml:id="bsb00000618_00043" n="43"/><lb n="1" xml:id="bsb00000618_00043_1"/>Mandatum, quod Amartigeni scelerumque magistro
+<lb n="2" xml:id="bsb00000618_00043_2"/>Deferrent Caco. Tu, quem dixi magis acrem, –
+<lb n="3" xml:id="bsb00000618_00043_3"/>Alter enim populis haut ignotus fuit istis –
+<lb n="4" xml:id="bsb00000618_00043_4"/>Accipis hospicio – satis esse memor potes, hec non
+<lb n="5" xml:id="bsb00000618_00043_5"/>Multum res vetus est – dictisque per omnia pares
+<lb n="6" xml:id="bsb00000618_00043_6"/>Hospitis Anphicope. Tuus hunc nec cernere curat
+<lb n="7" xml:id="bsb00000618_00043_7"/>Elluo germanus fedaque libidine fervens
+<lb n="8" xml:id="bsb00000618_00043_8"/>Gaudet eis pocius sociis, quibus omnia cordi
+<lb n="9" xml:id="bsb00000618_00043_9"/>Turpia, semper enim similis similem sibi querit
+<lb n="10" xml:id="bsb00000618_00043_10"/>Dissimilemque fugit. Ceu siquis vivere sancte
+<lb n="11" xml:id="bsb00000618_00043_11"/>Incestum moneat scurram scortoque pudicam
+<lb n="12" xml:id="bsb00000618_00043_12"/>Commendet vitam, non plus sibi conferat, ac si
+<lb n="13" xml:id="bsb00000618_00043_13"/>In spinis querat ficus, in vepribus uvas:
+<lb n="14" xml:id="bsb00000618_00043_14"/>Sic et monstrantem, quid honestum quid minus, Ethnis
+<lb n="15" xml:id="bsb00000618_00043_15"/>Flagiciis tectus cunctis linguaque manuque
+<lb n="16" xml:id="bsb00000618_00043_16"/>Impiger Anphicopam sprevit conviciaque ultro
+<lb n="17" xml:id="bsb00000618_00043_17"/>Addidit „Unde venit nobis novus iste magister,
+<lb n="18" xml:id="bsb00000618_00043_18"/>Tam serus studii, quem tunc venisse decebat,
+<lb n="19" xml:id="bsb00000618_00043_19"/>Cum primum exivit verbosus agagula predo?
+<pb xml:id="bsb00000618_00044" n="44"/><lb n="1" xml:id="bsb00000618_00044_1"/>Nempe trucidator vitatur iure petrinos
+<lb n="2" xml:id="bsb00000618_00044_2"/>Assuetus, si fama canit rata, sanguine cultros
+<lb n="3" xml:id="bsb00000618_00044_3"/>Humano temerare, docens ignota, cruentus
+<lb n="4" xml:id="bsb00000618_00044_4"/>Et mordax iuvenum censor. Quam raro fideles
+<lb n="5" xml:id="bsb00000618_00044_5"/>Sunt rufi" – nam rufus erat – „quam raro benigni!
+<lb n="6" xml:id="bsb00000618_00044_6"/>Qui sapit, hunc fugiat, vafer est et fraus alit ipsum,
+<lb n="7" xml:id="bsb00000618_00044_7"/>Iste die tota rixatur de nuce quassa,
+<lb n="8" xml:id="bsb00000618_00044_8"/>Denique quantum vult rapidus fluat". Ipseque crudus
+<lb n="9" xml:id="bsb00000618_00044_9"/>Antiphrononciades ambos despexit et illum
+<lb n="10" xml:id="bsb00000618_00044_10"/>Precipue tamen irrisit, quem scilicet ante
+<lb n="11" xml:id="bsb00000618_00044_11"/>Norat Polipatrem. Quem non clementer adortus
+<lb n="12" xml:id="bsb00000618_00044_12"/>„Tune, senex," ait „hunc nimis audax in mea duxti
+<lb n="13" xml:id="bsb00000618_00044_13"/>Regna meis libertatem conscissere servis?
+<lb n="14" xml:id="bsb00000618_00044_14"/>O hominem miserum, stolidum sine mente, ducatum
+<lb n="15" xml:id="bsb00000618_00044_15"/>Ut cuiquam prodesse suum putet? An, quia venit
+<lb n="16" xml:id="bsb00000618_00044_16"/>Te duce tutus erit, duce nutanti, duce ceco?
+<lb n="17" xml:id="bsb00000618_00044_17"/>Quos ego iam dudum teneo longumque tenebo
+<lb n="18" xml:id="bsb00000618_00044_18"/>Debentes servire michi Cacoque, putastis
+<lb n="19" xml:id="bsb00000618_00044_19"/>Tuque comesque tuus tam caute abducere? Laudem
+<pb xml:id="bsb00000618_00045" n="45"/><lb n="1" xml:id="bsb00000618_00045_1"/>Tunc sane vobis nimiam pareretis, at ingens –
+<lb n="2" xml:id="bsb00000618_00045_2"/>De damno taceo – michi dedecus; haut ita tute
+<lb n="3" xml:id="bsb00000618_00045_3"/>Eveniet, si vi sunt nobis eripiendi.
+<lb n="4" xml:id="bsb00000618_00045_4"/>Vis ea tristis erit multo de sanguine pugna.
+<lb n="5" xml:id="bsb00000618_00045_5"/>Vester nos contra bellum princeps geret, ut si
+<lb n="6" xml:id="bsb00000618_00045_6"/>Currendo celeres griphas celeresque volando
+<lb n="7" xml:id="bsb00000618_00045_7"/>Cristiger atemtet gallus vel sedula tortum
+<lb n="8" xml:id="bsb00000618_00045_8"/>In giros mordere velit formica draconem.
+<lb n="9" xml:id="bsb00000618_00045_9"/>Vos igitur ne vana duos spes erigat: ante
+<lb n="10" xml:id="bsb00000618_00045_10"/>Partus Danubium bibet et Germanus Hidaspen,
+<lb n="11" xml:id="bsb00000618_00045_11"/>Ante colet silvas delphinus stagnaque dente
+<lb n="12" xml:id="bsb00000618_00045_12"/>Transverso metuendus aper, quam, quod petitis vos,
+<lb n="13" xml:id="bsb00000618_00045_13"/>Fiat, ut hos linquam gratos mihi non tamen eque.
+<lb n="14" xml:id="bsb00000618_00045_14"/>Et si adeo tentos vester regnator amavit
+<lb n="15" xml:id="bsb00000618_00045_15"/>Sub dicione mea, ut vos, cur, mitteret ad me,
+<lb n="16" xml:id="bsb00000618_00045_16"/>Distulit usque modo, ceu tu garris, probus atque
+<lb n="17" xml:id="bsb00000618_00045_17"/>Obtimus? Hinc vero pietas inmensa probatur?
+<pb xml:id="bsb00000618_00046" n="46"/><lb n="1" xml:id="bsb00000618_00046_1"/>Captivis cupiens succurrere distulit hic, ut
+<lb n="2" xml:id="bsb00000618_00046_2"/>Si male vellet eis, cruciandi tempus haberet
+<lb n="3" xml:id="bsb00000618_00046_3"/>Prolixum dominans? Cui quo non eriperentur,
+<lb n="4" xml:id="bsb00000618_00046_4"/>Segniter affectans agiles belloque probatos,
+<lb n="5" xml:id="bsb00000618_00046_5"/>Deformem tremulumque senem rufumque fidelem,
+<lb n="6" xml:id="bsb00000618_00046_6"/>Vir bonus et prudens direxit; nempe iocosum
+<lb n="7" xml:id="bsb00000618_00046_7"/>Et risu dignum tales ad regia missos
+<lb n="8" xml:id="bsb00000618_00046_8"/>Iussa ferenda viris, mihi, quem vaga fama per omnes
+<lb n="9" xml:id="bsb00000618_00046_9"/>Iam fecit celebrem terras, Cacoque potenti.
+<lb n="10" xml:id="bsb00000618_00046_10"/>Nec tamen admiror, stolidos quod misit ineptus,
+<lb n="11" xml:id="bsb00000618_00046_11"/>Nec mihi, quos habeo, retinendi marcida spes est".
+<lb n="12" xml:id="bsb00000618_00046_12"/>Dixerat; at egra iam dudum mente volutat
+<lb n="13" xml:id="bsb00000618_00046_13"/>Verba ducis secumque fremens similisque dolenti
+<lb n="14" xml:id="bsb00000618_00046_14"/>Vir venerandus ait „Nequaquam cecus et amens
+<lb n="15" xml:id="bsb00000618_00046_15"/>Iure tibi videor, cum non sit cecus et amens,
+<lb n="16" xml:id="bsb00000618_00046_16"/>Qui videt atque sapit; quod membra vacillo, facit, que
+<lb n="17" xml:id="bsb00000618_00046_17"/>Omne quod est ortum labefactat, decolor etas.
+<lb n="18" xml:id="bsb00000618_00046_18"/>Non tamen ignoro penitus, quid strennua virtus
+<lb n="19" xml:id="bsb00000618_00046_19"/>Inter bella queat, somno neque semper inerti
+<lb n="20" xml:id="bsb00000618_00046_20"/>Parebam. Reges me parvula viderat Hoba,
+<pb xml:id="bsb00000618_00047" n="47"/><lb n="1" xml:id="bsb00000618_00047_1"/>Ut tu sat nosti, leva sita parte Damasci
+<lb n="2" xml:id="bsb00000618_00047_2"/>Bis binos, totidem quos regibus amplius uno
+<lb n="3" xml:id="bsb00000618_00047_3"/>Inclita comprensis hilararat palma, et eorum
+<lb n="4" xml:id="bsb00000618_00047_4"/>Agmina paulo plus uno medioque maniplo
+<lb n="5" xml:id="bsb00000618_00047_5"/>Sternere, ceu veteres nimbis nivibusque solutis
+<lb n="6" xml:id="bsb00000618_00047_6"/>Termodon ripas superans rapidusque Cinapes
+<lb n="7" xml:id="bsb00000618_00047_7"/>Precipitare solet quercus; predamque revexi
+<lb n="8" xml:id="bsb00000618_00047_8"/>Hostibus afflictis et totam letificavi
+<lb n="9" xml:id="bsb00000618_00047_9"/>Pentapolim. Tamen hoc quid confert, cum tibi viles
+<lb n="10" xml:id="bsb00000618_00047_10"/>Degeneresque adeo videamur? At o utinam me
+<lb n="11" xml:id="bsb00000618_00047_11"/>Solum carpsisses, non hunc quoque!" Non tulit ultra
+<lb n="12" xml:id="bsb00000618_00047_12"/>Sevus Hiperefanes – nam tunc ibi forte manebat
+<lb n="13" xml:id="bsb00000618_00047_13"/>Commentor scelerum – sed acerba concitus ira
+<lb n="14" xml:id="bsb00000618_00047_14"/>Sic ait „Huncne tibi tot reddere verba loquacem
+<lb n="15" xml:id="bsb00000618_00047_15"/>Barbatum et rapidi torrentis more fluentem?
+<lb n="16" xml:id="bsb00000618_00047_16"/>Quem nos – sed captum prestat servare suisque
+<pb xml:id="bsb00000618_00048" n="48"/><lb n="1" xml:id="bsb00000618_00048_1"/>Iungere cognatis; quem tu si linquere velles,
+<lb n="2" xml:id="bsb00000618_00048_2"/>Linquere non sinerem. Rex Agatus et satus ipso
+<lb n="3" xml:id="bsb00000618_00048_3"/>Hunc hominem vehementer amant; quem quando movere
+<lb n="4" xml:id="bsb00000618_00048_4"/>Cepimus, inceptum peragamus fortiter. Atqui
+<lb n="5" xml:id="bsb00000618_00048_5"/>Semper eis infensus eram semperque nocivus
+<lb n="6" xml:id="bsb00000618_00048_6"/>Ledere consiliis illos, si ledere possem
+<lb n="7" xml:id="bsb00000618_00048_7"/>Consiliis, studui. Nostro secessit ab illis
+<lb n="8" xml:id="bsb00000618_00048_8"/>Apolides suasu, varius quoque sensit Ophites,
+<lb n="9" xml:id="bsb00000618_00048_9"/>Quam fidus sibi fautor eram, cum fallere missus
+<lb n="10" xml:id="bsb00000618_00048_10"/>Incautum tandem me persuasore fefellit
+<lb n="11" xml:id="bsb00000618_00048_11"/>Antropum. Nunc hos retinendos censeo, namque
+<lb n="12" xml:id="bsb00000618_00048_12"/>Coniuncti genere non debent condicione
+<lb n="13" xml:id="bsb00000618_00048_13"/>Secerni, sequitur proles persepe parentes.
+<lb n="14" xml:id="bsb00000618_00048_14"/>Non dubium, tentis quin multum gaudeat istis
+<lb n="15" xml:id="bsb00000618_00048_15"/>Cacus, legatos quamquam ius ledere non sit.
+<lb n="16" xml:id="bsb00000618_00048_16"/>Nil agit, esse pius si vult, qui degit in aula".
+<lb n="17" xml:id="bsb00000618_00048_17"/>His instigatus monitis Babilonius heros
+<lb n="18" xml:id="bsb00000618_00048_18"/>Legatos tenet – insolitum – captos; ibi paucos
+<lb n="19" xml:id="bsb00000618_00048_19"/>Evolvens annos senior maturus obivit.
+<pb xml:id="bsb00000618_00049" n="49"/><lb n="1" xml:id="bsb00000618_00049_1"/>Tum vero Ramathus factis Cacique ducisque
+<lb n="2" xml:id="bsb00000618_00049_2"/>Illius infremuit. Nec iam legacio regi
+<lb n="3" xml:id="bsb00000618_00049_3"/>Ut primum tranquilla placet, ducibusque profanis
+<lb n="4" xml:id="bsb00000618_00049_4"/>Qui bellum indicam pro captis teque tuoque
+<lb n="5" xml:id="bsb00000618_00049_5"/>Fratre bonisque viris huc missis, e quibus alter
+<lb n="6" xml:id="bsb00000618_00049_6"/>Vivit adhuc misere, veteranus decidit alter,
+<lb n="7" xml:id="bsb00000618_00049_7"/>Huc me ex non paucis selectum dirigit. Ergo
+<lb n="8" xml:id="bsb00000618_00049_8"/>Curas mitte, malis finem faciet deus istis
+<lb n="9" xml:id="bsb00000618_00049_9"/>Ocius ac speras, maioraque gaudia magnas
+<lb n="10" xml:id="bsb00000618_00049_10"/>Vincent erumnas. Divinum respice Ioseph,
+<lb n="11" xml:id="bsb00000618_00049_11"/>Ut post invidiam fratrum, post carceris umbras,
+<lb n="12" xml:id="bsb00000618_00049_12"/>Quas insons subiit, Phariis regnavit in horis.
+<lb n="13" xml:id="bsb00000618_00049_13"/>Hoc laudis votum iocundus transtulit error
+<lb n="14" xml:id="bsb00000618_00049_14"/>Munus ad Ipolitum revocatum Peonis arte.
+<lb n="15" xml:id="bsb00000618_00049_15"/>Pensa, etiam duros sub iniquo rege labores
+<lb n="16" xml:id="bsb00000618_00049_16"/>Dilecti summo populi, Memphitica pro quo
+<lb n="17" xml:id="bsb00000618_00049_17"/>Plagas terra decem passa est, tandemque malignum
+<lb n="18" xml:id="bsb00000618_00049_18"/>Regem dimissos, quos ignis in aere duxit
+<pb xml:id="bsb00000618_00050" n="50"/><lb n="1" xml:id="bsb00000618_00050_1"/>Nocte, die nubes, fatalibus in mare rubrum
+<lb n="2" xml:id="bsb00000618_00050_2"/>Sectatum cuneis canit haut spernenda vestustas.
+<lb n="3" xml:id="bsb00000618_00050_3"/>Nempe dei cetus crudi post dira tiranni
+<lb n="4" xml:id="bsb00000618_00050_4"/>Tempora postque sacram celis rorantibus escam
+<lb n="5" xml:id="bsb00000618_00050_5"/>Et latices de rupe datos, quos fingitur Hammon
+<lb n="6" xml:id="bsb00000618_00050_6"/>Sirtibus in Libicis fudisse, deo duce terram
+<lb n="7" xml:id="bsb00000618_00050_7"/>Querens melliffluam per multa pericula, tandem
+<lb n="8" xml:id="bsb00000618_00050_8"/>Promissa letus potitur tellure colonus.'
+<lb n="9" xml:id="bsb00000618_00050_9"/>Nondum hec ex toto Moyses depromserat omni
+<lb n="10" xml:id="bsb00000618_00050_10"/>Ascultante domo, cum miles honestus et armis
+<lb n="11" xml:id="bsb00000618_00050_11"/>Inclitus Eleimon, quo consultore potiri
+<lb n="12" xml:id="bsb00000618_00050_12"/>Consuevit Ramathus solito ventura referre
+<lb n="13" xml:id="bsb00000618_00050_13"/>Set non cassa fide, plenum feritate cohortes
+<lb n="14" xml:id="bsb00000618_00050_14"/>Ducentem bis quinque Nomum prope nunciat esse.
+<lb n="15" xml:id="bsb00000618_00050_15"/>Ilicet arreptis heros letissimus armis
+<lb n="16" xml:id="bsb00000618_00050_16"/>Cornipedem scandit Moyses dapibusque videre
+<lb n="17" xml:id="bsb00000618_00050_17"/>Dilectum spretis festinat et, hospite frustra
+<lb n="18" xml:id="bsb00000618_00050_18"/>Pugnantem revocante, virum dum cernat et ipse
+<pb xml:id="bsb00000618_00051" n="51"/><lb n="1" xml:id="bsb00000618_00051_1"/>Secum armatus eat, ruit efferus haut aliter, quam
+<lb n="2" xml:id="bsb00000618_00051_2"/>In nemore Albano sevum cum murmurat ursa,
+<lb n="3" xml:id="bsb00000618_00051_3"/>Subiecta quamvis preda tum forte Molosus
+<lb n="4" xml:id="bsb00000618_00051_4"/>Vellicat audaci retro si dente frementem,
+<lb n="5" xml:id="bsb00000618_00051_5"/>Cessat subpositum versare canemque protervum
+<lb n="6" xml:id="bsb00000618_00051_6"/>Rictu Vulturno vehementior involat acri.
+<lb n="7" xml:id="bsb00000618_00051_7"/>Sic celer assumpto Moyses Eleimone frenis
+<lb n="8" xml:id="bsb00000618_00051_8"/>Tendit laxatis, sed postquam lumine claro
+<lb n="9" xml:id="bsb00000618_00051_9"/>Cernere erat celso socias in monte phalanges,
+<lb n="10" xml:id="bsb00000618_00051_10"/>'Acceleramus,' ait dux laudatissimus iste
+<lb n="11" xml:id="bsb00000618_00051_11"/>'Annuat ille modo, cui parent omnia; certus
+<lb n="12" xml:id="bsb00000618_00051_12"/>Advenit ereptor sub iniquo principe captis.
+<lb n="13" xml:id="bsb00000618_00051_13"/>Sed tamen admiror, cur non huc ipse veniret
+<lb n="14" xml:id="bsb00000618_00051_14"/>Messias, ut eos Caci bellando cruentis
+<lb n="15" xml:id="bsb00000618_00051_15"/>Eriperet manibus vel saltem, quem sibi fidum
+<lb n="16" xml:id="bsb00000618_00051_16"/>Cognoscit mage fratre suo, qui me bene quique
+<lb n="17" xml:id="bsb00000618_00051_17"/>Legates hilari suscepit mente priores'.
+<lb n="18" xml:id="bsb00000618_00051_18"/>Illi suspirans imo de pectore mitis
+<lb n="19" xml:id="bsb00000618_00051_19"/>Reddidit Eleimon 'Si sunt rata, que mihi dudum
+<lb n="20" xml:id="bsb00000618_00051_20"/>Agatus exposuit, que non rata non fore credo –
+<lb n="21" xml:id="bsb00000618_00051_21"/>Nescit enim nisi vera loqui –, durabit eorum
+<pb xml:id="bsb00000618_00052" n="52"/><lb n="1" xml:id="bsb00000618_00052_1"/>Captio, ter denis dum mundus et octo pruinis
+<lb n="2" xml:id="bsb00000618_00052_2"/>Horreat; hec Iudas, ut nunc est, tarda putabit
+<lb n="3" xml:id="bsb00000618_00052_3"/>Tempora germano gaudente quidem modo verum.
+<lb n="4" xml:id="bsb00000618_00052_4"/>Illo preteritam culpabit tempore vitam,
+<lb n="5" xml:id="bsb00000618_00052_5"/>Cum rex rege satus presens gerit aspera bella.
+<lb n="6" xml:id="bsb00000618_00052_6"/>Hic post dimidium iam dicti temporis orbi
+<lb n="7" xml:id="bsb00000618_00052_7"/>Pacifer adveniet; reliquos exegimus annos.
+<lb n="8" xml:id="bsb00000618_00052_8"/>Hoc autem sibi cur placeat, tibi non queo causam
+<lb n="9" xml:id="bsb00000618_00052_9"/>Reddere; quod vero dixisti, cur sibi fidum
+<lb n="10" xml:id="bsb00000618_00052_10"/>Vel Iudam non eriperet, te non latet esse
+<lb n="11" xml:id="bsb00000618_00052_11"/>Ignarum, Iude qualis sit vita futura.
+<lb n="12" xml:id="bsb00000618_00052_12"/>Nam predico tibi, si que predicere novi,
+<lb n="13" xml:id="bsb00000618_00052_13"/>Que non cassa putes: quando horrida prelia presens
+<lb n="14" xml:id="bsb00000618_00052_14"/>Moverit Agatides, pre cunctis sentiet hostem,
+<lb n="15" xml:id="bsb00000618_00052_15"/>Quem modo pre cunctis sibi iactas esse fidelem;
+<lb n="16" xml:id="bsb00000618_00052_16"/>Quique Iovis gipsum ceu verum numen adorat
+<lb n="17" xml:id="bsb00000618_00052_17"/>Atque manu factis petit Ethnis opem simulacris,
+<lb n="18" xml:id="bsb00000618_00052_18"/>Rectum sectari summumque timere tonantem
+<lb n="19" xml:id="bsb00000618_00052_19"/>Incipiet totusque deo famulabitur orbis'.
+<lb n="20" xml:id="bsb00000618_00052_20"/>Talia dum memorat vates doctissimus, ultra
+<lb n="21" xml:id="bsb00000618_00052_21"/>Quam satis est celerem dulci sermone retardat
+<lb n="22" xml:id="bsb00000618_00052_22"/>Et gratas sensis compellit adire cohortes.
+<lb n="23" xml:id="bsb00000618_00052_23"/>Interea sevus per dura, per ardua Cacus
+<lb n="24" xml:id="bsb00000618_00052_24"/>Discurrens oportuno iam tempore postquam
+<lb n="25" xml:id="bsb00000618_00052_25"/>Milite collecto latis Babilonis in arvis
+<pb xml:id="bsb00000618_00053" n="53"/><lb n="1" xml:id="bsb00000618_00053_1"/>Constitit et iamiam bellandi tempus adesse
+<lb n="2" xml:id="bsb00000618_00053_2"/>Comperit, inflatum sic est affatus Aplestem –
+<lb n="3" xml:id="bsb00000618_00053_3"/>Mos erat huius opes amplas terraque marique
+<lb n="4" xml:id="bsb00000618_00053_4"/>Quesitis dapibus consumere et eius in alvo
+<lb n="5" xml:id="bsb00000618_00053_5"/>Sepe timallus aprum, rombus capream, lupus ursum
+<lb n="6" xml:id="bsb00000618_00053_6"/>Litibus occultis pressabat – 'Dura procaces
+<lb n="7" xml:id="bsb00000618_00053_7"/>Ut magnum nobis lebusei bella minantur,
+<lb n="8" xml:id="bsb00000618_00053_8"/>Sed confido tamen, quia nos Victoria tristes
+<lb n="9" xml:id="bsb00000618_00053_9"/>Haut faciet. Die ergo meo mea nuncia Iude:
+<lb n="10" xml:id="bsb00000618_00053_10"/>Care, memento, licent quot quantaque nunc tibi quamque
+<lb n="11" xml:id="bsb00000618_00053_11"/>Acceptus semper nobis huc usque fuisti,
+<lb n="12" xml:id="bsb00000618_00053_12"/>Nec solvi cupias; numquam magis esse solutus,
+<lb n="13" xml:id="bsb00000618_00053_13"/>Quam nunc es, poteris, cum, que tibi cumque voluptas
+<lb n="14" xml:id="bsb00000618_00053_14"/>Suadat, liber agas; hinc, numina testor, ademptus
+<lb n="15" xml:id="bsb00000618_00053_15"/>Verus eris servus. Quam servicium premit acre,
+<pb xml:id="bsb00000618_00054" n="54"/><lb n="1" xml:id="bsb00000618_00054_1"/>Est mala libertas; quapropter, si sapis, omnem
+<lb n="2" xml:id="bsb00000618_00054_2"/>Ponens mesticiam canta, cantans epulare
+<lb n="3" xml:id="bsb00000618_00054_3"/>Cornigeroque satur muscho dispone cohortes!
+<lb n="4" xml:id="bsb00000618_00054_4"/>Sit tuus exemplo frater tibi, voce fideli
+<lb n="5" xml:id="bsb00000618_00054_5"/>Me dominum vocat ipse suum preceptaque nostra
+<lb n="6" xml:id="bsb00000618_00054_6"/>Mente gerit laeta nec numine fidit in uno
+<lb n="7" xml:id="bsb00000618_00054_7"/>Ipse deos faciens sibi, gaudet et utitur omni
+<lb n="8" xml:id="bsb00000618_00054_8"/>Blandicia, ut regem, non servum dicere possis.
+<lb n="9" xml:id="bsb00000618_00054_9"/>Securus quisquis que vult agit omnia, rex est.
+<lb n="10" xml:id="bsb00000618_00054_10"/>Hos fratris ritus imitare tueque magister
+<lb n="11" xml:id="bsb00000618_00054_11"/>Esto voluptati gratissimus et mea mecum
+<lb n="12" xml:id="bsb00000618_00054_12"/>Regna tene mecumque stude communia regna
+<lb n="13" xml:id="bsb00000618_00054_13"/>Defensare libens! Sevorum copia grandis
+<lb n="14" xml:id="bsb00000618_00054_14"/>Armorum et probitas invicta labore virorum
+<lb n="15" xml:id="bsb00000618_00054_15"/>Spem palme magnam mihi dant et numina nostre
+<lb n="16" xml:id="bsb00000618_00054_16"/>Cuncta favent parti.' Si ore locutus Aplesti
+<lb n="17" xml:id="bsb00000618_00054_17"/>Conflatum fulvo, quem Iude deferat, auro
+<lb n="18" xml:id="bsb00000618_00054_18"/>Dat vitulum; inde Iovem taurum finxisse poetas
+<lb n="19" xml:id="bsb00000618_00054_19"/>Autumo, quando bovem simulavit, Agenore natam
+<lb n="20" xml:id="bsb00000618_00054_20"/>Ut violaret amans, pars orbis tereia cuius
+<lb n="21" xml:id="bsb00000618_00054_21"/>Nomen habet. Fert ille datum sub pectore curas
+<pb xml:id="bsb00000618_00055" n="55"/><lb n="1" xml:id="bsb00000618_00055_1"/>Versanti dubias, bellum culpetne probetne
+<lb n="2" xml:id="bsb00000618_00055_2"/>Pro sese ceptum. Tandem sentencia Caci
+<lb n="3" xml:id="bsb00000618_00055_3"/>Edomuit malesuada virum mentemque reducit
+<lb n="4" xml:id="bsb00000618_00055_4"/>A primo rectore suo. Iam penitet acri
+<lb n="5" xml:id="bsb00000618_00055_5"/>Anphicope hospicium scripturarumque perito
+<lb n="6" xml:id="bsb00000618_00055_6"/>Concessisse larem Moysi, iam nomen abhorret
+<lb n="7" xml:id="bsb00000618_00055_7"/>Regis eoque sati diuturnaque servicia illi
+<lb n="8" xml:id="bsb00000618_00055_8"/>Sub Caco dominante placent et prorsus, ab illo
+<lb n="9" xml:id="bsb00000618_00055_9"/>Mutatus qui nuper erat, fit turpis ut Ethnis
+<lb n="10" xml:id="bsb00000618_00055_10"/>Ganeo, rixator, mechus cultorque deorum
+<lb n="11" xml:id="bsb00000618_00055_11"/>Cunctaque lascive probat oblectamina carnis.
+<lb n="12" xml:id="bsb00000618_00055_12"/>Ergo vir egregius modo factus apostata, Caci
+<lb n="13" xml:id="bsb00000618_00055_13"/>Precepta aggressus totum deducit edendo
+<lb n="14" xml:id="bsb00000618_00055_14"/>Atque bibendo diem ventremque ingurgitat album.
+<lb n="15" xml:id="bsb00000618_00055_15"/>Utque magis placeat ventri famulando cruentis
+<lb n="16" xml:id="bsb00000618_00055_16"/>Principibus, Moysi, bene quem susceperat ante,
+<lb n="17" xml:id="bsb00000618_00055_17"/>Derogat atque Nomo 'Dominos quid detinet illos?
+<lb n="18" xml:id="bsb00000618_00055_18"/>Vulgus iners, puto, preludunt pugnareque primum
+<lb n="19" xml:id="bsb00000618_00055_19"/>Discunt et discant; ego cunctis prefero certe
+<lb n="20" xml:id="bsb00000618_00055_20"/>Huius bella modi: canitur, potatur, amatur'.
+<lb n="21" xml:id="bsb00000618_00055_21"/>Sic dicens pateram tollit plenamque Lieo
+<lb n="22" xml:id="bsb00000618_00055_22"/>Inpiger evertit totamque domum stimulat se
+<pb xml:id="bsb00000618_00056" n="56"/><lb n="1" xml:id="bsb00000618_00056_1"/>Sic faciendo sequi; vacuant ingentia vasa
+<lb n="2" xml:id="bsb00000618_00056_2"/>Convive tenuesque ciphos, resalutat Aplestes.
+<lb n="3" xml:id="bsb00000618_00056_3"/>Post ubi multa dies iterumque iterumque repostis
+<lb n="4" xml:id="bsb00000618_00056_4"/>Absumpta est dapibus, iubet omnes surgere Cacus
+<lb n="5" xml:id="bsb00000618_00056_5"/>Parvos atque senes et festo carmine muscho
+<lb n="6" xml:id="bsb00000618_00056_6"/>Psallere cornigero. Surgunt letaque corona
+<lb n="7" xml:id="bsb00000618_00056_7"/>Circueunt variasque sonat petulancia voces,
+<lb n="8" xml:id="bsb00000618_00056_8"/>Sicut leta strepit prope mixtum melle Coapsin
+<lb n="9" xml:id="bsb00000618_00056_9"/>Grus inter cignos vacuove ciconia rostro,
+<lb n="10" xml:id="bsb00000618_00056_10"/>Aut ubi preceptor multos cantare scolares
+<lb n="11" xml:id="bsb00000618_00056_11"/>Erudit, ingenii prope vim discriminat omnes,
+<lb n="12" xml:id="bsb00000618_00056_12"/>Hi faciles, illi longas longo ordine neumas
+<lb n="13" xml:id="bsb00000618_00056_13"/>Discunt et varium strepitum dat dissona turba.
+<lb n="14" xml:id="bsb00000618_00056_14"/>Iamque propinquabant Solimani forcia regis
+<lb n="15" xml:id="bsb00000618_00056_15"/>Agmina et in planos serie decsendere longa
+<pb xml:id="bsb00000618_00057" n="57"/><lb n="1" xml:id="bsb00000618_00057_1"/>Montis prerupti superato vertice campos
+<lb n="2" xml:id="bsb00000618_00057_2"/>Ceperunt; ibi dum disiectas tramite turmas
+<lb n="3" xml:id="bsb00000618_00057_3"/>Angusto Moyses de more recolligit et dum
+<lb n="4" xml:id="bsb00000618_00057_4"/>Premonet, ut certo precedant ordine iuncti,
+<lb n="5" xml:id="bsb00000618_00057_5"/>Advolat Ektrifon, qui nunciat Apolidarum
+<lb n="6" xml:id="bsb00000618_00057_6"/>Signiferum Iudam coniuratumque malignis
+<lb n="7" xml:id="bsb00000618_00057_7"/>Hostibus et veri cultum liquisse tonantis
+<lb n="8" xml:id="bsb00000618_00057_8"/>Et Frigios muscho modulos cecinisse fabrili.
+<lb n="9" xml:id="bsb00000618_00057_9"/>Denique narrat eum velle inpugnare verendum
+<lb n="10" xml:id="bsb00000618_00057_10"/>Agaton et niti, quo longo tempore torvi
+<lb n="11" xml:id="bsb00000618_00057_11"/>Servus Amartigenis patriisque procul sit ab oris,
+<lb n="12" xml:id="bsb00000618_00057_12"/>Preterea multos ex illa parte coaetos
+<lb n="13" xml:id="bsb00000618_00057_13"/>Esse duces Caci socios et nominat illos:
+<lb n="14" xml:id="bsb00000618_00057_14"/>Antifrononciaden altoremque eius Aplestem
+<lb n="15" xml:id="bsb00000618_00057_15"/>Et Fuscum fortemque Aphilum fortemque Diglossam.
+<lb n="16" xml:id="bsb00000618_00057_16"/>Sevus Iperfanes iuvat hos censorque litandi
+<lb n="17" xml:id="bsb00000618_00057_17"/>Politeon pecoris – populos hic subdidit omnes
+<lb n="18" xml:id="bsb00000618_00057_18"/>Preter Pragmanos, primum quos cernit in ortu
+<pb xml:id="bsb00000618_00058" n="58"/><lb n="1" xml:id="bsb00000618_00058_1"/>Oppositum Geminis sol cum fugat Arcitenentem
+<lb n="2" xml:id="bsb00000618_00058_2"/>Dexteriora tenens – tenuique Crisargirus ore
+<lb n="3" xml:id="bsb00000618_00058_3"/>Et nimium Pirtalmus atrox, fert omnibus Ethnis
+<lb n="4" xml:id="bsb00000618_00058_4"/>Et Iudas malefidus opem, magnosque paratus
+<lb n="5" xml:id="bsb00000618_00058_5"/>Hostibus esse refert omnesque ad bella feroces.
+<lb n="6" xml:id="bsb00000618_00058_6"/>His stupet auditis Moyses et nobile quassans
+<lb n="7" xml:id="bsb00000618_00058_7"/>Tristi fronte caput clara sic voce profatur
+<lb n="8" xml:id="bsb00000618_00058_8"/>'Vera mihi, Eleymon, de Iuda vaticinatum
+<lb n="9" xml:id="bsb00000618_00058_9"/>Te fateor, nati Ramatho quod maximus hostis
+<lb n="10" xml:id="bsb00000618_00058_10"/>Fiat adhue, hoc nunc impletum dicere possis,
+<lb n="11" xml:id="bsb00000618_00058_11"/>Ni duo prepediant, quod in eius parte stat Ethnis
+<lb n="12" xml:id="bsb00000618_00058_12"/>Et nondum Agatites committit prelia presens.
+<lb n="13" xml:id="bsb00000618_00058_13"/>Sed quia tot tantique viri crudelia nobis
+<lb n="14" xml:id="bsb00000618_00058_14"/>Bella parant, nos tam paucos confligere non est
+<lb n="15" xml:id="bsb00000618_00058_15"/>In multos fortes cautum, quia stultus habetur,
+<lb n="16" xml:id="bsb00000618_00058_16"/>Non audax, temere quisquis pugnam facit, est hoc,
+<lb n="17" xml:id="bsb00000618_00058_17"/>Qui non consulte bellat. Nec ego hec loquor, ut qui
+<lb n="18" xml:id="bsb00000618_00058_18"/>Cetum formidem, cui causa istuc veniendi
+<lb n="19" xml:id="bsb00000618_00058_19"/>Pugna fuit, claramque mihi sic querere famam
+<lb n="20" xml:id="bsb00000618_00058_20"/>Non ego magna minor de me; res ipsa probabit,
+<lb n="21" xml:id="bsb00000618_00058_21"/>Quod valeam'. Simul hec dicens bellare paratum
+<pb xml:id="bsb00000618_00059" n="59"/><lb n="1" xml:id="bsb00000618_00059_1"/>Atque renitentem multumque diuque etiamque
+<lb n="2" xml:id="bsb00000618_00059_2"/>Iratum remanere Nomum vix cogit et ipse
+<lb n="3" xml:id="bsb00000618_00059_3"/>Inpiger assumpto pugnaci Eleimone nec non
+<lb n="4" xml:id="bsb00000618_00059_4"/>Levita cunctis somnoque meroque gravatis
+<lb n="5" xml:id="bsb00000618_00059_5"/>Et belli prorsus securis hostica noctu
+<lb n="6" xml:id="bsb00000618_00059_6"/>Castra petens primum preaeuta cuspide segnem
+<lb n="7" xml:id="bsb00000618_00059_7"/>Plagat Ieream, Iude vigilem, iugulisque
+<lb n="8" xml:id="bsb00000618_00059_8"/>Innumeris enses funesta cede cruentant
+<lb n="9" xml:id="bsb00000618_00059_9"/>Tres nullo prohibente viri calcantque peremptos
+<lb n="10" xml:id="bsb00000618_00059_10"/>Bisque decem tribus adiectis tentoria cesis
+<lb n="11" xml:id="bsb00000618_00059_11"/>Hostibus evacuant. Non segnius ac lupus acer
+<lb n="12" xml:id="bsb00000618_00059_12"/>Irrumpens noctu caulas, quas non bene pastor
+<lb n="13" xml:id="bsb00000618_00059_13"/>Muniit incautus, ringit solitamque cruentis
+<lb n="14" xml:id="bsb00000618_00059_14"/>Dentibus exercet rabiem laceratque ferina
+<lb n="15" xml:id="bsb00000618_00059_15"/>Mansuetum feritate gregem nec cogitat ulli
+<lb n="16" xml:id="bsb00000618_00059_16"/>Parcere, sed totum necat insaciatus ovile:
+<lb n="17" xml:id="bsb00000618_00059_17"/>Sic bellator atrox Moyses eiusque sequaces
+<lb n="18" xml:id="bsb00000618_00059_18"/>Sopitos cedendo fremunt. Sed et ipse scelestis
+<pb xml:id="bsb00000618_00060" n="60"/><lb n="1" xml:id="bsb00000618_00060_1"/>Iudas quod ducibus consensit, vulnere multo
+<lb n="2" xml:id="bsb00000618_00060_2"/>Afflictus viteque sue diffisus utrasque
+<lb n="3" xml:id="bsb00000618_00060_3"/>Ad celum tendit palmas oratque salutem.
+<lb n="4" xml:id="bsb00000618_00060_4"/>Illum seminecem suadente Eleymone liquit
+<lb n="5" xml:id="bsb00000618_00060_5"/>Magnanimus Moyses, sed cum iam tanta iaceret
+<lb n="6" xml:id="bsb00000618_00060_6"/>Cesorum strages et vastus ubique tumultus
+<lb n="7" xml:id="bsb00000618_00060_7"/>In castris fieret, prostratis pluribus hostes
+<lb n="8" xml:id="bsb00000618_00060_8"/>Diffugiunt ipsique duces formidine ceca
+<lb n="9" xml:id="bsb00000618_00060_9"/>Dispersi properant evadere, non aliter quam
+<lb n="10" xml:id="bsb00000618_00060_10"/>Remigio molli veniente per aera milvo
+<lb n="11" xml:id="bsb00000618_00060_11"/>Galline pulli horrescunt sparsique volatu
+<lb n="12" xml:id="bsb00000618_00060_12"/>Qualicumque domum penna trepidante requirunt.
+<lb n="13" xml:id="bsb00000618_00060_13"/>Sic eciam, cum rex Sirie Samarica vastis
+<lb n="14" xml:id="bsb00000618_00060_14"/>Agminibus circumsedisset menia, quadam
+<lb n="15" xml:id="bsb00000618_00060_15"/>Nocte deus belli strepitu perterruit hostes
+<lb n="16" xml:id="bsb00000618_00060_16"/>Inque fuga celeri fecit sperare salutem
+<lb n="17" xml:id="bsb00000618_00060_17"/>Monstrifera cedente fame. Tunc hoste fugato
+<lb n="18" xml:id="bsb00000618_00060_18"/>Victor seductum dictis castigat amaris
+<lb n="19" xml:id="bsb00000618_00060_19"/>Solaturque simul 'Ne desperes, bone Iuda', –
+<lb n="20" xml:id="bsb00000618_00060_20"/>Desperarat enim – 'properatam posse salutem
+<lb n="21" xml:id="bsb00000618_00060_21"/>Adventare tibi, nescit peccantibus in se
+<pb xml:id="bsb00000618_00061" n="61"/><lb n="1" xml:id="bsb00000618_00061_1"/>Restituisse vicem Ramathus, quem sepe videmus
+<lb n="2" xml:id="bsb00000618_00061_2"/>Adversos refovere sibi. Modo peniteat te
+<lb n="3" xml:id="bsb00000618_00061_3"/>A recta cessisse via partemque profani
+<lb n="4" xml:id="bsb00000618_00061_4"/>Laudavisse ducis, liceat mihi vera referre.
+<lb n="5" xml:id="bsb00000618_00061_5"/>Non, quod te decuit, fecisti, quem stabilem nos
+<lb n="6" xml:id="bsb00000618_00061_6"/>Et firme mentis rebamus. At amodo tantum
+<lb n="7" xml:id="bsb00000618_00061_7"/>Horrescas patrare nefas, age, clara potentis
+<lb n="8" xml:id="bsb00000618_00061_8"/>Castra Nomi repetas, cui non infortibus armis,
+<lb n="9" xml:id="bsb00000618_00061_9"/>Cum voluit, licuit misero tibi ferre salutem.
+<lb n="10" xml:id="bsb00000618_00061_10"/>Nam quod tunc nobis, animi mea cura, fuisse
+<lb n="11" xml:id="bsb00000618_00061_11"/>Credis, ut Atrifon celeri tua facta relatu
+<lb n="12" xml:id="bsb00000618_00061_12"/>Detexit, turbare meam dolor iraque mentem
+<lb n="13" xml:id="bsb00000618_00061_13"/>Ceperunt pariter, fremui belloque ferocem
+<lb n="14" xml:id="bsb00000618_00061_14"/>A bello prohibere Nomum conamine summo
+<lb n="15" xml:id="bsb00000618_00061_15"/>Nisus eram, sed vix illud tamen inpetravi;
+<lb n="16" xml:id="bsb00000618_00061_16"/>Nunc tamen adducam committere plurima pro te
+<lb n="17" xml:id="bsb00000618_00061_17"/>Prelia dispositum'. Dixit. Tunc inclitus ista
+<lb n="18" xml:id="bsb00000618_00061_18"/>Subdidit Eleimon 'Moysen tibi certa locutum
+<lb n="19" xml:id="bsb00000618_00061_19"/>Vera scias. Horrenda Nomo duce flendaque multis
+<pb xml:id="bsb00000618_00062" n="62"/><lb n="1" xml:id="bsb00000618_00062_1"/>Matribus his fient in campis prelia, post hunc
+<lb n="2" xml:id="bsb00000618_00062_2"/>Ingenio consurget Oron ventura canendi
+<lb n="3" xml:id="bsb00000618_00062_3"/>Prepollens belloque ferus; post forcia facta
+<lb n="4" xml:id="bsb00000618_00062_4"/>Illius eximie laudis pius Agatus, ut te
+<lb n="5" xml:id="bsb00000618_00062_5"/>Eripiat, mittet Messiam, tunc Iebusei
+<lb n="6" xml:id="bsb00000618_00062_6"/>Iudee in campis asperrima bella videbunt.'
+<lb n="7" xml:id="bsb00000618_00062_7"/>Hec ubi depromsit noti pietate per orbem
+<lb n="8" xml:id="bsb00000618_00062_8"/>Lingua viri prudens ac non ignara futuri,
+<lb n="9" xml:id="bsb00000618_00062_9"/>Iudas dimissus vultum similisque pudenti,
+<lb n="10" xml:id="bsb00000618_00062_10"/>Quippe pudenda videns se commisisse, spopondit
+<lb n="11" xml:id="bsb00000618_00062_11"/>Ulterius se non facturum talia, multa
+<lb n="12" xml:id="bsb00000618_00062_12"/>Inficians fidisque probris et voce paterna
+<lb n="13" xml:id="bsb00000618_00062_13"/>Inproperata sibi. Quo gaudens Omino, regis
+<lb n="14" xml:id="bsb00000618_00062_14"/>Consiliator, ait 'Video, mihi quod placet, istum
+<lb n="15" xml:id="bsb00000618_00062_15"/>Penitet admissi. Veniat Nomus et premat acri
+<lb n="16" xml:id="bsb00000618_00062_16"/>Congressu solitis innitens viribus hostes,
+<lb n="17" xml:id="bsb00000618_00062_17"/>Qui nostros homines affligunt seque tenere
+<lb n="18" xml:id="bsb00000618_00062_18"/>Iure fatentur eos, acres et cede piorum
+<lb n="19" xml:id="bsb00000618_00062_19"/>Numquam et supplicio saciati sanguine numquam.
+<lb n="20" xml:id="bsb00000618_00062_20"/>Utque hiat Hircanis in saltibus horrida tigris,
+<pb xml:id="bsb00000618_00063" n="63"/><lb n="1" xml:id="bsb00000618_00063_1"/>Que semel armenti pollutas sanguine fauces
+<lb n="2" xml:id="bsb00000618_00063_2"/>Semper habet cupidas hausti sine fine cruoris,
+<lb n="3" xml:id="bsb00000618_00063_3"/>Sic tibi, Cace ferox, insontes ledere numquam
+<lb n="4" xml:id="bsb00000618_00063_4"/>Sufficit, inmerita captorum pascere pena.
+<lb n="5" xml:id="bsb00000618_00063_5"/>Nec tamen hac feritate diu letabere, si me
+<lb n="6" xml:id="bsb00000618_00063_6"/>Vite auctor, deus, incolomem servaverit; omnis,
+<lb n="7" xml:id="bsb00000618_00063_7"/>Qui tumide petit alta, cadet. Voluere Gigantes
+<lb n="8" xml:id="bsb00000618_00063_8"/>Una mente poli pulsare cacumina quondam
+<lb n="9" xml:id="bsb00000618_00063_9"/>Sideria turri, sed virtus summa superbos
+<lb n="10" xml:id="bsb00000618_00063_10"/>Confundens lathomos, quod nomen huic dedit urbi,
+<lb n="11" xml:id="bsb00000618_00063_11"/>Ceptum linquere opus per dissona compulit ora.
+<lb n="12" xml:id="bsb00000618_00063_12"/>Inde poesis habet vero diversa sequentes
+<lb n="13" xml:id="bsb00000618_00063_13"/>Terrigenas validos Ossam et Pelion altum
+<pb xml:id="bsb00000618_00064" n="64"/><lb n="1" xml:id="bsb00000618_00064_1"/>Coniecisse super maiorem ambobus Olimpum
+<lb n="2" xml:id="bsb00000618_00064_2"/>Pellendis fera bella deis inferre volentes;
+<lb n="3" xml:id="bsb00000618_00064_3"/>Nec mora, Flegreis divum convenit in arvis
+<lb n="4" xml:id="bsb00000618_00064_4"/>Agmen et inmanes trifido Saturnius hostes
+<lb n="5" xml:id="bsb00000618_00064_5"/>Pulmine disiectos ardentbus indidit Ethne
+<lb n="6" xml:id="bsb00000618_00064_6"/>Speluncis. Ad te redeo, qui plurima vastans
+<lb n="7" xml:id="bsb00000618_00064_7"/>Regna Giganteis bachare ferocior ausis,
+<lb n="8" xml:id="bsb00000618_00064_8"/>Apolide. Tantum ne te tua prospera tollant,
+<lb n="9" xml:id="bsb00000618_00064_9"/>Inprobe! Non semper mollis cadit arbore sorba.
+<lb n="10" xml:id="bsb00000618_00064_10"/>Atqui tempus erit, quo tu de clade bonorum
+<lb n="11" xml:id="bsb00000618_00064_11"/>Nunc gaudens doleas exempta clade bonorum'.
+<lb n="12" xml:id="bsb00000618_00064_12"/>Sic ait atque Nomum Moyse comitante revisit.
+<lb n="13" xml:id="bsb00000618_00064_13"/>Explicit liber primus. Incipit secundus.
+</ab></div>
+<div type="part"><ab>
+<pb xml:id="bsb00000618_00065" n="65"/><lb n="1" xml:id="bsb00000618_00065_1"/>Iam nitidum referente iubar Titane fugantur
+<lb n="2" xml:id="bsb00000618_00065_2"/>Sidera et humenti noctis caligine pulsa
+<lb n="3" xml:id="bsb00000618_00065_3"/>Clara dies aperit clausum mortalibus orbem,
+<lb n="4" xml:id="bsb00000618_00065_4"/>Cum subito volucris funesta per atria rumor
+<lb n="5" xml:id="bsb00000618_00065_5"/>Spargitur Apolide Solimani regis adesse
+<lb n="6" xml:id="bsb00000618_00065_6"/>Prevalidas aeies et tristia bella minantes.
+<lb n="7" xml:id="bsb00000618_00065_7"/>Protinus armatas frendens ad signa cohortes
+<lb n="8" xml:id="bsb00000618_00065_8"/>Cogit et audaci committere prelia dextra
+<lb n="9" xml:id="bsb00000618_00065_9"/>Hortatur parte promittens maxima palme
+<lb n="10" xml:id="bsb00000618_00065_10"/>Premia, seque viros acres bellique scientes
+<lb n="11" xml:id="bsb00000618_00065_11"/>Agricolas contra pugnaturos docet, et quos
+<lb n="12" xml:id="bsb00000618_00065_12"/>Cultus inornatus, facies nigra, pallor in ore
+<lb n="13" xml:id="bsb00000618_00065_13"/>Luridus ignavos probet, utque suis animatis
+<lb n="14" xml:id="bsb00000618_00065_14"/>Mens assurgat, eos collaudat et increpat hostes.
+<lb n="15" xml:id="bsb00000618_00065_15"/>Preterea meminisse suos monet esse tuenda
+<lb n="16" xml:id="bsb00000618_00065_16"/>Multa sibi, patriam, uxores natosque domosque,
+<lb n="17" xml:id="bsb00000618_00065_17"/>Utque voluptatem solitam retinere – voluptas
+<lb n="18" xml:id="bsb00000618_00065_18"/>Res illis gratissima erat – valeant et amoris
+<lb n="19" xml:id="bsb00000618_00065_19"/>Oblectamentis carni predulcibus uti.
+<pb xml:id="bsb00000618_00066" n="66"/><lb n="1" xml:id="bsb00000618_00066_1"/>Iamque videbantur validi propiare manipli
+<lb n="2" xml:id="bsb00000618_00066_2"/>Principis invicti clipeique et cetera multo
+<lb n="3" xml:id="bsb00000618_00066_3"/>Sole repercusso nituerunt arma decore
+<lb n="4" xml:id="bsb00000618_00066_4"/>Belligerumque levi nubes consurgit equorum
+<lb n="5" xml:id="bsb00000618_00066_5"/>Pulvere commoto pedibus. Babilonius heros
+<lb n="6" xml:id="bsb00000618_00066_6"/>Aeri mente tumens nec curat in urbe manere
+<lb n="7" xml:id="bsb00000618_00066_7"/>Hostiles cuneos, sed in equis milite lecto
+<lb n="8" xml:id="bsb00000618_00066_8"/>Fortunam temptare suam magis eligit arvis.
+<lb n="9" xml:id="bsb00000618_00066_9"/>Omnibus ergo ruit portis armata iuventus,
+<lb n="10" xml:id="bsb00000618_00066_10"/>Ac veluti siciens algentem corniger undam
+<lb n="11" xml:id="bsb00000618_00066_11"/>Cervus anhelanti cursu festinat adire,
+<lb n="12" xml:id="bsb00000618_00066_12"/>Haut secus infausti bellum dira agmina Caci
+<lb n="13" xml:id="bsb00000618_00066_13"/>Exoptant animique tument. Iam clangit utrimque
+<lb n="14" xml:id="bsb00000618_00066_14"/>Bucina et infestis concurritur undique signis.
+<lb n="15" xml:id="bsb00000618_00066_15"/>Concursu crispata crepant hastilia primo
+<lb n="16" xml:id="bsb00000618_00066_16"/>Missaque tela volant, dein sevos comminus enses
+<lb n="17" xml:id="bsb00000618_00066_17"/>Stringentes certant et, dum certatur utrimque,
+<lb n="18" xml:id="bsb00000618_00066_18"/>Fit strages cumulata virum. Moysi inpigra regem
+<lb n="19" xml:id="bsb00000618_00066_19"/>Interimit manus Amonosim, Nomus acer Acastum,
+<pb xml:id="bsb00000618_00067" n="67"/><lb n="1" xml:id="bsb00000618_00067_1"/>Sother Linglaum; gladio violentus Acastus,
+<lb n="2" xml:id="bsb00000618_00067_2"/>Linglaus iaculo cadit, alta rector in unda,
+<lb n="3" xml:id="bsb00000618_00067_3"/>Quem Moyses trepide fugientem perculit hasta
+<lb n="4" xml:id="bsb00000618_00067_4"/>Atque cavis inmersit aquis, tumidumque tiranni
+<lb n="5" xml:id="bsb00000618_00067_5"/>Aurigam cesi dominoque favere parantem
+<lb n="6" xml:id="bsb00000618_00067_6"/>Demisit Stratona neci. Ferit ense cruento
+<lb n="7" xml:id="bsb00000618_00067_7"/>Euzelus Datan in nullo dissimilem illi,
+<lb n="8" xml:id="bsb00000618_00067_8"/>Legibus adversum quem terra obsurbuit; unde
+<lb n="9" xml:id="bsb00000618_00067_9"/>Infernos penetrasse domos finxere poetę
+<lb n="10" xml:id="bsb00000618_00067_10"/>Anfioraon, amans munus quem prodidit uxor.
+<lb n="11" xml:id="bsb00000618_00067_11"/>Nunc magis Euzelo pius aut servancior equi
+<lb n="12" xml:id="bsb00000618_00067_12"/>Nullus erat nec degit adhuc; dumque acria miscet
+<lb n="13" xml:id="bsb00000618_00067_13"/>Prelia, multorum post funera facta cruenta
+<pb xml:id="bsb00000618_00068" n="68"/><lb n="1" xml:id="bsb00000618_00068_1"/>Cuspide pugnacem Moyses proturbat Aplestem.
+<lb n="2" xml:id="bsb00000618_00068_2"/>Nec minus ille gravi ferientem repulit hasta
+<lb n="3" xml:id="bsb00000618_00068_3"/>Et circumspiciens saxum grave corripit inque
+<lb n="4" xml:id="bsb00000618_00068_4"/>Adversum misit collatis viribus hostem.
+<lb n="5" xml:id="bsb00000618_00068_5"/>Quod vir prevalidus parma cedente recepit,
+<lb n="6" xml:id="bsb00000618_00068_6"/>Vixque stetit titubante gradu, nil ille moratus
+<lb n="7" xml:id="bsb00000618_00068_7"/>Ictum iterat vulnusque librat, sed precipit illum
+<lb n="8" xml:id="bsb00000618_00068_8"/>Belliger ense minax et forti sauciat ictu
+<lb n="9" xml:id="bsb00000618_00068_9"/>Munitos thorace humeros, et forsitan Orco
+<lb n="10" xml:id="bsb00000618_00068_10"/>Misisset lesum, si non truculentus adesset
+<lb n="11" xml:id="bsb00000618_00068_11"/>Antifrononciades. Iuvenilibus ille lacertis
+<lb n="12" xml:id="bsb00000618_00068_12"/>Inflixit Moysi letale per intima ventris
+<lb n="13" xml:id="bsb00000618_00068_13"/>Vulnus et ancipiti transegit Viscera telo.
+<lb n="14" xml:id="bsb00000618_00068_14"/>Ille tamen moriens insignem sustulit orbem
+<lb n="15" xml:id="bsb00000618_00068_15"/>Donavitque Nomo celatum mira relatu.
+<lb n="16" xml:id="bsb00000618_00068_16"/>Quod deus ex nichilo fecisset cuncta, diebus
+<lb n="17" xml:id="bsb00000618_00068_17"/>Sol ibi fulgebat, currebant fulmina, terras
+<lb n="18" xml:id="bsb00000618_00068_18"/>Ingens occeanus cinxit, triplicemque quaternis
+<lb n="19" xml:id="bsb00000618_00068_19"/>Cernere erat liquide discretum partibus orbem
+<lb n="20" xml:id="bsb00000618_00068_20"/>Factaque priscorum magna argumenta virorum;
+<pb xml:id="bsb00000618_00069" n="69"/><lb n="1" xml:id="bsb00000618_00069_1"/>Inter que cunctis animantibus in cataclismo
+<lb n="2" xml:id="bsb00000618_00069_2"/>Deletis, nisi que Noe collegerat, arca
+<lb n="3" xml:id="bsb00000618_00069_3"/>Tollebatur aqua coopertis montibus, unde
+<lb n="4" xml:id="bsb00000618_00069_4"/>Deucalionei processit fabula nimbi.
+<lb n="5" xml:id="bsb00000618_00069_5"/>Labitur egregius Moyses, haut illius inpar,
+<lb n="6" xml:id="bsb00000618_00069_6"/>De Pelusiacis bis sex qui previus arvis
+<lb n="7" xml:id="bsb00000618_00069_7"/>Per deserta tribus spacioso tempore duxit
+<lb n="8" xml:id="bsb00000618_00069_8"/>Ignotumque deo meruit tumulante sepulcrum.
+<lb n="9" xml:id="bsb00000618_00069_9"/>Succedit Moysi, quem fecit gloria belli
+<lb n="10" xml:id="bsb00000618_00069_10"/>Regibus et populis celebrem per climata mundi,
+<lb n="11" xml:id="bsb00000618_00069_11"/>Magnanimus Sother. Illi clipeus fuit omnem
+<lb n="12" xml:id="bsb00000618_00069_12"/>Virtutem Iosue depictus et horrida bella:
+<lb n="13" xml:id="bsb00000618_00069_13"/>Ut tumida occubuit Iericho, cum sola meretrix
+<lb n="14" xml:id="bsb00000618_00069_14"/>Non cecidisse suas, quia sic voluit deus, edes
+<lb n="15" xml:id="bsb00000618_00069_15"/>Letabatur, ibi Gabaon populosa suaque
+<pb xml:id="bsb00000618_00070" n="70"/><lb n="1" xml:id="bsb00000618_00070_1"/>Eternum famosa fide, mirabile dictu,
+<lb n="2" xml:id="bsb00000618_00070_2"/>Sole morante dies extenditur, esse putares
+<lb n="3" xml:id="bsb00000618_00070_3"/>Veros quos pinxit radios manus; unde Micenis
+<lb n="4" xml:id="bsb00000618_00070_4"/>Fingitur aversus cenam fugisse Thieste
+<lb n="5" xml:id="bsb00000618_00070_5"/>Aut quod eam noctem geminavit Iupiter, in qua
+<lb n="6" xml:id="bsb00000618_00070_6"/>Alcide pressit genitricem. Strennuus isto
+<lb n="7" xml:id="bsb00000618_00070_7"/>Munitus Sother scuto metit inpiger omnes
+<lb n="8" xml:id="bsb00000618_00070_8"/>Oppositos; ceu sevus aper, cum colligit iram,
+<lb n="9" xml:id="bsb00000618_00070_9"/>Fulmineo rapidos invadit dente Molosos,
+<lb n="10" xml:id="bsb00000618_00070_10"/>Non homines non tela timet, sed in ipsa paventis
+<lb n="11" xml:id="bsb00000618_00070_11"/>Spumanti rictu venabula nititur hostis,
+<lb n="12" xml:id="bsb00000618_00070_12"/>Sic in confertas Sother ruit efferus alas
+<pb xml:id="bsb00000618_00071" n="71"/><lb n="1" xml:id="bsb00000618_00071_1"/>Et stravit ferro reges regumque catervas.
+<lb n="2" xml:id="bsb00000618_00071_2"/>Effudit validumque Iabin validumque Iaphian,
+<lb n="3" xml:id="bsb00000618_00071_3"/>Dux erat iste Lachis, dux ille potens fuit Asor;
+<lb n="4" xml:id="bsb00000618_00071_4"/>His adiungit Hiram famosum et milite multo
+<lb n="5" xml:id="bsb00000618_00071_5"/>Pollentem Seon, ampli quem gloria regni
+<lb n="6" xml:id="bsb00000618_00071_6"/>Fecit et ubertas inmensa tumescere rerum.
+<lb n="7" xml:id="bsb00000618_00071_7"/>Isque ubi Sotherea letum capiencia dextra
+<lb n="8" xml:id="bsb00000618_00071_8"/>Corpora tanta ducum rivosque cruoris ab uno
+<lb n="9" xml:id="bsb00000618_00071_9"/>Fusi inpune viro videt, 'Optime ductor, an omnes
+<lb n="10" xml:id="bsb00000618_00071_10"/>Claram perdemus hodie cum corpore famam?
+<lb n="11" xml:id="bsb00000618_00071_11"/>Tergane semiviris, fuimus quibus ante timori.'
+<lb n="12" xml:id="bsb00000618_00071_12"/>Exclamat 'dabimus Iebuseis? Rustica nostras
+<lb n="13" xml:id="bsb00000618_00071_13"/>Inpugnant acies examina; prospice, numquem
+<lb n="14" xml:id="bsb00000618_00071_14"/>Inter eos videas ortum de sanguine equestri.
+<lb n="15" xml:id="bsb00000618_00071_15"/>Hic evaginant gladios, quibus esset aratrum
+<lb n="16" xml:id="bsb00000618_00071_16"/>Conveniens regere et longos sulcando ligones;
+<lb n="17" xml:id="bsb00000618_00071_17"/>Apta gerunt colaphis a summo vertice rasi
+<lb n="18" xml:id="bsb00000618_00071_18"/>Colla, breves etiam non tecto poplite vestes,
+<pb xml:id="bsb00000618_00072" n="72"/><lb n="1" xml:id="bsb00000618_00072_1"/>Ut Satiros saltare putes; pro Iupiter, hi nos
+<lb n="2" xml:id="bsb00000618_00072_2"/>Ut stipulas nullo detenti vulnere calcant
+<lb n="3" xml:id="bsb00000618_00072_3"/>Sub pedibus? Si sic ageremur cede virorum,
+<lb n="4" xml:id="bsb00000618_00072_4"/>Damnum esset levius ferremque eger minus, at nunc
+<lb n="5" xml:id="bsb00000618_00072_5"/>Indignor stupeoque simul'. Dum talia iactat,
+<lb n="6" xml:id="bsb00000618_00072_6"/>Vulnificum Sother vibrans hastile per ora
+<lb n="7" xml:id="bsb00000618_00072_7"/>'Ut stupeas, faciamus', ait 'quandoque nocere
+<lb n="8" xml:id="bsb00000618_00072_8"/>Rustica tela queunt equiti' pariter loquacis
+<lb n="9" xml:id="bsb00000618_00072_9"/>Impedit ora ducis iaculo per guttura misso.
+<lb n="10" xml:id="bsb00000618_00072_10"/>Tum vero exarsit nec voci iręve pepercit
+<lb n="11" xml:id="bsb00000618_00072_11"/>Sevus Amartigenis volucrique simillimus Austro
+<lb n="12" xml:id="bsb00000618_00072_12"/>Sothera bellantem fatali cuspide turbans
+<lb n="13" xml:id="bsb00000618_00072_13"/>'Ecquid', ait 'Sother, nondum de sanguine nostro
+<lb n="14" xml:id="bsb00000618_00072_14"/>Hausisti satis? an te inpune, miserrime, reris
+<lb n="15" xml:id="bsb00000618_00072_15"/>Tot stravisse duces et tanta cadavera telis
+<lb n="16" xml:id="bsb00000618_00072_16"/>Obtrivisse tuis? Moysi te fama ferebat,
+<lb n="17" xml:id="bsb00000618_00072_17"/>Ut memini, – nec erat vanum, quod fama ferebat
+<lb n="18" xml:id="bsb00000618_00072_18"/>Et quod Amartigenes meminit ferus – esse sodalem,
+<lb n="19" xml:id="bsb00000618_00072_19"/>Eius, quem nuper pallentibus addidit umbris
+<lb n="20" xml:id="bsb00000618_00072_20"/>Ista manus; nimium, qui te moriendo preivit,
+<lb n="21" xml:id="bsb00000618_00072_21"/>Prosequeris lente, sed ni fractis mihi desim
+<lb n="22" xml:id="bsb00000618_00072_22"/>Viribus, horribilem moriendo sequeris ad Orcum
+<lb n="23" xml:id="bsb00000618_00072_23"/>Premissum socium'. Sic fatur et appetit hasta
+<pb xml:id="bsb00000618_00073" n="73"/><lb n="1" xml:id="bsb00000618_00073_1"/>Pugnantem ac valido nequicquam corpore contra
+<lb n="2" xml:id="bsb00000618_00073_2"/>Nitentem, tamen haut cito vincitur, utpote qui non
+<lb n="3" xml:id="bsb00000618_00073_3"/>Segniter infensum mucrone repelleret hostem
+<lb n="4" xml:id="bsb00000618_00073_4"/>Ancipiti; pugnant et uterque viriliter, ille
+<lb n="5" xml:id="bsb00000618_00073_5"/>Fulmineo ense minax, hic nodosa acrior hasta
+<lb n="6" xml:id="bsb00000618_00073_6"/>Conflixere mora – tanta est industria – longa.
+<lb n="7" xml:id="bsb00000618_00073_7"/>Ut cum fidentem robusto corpore taurum
+<lb n="8" xml:id="bsb00000618_00073_8"/>Aggreditur forti leo pectore, pugnat uterque
+<lb n="9" xml:id="bsb00000618_00073_9"/>Acriter, hic cauda metuendus, cornibus ille;
+<lb n="10" xml:id="bsb00000618_00073_10"/>Hic ferit, ille petit nec cessant, donec abire
+<lb n="11" xml:id="bsb00000618_00073_11"/>Alterutrum sua deficiens fiducia cogit.
+<lb n="12" xml:id="bsb00000618_00073_12"/>Sed dum prevalidis invicti viribus ambo
+<lb n="13" xml:id="bsb00000618_00073_13"/>Certavere duces sudore fluente per artus
+<lb n="14" xml:id="bsb00000618_00073_14"/>Sotheris, ah nimium nimiumque sibi Iebuseus
+<lb n="15" xml:id="bsb00000618_00073_15"/>Confidens hastam truncare parabat adacto
+<lb n="16" xml:id="bsb00000618_00073_16"/>Funeream ferro, sed caucior ille retracta
+<lb n="17" xml:id="bsb00000618_00073_17"/>Cuspide frustratum fugiente per ilia pilo
+<lb n="18" xml:id="bsb00000618_00073_18"/>Enecat. Exultant Caldei, ad sidera clamor
+<lb n="19" xml:id="bsb00000618_00073_19"/>Tollitur et multa victorem laude coronant
+<lb n="20" xml:id="bsb00000618_00073_20"/>'Antifrononciades sacrata cuspide leto
+<lb n="21" xml:id="bsb00000618_00073_21"/>Bina dedit nostre nimium facientia parti
+<lb n="22" xml:id="bsb00000618_00073_22"/>Corpora', psallentes 'sed pergite, gratia qua vos
+<lb n="23" xml:id="bsb00000618_00073_23"/>Eterni ducat regis, gaudeteque semper,
+<lb n="24" xml:id="bsb00000618_00073_24"/>Felices anime, licet heu patris acta luatis,
+<lb n="25" xml:id="bsb00000618_00073_25"/>Sed tamen ad tempus. Dum fertilis in mare curret
+<pb xml:id="bsb00000618_00074" n="74"/><lb n="1" xml:id="bsb00000618_00074_1"/>Eufrates et dum per tempora quatuor anni
+<lb n="2" xml:id="bsb00000618_00074_2"/>Solaris stabili volventur secula ciclo,
+<lb n="3" xml:id="bsb00000618_00074_3"/>Nomina perpetuum durabunt vestra per evum
+<lb n="4" xml:id="bsb00000618_00074_4"/>Et vos magnificis cum scriptis fama loquetur.'
+<lb n="5" xml:id="bsb00000618_00074_5"/>Postquam milicie Ramathi cecidere columne,
+<lb n="6" xml:id="bsb00000618_00074_6"/>Famosi virtute viri, Babilonia pubes
+<lb n="7" xml:id="bsb00000618_00074_7"/>Auspice successu solito magis aspera sevit.
+<lb n="8" xml:id="bsb00000618_00074_8"/>Acer Politeon et crudelissimus armis
+<lb n="9" xml:id="bsb00000618_00074_9"/>Antifrononte satus cumque illis turgidus Ethnis
+<lb n="10" xml:id="bsb00000618_00074_10"/>Sternunt Iudaicas funesta cede phalanges
+<lb n="11" xml:id="bsb00000618_00074_11"/>Disiunguntque globos legionum, iamque parabant
+<lb n="12" xml:id="bsb00000618_00074_12"/>Agatide temptare fugam, tunc nobilis heros,
+<lb n="13" xml:id="bsb00000618_00074_13"/>Cui Crito nomen erat, Moysi de semine cretus,
+<lb n="14" xml:id="bsb00000618_00074_14"/>Prosiliens 'Que vos agitat dementia, quonam
+<lb n="15" xml:id="bsb00000618_00074_15"/>Exanimes ruitis? Densa inter milia' clamat
+<lb n="16" xml:id="bsb00000618_00074_16"/>'Non pudet ignava circum formidine pelli?
+<lb n="17" xml:id="bsb00000618_00074_17"/>His monstris non me Panocius – inspice torvum
+<pb xml:id="bsb00000618_00075" n="75"/><lb n="1" xml:id="bsb00000618_00075_1"/>Politeona! – magis Sciticus terreret, ut illi
+<lb n="2" xml:id="bsb00000618_00075_2"/>Tota mole graves cooperti corporis aures
+<lb n="3" xml:id="bsb00000618_00075_3"/>Diffundunt, aut quos Getulia fertur habere
+<lb n="4" xml:id="bsb00000618_00075_4"/>Vicinos, agiles, pedibus qui corpus obumbrant
+<lb n="5" xml:id="bsb00000618_00075_5"/>Scinopodes totum, aut oculatus Lemnia pectus.
+<lb n="6" xml:id="bsb00000618_00075_6"/>Illorum similes hos possis dicere, si non
+<lb n="7" xml:id="bsb00000618_00075_7"/>Bissina fuscorum decoraret membra lacerna
+<lb n="8" xml:id="bsb00000618_00075_8"/>Et ferrugineo vestis variata colore
+<lb n="9" xml:id="bsb00000618_00075_9"/>Lutea. State, viri, vulgo nec cedat inermi
+<lb n="10" xml:id="bsb00000618_00075_10"/>Bellis apta manus ferroque accincta iuventus!
+<lb n="11" xml:id="bsb00000618_00075_11"/>State nec indecorem vobis concedite palmam
+<lb n="12" xml:id="bsb00000618_00075_12"/>Hostibus et tantum ne formidetis eorum
+<lb n="13" xml:id="bsb00000618_00075_13"/>Defectum virtute gregem! Plus strennuus unus
+<lb n="14" xml:id="bsb00000618_00075_14"/>Confert quam resides in sollicitudine mille;
+<lb n="15" xml:id="bsb00000618_00075_15"/>Adiuvat audaces fortuna, gravatur inertes.
+<lb n="16" xml:id="bsb00000618_00075_16"/>Quid moror? Este viri! Si me ductore paratis
+<lb n="17" xml:id="bsb00000618_00075_17"/>Conspirare, nigros exheredabimus istos
+<lb n="18" xml:id="bsb00000618_00075_18"/>Ethiopum populos'. Dixit, pardoque fugaci
+<pb xml:id="bsb00000618_00076" n="76"/><lb n="1" xml:id="bsb00000618_00076_1"/>Ocior alipedem calcaribus urget adactis
+<lb n="2" xml:id="bsb00000618_00076_2"/>Disiectosque fugat Caldeos acer et unctum
+<lb n="3" xml:id="bsb00000618_00076_3"/>Politeona ferit, valido qui saucius ictu
+<lb n="4" xml:id="bsb00000618_00076_4"/>Egreditur pugna. Cernentes talia – quidni?
+<lb n="5" xml:id="bsb00000618_00076_5"/>Plus movet exemplum quam suasio multa paventes –
+<lb n="6" xml:id="bsb00000618_00076_6"/>Acrius Agatide pugnant, ferit ense Sirorum
+<lb n="7" xml:id="bsb00000618_00076_7"/>Gothoniel satrapam, cui prolatu grave nomen
+<lb n="8" xml:id="bsb00000618_00076_8"/>Barbara lingua dedit. Fuit atro Gothonieli
+<lb n="9" xml:id="bsb00000618_00076_9"/>Doxius auxilio tanta inter milia pugnans
+<lb n="10" xml:id="bsb00000618_00076_10"/>Solus utraque manu ceu dextra, paupere quamvis
+<lb n="11" xml:id="bsb00000618_00076_11"/>Velatus sua membra sago, tamen aspera movit
+<lb n="12" xml:id="bsb00000618_00076_12"/>Prelia. Quem contra Nabateis finibus ortus
+<lb n="13" xml:id="bsb00000618_00076_13"/>Prosiliens Egon tumido sic ore profatur
+<lb n="14" xml:id="bsb00000618_00076_14"/>'Quo, miserande, ruis, cui non est lancea, non est
+<lb n="15" xml:id="bsb00000618_00076_15"/>Vulnificus mucro? Que tanta socordia mentem
+<pb xml:id="bsb00000618_00077" n="77"/><lb n="1" xml:id="bsb00000618_00077_1"/>Cepit, ut ad pugnam peregrino rasile lignum
+<lb n="2" xml:id="bsb00000618_00077_2"/>Apcius afferres?' Fustem videt hostis et hostem
+<lb n="3" xml:id="bsb00000618_00077_3"/>Ense carere putat, qui non caret ense; dolonem,
+<lb n="4" xml:id="bsb00000618_00077_4"/>Quod donavit ei nomen dolus, ipse repostum
+<lb n="5" xml:id="bsb00000618_00077_5"/>In baculo gestans. Atque addit 'Pallida monstrat
+<lb n="6" xml:id="bsb00000618_00077_6"/>Te medicum facies, aut hec exotica pixis
+<lb n="7" xml:id="bsb00000618_00077_7"/>Efficit aut certe quoniam sugendo minutor
+<lb n="8" xml:id="bsb00000618_00077_8"/>Elicis egroti – dictu quoque turpe – cruorem
+<lb n="9" xml:id="bsb00000618_00077_9"/>Sicut hirudo tenax.' Tunc pectore Doxius acri
+<lb n="10" xml:id="bsb00000618_00077_10"/>Subridens 'Premit aut ornat sua quemque facultas;
+<lb n="11" xml:id="bsb00000618_00077_11"/>Cui non est sonipes, aiunt, pede pergat oportet,
+<lb n="12" xml:id="bsb00000618_00077_12"/>Et nos adtulimus baculum, quia defuit ensis.
+<lb n="13" xml:id="bsb00000618_00077_13"/>Sed quia sum medicus, nimio tibi sanguine pullas
+<lb n="14" xml:id="bsb00000618_00077_14"/>Flebothemo venas temptabo ferire minutor'.
+<lb n="15" xml:id="bsb00000618_00077_15"/>Fatur et hostili capulo tenus apdit in alvo
+<pb xml:id="bsb00000618_00078" n="78"/><lb n="1" xml:id="bsb00000618_00078_1"/>Ancipitem sicam crassosque eviscerat artus;
+<lb n="2" xml:id="bsb00000618_00078_2"/>Stridit aqualiculus, stridunt prepinguia sica
+<lb n="3" xml:id="bsb00000618_00078_3"/>Viscera versata ferventi sanguine contra,
+<lb n="4" xml:id="bsb00000618_00078_4"/>Ut lacus inmerso stricta cum forpice ferro
+<lb n="5" xml:id="bsb00000618_00078_5"/>Ignito fervere solet, quantove per artum
+<lb n="6" xml:id="bsb00000618_00078_6"/>Ebullit spina stridore lageus adempta.
+<lb n="7" xml:id="bsb00000618_00078_7"/>Et dum per medias rumpens Crito fortiter alas
+<lb n="8" xml:id="bsb00000618_00078_8"/>Dimicat atque ducum tristi dat corpora leto,
+<lb n="9" xml:id="bsb00000618_00078_9"/>Torvus Amartigenes, fortunatissimus armis,
+<lb n="10" xml:id="bsb00000618_00078_10"/>Incursans alacrem sic eminus inquit ad hostem
+<lb n="11" xml:id="bsb00000618_00078_11"/>'En tuus in bello, Crito, – depone arma! – magister!
+<lb n="12" xml:id="bsb00000618_00078_12"/>Quo tegeris, nostrum – non nostrum iure, sed ista
+<lb n="13" xml:id="bsb00000618_00078_13"/>Affirmat sic esse manus – scutum cito redde,
+<lb n="14" xml:id="bsb00000618_00078_14"/>Redde cito, miser!' Ille refert 'Tua dextra fatetur
+<lb n="15" xml:id="bsb00000618_00078_15"/>Hoc scutum esse tuum, non sic mea dextra; fatetur
+<lb n="16" xml:id="bsb00000618_00078_16"/>Munimen dignum me defensore, sub hoc me
+<lb n="17" xml:id="bsb00000618_00078_17"/>Oppetere aut alios satius prosternere quam sic
+<lb n="18" xml:id="bsb00000618_00078_18"/>Ut pecus hostili iugulandum dedere dextre
+<lb n="19" xml:id="bsb00000618_00078_19"/>Robustasque manus ad vincula feda plicare.
+<lb n="20" xml:id="bsb00000618_00078_20"/>Ast ubi me vita hec defecerit, hoc sibi Iudas
+<lb n="21" xml:id="bsb00000618_00078_21"/>Pignus amicicie semper, volo, servet.' At ille
+<lb n="22" xml:id="bsb00000618_00078_22"/>'Et Iudas meus est, bene laudo, sed hoc male laudo,
+<pb xml:id="bsb00000618_00079" n="79"/><lb n="1" xml:id="bsb00000618_00079_1"/>Tot nostros socios quod manibus addere nigris
+<lb n="2" xml:id="bsb00000618_00079_2"/>Ausus es; illorum tu vulnera vulnere pendes
+<lb n="3" xml:id="bsb00000618_00079_3"/>Inferiasque tuo sument de sanguine, ut ultis
+<lb n="4" xml:id="bsb00000618_00079_4"/>Errandum non sit longis ambagibus umbris,
+<lb n="5" xml:id="bsb00000618_00079_5"/>Sed certas habitent sedes.' Nec plura locutus
+<lb n="6" xml:id="bsb00000618_00079_6"/>Tendit in adversum stricto mucrone, sed ille
+<lb n="7" xml:id="bsb00000618_00079_7"/>Iam licet incassum Borea avertente sagittam
+<lb n="8" xml:id="bsb00000618_00079_8"/>Miserat, unde fremens ductor Babilonius 'At tu
+<lb n="9" xml:id="bsb00000618_00079_9"/>Cercius aecipies, mea quod tibi dextera donat'
+<lb n="10" xml:id="bsb00000618_00079_10"/>Inquit, et invicto caput hostis contudit ense
+<lb n="11" xml:id="bsb00000618_00079_11"/>Infringens levem cono cedente galerum
+<lb n="12" xml:id="bsb00000618_00079_12"/>Ac subicit frendens 'Adamantem corpore duro
+<lb n="13" xml:id="bsb00000618_00079_13"/>Obstructum tueare licet rituve Acheloi
+<lb n="14" xml:id="bsb00000618_00079_14"/>Nutere aut simules variantem Prothea vultus,
+<lb n="15" xml:id="bsb00000618_00079_15"/>Non sic effugies; scelerum dabis, impie, penas.'
+<lb n="16" xml:id="bsb00000618_00079_16"/>His dictis ictum fortem dedit atque trilicem
+<lb n="17" xml:id="bsb00000618_00079_17"/>Loricam penetrans humeros a pectore vellit.
+<lb n="18" xml:id="bsb00000618_00079_18"/>Protinus extincto radiantem corpore parmam
+<lb n="19" xml:id="bsb00000618_00079_19"/>Diripit et celeri percurrit non sine laude
+<pb xml:id="bsb00000618_00080" n="80"/><lb n="1" xml:id="bsb00000618_00080_1"/>Picturam visu. Celebrem celaverat illic
+<lb n="2" xml:id="bsb00000618_00080_2"/>Artificis Gedeona manus vellusque videres
+<lb n="3" xml:id="bsb00000618_00080_3"/>Et mirabiliter terris arentibus udum
+<lb n="4" xml:id="bsb00000618_00080_4"/>Et mirabiliter terra madida undique siccum.
+<lb n="5" xml:id="bsb00000618_00080_5"/>Quin et Samsonis dura inter brachia nutat
+<lb n="6" xml:id="bsb00000618_00080_6"/>Exspirare leo compulsus frugiferique
+<lb n="7" xml:id="bsb00000618_00080_7"/>Vulpibus inmissis ardent cum vitibus agri,
+<lb n="8" xml:id="bsb00000618_00080_8"/>Allophilum tum mille viros prosternit aselli
+<lb n="9" xml:id="bsb00000618_00080_9"/>Mandibula claususque ruit – res mira relatu –
+<lb n="10" xml:id="bsb00000618_00080_10"/>Fertque humeris Gaze portas; post inclita facta
+<lb n="11" xml:id="bsb00000618_00080_11"/>Dalila perdit eum. Virtutem transtulit istam
+<lb n="12" xml:id="bsb00000618_00080_12"/>Error ad Alciden Millesius: eius, ut aiunt,
+<lb n="13" xml:id="bsb00000618_00080_13"/>Pervigil occubuit clava draco rexque tricorpor
+<lb n="14" xml:id="bsb00000618_00080_14"/>Occidit inque sua iactura dicior Idra,
+<pb xml:id="bsb00000618_00081" n="81"/><lb n="1" xml:id="bsb00000618_00081_1"/>Terruit umbrarum regem Arpiasque fugavit,
+<lb n="2" xml:id="bsb00000618_00081_2"/>Antheum Libicos populantem perculit agros
+<lb n="3" xml:id="bsb00000618_00081_3"/>Et Cacum Tuscos; post forcia gesta cremavit
+<lb n="4" xml:id="bsb00000618_00081_4"/>Deianira virum. Clipeus defertur Iude,
+<lb n="5" xml:id="bsb00000618_00081_5"/>Tradidit ille Nomo. Postquam belli Crito nodus
+<lb n="6" xml:id="bsb00000618_00081_6"/>Opeciit nec iam rabiem potuere cruenti
+<lb n="7" xml:id="bsb00000618_00081_7"/>Ferre ducis, Ramathi retro cessere cohortes:
+<lb n="8" xml:id="bsb00000618_00081_8"/>Ut contra cursum rapidi cum ducitur amnis
+<lb n="9" xml:id="bsb00000618_00081_9"/>Puppis et adversa veniencia flamina parte,
+<lb n="10" xml:id="bsb00000618_00081_10"/>Tum si forte rudens vento fluetuque carina
+<lb n="11" xml:id="bsb00000618_00081_11"/>Tardata nimium distentus rumpitur, et vi
+<lb n="12" xml:id="bsb00000618_00081_12"/>Flaminis et fluvii vasto ratis inpete pulsa
+<lb n="13" xml:id="bsb00000618_00081_13"/>Remige nequicquam clamante 'Tenete!' recurrit.
+<lb n="14" xml:id="bsb00000618_00081_14"/>Instant Apolide cedentibus, asperat acres
+<lb n="15" xml:id="bsb00000618_00081_15"/>Bellantum mentes successus, tergaque cedunt
+<lb n="16" xml:id="bsb00000618_00081_16"/>Palantum et dietis mordacibus hostica pungunt
+<lb n="17" xml:id="bsb00000618_00081_17"/>Pectora 'Deiecti, segnes, timidi, fugitivi,
+<lb n="18" xml:id="bsb00000618_00081_18"/>Sic nos iam dudum, sic vos pugnare decebat.
+<lb n="19" xml:id="bsb00000618_00081_19"/>Vobis gesta prius probat exitus, esse deorum
+<lb n="20" xml:id="bsb00000618_00081_20"/>Aspernatores et ficte non dubitastis
+<pb xml:id="bsb00000618_00082" n="82"/><lb n="1" xml:id="bsb00000618_00082_1"/>Vivere; non semper bonitas simulata latebit.
+<lb n="2" xml:id="bsb00000618_00082_2"/>Expectate, viri! Vellemus pauca locuti
+<lb n="3" xml:id="bsb00000618_00082_3"/>Plura loqui vobis. Audistis? State parumper!'
+<lb n="4" xml:id="bsb00000618_00082_4"/>Talibus irrident fugientes, quoque caterve
+<lb n="5" xml:id="bsb00000618_00082_5"/>Pollebant doctore, Nomum pluresque potentes
+<lb n="6" xml:id="bsb00000618_00082_6"/>Plectendos capiunt aut bogis colla terendos.
+<lb n="7" xml:id="bsb00000618_00082_7"/>Iamque hilares turme superatis hostibus urbem
+<lb n="8" xml:id="bsb00000618_00082_8"/>Ingenti repetunt strepitu palmaque superbi
+<lb n="9" xml:id="bsb00000618_00082_9"/>Psallant atque litant divis omnesque per aras
+<lb n="10" xml:id="bsb00000618_00082_10"/>Tura adolent geniumque vocant Bachumque frequentant
+<lb n="11" xml:id="bsb00000618_00082_11"/>Deducuntque epulando diem. Sol pronus in altum
+<lb n="12" xml:id="bsb00000618_00082_12"/>Vergebat, non totus adhuc sed parte videndus
+<lb n="13" xml:id="bsb00000618_00082_13"/>Exigua, quantum nova seu prope mense peracto
+<lb n="14" xml:id="bsb00000618_00082_14"/>Lima nitoris habet, cum tanta e strage virorum
+<lb n="15" xml:id="bsb00000618_00082_15"/>Nobilis Eleimon vatem tutante supremo
+<lb n="16" xml:id="bsb00000618_00082_16"/>Adveniens Ramatho gemitu lacrimabile mixto
+<lb n="17" xml:id="bsb00000618_00082_17"/>Nunciat acta ducum suadetque, ut mittat Orontem,
+<lb n="18" xml:id="bsb00000618_00082_18"/>Qui pugnam reparet captosque reducere temptet.
+<lb n="19" xml:id="bsb00000618_00082_19"/>Consilium regi placuit multaque probatum
+<lb n="20" xml:id="bsb00000618_00082_20"/>Virtute, hostiles recidiva in bella catervas
+<lb n="21" xml:id="bsb00000618_00082_21"/>Qui poscat pugne securas, mittit Orontem.
+<lb n="22" xml:id="bsb00000618_00082_22"/>Ille bis octonas sic rege iubente cohortes
+<lb n="23" xml:id="bsb00000618_00082_23"/>Armat et Eufraten ductor petit acer in armis.
+<pb xml:id="bsb00000618_00083" n="83"/><lb n="1" xml:id="bsb00000618_00083_1"/>Ut subitus rumor Iebuseos esse propinquos
+<lb n="2" xml:id="bsb00000618_00083_2"/>Nunciat,' En iterum vulgus desiderat illud –
+<lb n="3" xml:id="bsb00000618_00083_3"/>Namque equites non iure vocem, quos cultus et ipsa
+<lb n="4" xml:id="bsb00000618_00083_4"/>Ruricolas monstrat facies, – dare terga secundo,
+<lb n="5" xml:id="bsb00000618_00083_5"/>Nec satis est unum confusis dedecus;' inquit
+<lb n="6" xml:id="bsb00000618_00083_6"/>Apolides 'demus, quod avent, et nota capessant
+<lb n="7" xml:id="bsb00000618_00083_7"/>Arma viri. Capite arma, viri! Vos denuo palma
+<lb n="8" xml:id="bsb00000618_00083_8"/>Poscit parta semel; iam iam mente auguror – et quod
+<lb n="9" xml:id="bsb00000618_00083_9"/>Auguror, illud erit – victores nos fore.' Necdum
+<lb n="10" xml:id="bsb00000618_00083_10"/>Finierat, mediis dictis intercipit Ethnis
+<lb n="11" xml:id="bsb00000618_00083_11"/>'Et mihi non minor est palme spes; at tamen ut mens
+<lb n="12" xml:id="bsb00000618_00083_12"/>Sit magis ampla tuis, Parcarum, precipe, fila
+<lb n="13" xml:id="bsb00000618_00083_13"/>Consulat Ermadolon perplexaque fata deorum.
+<lb n="14" xml:id="bsb00000618_00083_14"/>Nullus eo melior misteria Manibus atris
+<lb n="15" xml:id="bsb00000618_00083_15"/>Exprimere et sagas archana rogare volucres
+<lb n="16" xml:id="bsb00000618_00083_16"/>Fatorum vel in Assiria pendere mathesi,
+<lb n="17" xml:id="bsb00000618_00083_17"/>Visurus, quid Plias agat Trivieque molestus
+<lb n="18" xml:id="bsb00000618_00083_18"/>Imbrifer Orion crinitaque stella cometes,
+<pb xml:id="bsb00000618_00084" n="84"/><lb n="1" xml:id="bsb00000618_00084_1"/>Aut tripodas Phebi aut tergencia, si cupit, exta
+<lb n="2" xml:id="bsb00000618_00084_2"/>Visere'. Conclamant omnes et dura sororum
+<lb n="3" xml:id="bsb00000618_00084_3"/>Licia divino rimari pectore mixtim
+<lb n="4" xml:id="bsb00000618_00084_4"/>Vociferando iubent; tantus petit alta tumultus,
+<lb n="5" xml:id="bsb00000618_00084_5"/>Quantus, Caucaseas cum Chorus et orrifer Eurus
+<lb n="6" xml:id="bsb00000618_00084_6"/>Certatim silvas quaciunt, dum robora curvant
+<lb n="7" xml:id="bsb00000618_00084_7"/>Dumque levant, fragor esse solet. Iam sole propinquo
+<lb n="8" xml:id="bsb00000618_00084_8"/>Astra diem fugiunt surgensque ex equore Titan
+<lb n="9" xml:id="bsb00000618_00084_9"/>Celsum cernit Aton, tum, sicut gentis erat mos,
+<lb n="10" xml:id="bsb00000618_00084_10"/>Flamen procedens redimitus timpora vittis
+<lb n="11" xml:id="bsb00000618_00084_11"/>Primum vix moto breve quiddam ruminat ore,
+<lb n="12" xml:id="bsb00000618_00084_12"/>Inde scrobes ternas faciens – tibi, Iupiter, unam,
+<lb n="13" xml:id="bsb00000618_00084_13"/>Unam Neptuno, dis infernalibus unam –
+<lb n="14" xml:id="bsb00000618_00084_14"/>Scalpit humum ter ad alta oculos, ter versus ad ima
+<lb n="15" xml:id="bsb00000618_00084_15"/>Inmissaque mola taurum necat; eruta cuius
+<pb xml:id="bsb00000618_00085" n="85"/><lb n="1" xml:id="bsb00000618_00085_1"/>Viscera condit humi fossisque inmurmurat atris
+<lb n="2" xml:id="bsb00000618_00085_2"/>Et ringit cultroque secat sua membra cietque
+<lb n="3" xml:id="bsb00000618_00085_3"/>Horridus effuso Phebeum sanguine numen.
+<lb n="4" xml:id="bsb00000618_00085_4"/>Exiliit visis interpres callidus extis
+<lb n="5" xml:id="bsb00000618_00085_5"/>Letior exclamans 'Multum tibi, maxime Pean,
+<lb n="6" xml:id="bsb00000618_00085_6"/>Omnigenisque deis debemus, quippe secunde
+<lb n="7" xml:id="bsb00000618_00085_7"/>Res michi monstrantur: pars hostica marcida torpet
+<lb n="8" xml:id="bsb00000618_00085_8"/>Inproba, nostra micat. „Io", bis „io" dicite, cuncti,
+<lb n="9" xml:id="bsb00000618_00085_9"/>Magnificate deos! Mihi se Pasithea litanti
+<lb n="10" xml:id="bsb00000618_00085_10"/>Ostendit letam, certa est victoria nobis.'
+<lb n="11" xml:id="bsb00000618_00085_11"/>His dictis arrecti animi bellumque iuventus
+<lb n="12" xml:id="bsb00000618_00085_12"/>Exoptant et, seve, tibi, Gradive, iuvencum
+<lb n="13" xml:id="bsb00000618_00085_13"/>Prestantem mactant, vaccam tibi, torva virago,
+<lb n="14" xml:id="bsb00000618_00085_14"/>Qualis es, anguina cum celas casside vultum
+<lb n="15" xml:id="bsb00000618_00085_15"/>Et belli cupiens niveum tegis egide corpus.
+<lb n="16" xml:id="bsb00000618_00085_16"/>Iamque pii regis pubes armata videri
+<lb n="17" xml:id="bsb00000618_00085_17"/>A longe poterat, directa domare tyrannos
+<lb n="18" xml:id="bsb00000618_00085_18"/>Unius verique dei firmissima cultrix,
+<lb n="19" xml:id="bsb00000618_00085_19"/>Et magis ac vicina magis fulgentibus armis
+<pb xml:id="bsb00000618_00086" n="86"/><lb n="1" xml:id="bsb00000618_00086_1"/>Indubitata fuit, Getica cum sevior ursa
+<lb n="2" xml:id="bsb00000618_00086_2"/>Alipedem Cacus rapit et 'Mea tollite' dixit
+<lb n="3" xml:id="bsb00000618_00086_3"/>'Signa, viri, latisque alacres erumpite portis!'
+<lb n="4" xml:id="bsb00000618_00086_4"/>Parent precepto leti cunctasque per urbem
+<lb n="5" xml:id="bsb00000618_00086_5"/>Erumpunt portas, velud olim vividus amnis
+<lb n="6" xml:id="bsb00000618_00086_6"/>Duris obstructus palis arcenteque clausus
+<lb n="7" xml:id="bsb00000618_00086_7"/>Sepe ruit vehemens tumidoque repagula fluctu
+<lb n="8" xml:id="bsb00000618_00086_8"/>Exuperans, quacumque patet locus, inpiger exit
+<lb n="9" xml:id="bsb00000618_00086_9"/>Atque viam parat ipse sibi. Crudele secundo
+<lb n="10" xml:id="bsb00000618_00086_10"/>Bellum oritur tristique sono fera classica utrosque
+<lb n="11" xml:id="bsb00000618_00086_11"/>Exacuunt. Sed non, quamvis exercitus esset
+<lb n="12" xml:id="bsb00000618_00086_12"/>Amplior, hostiles in se tot funera partes,
+<lb n="13" xml:id="bsb00000618_00086_13"/>Quot videre prius, nam plus virtutis habebat
+<lb n="14" xml:id="bsb00000618_00086_14"/>Turma prior; bello tamen haut cito victor in isto
+<lb n="15" xml:id="bsb00000618_00086_15"/>Extitit Apolides, et utrimque miserrima cedes
+<lb n="16" xml:id="bsb00000618_00086_16"/>Commissa est. Vasti membris animisque Gethei
+<lb n="17" xml:id="bsb00000618_00086_17"/>Corpore non animo parvus de sanguine mixto
+<lb n="18" xml:id="bsb00000618_00086_18"/>Iesseius torta lapidem in cava timpora funda
+<pb xml:id="bsb00000618_00087" n="87"/><lb n="1" xml:id="bsb00000618_00087_1"/>Misit; qui lapsus tremefacto pectore lata
+<lb n="2" xml:id="bsb00000618_00087_2"/>Ilice glandifera texit produccior arva.
+<lb n="3" xml:id="bsb00000618_00087_3"/>Cum caderet, tellus tremuit magnamque ruinam
+<lb n="4" xml:id="bsb00000618_00087_4"/>Corporis inmensi moles dedit, ut diuturno
+<lb n="5" xml:id="bsb00000618_00087_5"/>Dilabens evo, que celum vertice pulsat,
+<lb n="6" xml:id="bsb00000618_00087_6"/>Impete precipitis Circi petit infima turris.
+<lb n="7" xml:id="bsb00000618_00087_7"/>Accurrit victor strictoque viriliter ense
+<lb n="8" xml:id="bsb00000618_00087_8"/>Amputat obnixe lentissima colla precantis.
+<lb n="9" xml:id="bsb00000618_00087_9"/>Nec mirum dextra tantum cecidisse gigantem
+<lb n="10" xml:id="bsb00000618_00087_10"/>Iesseii; qui cum puer esset, tristibus ursis
+<lb n="11" xml:id="bsb00000618_00087_11"/>Intulit atque lupis mortem domuitque leones.
+<lb n="12" xml:id="bsb00000618_00087_12"/>Ad Larisseum stilus hoc gentilis Achillem
+<lb n="13" xml:id="bsb00000618_00087_13"/>Transtulit, ipse etiam, citaram citharedus habebat.
+<lb n="14" xml:id="bsb00000618_00087_14"/>Qua Davit regis mentem sedavit atrocem,
+<lb n="15" xml:id="bsb00000618_00087_15"/>Nec quisquam melior magnorum facta virorum
+<lb n="16" xml:id="bsb00000618_00087_16"/>Inclita, cum voluit, fidibus replicare canoris.
+<pb xml:id="bsb00000618_00088" n="88"/><lb n="1" xml:id="bsb00000618_00088_1"/>Sed non tanta virum dura inter prelia virtus
+<lb n="2" xml:id="bsb00000618_00088_2"/>Tutari potuit, quin fata subiret acerba.
+<lb n="3" xml:id="bsb00000618_00088_3"/>Nam post inmensam stragem, quam fecerat, illum
+<lb n="4" xml:id="bsb00000618_00088_4"/>Asperior dubium bello an felicior ense,
+<lb n="5" xml:id="bsb00000618_00088_5"/>Quo multos alios fortesque bonosque peremit,
+<lb n="6" xml:id="bsb00000618_00088_6"/>Antifrononte satus, Ionatham gladio ferus Ethnis,
+<lb n="7" xml:id="bsb00000618_00088_7"/>Fuscus Irineum iaculo prostravit, Adonem
+<lb n="8" xml:id="bsb00000618_00088_8"/>Cuspide sevus Oron, letoque dedisset Aplestem,
+<lb n="9" xml:id="bsb00000618_00088_9"/>Illius insignis nisi te de morte maneret
+<lb n="10" xml:id="bsb00000618_00088_10"/>Gloria, Sarcodoma; tamen acri vulnere bello
+<lb n="11" xml:id="bsb00000618_00088_11"/>Saucius egreditur. Temeratis sanguine pugnant
+<lb n="12" xml:id="bsb00000618_00088_12"/>Ensibus et seva sevit pars utraque cede.
+<lb n="13" xml:id="bsb00000618_00088_13"/>Cum solito gravius Caci certante caterva
+<lb n="14" xml:id="bsb00000618_00088_14"/>Agatide triti cedunt, cedentibus instant
+<lb n="15" xml:id="bsb00000618_00088_15"/>Caldei, cernensque Aphilus crudelis Orontem
+<lb n="16" xml:id="bsb00000618_00088_16"/>Inter condensas pugnantem fortiter alas
+<lb n="17" xml:id="bsb00000618_00088_17"/>Multumque hostilis fundentem sanguinis, illum
+<lb n="18" xml:id="bsb00000618_00088_18"/>Impiger incurrens nitido validum dedit ictum
+<lb n="19" xml:id="bsb00000618_00088_19"/>Ense super galeam, tinnitum reddidit illa:
+<lb n="20" xml:id="bsb00000618_00088_20"/>Non maior, fagus cum ceditur alta bipenni,
+<lb n="21" xml:id="bsb00000618_00088_21"/>Fit sonus, aut fortis concussa fronte iuvenci.
+<lb n="22" xml:id="bsb00000618_00088_22"/>Nec mora Caldei properant Aphiloque straboni
+<pb xml:id="bsb00000618_00089" n="89"/><lb n="1" xml:id="bsb00000618_00089_1"/>Auxilium pugnando ferunt, coit omnis in unum
+<lb n="2" xml:id="bsb00000618_00089_2"/>Bellica turba, tamen diuturno fervidus ille
+<lb n="3" xml:id="bsb00000618_00089_3"/>Hostes conflictu prohibet; iam parma sagittis
+<lb n="4" xml:id="bsb00000618_00089_4"/>Hirta stetit velud ericius, nec sustinet ultra
+<lb n="5" xml:id="bsb00000618_00089_5"/>Vulneribus sevis afflictus fessa movere
+<lb n="6" xml:id="bsb00000618_00089_6"/>Brachia, conprendunt vinctum paucosque petentes,
+<lb n="7" xml:id="bsb00000618_00089_7"/>Cetera diffugiunt dumosa per avia pubes.
+<lb n="8" xml:id="bsb00000618_00089_8"/>Ut captum Iudas facinus conspexit Orontem,
+<lb n="9" xml:id="bsb00000618_00089_9"/>'Numquid' ait 'sic vivet Oron, sic vivet acerbus
+<lb n="10" xml:id="bsb00000618_00089_10"/>Bellator, nostri tantum qui sanguinis hausit?
+<lb n="11" xml:id="bsb00000618_00089_11"/>Non hunc eripiet rex Agatus; este pii vos,
+<lb n="12" xml:id="bsb00000618_00089_12"/>Si placet, infandum fundet mea dextra cruorem.'
+<lb n="13" xml:id="bsb00000618_00089_13"/>Sic ait et rigido capti vitalia pilo
+<lb n="14" xml:id="bsb00000618_00089_14"/>Perrupit; qui lapsus equo moriendo momordit
+<lb n="15" xml:id="bsb00000618_00089_15"/>Terram obituque gravi vacuavit spiritus artus.
+<lb n="16" xml:id="bsb00000618_00089_16"/>Nondum discineti calor ossa reliquerat hostis
+<lb n="17" xml:id="bsb00000618_00089_17"/>Prorsus, et extinctum Iudas deflevit Orontem.
+<lb n="18" xml:id="bsb00000618_00089_18"/>Sed quid vana iuvat querimonia, cum mala plangens
+<pb xml:id="bsb00000618_00090" n="90"/><lb n="1" xml:id="bsb00000618_00090_1"/>Linquere, que plangit, non vult? Auget sibi culpam,
+<lb n="2" xml:id="bsb00000618_00090_2"/>Qui fundit lacrimas, si non ex corde. Resumit,
+<lb n="3" xml:id="bsb00000618_00090_3"/>Quod vomuit, canis et cenum siccus repetit sus:
+<lb n="4" xml:id="bsb00000618_00090_4"/>Sic eciam Iudas, ubi per spacium breve letum
+<lb n="5" xml:id="bsb00000618_00090_5"/>Oris divini deplorat, rursus ad acrem
+<lb n="6" xml:id="bsb00000618_00090_6"/>Vertitur invidiam regemque favente Diglossa
+<lb n="7" xml:id="bsb00000618_00090_7"/>Blasphemat tumido ore pium partemque in utramque
+<lb n="8" xml:id="bsb00000618_00090_8"/>Lubricus incerto ceu flamine canna movetur.
+<lb n="9" xml:id="bsb00000618_00090_9"/>Caldei reduces bis capto ex hoste triumpho
+<lb n="10" xml:id="bsb00000618_00090_10"/>Ut fecere Iovi Caco suadente deisque
+<lb n="11" xml:id="bsb00000618_00090_11"/>Omnibus, ut mos est gentis, libamina, Iudam
+<lb n="12" xml:id="bsb00000618_00090_12"/>Politeon stabili neutra cum parte manere
+<lb n="13" xml:id="bsb00000618_00090_13"/>Indignans animo presso clamore tumultu –
+<lb n="14" xml:id="bsb00000618_00090_14"/>Namque tumultus erat populis plaudentibus hostes
+<lb n="15" xml:id="bsb00000618_00090_15"/>Terga dedisse suos – 'Iuda quo nos' ait 'usque
+<lb n="16" xml:id="bsb00000618_00090_16"/>Suspendes, parti dum queris utrique placere.
+<lb n="17" xml:id="bsb00000618_00090_17"/>Mobilior foliis, que succi pondere cassa
+<lb n="18" xml:id="bsb00000618_00090_18"/>Huc illuc volitant incerto flamine Libra
+<lb n="19" xml:id="bsb00000618_00090_19"/>Educente tuos, Hiperione nate, iugales?
+<pb xml:id="bsb00000618_00091" n="91"/><lb n="1" xml:id="bsb00000618_00091_1"/>Dilige constanter, quod amas; non cogimus ullum
+<lb n="2" xml:id="bsb00000618_00091_2"/>Nequicia nobis laudem dare, cogimus autem
+<lb n="3" xml:id="bsb00000618_00091_3"/>Virtutis studio, quia cui placet ipsa, placemus.
+<lb n="4" xml:id="bsb00000618_00091_4"/>Atqui non melior bello fuit illa iuventus,
+<lb n="5" xml:id="bsb00000618_00091_5"/>Que peciit sontes sub Adrasto principe Tebas,
+<lb n="6" xml:id="bsb00000618_00091_6"/>Quamquam illic acer Tideus pugnaret et armis
+<lb n="7" xml:id="bsb00000618_00091_7"/>Inclitus Hipomedon aspernatorque deorum
+<lb n="8" xml:id="bsb00000618_00091_8"/>Procerus Capaneus; nec Achaia maior in armis
+<lb n="9" xml:id="bsb00000618_00091_9"/>Laomedonteam coiit subvertere Troiam.
+<lb n="10" xml:id="bsb00000618_00091_10"/>Nam quantum censes, si verum obtundere non vis,
+<lb n="11" xml:id="bsb00000618_00091_11"/>Antifrononte satum, cui non Calidonius heros,
+<lb n="12" xml:id="bsb00000618_00091_12"/>Non Aiax, non ipse, Frigum timor unus, Achilles
+<lb n="13" xml:id="bsb00000618_00091_13"/>Anteferendus erit? Vario nec maior Ulixi
+<lb n="14" xml:id="bsb00000618_00091_14"/>Quam tibi, Cace, dolus. Nec me inter nomina tanta
+<lb n="15" xml:id="bsb00000618_00091_15"/>Celarim, trifidi qui subieci mihi regna
+<pb xml:id="bsb00000618_00092" n="92"/><lb n="1" xml:id="bsb00000618_00092_1"/>Orbis. Me noti precioso vellere Seres,
+<lb n="2" xml:id="bsb00000618_00092_2"/>Bactria queque colit parvo gens corpore nidos,
+<lb n="3" xml:id="bsb00000618_00092_3"/>Gathmus et infamis monstrosa gente Catippus
+<lb n="4" xml:id="bsb00000618_00092_4"/>Pertimuit, qua Nissa ferax prolesque Philippi
+<lb n="5" xml:id="bsb00000618_00092_5"/>Transiit Erculeas pugnaci milite metas,
+<lb n="6" xml:id="bsb00000618_00092_6"/>Qua vastus Ganges bis quinis fontibus exit
+<lb n="7" xml:id="bsb00000618_00092_7"/>Contra surgentem sua ducens hostia Phebum,
+<lb n="8" xml:id="bsb00000618_00092_8"/>Queque bibunt Habanem, quete quoque, Gamula, gentes,
+<lb n="9" xml:id="bsb00000618_00092_9"/>Quaque meat Torides, qua dives Icusia sedes
+<pb xml:id="bsb00000618_00093" n="93"/><lb n="1" xml:id="bsb00000618_00093_1"/>Carmannis; domui Partos fugiendo timendos
+<lb n="2" xml:id="bsb00000618_00093_2"/>Persasque et notas Asvero principe Susas.
+<lb n="3" xml:id="bsb00000618_00093_3"/>Me timet Assirius, me qui vicinus Araxes
+<lb n="4" xml:id="bsb00000618_00093_4"/>Gentibus Hircanis spaciosum permeat orbem
+<lb n="5" xml:id="bsb00000618_00093_5"/>Sauromatesque celer domitorem vidit et acres
+<lb n="6" xml:id="bsb00000618_00093_6"/>Eniochi ac celeber Frixeo vellere Fasis
+<lb n="7" xml:id="bsb00000618_00093_7"/>Queque duos inter nomen retraxit ab ipsis
+<lb n="8" xml:id="bsb00000618_00093_8"/>Terra iacens fluvios et fama clara Damascus.
+<lb n="9" xml:id="bsb00000618_00093_9"/>Me truculentus Hiber pernixque ad bella Gelonus
+<lb n="10" xml:id="bsb00000618_00093_10"/>Cappadocesque timent et, quem piratica pascit
+<lb n="11" xml:id="bsb00000618_00093_11"/>Preda, Cilix Galateque truces quosque Hermus et Hermum
+<lb n="12" xml:id="bsb00000618_00093_12"/>Augens Meander sinuosa circuit unda
+<lb n="13" xml:id="bsb00000618_00093_13"/>Et quas fama refert, si credimus omnia fame,
+<pb xml:id="bsb00000618_00094" n="94"/><lb n="1" xml:id="bsb00000618_00094_1"/>Invenisse notas, fruitur quibus Attica, gentes
+<lb n="2" xml:id="bsb00000618_00094_2"/>Cathmee atque, quibus meat umbra sinistra, Sabei
+<lb n="3" xml:id="bsb00000618_00094_3"/>Et Friges et genti Nabatee affinis Idume
+<lb n="4" xml:id="bsb00000618_00094_4"/>Meotisque palus glaciali frigore semper
+<lb n="5" xml:id="bsb00000618_00094_5"/>Stricta et Amazoniis tellus celeberrima bellis,
+<lb n="6" xml:id="bsb00000618_00094_6"/>Et qua Ripheis manans de montibus alto
+<lb n="7" xml:id="bsb00000618_00094_7"/>Gurgite divisum Tanais disterininat orbem,
+<lb n="8" xml:id="bsb00000618_00094_8"/>Secretique dei cultor mihi cessit Apella.
+<lb n="9" xml:id="bsb00000618_00094_9"/>Me metuit Meroe, tepido que conparat Austro
+<lb n="10" xml:id="bsb00000618_00094_10"/>Hircanum Borean, umbreque ignara Siene.
+<lb n="11" xml:id="bsb00000618_00094_11"/>Me Rodos atque Paphos, me norunt Ciclades omnes
+<lb n="12" xml:id="bsb00000618_00094_12"/>Ismariusque Ebrus clarique Macedones armis
+<lb n="13" xml:id="bsb00000618_00094_13"/>Affinesque tibi, late vulgata Chorinte,
+<lb n="14" xml:id="bsb00000618_00094_14"/>Archades, et doctis sum non ignotus Athenis;
+<lb n="15" xml:id="bsb00000618_00094_15"/>Formidatque meum Romana potencia nomen
+<lb n="16" xml:id="bsb00000618_00094_16"/>Et tellus Athesi gelidoque rigata Caico
+<pb xml:id="bsb00000618_00095" n="95"/><lb n="1" xml:id="bsb00000618_00095_1"/>Et Dacus Moschis vicinus et acer Alanus
+<lb n="2" xml:id="bsb00000618_00095_2"/>Pannoniusque ferox et corpore Noricus ingens
+<lb n="3" xml:id="bsb00000618_00095_3"/>Gensque cenozephalis quondam vicina Suevis.
+<lb n="4" xml:id="bsb00000618_00095_4"/>Te quoque concussi, cervicis Vandale dure,
+<lb n="5" xml:id="bsb00000618_00095_5"/>Te, Dana signatis oculis, te, Frixo rebellis,
+<lb n="6" xml:id="bsb00000618_00095_6"/>Quosque Mogon pagos et quos intersecat Albis,
+<lb n="7" xml:id="bsb00000618_00095_7"/>Quaque fluit Rheni cavus augens stagna Lemannus.
+<pb xml:id="bsb00000618_00096" n="96"/><lb n="1" xml:id="bsb00000618_00096_1"/>Me Mosella merus nec palmite vilior Alsa
+<lb n="2" xml:id="bsb00000618_00096_2"/>Cognoscit, me Belga suos girare caballos
+<lb n="3" xml:id="bsb00000618_00096_3"/>Doctus et Alverni tumido sermone faceti
+<lb n="4" xml:id="bsb00000618_00096_4"/>Allobrogesque fide dubii fidensque sagittis
+<lb n="5" xml:id="bsb00000618_00096_5"/>Nervius et pugnax Rotomus mollesque Equitani
+<lb n="6" xml:id="bsb00000618_00096_6"/>Et tibi vicini, iactans Verimande, Rutheni.
+<lb n="7" xml:id="bsb00000618_00096_7"/>Vaseonasque vagos domui elaramque Tholosam
+<lb n="8" xml:id="bsb00000618_00096_8"/>Et Betim Gadesque sitas sub sole eadente
+<pb xml:id="bsb00000618_00097" n="97"/><lb n="1" xml:id="bsb00000618_00097_1"/>Et cum Scottigenis disiunctos orbe Brittanos.
+<lb n="2" xml:id="bsb00000618_00097_2"/>Cumque Siracusio funde Balearicus auctor
+<lb n="3" xml:id="bsb00000618_00097_3"/>Me tremit et regio Tyria de gente profectis
+<lb n="4" xml:id="bsb00000618_00097_4"/>Possessa et frugum non parca Canopica tellus
+<lb n="5" xml:id="bsb00000618_00097_5"/>Priscaque Cirene Leptisque et regius Ippon,
+<lb n="6" xml:id="bsb00000618_00097_6"/>Queque nigris colitur triplex provincia Mauris,
+<lb n="7" xml:id="bsb00000618_00097_7"/>Marmarideque leves et cum Garamante Galaula
+<lb n="8" xml:id="bsb00000618_00097_8"/>Et gens Ethiopum non ullo signa ferentis
+<lb n="9" xml:id="bsb00000618_00097_9"/>Pressa poli spacio, nisi quod Bovis ungula metam
+<lb n="10" xml:id="bsb00000618_00097_10"/>Excessit, flexo cum poblite procubuit Bos.
+<lb n="11" xml:id="bsb00000618_00097_11"/>Denique nulla vacat mundi regio mihi, que non
+<lb n="12" xml:id="bsb00000618_00097_12"/>Sit sceptris subiecta meis et serviat ultro.
+<pb xml:id="bsb00000618_00098" n="98"/><lb n="1" xml:id="bsb00000618_00098_1"/>En rex iste tuus, modo quem laudas, modo damnas,
+<lb n="2" xml:id="bsb00000618_00098_2"/>Bis victus bello, qua spe, iam credo, valebit
+<lb n="3" xml:id="bsb00000618_00098_3"/>Amplius in nostros pugnam transmittere fines?'
+<lb n="4" xml:id="bsb00000618_00098_4"/>Tunc Cacus subicit Tugnam transmitteret ipse?
+<lb n="5" xml:id="bsb00000618_00098_5"/>Bellum re vera non hic erit amplius ullum;
+<lb n="6" xml:id="bsb00000618_00098_6"/>Si iuvat hoc et pascit eum, quod adhuc superetur,
+<lb n="7" xml:id="bsb00000618_00098_7"/>In propria tellure sua superabitur. Illuc
+<lb n="8" xml:id="bsb00000618_00098_8"/>Ibimus et forti metabimur agmine castra.'
+<lb n="9" xml:id="bsb00000618_00098_9"/>His motus Iudas sermonibus Agaton atque
+<lb n="10" xml:id="bsb00000618_00098_10"/>Spernit eo natum penitus vitamque deorum
+<lb n="11" xml:id="bsb00000618_00098_11"/>Pensat et exemplum vivendi sumit ab illis:
+<lb n="12" xml:id="bsb00000618_00098_12"/>Iupiter in quamvis Venerem docet ire licenter,
+<lb n="13" xml:id="bsb00000618_00098_13"/>Euehius, ut multum bibat, atque canore iuvetur
+<lb n="14" xml:id="bsb00000618_00098_14"/>Suadet Apollo lira, magicas Cillenius artes
+<lb n="15" xml:id="bsb00000618_00098_15"/>Commendat, Cereremque sibi proponit edendo.
+<lb n="16" xml:id="bsb00000618_00098_16"/>Sic degente viro, tempus simulatque statutum
+<lb n="17" xml:id="bsb00000618_00098_17"/>Exegit solis metam, rex Agatus a se
+<lb n="18" xml:id="bsb00000618_00098_18"/>Messiam genitum, sibi qui fuit unicus, ire
+<lb n="19" xml:id="bsb00000618_00098_19"/>Precipit et sevos reparata in bella tyrannos
+<lb n="20" xml:id="bsb00000618_00098_20"/>Poscere. Tum vates, quo nullus amancior equi,
+<lb n="21" xml:id="bsb00000618_00098_21"/>Inclitus Eleimon paucis presentibus orsus
+<lb n="22" xml:id="bsb00000618_00098_22"/>'Quid iuvat incassum tociens confligere summis
+<lb n="23" xml:id="bsb00000618_00098_23"/>Viribus? Et multo pudet ac miseret simul atris
+<pb xml:id="bsb00000618_00099" n="99"/><lb n="1" xml:id="bsb00000618_00099_1"/>Milite consumpto bellis nos esse inimicis
+<lb n="2" xml:id="bsb00000618_00099_2"/>Ludibrio? Numquam, nostre nisi dux aciei
+<lb n="3" xml:id="bsb00000618_00099_3"/>Occidat in bello, validos superabimus hostes.
+<lb n="4" xml:id="bsb00000618_00099_4"/>Ergo tibi natoque tuo, nisi si melius vos
+<lb n="5" xml:id="bsb00000618_00099_5"/>Conicitis quicquam, presaga mente quod edo,
+<lb n="6" xml:id="bsb00000618_00099_6"/>Si placet: Est Bethlem caste paupercula fame
+<lb n="7" xml:id="bsb00000618_00099_7"/>Parthenie, quam Taumoto cognomine dicunt,
+<lb n="8" xml:id="bsb00000618_00099_8"/>Stirpis Davitice; cuius, nec sit pudor, artus
+<lb n="9" xml:id="bsb00000618_00099_9"/>Messias si veste suos obduxerit inque
+<lb n="10" xml:id="bsb00000618_00099_10"/>Mortem sponte ruit, pro certo credite, parti
+<lb n="11" xml:id="bsb00000618_00099_11"/>Illius haut modico continget honore triumphus.
+<lb n="12" xml:id="bsb00000618_00099_12"/>Ac ne, quod dedimus, te frangat, regia proles,
+<lb n="13" xml:id="bsb00000618_00099_13"/>Consilium, Decius, perpende, quid egerit et quid
+<lb n="14" xml:id="bsb00000618_00099_14"/>Regulus; ambo brevi nolentes parcere vite
+<lb n="15" xml:id="bsb00000618_00099_15"/>Sponte sua, sic fama refert, pro clade suorum
+<lb n="16" xml:id="bsb00000618_00099_16"/>Tollenda letum subiere. Quid ergo fideli
+<lb n="17" xml:id="bsb00000618_00099_17"/>Tu de te censes, vane si gloria laudis
+<lb n="18" xml:id="bsb00000618_00099_18"/>Paganos mortem non formidare subegit?
+<lb n="19" xml:id="bsb00000618_00099_19"/>Te vero perpes post tristia fata manebit
+<lb n="20" xml:id="bsb00000618_00099_20"/>Gloria, te locuples, te pauper ad ethera tollet.'
+<pb xml:id="bsb00000618_00100" n="100"/><lb n="1" xml:id="bsb00000618_00100_1"/>Desierat vates; sentencia dia diserti
+<lb n="2" xml:id="bsb00000618_00100_2"/>Principibus placuit, ducibusque ad bella vocatis
+<lb n="3" xml:id="bsb00000618_00100_3"/>Messias sumpto muliebri tecmine sese
+<lb n="4" xml:id="bsb00000618_00100_4"/>Vestit et umbonem membrana triplice tectum
+<lb n="5" xml:id="bsb00000618_00100_5"/>Sumit et ad pugnam duodenis milibus exit.
+<lb n="6" xml:id="bsb00000618_00100_6"/>Nunc mihi, te queso, bone spiritus, Agatidarum
+<lb n="7" xml:id="bsb00000618_00100_7"/>Nomina pande ducum, tua, sicut vis et ubi vis,
+<lb n="8" xml:id="bsb00000618_00100_8"/>Munera qui tribuis! Dux primus in arma treeentos
+<lb n="9" xml:id="bsb00000618_00100_9"/>Pistena fert equites Abrahe de stirpe beata
+<lb n="10" xml:id="bsb00000618_00100_10"/>Editus. Huic circum precioso compta smaragdo
+<lb n="11" xml:id="bsb00000618_00100_11"/>Parma fuit: stetit in medio delusa prophete
+<lb n="12" xml:id="bsb00000618_00100_12"/>Turba sacerdotum, cum misso desuper igne
+<lb n="13" xml:id="bsb00000618_00100_13"/>Helie 'Dominus deus est' plebs ante rebellis
+<lb n="14" xml:id="bsb00000618_00100_14"/>Clamavit, sterilesque iacent annis tribus agri
+<lb n="15" xml:id="bsb00000618_00100_15"/>Et medio populi pro nequicia; hinc, puto, facta est
+<lb n="16" xml:id="bsb00000618_00100_16"/>Urentis terram Phetontis fabula, currum
+<lb n="17" xml:id="bsb00000618_00100_17"/>Cum regeret. Civisque tuus, Nine pessima quondam,
+<lb n="18" xml:id="bsb00000618_00100_18"/>Eutropius brevis et rugosa fronte severus
+<pb xml:id="bsb00000618_00101" n="101"/><lb n="1" xml:id="bsb00000618_00101_1"/>Auxit Iudaicos sexcentis ensibus enses.
+<lb n="2" xml:id="bsb00000618_00101_2"/>Itque potens Agapes Bethelius horrida in arma
+<lb n="3" xml:id="bsb00000618_00101_3"/>Exacuens bis mille viros; hic pocula Iude
+<lb n="4" xml:id="bsb00000618_00101_4"/>Bina tulit, laudabile opus. Nam sculptus in uno
+<lb n="5" xml:id="bsb00000618_00101_5"/>In somnis cernit tangentes ethera scalas
+<lb n="6" xml:id="bsb00000618_00101_6"/>Iacob cum domino luctans nervoque recedens
+<lb n="7" xml:id="bsb00000618_00101_7"/>Debil is; idcirco nervos Iudeus abhorret.
+<lb n="8" xml:id="bsb00000618_00101_8"/>Ex hoc Meonius finxisse poeta putatur
+<lb n="9" xml:id="bsb00000618_00101_9"/>In volueres socios ducis esse deam ferientis
+<lb n="10" xml:id="bsb00000618_00101_10"/>Mutatos. Alter pereuntes erater habebat
+<lb n="11" xml:id="bsb00000618_00101_11"/>Hostes egregii Davit, quos ipse peremtos
+<lb n="12" xml:id="bsb00000618_00101_12"/>Pictus ibi, insolitum, luxit. Tamen ista decora
+<lb n="13" xml:id="bsb00000618_00101_13"/>Munera concilians regem sibi sustulit Ethnis
+<lb n="14" xml:id="bsb00000618_00101_14"/>Post mortem ducis Agatide. Sequitur comes illum
+<lb n="15" xml:id="bsb00000618_00101_15"/>Multa laude nitens niveoque spadone superbus
+<pb xml:id="bsb00000618_00102" n="102"/><lb n="1" xml:id="bsb00000618_00102_1"/>Leuconous rigidusque Paton de germine sacro
+<lb n="2" xml:id="bsb00000618_00102_2"/>Iob veniens, multo fuscatus sole suasque
+<lb n="3" xml:id="bsb00000618_00102_3"/>Munitus suras ocreis veluti rosa rubris.
+<lb n="4" xml:id="bsb00000618_00102_4"/>Tu quoque, Behttanicis in menibus orte, superbis
+<lb n="5" xml:id="bsb00000618_00102_5"/>Risus, ceruleo vectus burdone, et equiscis
+<lb n="6" xml:id="bsb00000618_00102_6"/>Amplis subsidium claris, Tapine, tulisti
+<lb n="7" xml:id="bsb00000618_00102_7"/>Regibus. Insequitur collecto milite fortis
+<lb n="8" xml:id="bsb00000618_00102_8"/>Sarcodomas, tuus, o Daniel venerande, propinquus.
+<lb n="9" xml:id="bsb00000618_00102_9"/>Omnes hi Solimam ter mille ad bella feroces
+<lb n="10" xml:id="bsb00000618_00102_10"/>Adduxere viros et per quot volvitur annus
+<lb n="11" xml:id="bsb00000618_00102_11"/>Tritus sole dies, crescit cum Februus una.
+<lb n="12" xml:id="bsb00000618_00102_12"/>Sed postquam belli, qua Cace manes, reparandi
+<lb n="13" xml:id="bsb00000618_00102_13"/>Rumor Achemenias index vagus attigit oras,
+<lb n="14" xml:id="bsb00000618_00102_14"/>Continuo magni magno coiere paratu
+<lb n="15" xml:id="bsb00000618_00102_15"/>Sub Caco rectore duces et grande putantes
+<lb n="16" xml:id="bsb00000618_00102_16"/>Expectare domi violentos dedecus hostes
+<lb n="17" xml:id="bsb00000618_00102_17"/>Iudeam bacis olee palmisque opulentam
+<lb n="18" xml:id="bsb00000618_00102_18"/>Agminibus peciere suis vectique quadrigis
+<lb n="19" xml:id="bsb00000618_00102_19"/>Et plus, quam satis est, pompa venere superba.
+<pb xml:id="bsb00000618_00103" n="103"/><lb n="1" xml:id="bsb00000618_00103_1"/>Urbs est Iudee Iordane bifonte propinquo
+<lb n="2" xml:id="bsb00000618_00103_2"/>Condita semiferis olim sedes Chananeis;
+<lb n="3" xml:id="bsb00000618_00103_3"/>Nomen ei Ihericho, quam nubilus Eurus ab ortu
+<lb n="4" xml:id="bsb00000618_00103_4"/>Aspicit, Asphaltus calido vicinus ab axe est.
+<lb n="5" xml:id="bsb00000618_00103_5"/>Hunc pugne legere locum bellumque profanus
+<lb n="6" xml:id="bsb00000618_00103_6"/>Contra cognatum Caco duce movit Iudas.
+<lb n="7" xml:id="bsb00000618_00103_7"/>Roscidus ascendens terris infudit Eous
+<lb n="8" xml:id="bsb00000618_00103_8"/>Lumen et obscuro gelidas sublatus Olimpo
+<lb n="9" xml:id="bsb00000618_00103_9"/>Sol dempsit tenebras, cum parte in utraque iuventus
+<lb n="10" xml:id="bsb00000618_00103_10"/>Elatis cupide properant confligere signis
+<lb n="11" xml:id="bsb00000618_00103_11"/>Horrisonisque tubis acuunt in prelia mentes,
+<lb n="12" xml:id="bsb00000618_00103_12"/>Principium belli, Messie signifer acris
+<lb n="13" xml:id="bsb00000618_00103_13"/>Ethnidis ense cadit. Qui, sic voluit deus, arma
+<lb n="14" xml:id="bsb00000618_00103_14"/>Mox Cedarei fugiens ducis ad Solimanum
+<lb n="15" xml:id="bsb00000618_00103_15"/>Regem legatos mittit Cacumque odiosum
+<lb n="16" xml:id="bsb00000618_00103_16"/>Asserit esse sibi, grates agit Agatus illi
+<lb n="17" xml:id="bsb00000618_00103_17"/>Placatusque viro. Mactatum sanguine crassum
+<lb n="18" xml:id="bsb00000618_00103_18"/>Politeona tua prosternis, Pistena, dextra;
+<pb xml:id="bsb00000618_00104" n="104"/><lb n="1" xml:id="bsb00000618_00104_1"/>Leuconous Fuscum, Crisargirus acer Aelphin
+<lb n="2" xml:id="bsb00000618_00104_2"/>Fudit, Iperfanes Tapinum territat hasta
+<lb n="3" xml:id="bsb00000618_00104_3"/>Rostratosque pedes curvans pellesque gulatas
+<lb n="4" xml:id="bsb00000618_00104_4"/>Et manicas amplas ostentans 'Rustice', dixit
+<lb n="5" xml:id="bsb00000618_00104_5"/>'Cede loco nec te pannosus ad arma potentum
+<lb n="6" xml:id="bsb00000618_00104_6"/>Misce! Quid facit hic gestande burdo farine
+<lb n="7" xml:id="bsb00000618_00104_7"/>Apcior? Hercle, lutum peronibus his potes altum
+<lb n="8" xml:id="bsb00000618_00104_8"/>Trudere. Vah, tantum molitori me esse locutum
+<lb n="9" xml:id="bsb00000618_00104_9"/>Penitet.' 'Aecipio' dixit Tapinus equoque
+<lb n="10" xml:id="bsb00000618_00104_10"/>Transverso tumide salientis cuspide timpus
+<lb n="11" xml:id="bsb00000618_00104_11"/>Perfodiens sella suspensum decutit alta.
+<pb xml:id="bsb00000618_00105" n="105"/><lb n="1" xml:id="bsb00000618_00105_1"/>Argutumque Agapes Heretum mucrone corusco
+<lb n="2" xml:id="bsb00000618_00105_2"/>Prostravit, fortemque Aphilum fortemque Diglossam
+<lb n="3" xml:id="bsb00000618_00105_3"/>Pirtalmumque ferunt dextra cecidisse Patontis.
+<lb n="4" xml:id="bsb00000618_00105_4"/>Tu quoque qui tociens vitaras vulnus, Apieste,
+<lb n="5" xml:id="bsb00000618_00105_5"/>Letiferum, moriens te Sarcodomas dedit Orco.
+<lb n="6" xml:id="bsb00000618_00105_6"/>Ante omnes, Caci fiducia tota, eruentus
+<lb n="7" xml:id="bsb00000618_00105_7"/>Sevit Amartigenes; cui dux Solimanus avaram
+<lb n="8" xml:id="bsb00000618_00105_8"/>Cedis et heroum pollutam sanguine dextram
+<lb n="9" xml:id="bsb00000618_00105_9"/>Amputat atque femur. Salut manus, ut sude forti
+<lb n="10" xml:id="bsb00000618_00105_10"/>Aut iacto saxo divise cauda colubre
+<lb n="11" xml:id="bsb00000618_00105_11"/>Inproba sepe micat; torpet manus inpigra, multis
+<lb n="12" xml:id="bsb00000618_00105_12"/>Fatalis ducibus. Sub equinam protinus alvum
+<lb n="13" xml:id="bsb00000618_00105_13"/>Victor procubuit vultumque supinus atrocem
+<lb n="14" xml:id="bsb00000618_00105_14"/>Frendet adhuc; tunc Cacus eum sociique levabant
+<lb n="15" xml:id="bsb00000618_00105_15"/>Pulvere squalentem mestique in castra ferebant
+<lb n="16" xml:id="bsb00000618_00105_16"/>Seminecem clipeo. Nec adhuc voluere tyranni
+<lb n="17" xml:id="bsb00000618_00105_17"/>Cedere, iam tepido manabant arva cruore
+<lb n="18" xml:id="bsb00000618_00105_18"/>Atque in sulphureum clarumque bitumine stagnum
+<lb n="19" xml:id="bsb00000618_00105_19"/>Iordanis regum volvendo cadavera duxit.
+<pb xml:id="bsb00000618_00106" n="106"/><lb n="1" xml:id="bsb00000618_00106_1"/>Dum sic pugnatur, Messiam conspicit acer
+<lb n="2" xml:id="bsb00000618_00106_2"/>Cacus et adversum cupiens occidere strictum
+<lb n="3" xml:id="bsb00000618_00106_3"/>Vibravit gladium capitique infligere vulnus
+<lb n="4" xml:id="bsb00000618_00106_4"/>Mortiferum voluit, sed parma providus ille
+<lb n="5" xml:id="bsb00000618_00106_5"/>Invicta calibe et ferro fortem excipit ictum.
+<lb n="6" xml:id="bsb00000618_00106_6"/>Dissiliens partes muero Caceius in tres
+<lb n="7" xml:id="bsb00000618_00106_7"/>Frustratum ceco fecit trepidare pavore;
+<lb n="8" xml:id="bsb00000618_00106_8"/>Quid faciat, nescit dubius, fugiatne vel obstet.
+<lb n="9" xml:id="bsb00000618_00106_9"/>Interea cernens Iudam vir strennue dixit
+<lb n="10" xml:id="bsb00000618_00106_10"/>'Huc ades et gladio, qui me exarmaverat, hostem
+<lb n="11" xml:id="bsb00000618_00106_11"/>Sterne truci vel pelle manu!' Nihil ille moratus
+<lb n="12" xml:id="bsb00000618_00106_12"/>Efferus incursat iuvenem; quem talibus heros
+<lb n="13" xml:id="bsb00000618_00106_13"/>Premonet O demens nimiumque oblite propinqui
+<lb n="14" xml:id="bsb00000618_00106_14"/>Sanguinis atque pie fidei, mala cepta relinque!
+<lb n="15" xml:id="bsb00000618_00106_15"/>Messias ego sum, veni te solvere bellis;
+<lb n="16" xml:id="bsb00000618_00106_16"/>Aspicis ora, manus.' Cui Iudas ore minaci
+<lb n="17" xml:id="bsb00000618_00106_17"/>'Nescio, tu qui sis, pugnans volo discere, qui sis.
+<lb n="18" xml:id="bsb00000618_00106_18"/>„Agatides sum" inquis, mentiris; non tibi certe
+<lb n="19" xml:id="bsb00000618_00106_19"/>Agatus est genitor, credi potes indice vultu
+<lb n="20" xml:id="bsb00000618_00106_20"/>Filius esse fabri, fabrique es filius. Istam,
+<lb n="21" xml:id="bsb00000618_00106_21"/>Quisquis es, esse tibi lucem experiere supremam.'
+<lb n="22" xml:id="bsb00000618_00106_22"/>Sic ait et regem crispata fortiter hasta
+<pb xml:id="bsb00000618_00107" n="107"/><lb n="1" xml:id="bsb00000618_00107_1"/>Proturbare parat; quem nolens ledere cede
+<lb n="2" xml:id="bsb00000618_00107_2"/>Delirumque fugit Messias; ille nepotem,
+<lb n="3" xml:id="bsb00000618_00107_3"/>O scelus, insequitur fugientem. Ne suus in se
+<lb n="4" xml:id="bsb00000618_00107_4"/>Peccet cognatus, rex vult, nec vult tamen ille
+<lb n="5" xml:id="bsb00000618_00107_5"/>A detestando vecors resipiscere cepto.
+<lb n="6" xml:id="bsb00000618_00107_6"/>Iam fugiens trepido Solime prope menia cursu
+<lb n="7" xml:id="bsb00000618_00107_7"/>Venerat, hic secum vatis pia dicta recensens
+<lb n="8" xml:id="bsb00000618_00107_8"/>Constitit et sevis nolens arcere furentem
+<lb n="9" xml:id="bsb00000618_00107_9"/>Armis inmotus stabat; ferus advolat ille
+<lb n="10" xml:id="bsb00000618_00107_10"/>Et rigida miti dat cuspide vulnera quinque:
+<lb n="11" xml:id="bsb00000618_00107_11"/>Simplex, cum geritur sacram mactandus ad aram
+<lb n="12" xml:id="bsb00000618_00107_12"/>Pro populi noxa, non est taciturnior agnus.
+<lb n="13" xml:id="bsb00000618_00107_13"/>Ille labat, dumque ille labat, terrore caterva
+<lb n="14" xml:id="bsb00000618_00107_14"/>Apolide subito, dictu mirabile, languens
+<lb n="15" xml:id="bsb00000618_00107_15"/>Fugit et infames verterunt terga tiranni.
+<lb n="16" xml:id="bsb00000618_00107_16"/>Tunc primum Cacum Messie nobilis iram
+<lb n="17" xml:id="bsb00000618_00107_17"/>Expavisse ferunt, quod ei congressus inermis
+<lb n="18" xml:id="bsb00000618_00107_18"/>Abscessit nec in hoc habuit satis. Inpiger illi
+<lb n="19" xml:id="bsb00000618_00107_19"/>Intulit Eutropius plagam trepidumque fugavit,
+<lb n="20" xml:id="bsb00000618_00107_20"/>Et parta est leto Messie palma salubri;
+<lb n="21" xml:id="bsb00000618_00107_21"/>Moxque catenatis licuit remeare solutis
+<lb n="22" xml:id="bsb00000618_00107_22"/>Nexibus in terram felici nomine Sion.
+<pb xml:id="bsb00000618_00108" n="108"/><lb n="1" xml:id="bsb00000618_00108_1"/>Leta magis non illa fuit generacio, quam rex
+<lb n="2" xml:id="bsb00000618_00108_2"/>Cirus restituit post mesta decem et tria lustra,
+<lb n="3" xml:id="bsb00000618_00108_3"/>Cum muta in canis pendebant organa ramis.
+<lb n="4" xml:id="bsb00000618_00108_4"/>Tempus erat, cum Vergiliis repetentibus ortum
+<lb n="5" xml:id="bsb00000618_00108_5"/>Sole flagrans Aries equaverat astra diei,
+<lb n="6" xml:id="bsb00000618_00108_6"/>Quando duci Iudas vitam truculentus ademit.
+<lb n="7" xml:id="bsb00000618_00108_7"/>Illius adveniens planctu iam livida mater
+<lb n="8" xml:id="bsb00000618_00108_8"/>Et flavas disiecta comas his ethera pulsat
+<lb n="9" xml:id="bsb00000618_00108_9"/>'O celi sacra stirps, o proles unica, tene
+<lb n="10" xml:id="bsb00000618_00108_10"/>Sic decuit pugnare tuis, ut te dare morti
+<lb n="11" xml:id="bsb00000618_00108_11"/>Non formidares et tanta subire pericla?
+<lb n="12" xml:id="bsb00000618_00108_12"/>Inspice me, tua sum genitrix! Heu eur mihi non das
+<lb n="13" xml:id="bsb00000618_00108_13"/>Responsum? Cur non „Dolor hic mihi, mater, et hic est"
+<lb n="14" xml:id="bsb00000618_00108_14"/>Te referente gemens doleo solorque dolentem?
+<lb n="15" xml:id="bsb00000618_00108_15"/>Me miseram! Quid agam? Quid dicam? Quid queror? Iste
+<lb n="16" xml:id="bsb00000618_00108_16"/>Inpius occidit, quodsi quid cordis haberet
+<lb n="17" xml:id="bsb00000618_00108_17"/>Humani – certe fera vel plus quam fera –, non hoc
+<pb xml:id="bsb00000618_00109" n="109"/><lb n="1" xml:id="bsb00000618_00109_1"/>Patrasset facinus. Non te durus Scitha, non te
+<lb n="2" xml:id="bsb00000618_00109_2"/>Teutonus haut facilis vibrato parcere ferro
+<lb n="3" xml:id="bsb00000618_00109_3"/>Confecit, consanguinea cecidisse manu te
+<lb n="4" xml:id="bsb00000618_00109_4"/>Et plango et stupeo.' Set tu, mater pia, noli
+<lb n="5" xml:id="bsb00000618_00109_5"/>Plangere, quem cernis defunctum, plangere noli!
+<lb n="6" xml:id="bsb00000618_00109_6"/>Utilis hec mors est, vitam multis dabat hec mors.
+<lb n="7" xml:id="bsb00000618_00109_7"/>Tollunt perfusos Iebusei sanguine sacro
+<lb n="8" xml:id="bsb00000618_00109_8"/>Artus extincti iuvenis multumque gementes
+<lb n="9" xml:id="bsb00000618_00109_9"/>Condunt regali corpus regale sepulcro.
+<lb n="10" xml:id="bsb00000618_00109_10"/>Mirum, quod refero: iam tercia clarior omni
+<lb n="11" xml:id="bsb00000618_00109_11"/>Sole dies oritur, cum Messiam redivivum
+<lb n="12" xml:id="bsb00000618_00109_12"/>Veraces homines se vidisse in Galilea
+<lb n="13" xml:id="bsb00000618_00109_13"/>Asseruere. Pius gaudens pater aceiit illum
+<lb n="14" xml:id="bsb00000618_00109_14"/>Inque trono meritum fecit regnare paterno.
+<lb n="15" xml:id="bsb00000618_00109_15"/>Hec longe sunt gesta prius, quam Tusca iuventus
+<lb n="16" xml:id="bsb00000618_00109_16"/>Destrueret Solimam; que nunc habet Helia nomen
+<lb n="17" xml:id="bsb00000618_00109_17"/>Golgotheque locus muris inclusus habetur.
+<lb n="18" xml:id="bsb00000618_00109_18"/>Qui sensu mentem cupit exercere profundo,
+<lb n="19" xml:id="bsb00000618_00109_19"/>Prelia rimetur, que scripsimus, arteque iugi
+<pb xml:id="bsb00000618_00110" n="110"/><lb n="1" xml:id="bsb00000618_00110_1"/>Prelia discuciens – quid enim non discitur usu? –
+<lb n="2" xml:id="bsb00000618_00110_2"/>Inveniet fracto, bene que sapit, osse medullam.
+<lb n="3" xml:id="bsb00000618_00110_3"/>Summa sophia, tuus grates refero tibi scriptor;
+<lb n="4" xml:id="bsb00000618_00110_4"/>Hoc opus incepi per te ceptumque peregi,
+<lb n="5" xml:id="bsb00000618_00110_5"/>Ut sit lac teneris et fortis fortibus esca.
+<lb n="6" xml:id="bsb00000618_00110_6"/>Explicit liber Eupolemii.
+</ab></div>
+</div>
+</div>
+</body>
+</text>
+</TEI>

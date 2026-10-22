@@ -1,0 +1,1209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>MGH SS rer. Germ. 58: Vita Heinrici IV. imperatoris</title>
+        <editor>Eberhard, Wilhelm</editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Monumenta Germaniae Historica (MGH)</publisher>
+        <publisher>Bavarian State Library (BSB), München</publisher>
+        <idno type="BSB">bsb00000706</idno>
+        <idno type="MGH">MGH SS rer. Germ. 58</idno>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/">
+            <p>Distributed under the Creative Commons Attribution 4.0 International (CC BY 4.0) license.</p>
+            <p>This license covers the annotations added by the Monumenta Germaniae Historica and the
+            Bavarian State Library, Munich, in the course of project "digital MGH"
+            <ref target="http://www.dmgh.de">http://www.dmgh.de</ref>, funded by the
+            German Research Foundation (DFG).</p>
+            <p>We do not claim any rights on the text itself which is believed to be in the public domain.</p>
+            <p>If you distribute a copy or a derivative version of this file, please indicate the source
+            of the file by mentioning the Monumenta Germaniae Historica (MGH) and the
+            Bavarian State Library, Munich (BSB).</p>
+          </licence>
+        </availability>
+        <date when="2016-11-28T16:19:35+01:00">2016-11-28, 16:19:35</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Vita Heinrici IV. imperatoris</title>
+            <editor>Eberhard, Wilhelm</editor>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Hahn</publisher>
+            <pubPlace>Hannover</pubPlace>
+            <date>1899</date>
+          </publicationStmt>
+          <seriesStmt>
+            <title>Scriptores rerum Germanicarum in usum scholarum separatim editi</title>
+            <biblScope unit="volume">[58]</biblScope>
+          </seriesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+<body>
+<div type="volume">
+<div n="Vita Heinrici IV. imperatoris" type="work"><ab>
+<pb xml:id="bsb00000706_00014" n="9"/><lb n="1" xml:id="bsb00000706_00014_1"/>1. <hi rend="ITALICS">Quis dabit aquam capiti meo et fontem </hi><w lemma="lacrimarum" xml:id="w1" corresp="#w1 #w2"><hi rend="ITALICS">lacrima</hi>-</w>
+<lb n="2" xml:id="bsb00000706_00014_2"/><w lemma="lacrimarum" xml:id="w2" corresp="#w1 #w2"><hi rend="ITALICS">rum</hi></w><hi rend="ITALICS"> oculis meis, </hi>ut lugeam, non excidia captae urbis,
+<lb n="3" xml:id="bsb00000706_00014_3"/>non captivitatem vilis vulgi, non damna rerum mearum,
+<lb n="4" xml:id="bsb00000706_00014_4"/>sed mortem H[einrici] imperatoris augusti, qui spes mea
+<lb n="5" xml:id="bsb00000706_00014_5"/>et unicum solacium fuit, immo ut de me taceam, qui
+<lb n="6" xml:id="bsb00000706_00014_6"/>gloria Romae, decus imperii, lucerna mundi extitit? Erit
+<lb n="7" xml:id="bsb00000706_00014_7"/>posthac mihi vita iocunda? Erit absque lacrimis dies
+<lb n="8" xml:id="bsb00000706_00014_8"/>aut hora? Aut tecum, ó dulcissime, potero illius <w lemma="mentionem" xml:id="w3" corresp="#w3 #w4">men-</w>
+<lb n="9" xml:id="bsb00000706_00014_9"/><w lemma="mentionem" xml:id="w4" corresp="#w3 #w4">tionem</w> habere sine fletu? Ecce dum scribo quod <w lemma="dictavit" xml:id="w5" corresp="#w5 #w6">dic-</w>
+<lb n="10" xml:id="bsb00000706_00014_10"/><w lemma="dictavit" xml:id="w6" corresp="#w5 #w6">tavit</w> impatientia doloris, cadunt lacrimae, madent fletu
+<lb n="11" xml:id="bsb00000706_00014_11"/>litterae, et quod notat manus, diluit oculus. Sed forsan
+<lb n="12" xml:id="bsb00000706_00014_12"/>impatientiam doloris mei redarguis, et ut fletum meum
+<lb n="13" xml:id="bsb00000706_00014_13"/>reprimam, ne forte his qui de morte imperatoris <w lemma="gaudent" xml:id="w7" corresp="#w7 #w8">gau-</w>
+<lb n="14" xml:id="bsb00000706_00014_14"/><w lemma="gaudent" xml:id="w8" corresp="#w7 #w8">dent</w> innotescat, instruis. Recte me doces, fateor; sed
+<lb n="15" xml:id="bsb00000706_00014_15"/>non possum imperare mihi, quin doleam, non possum
+<lb n="16" xml:id="bsb00000706_00014_16"/>me continere, quin lugeam. Licet in me furorem suum
+<lb n="17" xml:id="bsb00000706_00014_17"/>exacuant, licet me per membra discerpere cupiant:
+<lb n="18" xml:id="bsb00000706_00014_18"/>dolor timere nescit, dolor illatas poenas non sentit.
+<lb n="19" xml:id="bsb00000706_00014_19"/>Nec ego solus mortem eius lamentor; hanc Roma
+<lb n="20" xml:id="bsb00000706_00014_20"/>plangit, hanc omne Romanum Imperium deflet, hanc in
+<lb n="21" xml:id="bsb00000706_00014_21"/>commune divites et pauperes, praeter insidiatores <w lemma="potentiae" xml:id="w9" corresp="#w9 #w10">poten-</w>
+<lb n="22" xml:id="bsb00000706_00014_22"/><w lemma="potentiae" xml:id="w10" corresp="#w9 #w10">tiae</w> viteque eius, lugent. Nec mihi privata doloris causa
+<lb n="23" xml:id="bsb00000706_00014_23"/>est; publicam lamentari cladem pietas me cogit. Nam
+<lb n="24" xml:id="bsb00000706_00014_24"/>illo recedente, iusticia terras reliquit, pax abiit, fraus
+<lb n="25" xml:id="bsb00000706_00014_25"/>in locum fidei subintravit. Chorus laudantium Deum
+<lb n="26" xml:id="bsb00000706_00014_26"/>conticuit, solemnitas officii divini siluit, <hi rend="ITALICS">vox exultationis</hi>
+<lb n="27" xml:id="bsb00000706_00014_27"/><hi rend="ITALICS">et salutis in tabernaculis iustorum</hi> non auditur; quia qui
+<lb n="28" xml:id="bsb00000706_00014_28"/>haec omnia solemniter ordinavit, non invenitur. <w lemma="Monasteria" xml:id="w11" corresp="#w11 #w12">Mona-</w>
+<lb n="29" xml:id="bsb00000706_00014_29"/><w lemma="Monasteria" xml:id="w12" corresp="#w11 #w12">steria</w> patronum suum, claustra patrem amiserunt, <w lemma="quibus" xml:id="w13" corresp="#w13 #w14">qui-</w>
+<lb n="30" xml:id="bsb00000706_00014_30"/><w lemma="quibus" xml:id="w14" corresp="#w13 #w14">bus</w> quid commodi, quid honoris ipse conferret, nunc
+<lb n="31" xml:id="bsb00000706_00014_31"/>demum agnoscitur, cum extinctus non tenetur. Ergo
+<pb xml:id="bsb00000706_00015" n="10"/><lb n="1" xml:id="bsb00000706_00015_1"/>claustris omnibus vera dolendi causa subest, nam cum
+<lb n="2" xml:id="bsb00000706_00015_2"/>illo sepulto gloria eorum sepulta est. Heu Mogontia,
+<lb n="3" xml:id="bsb00000706_00015_3"/>quantum decus perdidisti, quae ad reparandam <w lemma="monasterii" xml:id="w15" corresp="#w15 #w16">mona-</w>
+<lb n="4" xml:id="bsb00000706_00015_4"/><w lemma="monasterii" xml:id="w16" corresp="#w15 #w16">sterii</w> tui ruinam talem artificem amisisti! Si <w lemma="superstes" xml:id="w17" corresp="#w17 #w18">super-</w>
+<lb n="5" xml:id="bsb00000706_00015_5"/><w lemma="superstes" xml:id="w18" corresp="#w17 #w18">stes</w> esset, dum operi monasterii tui, quod inceperat, <w lemma="extremam" xml:id="w19" corresp="#w19 #w20">ex-</w>
+<lb n="6" xml:id="bsb00000706_00015_6"/><w lemma="extremam" xml:id="w20" corresp="#w19 #w20">tremam</w> manum imponeret, nimirum illud illi famoso
+<lb n="7" xml:id="bsb00000706_00015_7"/>Spirensi monasterio contenderet, quod ille á fundo
+<lb n="8" xml:id="bsb00000706_00015_8"/>fundatum usque mira mole et sculptili opere complevit,
+<lb n="9" xml:id="bsb00000706_00015_9"/>ut hoc opus super omnia, regum antiquorum opera laude
+<lb n="10" xml:id="bsb00000706_00015_10"/>et admiratione dignum sit. Qualem etiam ornatum ex
+<lb n="11" xml:id="bsb00000706_00015_11"/>auro, argento, lapidibus preciosis et sericis vestibus illi
+<lb n="12" xml:id="bsb00000706_00015_12"/>monasterio contulerit, difficile est credere, nisi cui <w lemma="contingit" xml:id="w21" corresp="#w21 #w22">con-</w>
+<lb n="13" xml:id="bsb00000706_00015_13"/><w lemma="contingit" xml:id="w22" corresp="#w21 #w22">tingit</w> et videre.
+<lb n="14" xml:id="bsb00000706_00015_14"/>Vobis quoque, ó pauperes, vel maxima causa <w lemma="dolendi" xml:id="w23" corresp="#w23 #w24">do-</w>
+<lb n="15" xml:id="bsb00000706_00015_15"/><w lemma="dolendi" xml:id="w24" corresp="#w23 #w24">lendi</w> est; nam nunc demum pauperes facti estis, cum
+<lb n="16" xml:id="bsb00000706_00015_16"/>paupertatis vestrae consolatorem amisistis. Ille vos pavit,
+<lb n="17" xml:id="bsb00000706_00015_17"/>ille manibus suis lavit, ille nuditatem vestram texit.
+<lb n="18" xml:id="bsb00000706_00015_18"/>Non ante ianuam, sed ante mensam eius Lazarus iacuit;
+<lb n="19" xml:id="bsb00000706_00015_19"/>nec micas, sed regias delicias expectavit. In ipsa mensa
+<lb n="20" xml:id="bsb00000706_00015_20"/>saniem et foetorem ulcerosi non abhorruit, cum <w lemma="minister" xml:id="w25" corresp="#w25 #w26">mini-</w>
+<lb n="21" xml:id="bsb00000706_00015_21"/><w lemma="minister" xml:id="w26" corresp="#w25 #w26">ster</w> mensae contra foetentem nares in rugam <w lemma="contraheret" xml:id="w27" corresp="#w27 #w28">con-</w>
+<lb n="22" xml:id="bsb00000706_00015_22"/><w lemma="contraheret" xml:id="w28" corresp="#w27 #w28">traheret</w> aut obstupparet. In cubiculo eius caeci, claudi
+<lb n="23" xml:id="bsb00000706_00015_23"/>et diversis morbis confecti iacebant; hos ipsemet <w lemma="excalciabat" xml:id="w29" corresp="#w29 #w30">ex-</w>
+<lb n="24" xml:id="bsb00000706_00015_24"/><w lemma="excalciabat" xml:id="w30" corresp="#w29 #w30">calciabat</w>, hos collocabat, hos de nocte consurgens
+<lb n="25" xml:id="bsb00000706_00015_25"/>tegebat, nec abhorrebat vel eius tactum, quem aegritudo
+<lb n="26" xml:id="bsb00000706_00015_26"/>compulerat usque ad sordidandum lectum. Iter eius
+<lb n="27" xml:id="bsb00000706_00015_27"/>pauperes praecedebant, comitabantur, sequebantur; <w lemma="quorum" xml:id="w31" corresp="#w31 #w32">quo-</w>
+<lb n="28" xml:id="bsb00000706_00015_28"/><w lemma="quorum" xml:id="w32" corresp="#w31 #w32">rum</w> curam tametsi suis intimis commendasset, ipsemet
+<lb n="29" xml:id="bsb00000706_00015_29"/>tamen eos tamquam nulli commendatos curabat. Sed
+<lb n="30" xml:id="bsb00000706_00015_30"/>et per curtes suas usquequaque stipendia pauperibus
+<lb n="31" xml:id="bsb00000706_00015_31"/>disposuerat, quorum numerum et obitum ipse scire voluit,
+<pb xml:id="bsb00000706_00016" n="11"/><lb n="1" xml:id="bsb00000706_00016_1"/>ut et defuncti memoriam ageret et in eius locum <w lemma="alterum" xml:id="w33" corresp="#w33 #w34">alte-</w>
+<lb n="2" xml:id="bsb00000706_00016_2"/><w lemma="alterum" xml:id="w34" corresp="#w33 #w34">rum</w> subrogatum nosset. Si quando sterilitas anni
+<lb n="3" xml:id="bsb00000706_00016_3"/>famem indixit, inulta milia pascenda suscepit, vere
+<lb n="4" xml:id="bsb00000706_00016_4"/>memor verbi Domini praecipientis: <hi rend="ITALICS">Facite vobis amicos</hi>
+<lb n="5" xml:id="bsb00000706_00016_5"/><hi rend="ITALICS">de mammona iniquitatis, ut, cum defeceritis, recipiant vos in</hi>
+<lb n="6" xml:id="bsb00000706_00016_6"/><hi rend="ITALICS">aeterna tabernacula. </hi>Quid putamus, quo dolore se <w lemma="pauperes" xml:id="w35" corresp="#w35 #w36">pau-</w>
+<lb n="7" xml:id="bsb00000706_00016_7"/><w lemma="pauperes" xml:id="w36" corresp="#w35 #w36">peres</w> afficiant, cum haec bona, quae enumeravimus, et
+<lb n="8" xml:id="bsb00000706_00016_8"/>multo plura quam enumeravimus se habuisse et nunc non
+<lb n="9" xml:id="bsb00000706_00016_9"/>habere recogitant? Quis enim illis hanc humanitatis curam
+<lb n="10" xml:id="bsb00000706_00016_10"/>impendit? Quis querit, ubi eger cubet, vel quid alimenti
+<lb n="11" xml:id="bsb00000706_00016_11"/>postulet? Quis amplius his misericordiae officiis <w lemma="inservit" xml:id="w37" corresp="#w37 #w38">inser-</w>
+<lb n="12" xml:id="bsb00000706_00016_12"/><w lemma="inservit" xml:id="w38" corresp="#w37 #w38">vit</w>, quibus H[einricus] imperator inservivit? O virum <w lemma="pietatis" xml:id="w39" corresp="#w39 #w40">pie-</w>
+<lb n="13" xml:id="bsb00000706_00016_13"/><w lemma="pietatis" xml:id="w40" corresp="#w39 #w40">tatis</w> et humilitatis laude insignem! Imperavit mundo,
+<lb n="14" xml:id="bsb00000706_00016_14"/>pauperes illi. Mundus illi, pauperibus ipse ministravit.
+<lb n="15" xml:id="bsb00000706_00016_15"/>Haec de bono misericordiae in pauperes, quod <w lemma="multum" xml:id="w41" corresp="#w41 #w42">mul-</w>
+<lb n="16" xml:id="bsb00000706_00016_16"/><w lemma="multum" xml:id="w42" corresp="#w41 #w42">tum</w> amavit et quod ab hominibus abscondere non potuit,
+<lb n="17" xml:id="bsb00000706_00016_17"/>non pro dignitate facti, sed pro facultate ingenii primo
+<lb n="18" xml:id="bsb00000706_00016_18"/>locuti – quis enim scire posset, quae solo Deo teste
+<lb n="19" xml:id="bsb00000706_00016_19"/>peregit? – de aliis quoque virtutibus, quibus damit,
+<lb n="20" xml:id="bsb00000706_00016_20"/>aliqua dicamus, nam omnia dicere non sufficimus. Nemo
+<lb n="21" xml:id="bsb00000706_00016_21"/>miretur, si luctui mortis eius vitae quoque eius laeta
+<lb n="22" xml:id="bsb00000706_00016_22"/>gesta inmisceam, cum hic mos dolentium sit, ut, cum
+<lb n="23" xml:id="bsb00000706_00016_23"/>extinctum amicum lugent, totam eius retro vitam et
+<lb n="24" xml:id="bsb00000706_00016_24"/>mores in augmentum doloris sui edisserant. Itaque
+<lb n="25" xml:id="bsb00000706_00016_25"/>iuvat me de eo scribere, <hi rend="ITALICS">iuvat indulgere dolori</hi> et <w lemma="mortuum" xml:id="w43" corresp="#w43 #w44">mor-</w>
+<lb n="26" xml:id="bsb00000706_00016_26"/><w lemma="mortuum" xml:id="w44" corresp="#w43 #w44">tuum</w> flere, qui, dum viveret, gaudium meum fuit.
+<lb n="27" xml:id="bsb00000706_00016_27"/>Ille modo personam imperatoris, modo tamquam
+<lb n="28" xml:id="bsb00000706_00016_28"/>militis gerebat, ex uno gerendae dignitatis, ex altero
+<lb n="29" xml:id="bsb00000706_00016_29"/>documentum prebens humilitatis. Tam subtilis ingenii
+<lb n="30" xml:id="bsb00000706_00016_30"/>tamque magni consilii fuit, ut, dum sententia <w lemma="principum" xml:id="w45" corresp="#w45 #w46">princi-</w>
+<pb xml:id="bsb00000706_00017" n="12"/><lb n="1" xml:id="bsb00000706_00017_1"/><w lemma="principum" xml:id="w46" corresp="#w45 #w46">pum</w> vel in causa decernendi iuris vel in tractandis
+<lb n="2" xml:id="bsb00000706_00017_2"/>regni negotiis hesitaret, ipse cito nodum solveret et, quid
+<lb n="3" xml:id="bsb00000706_00017_3"/>aequius, quid utilius esset, tamquam ab ipsius archano
+<lb n="4" xml:id="bsb00000706_00017_4"/>sapientiae sumptum, edoceret. Intendebat aliorum <w lemma="verbis" xml:id="w47" corresp="#w47 #w48">ver-</w>
+<lb n="5" xml:id="bsb00000706_00017_5"/><w lemma="verbis" xml:id="w48" corresp="#w47 #w48">bis</w>, ipsemet pauca loquebatur; nec prior ad sententiam
+<lb n="6" xml:id="bsb00000706_00017_6"/>erumpebat, sed aliorum expectabat. In cuius vultum
+<lb n="7" xml:id="bsb00000706_00017_7"/>aciem oculorum suorum fixisset, eius animi motus <w lemma="perspiciebat" xml:id="w49" corresp="#w49 #w50">per-</w>
+<lb n="8" xml:id="bsb00000706_00017_8"/><w lemma="perspiciebat" xml:id="w50" corresp="#w49 #w50">spiciebat</w> videbatque tamquam linceis oculis, sive <w lemma="adversum" xml:id="w51" corresp="#w51 #w52">ad-</w>
+<lb n="9" xml:id="bsb00000706_00017_9"/><w lemma="adversum" xml:id="w52" corresp="#w51 #w52">versum</w> se cor odii, seu gereret amoris. Nec illud a
+<lb n="10" xml:id="bsb00000706_00017_10"/>laude vacat, quod in turba procerum caeteris <w lemma="eminentior" xml:id="w53" corresp="#w53 #w54">eminen-</w>
+<lb n="11" xml:id="bsb00000706_00017_11"/><w lemma="eminentior" xml:id="w54" corresp="#w53 #w54">tior</w> et maior se ipso videbatur, et quod in vultu <w lemma="terribile" xml:id="w55" corresp="#w55 #w56">terri-</w>
+<lb n="12" xml:id="bsb00000706_00017_12"/><w lemma="terribile" xml:id="w56" corresp="#w55 #w56">bile</w> quoddam decus praeferebat, unde intuitus <w lemma="aspicientium" xml:id="w57" corresp="#w57 #w58">aspicien-</w>
+<lb n="13" xml:id="bsb00000706_00017_13"/><w lemma="aspicientium" xml:id="w58" corresp="#w57 #w58">tium</w> tamquam fulmine reverberaret, cum inter <w lemma="domesticos" xml:id="w59" corresp="#w59 #w60">domesti-</w>
+<lb n="14" xml:id="bsb00000706_00017_14"/><w lemma="domesticos" xml:id="w60" corresp="#w59 #w60">cos</w> suos et raram turbam vultu placidus et statura
+<lb n="15" xml:id="bsb00000706_00017_15"/>aequalis appareret. Non solum potentes imperii sui <w lemma="metuebant" xml:id="w61" corresp="#w61 #w62">me-</w>
+<lb n="16" xml:id="bsb00000706_00017_16"/><w lemma="metuebant" xml:id="w62" corresp="#w61 #w62">tuebant</w> eum, sed et reges orientis et occidentis ádeo
+<lb n="17" xml:id="bsb00000706_00017_17"/>fama eius perterruit, ut ante tributarii sint facti, quam
+<lb n="18" xml:id="bsb00000706_00017_18"/>victi. Ipse rex Greciae, ut metum dissimularet, <w lemma="amicitiam" xml:id="w63" corresp="#w63 #w64">ami-</w>
+<lb n="19" xml:id="bsb00000706_00017_19"/><w lemma="amicitiam" xml:id="w64" corresp="#w63 #w64">citiam</w> eius expetebat, et quem futurum hostem timuit,
+<lb n="20" xml:id="bsb00000706_00017_20"/>muneribus, ne fieret hostis, praevenit. Testatur hoc
+<lb n="21" xml:id="bsb00000706_00017_21"/>aurea tabula Spirensis altaris, tam artis novitate quam
+<lb n="22" xml:id="bsb00000706_00017_22"/>metalli pondere miranda, quam rex Greciae, dum <w lemma="imperatoris" xml:id="w65" corresp="#w65 #w66">impe-</w>
+<lb n="23" xml:id="bsb00000706_00017_23"/><w lemma="imperatoris" xml:id="w66" corresp="#w65 #w66">ratoris</w> votum et studium circa Spirense monasterium
+<lb n="24" xml:id="bsb00000706_00017_24"/>fervere cognosceret, nobile donum et tam ei qui misit,
+<lb n="25" xml:id="bsb00000706_00017_25"/>quam cui mittebatur, dignissimum transmisit. Sed et
+<lb n="26" xml:id="bsb00000706_00017_26"/>rex Affricae, quia potentiam imperatoris multum timuit,
+<lb n="27" xml:id="bsb00000706_00017_27"/>eius fisco multum addidit.
+<lb n="28" xml:id="bsb00000706_00017_28"/>Oppraessores pauperum oppressit, raptores in <w lemma="direptionem" xml:id="w67" corresp="#w67 #w68">di-</w>
+<lb n="29" xml:id="bsb00000706_00017_29"/><w lemma="direptionem" xml:id="w68" corresp="#w67 #w68">reptionem</w> dedit, contra se contumaces contraque suam
+<lb n="30" xml:id="bsb00000706_00017_30"/>potentiam se levantes adeo retundit, ut in posteris eorum
+<lb n="31" xml:id="bsb00000706_00017_31"/>regiae vindictae vestigia hodieque compareant. Quo <w lemma="nimirum" xml:id="w69" corresp="#w69 #w70">ni-</w>
+<lb n="32" xml:id="bsb00000706_00017_32"/><w lemma="nimirum" xml:id="w70" corresp="#w69 #w70">mirum</w> facto et suis in praesenti et imperii rebus in
+<pb xml:id="bsb00000706_00018" n="13"/><lb n="1" xml:id="bsb00000706_00018_1"/>futurum providit, ut discant non disturbare pacem non
+<lb n="2" xml:id="bsb00000706_00018_2"/>armis imperium vexare.
+<lb n="3" xml:id="bsb00000706_00018_3"/>Hîc velim abrumpere stilum; nam ventum est ad
+<lb n="4" xml:id="bsb00000706_00018_4"/>factiones, ad fraudes et scelera, de quibus vera <w lemma="scribere" xml:id="w71" corresp="#w71 #w72">scri-</w>
+<lb n="5" xml:id="bsb00000706_00018_5"/><w lemma="scribere" xml:id="w72" corresp="#w71 #w72">bere</w> periculum, falsa crimen est. <hi rend="ITALICS">Hac lupus, hac canis</hi>
+<lb n="6" xml:id="bsb00000706_00018_6"/><hi rend="ITALICS">urguet. </hi>Quid igitur faciam? <hi rend="ITALICS">Eloquar, an sileam?</hi>
+<lb n="7" xml:id="bsb00000706_00018_7"/>Manus incipit et dubitat, scribit et rennuit, notat et
+<lb n="8" xml:id="bsb00000706_00018_8"/>delet, ut pene ignorem, quid velim. Sed turpe est <w lemma="incoeptam" xml:id="w73" corresp="#w73 #w74">in-</w>
+<lb n="9" xml:id="bsb00000706_00018_9"/><w lemma="incoeptam" xml:id="w74" corresp="#w73 #w74">coeptam</w> materiam mutilatam relinquere et caput <w lemma="absque" xml:id="w75" corresp="#w75 #w76">abs-</w>
+<lb n="10" xml:id="bsb00000706_00018_10"/><w lemma="absque" xml:id="w76" corresp="#w75 #w76">que</w> membris pinxisse. Pergam igitur ut coepi, <w lemma="constans" xml:id="w77" corresp="#w77 #w78">con-</w>
+<lb n="11" xml:id="bsb00000706_00018_11"/><w lemma="constans" xml:id="w78" corresp="#w77 #w78">stans</w> et securus inde, quod fides tua ea mihi spectata
+<lb n="12" xml:id="bsb00000706_00018_12"/>est, ut haec scripta nulli detegas, aut, siqua foras <w lemma="exierint" xml:id="w79" corresp="#w79 #w80">exie-</w>
+<lb n="13" xml:id="bsb00000706_00018_13"/><w lemma="exierint" xml:id="w80" corresp="#w79 #w80">rint</w>, auctorem non prodas.
+<lb n="14" xml:id="bsb00000706_00018_14"/>2. Cum imperator H[einricus], de quo nobis sermo
+<lb n="15" xml:id="bsb00000706_00018_15"/>est, patri suo, gloriosissimo imperatori, tertio H[einrico],
+<lb n="16" xml:id="bsb00000706_00018_16"/>adhuc puer succederet in regnum – nam illo parvulo pater
+<lb n="17" xml:id="bsb00000706_00018_17"/>naturae concessit –, regno priorem statum adhuc <w lemma="tenente" xml:id="w81" corresp="#w81 #w82">te-</w>
+<lb n="18" xml:id="bsb00000706_00018_18"/><w lemma="tenente" xml:id="w82" corresp="#w81 #w82">nente</w>, non bella pacem disturbabant, non classica <w lemma="quietem" xml:id="w83" corresp="#w83 #w84">quie-</w>
+<lb n="19" xml:id="bsb00000706_00018_19"/><w lemma="quietem" xml:id="w84" corresp="#w83 #w84">tem</w> rumpebant, non rapina grassabatur, non fides <w lemma="mentiebatur" xml:id="w85" corresp="#w85 #w86">men-</w>
+<lb n="20" xml:id="bsb00000706_00018_20"/><w lemma="mentiebatur" xml:id="w86" corresp="#w85 #w86">tiebatur</w>. Adhuc iusticia sui vigoris, adhuc potestas sui
+<lb n="21" xml:id="bsb00000706_00018_21"/>iuris erat. Hunc beatum regni statum Agnes <w lemma="imperatrix" xml:id="w87" corresp="#w87 #w88">impera-</w>
+<lb n="22" xml:id="bsb00000706_00018_22"/><w lemma="imperatrix" xml:id="w88" corresp="#w87 #w88">trix</w> serenissima, virilis ingenii femina, multum iuvit,
+<lb n="23" xml:id="bsb00000706_00018_23"/>quae unâ cum filio rem publicam pari iure gubernavit.
+<lb n="24" xml:id="bsb00000706_00018_24"/>Sed quoniam aetas immatura parum timori est, et,
+<lb n="25" xml:id="bsb00000706_00018_25"/>dum metus languet, audacia crescit, pueriles anni regis
+<lb n="26" xml:id="bsb00000706_00018_26"/>multis suggerebant animum sceleris. Igitur quisque
+<lb n="27" xml:id="bsb00000706_00018_27"/>nitebatur maiori se aequalis aut etiam maior fieri;
+<lb n="28" xml:id="bsb00000706_00018_28"/>multorumque potentia scelere crevit, nec legis metus
+<lb n="29" xml:id="bsb00000706_00018_29"/>ullus erat, quae sub rege parvulo parvam auctoritatem
+<lb n="30" xml:id="bsb00000706_00018_30"/>habebat. Et ut omnia licentius facere possent, primo
+<lb n="31" xml:id="bsb00000706_00018_31"/>puerum matre spoliabant, cuius maturam sapientiam
+<pb xml:id="bsb00000706_00019" n="14"/><lb n="1" xml:id="bsb00000706_00019_1"/>gravesque mores metuebant, illud habentes in causa,
+<lb n="2" xml:id="bsb00000706_00019_2"/>non decere regnum administrari á femina, cum multae
+<lb n="3" xml:id="bsb00000706_00019_3"/>reginae legantur administrasse regna virili sapientia.
+<lb n="4" xml:id="bsb00000706_00019_4"/>Sed postquam rex puer de sinu matris abstractus in
+<lb n="5" xml:id="bsb00000706_00019_5"/>manus principum nutriendus venit, quicquid illi <w lemma="praescribebant" xml:id="w89" corresp="#w89 #w90">prae-</w>
+<lb n="6" xml:id="bsb00000706_00019_6"/><w lemma="praescribebant" xml:id="w90" corresp="#w89 #w90">scribebant</w> faciendum, ut puer fecit: quem volebant
+<lb n="7" xml:id="bsb00000706_00019_7"/>exaltavit, quem volebant deposuit, ut regi suo non tam
+<lb n="8" xml:id="bsb00000706_00019_8"/>ministrasse, quam imperasse merito dicantur. Cum regni
+<lb n="9" xml:id="bsb00000706_00019_9"/>causam tractabant, non tam regni quam suae causae
+<lb n="10" xml:id="bsb00000706_00019_10"/>consulebant; idque praecipuum eis fuit in omnibus quae
+<lb n="11" xml:id="bsb00000706_00019_11"/>agerent ante omnia suum questum facere. Fuit haec
+<lb n="12" xml:id="bsb00000706_00019_12"/>perfidia vel maxima, quod eum quasi sub sigillo <w lemma="servandum" xml:id="w91" corresp="#w91 #w92">servan-</w>
+<lb n="13" xml:id="bsb00000706_00019_13"/><w lemma="servandum" xml:id="w92" corresp="#w91 #w92">dum</w> in puerilibus actis suae potestati relinquebant, ut
+<lb n="14" xml:id="bsb00000706_00019_14"/>et sic elicerent ab eo quod affectabant.
+<lb n="15" xml:id="bsb00000706_00019_15"/>Sed cum in eam aetatis et ingenii metam <w lemma="evasisset" xml:id="w93" corresp="#w93 #w94">evasis-</w>
+<lb n="16" xml:id="bsb00000706_00019_16"/><w lemma="evasisset" xml:id="w94" corresp="#w93 #w94">set</w>, ut quid honestum, quid turpe, quid utile, quid
+<lb n="17" xml:id="bsb00000706_00019_17"/>non, discernere posset, retractans quae suggestione
+<lb n="18" xml:id="bsb00000706_00019_18"/>principum inductus gessisset, multa, quae gesserat,
+<lb n="19" xml:id="bsb00000706_00019_19"/>damnavit; et ipse iudex sui factus, ex his mutanda <w lemma="mutavit" xml:id="w95" corresp="#w95 #w96">mu-</w>
+<lb n="20" xml:id="bsb00000706_00019_20"/><w lemma="mutavit" xml:id="w96" corresp="#w95 #w96">tavit</w>. Prohibebat quoque bella, violentiam et rapinas;
+<lb n="21" xml:id="bsb00000706_00019_21"/>nitebatur pulsam pacem et iusticiam revocare, neglectas
+<lb n="22" xml:id="bsb00000706_00019_22"/>leges restituere et sceleris licentiam resecare. Quos
+<lb n="23" xml:id="bsb00000706_00019_23"/>assuetos sceleri per edictum cohercere non potuit, per
+<lb n="24" xml:id="bsb00000706_00019_24"/>censuram legis et ius curiae, mitius tamen quam culpa
+<lb n="25" xml:id="bsb00000706_00019_25"/>exigeret, correxit. Quod illi non iusticiam, sed iniuriam
+<lb n="26" xml:id="bsb00000706_00019_26"/>reputantes, et qui legem abiecerant, lege constringi, et
+<lb n="27" xml:id="bsb00000706_00019_27"/>qui per omne nefas ruebant, frena pati respuentes,
+<lb n="28" xml:id="bsb00000706_00019_28"/>qualiter eum vel extinguerent vel privatum facerent,
+<lb n="29" xml:id="bsb00000706_00019_29"/>consiliis incumbebant, non recolentes se debere civibus
+<lb n="30" xml:id="bsb00000706_00019_30"/>suis pacem, regno iusticiam, regi fidem.
+<lb n="31" xml:id="bsb00000706_00019_31"/>3. Igitur Saxones, gens dura, bellis aspera, tam
+<lb n="32" xml:id="bsb00000706_00019_32"/>preceps ad arma quam audax, vendicans sibi <w lemma="praerogativam" xml:id="w97" corresp="#w97 #w98">praeroga-</w>
+<lb n="33" xml:id="bsb00000706_00019_33"/><w lemma="praerogativam" xml:id="w98" corresp="#w97 #w98">tivam</w> laudis ex incepto furoris, repente super regem
+<pb xml:id="bsb00000706_00020" n="15"/><lb n="1" xml:id="bsb00000706_00020_1"/>armis ruebant; qui cum paucis contra innumeros <w lemma="armatos" xml:id="w99" corresp="#w99 #w100">arma-</w>
+<lb n="2" xml:id="bsb00000706_00020_2"/><w lemma="armatos" xml:id="w100" corresp="#w99 #w100">tos</w> confligere periculosum estimans, vix elapsus vitam
+<lb n="3" xml:id="bsb00000706_00020_3"/>laudi, salutem fortunae praetulit. Itaque videntes <w lemma="inceptum" xml:id="w101" corresp="#w101 #w102">in-</w>
+<lb n="4" xml:id="bsb00000706_00020_4"/><w lemma="inceptum" xml:id="w102" corresp="#w101 #w102">ceptum</w> suum votis suis non respondisse, ossa filii regis
+<lb n="5" xml:id="bsb00000706_00020_5"/>,– necdum enim imperator factus erat – ó inhumanam
+<lb n="6" xml:id="bsb00000706_00020_6"/>mentem, ó probrosam vindictam! – effodêre. Qua <w lemma="utraque" xml:id="w103" corresp="#w103 #w104">utra-</w>
+<lb n="7" xml:id="bsb00000706_00020_7"/><w lemma="utraque" xml:id="w104" corresp="#w103 #w104">que</w> iniuria gravissima rex commotus exercitum contra
+<lb n="8" xml:id="bsb00000706_00020_8"/>gentem illam duxit, conflixit, vicit; vicit, inquam, aciem
+<lb n="9" xml:id="bsb00000706_00020_9"/>contra se instructam, non obstinationem erectam. Nam
+<lb n="10" xml:id="bsb00000706_00020_10"/>ilicet eos in pugna congressos vinceret, victos fugaret,
+<lb n="11" xml:id="bsb00000706_00020_11"/>fugatos persequeretur; licet bona eorum devastaret,
+<lb n="12" xml:id="bsb00000706_00020_12"/>munitiones everteret et omnia quae victorem libet <w lemma="faceret" xml:id="w105" corresp="#w105 #w106">face-</w>
+<lb n="13" xml:id="bsb00000706_00020_13"/><w lemma="faceret" xml:id="w106" corresp="#w105 #w106">ret</w>, non tamen ad deditionem cogi potuerunt. Iterum
+<lb n="14" xml:id="bsb00000706_00020_14"/>cum inde digressus reparato in brevi exercitu eos <w lemma="invaderet" xml:id="w107" corresp="#w107 #w108">in-</w>
+<lb n="15" xml:id="bsb00000706_00020_15"/><w lemma="invaderet" xml:id="w108" corresp="#w107 #w108">vaderet</w>, diffidentes viribus suis , utpote in priori bello
+<lb n="16" xml:id="bsb00000706_00020_16"/>gravissime contusis, quod saluti proximum erat, se <w lemma="dedidere" xml:id="w109" corresp="#w109 #w110">de-</w>
+<lb n="17" xml:id="bsb00000706_00020_17"/><w lemma="dedidere" xml:id="w110" corresp="#w109 #w110">didere</w>, sperantes regem sola deditione contentum <w lemma="gratiam" xml:id="w111" corresp="#w111 #w112">gra-</w>
+<lb n="18" xml:id="bsb00000706_00020_18"/><w lemma="gratiam" xml:id="w112" corresp="#w111 #w112">tiam</w> suam facile donaturum. Sed longe praeter, spem
+<lb n="19" xml:id="bsb00000706_00020_19"/>evenit; nam rex eos exilio addictos in alienas terras
+<lb n="20" xml:id="bsb00000706_00020_20"/>misit, ubi dura custodia constricti relaxationis edictum
+<lb n="21" xml:id="bsb00000706_00020_21"/>expectarent.
+<lb n="22" xml:id="bsb00000706_00020_22"/>De quo exilio alii fuga elapsi, alii propter <w lemma="pecuniam" xml:id="w113" corresp="#w113 #w114">pecu-</w>
+<lb n="23" xml:id="bsb00000706_00020_23"/><w lemma="pecuniam" xml:id="w114" corresp="#w113 #w114">niam</w> á custodibus dimissi, dum ad patriam et domum
+<lb n="24" xml:id="bsb00000706_00020_24"/>suam repedassent, recenti coniuratione se invicem <w lemma="obligabant" xml:id="w115" corresp="#w115 #w116">obli-</w>
+<lb n="25" xml:id="bsb00000706_00020_25"/><w lemma="obligabant" xml:id="w116" corresp="#w115 #w116">gabant</w>, ut parati essent ante mori, quam denuo <w lemma="deditione" xml:id="w117" corresp="#w117 #w118">dedi-</w>
+<lb n="26" xml:id="bsb00000706_00020_26"/><w lemma="deditione" xml:id="w118" corresp="#w117 #w118">tione</w> subici. Sed et validior eorum coniuratio facta est,
+<lb n="27" xml:id="bsb00000706_00020_27"/>quia nonnulli Longobardorum, Francorum, Bawariorum,
+<lb n="28" xml:id="bsb00000706_00020_28"/>Suevorum, data et accepta fide, illis conglutinati sunt,
+<lb n="29" xml:id="bsb00000706_00020_29"/>qui regem bellis undique pulsarent. Videntes autem
+<lb n="30" xml:id="bsb00000706_00020_30"/>regem bellis tangi posse, non deici, vexari, non superari
+<lb n="31" xml:id="bsb00000706_00020_31"/>– quippe cuius robur adhuc erat inexpugnabile –, ut vires
+<pb xml:id="bsb00000706_00021" n="16"/><lb n="1" xml:id="bsb00000706_00021_1"/>eius extenuarent, confictis conscriptisque super eo <w lemma="criminibus" xml:id="w119" corresp="#w119 #w120">crimi-</w>
+<lb n="2" xml:id="bsb00000706_00021_2"/><w lemma="criminibus" xml:id="w120" corresp="#w119 #w120">nibus</w>, quae pessima et inmundissima potuit odium et
+<lb n="3" xml:id="bsb00000706_00021_3"/>livor excogitare, et quae mihi scribenti tibique legenti
+<lb n="4" xml:id="bsb00000706_00021_4"/>nausiam parerent, si ea ponerem, vera falsis miscentes,
+<lb n="5" xml:id="bsb00000706_00021_5"/>apud Romanum pontificem Gregorium eum deferebant:
+<lb n="6" xml:id="bsb00000706_00021_6"/>non decere tam flagitiosum, plus notum crimine quam
+<lb n="7" xml:id="bsb00000706_00021_7"/>nomine, regnare, maxime cum sibi regiam dignitatem
+<lb n="8" xml:id="bsb00000706_00021_8"/>Roma non contulerit; oportere Romae suum ius in <w lemma="constituendis" xml:id="w121" corresp="#w121 #w122">con-</w>
+<lb n="9" xml:id="bsb00000706_00021_9"/><w lemma="constituendis" xml:id="w122" corresp="#w121 #w122">stituendis</w> regibus reddi; provideret apostolicus et Roma
+<lb n="10" xml:id="bsb00000706_00021_10"/>regem ex consilio principum, cuius vita et sapientia
+<lb n="11" xml:id="bsb00000706_00021_11"/>tanto congrueret honori. Qua surreptione delusus <w lemma="apostolicus" xml:id="w123" corresp="#w123 #w124">apo-</w>
+<lb n="12" xml:id="bsb00000706_00021_12"/><w lemma="apostolicus" xml:id="w124" corresp="#w123 #w124">stolicus</w>, simul et honore creandi regis, quem sibi <w lemma="fallaciter" xml:id="w125" corresp="#w125 #w126">falla-</w>
+<lb n="13" xml:id="bsb00000706_00021_13"/><w lemma="fallaciter" xml:id="w126" corresp="#w125 #w126">citer</w> obtulerant, impulsus, regem banno innodavit et
+<lb n="14" xml:id="bsb00000706_00021_14"/>episcopis aliisque regni principibus, ut á communione
+<lb n="15" xml:id="bsb00000706_00021_15"/>excommunicati regis se retraherent, denunciavit; se cito
+<lb n="16" xml:id="bsb00000706_00021_16"/>venturum in Teutonicas partes, ubi de negotiis <w lemma="aecclesiasticis" xml:id="w127" corresp="#w127 #w128">aeccle-</w>
+<lb n="17" xml:id="bsb00000706_00021_17"/><w lemma="aecclesiasticis" xml:id="w128" corresp="#w127 #w128">siasticis</w> et potissimum de regno tractaretur. Quin et
+<lb n="18" xml:id="bsb00000706_00021_18"/>hoc addidit: absolvit omnes a iuramento, qui fidem regi
+<lb n="19" xml:id="bsb00000706_00021_19"/>iuraverant, ut contra eum impelleret absolutio, quos
+<lb n="20" xml:id="bsb00000706_00021_20"/>fidei tenuit obligatio. Quod factum multis displicuit –
+<lb n="21" xml:id="bsb00000706_00021_21"/>si cui displicere licet, quod apostolicus fecit –, et <w lemma="asserebant" xml:id="w129" corresp="#w129 #w130">asse-</w>
+<lb n="22" xml:id="bsb00000706_00021_22"/><w lemma="asserebant" xml:id="w130" corresp="#w129 #w130">rebant</w> tam inefficaciter quam illicite factum, quod <w lemma="factum" xml:id="w131" corresp="#w131 #w132">fac-</w>
+<lb n="23" xml:id="bsb00000706_00021_23"/><w lemma="factum" xml:id="w132" corresp="#w131 #w132">tum</w> est. Sed non ausim assertiones eorum ponere, ne
+<lb n="24" xml:id="bsb00000706_00021_24"/>videar cum eis apostolici factum refellere. Mox episcopi,
+<lb n="25" xml:id="bsb00000706_00021_25"/>tam illi quos amor quam quos timor in partem regis
+<lb n="26" xml:id="bsb00000706_00021_26"/>traxerat, metuentes ordini suo, ab eius auxilio plerique
+<lb n="27" xml:id="bsb00000706_00021_27"/>se retrahebant; quod et maior pars procerum factitabat.
+<lb n="28" xml:id="bsb00000706_00021_28"/>Tum vero videns rem suam in arto sitam, inito tam
+<lb n="29" xml:id="bsb00000706_00021_29"/>occulto quam astuto consilio, subitum et inopinatum iter
+<lb n="30" xml:id="bsb00000706_00021_30"/>in occursum apostolici arripuit, unoque facto duo <w lemma="peregit" xml:id="w133" corresp="#w133 #w134">per-</w>
+<lb n="31" xml:id="bsb00000706_00021_31"/><w lemma="peregit" xml:id="w134" corresp="#w133 #w134">egit</w>, scilicet et banni solutionem accepit et suspectum
+<lb n="32" xml:id="bsb00000706_00021_32"/>sibi colloquium apostolici cum adversariis suis ipse <w lemma="medius" xml:id="w135" corresp="#w135 #w136">me-</w>
+<lb n="33" xml:id="bsb00000706_00021_33"/><w lemma="medius" xml:id="w136" corresp="#w135 #w136">dius</w> intercepit. Pro imposito sibi crimine parum <w lemma="respondit" xml:id="w137" corresp="#w137 #w138">re-</w>
+<lb n="34" xml:id="bsb00000706_00021_34"/><w lemma="respondit" xml:id="w138" corresp="#w137 #w138">spondit</w>, quia ad accusationem inimicorum suorum, etsi
+<lb n="35" xml:id="bsb00000706_00021_35"/>vera fuisset, non sibi respondendum asseruit.
+<lb n="36" xml:id="bsb00000706_00021_36"/>Quid vobis profuit hoc egisse, ut banno <w lemma="illigaretur" xml:id="w139" corresp="#w139 #w140">illigare-</w>
+<pb xml:id="bsb00000706_00022" n="17"/><lb n="1" xml:id="bsb00000706_00022_1"/><w lemma="illigaretur" xml:id="w140" corresp="#w139 #w140">tur</w>, cum de banno solutus potentia sua potenter <w lemma="utatur" xml:id="w141" corresp="#w141 #w142">uta-</w>
+<lb n="2" xml:id="bsb00000706_00022_2"/><w lemma="utatur" xml:id="w142" corresp="#w141 #w142">tur</w>? Quid vobis profuit eum fictis criminibus accusasse,
+<lb n="3" xml:id="bsb00000706_00022_3"/>cum accusationem vestram facili responso, ut ventus
+<lb n="4" xml:id="bsb00000706_00022_4"/>pulverem, dissipaverit? Immo quae dementia vos contra
+<lb n="5" xml:id="bsb00000706_00022_5"/>regem vestrum et orbis rectorem armavit? Nihil <w lemma="coniurata" xml:id="w143" corresp="#w143 #w144">con-</w>
+<lb n="6" xml:id="bsb00000706_00022_6"/><w lemma="coniurata" xml:id="w144" corresp="#w143 #w144">iurata</w> vestra malignitas proficit, nihil peragit. Quem
+<lb n="7" xml:id="bsb00000706_00022_7"/>Dei manus in regno firmavit, vestra deicere non poterit.
+<lb n="8" xml:id="bsb00000706_00022_8"/>Ubi fides, quam illi iurastis? Quare beneficiorum, quae
+<lb n="9" xml:id="bsb00000706_00022_9"/>regia liberalitate contulit in vos, obliti estis? Utimini
+<lb n="10" xml:id="bsb00000706_00022_10"/>vel adhuc sano consilio, non furore; poeniteat vos <w lemma="incepti" xml:id="w145" corresp="#w145 #w146">in-</w>
+<lb n="11" xml:id="bsb00000706_00022_11"/><w lemma="incepti" xml:id="w146" corresp="#w145 #w146">cepti</w>, ne forte fortior vobis superveniens vincat vos et
+<lb n="12" xml:id="bsb00000706_00022_12"/>pedibus suis conculcet vos et ea vindicta feriat, quae
+<lb n="13" xml:id="bsb00000706_00022_13"/>futuris saeculis demonstret, quid regia manus valeat.
+<lb n="14" xml:id="bsb00000706_00022_14"/>Saltem vos, ó episcopi, videte, <hi rend="ITALICS">ne pereatis de via iusta;</hi>
+<lb n="15" xml:id="bsb00000706_00022_15"/>videte, ne transgressores promissae fidei fiatis; alioquin,
+<lb n="16" xml:id="bsb00000706_00022_16"/>quid consequatur vos, ipsi nostis.
+<lb n="17" xml:id="bsb00000706_00022_17"/>4. Igitur rex ab apostolico regressus, benedictione
+<lb n="18" xml:id="bsb00000706_00022_18"/>pro maledictione accepta, Boͮdolfum ducem super se
+<lb n="19" xml:id="bsb00000706_00022_19"/>regem creatum invenit; qui audita regressionis eius fama,
+<lb n="20" xml:id="bsb00000706_00022_20"/>ante paratus ad fugam quam ad pugnam, ante pulsus
+<lb n="21" xml:id="bsb00000706_00022_21"/>quam victus, in Saxoniam fugit. Facile est regnum <w lemma="accipere" xml:id="w147" corresp="#w147 #w148">acci-</w>
+<lb n="22" xml:id="bsb00000706_00022_22"/><w lemma="accipere" xml:id="w148" corresp="#w147 #w148">pere</w>, difficile tueri. Sed nulli mirum sit virum in rebus
+<lb n="23" xml:id="bsb00000706_00022_23"/>bellicis exercitatum et strennuum nunc fugisse, quia
+<lb n="24" xml:id="bsb00000706_00022_24"/>sepe iustior et victrix causa fortes in metum mittit et
+<lb n="25" xml:id="bsb00000706_00022_25"/>in fugam. O avariciam pestem pessimam, quae bonos
+<lb n="26" xml:id="bsb00000706_00022_26"/>mores transvertit et sepe ipsas virtutes ad vicia trahit.
+<lb n="27" xml:id="bsb00000706_00022_27"/>Iste B.[oͮdolfus], dux eximius, vir magnae auctoritatis et <w lemma="laudis" xml:id="w149" corresp="#w149 #w150">lau-</w>
+<lb n="28" xml:id="bsb00000706_00022_28"/><w lemma="laudis" xml:id="w150" corresp="#w149 #w150">dis</w> in toto regno, veri rectique tenax, fortis in armis,
+<lb n="29" xml:id="bsb00000706_00022_29"/>denique spectatus in omni genere virtutum, iste, inquam,
+<lb n="30" xml:id="bsb00000706_00022_30"/>avaricia, quae vincit omnia, victus et supplantator domini
+<lb n="31" xml:id="bsb00000706_00022_31"/>sui factus, fidem incerto postposuit honori. Fuere tamen
+<lb n="32" xml:id="bsb00000706_00022_32"/>qui dicerent ab apostolico eum inmissum nec umquam
+<lb n="33" xml:id="bsb00000706_00022_33"/>tantae virtutis virum magis avaritiae quam consilio <w lemma="cessisse" xml:id="w151" corresp="#w151 #w152">ces-</w>
+<pb xml:id="bsb00000706_00023" n="18"/><lb n="1" xml:id="bsb00000706_00023_1"/><w lemma="cessisse" xml:id="w152" corresp="#w151 #w152">sisse</w>; et hoc in argumentum sibi sumebant, quod <w lemma="apostolicus" xml:id="w153" corresp="#w153 #w154">apo-</w>
+<lb n="2" xml:id="bsb00000706_00023_2"/><w lemma="apostolicus" xml:id="w154" corresp="#w153 #w154">stolicus</w> tacuit, dum post absolutionem regis Roͮdolfus
+<lb n="3" xml:id="bsb00000706_00023_3"/>regnum invasit, iuxta illud comici: <hi rend="ITALICS">Qui tacet, satis laudat.</hi>
+<lb n="4" xml:id="bsb00000706_00023_4"/>Itaque rex cedente R[oͮdolfo], cuius caput, si <w lemma="deprehensus" xml:id="w155" corresp="#w155 #w156">depre-</w>
+<lb n="5" xml:id="bsb00000706_00023_5"/><w lemma="deprehensus" xml:id="w156" corresp="#w155 #w156">hensus</w> esset, vindex gladius digne rotaret, Bawariam,
+<lb n="6" xml:id="bsb00000706_00023_6"/>Sueviam invasit et coniurationis adversum se sotios
+<lb n="7" xml:id="bsb00000706_00023_7"/>vastavit, munitiones eorum fregit; nec tamen pro <w lemma="iniuriae" xml:id="w157" corresp="#w157 #w158">in-</w>
+<lb n="8" xml:id="bsb00000706_00023_8"/><w lemma="iniuriae" xml:id="w158" corresp="#w157 #w158">iuriae</w> suae materia se vindicabat, sed sciens in ultione
+<lb n="9" xml:id="bsb00000706_00023_9"/>freno uti, longe infra metam culpae cohibebat habenas
+<lb n="10" xml:id="bsb00000706_00023_10"/>vindictae. Sed R[oͮdolfus] ut dedecus fugae virtutis
+<lb n="11" xml:id="bsb00000706_00023_11"/>facto recompensaret, Wirziburgensem civitatem obsedit,
+<lb n="12" xml:id="bsb00000706_00023_12"/>ubi tamen fraude magis quam virtute pugnatum est.
+<lb n="13" xml:id="bsb00000706_00023_13"/>Nam cum rex ad propellendum hostem exercitum <w lemma="convocasset" xml:id="w159" corresp="#w159 #w160">con-</w>
+<lb n="14" xml:id="bsb00000706_00023_14"/><w lemma="convocasset" xml:id="w160" corresp="#w159 #w160">vocasset</w>, instructa ambarum partium acie et primis inter
+<lb n="15" xml:id="bsb00000706_00023_15"/>se praelia miscentibus, quidam equites regiae partis,
+<lb n="16" xml:id="bsb00000706_00023_16"/>mercede conducti, qui se regis lateri quasi fidi clientes
+<lb n="17" xml:id="bsb00000706_00023_17"/>applicuerant, subito in ipsum arma verterunt; sed aere
+<lb n="18" xml:id="bsb00000706_00023_18"/>munito corpori livorem, non vulnus inflixerunt. Heu
+<lb n="19" xml:id="bsb00000706_00023_19"/>miserrimi, quibus pretium et sceleris causa fuit et necis,
+<lb n="20" xml:id="bsb00000706_00023_20"/>quos uno in loco et crimen involvit et vindicta; nam
+<lb n="21" xml:id="bsb00000706_00023_21"/>eos tot vindices dextrae in frusta concidebant, ut in eis
+<lb n="22" xml:id="bsb00000706_00023_22"/>humani cadaveris figura periret. Fit tumultus, exoritur
+<lb n="23" xml:id="bsb00000706_00023_23"/>clamor, spargitur verbum regem interfectum; quo verbo
+<lb n="24" xml:id="bsb00000706_00023_24"/>perterritus exercitus fugit, hostis insequitur, et quoniam
+<lb n="25" xml:id="bsb00000706_00023_25"/>in equis equitum salus praeter paucos constabat, solis
+<lb n="26" xml:id="bsb00000706_00023_26"/>peditibus miserabile fatum incubuit; ideoque victoria
+<lb n="27" xml:id="bsb00000706_00023_27"/>quanto maioris sceleris, tanto minoris tituli fuit. Sic
+<lb n="28" xml:id="bsb00000706_00023_28"/>hostis urbe capta impositoque praesidio in Saxoniam <w lemma="regressus" xml:id="w161" corresp="#w161 #w162">re-</w>
+<lb n="29" xml:id="bsb00000706_00023_29"/><w lemma="regressus" xml:id="w162" corresp="#w161 #w162">gressus</w> est. Quid, improbe, tibi profuit vel indiscreta
+<pb xml:id="bsb00000706_00024" n="19"/><lb n="1" xml:id="bsb00000706_00024_1"/>cedes fugientis vulgi vel fortuna captae urbis, cum
+<lb n="2" xml:id="bsb00000706_00024_2"/>nec urbe diu, numquam autem regno potiaris? Rex
+<lb n="3" xml:id="bsb00000706_00024_3"/>enim brevi post tempore cum exercitu reversus ereptam
+<lb n="4" xml:id="bsb00000706_00024_4"/>urbem recepit; nam hi, quibus provincia tuendae urbis
+<lb n="5" xml:id="bsb00000706_00024_5"/>tradita fuerat, ex urbe profugerant. Postea Saxoniam
+<lb n="6" xml:id="bsb00000706_00024_6"/>sepius cum exercitu ingressus, aut victor aut aequa manu
+<lb n="7" xml:id="bsb00000706_00024_7"/>recessit; sed ad ultimum reversus, tam notanda quam
+<lb n="8" xml:id="bsb00000706_00024_8"/>felici victoria vicit, magnumque mundo documentum
+<lb n="9" xml:id="bsb00000706_00024_9"/>datum est, ut nemo contra dominum suum consurgat.
+<lb n="10" xml:id="bsb00000706_00024_10"/>Nam abscisa R[oͮdolfus] dextera dignissimam periurii <w lemma="vindictam" xml:id="w163" corresp="#w163 #w164">vin-</w>
+<lb n="11" xml:id="bsb00000706_00024_11"/><w lemma="vindictam" xml:id="w164" corresp="#w163 #w164">dictam</w> demonstravit, qui fidem domino suo regi iuratam
+<lb n="12" xml:id="bsb00000706_00024_12"/>violare non timuit; et tamquam alia vulnera non <w lemma="sufficerent" xml:id="w165" corresp="#w165 #w166">suffi-</w>
+<lb n="13" xml:id="bsb00000706_00024_13"/><w lemma="sufficerent" xml:id="w166" corresp="#w165 #w166">cerent</w> ad mortem, accessit etiam huius membri pęna,
+<lb n="14" xml:id="bsb00000706_00024_14"/>ut per poenam agnosceretur et culpa. Sed et aliud
+<lb n="15" xml:id="bsb00000706_00024_15"/>notandum in illa victoria contigit, videlicet quod tam
+<lb n="16" xml:id="bsb00000706_00024_16"/>victor quam victus exercitus fugit; nimirum hoc <w lemma="ordinante" xml:id="w167" corresp="#w167 #w168">ordi-</w>
+<lb n="17" xml:id="bsb00000706_00024_17"/><w lemma="ordinante" xml:id="w168" corresp="#w167 #w168">nante</w> desuper divina clementia, ut post ruinam capitis
+<lb n="18" xml:id="bsb00000706_00024_18"/>ex alterna fuga tolleretur nefas alternae cedis. Sed
+<lb n="19" xml:id="bsb00000706_00024_19"/>gens dura nec damno monita est nec signo; quin potius
+<lb n="20" xml:id="bsb00000706_00024_20"/>ut obstinatione vinceret, quod manu non poterat, <w lemma="Herimannum" xml:id="w169" corresp="#w169 #w170">Heri-</w>
+<lb n="21" xml:id="bsb00000706_00024_21"/><w lemma="Herimannum" xml:id="w170" corresp="#w169 #w170">mannum</w> novum sibi regem constituit, qui et ipse novo
+<lb n="22" xml:id="bsb00000706_00024_22"/>modo periit. Nam cum Saxones eum de terra sua <w lemma="proturbarent" xml:id="w171" corresp="#w171 #w172">pro-</w>
+<lb n="23" xml:id="bsb00000706_00024_23"/><w lemma="proturbarent" xml:id="w172" corresp="#w171 #w172">turbarent</w>, quicquid illud fuerit, quod eis in illo <w lemma="displicuit" xml:id="w173" corresp="#w173 #w174">displi-</w>
+<lb n="24" xml:id="bsb00000706_00024_24"/><w lemma="displicuit" xml:id="w174" corresp="#w173 #w174">cuit</w>, reversus in patriam suam, portans inane nomen
+<lb n="25" xml:id="bsb00000706_00024_25"/>regis, ad Herimannum Trevirensem episcopum se <w lemma="contulit" xml:id="w175" corresp="#w175 #w176">con-</w>
+<lb n="26" xml:id="bsb00000706_00024_26"/><w lemma="contulit" xml:id="w176" corresp="#w175 #w176">tulit</w>, quem etiam ad ausum sentiendi contra regem <w lemma="inexpugnabilis" xml:id="w177" corresp="#w177 #w178">in-</w>
+<lb n="27" xml:id="bsb00000706_00024_27"/><w lemma="inexpugnabilis" xml:id="w178" corresp="#w177 #w178">expugnabilis</w> munitionum firmitas impulerat. Quanta
+<lb n="28" xml:id="bsb00000706_00024_28"/>potentia regis, qui alendus fuerat non ex suis, sed ex
+<pb xml:id="bsb00000706_00025" n="20"/><lb n="1" xml:id="bsb00000706_00025_1"/>opibus alienis! Quadam die cum iter ageret, incidit
+<lb n="2" xml:id="bsb00000706_00025_2"/>animo suo iocus ille, ut ad castellum, quo ituri erant,
+<lb n="3" xml:id="bsb00000706_00025_3"/>sub specie hostium ruerent et, quae audacia, quae virtus
+<lb n="4" xml:id="bsb00000706_00025_4"/>animis defendentium inesset, temptarent. Quam <w lemma="mirabilem" xml:id="w179" corresp="#w179 #w180">mira-</w>
+<lb n="5" xml:id="bsb00000706_00025_5"/><w lemma="mirabilem" xml:id="w180" corresp="#w179 #w180">bilem</w> viam, quam inopinam sepe invenit quod futurum
+<lb n="6" xml:id="bsb00000706_00025_6"/>est, ut fiat! Cumque portam absque claustris et absque
+<lb n="7" xml:id="bsb00000706_00025_7"/>custode repertam irrumperent, aliis qui intus erant,
+<lb n="8" xml:id="bsb00000706_00025_8"/>raptis armis, viriliter contra procurrentibus, aliis <w lemma="latebras" xml:id="w181" corresp="#w181 #w182">late-</w>
+<lb n="9" xml:id="bsb00000706_00025_9"/><w lemma="latebras" xml:id="w182" corresp="#w181 #w182">bras</w> enerviter queritantibus, femina, sexu femina, non
+<lb n="10" xml:id="bsb00000706_00025_10"/>animo, quae in turrim evaserat, molarem in caput regis
+<lb n="11" xml:id="bsb00000706_00025_11"/>dimisit; et sic ille manu feminea, ut mors eius turpior
+<lb n="12" xml:id="bsb00000706_00025_12"/>esset, occubuit. Sed ut hoc dedecus dealbarent, feminae
+<lb n="13" xml:id="bsb00000706_00025_13"/>factum in virilem personam ex composito transtulerunt.
+<lb n="14" xml:id="bsb00000706_00025_14"/>5. Post hanc regum fortunam in creatione regum
+<lb n="15" xml:id="bsb00000706_00025_15"/>diu hesitatum est, et casus praeteriti metus erat <w lemma="futuri" xml:id="w183" corresp="#w183 #w184">fu-</w>
+<lb n="16" xml:id="bsb00000706_00025_16"/><w lemma="futuri" xml:id="w184" corresp="#w183 #w184">turi</w>. Vicit tandem cupiditas et Ekkibertum marchionem
+<lb n="17" xml:id="bsb00000706_00025_17"/>ad ambitum regni forti manu impulit. Qui tamen in
+<lb n="18" xml:id="bsb00000706_00025_18"/>morte sero didicit, quod alter ex alterius damnis <w lemma="instrui" xml:id="w185" corresp="#w185 #w186">in-</w>
+<lb n="19" xml:id="bsb00000706_00025_19"/><w lemma="instrui" xml:id="w186" corresp="#w185 #w186">strui</w> possit.
+<lb n="20" xml:id="bsb00000706_00025_20"/>Urbs erat in Saxonia, quae, quia fortunam regis
+<lb n="21" xml:id="bsb00000706_00025_21"/>prospero ire cursu videbat, in partes eius se converterat,
+<lb n="22" xml:id="bsb00000706_00025_22"/>praesumens fiduciam et ex loci sui firmitate et ex regia
+<lb n="23" xml:id="bsb00000706_00025_23"/>subventione. Quod indigne ferentes Saxonum proceres
+<lb n="24" xml:id="bsb00000706_00025_24"/>urbem obsidione vallabant. Marchio vero E[kkibertus],
+<lb n="25" xml:id="bsb00000706_00025_25"/>qui spe potiundi regni intumuerat, ut se accommodaret ad
+<lb n="26" xml:id="bsb00000706_00025_26"/>id quod affectabat, maiori super omnes robore ad <w lemma="obsidionem" xml:id="w187" corresp="#w187 #w188">obsi-</w>
+<lb n="27" xml:id="bsb00000706_00025_27"/><w lemma="obsidionem" xml:id="w188" corresp="#w187 #w188">dionem</w> illam ibat praemissaque multitudine cum paucis
+<lb n="28" xml:id="bsb00000706_00025_28"/>ipse sequebatur. Quem deviantem á publica via, ne
+<lb n="29" xml:id="bsb00000706_00025_29"/>forte incideret in hostes – quis enim tam potens, qui
+<pb xml:id="bsb00000706_00026" n="21"/><lb n="1" xml:id="bsb00000706_00026_1"/><hi rend="ITALICS">h</hi>oste careat aut qui hostiles insidias non metuat? –
+<lb n="2" xml:id="bsb00000706_00026_2"/>latens semita per quoddam arbustum duxit. Quam <w lemma="occulta" xml:id="w189" corresp="#w189 #w190">oc-</w>
+<lb n="3" xml:id="bsb00000706_00026_3"/><w lemma="occulta" xml:id="w190" corresp="#w189 #w190">culta</w> iudicia tua, Deus, quam miro ordine et abscondis
+<lb n="4" xml:id="bsb00000706_00026_4"/>quae facturus es et aperis quae abscondisti! Iam <w lemma="meridianus" xml:id="w191" corresp="#w191 #w192">meri-</w>
+<lb n="5" xml:id="bsb00000706_00026_5"/><w lemma="meridianus" xml:id="w192" corresp="#w191 #w192">dianus</w> ardor solis equos equorumque sessores urebat et,
+<lb n="6" xml:id="bsb00000706_00026_6"/>ut fit, sitim aestus accendebat. Praeterea tam gravis
+<lb n="7" xml:id="bsb00000706_00026_7"/>sopor fessis obrêpit, ut colla somno languida <w lemma="pend&#xEA;rent" xml:id="w193" corresp="#w193 #w194">pendê-</w>
+<lb n="8" xml:id="bsb00000706_00026_8"/><w lemma="pend&#xEA;rent" xml:id="w194" corresp="#w193 #w194">rent</w>, et equi frenis non flexi liberam viam carperent.
+<lb n="9" xml:id="bsb00000706_00026_9"/>Haut procul in recessu saltus solitarium molendinum
+<lb n="10" xml:id="bsb00000706_00026_10"/>conspexere, quo divertentes sopori se dedere, misso
+<lb n="11" xml:id="bsb00000706_00026_11"/>Interim molendinario, qui de villa potum sitientibus
+<lb n="12" xml:id="bsb00000706_00026_12"/>afferret. Qui dum imposito scapulis suis utre festinaret,
+<lb n="13" xml:id="bsb00000706_00026_13"/>aliquos scutatos ad praedictam obsidionem tendentes
+<lb n="14" xml:id="bsb00000706_00026_14"/>obvios habuit, qui erant occulte fideles regis, licet <w lemma="adversae" xml:id="w195" corresp="#w195 #w196">ad-</w>
+<lb n="15" xml:id="bsb00000706_00026_15"/><w lemma="adversae" xml:id="w196" corresp="#w195 #w196">versae</w> partis. A quibus interrogatus, unde prodiret, quo
+<lb n="16" xml:id="bsb00000706_00026_16"/>tenderet, cur tam anhelus properaret, nesciens celare
+<lb n="17" xml:id="bsb00000706_00026_17"/>quod sciebat, hospitem suum et causam itineris <w lemma="indicavit" xml:id="w197" corresp="#w197 #w198">indi-</w>
+<lb n="18" xml:id="bsb00000706_00026_18"/><w lemma="indicavit" xml:id="w198" corresp="#w197 #w198">cavit</w>. Qui stupefacti, seu metu, seu potius gaudio, <w lemma="versantes" xml:id="w199" corresp="#w199 #w200">ver-</w>
+<lb n="19" xml:id="bsb00000706_00026_19"/><w lemma="versantes" xml:id="w200" corresp="#w199 #w200">santes</w> inter se, quid agerent, quid periculi, quid contra
+<lb n="20" xml:id="bsb00000706_00026_20"/>premii, quid virtutis, quid laudis, quid fidelitatis inesset,
+<lb n="21" xml:id="bsb00000706_00026_21"/>si tam magnum hostem regis ferirent: occasionem illam
+<lb n="22" xml:id="bsb00000706_00026_22"/>non frustra sibi oblatam, maximam virtutem per maxima
+<lb n="23" xml:id="bsb00000706_00026_23"/>discrimina probari: incitatis alternatim animis, inmissis
+<lb n="24" xml:id="bsb00000706_00026_24"/>equis ad molendinum properabant, sed pervenerunt ante
+<lb n="25" xml:id="bsb00000706_00026_25"/>votis quam equis. Incepta est pugna, quae diu dura
+<lb n="26" xml:id="bsb00000706_00026_26"/>fuit et dubia, quia virtute pares et numero congressi,
+<lb n="27" xml:id="bsb00000706_00026_27"/>hi pro laude, illi pro vita pugnabant. Regis tamen
+<lb n="28" xml:id="bsb00000706_00026_28"/>fortuna vicit, et hostis ferocissimus non in acie, sed in
+<lb n="29" xml:id="bsb00000706_00026_29"/>molendino peremptus turpiter iacuit. Felix nimium es
+<lb n="30" xml:id="bsb00000706_00026_30"/>et multi semper nominis  mola, ad quam trahit homines
+<lb n="31" xml:id="bsb00000706_00026_31"/>non tam tuum volubile officium, quam fama, quae et
+<lb n="32" xml:id="bsb00000706_00026_32"/>molendo pugnam illam narras et narrando molis. Sic
+<lb n="33" xml:id="bsb00000706_00026_33"/>ille conventus procerum confusus procinctum solvit, sic
+<lb n="34" xml:id="bsb00000706_00026_34"/>ab obsidione infecto negotio recessit. Itaque res regis
+<pb xml:id="bsb00000706_00027" n="22"/><lb n="1" xml:id="bsb00000706_00027_1"/>in altiorem et feliciorem statum se cottidie promovebant,
+<lb n="2" xml:id="bsb00000706_00027_2"/>adversariorum antem eius deorsum vergebant, et omne
+<lb n="3" xml:id="bsb00000706_00027_3"/>eorum inceptum in turpem exitum desinebat.
+<lb n="4" xml:id="bsb00000706_00027_4"/>6. Cum ergo cernerent nullum se habere successum,
+<lb n="5" xml:id="bsb00000706_00027_5"/>nec in armis nec in electione regum, iterum se <w lemma="conviciis" xml:id="w201" corresp="#w201 #w202">convi-</w>
+<lb n="6" xml:id="bsb00000706_00027_6"/><w lemma="conviciis" xml:id="w202" corresp="#w201 #w202">ciis</w> armaverunt et eum apud apostolicum praeter alia
+<lb n="7" xml:id="bsb00000706_00027_7"/>multa et nefanda criminati sunt, quod reges <w lemma="christianissimos" xml:id="w203" corresp="#w203 #w204">christia-</w>
+<lb n="8" xml:id="bsb00000706_00027_8"/><w lemma="christianissimos" xml:id="w204" corresp="#w203 #w204">nissimos</w>, quos ipsi non sine auctoritate apostolici <w lemma="creassent" xml:id="w205" corresp="#w205 #w206">cre-</w>
+<lb n="9" xml:id="bsb00000706_00027_9"/><w lemma="creassent" xml:id="w206" corresp="#w205 #w206">assent</w>, ille ob crimen suum extorris á regno factus
+<lb n="10" xml:id="bsb00000706_00027_10"/>occidisset, sanguine regnum usurpasset, igne, praeda,
+<lb n="11" xml:id="bsb00000706_00027_11"/>ferro cuncta vastasset et tyrannidem suam adversus
+<lb n="12" xml:id="bsb00000706_00027_12"/>aecclesiam et regnum omnibus modis exercuisset. Ad
+<lb n="13" xml:id="bsb00000706_00027_13"/>quorum criminationem apostolicus eum iterum banno,
+<lb n="14" xml:id="bsb00000706_00027_14"/>ut ipsi iactabant, illigavit; sed non magni ponderis ille
+<lb n="15" xml:id="bsb00000706_00027_15"/>bannus habebatur, eo quod non rationis, sed arbitrii,
+<lb n="16" xml:id="bsb00000706_00027_16"/>non amoris, sed odii esse videretur. Cernens autem rex
+<lb n="17" xml:id="bsb00000706_00027_17"/>apostolicum ad hoc tendere, ut se regno privaret, nec
+<lb n="18" xml:id="bsb00000706_00027_18"/>alia sui oboedientia contentum, nisi ut regno renunciaret,
+<lb n="19" xml:id="bsb00000706_00027_19"/>ex oboedientia in rebellionem, ex humilitate in tumorem
+<lb n="20" xml:id="bsb00000706_00027_20"/>relabi coactus, hoc apostolico facere parabat, quod <w lemma="apostolicus" xml:id="w207" corresp="#w207 #w208">apo-</w>
+<lb n="21" xml:id="bsb00000706_00027_21"/><w lemma="apostolicus" xml:id="w208" corresp="#w207 #w208">stolicus</w> sibi faciendum intenderat. Cessa, obsecro, rex
+<lb n="22" xml:id="bsb00000706_00027_22"/>gloriose, cessa ab hoc molimine, ut aecclesiasticum caput
+<lb n="23" xml:id="bsb00000706_00027_23"/>de suo culmine deicias et in reddenda iniuria te reum
+<lb n="24" xml:id="bsb00000706_00027_24"/>facias. Iniuriam pati felicitatis est, reddere criminis.
+<lb n="25" xml:id="bsb00000706_00027_25"/>Querebat itaque rex causas et occasiones, qualiter eum
+<lb n="26" xml:id="bsb00000706_00027_26"/>eiceret, inventumque est eum Romanam sedem olim <w lemma="abiuratam" xml:id="w209" corresp="#w209 #w210">ab-</w>
+<lb n="27" xml:id="bsb00000706_00027_27"/><w lemma="abiuratam" xml:id="w210" corresp="#w209 #w210">iuratam</w> insedisse, quam iccirco abiuraverit, quia ad
+<lb n="28" xml:id="bsb00000706_00027_28"/>eam, dum archidiaconus esset, adhuc vivente domino
+<pb xml:id="bsb00000706_00028" n="23"/><lb n="1" xml:id="bsb00000706_00028_1"/>suo per ambitionem aspirare voluerit. Utrum haec vera
+<lb n="2" xml:id="bsb00000706_00028_2"/>sint an falsa, parum comperi. Alii asserebant, alii <w lemma="figmentum" xml:id="w211" corresp="#w211 #w212">fig-</w>
+<lb n="3" xml:id="bsb00000706_00028_3"/><w lemma="figmentum" xml:id="w212" corresp="#w211 #w212">mentum</w> esse dicebant; utrisque Roma fuit in <w lemma="argumentum" xml:id="w213" corresp="#w213 #w214">argumen-</w>
+<lb n="4" xml:id="bsb00000706_00028_4"/><w lemma="argumentum" xml:id="w214" corresp="#w213 #w214">tum</w>, his, quod Roma mundi domina numquam pateretur
+<lb n="5" xml:id="bsb00000706_00028_5"/>tale nefas, illis, quod ea cupiditatis ancilla facile <w lemma="permitteret" xml:id="w215" corresp="#w215 #w216">per-</w>
+<lb n="6" xml:id="bsb00000706_00028_6"/><w lemma="permitteret" xml:id="w216" corresp="#w215 #w216">mitteret</w> ob precium omne nefas. Mihi autem in medio
+<lb n="7" xml:id="bsb00000706_00028_7"/>res relinquenda est, cum incerta nec possim defendere
+<lb n="8" xml:id="bsb00000706_00028_8"/>nec ausim affirmare.
+<lb n="9" xml:id="bsb00000706_00028_9"/>Igitur cum exercitu rex Romam pergebat, proterens
+<lb n="10" xml:id="bsb00000706_00028_10"/>in via quicquid obstabat. Oppida fregit, tumida praessit,
+<lb n="11" xml:id="bsb00000706_00028_11"/>ardua curvavit, factiones dissipavit. In cuius adventu
+<lb n="12" xml:id="bsb00000706_00028_12"/>Roma persuasa, quae debuerat honores, arma, tamquam
+<lb n="13" xml:id="bsb00000706_00028_13"/>Poenus Hannibal Alpes transcendisset, parabat et regi
+<lb n="14" xml:id="bsb00000706_00028_14"/>suo velut hosti portas praecludebat. Unde rex iusta
+<lb n="15" xml:id="bsb00000706_00028_15"/>commotus indignatione, Urbem obsidione, qua res <w lemma="postulabat" xml:id="w217" corresp="#w217 #w218">postu-</w>
+<lb n="16" xml:id="bsb00000706_00028_16"/><w lemma="postulabat" xml:id="w218" corresp="#w217 #w218">labat</w>, occlusit, et qui sibi aditum, illis exitum negavit.
+<lb n="17" xml:id="bsb00000706_00028_17"/>Missi circumquaque qui castella frangerent, villas <w lemma="everterent" xml:id="w219" corresp="#w219 #w220">ever-</w>
+<lb n="18" xml:id="bsb00000706_00028_18"/><w lemma="everterent" xml:id="w220" corresp="#w219 #w220">terent</w>, bona diriperent; provinciaeque nocuit exterius,
+<lb n="19" xml:id="bsb00000706_00028_19"/>quod Roma se clauserat interius. Foris bella, intus
+<lb n="20" xml:id="bsb00000706_00028_20"/>metus erat. Undique machinae surgebant; hinc murum
+<lb n="21" xml:id="bsb00000706_00028_21"/>aries pulsabat, inde miles scalis ascendere parabat.
+<lb n="22" xml:id="bsb00000706_00028_22"/>Econtra qui in Urbe erant tela, saxa, praeustas sudes
+<lb n="23" xml:id="bsb00000706_00028_23"/>ignemque iactabant; interdum egressi comminus <w lemma="committebant" xml:id="w221" corresp="#w221 #w222">com-</w>
+<lb n="24" xml:id="bsb00000706_00028_24"/><w lemma="committebant" xml:id="w222" corresp="#w221 #w222">mittebant</w>. Utrimque fortiter pugnatum est; hos causa,
+<lb n="25" xml:id="bsb00000706_00028_25"/>illos periculum audaces fecit. Quadam die, cum <w lemma="exercitus" xml:id="w223" corresp="#w223 #w224">exer-</w>
+<lb n="26" xml:id="bsb00000706_00028_26"/><w lemma="exercitus" xml:id="w224" corresp="#w223 #w224">citus</w> uterque pugna estuque fessus circa meridiem sopori
+<lb n="27" xml:id="bsb00000706_00028_27"/>se dedisset, et nec speculator, ut fortuna voluit, <w lemma="vigilaret" xml:id="w225" corresp="#w225 #w226">vigi-</w>
+<lb n="28" xml:id="bsb00000706_00028_28"/><w lemma="vigilaret" xml:id="w226" corresp="#w225 #w226">laret</w>, unus ex scutariis propius ad murum, ut pila
+<lb n="29" xml:id="bsb00000706_00028_29"/>legeret, accessit. Cumque erectis et intentis auribus <w lemma="explorasset" xml:id="w227" corresp="#w227 #w228">ex-</w>
+<lb n="30" xml:id="bsb00000706_00028_30"/><w lemma="explorasset" xml:id="w228" corresp="#w227 #w228">plorasset</w> intus neminem adesse – nam murum et <w lemma="propugnacula" xml:id="w229" corresp="#w229 #w230">pro-</w>
+<lb n="31" xml:id="bsb00000706_00028_31"/><w lemma="propugnacula" xml:id="w230" corresp="#w229 #w230">pugnacula</w> vacua cernebat –, adiutus et animi confidentia
+<lb n="32" xml:id="bsb00000706_00028_32"/>et corporis levitate, manibus et pedibus sursum <w lemma="enitebatur" xml:id="w231" corresp="#w231 #w232">enite-</w>
+<lb n="33" xml:id="bsb00000706_00028_33"/><w lemma="enitebatur" xml:id="w232" corresp="#w231 #w232">batur</w>, donec tandem muri summitatem apprehendit.
+<pb xml:id="bsb00000706_00029" n="24"/><lb n="1" xml:id="bsb00000706_00029_1"/>Tum vero, cum iactatis circumquaque oculis neminem
+<lb n="2" xml:id="bsb00000706_00029_2"/>videret, inter spem et metum positus, toto corporis
+<lb n="3" xml:id="bsb00000706_00029_3"/>motu sociis innuebat vixque se á clamore, cum tardius
+<lb n="4" xml:id="bsb00000706_00029_4"/>innuentem attenderent, abstinebat. Qui raptis armis et
+<lb n="5" xml:id="bsb00000706_00029_5"/>scalis properantes, citius, ut aiunt, dicto murum <w lemma="superantes" xml:id="w233" corresp="#w233 #w234">supe-</w>
+<lb n="6" xml:id="bsb00000706_00029_6"/><w lemma="superantes" xml:id="w234" corresp="#w233 #w234">rantes</w>, captam Urbem sero defendentes interficiunt, <w lemma="capiunt" xml:id="w235" corresp="#w235 #w236">ca-</w>
+<lb n="7" xml:id="bsb00000706_00029_7"/><w lemma="capiunt" xml:id="w236" corresp="#w235 #w236">piunt</w>, fugant. Dedignabatur iam rex reclusum portarum
+<lb n="8" xml:id="bsb00000706_00029_8"/>aditum, ubi et sequens á praeeunte tardaretur et <w lemma="praecedens" xml:id="w237" corresp="#w237 #w238">prae-</w>
+<lb n="9" xml:id="bsb00000706_00029_9"/><w lemma="praecedens" xml:id="w238" corresp="#w237 #w238">cedens</w> á sequente premeretur; sed in ultionem <w lemma="temerariae" xml:id="w239" corresp="#w239 #w240">teme-</w>
+<lb n="10" xml:id="bsb00000706_00029_10"/><w lemma="temerariae" xml:id="w240" corresp="#w239 #w240">rariae</w> praeclusionis iussit, ut fracto muro tam latum
+<lb n="11" xml:id="bsb00000706_00029_11"/>ingressum sibi panderent, qua totus exercitus aequato
+<lb n="12" xml:id="bsb00000706_00029_12"/>iunctoque latere se simul inmergeret. Igitur ubique
+<lb n="13" xml:id="bsb00000706_00029_13"/>mors, ubique luctus erat; Roma contremuit, dum <w lemma="impulsa" xml:id="w241" corresp="#w241 #w242">im-</w>
+<lb n="14" xml:id="bsb00000706_00029_14"/><w lemma="impulsa" xml:id="w242" corresp="#w241 #w242">pulsa</w> turrium altitudo corruit. Fugit apostolicus, et
+<lb n="15" xml:id="bsb00000706_00029_15"/>qui omnes in periculum impulerat, omnes in periculo
+<lb n="16" xml:id="bsb00000706_00029_16"/>deseruit. Tandem Romam praesumptionis suae <w lemma="poenituit" xml:id="w243" corresp="#w243 #w244">poeni-</w>
+<lb n="17" xml:id="bsb00000706_00029_17"/><w lemma="poenituit" xml:id="w244" corresp="#w243 #w244">tuit</w>, et quae prius meruisse poterat, ut á rege donis
+<lb n="18" xml:id="bsb00000706_00029_18"/>honoraretur, nunc ingenti pecunia apud regem vix <w lemma="optinuit" xml:id="w245" corresp="#w245 #w246">op-</w>
+<lb n="19" xml:id="bsb00000706_00029_19"/><w lemma="optinuit" xml:id="w246" corresp="#w245 #w246">tinuit</w>, ne tota subverteretur. Mox sedatis omnibus, rex
+<lb n="20" xml:id="bsb00000706_00029_20"/>causam, cur venisset, in publicum protulit; quod de
+<lb n="21" xml:id="bsb00000706_00029_21"/>apostolico crimen accepisset, retulit, multisque hoc ita
+<lb n="22" xml:id="bsb00000706_00029_22"/>factum confessis, Clementem papam ad electionem <w lemma="omnium" xml:id="w247" corresp="#w247 #w248">om-</w>
+<lb n="23" xml:id="bsb00000706_00029_23"/><w lemma="omnium" xml:id="w248" corresp="#w247 #w248">nium</w> instituit; á, quo ipse communi omnium favore
+<lb n="24" xml:id="bsb00000706_00029_24"/>consecratus imperator et patricius factus, Romae se per
+<lb n="25" xml:id="bsb00000706_00029_25"/>aliquod tempus , dum omnia in solidam reformaret <w lemma="concordiam" xml:id="w249" corresp="#w249 #w250">con-</w>
+<lb n="26" xml:id="bsb00000706_00029_26"/><w lemma="concordiam" xml:id="w250" corresp="#w249 #w250">cordiam</w>, continuit.
+<lb n="27" xml:id="bsb00000706_00029_27"/>7. Nec praetereundum, quod et relatio fidelium <w lemma="personarum" xml:id="w251" corresp="#w251 #w252">per-</w>
+<lb n="28" xml:id="bsb00000706_00029_28"/><w lemma="personarum" xml:id="w252" corresp="#w251 #w252">sonarum</w> in Teutonicas partes diffamavit, et ipsa Roma
+<pb xml:id="bsb00000706_00030" n="25"/><lb n="1" xml:id="bsb00000706_00030_1"/>asserit. Imperator consueverat quoddam oratorium
+<lb n="2" xml:id="bsb00000706_00030_2"/>orationis causa frequentare et nullum diem, quin <w lemma="veniret" xml:id="w253" corresp="#w253 #w254">ve-</w>
+<lb n="3" xml:id="bsb00000706_00030_3"/><w lemma="veniret" xml:id="w254" corresp="#w253 #w254">niret</w>, praetermittere. Elegerat autem sibi in eodem
+<lb n="4" xml:id="bsb00000706_00030_4"/>oratorio locum orationi familiarem, ubi tanto intentius,
+<lb n="5" xml:id="bsb00000706_00030_5"/>quanto secretius orationi vacaret. Hanc eius <w lemma="consuetudinem" xml:id="w255" corresp="#w255 #w256">consue-</w>
+<lb n="6" xml:id="bsb00000706_00030_6"/><w lemma="consuetudinem" xml:id="w256" corresp="#w255 #w256">tudinem</w> dum quidam profanae mentis attenderet, seu
+<lb n="7" xml:id="bsb00000706_00030_7"/>propria seu potius aliena instimulatus nequitia, grande
+<lb n="8" xml:id="bsb00000706_00030_8"/>saxum super trabem ad feriendum desuper caput <w lemma="imperatoris" xml:id="w257" corresp="#w257 #w258">impe-</w>
+<lb n="9" xml:id="bsb00000706_00030_9"/><w lemma="imperatoris" xml:id="w258" corresp="#w257 #w258">ratoris</w> posuit, sublataque de laqueari tabula, quae caput
+<lb n="10" xml:id="bsb00000706_00030_10"/>imperatoris recte despiciebat, mittendo ponderi foramen
+<lb n="11" xml:id="bsb00000706_00030_11"/>aperuit, dimisso fune sepius explorans, ne saxum in <w lemma="cadendo" xml:id="w259" corresp="#w259 #w260">ca-</w>
+<lb n="12" xml:id="bsb00000706_00030_12"/><w lemma="cadendo" xml:id="w260" corresp="#w259 #w260">dendo</w> falleret. Postquam satis exploratum est, minister
+<lb n="13" xml:id="bsb00000706_00030_13"/>doli sursum in nocte scandens desuper observabat, dum
+<lb n="14" xml:id="bsb00000706_00030_14"/>imperator staret ad orandum in loco quo consueverat.
+<lb n="15" xml:id="bsb00000706_00030_15"/>Tum ille alieni avidus exicii, sed nescius sui, cum
+<lb n="16" xml:id="bsb00000706_00030_16"/>pondus in caput imperatoris libraret – imperator
+<lb n="17" xml:id="bsb00000706_00030_17"/>autem parum se de loco moverat –, cum pondere <w lemma="infelix" xml:id="w261" corresp="#w261 #w262">in-</w>
+<lb n="18" xml:id="bsb00000706_00030_18"/><w lemma="infelix" xml:id="w262" corresp="#w261 #w262">felix</w> ipse pondus, illeso imperatore, cecidit. Per totam
+<lb n="19" xml:id="bsb00000706_00030_19"/>Romam cito res innotuit, et pleps, quae non facile <w lemma="sedari" xml:id="w263" corresp="#w263 #w264">se-</w>
+<lb n="20" xml:id="bsb00000706_00030_20"/><w lemma="sedari" xml:id="w264" corresp="#w263 #w264">dari</w> potest, dum mota fuerit, invito imperatore <w lemma="semianime" xml:id="w265" corresp="#w265 #w266">semia-</w>
+<lb n="21" xml:id="bsb00000706_00030_21"/><w lemma="semianime" xml:id="w266" corresp="#w265 #w266">nime</w> corpus per rupes, per saxa tractum in frusta
+<lb n="22" xml:id="bsb00000706_00030_22"/>discerpsit. Tum vero cuncti, rem signo, non eventui
+<lb n="23" xml:id="bsb00000706_00030_23"/>assignantes, fide et animis imperatori devinctiores facti
+<lb n="24" xml:id="bsb00000706_00030_24"/>sunt; et inimicum consilium non solum illi fideles <w lemma="firmavit" xml:id="w267" corresp="#w267 #w268">fir-</w>
+<lb n="25" xml:id="bsb00000706_00030_25"/><w lemma="firmavit" xml:id="w268" corresp="#w267 #w268">mavit</w>, sed et multos ex inimicis fideles fecit; sicque,
+<lb n="26" xml:id="bsb00000706_00030_26"/>dum nocere studuit, profuit.
+<lb n="27" xml:id="bsb00000706_00030_27"/>Denique imperator, omnibus Romae compositis <w lemma="impositoque" xml:id="w269" corresp="#w269 #w270">im-</w>
+<lb n="28" xml:id="bsb00000706_00030_28"/><w lemma="impositoque" xml:id="w270" corresp="#w269 #w270">positoque</w> Urbi praesidio, ne ea fidem mutaret, novae
+<lb n="29" xml:id="bsb00000706_00030_29"/>dignitatis apicem gerens in Teutonicum regnum reversus
+<lb n="30" xml:id="bsb00000706_00030_30"/>est. Sed nulla fortuna longa est; nam hi, quos <w lemma="imperator" xml:id="w271" corresp="#w271 #w272">impe-</w>
+<lb n="31" xml:id="bsb00000706_00030_31"/><w lemma="imperator" xml:id="w272" corresp="#w271 #w272">rator</w> Romae praesidium imposuerat, egritudine correpti,
+<pb xml:id="bsb00000706_00031" n="26"/><lb n="1" xml:id="bsb00000706_00031_1"/>quam et locus et tempus intulerat – erat enim estas –,
+<lb n="2" xml:id="bsb00000706_00031_2"/>ne uno quidem superstite mortui sunt. Tunc Roma,
+<lb n="3" xml:id="bsb00000706_00031_3"/>iugo praesidii sublato, compos arbitrii sui facta, ad <w lemma="ingenium" xml:id="w273" corresp="#w273 #w274">in-</w>
+<lb n="4" xml:id="bsb00000706_00031_4"/><w lemma="ingenium" xml:id="w274" corresp="#w273 #w274">genium</w> rediit et resumptis adversus imperatorem armis,
+<lb n="5" xml:id="bsb00000706_00031_5"/>pulso apostolico, alium constituit; nam ille prior <w lemma="Gregorius" xml:id="w275" corresp="#w275 #w276">G[re-</w>
+<lb n="6" xml:id="bsb00000706_00031_6"/><w lemma="Gregorius" xml:id="w276" corresp="#w275 #w276">gorius</w>] a vita decesserat. Quod ubi imperatori <w lemma="compertum" xml:id="w277" corresp="#w277 #w278">com-</w>
+<lb n="7" xml:id="bsb00000706_00031_7"/><w lemma="compertum" xml:id="w278" corresp="#w277 #w278">pertum</w> est, iterum adversus Romam exercitum <w lemma="promovit" xml:id="w279" corresp="#w279 #w280">pro-</w>
+<lb n="8" xml:id="bsb00000706_00031_8"/><w lemma="promovit" xml:id="w280" corresp="#w279 #w280">movit</w>; sed in Italiam veniens, cum legati á Roma <w lemma="pactum" xml:id="w281" corresp="#w281 #w282">pac-</w>
+<lb n="9" xml:id="bsb00000706_00031_9"/><w lemma="pactum" xml:id="w282" corresp="#w281 #w282">tum</w> pacis ferentes occurrerent, et eum inimici retro
+<lb n="10" xml:id="bsb00000706_00031_10"/>moliminis fama sequeretur, relicto in Italia filio <w lemma="Cho&#x36E;nrado" xml:id="w283" corresp="#w283 #w284">Choͮn-</w>
+<lb n="11" xml:id="bsb00000706_00031_11"/><w lemma="Cho&#x36E;nrado" xml:id="w284" corresp="#w283 #w284">rado</w>, iam tum regni sui herede designato, regressus
+<lb n="12" xml:id="bsb00000706_00031_12"/>est, scilicet qui se grassanti Mahthildae et pene totam
+<lb n="13" xml:id="bsb00000706_00031_13"/>Italiam sibi vendicanti opponeret et regnum, quod <w lemma="futurum" xml:id="w285" corresp="#w285 #w286">fu-</w>
+<lb n="14" xml:id="bsb00000706_00031_14"/><w lemma="futurum" xml:id="w286" corresp="#w285 #w286">turum</w> erat suum, de manu feminae tolleret. Quid <w lemma="facient" xml:id="w287" corresp="#w287 #w288">fa-</w>
+<lb n="15" xml:id="bsb00000706_00031_15"/><w lemma="facient" xml:id="w288" corresp="#w287 #w288">cient</w> inimici, cum insurgant in parentes ipsi filii? Aut
+<lb n="16" xml:id="bsb00000706_00031_16"/>unde securitatem sibi quis promittat, cum nec ab eo
+<lb n="17" xml:id="bsb00000706_00031_17"/>tutus sit, quem genuit? Cessent iam conubia, nemo sibi
+<lb n="18" xml:id="bsb00000706_00031_18"/>optet heredem! Heres tuus erit hostis tuus, nam non
+<lb n="19" xml:id="bsb00000706_00031_19"/>solum te domo tua praediisque spoliat, sed et vita <w lemma="spoliare" xml:id="w289" corresp="#w289 #w290">spo-</w>
+<lb n="20" xml:id="bsb00000706_00031_20"/><w lemma="spoliare" xml:id="w290" corresp="#w289 #w290">liare</w> festinat. Filius imperatoris, quem in Italia <w lemma="relictum" xml:id="w291" corresp="#w291 #w292">relic-</w>
+<lb n="21" xml:id="bsb00000706_00031_21"/><w lemma="relictum" xml:id="w292" corresp="#w291 #w292">tum</w> á patre et quam ob rem relictum diximus, á <w lemma="Mahthilde" xml:id="w293" corresp="#w293 #w294">Mah-</w>
+<lb n="22" xml:id="bsb00000706_00031_22"/><w lemma="Mahthilde" xml:id="w294" corresp="#w293 #w294">thilde</w> persuasus – quem enim astucia feminea non <w lemma="subvertat" xml:id="w295" corresp="#w295 #w296">sub-</w>
+<lb n="23" xml:id="bsb00000706_00031_23"/><w lemma="subvertat" xml:id="w296" corresp="#w295 #w296">vertat</w> aut decipiat? – iunctus inimicis patris coronam
+<lb n="24" xml:id="bsb00000706_00031_24"/>sibi imposuit, regnum invasit, profanavit ius, confudit
+<lb n="25" xml:id="bsb00000706_00031_25"/>ordinem, impugnavit naturam, querebat patris sanguinem,
+<lb n="26" xml:id="bsb00000706_00031_26"/>quia non nisi sanguine patris regnare potuisset. Quod
+<lb n="27" xml:id="bsb00000706_00031_27"/>ubi ad hostes imperatoris currens fama pertulit, exultabant,
+<lb n="28" xml:id="bsb00000706_00031_28"/>plaudebant, cantabant, laudabant factum filii, praecipue
+<lb n="29" xml:id="bsb00000706_00031_29"/>feminam ducem facti. Mittebant propere legatos, qui
+<pb xml:id="bsb00000706_00032" n="27"/><lb n="1" xml:id="bsb00000706_00032_1"/>stimulum animo novi regis adicerent et adderent oleum
+<lb n="2" xml:id="bsb00000706_00032_2"/>camino, qui pro se, sed contra se, fidem et opem <w lemma="perpetuam" xml:id="w297" corresp="#w297 #w298">per-</w>
+<lb n="3" xml:id="bsb00000706_00032_3"/><w lemma="perpetuam" xml:id="w298" corresp="#w297 #w298">petuam</w> iurarent, quamquam dudum se tam filio quam
+<lb n="4" xml:id="bsb00000706_00032_4"/>patri numquam obtemperaturos coniurassent. Imperator
+<lb n="5" xml:id="bsb00000706_00032_5"/>autem ad hanc famam, tametsi intus doluit, in gravitate
+<lb n="6" xml:id="bsb00000706_00032_6"/>tamen sua se foris tenuit et non suam, sed filii <w lemma="fortunam" xml:id="w299" corresp="#w299 #w300">for-</w>
+<lb n="7" xml:id="bsb00000706_00032_7"/><w lemma="fortunam" xml:id="w300" corresp="#w299 #w300">tunam</w> conquestus est. Cum autem eum ab incepto
+<lb n="8" xml:id="bsb00000706_00032_8"/>revocare non posset, non tam suam iniuriam ulcisci,
+<lb n="9" xml:id="bsb00000706_00032_9"/>quam exemplum iniuriae per ultionem tollere querens,
+<lb n="10" xml:id="bsb00000706_00032_10"/>filium exheredare et fratrem eius H[einricum] adhuc
+<lb n="11" xml:id="bsb00000706_00032_11"/>puerum in regnum promovere cogitabat. Igitur multis
+<lb n="12" xml:id="bsb00000706_00032_12"/>procerum conventibus habitis imperator super filio suo
+<lb n="13" xml:id="bsb00000706_00032_13"/>C[hoͮnrado] conquestus est, quod additus hostibus regni
+<lb n="14" xml:id="bsb00000706_00032_14"/>regnum invasisset, quod patrem non solum regno, sed
+<lb n="15" xml:id="bsb00000706_00032_15"/>et vita privare conaretur: iniuriam suam publicam esse
+<lb n="16" xml:id="bsb00000706_00032_16"/>debere, vel si nullum ea moveret, saltem hoc rei <w lemma="publicae" xml:id="w301" corresp="#w301 #w302">pu-</w>
+<lb n="17" xml:id="bsb00000706_00032_17"/><w lemma="publicae" xml:id="w302" corresp="#w301 #w302">blicae</w> causae praestarent, ut neminem per vim et scelus
+<lb n="18" xml:id="bsb00000706_00032_18"/>regnare paterentur; transferrent potius electionem in
+<lb n="19" xml:id="bsb00000706_00032_19"/>minorem filium suum, quam iure maior amisisset. <w lemma="Plerique" xml:id="w303" corresp="#w303 #w304">Ple-</w>
+<lb n="20" xml:id="bsb00000706_00032_20"/><w lemma="Plerique" xml:id="w304" corresp="#w303 #w304">rique</w> contra nitebantur, magis utentes ingenio quam
+<lb n="21" xml:id="bsb00000706_00032_21"/>iusto et vero; multi autem publico bono faventes <w lemma="sententiae" xml:id="w305" corresp="#w305 #w306">sen-</w>
+<lb n="22" xml:id="bsb00000706_00032_22"/><w lemma="sententiae" xml:id="w306" corresp="#w305 #w306">tentiae</w> votoque imperatoris concordabant. Tandem <w lemma="omnibus" xml:id="w307" corresp="#w307 #w308">om-</w>
+<lb n="23" xml:id="bsb00000706_00032_23"/><w lemma="omnibus" xml:id="w308" corresp="#w307 #w308">nibus</w> in unam sententiam coeuntibus et concordi favore
+<lb n="24" xml:id="bsb00000706_00032_24"/>approbantibus, imperator minorem filium, invasore prius
+<lb n="25" xml:id="bsb00000706_00032_25"/>ex decreto curiae diiudicato, heredem regni sui <w lemma="constituit" xml:id="w309" corresp="#w309 #w310">consti-</w>
+<lb n="26" xml:id="bsb00000706_00032_26"/><w lemma="constituit" xml:id="w310" corresp="#w309 #w310">tuit</w>, á quo, ne et ipse abiret in viam fratris sui, <w lemma="iusiurandum" xml:id="w311" corresp="#w311 #w312">iusiu-</w>
+<lb n="27" xml:id="bsb00000706_00032_27"/><w lemma="iusiurandum" xml:id="w312" corresp="#w311 #w312">randum</w> accepit, videlicet ne umquam se vel de regno
+<lb n="28" xml:id="bsb00000706_00032_28"/>vel de praediis patris eo vivente, nisi forte ex consensu
+<lb n="29" xml:id="bsb00000706_00032_29"/>ipsius, intromitteret. Iam tum murmur et metus erat,
+<lb n="30" xml:id="bsb00000706_00032_30"/>inter duos fratres intestina bella fore magnamque regni
+<lb n="31" xml:id="bsb00000706_00032_31"/>cladem futuram. Sed qui omnia dispensat, hunc metum
+<lb n="32" xml:id="bsb00000706_00032_32"/>lęto maioris filii sustulit et, ut regnum in unam <w lemma="concordiam" xml:id="w313" corresp="#w313 #w314">con-</w>
+<lb n="33" xml:id="bsb00000706_00032_33"/><w lemma="concordiam" xml:id="w314" corresp="#w313 #w314">cordiam</w> redire posset, occasionem dedit. Quibus ita
+<pb xml:id="bsb00000706_00033" n="28"/><lb n="1" xml:id="bsb00000706_00033_1"/>transactis, hostes imperatoris detruncato totiens capite
+<lb n="2" xml:id="bsb00000706_00033_2"/>non habentes cui adhererent, pactione subacti, quod <w lemma="optimum" xml:id="w315" corresp="#w315 #w316">op-</w>
+<lb n="3" xml:id="bsb00000706_00033_3"/><w lemma="optimum" xml:id="w316" corresp="#w315 #w316">timum</w> erat, in pacem bella, in domesticam securitatem
+<lb n="4" xml:id="bsb00000706_00033_4"/>castra converterunt.
+<lb n="5" xml:id="bsb00000706_00033_5"/>8. Igitur ut ubique pax et tranquillitas esset, <w lemma="convocatis" xml:id="w317" corresp="#w317 #w318">con-</w>
+<lb n="6" xml:id="bsb00000706_00033_6"/><w lemma="convocatis" xml:id="w318" corresp="#w317 #w318">vocatis</w> ad curiam primatibus, pacem per totum regnum
+<lb n="7" xml:id="bsb00000706_00033_7"/>sub iuramento firmari fecit et ad inhibenda mala, quae
+<lb n="8" xml:id="bsb00000706_00033_8"/>fiebant, gravem poenam in transgressores decrevit.
+<lb n="9" xml:id="bsb00000706_00033_9"/>Quod quidem pacis decretum, quantum miseris ac bonis
+<lb n="10" xml:id="bsb00000706_00033_10"/>profuit, tantum perversis et potentibus nocuit. Illis
+<lb n="11" xml:id="bsb00000706_00033_11"/>copiam, istis egestatem et famem intulit. Nam qui in
+<lb n="12" xml:id="bsb00000706_00033_12"/>milites bona sua distraxerant, ut multo milite stipati
+<lb n="13" xml:id="bsb00000706_00033_13"/>procederent et aliis armatorum copia longe praestarent,
+<lb n="14" xml:id="bsb00000706_00033_14"/>hi, dum sibi licentia rapinarum erepta est, ut pace <w lemma="ipsorum" xml:id="w319" corresp="#w319 #w320">ip-</w>
+<lb n="15" xml:id="bsb00000706_00033_15"/><w lemma="ipsorum" xml:id="w320" corresp="#w319 #w320">sorum</w> dictum sit, egestate laborabant, cellaria eorum
+<lb n="16" xml:id="bsb00000706_00033_16"/>penuria et fames possidebat. Qui nuper spumeo <w lemma="ferebatur" xml:id="w321" corresp="#w321 #w322">fere-</w>
+<lb n="17" xml:id="bsb00000706_00033_17"/><w lemma="ferebatur" xml:id="w322" corresp="#w321 #w322">batur</w> equo, contentus esse coepit vel rustico iumento.
+<lb n="18" xml:id="bsb00000706_00033_18"/>Qui nuper non aliam vestem querebat, nisi quae rubeo
+<lb n="19" xml:id="bsb00000706_00033_19"/>murice tincta arderet, bene secum actum aiebat, si nunc
+<lb n="20" xml:id="bsb00000706_00033_20"/>vestem, quam natura suo colore tinxisset, haberet. <w lemma="Gaudebat" xml:id="w323" corresp="#w323 #w324">Gau-</w>
+<lb n="21" xml:id="bsb00000706_00033_21"/><w lemma="Gaudebat" xml:id="w324" corresp="#w323 #w324">debat</w> aurum non se iam in luto calcari, dum ferreis
+<lb n="22" xml:id="bsb00000706_00033_22"/>calcaribus inopia cogeret uti. Denique quicquid <w lemma="vanitatis" xml:id="w325" corresp="#w325 #w326">vani-</w>
+<lb n="23" xml:id="bsb00000706_00033_23"/><w lemma="vanitatis" xml:id="w326" corresp="#w325 #w326">tatis</w>, quicquid superfluitatis corrupti mores intulerant,
+<lb n="24" xml:id="bsb00000706_00033_24"/>totum penuria magistra resecabat. Oppidula in ripis
+<lb n="25" xml:id="bsb00000706_00033_25"/>posita, quibus praeda navium victum prebebat, nauta
+<lb n="26" xml:id="bsb00000706_00033_26"/>securus, esuriente oppiduli praeside, praeteribat. Mira
+<lb n="27" xml:id="bsb00000706_00033_27"/>res nec minus ridicula: alii iniurias suas iniuriis <w lemma="vindicant" xml:id="w327" corresp="#w327 #w328">vin-</w>
+<lb n="28" xml:id="bsb00000706_00033_28"/><w lemma="vindicant" xml:id="w328" corresp="#w327 #w328">dicant</w>, imperator suas pace vindicabat. Cum autem <w lemma="domini" xml:id="w329" corresp="#w329 #w330">do-</w>
+<lb n="29" xml:id="bsb00000706_00033_29"/><w lemma="domini" xml:id="w330" corresp="#w329 #w330">mini</w> cum satellitibus suis per aliquos annos hac lege
+<lb n="30" xml:id="bsb00000706_00033_30"/>stringerentur, anxii, quod non liceret eis uti libertate
+<lb n="31" xml:id="bsb00000706_00033_31"/>perversitatis suae, iterum adversus imperatorem murmur
+<lb n="32" xml:id="bsb00000706_00033_32"/>movebant, iterum super eius factis sinistrum rumorem
+<lb n="33" xml:id="bsb00000706_00033_33"/>seminabant. Quid illud, rogo, est, quod admisit?
+<lb n="34" xml:id="bsb00000706_00033_34"/>Nempe hoc erat, quod scelera prohibebat, quod pacem et
+<lb n="35" xml:id="bsb00000706_00033_35"/>iusticiam revocabat, quod iam latro viam non obsedit,
+<pb xml:id="bsb00000706_00034" n="29"/><lb n="1" xml:id="bsb00000706_00034_1"/>quod silva suas insidias non occultavit, quod mercatori
+<lb n="2" xml:id="bsb00000706_00034_2"/>nautisque liberum erat suam ire viam, quod vetitis
+<lb n="3" xml:id="bsb00000706_00034_3"/>rapinis raptor esuriebat. Cur, obsecro, vobis non aliunde,
+<lb n="4" xml:id="bsb00000706_00034_4"/>nisi ex rapto vivere placet? Reddite agris, quos ex agro
+<lb n="5" xml:id="bsb00000706_00034_5"/>deputastis armis; coequate numerum satellitum ad <w lemma="mensuram" xml:id="w331" corresp="#w331 #w332">men-</w>
+<lb n="6" xml:id="bsb00000706_00034_6"/><w lemma="mensuram" xml:id="w332" corresp="#w331 #w332">suram</w> facultatum, recolligite praedia vestra, quae stulte
+<lb n="7" xml:id="bsb00000706_00034_7"/>sparsistis, ut multos armatos haberetis, et redundabunt
+<lb n="8" xml:id="bsb00000706_00034_8"/>omnibus bonis horrea et cellaria vestra; nec erit <w lemma="amplius" xml:id="w333" corresp="#w333 #w334">am-</w>
+<lb n="9" xml:id="bsb00000706_00034_9"/><w lemma="amplius" xml:id="w334" corresp="#w333 #w334">plius</w> necesse aliena tollere, cum quilibet ex proprio
+<lb n="10" xml:id="bsb00000706_00034_10"/>possit habundare. Sic fit, ut nec imperator crimine
+<lb n="11" xml:id="bsb00000706_00034_11"/>denotetur, nec bellum in regno moveatur; sic fit, ut et
+<lb n="12" xml:id="bsb00000706_00034_12"/>corpori satisfacere habeatis et animas vestras, quod <w lemma="felicissimum" xml:id="w335" corresp="#w335 #w336">feli-</w>
+<lb n="13" xml:id="bsb00000706_00034_13"/><w lemma="felicissimum" xml:id="w336" corresp="#w335 #w336">cissimum</w> est, salvetis. Sed nichil ago, asinum ad lyram
+<lb n="14" xml:id="bsb00000706_00034_14"/>voco: consuetudo mala aut numquam aut vix tollitur.
+<lb n="15" xml:id="bsb00000706_00034_15"/>9. Igitur assueti rapinis, ut occasionem repetendae
+<lb n="16" xml:id="bsb00000706_00034_16"/>consuetudinis invenirent, movendis iterum bellis animum
+<lb n="17" xml:id="bsb00000706_00034_17"/>intendebant, iterum emulum imperatori reperire <w lemma="querebant" xml:id="w337" corresp="#w337 #w338">quere-</w>
+<lb n="18" xml:id="bsb00000706_00034_18"/><w lemma="querebant" xml:id="w338" corresp="#w337 #w338">bant</w>, ad quam rem filium eius maxime idoneum <w lemma="estimabant" xml:id="w339" corresp="#w339 #w340">esti-</w>
+<lb n="19" xml:id="bsb00000706_00034_19"/><w lemma="estimabant" xml:id="w340" corresp="#w339 #w340">mabant</w>. Itaque ut suggestioni locum invenirent, quae
+<lb n="20" xml:id="bsb00000706_00034_20"/>prima decipiendi lenocinia erant, frequenter eum <w lemma="venatum" xml:id="w341" corresp="#w341 #w342">vena-</w>
+<lb n="21" xml:id="bsb00000706_00034_21"/><w lemma="venatum" xml:id="w342" corresp="#w341 #w342">tum</w> secum abducebant, conviviorum illecebris <w lemma="inescabant" xml:id="w343" corresp="#w343 #w344">inesca-</w>
+<lb n="22" xml:id="bsb00000706_00034_22"/><w lemma="inescabant" xml:id="w344" corresp="#w343 #w344">bant</w>, iocis in dissolutionem animi mittebant et ad
+<lb n="23" xml:id="bsb00000706_00034_23"/>pleraque facienda, quae adolescentia suadet, secum <w lemma="trahebant" xml:id="w345" corresp="#w345 #w346">tra-</w>
+<lb n="24" xml:id="bsb00000706_00034_24"/><w lemma="trahebant" xml:id="w346" corresp="#w345 #w346">hebant</w>. Denique, ut fit inter adolescentes, quodam
+<lb n="25" xml:id="bsb00000706_00034_25"/>sodalitatis glutino iuncti sunt, ut etiam fidem <w lemma="dextramque" xml:id="w347" corresp="#w347 #w348">dextram-</w>
+<lb n="26" xml:id="bsb00000706_00034_26"/><w lemma="dextramque" xml:id="w348" corresp="#w347 #w348">que</w> mutuis secretis darent. Cum ergo eum multis dolis
+<lb n="27" xml:id="bsb00000706_00034_27"/>irretitum decipi posse considerarent, quadam die inter
+<lb n="28" xml:id="bsb00000706_00034_28"/>alia, tamquam ex obliquo, patrem eius in mentionem
+<lb n="29" xml:id="bsb00000706_00034_29"/>adducebant: se mirari, quod tam durum patrem pati
+<lb n="30" xml:id="bsb00000706_00034_30"/>posset, nichil eum á servo differre, cum omnia quae
+<lb n="31" xml:id="bsb00000706_00034_31"/>servi sunt toleraret; patrem eius senem esse et <w lemma="moderandis" xml:id="w349" corresp="#w349 #w350">mode-</w>
+<lb n="32" xml:id="bsb00000706_00034_32"/><w lemma="moderandis" xml:id="w350" corresp="#w349 #w350">randis</w> regni habenis invalidum; si investituram regni
+<lb n="33" xml:id="bsb00000706_00034_33"/>usque ad obitum eius differret, haut dubium, quin alter
+<pb xml:id="bsb00000706_00035" n="30"/><lb n="1" xml:id="bsb00000706_00035_1"/>illud sibi praeriperet; illum multos fautores habiturum
+<lb n="2" xml:id="bsb00000706_00035_2"/>propter invidiam et odium patris sui; se autem omnium
+<lb n="3" xml:id="bsb00000706_00035_3"/>vota in se transferre, si non cunctaretur suscepti regni
+<lb n="4" xml:id="bsb00000706_00035_4"/>gubernacula possidere, maxime cum patrem eius <w lemma="excommunicatum" xml:id="w351" corresp="#w351 #w352">excom-</w>
+<lb n="5" xml:id="bsb00000706_00035_5"/><w lemma="excommunicatum" xml:id="w352" corresp="#w351 #w352">municatum</w> et aecclesia dudum abiecerit et proceres regni
+<lb n="6" xml:id="bsb00000706_00035_6"/>reprobaverint; nec sibi observandum, quod incaute <w lemma="iuraverit" xml:id="w353" corresp="#w353 #w354">iura-</w>
+<lb n="7" xml:id="bsb00000706_00035_7"/><w lemma="iuraverit" xml:id="w354" corresp="#w353 #w354">verit</w>, immo tum demum se sanctificasse, si iuramentum
+<lb n="8" xml:id="bsb00000706_00035_8"/>excommunicato iuratum irritum faceret. Pater vero nihil
+<lb n="9" xml:id="bsb00000706_00035_9"/>mali de filio suspicatus, familiaritatem eius cum maioribus
+<lb n="10" xml:id="bsb00000706_00035_10"/>regni probavit, sperans eos sibi postmodum tantô <w lemma="fidelius" xml:id="w355" corresp="#w355 #w356">fide-</w>
+<lb n="11" xml:id="bsb00000706_00035_11"/><w lemma="fidelius" xml:id="w356" corresp="#w355 #w356">lius</w> et validius auxilium ad optinendum regnum laturos,
+<lb n="12" xml:id="bsb00000706_00035_12"/>quanto prius invicem in amore coaluissent. Quid multa?
+<lb n="13" xml:id="bsb00000706_00035_13"/>Statim illectus et abstractus á concupiscentia, malignae
+<lb n="14" xml:id="bsb00000706_00035_14"/>suggestioni, ut semper seductilis est adolescentia, nec
+<lb n="15" xml:id="bsb00000706_00035_15"/>voto defuit nec facto. Igitur filius imperatoris <w lemma="observans" xml:id="w357" corresp="#w357 #w358">obser-</w>
+<lb n="16" xml:id="bsb00000706_00035_16"/><w lemma="observans" xml:id="w358" corresp="#w357 #w358">vans</w> tempus recedendi á patre, quando id maximo patris
+<lb n="17" xml:id="bsb00000706_00035_17"/>incommodo fieret, euntem illum cum exercitu contra
+<lb n="18" xml:id="bsb00000706_00035_18"/>quosdam Saxonum rebelles, qui per legatos obviam
+<lb n="19" xml:id="bsb00000706_00035_19"/>imperatori missos pactioni insistebant, repente abstractis
+<lb n="20" xml:id="bsb00000706_00035_20"/>ab eo multis deseruit, procul dubio deserendus ab his,
+<lb n="21" xml:id="bsb00000706_00035_21"/>qui sibi, ut desertor fieret, persuaserunt. Missis <w lemma="imperator" xml:id="w359" corresp="#w359 #w360">impe-</w>
+<lb n="22" xml:id="bsb00000706_00035_22"/><w lemma="imperator" xml:id="w360" corresp="#w359 #w360">rator</w> post eum legatis tam lacrimis quam mandatis
+<lb n="23" xml:id="bsb00000706_00035_23"/>revocavit, obtestans eum, ne senem patrem contristaret,
+<lb n="24" xml:id="bsb00000706_00035_24"/>immo ne patrem omnium offenderet, ne se sputis <w lemma="hominum" xml:id="w361" corresp="#w361 #w362">ho-</w>
+<lb n="25" xml:id="bsb00000706_00035_25"/><w lemma="hominum" xml:id="w362" corresp="#w361 #w362">minum</w> exponeret, ne se fabulam mundo faceret; insuper
+<lb n="26" xml:id="bsb00000706_00035_26"/>meminisset, qua se sibi cautione obligasset; hostes esse,
+<lb n="27" xml:id="bsb00000706_00035_27"/>non amicos, insidiatores, non consiliatores, qui sibi talia
+<lb n="28" xml:id="bsb00000706_00035_28"/>suggessissent. Ille prorsus abnuit et se non ulterius
+<lb n="29" xml:id="bsb00000706_00035_29"/>secum partem habiturum, quia excommunicatus esset,
+<lb n="30" xml:id="bsb00000706_00035_30"/>asseruit; ita sub specie causae Dei suam causam egit.
+<lb n="31" xml:id="bsb00000706_00035_31"/>Ilico Bawariam, Sueviam, Saxoniam percurrit, <w lemma="proceres" xml:id="w363" corresp="#w363 #w364">pro-</w>
+<lb n="32" xml:id="bsb00000706_00035_32"/><w lemma="proceres" xml:id="w364" corresp="#w363 #w364">ceres</w> convenit, attraxit omnes, ut sunt ingenia novarum
+<lb n="33" xml:id="bsb00000706_00035_33"/>rerum cupida, et subintravit in regiam potestatem,
+<lb n="34" xml:id="bsb00000706_00035_34"/>tamquam sepelisset patrem. Mox castellum Noͮrinberch
+<lb n="35" xml:id="bsb00000706_00035_35"/>minax obsedit, ubi quanta virtute pugnatum sit, clades
+<lb n="36" xml:id="bsb00000706_00035_36"/>utriusque partis argumento fuit. Sed obsessis quanto
+<pb xml:id="bsb00000706_00036" n="31"/><lb n="1" xml:id="bsb00000706_00036_1"/>minus spei, tanto plus animi inerat; et nisi imperator,
+<lb n="2" xml:id="bsb00000706_00036_2"/>sceleri parcens, castellum tradi praecepisset, adhuc ibi
+<lb n="3" xml:id="bsb00000706_00036_3"/>cassa obsidione laboraret, excepto si sola fames, quae
+<lb n="4" xml:id="bsb00000706_00036_4"/>cuncta expugnat, illud non expugnaret. Ecce quanta
+<lb n="5" xml:id="bsb00000706_00036_5"/>pietas patris! Reddidit contra filii factum paternitatis
+<lb n="6" xml:id="bsb00000706_00036_6"/>affectum; non attendit iniuriam, sed naturam; maluit
+<lb n="7" xml:id="bsb00000706_00036_7"/>oppidum tradi, quam filii discrimine liberari; maluit
+<lb n="8" xml:id="bsb00000706_00036_8"/>eius iniurias tolerare, quam vindicare. Igitur oppidani,
+<lb n="9" xml:id="bsb00000706_00036_9"/>oblata qualem vellent pactione, oppidum tradiderunt;
+<lb n="10" xml:id="bsb00000706_00036_10"/>dimissoque exercitu rex Ratisponam se contulit, ut eam,
+<lb n="11" xml:id="bsb00000706_00036_11"/>dum adhuc ancipiti penderet animo, stabilem sibi fixaque
+<lb n="12" xml:id="bsb00000706_00036_12"/>fide immobilem faceret. Quod ubi comperit imperator,
+<lb n="13" xml:id="bsb00000706_00036_13"/>– sedit enim tunc in urbe Wirziburgensi –, reputans
+<lb n="14" xml:id="bsb00000706_00036_14"/>filium vel in itinere vel in urbe comprendi posse, tam
+<lb n="15" xml:id="bsb00000706_00036_15"/>precipiti tamque tacito cursu eius vestigia sequebatur,
+<lb n="16" xml:id="bsb00000706_00036_16"/>ut iter eius non ante, donec non modica turba suorum
+<lb n="17" xml:id="bsb00000706_00036_17"/>transito Danubio ad urbem inmissis equis ruerent, <w lemma="praesciretur" xml:id="w365" corresp="#w365 #w366">prae-</w>
+<lb n="18" xml:id="bsb00000706_00036_18"/><w lemma="praesciretur" xml:id="w366" corresp="#w365 #w366">sciretur</w>. Obstupefactus filius ad tam subitam et <w lemma="inopinatam" xml:id="w367" corresp="#w367 #w368">inopi-</w>
+<lb n="19" xml:id="bsb00000706_00036_19"/><w lemma="inopinatam" xml:id="w368" corresp="#w367 #w368">natam</w> rem, ex urbe profugit. Cur fugis non fugiendum,
+<lb n="20" xml:id="bsb00000706_00036_20"/>cur fugis patrem tuum? Sequitur te, non persequitur;
+<lb n="21" xml:id="bsb00000706_00036_21"/>sequitur, inquam, non ut hostis, sed ut pater, non ut
+<lb n="22" xml:id="bsb00000706_00036_22"/>perdat, sed ut servet; sequitur, ut turbatam ex te rem
+<lb n="23" xml:id="bsb00000706_00036_23"/>publicam in quietum statum restituat et tuis rebus in
+<lb n="24" xml:id="bsb00000706_00036_24"/>futurum prospiciat. Missis ilico rex nunciis per <w lemma="Bawariam" xml:id="w369" corresp="#w369 #w370">Bawa-</w>
+<lb n="25" xml:id="bsb00000706_00036_25"/><w lemma="Bawariam" xml:id="w370" corresp="#w369 #w370">riam</w> et Sueviam sparsum exercitum recollegit, quae res
+<lb n="26" xml:id="bsb00000706_00036_26"/>imperatorem, ut et ipse cogeret exercitum, coegit. Igitur
+<lb n="27" xml:id="bsb00000706_00036_27"/>exercitus uterque ad fluvium Regin se sibi opposuit;
+<lb n="28" xml:id="bsb00000706_00036_28"/>hinc pater, inde filius, hinc pietas, inde furor consedit.
+<lb n="29" xml:id="bsb00000706_00036_29"/>Cumque potentiores utriusque partis tamquam tanti
+<lb n="30" xml:id="bsb00000706_00036_30"/>discidii mediatores convenirent, qui ex parte imperatoris
+<lb n="31" xml:id="bsb00000706_00036_31"/>erant, persuasibilibus illecti verbis et multis magnisque
+<lb n="32" xml:id="bsb00000706_00036_32"/>pollicitationibus attracti, erga imperatorem in fide <w lemma="frigebant" xml:id="w371" corresp="#w371 #w372">frige-</w>
+<lb n="33" xml:id="bsb00000706_00036_33"/><w lemma="frigebant" xml:id="w372" corresp="#w371 #w372">bant</w>; et nisi domesticam fraudem praesensisset, solus
+<pb xml:id="bsb00000706_00037" n="32"/><lb n="1" xml:id="bsb00000706_00037_1"/>cum paucis periculo relictus esset. Igitur, quod <w lemma="faciundum" xml:id="w373" corresp="#w373 #w374">faciun-</w>
+<lb n="2" xml:id="bsb00000706_00037_2"/><w lemma="faciundum" xml:id="w374" corresp="#w373 #w374">dum</w> fuit, sceleri fortunaeque cedendum putavit et ad
+<lb n="3" xml:id="bsb00000706_00037_3"/>similitudinem David, ne filius parricida fieret, fugit.
+<lb n="4" xml:id="bsb00000706_00037_4"/>Quam mirabiliter gratia Dei operatur! quam evidenti
+<lb n="5" xml:id="bsb00000706_00037_5"/>signo nos docet, si doceri vellemus, si caecum cor non
+<lb n="6" xml:id="bsb00000706_00037_6"/>haberemus! Cogitans imperator, quod inimici sui hac,
+<lb n="7" xml:id="bsb00000706_00037_7"/>qua venerat, persequerentur eum, ad ducem Boemiae
+<lb n="8" xml:id="bsb00000706_00037_8"/>divertit, qui quamvis nuper eum in arto non bene <w lemma="reliquisset" xml:id="w375" corresp="#w375 #w376">reli-</w>
+<lb n="9" xml:id="bsb00000706_00037_9"/><w lemma="reliquisset" xml:id="w376" corresp="#w375 #w376">quisset</w>, cum magno tamen honore suscepit et usque in
+<lb n="10" xml:id="bsb00000706_00037_10"/>Saxoniam deduxit; ubi quamvis infestos et fortes <w lemma="inimicos" xml:id="w377" corresp="#w377 #w378">ini-</w>
+<lb n="11" xml:id="bsb00000706_00037_11"/><w lemma="inimicos" xml:id="w378" corresp="#w377 #w378">micos</w> haberet, per eos tamen et ab eis usque ad Renum
+<lb n="12" xml:id="bsb00000706_00037_12"/>honorifice deductus est. Unde hoc, nisi quod <hi rend="ITALICS">manus</hi>
+<lb n="13" xml:id="bsb00000706_00037_13"/><hi rend="ITALICS">Domini erat cum eo</hi>, et invisibilem ducem habebat, qui
+<lb n="14" xml:id="bsb00000706_00037_14"/>eum securum per tela, per hostes ducebat? Hoc <w lemma="miraculo" xml:id="w379" corresp="#w379 #w380">mira-</w>
+<lb n="15" xml:id="bsb00000706_00037_15"/><w lemma="miraculo" xml:id="w380" corresp="#w379 #w380">culo</w> monitus es, ó fili imperatoris, si moneri posses, ut
+<lb n="16" xml:id="bsb00000706_00037_16"/>disceres venerari patrem tuum, non persequi, quem
+<lb n="17" xml:id="bsb00000706_00037_17"/>venerati sunt, cum in manus eorum venisset, etiam <w lemma="inimici" xml:id="w381" corresp="#w381 #w382">ini-</w>
+<lb n="18" xml:id="bsb00000706_00037_18"/><w lemma="inimici" xml:id="w382" corresp="#w381 #w382">mici</w>. Sed durius moneberis, cum ex hac tam leni <w lemma="admonitione" xml:id="w383" corresp="#w383 #w384">ad-</w>
+<lb n="19" xml:id="bsb00000706_00037_19"/><w lemma="admonitione" xml:id="w384" corresp="#w383 #w384">monitione</w> non corrigaris.
+<lb n="20" xml:id="bsb00000706_00037_20"/>Cum autem imperatoris fuga cognita esset, eventus
+<lb n="21" xml:id="bsb00000706_00037_21"/>ille multos ab eo seduxit multumque rebus filii sui <w lemma="accedere" xml:id="w385" corresp="#w385 #w386">ac-</w>
+<lb n="22" xml:id="bsb00000706_00037_22"/><w lemma="accedere" xml:id="w386" corresp="#w385 #w386">cedere</w>, suis autem decedere fecit.
+<lb n="23" xml:id="bsb00000706_00037_23"/>10. Continuo rex ut faventem sibi fortunam <w lemma="urgueret" xml:id="w387" corresp="#w387 #w388">ur-</w>
+<lb n="24" xml:id="bsb00000706_00037_24"/><w lemma="urgueret" xml:id="w388" corresp="#w387 #w388">gueret</w>, curiam Mogontinam ad natale Domini indixit,
+<lb n="25" xml:id="bsb00000706_00037_25"/>invitavit proceres, accersivit multos, ut cunctis <w lemma="innotesceret" xml:id="w389" corresp="#w389 #w390">innotes-</w>
+<lb n="26" xml:id="bsb00000706_00037_26"/><w lemma="innotesceret" xml:id="w390" corresp="#w389 #w390">ceret</w>, quia dominus rerum esse vellet. Ad quam curiam
+<lb n="27" xml:id="bsb00000706_00037_27"/>etiam imperator convocatis necessariis suis venire <w lemma="disposuit" xml:id="w391" corresp="#w391 #w392">dispo-</w>
+<lb n="28" xml:id="bsb00000706_00037_28"/><w lemma="disposuit" xml:id="w392" corresp="#w391 #w392">suit</w>, volens in ratione ponere, rectene secum an secus
+<lb n="29" xml:id="bsb00000706_00037_29"/>actum esset. Quod cum agnovissent adversarii eius,
+<lb n="30" xml:id="bsb00000706_00037_30"/>metuentes et sibi et causae suae, si veniret ille tam
+<lb n="31" xml:id="bsb00000706_00037_31"/>armatus multitudine quam ratione, hanc fraudem regi
+<lb n="32" xml:id="bsb00000706_00037_32"/>suggerebant, ut obvius patri, sumpto valde poenitentis
+<lb n="33" xml:id="bsb00000706_00037_33"/>vultu, culpam fateretur et gratiam expeteret: dolere se,
+<lb n="34" xml:id="bsb00000706_00037_34"/>quod malignae suggestioni consensisset, paratum se ad
+<lb n="35" xml:id="bsb00000706_00037_35"/>omnem satisfactionem, dummodo gratiam inveniret; et
+<pb xml:id="bsb00000706_00038" n="33"/><lb n="1" xml:id="bsb00000706_00038_1"/>si sic occasionem fraudis invenire posset, uteretur illa;
+<lb n="2" xml:id="bsb00000706_00038_2"/>sin autem, fraus ipsa pro fide, simulatio teneretur pro
+<lb n="3" xml:id="bsb00000706_00038_3"/>veritatê. Hac instructus arte cum venisset ad patrem,
+<lb n="4" xml:id="bsb00000706_00038_4"/>pater credulus verbis et lacrimis filii, irruit super collum
+<lb n="5" xml:id="bsb00000706_00038_5"/>eius, flens et deosculans eum, gavisus instar illius
+<lb n="6" xml:id="bsb00000706_00038_6"/>euangelici patris revixisse filium, qui mortuus fuerat,
+<lb n="7" xml:id="bsb00000706_00038_7"/>et inventum, qui perierat. Quid multa? Condonavit
+<lb n="8" xml:id="bsb00000706_00038_8"/>filio tam poenam quam culpam; et hoc fuit illi iniuriam
+<lb n="9" xml:id="bsb00000706_00038_9"/>filii vindicasse, paterna lenitate filium corripuisse, iuxta
+<lb n="10" xml:id="bsb00000706_00038_10"/>illud comici: <hi rend="ITALICS">Pro magno peccato</hi> <hi rend="ITALICS">filii paululum supplicii</hi>
+<lb n="11" xml:id="bsb00000706_00038_11"/><hi rend="ITALICS">satis est patri. </hi>Post haec patrem sicut ficta poenitudine,
+<lb n="12" xml:id="bsb00000706_00038_12"/>sic et consilio fefellit, suggerens ei, quemadmodum sibi
+<lb n="13" xml:id="bsb00000706_00038_13"/>suggestum fuerat, ut dimissa tanta multitudine ad
+<lb n="14" xml:id="bsb00000706_00038_14"/>curiam ambo mediocri copia venirent; nihil esse, cum
+<lb n="15" xml:id="bsb00000706_00038_15"/>ipsi coissent in concordiam, quod illi resisteret; vastari
+<lb n="16" xml:id="bsb00000706_00038_16"/>omnia, si pergerent ea copia. Placuit consilium patri,
+<lb n="17" xml:id="bsb00000706_00038_17"/>bonum quidem, si fraudulentum non fuisset, dimissaque
+<lb n="18" xml:id="bsb00000706_00038_18"/>multitudine, non plus quam trecentis viris ad curiam
+<lb n="19" xml:id="bsb00000706_00038_19"/>filio comite pergebat. Ventum est ad nocturnam <w lemma="mansionem" xml:id="w393" corresp="#w393 #w394">man-</w>
+<lb n="20" xml:id="bsb00000706_00038_20"/><w lemma="mansionem" xml:id="w394" corresp="#w393 #w394">sionem</w>; ibi se filius obsequio patris totum impendebat,
+<lb n="21" xml:id="bsb00000706_00038_21"/>ibi se pater cum filio mirum in modum per totam illam
+<lb n="22" xml:id="bsb00000706_00038_22"/>noctem oblectabat, colloquebatur, colludebat, <w lemma="amplexabatur" xml:id="w395" corresp="#w395 #w396">amplexa-</w>
+<lb n="23" xml:id="bsb00000706_00038_23"/><w lemma="amplexabatur" xml:id="w396" corresp="#w395 #w396">batur</w>, osculabatur, avidus recompensare damnum <w lemma="oblectationis" xml:id="w397" corresp="#w397 #w398">oblec-</w>
+<lb n="24" xml:id="bsb00000706_00038_24"/><w lemma="oblectationis" xml:id="w398" corresp="#w397 #w398">tationis</w> diu intermissae, sed nescius illam oblectationis
+<lb n="25" xml:id="bsb00000706_00038_25"/>noctem ultimam esse. Mirum, fraudem umquam tam
+<lb n="26" xml:id="bsb00000706_00038_26"/>ordinatam fortunam habuisse. Postera namque die, cum
+<lb n="27" xml:id="bsb00000706_00038_27"/>iam appropinquarent Mogontiae, venit quasi nuntius,
+<lb n="28" xml:id="bsb00000706_00038_28"/>qui diceret Bawarios et Suevos cum ingenti multitudine
+<lb n="29" xml:id="bsb00000706_00038_29"/>Mogontiam venisse. Tunc filius suggessit imperatori
+<lb n="30" xml:id="bsb00000706_00038_30"/>non esse tutum venire in medios hostes, nisi <w lemma="praetemptatis" xml:id="w399" corresp="#w399 #w400">praetemp-</w>
+<lb n="31" xml:id="bsb00000706_00038_31"/><w lemma="praetemptatis" xml:id="w400" corresp="#w399 #w400">tatis</w> eorum animis; audaciam hominum nullis uti frenis;
+<lb n="32" xml:id="bsb00000706_00038_32"/>diverteret potius ad castellum quod iuxta erat, dum
+<lb n="33" xml:id="bsb00000706_00038_33"/>ipse conveniret eos et á sententia incoepti deduceret et
+<lb n="34" xml:id="bsb00000706_00038_34"/>ad eum ob requirendam eius gratiam secum adduceret.
+<lb n="35" xml:id="bsb00000706_00038_35"/>Fecit imperator, ut filius suggesserat, divertit ad <w lemma="castellum" xml:id="w401" corresp="#w401 #w402">ca-</w>
+<pb xml:id="bsb00000706_00039" n="34"/><lb n="1" xml:id="bsb00000706_00039_1"/><w lemma="castellum" xml:id="w402" corresp="#w401 #w402">stellum</w>, non cernens laqueum doli, quem texerat pulchra
+<lb n="2" xml:id="bsb00000706_00039_2"/>species mendacis fidei. Cum autem imperator cum paucis
+<lb n="3" xml:id="bsb00000706_00039_3"/>intrasset, occlusa porta, fidelibus eius aditus negabatur,
+<lb n="4" xml:id="bsb00000706_00039_4"/>detectaque fraude, qui receptus est ut dominus, tentus
+<lb n="5" xml:id="bsb00000706_00039_5"/>est ut captivus. Itaque appositis patri custodibus,
+<lb n="6" xml:id="bsb00000706_00039_6"/>cum hoc fraudis triumpho ad Mogontinam curiam <w lemma="reversus" xml:id="w403" corresp="#w403 #w404">re-</w>
+<lb n="7" xml:id="bsb00000706_00039_7"/><w lemma="reversus" xml:id="w404" corresp="#w403 #w404">versus</w>, tamquam rem virtutis egisset, cum magna <w lemma="iactantia" xml:id="w405" corresp="#w405 #w406">iac-</w>
+<lb n="8" xml:id="bsb00000706_00039_8"/><w lemma="iactantia" xml:id="w406" corresp="#w405 #w406">tantia</w> retulit, quo ingenio patrem comprehendisset.
+<lb n="9" xml:id="bsb00000706_00039_9"/>Tum vero curia plausu laeticiaque resonabat, et nefas
+<lb n="10" xml:id="bsb00000706_00039_10"/>iusticiae, fraudem virtuti ascribebant. Statim misso
+<lb n="11" xml:id="bsb00000706_00039_11"/>legato patri mandavit, ut, si vitam servare vellet,
+<lb n="12" xml:id="bsb00000706_00039_12"/>absque mora sibi crucem, coronam et lanceam caeteraque
+<lb n="13" xml:id="bsb00000706_00039_13"/>regalia transmitteret et munitiones, quas firmissimas
+<lb n="14" xml:id="bsb00000706_00039_14"/>tenebat, in manum eius transferret. Nec ille <w lemma="cunctabatur" xml:id="w407" corresp="#w407 #w408">cuncta-</w>
+<lb n="15" xml:id="bsb00000706_00039_15"/><w lemma="cunctabatur" xml:id="w408" corresp="#w407 #w408">batur</w> omnia quae iussus est facere nec imperium pluris
+<lb n="16" xml:id="bsb00000706_00039_16"/>habebat quam se. Sed non in hoc satisfecisse videbatur,
+<lb n="17" xml:id="bsb00000706_00039_17"/>nisi et ipse coram veniret et in conspectu omnium <w lemma="imperio" xml:id="w409" corresp="#w409 #w410">im-</w>
+<lb n="18" xml:id="bsb00000706_00039_18"/><w lemma="imperio" xml:id="w410" corresp="#w409 #w410">perio</w> renunciaret. Venit ergo, non suae potestatis, sed
+<lb n="19" xml:id="bsb00000706_00039_19"/>in comprehensione adductus. Solus coram eis, qui dudum
+<lb n="20" xml:id="bsb00000706_00039_20"/>coram se steterant, stetit; nec rationis libertatem
+<lb n="21" xml:id="bsb00000706_00039_21"/>habens, ut captivi fortuna postulabat, loquebatur. <w lemma="Inquisitus" xml:id="w411" corresp="#w411 #w412">In-</w>
+<lb n="22" xml:id="bsb00000706_00039_22"/><w lemma="Inquisitus" xml:id="w412" corresp="#w411 #w412">quisitus</w> de spontanea imperii renunciatione, non quod
+<lb n="23" xml:id="bsb00000706_00039_23"/>voluntas habuit, sed quod necessitas coegit, respondit:
+<lb n="24" xml:id="bsb00000706_00039_24"/>se videlicet imperio renunciare, non vi coactum, sed propria
+<lb n="25" xml:id="bsb00000706_00039_25"/>voluntate inductum; sibi iam defecisse vires ad <w lemma="moderandas" xml:id="w413" corresp="#w413 #w414">mode-</w>
+<lb n="26" xml:id="bsb00000706_00039_26"/><w lemma="moderandas" xml:id="w414" corresp="#w413 #w414">randas</w> regni habenas, non se iam eius cupiditate teneri,
+<lb n="27" xml:id="bsb00000706_00039_27"/>quod longo usu didicisset habere plus molestiae quam
+<lb n="28" xml:id="bsb00000706_00039_28"/>gloriae; tempus esse, ut honore cum onere deposito <w lemma="provideret" xml:id="w415" corresp="#w415 #w416">pro-</w>
+<lb n="29" xml:id="bsb00000706_00039_29"/><w lemma="provideret" xml:id="w416" corresp="#w415 #w416">videret</w> animae suae; tantum filius suus caveret, ne quid
+<lb n="30" xml:id="bsb00000706_00039_30"/>tale faceret in se, quod indignum esset et illum facere
+<lb n="31" xml:id="bsb00000706_00039_31"/>et se pati. Multos et oratio imperatoris et fortuna ad
+<lb n="32" xml:id="bsb00000706_00039_32"/>gemitus et lacrimas commovit; filium autem ad <w lemma="miserationem" xml:id="w417" corresp="#w417 #w418">misera-</w>
+<lb n="33" xml:id="bsb00000706_00039_33"/><w lemma="miserationem" xml:id="w418" corresp="#w417 #w418">tionem</w> nec ipsa natura movere potuit. Et cum caderet
+<pb xml:id="bsb00000706_00040" n="35"/><lb n="1" xml:id="bsb00000706_00040_1"/>ad pedes filii, orans, ut recogitaret in se saltem ius
+<lb n="2" xml:id="bsb00000706_00040_2"/>naturae, nec vultum nec animum ad patrem reflexit,
+<lb n="3" xml:id="bsb00000706_00040_3"/>cum ipse potius ad patrios pedes advolvi debuisset, eô
+<lb n="4" xml:id="bsb00000706_00040_4"/>quod illi regnum, cuius heres designatus ab ipso fuerat,
+<lb n="5" xml:id="bsb00000706_00040_5"/>impatiens morae praeripuisset. Praeterea veniam <w lemma="precabatur" xml:id="w419" corresp="#w419 #w420">preca-</w>
+<lb n="6" xml:id="bsb00000706_00040_6"/><w lemma="precabatur" xml:id="w420" corresp="#w419 #w420">batur</w> ab omnibus, quos umquam iniuste lesisset. Sed
+<lb n="7" xml:id="bsb00000706_00040_7"/>et pedibus apostolici legati advolvitur, orans et <w lemma="obsecrans" xml:id="w421" corresp="#w421 #w422">obse-</w>
+<lb n="8" xml:id="bsb00000706_00040_8"/><w lemma="obsecrans" xml:id="w422" corresp="#w421 #w422">crans</w>, ut se á banno solveret et communioni aecclesiae
+<lb n="9" xml:id="bsb00000706_00040_9"/>redderet. Laici misericordia commoti veniam dabant;
+<lb n="10" xml:id="bsb00000706_00040_10"/>legatus autem domni apostolici absolutionem negabat,
+<lb n="11" xml:id="bsb00000706_00040_11"/>asserens non hoc suae potestatis esse, oportere ab ipso
+<lb n="12" xml:id="bsb00000706_00040_12"/>apostolico absolutionis gratiam eum expectare. Quid
+<lb n="13" xml:id="bsb00000706_00040_13"/>multa? Abrenuntiata imperiali dignitate privatus <w lemma="discessit" xml:id="w423" corresp="#w423 #w424">dis-</w>
+<lb n="14" xml:id="bsb00000706_00040_14"/><w lemma="discessit" xml:id="w424" corresp="#w423 #w424">cessit</w> et ad quandam curtem, quam filius victui illius
+<lb n="15" xml:id="bsb00000706_00040_15"/>permiserat, recessit. Quam impotens potentia mundi,
+<lb n="16" xml:id="bsb00000706_00040_16"/>quam incerta, quam instabilis! Sed nec potentia dicenda
+<lb n="17" xml:id="bsb00000706_00040_17"/>est, quae ad omnia quae vult efficax non est, et quam
+<lb n="18" xml:id="bsb00000706_00040_18"/>qui assequitur amittere potest.
+<lb n="19" xml:id="bsb00000706_00040_19"/>11. His ita transactis finitaque curia rex superiores
+<lb n="20" xml:id="bsb00000706_00040_20"/>Reni regiones et urbes pertransiit et, ut res postulabat,
+<lb n="21" xml:id="bsb00000706_00040_21"/>hos beneficio, illos iniuria sibi subiecit. Cum autem <w lemma="intrasset" xml:id="w425" corresp="#w425 #w426">in-</w>
+<lb n="22" xml:id="bsb00000706_00040_22"/><w lemma="intrasset" xml:id="w426" corresp="#w425 #w426">trasset</w> Alsaciam, ibi fortuna eius aliquantulum hesit,
+<lb n="23" xml:id="bsb00000706_00040_23"/>ibi pugnam tam infelici eventu quam imprudenti gessit
+<lb n="24" xml:id="bsb00000706_00040_24"/>incoepto. Nam cum in villa Ruvach, quae multitudine
+<lb n="25" xml:id="bsb00000706_00040_25"/>praevalet et armis, satellites eius superbe grassarentur,
+<lb n="26" xml:id="bsb00000706_00040_26"/>frequentia civium iniuriam prohibebat; nec enim, dum
+<lb n="27" xml:id="bsb00000706_00040_27"/>iniuria modum exederet, patiens esse poterat. Audito
+<lb n="28" xml:id="bsb00000706_00040_28"/>tumultu rex properabat, non ut iniuriam prohiberet, sed
+<lb n="29" xml:id="bsb00000706_00040_29"/>iuvaret, non ut pugnam sedaret, sed amplius commoveret.
+<lb n="30" xml:id="bsb00000706_00040_30"/>Quae res totius villae turbam excivit, ruit inrevocabile
+<lb n="31" xml:id="bsb00000706_00040_31"/>vulgus, femina cum viro, servus cum domino, ignavus
+<lb n="32" xml:id="bsb00000706_00040_32"/>cum forti, et, ut plerumque fit, animum iniuria <w lemma="ministravit" xml:id="w427" corresp="#w427 #w428">mini-</w>
+<lb n="33" xml:id="bsb00000706_00040_33"/><w lemma="ministravit" xml:id="w428" corresp="#w427 #w428">stravit</w>. Incoepta pugna incępta est et fuga; nam qui
+<lb n="34" xml:id="bsb00000706_00040_34"/>regiae partis erant, cum viderent impetum furentis
+<pb xml:id="bsb00000706_00041" n="36"/><lb n="1" xml:id="bsb00000706_00041_1"/>turbae et rem in arto sitam, considerantes in virtute
+<lb n="2" xml:id="bsb00000706_00041_2"/>suam cladem, in sola fuga salutem, qui poterant fuga
+<lb n="3" xml:id="bsb00000706_00041_3"/>vitam servabant. O infelicem eventum, ó dedecus regni!
+<lb n="4" xml:id="bsb00000706_00041_4"/>fugiente rege regalia insignia vulgi praeda facta sunt.
+<lb n="5" xml:id="bsb00000706_00041_5"/>Resipisce tandem, rex bone, resipisce et supernam iram
+<lb n="6" xml:id="bsb00000706_00041_6"/>in hac sorte tua recognosce! Iudicium irae Dei est, ut
+<lb n="7" xml:id="bsb00000706_00041_7"/>fugeres, qui patrem fugasti, et insignia perderes, quae
+<lb n="8" xml:id="bsb00000706_00041_8"/>patri abstulisti. Sed his postea receptis, interveniente
+<lb n="9" xml:id="bsb00000706_00041_9"/>pacto pacis et gratia veniae, regem sententiam mutare
+<lb n="10" xml:id="bsb00000706_00041_10"/>fecit altum vulnus iniuriae, ut maiori robore collecto,
+<lb n="11" xml:id="bsb00000706_00041_11"/>villam incendio praedaque vastaret et in homines loci
+<lb n="12" xml:id="bsb00000706_00041_12"/>illius indiscreta cede seviret. Sed, quod in se fortuna
+<lb n="13" xml:id="bsb00000706_00041_13"/>tantum ausa est, ex patris consilio prodisse suspicatus,
+<lb n="14" xml:id="bsb00000706_00041_14"/>novas iniuriarum cogitationes in eum cogitare coepit, et
+<lb n="15" xml:id="bsb00000706_00041_15"/>ne sibi esset obstaculi materia, vel ad comprehensionem
+<lb n="16" xml:id="bsb00000706_00041_16"/>eius vel ad expulsionem animum intendit.
+<lb n="17" xml:id="bsb00000706_00041_17"/>Itaque Leodii, ubi eum fidem et fortunae suae
+<lb n="18" xml:id="bsb00000706_00041_18"/>receptaculum invenisse audierat, pascha sibi celebrandum
+<lb n="19" xml:id="bsb00000706_00041_19"/>statuit, ut et ipsum, si fieri posset, comprehenderet et
+<lb n="20" xml:id="bsb00000706_00041_20"/>ab episcopo, qui sui honoris emulum recepisset, <w lemma="iniuriam" xml:id="w429" corresp="#w429 #w430">in-</w>
+<lb n="21" xml:id="bsb00000706_00041_21"/><w lemma="iniuriam" xml:id="w430" corresp="#w429 #w430">iuriam</w> expostularet. Cumque pater vidisset, quod filius
+<lb n="22" xml:id="bsb00000706_00041_22"/>suus Leodii pascha celebrandum statuisset, legationem
+<lb n="23" xml:id="bsb00000706_00041_23"/>ad eum in hunc modum direxit: 'Si interrogem te, fili
+<lb n="24" xml:id="bsb00000706_00041_24"/>dulcissime, traditio hominum an mandatum Dei <w lemma="praestantius" xml:id="w431" corresp="#w431 #w432">prae-</w>
+<lb n="25" xml:id="bsb00000706_00041_25"/><w lemma="praestantius" xml:id="w432" corresp="#w431 #w432">stantius</w> magisque tenendum sit, respondebis, nisi á vero
+<lb n="26" xml:id="bsb00000706_00041_26"/>deductus sis, similem esse iumentis, qui caelestia terrenis,
+<lb n="27" xml:id="bsb00000706_00041_27"/>humanis divina non praeferat. Cur ergo magis audis
+<lb n="28" xml:id="bsb00000706_00041_28"/>eos, qui tibi suggerunt: „Persequere patrem tuum", quam
+<lb n="29" xml:id="bsb00000706_00041_29"/>verbum ipsius Dei: <hi rend="ITALICS">Honora patrem tuum? </hi>Isti te <w lemma="decipiunt" xml:id="w433" corresp="#w433 #w434">de-</w>
+<lb n="30" xml:id="bsb00000706_00041_30"/><w lemma="decipiunt" xml:id="w434" corresp="#w433 #w434">cipiunt</w>, non instruunt, isti honori tuo non provident,
+<lb n="31" xml:id="bsb00000706_00041_31"/>sed invident, isti sub specie fidei perfidiae laqueos
+<lb n="32" xml:id="bsb00000706_00041_32"/>nectunt. Non aliter pervenire potuerunt ad destructionem
+<lb n="33" xml:id="bsb00000706_00041_33"/>honoris tui, nisi per destructionem nostri. Fuerit sane,
+<pb xml:id="bsb00000706_00042" n="37"/><lb n="1" xml:id="bsb00000706_00042_1"/>ut peccatis meis exigentibus, quae sententia adversariorum
+<lb n="2" xml:id="bsb00000706_00042_2"/>meorum est, abiecerit me Deus, ne regnem; attamen
+<lb n="3" xml:id="bsb00000706_00042_3"/>tuum non erat in abiectionem meam operam dedisse et
+<lb n="4" xml:id="bsb00000706_00042_4"/>regnum, quod tibi paraveram, mihi praeripuisse. Barbara
+<lb n="5" xml:id="bsb00000706_00042_5"/>regna tam inhumanum facinus damnant et devovent;
+<lb n="6" xml:id="bsb00000706_00042_6"/>ipsi pagani abhorrent, et qui Deum nesciunt, quid in
+<lb n="7" xml:id="bsb00000706_00042_7"/>diligendis hominibus naturae debeant, recognoscunt.
+<lb n="8" xml:id="bsb00000706_00042_8"/>Sed quid mirum, si maligna surreptio seductilem et <w lemma="inmaturam" xml:id="w435" corresp="#w435 #w436">in-</w>
+<lb n="9" xml:id="bsb00000706_00042_9"/><w lemma="inmaturam" xml:id="w436" corresp="#w435 #w436">maturam</w> aetatem decepit, cum etiam senes et fixum
+<lb n="10" xml:id="bsb00000706_00042_10"/>animi statum ad malum mala consilia nonnumquam <w lemma="inflectant" xml:id="w437" corresp="#w437 #w438">in-</w>
+<lb n="11" xml:id="bsb00000706_00042_11"/><w lemma="inflectant" xml:id="w438" corresp="#w437 #w438">flectant</w>? Fortuna mea alieni potius quam tui sceleris
+<lb n="12" xml:id="bsb00000706_00042_12"/>est; nam tu in manibus suadentium eras, non illi in tuis.
+<lb n="13" xml:id="bsb00000706_00042_13"/>Si autem iniuriam addideris, non iam excusari poteris,
+<lb n="14" xml:id="bsb00000706_00042_14"/>cum et factam crimen esse scias et infectam non facere
+<lb n="15" xml:id="bsb00000706_00042_15"/>queas. Audivi enim, quod pascha Leodii celebrandum
+<lb n="16" xml:id="bsb00000706_00042_16"/>decreveris; quo in loco fides et pietas episcopi me recepit,
+<lb n="17" xml:id="bsb00000706_00042_17"/>cum non esset, qui vel beneficiorum nostrorum <w lemma="recordaretur" xml:id="w439" corresp="#w439 #w440">recorda-</w>
+<lb n="18" xml:id="bsb00000706_00042_18"/><w lemma="recordaretur" xml:id="w440" corresp="#w439 #w440">retur</w> vel fortunae compateretur. Cuius profecto <w lemma="beneficiis" xml:id="w441" corresp="#w441 #w442">bene-</w>
+<lb n="19" xml:id="bsb00000706_00042_19"/><w lemma="beneficiis" xml:id="w442" corresp="#w441 #w442">ficiis</w> in me te decet regia liberalitate respondere, <w lemma="tantoque" xml:id="w443" corresp="#w443 #w444">tanto-</w>
+<lb n="20" xml:id="bsb00000706_00042_20"/><w lemma="tantoque" xml:id="w444" corresp="#w443 #w444">que</w> certior de eius fide poteris esse, quanto fidelius erga
+<lb n="21" xml:id="bsb00000706_00042_21"/>nos probatur egisse. Híc, nisi forte te domo receperit,
+<lb n="22" xml:id="bsb00000706_00042_22"/>me secum in festivitate pascali retinendum decrevit. At
+<lb n="23" xml:id="bsb00000706_00042_23"/>dicis dignum et conveniens esse, ut ea festivitas potius
+<lb n="24" xml:id="bsb00000706_00042_24"/>nos iungat quam dividat, te velle, te cupere, ut ibi tecum
+<lb n="25" xml:id="bsb00000706_00042_25"/>agam dies pascalis leticiae. Quod quidem et ego <w lemma="admodum" xml:id="w445" corresp="#w445 #w446">ad-</w>
+<lb n="26" xml:id="bsb00000706_00042_26"/><w lemma="admodum" xml:id="w446" corresp="#w445 #w446">modum</w> cuperem, si non esset quod timerem. Neque
+<lb n="27" xml:id="bsb00000706_00042_27"/>enim non possum non timere eos, quos mihi vitam <w lemma="permisisse" xml:id="w447" corresp="#w447 #w448">per-</w>
+<lb n="28" xml:id="bsb00000706_00042_28"/><w lemma="permisisse" xml:id="w448" corresp="#w447 #w448">misisse</w> poenitet, dum in manibus eorum mors et vita
+<lb n="29" xml:id="bsb00000706_00042_29"/>mea fuisset. Omnia mihi suspecta sunt, omnia timenda
+<lb n="30" xml:id="bsb00000706_00042_30"/>sunt, maxime in turba, ubi tanto difficilior est periculi
+<lb n="31" xml:id="bsb00000706_00042_31"/>cautio, quanto maior sceleris occasio. Inde est, quod ex
+<lb n="32" xml:id="bsb00000706_00042_32"/>medio eorum qui me oderunt longe recessi et in extremis
+<lb n="33" xml:id="bsb00000706_00042_33"/>regni tui finibus me contraxi, ut vel secessu loci tutus
+<lb n="34" xml:id="bsb00000706_00042_34"/>sim vel, si fortuna mea postulaverit extraneam <w lemma="humanitatem" xml:id="w449" corresp="#w449 #w450">humani-</w>
+<lb n="35" xml:id="bsb00000706_00042_35"/><w lemma="humanitatem" xml:id="w450" corresp="#w449 #w450">tatem</w> expetere, citius é regno tuo cedere possim. Precor
+<lb n="36" xml:id="bsb00000706_00042_36"/>ergo, ut causa patris tui pascalem curiam alibi disponas
+<pb xml:id="bsb00000706_00043" n="38"/><lb n="1" xml:id="bsb00000706_00043_1"/>et in domo eius qui me humanitatis gratia recepit, cum
+<lb n="2" xml:id="bsb00000706_00043_2"/>non liceat imperatorem, saltim hospitem esse sinas, ne
+<lb n="3" xml:id="bsb00000706_00043_3"/>vel in meum ludibrium vel in tuum obprobrium narretur,
+<lb n="4" xml:id="bsb00000706_00043_4"/>quod in solemnitate dominicae resurrectionis incerta
+<lb n="5" xml:id="bsb00000706_00043_5"/>hospicia fortuna mea querere cogatur. Si feceris quod
+<lb n="6" xml:id="bsb00000706_00043_6"/>postulo, maximas grates habeo; sin autem, malo mendicus
+<lb n="7" xml:id="bsb00000706_00043_7"/>esse in externis regnis, quam ludibrio haberi in regnis
+<lb n="8" xml:id="bsb00000706_00043_8"/>quondam meis'.
+<lb n="9" xml:id="bsb00000706_00043_9"/>Hanc legationem patris aure surda filius audivit
+<lb n="10" xml:id="bsb00000706_00043_10"/>nec á sententia sua deduci potuit. Quam ob rem cum
+<lb n="11" xml:id="bsb00000706_00043_11"/>iani instante pascha pater recedere vellet, episcopus et
+<lb n="12" xml:id="bsb00000706_00043_12"/>Heinricus dux, qui et ipse ab episcopo fuerat invitatus,
+<lb n="13" xml:id="bsb00000706_00043_13"/>eum recedere prohibebant; non se posse pati, ut in tanta
+<lb n="14" xml:id="bsb00000706_00043_14"/>festivitate pulsus é tectis hominum silvas peteret <w lemma="latebrasque" xml:id="w451" corresp="#w451 #w452">late-</w>
+<lb n="15" xml:id="bsb00000706_00043_15"/><w lemma="latebrasque" xml:id="w452" corresp="#w451 #w452">brasque</w> ferarum; illum quidem absque causa destitutum
+<lb n="16" xml:id="bsb00000706_00043_16"/>imperio, sed non amicorum obsequio; si pace frui <w lemma="permitterentur" xml:id="w453" corresp="#w453 #w454">per-</w>
+<lb n="17" xml:id="bsb00000706_00043_17"/><w lemma="permitterentur" xml:id="w454" corresp="#w453 #w454">mitterentur</w>, nihil se magis quam pacem velle; sin autem
+<lb n="18" xml:id="bsb00000706_00043_18"/>res armis agenda sit, arma sibi non defore. Ille vero,
+<lb n="19" xml:id="bsb00000706_00043_19"/>ne eis materia cladis esset, cedere quam manere utilius
+<lb n="20" xml:id="bsb00000706_00043_20"/>asserens, tandem eis, cum importunius instarent, <w lemma="consensit" xml:id="w455" corresp="#w455 #w456">con-</w>
+<lb n="21" xml:id="bsb00000706_00043_21"/><w lemma="consensit" xml:id="w456" corresp="#w455 #w456">sensit</w> et, ut postulabant, mansit.
+<lb n="22" xml:id="bsb00000706_00043_22"/>12. Iamque inultus equitatus faciem regis longe
+<lb n="23" xml:id="bsb00000706_00043_23"/>praecedens ad pontem fluvii qui vocatur Masa venerat,
+<lb n="24" xml:id="bsb00000706_00043_24"/>et alterius ripae crepidinem filius praedicti ducis cum
+<lb n="25" xml:id="bsb00000706_00043_25"/>paucis occuparat, nam turbam armatorum non longe per
+<lb n="26" xml:id="bsb00000706_00043_26"/>oportuna loca in insidiis locaverat. Qui ut pugnam <w lemma="provocaret" xml:id="w457" corresp="#w457 #w458">pro-</w>
+<lb n="27" xml:id="bsb00000706_00043_27"/><w lemma="provocaret" xml:id="w458" corresp="#w457 #w458">vocaret</w>, nunc equum in rectam cursus lineam inmisit,
+<lb n="28" xml:id="bsb00000706_00043_28"/>nunc in orbes flexit et reflexit et, si pares numero <w lemma="confligere" xml:id="w459" corresp="#w459 #w460">con-</w>
+<lb n="29" xml:id="bsb00000706_00043_29"/><w lemma="confligere" xml:id="w460" corresp="#w459 #w460">fligere</w> secum auderent, inquisivit. Nec mora transierunt
+<lb n="30" xml:id="bsb00000706_00043_30"/>ad eos totidem ex parte regis, mixtique inter se vario
+<lb n="31" xml:id="bsb00000706_00043_31"/>reflexu nunc pugnam inferebant, nunc fugam agitabant.
+<pb xml:id="bsb00000706_00044" n="39"/><lb n="1" xml:id="bsb00000706_00044_1"/>Interim unus et alter transito ponte sociorum numerum
+<lb n="2" xml:id="bsb00000706_00044_2"/>latenter auxit et rupto certaminis pacto ex aequali <w lemma="inaequalem" xml:id="w461" corresp="#w461 #w462">in-</w>
+<lb n="3" xml:id="bsb00000706_00044_3"/><w lemma="inaequalem" xml:id="w462" corresp="#w461 #w462">aequalem</w> fecit. Quod videns filius ducis terga cum suis
+<lb n="4" xml:id="bsb00000706_00044_4"/>vertit, non tam ut fugeret, quam ut falleret, nec tam ut
+<lb n="5" xml:id="bsb00000706_00044_5"/>fugiens periculum vitaret, quam ut sequentes in <w lemma="periculum" xml:id="w463" corresp="#w463 #w464">peri-</w>
+<lb n="6" xml:id="bsb00000706_00044_6"/><w lemma="periculum" xml:id="w464" corresp="#w463 #w464">culum</w> deduceret. Hi autem qui ex adversa ripa erant,
+<lb n="7" xml:id="bsb00000706_00044_7"/>visa fuga, precipiti cursu pontem transeuntes, fugientes
+<lb n="8" xml:id="bsb00000706_00044_8"/>persequebantur, ignari futurae sortis et fraudis quae
+<lb n="9" xml:id="bsb00000706_00044_9"/>latebat. Postquam autem ventum est ad locum, ubi
+<lb n="10" xml:id="bsb00000706_00044_10"/>dispositae fuerant insidiae, exurgentes de insidiis impetu
+<lb n="11" xml:id="bsb00000706_00044_11"/>magno in persequentes ferebantur. Illi autem inopino
+<lb n="12" xml:id="bsb00000706_00044_12"/>territi periculo metuque turbante nil rationis in armis
+<lb n="13" xml:id="bsb00000706_00044_13"/>habentes, in fugam se retorserunt. Sed quid profuit
+<lb n="14" xml:id="bsb00000706_00044_14"/>avertisse pectora et vulneribus terga dedisse? Itaque
+<lb n="15" xml:id="bsb00000706_00044_15"/>multi capti, multi truncati, multi occisi sunt; victorque
+<lb n="16" xml:id="bsb00000706_00044_16"/>cruentus non alium modum sceleris habebat, nisi quem
+<lb n="17" xml:id="bsb00000706_00044_17"/>fastidium faciebat. Ad pontem vero, ubi fugax <w lemma="multitudo" xml:id="w465" corresp="#w465 #w466">multi-</w>
+<lb n="18" xml:id="bsb00000706_00044_18"/><w lemma="multitudo" xml:id="w466" corresp="#w465 #w466">tudo</w> se coartaverat, tanto plus sceleris impia manus
+<lb n="19" xml:id="bsb00000706_00044_19"/>peregit, quanto minus constipata turba se movere potuit.
+<lb n="20" xml:id="bsb00000706_00044_20"/>Sed multo plures fluvius absorbuit, quam ensis hausit;
+<lb n="21" xml:id="bsb00000706_00044_21"/>nam cum hostis á tergo premeret, impellente metu in
+<lb n="22" xml:id="bsb00000706_00044_22"/>fluvium se precipitabant et attoniti confusique de morte
+<lb n="23" xml:id="bsb00000706_00044_23"/>in mortem ruebant. Erat ibi cernere et aliam miseriam
+<lb n="24" xml:id="bsb00000706_00044_24"/>vel maximam, cum pons multitudine praegravatus repente
+<lb n="25" xml:id="bsb00000706_00044_25"/>corruit, et fluvius homines equosque pariter involvit.
+<lb n="26" xml:id="bsb00000706_00044_26"/>Nulli locus erat evadendi, nulli profuit ingenium natandi;
+<lb n="27" xml:id="bsb00000706_00044_27"/>nam aut armorum pondere aut inherentium conexione
+<lb n="28" xml:id="bsb00000706_00044_28"/>fatigatus, in profundum trahebatur. Quod malum ut
+<lb n="29" xml:id="bsb00000706_00044_29"/>scelestius esset, in ipsa die parasceuae contigit, <w lemma="crevitque" xml:id="w467" corresp="#w467 #w468">crevit-</w>
+<lb n="30" xml:id="bsb00000706_00044_30"/><w lemma="crevitque" xml:id="w468" corresp="#w467 #w468">que</w> magnitudo sceleris ex reverentia temporis.
+<lb n="31" xml:id="bsb00000706_00044_31"/>13. His ita transactis rex iter Coloniam convertit,
+<lb n="32" xml:id="bsb00000706_00044_32"/>sed cum illa quoque aditum sibi praeclusisset, in villa
+<lb n="33" xml:id="bsb00000706_00044_33"/>quae dicitur Bunna dominica tantum paschae peracta,
+<pb xml:id="bsb00000706_00045" n="40"/><lb n="1" xml:id="bsb00000706_00045_1"/>Mogontiam festinus rediit et sparsis ubique legatis <w lemma="querimoniam" xml:id="w469" corresp="#w469 #w470">que-</w>
+<lb n="2" xml:id="bsb00000706_00045_2"/><w lemma="querimoniam" xml:id="w470" corresp="#w469 #w470">rimoniam</w> ad proceres in hunc modum direxit: 'Si per
+<lb n="3" xml:id="bsb00000706_00045_3"/>invasionem regnum occupassem, tamen resistentes <w lemma="potestati" xml:id="w471" corresp="#w471 #w472">pote-</w>
+<lb n="4" xml:id="bsb00000706_00045_4"/><w lemma="potestati" xml:id="w472" corresp="#w471 #w472">stati</w> nostrae retunderem, in quantum possem. Nunc
+<lb n="5" xml:id="bsb00000706_00045_5"/>autem, cum in sumpta regni dignitate vestris paruerim
+<lb n="6" xml:id="bsb00000706_00045_6"/>praeceptis, ausus est quisquam impune in publicam <w lemma="contumeliam" xml:id="w473" corresp="#w473 #w474">con-</w>
+<lb n="7" xml:id="bsb00000706_00045_7"/><w lemma="contumeliam" xml:id="w474" corresp="#w473 #w474">tumeliam</w> regnum et nos armis vexare? Cum enim
+<lb n="8" xml:id="bsb00000706_00045_8"/>Leodium ituri, ubi nobis curia pascalis habenda fuerat,
+<lb n="9" xml:id="bsb00000706_00045_9"/>ad fluvium Masa venissemus, episcopus Leodicensis et
+<lb n="10" xml:id="bsb00000706_00045_10"/>dux H[einricus], de quorum fide et obsequii devotione
+<lb n="11" xml:id="bsb00000706_00045_11"/>multum praesumebamus, nobis latenter insidias <w lemma="posuerant" xml:id="w475" corresp="#w475 #w476">posue-</w>
+<lb n="12" xml:id="bsb00000706_00045_12"/><w lemma="posuerant" xml:id="w476" corresp="#w475 #w476">rant</w> et nostros inscios et ad pugnam imparatos cedebant,
+<lb n="13" xml:id="bsb00000706_00045_13"/>capiebant, fugabant. Quae et quanta clades ibi acciderit,
+<lb n="14" xml:id="bsb00000706_00045_14"/>tam pudet referre quam inultum dimittere. Igitur <w lemma="constrictus" xml:id="w477" corresp="#w477 #w478">con-</w>
+<lb n="15" xml:id="bsb00000706_00045_15"/><w lemma="constrictus" xml:id="w478" corresp="#w477 #w478">strictus</w> et eventus asperitate et temporis articulo, <w lemma="Coloniam" xml:id="w479" corresp="#w479 #w480">Colo-</w>
+<lb n="16" xml:id="bsb00000706_00045_16"/><w lemma="Coloniam" xml:id="w480" corresp="#w479 #w480">niam</w> diverti; quae cum me recipere satis superbe <w lemma="refutaret" xml:id="w481" corresp="#w481 #w482">refu-</w>
+<lb n="17" xml:id="bsb00000706_00045_17"/><w lemma="refutaret" xml:id="w482" corresp="#w481 #w482">taret</w>, apud villam Bunnam sanctum diem paschae <w lemma="utcumque" xml:id="w483" corresp="#w483 #w484">ut-</w>
+<lb n="18" xml:id="bsb00000706_00045_18"/><w lemma="utcumque" xml:id="w484" corresp="#w483 #w484">cumque</w> peregi. Cui umquam regiae personae tanta
+<lb n="19" xml:id="bsb00000706_00045_19"/>contumelia facta est? Nec solum me petit haec <w lemma="contumelia" xml:id="w485" corresp="#w485 #w486">con-</w>
+<lb n="20" xml:id="bsb00000706_00045_20"/><w lemma="contumelia" xml:id="w486" corresp="#w485 #w486">tumelia</w>: vos despecti estis; isti praesumptores decreta
+<lb n="21" xml:id="bsb00000706_00045_21"/>vestra auctoritatem habere nolunt, sua tantum statuta
+<lb n="22" xml:id="bsb00000706_00045_22"/>firma esse volunt; denique in quos totum regni pondus
+<lb n="23" xml:id="bsb00000706_00045_23"/>se reclinet, haberi cupiunt. Regem, quem constituistis,
+<lb n="24" xml:id="bsb00000706_00045_24"/>destituere parant, ut nihil eorum, quae vos decernitis,
+<lb n="25" xml:id="bsb00000706_00045_25"/>ratum sit. Igitur haec iniuria mea regni potius est,
+<lb n="26" xml:id="bsb00000706_00045_26"/>quam mea; nam unius capitis, licet summi, deiectio
+<lb n="27" xml:id="bsb00000706_00045_27"/>reparabile regni dampnum est, principum autem <w lemma="conculcatio" xml:id="w487" corresp="#w487 #w488">con-</w>
+<lb n="28" xml:id="bsb00000706_00045_28"/><w lemma="conculcatio" xml:id="w488" corresp="#w487 #w488">culcatio</w> ruina regni est. An haec inpune feremus, et ex
+<lb n="29" xml:id="bsb00000706_00045_29"/>ignobili pacientia nostra magis tumebit eorum superbia?
+<lb n="30" xml:id="bsb00000706_00045_30"/>Absit, ut qui dicimur inhonorati, dicamur et inulti.
+<lb n="31" xml:id="bsb00000706_00045_31"/>Pauca dixisse sat est; desides animi prolixae cohortationis
+<lb n="32" xml:id="bsb00000706_00045_32"/>stimulo opus habent. Causa magis ad incitamentum sit
+<lb n="33" xml:id="bsb00000706_00045_33"/>quam verba. Quia igitur contra tam superbos hostes
+<pb xml:id="bsb00000706_00046" n="41"/><lb n="1" xml:id="bsb00000706_00046_1"/>rei publicae viribus utendum est, expeditionem vobis et
+<lb n="2" xml:id="bsb00000706_00046_2"/>rogando praecipimus et praecipiendo rogamus, cuius <w lemma="collectioni" xml:id="w489" corresp="#w489 #w490">col-</w>
+<lb n="3" xml:id="bsb00000706_00046_3"/><w lemma="collectioni" xml:id="w490" corresp="#w489 #w490">lectioni</w> et tempus Kalendas Iul. et locum <w lemma="Wirziburgensem" xml:id="w491" corresp="#w491 #w492">Wirzi-</w>
+<lb n="4" xml:id="bsb00000706_00046_4"/><w lemma="Wirziburgensem" xml:id="w492" corresp="#w491 #w492">burgensem</w> urbem praefinimus' .
+<lb n="5" xml:id="bsb00000706_00046_5"/>Cum igitur audisset H[einricus] dux et Colonienses
+<lb n="6" xml:id="bsb00000706_00046_6"/>cum Leodicensibus, quod super se rex exercitum ducere
+<lb n="7" xml:id="bsb00000706_00046_7"/>vellet, arma parabant, copias colligebant, urbes firmabant
+<lb n="8" xml:id="bsb00000706_00046_8"/>et ad resistendum pari voto studioque se accingebant.
+<lb n="9" xml:id="bsb00000706_00046_9"/>Sed et imperatorem consiliis et precibus urguebant, ut
+<lb n="10" xml:id="bsb00000706_00046_10"/>imperialem dignitatem, quam non ratione convictus, sed
+<lb n="11" xml:id="bsb00000706_00046_11"/>vi ferroque mortem intentante coactus dimisisset,
+<lb n="12" xml:id="bsb00000706_00046_12"/>resumeret; se sibi nec armis defore nec animis; multos
+<lb n="13" xml:id="bsb00000706_00046_13"/>illum in brevi fautores habiturum, quia multi multum
+<lb n="14" xml:id="bsb00000706_00046_14"/>abhominarentur tam insolitum facinus et inhumanum.
+<lb n="15" xml:id="bsb00000706_00046_15"/>Quorum importunitati hac ille ratione reniti cępit: <w lemma="impossibile" xml:id="w493" corresp="#w493 #w494">im-</w>
+<lb n="16" xml:id="bsb00000706_00046_16"/><w lemma="impossibile" xml:id="w494" corresp="#w493 #w494">possibile</w> esse amissum imperium armis repetere, quod
+<lb n="17" xml:id="bsb00000706_00046_17"/>possessum armis optinere nequivisset; illud sibi non esse
+<lb n="18" xml:id="bsb00000706_00046_18"/>tanti, ut multorum exitio recipiendum estimaret; beatius
+<lb n="19" xml:id="bsb00000706_00046_19"/>sibi et tutius fore, ut privatus, licet indigne deiectus,
+<lb n="20" xml:id="bsb00000706_00046_20"/>viveret. Sic utrimque data redditaque ratione, cum <w lemma="instare" xml:id="w495" corresp="#w495 #w496">in-</w>
+<lb n="21" xml:id="bsb00000706_00046_21"/><w lemma="instare" xml:id="w496" corresp="#w495 #w496">stare</w> non desinerent, ne benignitatem circa se removeret
+<lb n="22" xml:id="bsb00000706_00046_22"/>a se, nec ad integrum consensit nec abnuit, providusque
+<lb n="23" xml:id="bsb00000706_00046_23"/>futuri precipites eorum animos spe dubia suspendit.
+<lb n="24" xml:id="bsb00000706_00046_24"/>Igitur primo Coloniam, quae primum impetum latura
+<lb n="25" xml:id="bsb00000706_00046_25"/>fuerat, vallo turribusque muniebant et congestis belli
+<lb n="26" xml:id="bsb00000706_00046_26"/>stipendiis impositoque praesidio periculum suum fortibus
+<lb n="27" xml:id="bsb00000706_00046_27"/>animis expectabant. Sic et alias urbes, quas invadendas
+<lb n="28" xml:id="bsb00000706_00046_28"/>credebant, munitione, machinis et robore militum <w lemma="firmabant" xml:id="w497" corresp="#w497 #w498">firma-</w>
+<lb n="29" xml:id="bsb00000706_00046_29"/><w lemma="firmabant" xml:id="w498" corresp="#w497 #w498">bant</w>. Sed et edictum sub comminatione crudeli ubique
+<lb n="30" xml:id="bsb00000706_00046_30"/>properabat, ut adversus exercitum in magna superbia
+<lb n="31" xml:id="bsb00000706_00046_31"/>super se venturum parati essent et patriam, libertatem
+<lb n="32" xml:id="bsb00000706_00046_32"/>vitamque defenderent, neu sinerent vel uxores suas
+<lb n="33" xml:id="bsb00000706_00046_33"/>corruptionis ludibrio substerni vel agros in alienos
+<lb n="34" xml:id="bsb00000706_00046_34"/>dominos distrahi.
+<lb n="35" xml:id="bsb00000706_00046_35"/>Iam rex Renum cum exercitu valido transierat et
+<lb n="36" xml:id="bsb00000706_00046_36"/>primo Coloniam, quae quasi caput inter alias urbes
+<pb xml:id="bsb00000706_00047" n="42"/><lb n="1" xml:id="bsb00000706_00047_1"/>eminebat, magno impetu invasit, reputans se sibi membra
+<lb n="2" xml:id="bsb00000706_00047_2"/>facilius subicere, contrito tam valido capite. Sed res
+<lb n="3" xml:id="bsb00000706_00047_3"/>longe praeter spem evenit; nam cruenta repulsa retroacti,
+<lb n="4" xml:id="bsb00000706_00047_4"/>procul locatis castris urbem obsidione vallabant. Magis
+<lb n="5" xml:id="bsb00000706_00047_5"/>autem dixerim obsessores ab obsessis obsessos; nam <w lemma="praereptis" xml:id="w499" corresp="#w499 #w500">prae-</w>
+<lb n="6" xml:id="bsb00000706_00047_6"/><w lemma="praereptis" xml:id="w500" corresp="#w499 #w500">reptis</w> sibi navibus, quae per Renum descendentes <w lemma="exercitui" xml:id="w501" corresp="#w501 #w502">exer-</w>
+<lb n="7" xml:id="bsb00000706_00047_7"/><w lemma="exercitui" xml:id="w502" corresp="#w501 #w502">citui</w> commeatum portabant, premente fame quasi quadam
+<lb n="8" xml:id="bsb00000706_00047_8"/>obsidione constricti laborabant. Interim, ut urbem ab
+<lb n="9" xml:id="bsb00000706_00047_9"/>obsidione liberarent, totius patriae robur undique coibat.
+<lb n="10" xml:id="bsb00000706_00047_10"/>Sed imperator tam cruentum nefas detestatus pugnam
+<lb n="11" xml:id="bsb00000706_00047_11"/>obnixe dissuadebat; cur eis tantus ardor pellendae <w lemma="obsidionis" xml:id="w503" corresp="#w503 #w504">ob-</w>
+<lb n="12" xml:id="bsb00000706_00047_12"/><w lemma="obsidionis" xml:id="w504" corresp="#w503 #w504">sidionis</w> inesset, quae non nisi magna sui clade pelli
+<lb n="13" xml:id="bsb00000706_00047_13"/>posset; tollerent omnem sollicitudinem capiendae urbis,
+<lb n="14" xml:id="bsb00000706_00047_14"/>quae et ex firmitate murorum et ex forti milite tutissima
+<lb n="15" xml:id="bsb00000706_00047_15"/>et omni victus genere esset opulentissima, accedente et
+<lb n="16" xml:id="bsb00000706_00047_16"/>Reni beneficio, qui per naves delicias, quas appeterent,
+<lb n="17" xml:id="bsb00000706_00047_17"/>invito obsessore subministraret; sinerent potius eos in
+<lb n="18" xml:id="bsb00000706_00047_18"/>cladem suam furere et inexpugnabilem urbem, unde
+<lb n="19" xml:id="bsb00000706_00047_19"/>vulnera tantum caesosque reportarent, impugnare;
+<lb n="20" xml:id="bsb00000706_00047_20"/>sinerent eos late vastare, dum ruris copia consumpta
+<lb n="21" xml:id="bsb00000706_00047_21"/>esurire inciperent; sinerent eos grassari, dum equos
+<lb n="22" xml:id="bsb00000706_00047_22"/>virosque labor enervaret; fore, ut victoria sibi parvo <w lemma="constaret" xml:id="w505" corresp="#w505 #w506">con-</w>
+<lb n="23" xml:id="bsb00000706_00047_23"/><w lemma="constaret" xml:id="w506" corresp="#w505 #w506">staret</w>, si paululum tolerantia et oportunitate temporis
+<lb n="24" xml:id="bsb00000706_00047_24"/>uti voluissent. Sic imperatoris hortatu á pugna revocati,
+<lb n="25" xml:id="bsb00000706_00047_25"/>hostiles tantum excursus observabant et ignaros loci
+<lb n="26" xml:id="bsb00000706_00047_26"/>passim cedentes, metum hosti, ne longius evagaretur,
+<lb n="27" xml:id="bsb00000706_00047_27"/>incutiebant. Omnia vero, quae praedixerat imperator,
+<lb n="28" xml:id="bsb00000706_00047_28"/>evenerunt. Quotiens enim temptabant portas infringere,
+<lb n="29" xml:id="bsb00000706_00047_29"/>ariete murum perrumpere, tormentis turres deicere, <w lemma="infecto" xml:id="w507" corresp="#w507 #w508">in-</w>
+<lb n="30" xml:id="bsb00000706_00047_30"/><w lemma="infecto" xml:id="w508" corresp="#w507 #w508">fecto</w> negotio, vulnera tantum et funera ad castra <w lemma="reportabant" xml:id="w509" corresp="#w509 #w510">repor-</w>
+<lb n="31" xml:id="bsb00000706_00047_31"/><w lemma="reportabant" xml:id="w510" corresp="#w509 #w510">tabant</w>. Homines et equi exhausti tam alimentorum
+<lb n="32" xml:id="bsb00000706_00047_32"/>penuria quam laboris improbitate, viribus deficiebant;
+<lb n="33" xml:id="bsb00000706_00047_33"/>nam agris in circuitu vastatis nihil reperiebant, sed nec
+<lb n="34" xml:id="bsb00000706_00047_34"/>ulterius progredi latitante in insidiis hoste praesumebant.
+<lb n="35" xml:id="bsb00000706_00047_35"/>Accessit his malis etiam morbus, quem foetor castrorum,
+<lb n="36" xml:id="bsb00000706_00047_36"/>ut fieri solet, aere viciato concitaverat, qui non solum
+<lb n="37" xml:id="bsb00000706_00047_37"/>vulgus; sed etiam ipsos principes aut egritudine confecit
+<pb xml:id="bsb00000706_00048" n="43"/><lb n="1" xml:id="bsb00000706_00048_1"/>aut lęto rapuit. Huiusmodi rerum adversitate fatigati,
+<lb n="2" xml:id="bsb00000706_00048_2"/>quid acturi essent, ambigebant, quia volentes mori <w lemma="occasionem" xml:id="w511" corresp="#w511 #w512">oc-</w>
+<lb n="3" xml:id="bsb00000706_00048_3"/><w lemma="occasionem" xml:id="w512" corresp="#w511 #w512">casionem</w> pugnae non inveniebant, aut si reditum pararent,
+<lb n="4" xml:id="bsb00000706_00048_4"/>certi, quod hostis á tergo premeret, exercitum suum fuga
+<lb n="5" xml:id="bsb00000706_00048_5"/>spargendum metuebant.
+<lb n="6" xml:id="bsb00000706_00048_6"/>Qua tempestate mentis dum fluctuarent, subito fama
+<lb n="7" xml:id="bsb00000706_00048_7"/>veniens nubila tantae perturbationis in serenum convertit.
+<lb n="8" xml:id="bsb00000706_00048_8"/>Retulit enim imperatorem mortis debitum persolvisse.
+<lb n="9" xml:id="bsb00000706_00048_9"/>Ad quam famam primo hesitabant, sed cum nuncius
+<lb n="10" xml:id="bsb00000706_00048_10"/>extremum munus patris, anulum videlicet et gladium,
+<lb n="11" xml:id="bsb00000706_00048_11"/>cum mandatis filio portans venisset, tanta laeticia oborta
+<lb n="12" xml:id="bsb00000706_00048_12"/>est, ut voces gratulantium vix sedari possent. Sed non
+<lb n="13" xml:id="bsb00000706_00048_13"/>minor luctus circa funus imperatoris erat; proceres
+<lb n="14" xml:id="bsb00000706_00048_14"/>plangebant, vulgus lamentabatur; ubique gemitus, ubique
+<lb n="15" xml:id="bsb00000706_00048_15"/>planctus, ubique vox dolentium audiebatur. Ad exequias
+<lb n="16" xml:id="bsb00000706_00048_16"/>illas viduae, pupilli, denique totius patriae pauperes <w lemma="conveniunt" xml:id="w513" corresp="#w513 #w514">con-</w>
+<lb n="17" xml:id="bsb00000706_00048_17"/><w lemma="conveniunt" xml:id="w514" corresp="#w513 #w514">veniunt</w>, deflent se orbatos patre, fundunt in corpus
+<lb n="18" xml:id="bsb00000706_00048_18"/>lacrimas, deosculantur largas manus. Vix avellebantur
+<lb n="19" xml:id="bsb00000706_00048_19"/>ab amplexu extincti corporis, vix illud condendi copia
+<lb n="20" xml:id="bsb00000706_00048_20"/>dabatur. Sed nec tumulum deserebant, ibi vigiliis,
+<lb n="21" xml:id="bsb00000706_00048_21"/>lacrimis et orationibus vacabant, plangendo recitantes et
+<lb n="22" xml:id="bsb00000706_00048_22"/>recitando plangentes, quaenam opera misericordiae fecisset
+<lb n="23" xml:id="bsb00000706_00048_23"/>in se, quamquam mors eius plangenda non fuit, quam
+<lb n="24" xml:id="bsb00000706_00048_24"/>bona vita praecessit, qui fidem rectam, spem firmam,
+<lb n="25" xml:id="bsb00000706_00048_25"/>compunctionem cordis amaram in extremis suis tenuit,
+<lb n="26" xml:id="bsb00000706_00048_26"/>quem nec de pudendis admissis publicam agere <w lemma="confessionem" xml:id="w515" corresp="#w515 #w516">con-</w>
+<lb n="27" xml:id="bsb00000706_00048_27"/><w lemma="confessionem" xml:id="w516" corresp="#w515 #w516">fessionem</w> puduit, qui tota cordis aviditate dominici
+<lb n="28" xml:id="bsb00000706_00048_28"/>corporis cibum sumpsit. Felix es, imperator H[einrice],
+<lb n="29" xml:id="bsb00000706_00048_29"/>qui tales excubias, tales intercessores tibi parasti, qui
+<lb n="30" xml:id="bsb00000706_00048_30"/>nunc multipliciter auctum de manu Domini recipis, quod
+<lb n="31" xml:id="bsb00000706_00048_31"/>in manus pauperum abscondisti. Turbolentum regnum
+<lb n="32" xml:id="bsb00000706_00048_32"/>pro tranquillo, defectivum pro aeterno, terrenum pro
+<lb n="33" xml:id="bsb00000706_00048_33"/>celesti mutasti. Nunc demum regnas, nunc diadema
+<pb xml:id="bsb00000706_00049" n="44"/><lb n="1" xml:id="bsb00000706_00049_1"/>portas, quod tibi nec heres tuus praeripiat, nec <w lemma="adversarius" xml:id="w517" corresp="#w517 #w518">ad-</w>
+<lb n="2" xml:id="bsb00000706_00049_2"/><w lemma="adversarius" xml:id="w518" corresp="#w517 #w518">versarius</w> invideat. Ergo continendae sunt lacrimae, si
+<lb n="3" xml:id="bsb00000706_00049_3"/>contineri possent; huic tuae felicitati debetur tripudium,
+<lb n="4" xml:id="bsb00000706_00049_4"/>non luctus, exultatio, non planctus, voces gratulantium,
+<lb n="5" xml:id="bsb00000706_00049_5"/>non dolentium.
+<lb n="6" xml:id="bsb00000706_00049_6"/>Post hunc rerum eventum hi qui contra regiam
+<lb n="7" xml:id="bsb00000706_00049_7"/>maiestatem bellum susceperant, mortua spe sua, animis
+<lb n="8" xml:id="bsb00000706_00049_8"/>et viribus deficiebant et, quod in illo rerum articulo
+<lb n="9" xml:id="bsb00000706_00049_9"/>faciendum fuit, ad gratiam regis deditione, pecunia, <w lemma="quoque" xml:id="w519" corresp="#w519 #w520">quo-</w>
+<lb n="10" xml:id="bsb00000706_00049_10"/><w lemma="quoque" xml:id="w520" corresp="#w519 #w520">que</w> modo quisque poterat, recurrebant.
+<lb n="11" xml:id="bsb00000706_00049_11"/>Ecce habes de gestis, de expensis in pauperes, de
+<lb n="12" xml:id="bsb00000706_00049_12"/>fortuna, de obitu imperatoris H[einrici], quae sicut non
+<lb n="13" xml:id="bsb00000706_00049_13"/>poterant absque lacrimis á me scribi, sic non poterunt
+<lb n="14" xml:id="bsb00000706_00049_14"/>absque lacrimis á te legi.
+</ab></div>
+</div>
+</body>
+</text>
+</TEI>

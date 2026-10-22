@@ -1,0 +1,1000 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>MGH SS rer. Germ. 75: Ratpert, St. Galler Klostergeschichten</title>
+        <editor>Steiner, Hannes</editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Monumenta Germaniae Historica (MGH)</publisher>
+        <publisher>Bavarian State Library (BSB), München</publisher>
+        <idno type="BSB">bsb00000721</idno>
+        <idno type="MGH">MGH SS rer. Germ. 75</idno>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/">
+            <p>Distributed under the Creative Commons Attribution 4.0 International (CC BY 4.0) license.</p>
+            <p>This license covers the annotations added by the Monumenta Germaniae Historica and the
+            Bavarian State Library, Munich, in the course of project "digital MGH"
+            <ref target="http://www.dmgh.de">http://www.dmgh.de</ref>, funded by the
+            German Research Foundation (DFG).</p>
+            <p>We do not claim any rights on the text itself which is believed to be in the public domain.</p>
+            <p>If you distribute a copy or a derivative version of this file, please indicate the source
+            of the file by mentioning the Monumenta Germaniae Historica (MGH) and the
+            Bavarian State Library, Munich (BSB).</p>
+          </licence>
+        </availability>
+        <date when="2016-11-28T16:20:15+01:00">2016-11-28, 16:20:15</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>Ratpert, St. Galler Klostergeschichten</title>
+            <editor>Steiner, Hannes</editor>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Hahn</publisher>
+            <pubPlace>Hannover</pubPlace>
+            <date>2002</date>
+          </publicationStmt>
+          <seriesStmt>
+            <title>Scriptores rerum Germanicarum in usum scholarum separatim editi</title>
+            <biblScope unit="volume">75</biblScope>
+          </seriesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+<body>
+<div type="volume">
+<div n="Ratpert, Casus" type="work"><ab>
+<pb xml:id="bsb00000721_00146" n="(136)"/><lb n="1" xml:id="bsb00000721_00146_1"/>INCIPIT TEXTUS DE ORIGINE ET DIVERSIS CASIBUS MONASTERII
+<lb n="2" xml:id="bsb00000721_00146_2"/>SANCTI GALLI EDITUS A RATPERTO ||
+</ab><div type="part"><ab>
+<lb n="3" xml:id="bsb00000721_00146_3"/>[De sancto Gallo]
+<lb n="4" xml:id="bsb00000721_00146_4"/>1. [1.] Postquam beatissimi viri, sanctus videlicet abba <w lemma="Columbanus" xml:id="w1" corresp="#w1 #w2">Co-</w>
+<lb n="5" xml:id="bsb00000721_00146_5"/><w lemma="Columbanus" xml:id="w2" corresp="#w1 #w2">lumbanus</w> cum beato Gallo reliquisque discipulis suis, divinę
+<lb n="6" xml:id="bsb00000721_00146_6"/>caritatis fervore succensi relicta Hibernia, parentibus spretis
+<lb n="7" xml:id="bsb00000721_00146_7"/>prediisque paternis, per maria diversa Hiberniam transmearunt
+<lb n="8" xml:id="bsb00000721_00146_8"/>et Gallias advenerunt, Sigibertum illius provinciae regem <w lemma="adierunt" xml:id="w3" corresp="#w3 #w4">ad-</w>
+<lb n="9" xml:id="bsb00000721_00146_9"/><w lemma="adierunt" xml:id="w4" corresp="#w3 #w4">ierunt</w>. Qui cognito eorum desiderio devotissima mente famulis
+<lb n="10" xml:id="bsb00000721_00146_10"/>Christi concessit, ut, ubicumque vellent, Dei servitio congruum
+<lb n="11" xml:id="bsb00000721_00146_11"/>sibi locum eligerent et, ut illis placeret, incolerent; se vero in
+<lb n="12" xml:id="bsb00000721_00146_12"/>cunctis necessitatibus fautorem illis esse promisit, quod et <w lemma="copiosissime" xml:id="w5" corresp="#w5 #w6">co-</w>
+<lb n="13" xml:id="bsb00000721_00146_13"/><w lemma="copiosissime" xml:id="w6" corresp="#w5 #w6">piosissime</w> implevit. Ingressi igitur heremum, quae Vosegus
+<pb xml:id="bsb00000721_00148" n="138"/><lb n="1" xml:id="bsb00000721_00148_1"/>nominatur, locum invenerunt antiquitus cultum, sed tunc <w lemma="vetustate" xml:id="w7" corresp="#w7 #w8">vetu-</w>
+<lb n="2" xml:id="bsb00000721_00148_2"/><w lemma="vetustate" xml:id="w8" corresp="#w7 #w8">state</w> conlapsum penitusque destructum, aquis tamen calidis <w lemma="speciosum" xml:id="w9" corresp="#w9 #w10">spe-</w>
+<lb n="3" xml:id="bsb00000721_00148_3"/><w lemma="speciosum" xml:id="w10" corresp="#w9 #w10">ciosum</w>, nomine Luxovium. / Protinus vero ibi cellulas <w lemma="construentes" xml:id="w11" corresp="#w11 #w12">con-</w>
+<lb n="4" xml:id="bsb00000721_00148_4"/><w lemma="construentes" xml:id="w12" corresp="#w11 #w12">struentes</w> felici vita Christoque amabili conversatione usque ad
+<lb n="5" xml:id="bsb00000721_00148_5"/>tempora Sigiberti iunioris, filii Hiltiberti, nepotis videlicet
+<lb n="6" xml:id="bsb00000721_00148_6"/>Sigiberti, perduraverunt. Qui etiam benignissimam erga sanctos
+<lb n="7" xml:id="bsb00000721_00148_7"/>habuit mentem. Sed Brunnehildis, avia ipsius Sigiberti,
+<lb n="8" xml:id="bsb00000721_00148_8"/>uxor autem prioris Sigiberti, plena demonio, tenebrarum socia,
+<lb n="9" xml:id="bsb00000721_00148_9"/>lucis inimica, omnibus bonis contraria, non passa est sanctos in
+<lb n="10" xml:id="bsb00000721_00148_10"/>illo consistere regno, nec requievit, donec eos inde proturbaret.
+<lb n="11" xml:id="bsb00000721_00148_11"/>[2.] Qui relicta terra illa spretaque diaboli filia ad Lotharium
+<lb n="12" xml:id="bsb00000721_00148_12"/>regem pervenerunt. A quo benignissime suscepti, cum honore,
+<lb n="13" xml:id="bsb00000721_00148_13"/>ut cupiebant, ad Theodebertum regem Austrasiorum sunt <w lemma="perducti" xml:id="w13" corresp="#w13 #w14">per-</w>
+<lb n="14" xml:id="bsb00000721_00148_14"/><w lemma="perducti" xml:id="w14" corresp="#w13 #w14">ducti</w>. A quo accepta potestate per Alemanniam locum <w lemma="eligendi" xml:id="w15" corresp="#w15 #w16">eligen-</w>
+<pb xml:id="bsb00000721_00150" n="140"/><lb n="1" xml:id="bsb00000721_00150_1"/><w lemma="eligendi" xml:id="w16" corresp="#w15 #w16">di</w> aptum divinae servituti, Tuconiam advenerunt, quę est ad
+<lb n="2" xml:id="bsb00000721_00150_2"/>caput laci Turicini; ubi cum consistere vellent populumque
+<lb n="3" xml:id="bsb00000721_00150_3"/>ab errore / demonum revocare – nam adhuc idolis immolabant
+<lb n="4" xml:id="bsb00000721_00150_4"/>– Gallo idola vana confringente et in lacum vicinum <w lemma="demergente" xml:id="w17" corresp="#w17 #w18">demergen-</w>
+<lb n="5" xml:id="bsb00000721_00150_5"/><w lemma="demergente" xml:id="w18" corresp="#w17 #w18">te</w>, populus in iram conversus non sine multo et ignominioso
+<lb n="6" xml:id="bsb00000721_00150_6"/>damno sui generisque futuri sanctos exinde pepulerunt. Inde
+<lb n="7" xml:id="bsb00000721_00150_7"/>iter agentes pervenerunt ad castrum, quod Arbona <w lemma="nuncupatur" xml:id="w19" corresp="#w19 #w20">nuncupa-</w>
+<lb n="8" xml:id="bsb00000721_00150_8"/><w lemma="nuncupatur" xml:id="w20" corresp="#w19 #w20">tur</w>, iuxta lacum Potamicum; ibique a Willimaro presbytero
+<lb n="9" xml:id="bsb00000721_00150_9"/>honorifice suscepti septem dies continuos cum gaudio <w lemma="permanserunt" xml:id="w21" corresp="#w21 #w22">perman-</w>
+<lb n="10" xml:id="bsb00000721_00150_10"/><w lemma="permanserunt" xml:id="w22" corresp="#w21 #w22">serunt</w>. Qui a sanctis interrogatus, si sciret locum in solitudine
+<pb xml:id="bsb00000721_00152" n="142"/><lb n="1" xml:id="bsb00000721_00152_1"/>illorum proposito congruum, ostendit eis locum iocundissimum
+<lb n="2" xml:id="bsb00000721_00152_2"/>ad inhabitandum nomine Brigantium. Ibique reperientes
+<lb n="3" xml:id="bsb00000721_00152_3"/>templum, olim christianę religioni dedicatum, nunc autem <w lemma="demonum" xml:id="w23" corresp="#w23 #w24">de-</w>
+<lb n="4" xml:id="bsb00000721_00152_4"/><w lemma="demonum" xml:id="w24" corresp="#w23 #w24">monum</w> imaginibus pollutum, mundando et consecrando in <w lemma="pristinum" xml:id="w25" corresp="#w25 #w26">pri-</w>
+<lb n="5" xml:id="bsb00000721_00152_5"/><w lemma="pristinum" xml:id="w26" corresp="#w25 #w26">stinum</w> restituerunt statum, atque pro statuis, quas eiecerunt,
+<lb n="6" xml:id="bsb00000721_00152_6"/>sanctae Aurelię reliquias ibidem collocaverunt. Cellu/las vero
+<lb n="7" xml:id="bsb00000721_00152_7"/>ibidem construentes ibique degendo Christo servire volentes
+<lb n="8" xml:id="bsb00000721_00152_8"/>prohibiti sunt a populo, cuius pars maior adhuc erroribus <w lemma="diabolicis" xml:id="w27" corresp="#w27 #w28">dia-</w>
+<lb n="9" xml:id="bsb00000721_00152_9"/><w lemma="diabolicis" xml:id="w28" corresp="#w27 #w28">bolicis</w> illudebatur. Indeque expulsus auctore Cunzone
+<lb n="10" xml:id="bsb00000721_00152_10"/>duce sanctus Columbanus cum suis ad Agilolfum regem <w lemma="Longabardorum" xml:id="w29" corresp="#w29 #w30">Lon-</w>
+<lb n="11" xml:id="bsb00000721_00152_11"/><w lemma="Longabardorum" xml:id="w30" corresp="#w29 #w30">gabardorum</w> perrexit, sancto videlicet Gallo infirmitate <w lemma="detento" xml:id="w31" corresp="#w31 #w32">deten-</w>
+<lb n="12" xml:id="bsb00000721_00152_12"/><w lemma="detento" xml:id="w32" corresp="#w31 #w32">to</w> in illis partibus derelicto. Quem etiam ob laborem itineris <w lemma="putans" xml:id="w33" corresp="#w33 #w34">pu-</w>
+<pb xml:id="bsb00000721_00154" n="144"/><lb n="1" xml:id="bsb00000721_00154_1"/><w lemma="putans" xml:id="w34" corresp="#w33 #w34">tans</w> sanctus Columbanus ęgritudinem simulare, officium illi
+<lb n="2" xml:id="bsb00000721_00154_2"/>altaris interdixit, dum ipse Columbanus in hac vita mansisset.
+<lb n="3" xml:id="bsb00000721_00154_3"/>Haec autem omnia quisquis plenius scire cupit et quaedam in
+<lb n="4" xml:id="bsb00000721_00154_4"/>hoc opusculo sequentia, a nobis vero ex aliqua parte contacta, in
+<lb n="5" xml:id="bsb00000721_00154_5"/>libris actuum eorundem sanctorum plenissime digesta <w lemma="reperiet" xml:id="w35" corresp="#w35 #w36">re-</w>
+<lb n="6" xml:id="bsb00000721_00154_6"/><w lemma="reperiet" xml:id="w36" corresp="#w35 #w36">periet</w>. [3.] Nos vero, ut cępimus, ex notis, quae sunt necessaria,
+<lb n="7" xml:id="bsb00000721_00154_7"/>pauca ex parte tangamus et ad intacta citius Deo donante <w lemma="properemus" xml:id="w37" corresp="#w37 #w38">prope-</w>
+<lb n="8" xml:id="bsb00000721_00154_8"/><w lemma="properemus" xml:id="w38" corresp="#w37 #w38">remus</w>. Igitur beatus Gallus post felicis discessum magistri <w lemma="studiose" xml:id="w39" corresp="#w39 #w40">stu-</w>
+<lb n="9" xml:id="bsb00000721_00154_9"/><w lemma="studiose" xml:id="w40" corresp="#w39 #w40">diose</w> cępit inquirere locum in heremo ex alia parte castri <w lemma="praefati" xml:id="w41" corresp="#w41 #w42">praefa-</w>
+<lb n="10" xml:id="bsb00000721_00154_10"/><w lemma="praefati" xml:id="w42" corresp="#w41 #w42">ti</w> Alpibus contiguo divinis famula/tibus aptum. Quem et <w lemma="inventum" xml:id="w43" corresp="#w43 #w44">in-</w>
+<lb n="11" xml:id="bsb00000721_00154_11"/><w lemma="inventum" xml:id="w44" corresp="#w43 #w44">ventum</w> aquis planicieque iocundum duce quodam Willimari
+<lb n="12" xml:id="bsb00000721_00154_12"/>presbyteri diacono cum gratulatione suscepit non minima,
+<lb n="13" xml:id="bsb00000721_00154_13"/>ipsumque locum ieiuniis et orationibus consecrando cellulam
+<lb n="14" xml:id="bsb00000721_00154_14"/>ibidem, in qua ipse et cum eo Domino servituri commanerent,
+<lb n="15" xml:id="bsb00000721_00154_15"/>celeriter aedificavit. Interea praedicti ducis Cunzonis filiam,
+<pb xml:id="bsb00000721_00156" n="146"/><lb n="1" xml:id="bsb00000721_00156_1"/>sponsam videlicet regis Sigiberti, spiritus malignus invasit.
+<lb n="2" xml:id="bsb00000721_00156_2"/>Quem cum episcopi a rege directi, quorum etiam credebat <w lemma="sanctitati" xml:id="w45" corresp="#w45 #w46">sanc-</w>
+<lb n="3" xml:id="bsb00000721_00156_3"/><w lemma="sanctitati" xml:id="w46" corresp="#w45 #w46">titati</w>, ab ea expellere non potuissent, sed etiam cum ignominia
+<lb n="4" xml:id="bsb00000721_00156_4"/>ab eo expulsi fuissent, beatus Gallus – non prima, sed iam <w lemma="secunda" xml:id="w47" corresp="#w47 #w48">se-</w>
+<lb n="5" xml:id="bsb00000721_00156_5"/><w lemma="secunda" xml:id="w48" corresp="#w47 #w48">cunda</w> legatione atque humillima supplicatione ab eodem duce
+<lb n="6" xml:id="bsb00000721_00156_6"/>suscepta – locum, in quo puella vexabatur, presbytero comitante
+<lb n="7" xml:id="bsb00000721_00156_7"/>devenit. Hostemque malignum oratione pręmissa a pervasa
+<lb n="8" xml:id="bsb00000721_00156_8"/>domo imperiosa voce potenter eiecit patrique puellam reddidit
+<lb n="9" xml:id="bsb00000721_00156_9"/>sanam. Statimque ad dilectę solitudinis cariorem / rediit <w lemma="aulam" xml:id="w49" corresp="#w49 #w50">au-</w>
+<lb n="10" xml:id="bsb00000721_00156_10"/><w lemma="aulam" xml:id="w50" corresp="#w49 #w50">lam</w>. Pręfatus igitur rex audiens puellam a passione tanta <w lemma="sanatam" xml:id="w51" corresp="#w51 #w52">sana-</w>
+<lb n="11" xml:id="bsb00000721_00156_11"/><w lemma="sanatam" xml:id="w52" corresp="#w51 #w52">tam</w> suis eam pręsentari iubebat aspectibus. Quae interrogata a
+<lb n="12" xml:id="bsb00000721_00156_12"/>principe memorato de causa salvationis suae sanctum virum
+<lb n="13" xml:id="bsb00000721_00156_13"/>cum actibus suis et beneficiis circa se per illum exhibitis ordine
+<lb n="14" xml:id="bsb00000721_00156_14"/>pandit, adiciens et rogans, ut ipse eum suae gratia pietatis <w lemma="dignaretur" xml:id="w53" corresp="#w53 #w54">digna-</w>
+<lb n="15" xml:id="bsb00000721_00156_15"/><w lemma="dignaretur" xml:id="w54" corresp="#w53 #w54">retur</w> fovere. [4.] Quod rex benigne suscipiens, cuius heremi
+<pb xml:id="bsb00000721_00158" n="148"/><lb n="1" xml:id="bsb00000721_00158_1"/>hospes exstiterit, inquisivit. Conperiensque narrante puella
+<lb n="2" xml:id="bsb00000721_00158_2"/>aliisque fidelibus viris, ex parte ad regiam potestatem, aliunde
+<lb n="3" xml:id="bsb00000721_00158_3"/>vero ad possessionem nobilium virorum pertinere heremum, in
+<lb n="4" xml:id="bsb00000721_00158_4"/>qua sanctus commanebat cum suis, protinus partem regiae <w lemma="potestati" xml:id="w55" corresp="#w55 #w56">po-</w>
+<lb n="5" xml:id="bsb00000721_00158_5"/><w lemma="potestati" xml:id="w56" corresp="#w55 #w56">testati</w> cedentem praefato sancto sua auctoritate contradidit et
+<lb n="6" xml:id="bsb00000721_00158_6"/>constituit, ut tam ipse quam posteri eius ibidem scilicet eius
+<lb n="7" xml:id="bsb00000721_00158_7"/>exemplo Domino servituri locum praefatum cum circum <w lemma="iacentibus" xml:id="w57" corresp="#w57 #w58">iacen-</w>
+<lb n="8" xml:id="bsb00000721_00158_8"/><w lemma="iacentibus" xml:id="w58" corresp="#w57 #w58">tibus</w> silvarum commodis per regiam aucto/ritatem deinceps
+<lb n="9" xml:id="bsb00000721_00158_9"/>firmissime retinerent. Et ut a nullo hoc in posterum destrui
+<lb n="10" xml:id="bsb00000721_00158_10"/>valeret, propriae auctoritatis firmissima conscriptione munire
+<lb n="11" xml:id="bsb00000721_00158_11"/>decrevit. Quod, ut bene cogitavit, optime perfecit. Cunzoni
+<lb n="12" xml:id="bsb00000721_00158_12"/>quoque duci praecepit, ut cum omnibus eidem heremo vicinis
+<lb n="13" xml:id="bsb00000721_00158_13"/>necessitatibus sancti Galli sedulus ac studiosus fautor existeret,
+<lb n="14" xml:id="bsb00000721_00158_14"/>et in aedificiis et in qualibuscumque rebus illius indigeret <w lemma="solatio" xml:id="w59" corresp="#w59 #w60">sola-</w>
+<lb n="15" xml:id="bsb00000721_00158_15"/><w lemma="solatio" xml:id="w60" corresp="#w59 #w60">tio</w>, quod et devote conplevit. Qua auctoritate talique firmitatis
+<pb xml:id="bsb00000721_00160" n="150"/><lb n="1" xml:id="bsb00000721_00160_1"/>conscriptione locus iste tutus ab adversariis usque ad tempora
+<lb n="2" xml:id="bsb00000721_00160_2"/>Pipini et Caroli permansit.
+<lb n="3" xml:id="bsb00000721_00160_3"/>Religiosos etiam viros, qui eundem sanctum in sua <w lemma="susceperunt" xml:id="w61" corresp="#w61 #w62">suscepe-</w>
+<lb n="4" xml:id="bsb00000721_00160_4"/><w lemma="susceperunt" xml:id="w62" corresp="#w61 #w62">runt</w> eiusdemque heremi ius hereditarium illi potestativa manu
+<lb n="5" xml:id="bsb00000721_00160_5"/>concesserunt, subter notare curavimus, quorum nomina haec
+<lb n="6" xml:id="bsb00000721_00160_6"/>sunt: Willibertus videlicet presbyter et Talto vir inlustris,
+<lb n="7" xml:id="bsb00000721_00160_7"/>Tagoberti scilicet regis camararius et postea / comes eiusdem
+<lb n="8" xml:id="bsb00000721_00160_8"/>pagi, a quibus idem sanctus, cum in corpore viveret, cum <w lemma="augmentatione" xml:id="w63" corresp="#w63 #w64">aug-</w>
+<lb n="9" xml:id="bsb00000721_00160_9"/><w lemma="augmentatione" xml:id="w64" corresp="#w63 #w64">mentatione</w> huius loci non parva maxima veneratione habitus
+<lb n="10" xml:id="bsb00000721_00160_10"/>est.
+</ab></div>
+<div type="part"><ab>
+<lb n="11" xml:id="bsb00000721_00160_11"/>[De sancto Othmaro primo abbate]
+<lb n="12" xml:id="bsb00000721_00160_12"/>2. [5.] At postquam de corpore spiritum transmisit ad astra,
+<lb n="13" xml:id="bsb00000721_00160_13"/>a successoribus istorum locus iste ob amorem sancti similiter
+<lb n="14" xml:id="bsb00000721_00160_14"/>augmentatus est usque ad tempora Caroli. Taltonis vero <w lemma="filius" xml:id="w65" corresp="#w65 #w66">fili-</w>
+<pb xml:id="bsb00000721_00162" n="152"/><lb n="1" xml:id="bsb00000721_00162_1"/><w lemma="filius" xml:id="w66" corresp="#w65 #w66">us</w> fuit Thiotolt, cuius filius Pollo, Pollonis autem filius <w lemma="Waldpertus" xml:id="w67" corresp="#w67 #w68">Wald-</w>
+<lb n="2" xml:id="bsb00000721_00162_2"/><w lemma="Waldpertus" xml:id="w68" corresp="#w67 #w68">pertus</w>, qui genuit Waldrammum; ipse vero Waldrammus,
+<lb n="3" xml:id="bsb00000721_00162_3"/>locum istum in omnibus ob amorem sancti Galli augere <w lemma="desiderans" xml:id="w69" corresp="#w69 #w70">deside-</w>
+<lb n="4" xml:id="bsb00000721_00162_4"/><w lemma="desiderans" xml:id="w70" corresp="#w69 #w70">rans</w> regularemque inibi vitam instituere cupiens, Otmarum
+<lb n="5" xml:id="bsb00000721_00162_5"/>sanctum virum a Victore Rhetiae Curiensis comite <w lemma="impetravit" xml:id="w71" corresp="#w71 #w72">impetra-</w>
+<lb n="6" xml:id="bsb00000721_00162_6"/><w lemma="impetravit" xml:id="w72" corresp="#w71 #w72">vit</w> eique cellam praefatam cum omnibus ad eam pertinentibus
+<lb n="7" xml:id="bsb00000721_00162_7"/>commendavit abbatemque constituit, ut in vita ipsius <w lemma="plenissime" xml:id="w73" corresp="#w73 #w74">plenissi-</w>
+<lb n="8" xml:id="bsb00000721_00162_8"/><w lemma="plenissime" xml:id="w74" corresp="#w73 #w74">me</w> continetur. Postea vero tempore procedente atque statu <w lemma="monasterii" xml:id="w75" corresp="#w75 #w76">mo-</w>
+<lb n="9" xml:id="bsb00000721_00162_9"/><w lemma="monasterii" xml:id="w76" corresp="#w75 #w76">nasterii</w> in melius proficiente praefatus Waldrammus eundem /
+<lb n="10" xml:id="bsb00000721_00162_10"/>abbatem Otmarum Pipino regi pręsentavit ipsique regi <w lemma="monasterium" xml:id="w77" corresp="#w77 #w78">mo-</w>
+<lb n="11" xml:id="bsb00000721_00162_11"/><w lemma="monasterium" xml:id="w78" corresp="#w77 #w78">nasterium</w>, quod adhuc hereditario iure in sua tenebat potestate,
+<pb xml:id="bsb00000721_00164" n="154"/><lb n="1" xml:id="bsb00000721_00164_1"/>cum ipso pariter abbate contradidit. Ea videlicet causa, ut
+<lb n="2" xml:id="bsb00000721_00164_2"/>ipse abbas eiusque successores idem monasterium regia <w lemma="auctoritate" xml:id="w79" corresp="#w79 #w80">auc-</w>
+<lb n="3" xml:id="bsb00000721_00164_3"/><w lemma="auctoritate" xml:id="w80" corresp="#w79 #w80">toritate</w> retinentes nullius deinde violentia premerentur, sed
+<lb n="4" xml:id="bsb00000721_00164_4"/>tantummodo regum iussionibus obedirent. Quod benivolus
+<lb n="5" xml:id="bsb00000721_00164_5"/>princeps benigne suscipiens statim huius causę <w lemma="conscriptionem" xml:id="w81" corresp="#w81 #w82">conscriptio-</w>
+<lb n="6" xml:id="bsb00000721_00164_6"/><w lemma="conscriptionem" xml:id="w82" corresp="#w81 #w82">nem</w> fieri praecepit, scilicet ut monachi eiusdem loci deinceps
+<lb n="7" xml:id="bsb00000721_00164_7"/>potestatem haberent abbatem eligere sibi atque solis <w lemma="tantummodo" xml:id="w83" corresp="#w83 #w84">tantum-</w>
+<lb n="8" xml:id="bsb00000721_00164_8"/><w lemma="tantummodo" xml:id="w84" corresp="#w83 #w84">modo</w> regibus subiacerent. Quam conscriptionem suae <w lemma="auctoritatis" xml:id="w85" corresp="#w85 #w86">auctori-</w>
+<lb n="9" xml:id="bsb00000721_00164_9"/><w lemma="auctoritatis" xml:id="w86" corresp="#w85 #w86">tatis</w> signaculo confirmavit atque abbatem ipsum in sua <w lemma="remisit" xml:id="w87" corresp="#w87 #w88">re-</w>
+<lb n="10" xml:id="bsb00000721_00164_10"/><w lemma="remisit" xml:id="w88" corresp="#w87 #w88">misit</w>. Qui idem monasterium per annos XL feliciter rexit,
+<lb n="11" xml:id="bsb00000721_00164_11"/>Waldrammo praedicto XX annis solatium illi pręstante.
+<lb n="12" xml:id="bsb00000721_00164_12"/>[6.] Postea vero ob quam causam et quando et qualiter idem <w lemma="abbas" xml:id="w89" corresp="#w89 #w90">ab-</w>
+<lb n="13" xml:id="bsb00000721_00164_13"/><w lemma="abbas" xml:id="w90" corresp="#w89 #w90">bas</w> a Warino et Ruadhardo exilio / damnatus ad <w lemma="perpetuam" xml:id="w91" corresp="#w91 #w92">perpe-</w>
+<pb xml:id="bsb00000721_00166" n="156"/><lb n="1" xml:id="bsb00000721_00166_1"/><w lemma="perpetuam" xml:id="w92" corresp="#w91 #w92">tuam</w> sit coronam perductus, in libris vitae ipsius, qui scire
+<lb n="2" xml:id="bsb00000721_00166_2"/>desiderat, pleniter degesta repperiet. Post haec vero <w lemma="Sydonius" xml:id="w93" corresp="#w93 #w94">Sydoni-</w>
+<lb n="3" xml:id="bsb00000721_00166_3"/><w lemma="Sydonius" xml:id="w94" corresp="#w93 #w94">us</w> Constantiensis praesul, qui et monasterium, quod <w lemma="Auva" xml:id="w95" corresp="#w95 #w96">Au-</w>
+<lb n="4" xml:id="bsb00000721_00166_4"/><w lemma="Auva" xml:id="w96" corresp="#w95 #w96">va</w> nominatur, in sua potestate habebat, instigantibus pręfatis
+<lb n="5" xml:id="bsb00000721_00166_5"/>comitibus, cępit inquirere monasterium nostrum et in <w lemma="potestatem" xml:id="w97" corresp="#w97 #w98">potesta-</w>
+<lb n="6" xml:id="bsb00000721_00166_6"/><w lemma="potestatem" xml:id="w98" corresp="#w97 #w98">tem</w> episcopatus redigere. Quibus, ut illi solatio essent, <w lemma="beneficia" xml:id="w99" corresp="#w99 #w100">benefi-</w>
+<lb n="7" xml:id="bsb00000721_00166_7"/><w lemma="beneficia" xml:id="w100" corresp="#w99 #w100">cia</w> promisit atque donavit: Warino videlicet Vina et Turinga
+<lb n="8" xml:id="bsb00000721_00166_8"/>et Engi, Ruadhardo vero Antolvinga et Uzinhaha, <w lemma="Miloni" xml:id="w101" corresp="#w101 #w102">Milo-</w>
+<lb n="9" xml:id="bsb00000721_00166_9"/><w lemma="Miloni" xml:id="w102" corresp="#w101 #w102">ni</w> autem advocato ipsius monasterii, ut illi solatium <w lemma="subtraxisset" xml:id="w103" corresp="#w103 #w104">subtraxis-</w>
+<lb n="10" xml:id="bsb00000721_00166_10"/><w lemma="subtraxisset" xml:id="w104" corresp="#w103 #w104">set</w>, sextam villam, quę Heimbach nuncupatur, contradidit.
+<lb n="11" xml:id="bsb00000721_00166_11"/>Quam ob rem praefatus Sydonius, quod nequiter cępit, <w lemma="auxiliantibus" xml:id="w105" corresp="#w105 #w106">auxili-</w>
+<pb xml:id="bsb00000721_00168" n="158"/><lb n="1" xml:id="bsb00000721_00168_1"/><w lemma="auxiliantibus" xml:id="w106" corresp="#w105 #w106">antibus</w> iniquis principibus pessime ad sui, ut postea res docuit,
+<lb n="2" xml:id="bsb00000721_00168_2"/>damnationem perfecit monasteriumque ipsum in ius episcopatus
+<lb n="3" xml:id="bsb00000721_00168_3"/>redegit. Igitur praedictus episcopus, fratres / in monasterio
+<lb n="4" xml:id="bsb00000721_00168_4"/>sancti Galli multis iniuriis semper afficiens, quodam die etiam
+<lb n="5" xml:id="bsb00000721_00168_5"/>maioribus ibi, si aliqui essent sibi contrarii, afflicturus <w lemma="calumniis" xml:id="w107" corresp="#w107 #w108">calum-</w>
+<lb n="6" xml:id="bsb00000721_00168_6"/><w lemma="calumniis" xml:id="w108" corresp="#w107 #w108">niis</w> monasterium turbolentus ingreditur, et cum ante <w lemma="confessionem" xml:id="w109" corresp="#w109 #w110">confes-</w>
+<lb n="7" xml:id="bsb00000721_00168_7"/><w lemma="confessionem" xml:id="w110" corresp="#w109 #w110">sionem</w> sancti Galli quasi oraturus constitisset, quid in mente
+<lb n="8" xml:id="bsb00000721_00168_8"/>habuerit, poena corporis et illuvies ventris, ut in vita sancti Galli
+<lb n="9" xml:id="bsb00000721_00168_9"/>scriptum est, manifestavit; quo redundante supplicio ad <w lemma="Auvam" xml:id="w111" corresp="#w111 #w112">Au-</w>
+<lb n="10" xml:id="bsb00000721_00168_10"/><w lemma="Auvam" xml:id="w112" corresp="#w111 #w112">vam</w> perlatus de cloaca corporis vitam exalavit plenam <w lemma="miseriis" xml:id="w113" corresp="#w113 #w114">mise-</w>
+<lb n="11" xml:id="bsb00000721_00168_11"/><w lemma="miseriis" xml:id="w114" corresp="#w113 #w114">riis</w>.
+</ab></div>
+<div type="part"><ab>
+<pb xml:id="bsb00000721_00170" n="160"/><lb n="1" xml:id="bsb00000721_00170_1"/>[De Iohanne episcopo et abbate]
+<lb n="2" xml:id="bsb00000721_00170_2"/>3. [7.] Post cuius obitum Iohannes monachus Augensis,
+<lb n="3" xml:id="bsb00000721_00170_3"/>Constantiae episcopus ordinatus, amborum regimen suscepit
+<lb n="4" xml:id="bsb00000721_00170_4"/>coenobiorum. Qui tres nepotes suos educavit, quibus <w lemma="honorem" xml:id="w115" corresp="#w115 #w116">ho-</w>
+<lb n="5" xml:id="bsb00000721_00170_5"/><w lemma="honorem" xml:id="w116" corresp="#w115 #w116">norem</w> suum in tribus illis locis situm post suum discessum <w lemma="distribuere" xml:id="w117" corresp="#w117 #w118">dis-</w>
+<lb n="6" xml:id="bsb00000721_00170_6"/><w lemma="distribuere" xml:id="w118" corresp="#w117 #w118">tribuere</w> cogitavit. Quo agnito fratres utriusque coenobii <w lemma="episcopum" xml:id="w119" corresp="#w119 #w120">episco-</w>
+<lb n="7" xml:id="bsb00000721_00170_7"/><w lemma="episcopum" xml:id="w120" corresp="#w119 #w120">pum</w> pariter adierunt, rogantes, ut privilegia eis apud principem
+<lb n="8" xml:id="bsb00000721_00170_8"/>adquireret ac potestatem eligendi abbates, / se vero, si hoc fieret,
+<lb n="9" xml:id="bsb00000721_00170_9"/>eosdem illius nepotes sibi abbates electuros polliciti sunt. Quod
+<lb n="10" xml:id="bsb00000721_00170_10"/>ille consensit ac se facturum promisit. Tempore vero <w lemma="transacto" xml:id="w121" corresp="#w121 #w122">trans-</w>
+<lb n="11" xml:id="bsb00000721_00170_11"/><w lemma="transacto" xml:id="w122" corresp="#w121 #w122">acto</w>, Carolus rex cum Hildigarda coniuge sua Romam
+<lb n="12" xml:id="bsb00000721_00170_12"/>profecturus Constantiam advenit. Tempus vero oportunum
+<lb n="13" xml:id="bsb00000721_00170_13"/>se invenisse existimantes utriusque monasterii fratres pro <w lemma="praedicta" xml:id="w123" corresp="#w123 #w124">prae-</w>
+<lb n="14" xml:id="bsb00000721_00170_14"/><w lemma="praedicta" xml:id="w124" corresp="#w123 #w124">dicta</w> necessitate principem adeunt eiusque clementiam <w lemma="interpellant" xml:id="w125" corresp="#w125 #w126">inter-</w>
+<lb n="15" xml:id="bsb00000721_00170_15"/><w lemma="interpellant" xml:id="w126" corresp="#w125 #w126">pellant</w>. Rex vero episcopum, quid de hoc illi placeret, <w lemma="interrogavit" xml:id="w127" corresp="#w127 #w128">interro-</w>
+<lb n="16" xml:id="bsb00000721_00170_16"/><w lemma="interrogavit" xml:id="w128" corresp="#w127 #w128">gavit</w>. Episcopus autem aeternae beatitudinis gaudia illum exinde
+<lb n="17" xml:id="bsb00000721_00170_17"/>percepturum respondit, si talem et tantam securitatem <w lemma="famulis" xml:id="w129" corresp="#w129 #w130">famu-</w>
+<lb n="18" xml:id="bsb00000721_00170_18"/><w lemma="famulis" xml:id="w130" corresp="#w129 #w130">lis</w> Christi absque ulla perturbatione Domino serviendi <w lemma="concederet" xml:id="w131" corresp="#w131 #w132">conce-</w>
+<lb n="19" xml:id="bsb00000721_00170_19"/><w lemma="concederet" xml:id="w132" corresp="#w131 #w132">deret</w>. Quod audiens rex gavisus est, et protinus utriusque <w lemma="coenobii" xml:id="w133" corresp="#w133 #w134">coe-</w>
+<pb xml:id="bsb00000721_00172" n="162"/><lb n="1" xml:id="bsb00000721_00172_1"/><w lemma="coenobii" xml:id="w134" corresp="#w133 #w134">nobii</w> fratribus, sancti Galli scilicet et Augensis, firmissima
+<lb n="2" xml:id="bsb00000721_00172_2"/>auctoritate privilegium optatum contradidit. Ac scripta <w lemma="emunitatis" xml:id="w135" corresp="#w135 #w136">emu-</w>
+<lb n="3" xml:id="bsb00000721_00172_3"/><w lemma="emunitatis" xml:id="w136" corresp="#w135 #w136">nitatis</w> ad haec eadem retinenda fieri praecepit. Quę signaculo
+<lb n="4" xml:id="bsb00000721_00172_4"/>suae auctoritatis firmavit, constituens atque prę/cipiens, ut post
+<lb n="5" xml:id="bsb00000721_00172_5"/>mortem episcopi monachi praedictorum monasteriorum <w lemma="potestatem" xml:id="w137" corresp="#w137 #w138">pote-</w>
+<lb n="6" xml:id="bsb00000721_00172_6"/><w lemma="potestatem" xml:id="w138" corresp="#w137 #w138">statem</w> haberent sibi eligendi abbates et ut nulli absque regibus
+<lb n="7" xml:id="bsb00000721_00172_7"/>deinceps essent subiecti. Fratres igitur lęti redierunt in sua. <w lemma="Episcopus" xml:id="w139" corresp="#w139 #w140">Epi-</w>
+<lb n="8" xml:id="bsb00000721_00172_8"/><w lemma="Episcopus" xml:id="w140" corresp="#w139 #w140">scopus</w> autem cartas utrorumque, quas rex fieri praecepit, secum
+<lb n="9" xml:id="bsb00000721_00172_9"/>retinuit. [8.] Cum igitur idem praesul finem sibi praesentis
+<lb n="10" xml:id="bsb00000721_00172_10"/>vitę cognosceret imminere, adsumpta Augensium fratrum <w lemma="carta" xml:id="w141" corresp="#w141 #w142">car-</w>
+<lb n="11" xml:id="bsb00000721_00172_11"/><w lemma="carta" xml:id="w142" corresp="#w141 #w142">ta</w> ad ipsum monasterium devenit. Cartam autem fratrum de
+<lb n="12" xml:id="bsb00000721_00172_12"/>monasterio sancti Galli in scriniis Constantiensis ecclesię <w lemma="dereliquit" xml:id="w143" corresp="#w143 #w144">de-</w>
+<lb n="13" xml:id="bsb00000721_00172_13"/><w lemma="dereliquit" xml:id="w144" corresp="#w143 #w144">reliquit</w>, eo quod noluissent nepotem illius sibi abbatem, sicut
+<lb n="14" xml:id="bsb00000721_00172_14"/>pridem promiserant, eligere. Senserant enim cartam a rege <w lemma="datam" xml:id="w145" corresp="#w145 #w146">da-</w>
+<lb n="15" xml:id="bsb00000721_00172_15"/><w lemma="datam" xml:id="w146" corresp="#w145 #w146">tam</w> multum esse depravatam et multo aliter, quam rex iuberet et
+<lb n="16" xml:id="bsb00000721_00172_16"/>res eorum indigeret, esse conscriptam. Idcirco nepotem illius
+<lb n="17" xml:id="bsb00000721_00172_17"/>sibi abbatem eligere neglexerant. Similiter autem et fratres <w lemma="alterius" xml:id="w147" corresp="#w147 #w148">alte-</w>
+<lb n="18" xml:id="bsb00000721_00172_18"/><w lemma="alterius" xml:id="w148" corresp="#w147 #w148">rius</w> monasterii fecerunt. Postquam igitur praefatus episcopus
+<lb n="19" xml:id="bsb00000721_00172_19"/>vita excessit, Augenses quendam senem presbyterum / et <w lemma="monachum" xml:id="w149" corresp="#w149 #w150">mo-</w>
+<lb n="20" xml:id="bsb00000721_00172_20"/><w lemma="monachum" xml:id="w150" corresp="#w149 #w150">nachum</w> nomine Petrum sibi elegerunt abbatem cum consilio
+<pb xml:id="bsb00000721_00174" n="164"/><lb n="1" xml:id="bsb00000721_00174_1"/>Hildigardę reginę, cuius etiam adminiculo res apud illos ita <w lemma="perstitit" xml:id="w151" corresp="#w151 #w152">per-</w>
+<lb n="2" xml:id="bsb00000721_00174_2"/><w lemma="perstitit" xml:id="w152" corresp="#w151 #w152">stitit</w>, quia a Geroldo comite, germano praedictę reginę, locus
+<lb n="3" xml:id="bsb00000721_00174_3"/>ipse maxime constitit et augebatur.
+</ab></div>
+<div type="part"><ab>
+<lb n="4" xml:id="bsb00000721_00174_4"/>[De Waltone abbate et Eginone episcopo Constanciensi]
+<lb n="5" xml:id="bsb00000721_00174_5"/>Nostri vero Waltonem concoenobiotam, virum <w lemma="sapientem" xml:id="w153" corresp="#w153 #w154">sa-</w>
+<lb n="6" xml:id="bsb00000721_00174_6"/><w lemma="sapientem" xml:id="w154" corresp="#w153 #w154">pientem</w>, sibi abbatem rege permittente constituerunt. Sed
+<lb n="7" xml:id="bsb00000721_00174_7"/>non in finem res ita permansit, ut in sequentibus manifeste
+<lb n="8" xml:id="bsb00000721_00174_8"/>declarabimus.
+<lb n="9" xml:id="bsb00000721_00174_9"/>4. [9.] Post obitum vero Iohannis episcopi Egino <w lemma="episcopii" xml:id="w155" corresp="#w155 #w156">episco-</w>
+<lb n="10" xml:id="bsb00000721_00174_10"/><w lemma="episcopii" xml:id="w156" corresp="#w155 #w156">pii</w> Constantiensis iura suscepit. Qui mox omnia insidiarum <w lemma="genera" xml:id="w157" corresp="#w157 #w158">ge-</w>
+<lb n="11" xml:id="bsb00000721_00174_11"/><w lemma="genera" xml:id="w158" corresp="#w157 #w158">nera</w> circa monasterium nostrum exercere non metuens, sicuti
+<lb n="12" xml:id="bsb00000721_00174_12"/>Sydonius sanctum Otmarum, ita et iste Waltonem persequi
+<lb n="13" xml:id="bsb00000721_00174_13"/>cępit abbatem, quatenus iterum perverso more antecessorum
+<pb xml:id="bsb00000721_00176" n="166"/><lb n="1" xml:id="bsb00000721_00176_1"/>suorum episcopatui subiceret monasterium. Huius igitur rei
+<lb n="2" xml:id="bsb00000721_00176_2"/>gratia optimatibus regis praedia et pecunias con/tulit infinitas,
+<lb n="3" xml:id="bsb00000721_00176_3"/>illosque ad consensum suum provocans, <hi rend="ITALICS">muneribusque, </hi>ut
+<lb n="4" xml:id="bsb00000721_00176_4"/>scriptum est, <hi rend="ITALICS">etiam sapientium obtutus excecans, </hi>quod <w lemma="nequiter" xml:id="w159" corresp="#w159 #w160">nequi-</w>
+<lb n="5" xml:id="bsb00000721_00176_5"/><w lemma="nequiter" xml:id="w160" corresp="#w159 #w160">ter</w> caepit, illorum adminiculo pessime conplevit iterumque <w lemma="monasterium" xml:id="w161" corresp="#w161 #w162">mo-</w>
+<lb n="6" xml:id="bsb00000721_00176_6"/><w lemma="monasterium" xml:id="w162" corresp="#w161 #w162">nasterium</w> non equi observatione episcopio subici fecit. <w lemma="Carolus" xml:id="w163" corresp="#w163 #w164">Caro-</w>
+<lb n="7" xml:id="bsb00000721_00176_7"/><w lemma="Carolus" xml:id="w164" corresp="#w163 #w164">lus</w> vero serenus augustus, cum voluisset prędictum abbatem
+<lb n="8" xml:id="bsb00000721_00176_8"/>cum episcopo pacificare eo videlicet pacto, ut episcopi pręcepto
+<lb n="9" xml:id="bsb00000721_00176_9"/>obediens abbatis locum in monasterio ageret, praefatus Waldo,
+<lb n="10" xml:id="bsb00000721_00176_10"/>non valens diutius praesens intueri tantam deiectionem suorum,
+<lb n="11" xml:id="bsb00000721_00176_11"/>tale fertur regi dedisse responsum: „Cum enim", inquit, „semel
+<lb n="12" xml:id="bsb00000721_00176_12"/>manus vestrę dominationis ingressus, tantę celsitudinis merui
+<lb n="13" xml:id="bsb00000721_00176_13"/>dominio sublimari, nequaquam post haec, dum horum trium
+<lb n="14" xml:id="bsb00000721_00176_14"/>digitorum vigorem integrum teneo" – nam scriptor erat <w lemma="eximius" xml:id="w165" corresp="#w165 #w166">ex-</w>
+<lb n="15" xml:id="bsb00000721_00176_15"/><w lemma="eximius" xml:id="w166" corresp="#w165 #w166">imius</w> – „vilioris personę manibus me subdere decrevi."
+<lb n="16" xml:id="bsb00000721_00176_16"/>Itaque cum consensu ipsius imperatoris ad vicinum <w lemma="monasterium" xml:id="w167" corresp="#w167 #w168">monaste-</w>
+<lb n="17" xml:id="bsb00000721_00176_17"/><w lemma="monasterium" xml:id="w168" corresp="#w167 #w168">rium</w>, quod Auva / nominatur, ibidem commoraturus devenit,
+<lb n="18" xml:id="bsb00000721_00176_18"/>ubi postea abbas electus atque ordinatus, ad ultimum <w lemma="monasterium" xml:id="w169" corresp="#w169 #w170">mona-</w>
+<lb n="19" xml:id="bsb00000721_00176_19"/><w lemma="monasterium" xml:id="w170" corresp="#w169 #w170">sterium</w> sancti Dionisii suscepit regendum.
+</ab></div>
+<div type="part"><ab>
+<pb xml:id="bsb00000721_00178" n="168"/><lb n="1" xml:id="bsb00000721_00178_1"/>[De Werdone abbate]
+<lb n="2" xml:id="bsb00000721_00178_2"/>5. [10.] Tunc praedictus episcopus assumens quendam <w lemma="presbyterum" xml:id="w171" corresp="#w171 #w172">pres-</w>
+<lb n="3" xml:id="bsb00000721_00178_3"/><w lemma="presbyterum" xml:id="w172" corresp="#w171 #w172">byterum</w> forensem, nomine Werdonem, obtulit eum ad <w lemma="nostrum" xml:id="w173" corresp="#w173 #w174">no-</w>
+<lb n="4" xml:id="bsb00000721_00178_4"/><w lemma="nostrum" xml:id="w174" corresp="#w173 #w174">strum</w> monasterium, ut abbatem illum constituisset; ne, si de
+<lb n="5" xml:id="bsb00000721_00178_5"/>monachis eisdem aliquem ordinasset, res ab eo aliquatenus <w lemma="cedere" xml:id="w175" corresp="#w175 #w176">ce-</w>
+<lb n="6" xml:id="bsb00000721_00178_6"/><w lemma="cedere" xml:id="w176" corresp="#w175 #w176">dere</w> videretur. Quem tamen monachi in tali habitu <w lemma="commanentem" xml:id="w177" corresp="#w177 #w178">commanen-</w>
+<lb n="7" xml:id="bsb00000721_00178_7"/><w lemma="commanentem" xml:id="w178" corresp="#w177 #w178">tem</w> minime susceperunt abbatem. Quod cum sensisset idem
+<lb n="8" xml:id="bsb00000721_00178_8"/>Werdo, cum conversatione habitum mutavit et tunc demum
+<lb n="9" xml:id="bsb00000721_00178_9"/>monachicis indutus vestimentis susceptus atque, ut decreverat
+<lb n="10" xml:id="bsb00000721_00178_10"/>episcopus, abbas est ordinatus. Tunc vero, quodam perversę <w lemma="fidei" xml:id="w179" corresp="#w179 #w180">fi-</w>
+<lb n="11" xml:id="bsb00000721_00178_11"/><w lemma="fidei" xml:id="w180" corresp="#w179 #w180">dei</w> pacto inter episcopum et abbatem contra monachorum <w lemma="necessitates" xml:id="w181" corresp="#w181 #w182">ne-</w>
+<lb n="12" xml:id="bsb00000721_00178_12"/><w lemma="necessitates" xml:id="w182" corresp="#w181 #w182">cessitates</w> effecto, res nostrae magis ac magis in desolationem
+<lb n="13" xml:id="bsb00000721_00178_13"/>vergere cęperunt – cum hi, qui tutores esse debuerant, <w lemma="afflixissent" xml:id="w183" corresp="#w183 #w184">af-</w>
+<lb n="14" xml:id="bsb00000721_00178_14"/><w lemma="afflixissent" xml:id="w184" corresp="#w183 #w184">flix/issent</w>, et nullus esset ex nostris, qui eos prohibere <w lemma="potuisset" xml:id="w185" corresp="#w185 #w186">potuis-</w>
+<lb n="15" xml:id="bsb00000721_00178_15"/><w lemma="potuisset" xml:id="w186" corresp="#w185 #w186">set</w>. Habuerunt autem adhuc fratres monasterii nostri <w lemma="firmissimum" xml:id="w187" corresp="#w187 #w188">firmissi-</w>
+<lb n="16" xml:id="bsb00000721_00178_16"/><w lemma="firmissimum" xml:id="w188" corresp="#w187 #w188">mum</w> emunitatis praeceptum. Quod beatę memoriae domnus
+<lb n="17" xml:id="bsb00000721_00178_17"/>Pipinus rex illis scribi iusserat propriaque manu firmatum <w lemma="contradiderat" xml:id="w189" corresp="#w189 #w190">con-</w>
+<lb n="18" xml:id="bsb00000721_00178_18"/><w lemma="contradiderat" xml:id="w190" corresp="#w189 #w190">tradiderat</w>, in quo etiam multum confisi sunt. Quod etiam
+<lb n="19" xml:id="bsb00000721_00178_19"/>idem episcopus maximo studio sepius investigabat, sed invenire
+<lb n="20" xml:id="bsb00000721_00178_20"/>non poterat. Ipsum quoque praeceptum, quod superius a <w lemma="Carolo" xml:id="w191" corresp="#w191 #w192">Ca-</w>
+<lb n="21" xml:id="bsb00000721_00178_21"/><w lemma="Carolo" xml:id="w192" corresp="#w191 #w192">rolo</w> imperatore sub Iohanne episcopo factum monstravimus,
+<lb n="22" xml:id="bsb00000721_00178_22"/>adhuc in Constantiae scriniis detentum a monachis non <w lemma="recipiebatur" xml:id="w193" corresp="#w193 #w194">recipie-</w>
+<lb n="23" xml:id="bsb00000721_00178_23"/><w lemma="recipiebatur" xml:id="w194" corresp="#w193 #w194">batur</w>, eo quod, ut superius diximus, depravatum atque contra
+<pb xml:id="bsb00000721_00180" n="170"/><lb n="1" xml:id="bsb00000721_00180_1"/>imperatoris praeceptum illorumque necessitatem fuisset <w lemma="conscriptum" xml:id="w195" corresp="#w195 #w196">con-</w>
+<lb n="2" xml:id="bsb00000721_00180_2"/><w lemma="conscriptum" xml:id="w196" corresp="#w195 #w196">scriptum</w>. [11.] Contigit autem tempore quodam <w lemma="Wolfharium" xml:id="w197" corresp="#w197 #w198">Wolfhari-</w>
+<lb n="3" xml:id="bsb00000721_00180_3"/><w lemma="Wolfharium" xml:id="w198" corresp="#w197 #w198">um</w> Reminsem episcopum, legatione a domno Carolo sibi
+<lb n="4" xml:id="bsb00000721_00180_4"/>iniuncta, iustitias in Rhetia Curiense faciendas, ad ipsum <w lemma="pagum" xml:id="w199" corresp="#w199 #w200">pa-</w>
+<lb n="5" xml:id="bsb00000721_00180_5"/><w lemma="pagum" xml:id="w200" corresp="#w199 #w200">gum</w> venisse indeque reversum ad nostrum monasterium <w lemma="devenisse" xml:id="w201" corresp="#w201 #w202">deve-</w>
+<lb n="6" xml:id="bsb00000721_00180_6"/><w lemma="devenisse" xml:id="w202" corresp="#w201 #w202">nisse</w>, ibique, prout illis facultas erat, benigne / susceptus devoto
+<lb n="7" xml:id="bsb00000721_00180_7"/>servitio sustentatus est. Quem cum non lateret calumnia et
+<lb n="8" xml:id="bsb00000721_00180_8"/>iniustitia, quas passi sunt incolę monasterii nostri, praedictum
+<lb n="9" xml:id="bsb00000721_00180_9"/>emunitatis praeceptum sibi ostendere rogavit. Quod cum <w lemma="vidisset" xml:id="w203" corresp="#w203 #w204">vidis-</w>
+<lb n="10" xml:id="bsb00000721_00180_10"/><w lemma="vidisset" xml:id="w204" corresp="#w203 #w204">set</w> ac perlegisset, ortatus est eos, ut per aliquem fidum <w lemma="hominem" xml:id="w205" corresp="#w205 #w206">homi-</w>
+<lb n="11" xml:id="bsb00000721_00180_11"/><w lemma="hominem" xml:id="w206" corresp="#w205 #w206">nem</w> eandem firmitatis cartam domno imperatori dirigerent. Se
+<lb n="12" xml:id="bsb00000721_00180_12"/>vero res eorum notas imperatori facturum atque auxilium illis
+<lb n="13" xml:id="bsb00000721_00180_13"/>praebiturum promisit. Cuius consilio consentientes cuidam
+<pb xml:id="bsb00000721_00182" n="172"/><lb n="1" xml:id="bsb00000721_00182_1"/>vasallo imperatoris nomine Engilrammo, in cuius fide <w lemma="multum" xml:id="w207" corresp="#w207 #w208">mul-</w>
+<lb n="2" xml:id="bsb00000721_00182_2"/><w lemma="multum" xml:id="w208" corresp="#w207 #w208">tum</w> praesumebant, ipsam cartam, immo totius securitatis
+<lb n="3" xml:id="bsb00000721_00182_3"/>spem commendaverunt. Qui etiam in altario sancti Galli <w lemma="iuravit" xml:id="w209" corresp="#w209 #w210">iura-</w>
+<lb n="4" xml:id="bsb00000721_00182_4"/><w lemma="iuravit" xml:id="w210" corresp="#w209 #w210">vit</w>, se ipsam cartam regi perlaturum atque ipsis monachis
+<lb n="5" xml:id="bsb00000721_00182_5"/>cautissime esse redditurum. Quod suadente diabolo aliter,
+<lb n="6" xml:id="bsb00000721_00182_6"/>quam promisisset, effecit. Denique discedente eo de monasterio
+<lb n="7" xml:id="bsb00000721_00182_7"/>atque secum cartam portante episcopo res innotuit. Qui <w lemma="protinus" xml:id="w211" corresp="#w211 #w212">pro-</w>
+<lb n="8" xml:id="bsb00000721_00182_8"/><w lemma="protinus" xml:id="w212" corresp="#w211 #w212">tinus</w> directis illi muneribus non parvis praefatam cartam, /
+<lb n="9" xml:id="bsb00000721_00182_9"/>sicut diu cupivit, accepit atque in suam potestatem redegit.
+<lb n="10" xml:id="bsb00000721_00182_10"/>[12.] Statim vero cupiens penitus omnem spem securitatis <w lemma="nostris" xml:id="w213" corresp="#w213 #w214">no-</w>
+<lb n="11" xml:id="bsb00000721_00182_11"/><w lemma="nostris" xml:id="w214" corresp="#w213 #w214">stris</w> aufferre ad ipsum monasterium venit atque cautissima <w lemma="investigatione" xml:id="w215" corresp="#w215 #w216">in-</w>
+<lb n="12" xml:id="bsb00000721_00182_12"/><w lemma="investigatione" xml:id="w216" corresp="#w215 #w216">vestigatione</w> perquisivit, si alicubi aliquod exemplar ipsius
+<lb n="13" xml:id="bsb00000721_00182_13"/>cartę inveniri potuisset; quod cum nequaquam invenisset, quia
+<lb n="14" xml:id="bsb00000721_00182_14"/>omnino non erat, delatum est ei, quod Amalgarius monachus
+<lb n="15" xml:id="bsb00000721_00182_15"/>et diaconus eam exemplari tradere voluisset. Cuius facti licet ille
+<lb n="16" xml:id="bsb00000721_00182_16"/>securus esset, tamen nequaquam de hoc aliter apud episcopum
+<lb n="17" xml:id="bsb00000721_00182_17"/>se potuit excusare, nisi in altario sancti Galli cum iuramento <w lemma="firmaret" xml:id="w217" corresp="#w217 #w218">fir-</w>
+<lb n="18" xml:id="bsb00000721_00182_18"/><w lemma="firmaret" xml:id="w218" corresp="#w217 #w218">maret</w>, nec se eam ullo modo habere scriptam, nec in aliquo
+<lb n="19" xml:id="bsb00000721_00182_19"/>loco scire esse conscriptam.
+<pb xml:id="bsb00000721_00184" n="174"/><lb n="1" xml:id="bsb00000721_00184_1"/>Tunc demum episcopus securus suae voluntatis effectus rediit
+<lb n="2" xml:id="bsb00000721_00184_2"/>in sua, atque monachis nostris, qui secum soliti erant <w lemma="commorari" xml:id="w219" corresp="#w219 #w220">com-</w>
+<lb n="3" xml:id="bsb00000721_00184_3"/><w lemma="commorari" xml:id="w220" corresp="#w219 #w220">morari</w>, quasi ob aliam causam a se foras transmissis, sepe <w lemma="memoratam" xml:id="w221" corresp="#w221 #w222">me-</w>
+<lb n="4" xml:id="bsb00000721_00184_4"/><w lemma="memoratam" xml:id="w222" corresp="#w221 #w222">moratam</w> cartam ignibus tradidit atque in favillam redegit, ut
+<lb n="5" xml:id="bsb00000721_00184_5"/>postea res nobis innotuit. /
+<lb n="6" xml:id="bsb00000721_00184_6"/>Temporibus vero transactis, Egino episcopus finem vitę
+<lb n="7" xml:id="bsb00000721_00184_7"/>praesentis accepit; anno ab incarnatione Domini DCCCXIII,
+<lb n="8" xml:id="bsb00000721_00184_8"/>anno autem imperii Caroli serenissimi augusti XLVI. Post
+<lb n="9" xml:id="bsb00000721_00184_9"/>cuius obitum episcopatum Constantiensis ęclesię adeptus est
+<lb n="10" xml:id="bsb00000721_00184_10"/>Wolfleoz, monasterii sancti Galli coenobiota.
+</ab></div>
+<div type="part"><ab>
+<lb n="11" xml:id="bsb00000721_00184_11"/>[De Cotzperto abbate et Wolfleoz episcopo Constanciensi]
+<lb n="12" xml:id="bsb00000721_00184_12"/><hi rend="ITALICS">6. </hi>[13.] Werdone vero abbate postea vitam finiente, <w lemma="Cozpertus" xml:id="w223" corresp="#w223 #w224">Coz-</w>
+<lb n="13" xml:id="bsb00000721_00184_13"/><w lemma="Cozpertus" xml:id="w224" corresp="#w223 #w224">pertus</w> eiusdem congregationis monachus a fratribus est abba
+<lb n="14" xml:id="bsb00000721_00184_14"/>electus et ordinatus, vir statura procerus, sapientia quoque
+<lb n="15" xml:id="bsb00000721_00184_15"/>morumque dignitate praecipuus; anno ab incarnatione Domini
+<lb n="16" xml:id="bsb00000721_00184_16"/>DCCCXVI, anno autem imperii Hludowici imperatoris, <w lemma="filii" xml:id="w225" corresp="#w225 #w226">fi-</w>
+<pb xml:id="bsb00000721_00186" n="176"/><lb n="1" xml:id="bsb00000721_00186_1"/><w lemma="filii" xml:id="w226" corresp="#w225 #w226">lii</w> praefati Caroli augusti, tertio. Cum igitur Wolfleoz <w lemma="episcopus" xml:id="w227" corresp="#w227 #w228">epi-</w>
+<lb n="2" xml:id="bsb00000721_00186_2"/><w lemma="episcopus" xml:id="w228" corresp="#w227 #w228">scopus</w> more antecessorum suorum etiam causas monasterii
+<lb n="3" xml:id="bsb00000721_00186_3"/>suę  subiceret dicioni, incolę monasterii, quasi in proprio <w lemma="fratre" xml:id="w229" corresp="#w229 #w230">fra-</w>
+<lb n="4" xml:id="bsb00000721_00186_4"/><w lemma="fratre" xml:id="w230" corresp="#w229 #w230">tre</w> et conservo, consolationem in eo se habere posse confisi
+<lb n="5" xml:id="bsb00000721_00186_5"/>sunt. Ille vero non solum mitior cęteris non existens, aliqua in
+<lb n="6" xml:id="bsb00000721_00186_6"/>parte illis, de quibus venit, pepercit, sed etiam, in quantum <w lemma="potuit" xml:id="w231" corresp="#w231 #w232">po-</w>
+<lb n="7" xml:id="bsb00000721_00186_7"/><w lemma="potuit" xml:id="w232" corresp="#w231 #w232">tuit</w>, more Hieroboam / digitum suum dorso <w lemma="antecessorum" xml:id="w233" corresp="#w233 #w234">anteces-</w>
+<lb n="8" xml:id="bsb00000721_00186_8"/><w lemma="antecessorum" xml:id="w234" corresp="#w233 #w234">sorum</w> suorum erga sibi subiectos grossiorem exhibere <w lemma="temptavit" xml:id="w235" corresp="#w235 #w236">tempta-</w>
+<lb n="9" xml:id="bsb00000721_00186_9"/><w lemma="temptavit" xml:id="w236" corresp="#w235 #w236">vit</w>. Monachosque, de quibus exivit, cessante priorum <w lemma="exemplo" xml:id="w237" corresp="#w237 #w238">exem-</w>
+<lb n="10" xml:id="bsb00000721_00186_10"/><w lemma="exemplo" xml:id="w238" corresp="#w237 #w238">plo</w>, affligere non destitit. Quę omnia, quanta et qualia fuerint,
+<lb n="11" xml:id="bsb00000721_00186_11"/>non decet memoriae tradere, tamen necessaria huic textui <w lemma="subnectimus" xml:id="w239" corresp="#w239 #w240">sub-</w>
+<lb n="12" xml:id="bsb00000721_00186_12"/><w lemma="subnectimus" xml:id="w240" corresp="#w239 #w240">nectimus</w>, sed et paucissima. Idem namque episcopus, cum
+<lb n="13" xml:id="bsb00000721_00186_13"/>omnes monasterii causas sibi, ubicumque vellet, adferri iussisset,
+<lb n="14" xml:id="bsb00000721_00186_14"/>nihilominus ad libitus suos sepius idem monasterium <w lemma="invisens" xml:id="w241" corresp="#w241 #w242">invi-</w>
+<lb n="15" xml:id="bsb00000721_00186_15"/><w lemma="invisens" xml:id="w242" corresp="#w241 #w242">sens</w>, omnes ibidem ministeriorum consuetudines ad suas <w lemma="detorserat" xml:id="w243" corresp="#w243 #w244">de-</w>
+<lb n="16" xml:id="bsb00000721_00186_16"/><w lemma="detorserat" xml:id="w244" corresp="#w243 #w244">torserat</w> voluptates. Denique cellario cunctisque similibus
+<lb n="17" xml:id="bsb00000721_00186_17"/>monasterii officinis laicales praefecit personas sibi forinsecus
+<lb n="18" xml:id="bsb00000721_00186_18"/>ministrare solitas, nullusque eorum, qui ad haec eadem <w lemma="ministeria" xml:id="w245" corresp="#w245 #w246">ministe-</w>
+<lb n="19" xml:id="bsb00000721_00186_19"/><w lemma="ministeria" xml:id="w246" corresp="#w245 #w246">ria</w> constituti fuerant, monachorum vel intrare aut de his <w lemma="aliquatenus" xml:id="w247" corresp="#w247 #w248">aliqua-</w>
+<lb n="20" xml:id="bsb00000721_00186_20"/><w lemma="aliquatenus" xml:id="w248" corresp="#w247 #w248">tenus</w> habuit potestatem tractare vel habere. Qua re contigit
+<pb xml:id="bsb00000721_00188" n="178"/><lb n="1" xml:id="bsb00000721_00188_1"/>non solum alia necessaria, sed etiam victum, supremum videlicet
+<lb n="2" xml:id="bsb00000721_00188_2"/>corporis sustentaculum, omnino fratribus defecisse. [14.]
+<lb n="3" xml:id="bsb00000721_00188_3"/>Tantę igitur / causa necessitatis Hludowicum piissimum <w lemma="imperatorem" xml:id="w249" corresp="#w249 #w250">im-</w>
+<lb n="4" xml:id="bsb00000721_00188_4"/><w lemma="imperatorem" xml:id="w250" corresp="#w249 #w250">peratorem</w> fratres de monasterio sancti Galli adierunt eiusque
+<lb n="5" xml:id="bsb00000721_00188_5"/>clementiam suae miseriae solamen esse poscebant. Episcopus
+<lb n="6" xml:id="bsb00000721_00188_6"/>quoque eodem tempore praesens aderat, coepiscoporum <w lemma="confisus" xml:id="w251" corresp="#w251 #w252">confi-</w>
+<lb n="7" xml:id="bsb00000721_00188_7"/><w lemma="confisus" xml:id="w252" corresp="#w251 #w252">sus</w> solatio aliorumque familiarium regis, quos omnes suae
+<lb n="8" xml:id="bsb00000721_00188_8"/>partis sciebat esse adminiculatores monachorumque <w lemma="adversarios" xml:id="w253" corresp="#w253 #w254">adversa-</w>
+<lb n="9" xml:id="bsb00000721_00188_9"/><w lemma="adversarios" xml:id="w254" corresp="#w253 #w254">rios</w>. Maximam tamen suae pertinatiae fidutiam habuit in <w lemma="quadam" xml:id="w255" corresp="#w255 #w256">qua-</w>
+<lb n="10" xml:id="bsb00000721_00188_10"/><w lemma="quadam" xml:id="w256" corresp="#w255 #w256">dam</w> carta, quae diabolicis machinationibus a quodam diaboli
+<lb n="11" xml:id="bsb00000721_00188_11"/>ministro conscripta non solum idem monasterium, sed et alia
+<lb n="12" xml:id="bsb00000721_00188_12"/>loca non pauca falsissime canebat ad episcopii partes quasi <w lemma="hereditario" xml:id="w257" corresp="#w257 #w258">here-</w>
+<lb n="13" xml:id="bsb00000721_00188_13"/><w lemma="hereditario" xml:id="w258" corresp="#w257 #w258">ditario</w> iure pertinere. Monachi vero econtra nullam eo <w lemma="tempore" xml:id="w259" corresp="#w259 #w260">tem-</w>
+<lb n="14" xml:id="bsb00000721_00188_14"/><w lemma="tempore" xml:id="w260" corresp="#w259 #w260">pore</w> suae securitatis cartam habuerunt: una, ut prędiximus, <w lemma="concremata" xml:id="w261" corresp="#w261 #w262">con-</w>
+<lb n="15" xml:id="bsb00000721_00188_15"/><w lemma="concremata" xml:id="w262" corresp="#w261 #w262">cremata</w>, alia vero, sicut etiam praefati sumus, quam suscipere
+<lb n="16" xml:id="bsb00000721_00188_16"/>ob aliquam causam monachi noluerunt, ab episcopo detenta.
+<lb n="17" xml:id="bsb00000721_00188_17"/>Cum vero altercatio inter episcopum et monachos / <w lemma="oriretur" xml:id="w263" corresp="#w263 #w264">orire-</w>
+<lb n="18" xml:id="bsb00000721_00188_18"/><w lemma="oriretur" xml:id="w264" corresp="#w263 #w264">tur</w> coram principe, episcopus petiit, ut sua carta coram <w lemma="imperatore" xml:id="w265" corresp="#w265 #w266">impera-</w>
+<pb xml:id="bsb00000721_00190" n="180"/><lb n="1" xml:id="bsb00000721_00190_1"/><w lemma="imperatore" xml:id="w266" corresp="#w265 #w266">tore</w> legeretur et secundum eam res diiudicarentur; ipsam <w lemma="autem" xml:id="w267" corresp="#w267 #w268">au-</w>
+<lb n="2" xml:id="bsb00000721_00190_2"/><w lemma="autem" xml:id="w268" corresp="#w267 #w268">tem</w>, quam supra commemoravimus, mendis plenissimam <w lemma="praeferre" xml:id="w269" corresp="#w269 #w270">prae-</w>
+<lb n="3" xml:id="bsb00000721_00190_3"/><w lemma="praeferre" xml:id="w270" corresp="#w269 #w270">ferre</w> cogitavit. Sed divina pietas suis, quibus humana <w lemma="deerant" xml:id="w271" corresp="#w271 #w272">de-</w>
+<lb n="4" xml:id="bsb00000721_00190_4"/><w lemma="deerant" xml:id="w272" corresp="#w271 #w272">erant</w> solatia, superna dignata est intercedente sancto Gallo <w lemma="conferre" xml:id="w273" corresp="#w273 #w274">con-</w>
+<lb n="5" xml:id="bsb00000721_00190_5"/><w lemma="conferre" xml:id="w274" corresp="#w273 #w274">ferre</w> subsidia. [15.] Denique episcopus, cum de manibus proprii
+<lb n="6" xml:id="bsb00000721_00190_6"/>ministri suae voluntatis se putaret accipere cartam, immo sancti
+<lb n="7" xml:id="bsb00000721_00190_7"/>Galli famulos destruendos invidiosam decipulam, non eam,
+<lb n="8" xml:id="bsb00000721_00190_8"/>quam voluit, sed proficuo nobis errore aliam cartam imperatori
+<lb n="9" xml:id="bsb00000721_00190_9"/>cunctisque principibus causę penitus ignarus coram designavit,
+<lb n="10" xml:id="bsb00000721_00190_10"/>quam ab imperatore Karolo sub Iohanne episcopo nobis <w lemma="factam" xml:id="w275" corresp="#w275 #w276">fac-</w>
+<lb n="11" xml:id="bsb00000721_00190_11"/><w lemma="factam" xml:id="w276" corresp="#w275 #w276">tam</w>, sed a nostris antecessoribus ob alicuius infandę additionis
+<lb n="12" xml:id="bsb00000721_00190_12"/>maculam non receptam supra memoravimus. Quam cum
+<lb n="13" xml:id="bsb00000721_00190_13"/>piissimus imperator suscepisset sigillumque sui patris <w lemma="recognoscendo" xml:id="w277" corresp="#w277 #w278">recognos-</w>
+<lb n="14" xml:id="bsb00000721_00190_14"/><w lemma="recognoscendo" xml:id="w278" corresp="#w277 #w278">cendo</w> intuitus esset, venerando deosculatus est circumque <w lemma="adstantibus" xml:id="w279" corresp="#w279 #w280">ad-</w>
+<lb n="15" xml:id="bsb00000721_00190_15"/><w lemma="adstantibus" xml:id="w280" corresp="#w279 #w280">stan/tibus</w> similiter honoris causa deosculandum contradidit.
+<lb n="16" xml:id="bsb00000721_00190_16"/>Deinde carta traditur legenda. Cum vero audisset episcopus
+<lb n="17" xml:id="bsb00000721_00190_17"/>contra suum decretum cartę procedere textum, protinus <w lemma="recusavit" xml:id="w281" corresp="#w281 #w282">recusa-</w>
+<lb n="18" xml:id="bsb00000721_00190_18"/><w lemma="recusavit" xml:id="w282" corresp="#w281 #w282">vit</w> istam asserens perversam aliamque cupiens suę perversitatis
+<lb n="19" xml:id="bsb00000721_00190_19"/>in praesentiam adferre scripturam. Quod benivolus imperator
+<lb n="20" xml:id="bsb00000721_00190_20"/>non consensit, sed tantę auctoritatis firmitatem monachis <w lemma="restituendo" xml:id="w283" corresp="#w283 #w284">resti-</w>
+<lb n="21" xml:id="bsb00000721_00190_21"/><w lemma="restituendo" xml:id="w284" corresp="#w283 #w284">tuendo</w> contradidit, ut liberi ad sua redeuntes potestatem <w lemma="deinceps" xml:id="w285" corresp="#w285 #w286">dein-</w>
+<lb n="22" xml:id="bsb00000721_00190_22"/><w lemma="deinceps" xml:id="w286" corresp="#w285 #w286">ceps</w> eligendi sibi abbates haberent nullamque potestatem <w lemma="episcopi" xml:id="w287" corresp="#w287 #w288">epi-</w>
+<lb n="23" xml:id="bsb00000721_00190_23"/><w lemma="episcopi" xml:id="w288" corresp="#w287 #w288">scopi</w> absque magisterii causa spiritalis super eos deinceps <w lemma="haberent" xml:id="w289" corresp="#w289 #w290">habe-</w>
+<pb xml:id="bsb00000721_00192" n="182"/><lb n="1" xml:id="bsb00000721_00192_1"/><w lemma="haberent" xml:id="w290" corresp="#w289 #w290">rent</w> – excepto quodam censu, quem de monasterio ad <w lemma="episcopatum" xml:id="w291" corresp="#w291 #w292">epi-</w>
+<lb n="2" xml:id="bsb00000721_00192_2"/><w lemma="episcopatum" xml:id="w292" corresp="#w291 #w292">scopatum</w> persolvi debere singulis annis, hoc est unum equum et
+<lb n="3" xml:id="bsb00000721_00192_3"/>unam unciam auri, supra memorata carta asserebat. <w lemma="Insuper" xml:id="w293" corresp="#w293 #w294">Insu-</w>
+<lb n="4" xml:id="bsb00000721_00192_4"/><w lemma="Insuper" xml:id="w294" corresp="#w293 #w294">per</w> etiam praefatus princeps ad augmentum securitatis eorum
+<lb n="5" xml:id="bsb00000721_00192_5"/>cartam emunitatis sua auctoritate illis contradidit. [16.] <w lemma="Quibus" xml:id="w295" corresp="#w295 #w296">Qui-</w>
+<lb n="6" xml:id="bsb00000721_00192_6"/><w lemma="Quibus" xml:id="w296" corresp="#w295 #w296">bus</w> peractis monachi cum suo abbate Gozperto ad <w lemma="monasterium" xml:id="w297" corresp="#w297 #w298">mona-</w>
+<lb n="7" xml:id="bsb00000721_00192_7"/><w lemma="monasterium" xml:id="w298" corresp="#w297 #w298">sterium</w> rediere lętantes, episcopo nihil/ominus ad sua cum
+<lb n="8" xml:id="bsb00000721_00192_8"/>tristitia redeunte. Gozpertus vero abbas una cum suis ad <w lemma="monasterium" xml:id="w299" corresp="#w299 #w300">mona-</w>
+<lb n="9" xml:id="bsb00000721_00192_9"/><w lemma="monasterium" xml:id="w300" corresp="#w299 #w300">sterium</w> rediens omni studio satagebat circa communem fratrum
+<lb n="10" xml:id="bsb00000721_00192_10"/>utilitatem omnem sui laboris inpendere sollertiam, nostrę in
+<lb n="11" xml:id="bsb00000721_00192_11"/>omnibus rebus congregationis, ubicumque potuit, commoda
+<lb n="12" xml:id="bsb00000721_00192_12"/>cumulando. Ad augmentum quoque nostri monasterii veteri
+<lb n="13" xml:id="bsb00000721_00192_13"/>destructa novam sancto Gallo coepit ędificare basilicam, quę
+<lb n="14" xml:id="bsb00000721_00192_14"/>hodie rationabili proceręque magnitudinis statura cernentibus
+<lb n="15" xml:id="bsb00000721_00192_15"/>apparet constructa; anno videlicet incarnationis Domini
+<lb n="16" xml:id="bsb00000721_00192_16"/>DCCCXXX, Hludowici vero imperatoris XVII. Quam
+<pb xml:id="bsb00000721_00194" n="184"/><lb n="1" xml:id="bsb00000721_00194_1"/>utique spacio VII annorum ad plenum aedificando perduxit, <w lemma="annoque" xml:id="w301" corresp="#w301 #w302">an-</w>
+<lb n="2" xml:id="bsb00000721_00194_2"/><w lemma="annoque" xml:id="w302" corresp="#w301 #w302">noque</w> nono dedicationem ipsius basilicę perpetravit, <w lemma="convenientibus" xml:id="w303" corresp="#w303 #w304">con-</w>
+<lb n="3" xml:id="bsb00000721_00194_3"/><w lemma="convenientibus" xml:id="w304" corresp="#w303 #w304">venientibus</w> ad idem monasterium Wolfleozo, ad cuius <w lemma="diocesim" xml:id="w305" corresp="#w305 #w306">dioce-</w>
+<lb n="4" xml:id="bsb00000721_00194_4"/><w lemma="diocesim" xml:id="w306" corresp="#w305 #w306">sim</w> pertinebat, Constantiensi episcopo, unaque Oadalricho
+<lb n="5" xml:id="bsb00000721_00194_5"/>Basiliensi episcopo, Erlebaldo quoque Augensis monasterii
+<lb n="6" xml:id="bsb00000721_00194_6"/>abbate cum aliquantis suę congregationis fratribus praesente
+<lb n="7" xml:id="bsb00000721_00194_7"/>manente aliisque Alemannorum principibus non paucis. /
+<lb n="8" xml:id="bsb00000721_00194_8"/>Dedicatione igitur ipsius basilicę gloriose cępta et non sine
+<lb n="9" xml:id="bsb00000721_00194_9"/>signorum claritate honorifice peracta, postea praefatus abba
+<lb n="10" xml:id="bsb00000721_00194_10"/>Gozpertus in omnibus monasterii nostri utilitatibus sine <w lemma="cessatione" xml:id="w307" corresp="#w307 #w308">cessa-</w>
+<lb n="11" xml:id="bsb00000721_00194_11"/><w lemma="cessatione" xml:id="w308" corresp="#w307 #w308">tione</w> se studuit exercere. Librorum enim, quorum maxima
+<lb n="12" xml:id="bsb00000721_00194_12"/>penuria in nostro loco usque ad illius tempus exstiterat, <w lemma="tantam" xml:id="w309" corresp="#w309 #w310">tan-</w>
+<lb n="13" xml:id="bsb00000721_00194_13"/><w lemma="tantam" xml:id="w310" corresp="#w309 #w310">tam</w> copiam ille patravit, ut locus iste ex eorum <w lemma="multiplicatione" xml:id="w311" corresp="#w311 #w312">multiplicatio-</w>
+<lb n="14" xml:id="bsb00000721_00194_14"/><w lemma="multiplicatione" xml:id="w312" corresp="#w311 #w312">ne</w> non parum excresceret. Qui, quales et quot fuerint, qui
+<lb n="15" xml:id="bsb00000721_00194_15"/>diligentius quęsierit, invenire poterit.
+</ab></div>
+<div type="part"><ab>
+<pb xml:id="bsb00000721_00196" n="186"/><lb n="1" xml:id="bsb00000721_00196_1"/>[De substitucione Bernwici abbatis]
+<lb n="2" xml:id="bsb00000721_00196_2"/>7. [17.] Tempore vero procedente idem abbas, cum iam ętatis
+<lb n="3" xml:id="bsb00000721_00196_3"/>gravitatem corporisque infirmitatem non sufficere crederet ad
+<lb n="4" xml:id="bsb00000721_00196_4"/>instantium necessitatem negotiorum, a Hludowico <w lemma="clementissimo" xml:id="w313" corresp="#w313 #w314">clementissi-</w>
+<lb n="5" xml:id="bsb00000721_00196_5"/><w lemma="clementissimo" xml:id="w314" corresp="#w313 #w314">mo</w> augusto impetravit, ut Bernwicus, monachus noster,
+<lb n="6" xml:id="bsb00000721_00196_6"/>successor illi existeret; quod statim, ut ille postulavit, effectum
+<lb n="7" xml:id="bsb00000721_00196_7"/>est. Ordinatus est vero Bernwicus abbas vivente Gozperto,
+<lb n="8" xml:id="bsb00000721_00196_8"/>anno incarnationis Domini DCCCXXXVII, Hludowici autem
+<lb n="9" xml:id="bsb00000721_00196_9"/>imperatoris XXIIII. Post hęc vero Hludowicus imperator
+<lb n="10" xml:id="bsb00000721_00196_10"/>XII. Kalendas Iulias de hac luce migravit, anno incarnationis
+<lb n="11" xml:id="bsb00000721_00196_11"/>Domini DCCCXL. / Eodem etiam anno facta est solis <w lemma="eclypsis" xml:id="w315" corresp="#w315 #w316">ecly-</w>
+<lb n="12" xml:id="bsb00000721_00196_12"/><w lemma="eclypsis" xml:id="w316" corresp="#w315 #w316">psis</w>, III. Nonas Maias , in vigilia ascensionis Domini . Post
+<lb n="13" xml:id="bsb00000721_00196_13"/>obitum vero Hludowici imperatoris maxima discordia orta est
+<lb n="14" xml:id="bsb00000721_00196_14"/>inter filios eius Hlotharium, qui primus fuit ętate, et <w lemma="Hludowicum" xml:id="w317" corresp="#w317 #w318">Hludo-</w>
+<lb n="15" xml:id="bsb00000721_00196_15"/><w lemma="Hludowicum" xml:id="w318" corresp="#w317 #w318">wicum</w> et Carolum. Itaque Hlotharius, cum esset ętate
+<lb n="16" xml:id="bsb00000721_00196_16"/>primus, potentia utique et multitudine populorum post se <w lemma="declinantium" xml:id="w319" corresp="#w319 #w320">decli-</w>
+<lb n="17" xml:id="bsb00000721_00196_17"/><w lemma="declinantium" xml:id="w320" corresp="#w319 #w320">nantium</w> cęteros praecellebat. Cum igitur, ut diximus, maxima
+<lb n="18" xml:id="bsb00000721_00196_18"/>pars populorum Hlotharium sequeretur, contigit et <w lemma="Bernwicum" xml:id="w321" corresp="#w321 #w322">Bernwi-</w>
+<lb n="19" xml:id="bsb00000721_00196_19"/><w lemma="Bernwicum" xml:id="w322" corresp="#w321 #w322">cum</w> nostrum abbatem illius partis fuisse adminiculatorem.
+<lb n="20" xml:id="bsb00000721_00196_20"/>[18.] Nec minus interea Hludowicus Alamanniam penetrans
+<pb xml:id="bsb00000721_00198" n="188"/><lb n="1" xml:id="bsb00000721_00198_1"/>singula loca suę suorumque dicioni subiecit. Indeque <w lemma="abbatem" xml:id="w323" corresp="#w323 #w324">abba-</w>
+<lb n="2" xml:id="bsb00000721_00198_2"/><w lemma="abbatem" xml:id="w324" corresp="#w323 #w324">tem</w> in nostro monasterio constituit Engilbertum monachum
+<lb n="3" xml:id="bsb00000721_00198_3"/>nostrum. Qua re contigit, ut sicut regna, ita et monasteria <w lemma="diversis" xml:id="w325" corresp="#w325 #w326">diver-</w>
+<lb n="4" xml:id="bsb00000721_00198_4"/><w lemma="diversis" xml:id="w326" corresp="#w325 #w326">sis</w> erroribus atque laboribus quaterentur. In tantum autem <w lemma="maior" xml:id="w327" corresp="#w327 #w328">mai-</w>
+<lb n="5" xml:id="bsb00000721_00198_5"/><w lemma="maior" xml:id="w328" corresp="#w327 #w328">or</w> pars populorum Hlotharium sequebatur, ut quidam <w lemma="principes" xml:id="w329" corresp="#w329 #w330">princi-</w>
+<lb n="6" xml:id="bsb00000721_00198_6"/><w lemma="principes" xml:id="w330" corresp="#w329 #w330">pes</w> Alamannorum cum exercitu magno Hludowico obviam
+<lb n="7" xml:id="bsb00000721_00198_7"/>pergerent eumque, ne fines illorum intraret, / prohibere vellent.
+<lb n="8" xml:id="bsb00000721_00198_8"/>Cum quibus protinus pugnam validam commisit et maximam
+<lb n="9" xml:id="bsb00000721_00198_9"/>eorum partem prostravit, reliquos vero omnes in fugam <w lemma="convertit" xml:id="w331" corresp="#w331 #w332">con-</w>
+<lb n="10" xml:id="bsb00000721_00198_10"/><w lemma="convertit" xml:id="w332" corresp="#w331 #w332">vertit</w>, et sic ad fratrem suum Carolum pervenit. In quibus <w lemma="terminis" xml:id="w333" corresp="#w333 #w334">ter-</w>
+<lb n="11" xml:id="bsb00000721_00198_11"/><w lemma="terminis" xml:id="w334" corresp="#w333 #w334">minis</w> Hlotharius cum maximo exercitu aderat contra fratres
+<lb n="12" xml:id="bsb00000721_00198_12"/>suos Hludowicum et Carolum et ipsi contra illum. Die autem
+<lb n="13" xml:id="bsb00000721_00198_13"/>constituta commissum est proelium validissimum atque miseria
+<lb n="14" xml:id="bsb00000721_00198_14"/>plenum, et Domino disponente iuniores exstiterant victores,
+<lb n="15" xml:id="bsb00000721_00198_15"/>anno incarnationis Domini DCCCXLI. Ergo hac miserabili
+<lb n="16" xml:id="bsb00000721_00198_16"/>consummatione belli peracta, protinus Hludowicus <w lemma="abbatiam" xml:id="w335" corresp="#w335 #w336">abba-</w>
+<lb n="17" xml:id="bsb00000721_00198_17"/><w lemma="abbatiam" xml:id="w336" corresp="#w335 #w336">tiam</w> sancti Galli Grimaldo destinavit atque contradidit. Qui
+<lb n="18" xml:id="bsb00000721_00198_18"/>statim eam, in quantum valuit, causa regię auctoritatis <w lemma="optinuit" xml:id="w337" corresp="#w337 #w338">opti-</w>
+<lb n="19" xml:id="bsb00000721_00198_19"/><w lemma="optinuit" xml:id="w338" corresp="#w337 #w338">nuit</w>.
+</ab></div>
+<div type="part"><ab>
+<pb xml:id="bsb00000721_00200" n="190"/><lb n="1" xml:id="bsb00000721_00200_1"/>[De substitucione Grimaldi abbatis]
+<lb n="2" xml:id="bsb00000721_00200_2"/>8. [19.] Postquam vero divisio regni patrata est et pax inter
+<lb n="3" xml:id="bsb00000721_00200_3"/>germanos reges firmata est, Grimaldus abba ad monasterium
+<lb n="4" xml:id="bsb00000721_00200_4"/>sancti Galli veniens honorifice atque omni obsequelę suavitate a
+<lb n="5" xml:id="bsb00000721_00200_5"/>fratribus eiusdem monasterii susceptus est atque devota <w lemma="illorum" xml:id="w339" corresp="#w339 #w340">illo-</w>
+<lb n="6" xml:id="bsb00000721_00200_6"/><w lemma="illorum" xml:id="w340" corresp="#w339 #w340">rum</w> servitute sustentatus. Causa autem extitit, quam nemini
+<lb n="7" xml:id="bsb00000721_00200_7"/>miram puto videri, fratres nostros tristitia non parva agitari, eo
+<lb n="8" xml:id="bsb00000721_00200_8"/>quod securitas / electionis eorum, quę tam multis, ut ante
+<lb n="9" xml:id="bsb00000721_00200_9"/>praediximus, laboribus sepe difficillime fuerat adquisita, tam <w lemma="facile" xml:id="w341" corresp="#w341 #w342">fa-</w>
+<lb n="10" xml:id="bsb00000721_00200_10"/><w lemma="facile" xml:id="w342" corresp="#w341 #w342">cile</w> de eorum potestate deficiebat excussa. Sed huius tristitię,
+<lb n="11" xml:id="bsb00000721_00200_11"/>Domino iuvante, iocunda venerat medicina. Nam praedictus
+<lb n="12" xml:id="bsb00000721_00200_12"/>Grimaldus prioribus temporibus semper idem monasterium
+<lb n="13" xml:id="bsb00000721_00200_13"/>protegere atque erga illud clementer agere consueverat. Quam
+<lb n="14" xml:id="bsb00000721_00200_14"/>causam loco et potestate accepta non minuerat, sed augebat –
+<lb n="15" xml:id="bsb00000721_00200_15"/>magis caritatem quam suę potestatis declarans <w lemma="magnitudinem" xml:id="w343" corresp="#w343 #w344">magnitudi-</w>
+<lb n="16" xml:id="bsb00000721_00200_16"/><w lemma="magnitudinem" xml:id="w344" corresp="#w343 #w344">nem</w>. Qua confidentia monachi eum flagitare cęperunt, ut sicut
+<lb n="17" xml:id="bsb00000721_00200_17"/>in illo immunitatis privilegium amiserunt, ita cum illo <w lemma="pristin&#x119;" xml:id="w345" corresp="#w345 #w346">pri-</w>
+<lb n="18" xml:id="bsb00000721_00200_18"/><w lemma="pristin&#x119;" xml:id="w346" corresp="#w345 #w346">stinę</w> securitatis recuperarent augmentum. Quam petitionem ille
+<lb n="19" xml:id="bsb00000721_00200_19"/>gratissime suscipiens studioseque complens, a rege Hludowico
+<lb n="20" xml:id="bsb00000721_00200_20"/>permissione illis adquisita, concessit, ut statim sibi eligerent, qui
+<lb n="21" xml:id="bsb00000721_00200_21"/>post ipsum illos illorumque omnia procuraret, et postea nullam
+<lb n="22" xml:id="bsb00000721_00200_22"/>suę securitatis et proprię electionis dubitationem haberent. Qui
+<lb n="23" xml:id="bsb00000721_00200_23"/>protinus gratanter hanc benedictionem suscipientes <w lemma="Hartmotum" xml:id="w347" corresp="#w347 #w348">Hartmo-</w>
+<pb xml:id="bsb00000721_00202" n="192"/><lb n="1" xml:id="bsb00000721_00202_1"/><w lemma="Hartmotum" xml:id="w348" corresp="#w347 #w348">tum</w> elegerunt, scientia et moribus nobilitateque <w lemma="praeclarum" xml:id="w349" corresp="#w349 #w350">praecla-</w>
+<lb n="2" xml:id="bsb00000721_00202_2"/><w lemma="praeclarum" xml:id="w350" corresp="#w349 #w350">rum</w>, eumque Grimaldus / secum ad regem perduxit. [20.]
+<lb n="3" xml:id="bsb00000721_00202_3"/>Qui cum manibus regis a Grimaldo fuisset contraditus <w lemma="benigneque" xml:id="w351" corresp="#w351 #w352">benigne-</w>
+<lb n="4" xml:id="bsb00000721_00202_4"/><w lemma="benigneque" xml:id="w352" corresp="#w351 #w352">que</w> ab eo susceptus, protinus a regia potestate ipsum sancti
+<lb n="5" xml:id="bsb00000721_00202_5"/>Galli locum cum omnibus ad illum pertinentibus suscepit post
+<lb n="6" xml:id="bsb00000721_00202_6"/>Grimaldum secunda vice regendum. Eo videlicet pacto, ut post
+<lb n="7" xml:id="bsb00000721_00202_7"/>obitum Grimaldi hęc eadem electionis stabilitas a rege concessa
+<lb n="8" xml:id="bsb00000721_00202_8"/>et in Hartmoto cępta deinceps stabilissime praesentibus <w lemma="c&#x119;terisque" xml:id="w353" corresp="#w353 #w354">cęteris-</w>
+<lb n="9" xml:id="bsb00000721_00202_9"/><w lemma="c&#x119;terisque" xml:id="w354" corresp="#w353 #w354">que</w> ad eundem locum futuris signaretur et firmaretur <w lemma="mansura" xml:id="w355" corresp="#w355 #w356">mansu-</w>
+<lb n="10" xml:id="bsb00000721_00202_10"/><w lemma="mansura" xml:id="w356" corresp="#w355 #w356">ra</w>. Quo peracto Grimaldus abba cum Hartmoto lętus, <w lemma="l&#x119;tantibus" xml:id="w357" corresp="#w357 #w358">lętan-</w>
+<lb n="11" xml:id="bsb00000721_00202_11"/><w lemma="l&#x119;tantibus" xml:id="w358" corresp="#w357 #w358">tibus</w> pariter fratribus, ad monasterium rediit.
+<lb n="12" xml:id="bsb00000721_00202_12"/>Post haec igitur Grimaldus regularem in nostro monasterio
+<lb n="13" xml:id="bsb00000721_00202_13"/>vitam omni sagacitate mentisque alacritate instituere cępit.
+<lb n="14" xml:id="bsb00000721_00202_14"/>Cuius rei curam, quia ipse sepius regalibus fuerat occupatus <w lemma="officiis" xml:id="w359" corresp="#w359 #w360">of-</w>
+<lb n="15" xml:id="bsb00000721_00202_15"/><w lemma="officiis" xml:id="w360" corresp="#w359 #w360">ficiis</w>, Hartmoto iniunxit, ut spiritalis structurę ędificia in <w lemma="fratribus" xml:id="w361" corresp="#w361 #w362">fra-</w>
+<lb n="16" xml:id="bsb00000721_00202_16"/><w lemma="fratribus" xml:id="w362" corresp="#w361 #w362">tribus</w> fundaret et non minus etiam exteriora officinarum <w lemma="necessaria" xml:id="w363" corresp="#w363 #w364">neces-</w>
+<lb n="17" xml:id="bsb00000721_00202_17"/><w lemma="necessaria" xml:id="w364" corresp="#w363 #w364">saria</w> studiose construeret. /
+<lb n="18" xml:id="bsb00000721_00202_18"/>Quam indictionem Hartmotus benigna mente suscipiens <w lemma="studioseque" xml:id="w365" corresp="#w365 #w366">stu-</w>
+<lb n="19" xml:id="bsb00000721_00202_19"/><w lemma="studioseque" xml:id="w366" corresp="#w365 #w366">dioseque</w> perficiens, cum prius monachi colerent officinas suę
+<lb n="20" xml:id="bsb00000721_00202_20"/>utilitati incommodas, non multo tempore succedente omnia <w lemma="nostri" xml:id="w367" corresp="#w367 #w368">no-</w>
+<lb n="21" xml:id="bsb00000721_00202_21"/><w lemma="nostri" xml:id="w368" corresp="#w367 #w368">stri</w> claustri habitacula, quamvis prius cępta, pulcherrime ad <w lemma="perfectionem" xml:id="w369" corresp="#w369 #w370">per-</w>
+<pb xml:id="bsb00000721_00204" n="194"/><lb n="1" xml:id="bsb00000721_00204_1"/><w lemma="perfectionem" xml:id="w370" corresp="#w369 #w370">fectionem</w>, ut modo cernimus, perducta venienti Grimaldo <w lemma="consignavit" xml:id="w371" corresp="#w371 #w372">con-</w>
+<lb n="2" xml:id="bsb00000721_00204_2"/><w lemma="consignavit" xml:id="w372" corresp="#w371 #w372">signavit</w>. Nec non etiam singulare eidem abbati domicilium cum
+<lb n="3" xml:id="bsb00000721_00204_3"/>omnibus necessariis ad illud pertinentibus utilissime <w lemma="pulcherrimeque" xml:id="w373" corresp="#w373 #w374">pulcherri-</w>
+<lb n="4" xml:id="bsb00000721_00204_4"/><w lemma="pulcherrimeque" xml:id="w374" corresp="#w373 #w374">meque</w> construxit. Qua re Grimaldo apud nostros sepius <w lemma="demorante" xml:id="w375" corresp="#w375 #w376">de-</w>
+<lb n="5" xml:id="bsb00000721_00204_5"/><w lemma="demorante" xml:id="w376" corresp="#w375 #w376">morante</w> contigit nostri provectus non parum excrescere <w lemma="suavitatem" xml:id="w377" corresp="#w377 #w378">suavita-</w>
+<lb n="6" xml:id="bsb00000721_00204_6"/><w lemma="suavitatem" xml:id="w378" corresp="#w377 #w378">tem</w>. [21.] Sed sicut nox et dies sibi alternatim successerunt, ita
+<lb n="7" xml:id="bsb00000721_00204_7"/>adversa cum prosperis se sepius miscuerunt, talesque vices <w lemma="variaverunt" xml:id="w379" corresp="#w379 #w380">varia-</w>
+<lb n="8" xml:id="bsb00000721_00204_8"/><w lemma="variaverunt" xml:id="w380" corresp="#w379 #w380">verunt</w>. Venerabilis namque Constantiensis eclesię praesul
+<lb n="9" xml:id="bsb00000721_00204_9"/>nomine Salomon, cum suę sedis dignitatem non solum non
+<lb n="10" xml:id="bsb00000721_00204_10"/>minuere, sed etiam in omnibus vellet religiose accumulare, ad
+<lb n="11" xml:id="bsb00000721_00204_11"/>nostrum monasterium nuntios direxit, censum, ut sepius
+<lb n="12" xml:id="bsb00000721_00204_12"/>praefati sumus, nefanda conditione ex monasterio / ad episcopii
+<lb n="13" xml:id="bsb00000721_00204_13"/>partes condictum, sibi restitui inquirens. Quae perturbatio
+<lb n="14" xml:id="bsb00000721_00204_14"/>fratres aliqua ex parte inquietavit: maxime cum ille census ob
+<lb n="15" xml:id="bsb00000721_00204_15"/>hoc a Hludowico imperatore ita fuisset concessus, ut ipsum
+<lb n="16" xml:id="bsb00000721_00204_16"/>monasterium et ab episcopis et ab omnibus saecularibus <w lemma="potestatibus" xml:id="w381" corresp="#w381 #w382">pote-</w>
+<lb n="17" xml:id="bsb00000721_00204_17"/><w lemma="potestatibus" xml:id="w382" corresp="#w381 #w382">statibus</w> absque solis regibus fuisset absolutum. Grimaldus
+<lb n="18" xml:id="bsb00000721_00204_18"/>autem abbas cupiens omnia utrobique cum pace et caritate finiri,
+<lb n="19" xml:id="bsb00000721_00204_19"/>claustra ingrediens monasterii principes fratrum ad se <w lemma="convocavit" xml:id="w383" corresp="#w383 #w384">convo-</w>
+<lb n="20" xml:id="bsb00000721_00204_20"/><w lemma="convocavit" xml:id="w384" corresp="#w383 #w384">cavit</w>. A quibus inquirere cępit, cur censum, sicut scriptura
+<lb n="21" xml:id="bsb00000721_00204_21"/>ipsorum continebat, ad episcopatum non persolverent. Tunc
+<lb n="22" xml:id="bsb00000721_00204_22"/>Hartmotus prae ceteris respondens: „Non merito", inquit,
+<lb n="23" xml:id="bsb00000721_00204_23"/>„debemus hunc censum, sicut hactenus fecimus, persolvere."
+<lb n="24" xml:id="bsb00000721_00204_24"/>Grimaldus dixit: „Unde debet cessare census istius ad <w lemma="episcopatum" xml:id="w385" corresp="#w385 #w386">episcopa-</w>
+<pb xml:id="bsb00000721_00206" n="196"/><lb n="1" xml:id="bsb00000721_00206_1"/><w lemma="episcopatum" xml:id="w386" corresp="#w385 #w386">tum</w> donatio?" Hartmotus respondit: „Quia illa securitas et illa
+<lb n="2" xml:id="bsb00000721_00206_2"/>immunitas, quam nobis iste census liberam – regum donante
+<lb n="3" xml:id="bsb00000721_00206_3"/>clementia – usque huc fecit, a nobis penitus ablata est." <w lemma="Grimaldus" xml:id="w387" corresp="#w387 #w388">Grimal-</w>
+<lb n="4" xml:id="bsb00000721_00206_4"/><w lemma="Grimaldus" xml:id="w388" corresp="#w387 #w388">dus</w> dixit: „Ob quam causam et per quem eadem libertas vobis
+<lb n="5" xml:id="bsb00000721_00206_5"/>ablata est?" / Hartmotus respondit: „Utique propter vos, quia
+<lb n="6" xml:id="bsb00000721_00206_6"/>enim vobis in beneficium traditi sumus, ideo episcopo <w lemma="censum" xml:id="w389" corresp="#w389 #w390">cen-</w>
+<lb n="7" xml:id="bsb00000721_00206_7"/><w lemma="censum" xml:id="w390" corresp="#w389 #w390">sum</w> persolvere non debemus. In vestrę enim dominationis <w lemma="servitute" xml:id="w391" corresp="#w391 #w392">ser-</w>
+<lb n="8" xml:id="bsb00000721_00206_8"/><w lemma="servitute" xml:id="w392" corresp="#w391 #w392">vitute</w> nobis sufficere credimus, et ideo in diversa partiri <w lemma="nequimus" xml:id="w393" corresp="#w393 #w394">nequi-</w>
+<lb n="9" xml:id="bsb00000721_00206_9"/><w lemma="nequimus" xml:id="w394" corresp="#w393 #w394">mus</w>." [22.] His auditis Grimaldus ex illo tempore cępit cogitare,
+<lb n="10" xml:id="bsb00000721_00206_10"/>rogantibus Hartmoto et reliquis fratribus, atque cum illis <w lemma="pertractare" xml:id="w395" corresp="#w395 #w396">per-</w>
+<lb n="11" xml:id="bsb00000721_00206_11"/><w lemma="pertractare" xml:id="w396" corresp="#w395 #w396">tractare</w>, qualiter ipsum monasterium et ab istius census et ab
+<lb n="12" xml:id="bsb00000721_00206_12"/>omni inquietudinis liberaretur molestia. Quod ita peractum in
+<lb n="13" xml:id="bsb00000721_00206_13"/>sequentibus Deo miserante monstrabimus. Exinde igitur <w lemma="utriusque" xml:id="w397" corresp="#w397 #w398">utrius-</w>
+<lb n="14" xml:id="bsb00000721_00206_14"/><w lemma="utriusque" xml:id="w398" corresp="#w397 #w398">que</w> loci rectores, episcopii videlicet et monasterii, cum sibi
+<lb n="15" xml:id="bsb00000721_00206_15"/>subiectis perquirere cęperunt, qualiter salubritas pacis inter
+<lb n="16" xml:id="bsb00000721_00206_16"/>utrumque locum ita statueretur et firmaretur, ut absque <w lemma="discordia" xml:id="w399" corresp="#w399 #w400">discor-</w>
+<lb n="17" xml:id="bsb00000721_00206_17"/><w lemma="discordia" xml:id="w400" corresp="#w399 #w400">dia</w> quandoque liceret utrisque Christi servitio inherere. Cum
+<lb n="18" xml:id="bsb00000721_00206_18"/>vero huius consilii prolixitas sepius utrimque pertractaretur,
+<lb n="19" xml:id="bsb00000721_00206_19"/>tandem salubri consilio reperto rectores praefati <w lemma="consentientibus" xml:id="w401" corresp="#w401 #w402">consentienti-</w>
+<lb n="20" xml:id="bsb00000721_00206_20"/><w lemma="consentientibus" xml:id="w402" corresp="#w401 #w402">bus</w> partis utriusque familiis invenerunt et decreverunt, ut
+<lb n="21" xml:id="bsb00000721_00206_21"/>quędam possessiones de monasterio ad episcopatum <w lemma="contraderentur" xml:id="w403" corresp="#w403 #w404">contrade-</w>
+<lb n="22" xml:id="bsb00000721_00206_22"/><w lemma="contraderentur" xml:id="w404" corresp="#w403 #w404">rentur</w>, per quarum / donationem monasterium ab episcopatu
+<lb n="23" xml:id="bsb00000721_00206_23"/>segregaretur et ab omni census molestia deinceps redderetur
+<lb n="24" xml:id="bsb00000721_00206_24"/>securum. Quod decretum ab episcopo et abbate inventum <w lemma="placuit" xml:id="w405" corresp="#w405 #w406">pla-</w>
+<lb n="25" xml:id="bsb00000721_00206_25"/><w lemma="placuit" xml:id="w406" corresp="#w405 #w406">cuit</w> ambobus, episcopii videlicet filiis et monasterii incolis.
+<pb xml:id="bsb00000721_00208" n="198"/><lb n="1" xml:id="bsb00000721_00208_1"/>[23.] Interea contigit Hludowicum piissimum regem publice
+<lb n="2" xml:id="bsb00000721_00208_2"/>placitum suum habere in villa, quę dicitur Ulma, praesentibus
+<lb n="3" xml:id="bsb00000721_00208_3"/>filiis suis aliisque regni sui principibus. Ad quod placitum istius
+<lb n="4" xml:id="bsb00000721_00208_4"/>conventionis causa perlata est, et cępit exinde rex sollerter et
+<lb n="5" xml:id="bsb00000721_00208_5"/>caute cum suis cogitare atque pertractare. Cumque summates,
+<lb n="6" xml:id="bsb00000721_00208_6"/>qui aderant, in bonam partem causam declinare studerent, <w lemma="tandem" xml:id="w407" corresp="#w407 #w408">tan-</w>
+<lb n="7" xml:id="bsb00000721_00208_7"/><w lemma="tandem" xml:id="w408" corresp="#w407 #w408">dem</w> piissimus princeps ab episcopo et abbate monachisque, qui
+<lb n="8" xml:id="bsb00000721_00208_8"/>aderant, inquisivit, si utraque pars, monachorum videlicet et <w lemma="clericorum" xml:id="w409" corresp="#w409 #w410">cle-</w>
+<lb n="9" xml:id="bsb00000721_00208_9"/><w lemma="clericorum" xml:id="w410" corresp="#w409 #w410">ricorum</w>, in hac re consentiret. Responsum est ab abbate et <w lemma="monachis" xml:id="w411" corresp="#w411 #w412">mo-</w>
+<lb n="10" xml:id="bsb00000721_00208_10"/><w lemma="monachis" xml:id="w412" corresp="#w411 #w412">nachis</w>, qui aderant, in hac voluntate se cunctamque illorum
+<lb n="11" xml:id="bsb00000721_00208_11"/>congregationem persistere. Similiter et episcopus interrogatus
+<lb n="12" xml:id="bsb00000721_00208_12"/>pro se suisque similem reddidit istius consensus responsionem.
+<lb n="13" xml:id="bsb00000721_00208_13"/>/ Rex vero, cum ambarum partium conspiceret unitatem, sese
+<lb n="14" xml:id="bsb00000721_00208_14"/>huic pacto interposuit medium atque in semet omne negotium
+<lb n="15" xml:id="bsb00000721_00208_15"/>assumens cum manu sua potestative res praedictas ad <w lemma="episcopatum" xml:id="w413" corresp="#w413 #w414">episcopa-</w>
+<lb n="16" xml:id="bsb00000721_00208_16"/><w lemma="episcopatum" xml:id="w414" corresp="#w413 #w414">tum</w> contradidit, atque cum ipsa manu similiter potestative ab
+<lb n="17" xml:id="bsb00000721_00208_17"/>episcopio monasterium abstulit penitusque diremit, ita ut <w lemma="deinceps" xml:id="w415" corresp="#w415 #w416">dein-</w>
+<lb n="18" xml:id="bsb00000721_00208_18"/><w lemma="deinceps" xml:id="w416" corresp="#w415 #w416">ceps</w> nullam potestatem episcopi in rebus eiusdem monasterii
+<lb n="19" xml:id="bsb00000721_00208_19"/>haberent, neque in censu, neque in ulla alia simili causa, praeter
+<lb n="20" xml:id="bsb00000721_00208_20"/>spiritalem tantummodo episcopalis officii dignitatem, sed pura
+<lb n="21" xml:id="bsb00000721_00208_21"/>mente ex hoc et deinceps licentiam haberent monachi idem Deo
+<lb n="22" xml:id="bsb00000721_00208_22"/>servire nullique sęculari potestati, nisi solis regibus, <w lemma="subiacerent" xml:id="w417" corresp="#w417 #w418">subiace-</w>
+<lb n="23" xml:id="bsb00000721_00208_23"/><w lemma="subiacerent" xml:id="w418" corresp="#w417 #w418">rent</w>. [24.] Haec confirmatio cum regia auctoritate circa
+<lb n="24" xml:id="bsb00000721_00208_24"/>utramque partem fuerit stabilita, oriebatur et alterius similis
+<lb n="25" xml:id="bsb00000721_00208_25"/>causę necessitas in praesenti, quę et protinus in eodem concilio
+<lb n="26" xml:id="bsb00000721_00208_26"/>penitus finiebatur. Nam cum ipsa loca ita unitate fuissent antea
+<pb xml:id="bsb00000721_00210" n="200"/><lb n="1" xml:id="bsb00000721_00210_1"/>copulata, ut velut uni semper viderentur cedere potestati, huius
+<lb n="2" xml:id="bsb00000721_00210_2"/>causa communionis quidam hereditatem suam ad Constantiam /
+<lb n="3" xml:id="bsb00000721_00210_3"/>census debito cedentem monasterio contradiderunt, et econtra
+<lb n="4" xml:id="bsb00000721_00210_4"/>tributarii monasterii eandem tributariam hereditatem ad <w lemma="episcopatum" xml:id="w419" corresp="#w419 #w420">episco-</w>
+<lb n="5" xml:id="bsb00000721_00210_5"/><w lemma="episcopatum" xml:id="w420" corresp="#w419 #w420">patum</w> contradiderunt. Et ut in hoc etiam penitus omnis
+<lb n="6" xml:id="bsb00000721_00210_6"/>dissensio auferretur, idem rex de parte monasterii <w lemma="consentientibus" xml:id="w421" corresp="#w421 #w422">consentien-</w>
+<lb n="7" xml:id="bsb00000721_00210_7"/><w lemma="consentientibus" xml:id="w422" corresp="#w421 #w422">tibus</w> abbate et fratribus quasdam res ad Constantiam <w lemma="condonavit" xml:id="w423" corresp="#w423 #w424">con-</w>
+<lb n="8" xml:id="bsb00000721_00210_8"/><w lemma="condonavit" xml:id="w424" corresp="#w423 #w424">donavit</w>. Ea videlicet ratione, ut omnia, quae tunc in potestate
+<lb n="9" xml:id="bsb00000721_00210_9"/>monasterii erant, vel a praefatis tributariis illuc delegata, vel
+<lb n="10" xml:id="bsb00000721_00210_10"/>qualicumque modo ibidem confirmata, postea sine ullius <w lemma="contradictione" xml:id="w425" corresp="#w425 #w426">con-</w>
+<lb n="11" xml:id="bsb00000721_00210_11"/><w lemma="contradictione" xml:id="w426" corresp="#w425 #w426">tradictione</w> personę firmarentur ibidem in perpetuum <w lemma="permansura" xml:id="w427" corresp="#w427 #w428">per-</w>
+<lb n="12" xml:id="bsb00000721_00210_12"/><w lemma="permansura" xml:id="w428" corresp="#w427 #w428">mansura</w>.
+<lb n="13" xml:id="bsb00000721_00210_13"/>[25.] His vero ita a clementi rege omni cum consensu <w lemma="compositis" xml:id="w429" corresp="#w429 #w430">compo-</w>
+<lb n="14" xml:id="bsb00000721_00210_14"/><w lemma="compositis" xml:id="w430" corresp="#w429 #w430">sitis</w>, iussit idem rex suę auctoritatis praeceptum utrique parti ad
+<lb n="15" xml:id="bsb00000721_00210_15"/>perpetuam confirmationem istius pacti statim in praesenti <w lemma="conscribi" xml:id="w431" corresp="#w431 #w432">con-</w>
+<lb n="16" xml:id="bsb00000721_00210_16"/><w lemma="conscribi" xml:id="w432" corresp="#w431 #w432">scribi</w>. Et ut cautius hęc eadem firmitatis scriptura <w lemma="communiretur" xml:id="w433" corresp="#w433 #w434">communire-</w>
+<lb n="17" xml:id="bsb00000721_00210_17"/><w lemma="communiretur" xml:id="w434" corresp="#w433 #w434">tur</w>, praecepit primitus tantummodo dictatam et in aliqua scęda
+<lb n="18" xml:id="bsb00000721_00210_18"/>conscriptam sibi praesentari. Et cum ille causam comprobaret,
+<lb n="19" xml:id="bsb00000721_00210_19"/>tunc demum cancellario praecepit in legitimis cartis conscribere
+<lb n="20" xml:id="bsb00000721_00210_20"/>praefati pacti confirmationem. / Et cum perscriptę fuissent,
+<lb n="21" xml:id="bsb00000721_00210_21"/>proprię manus auctoritate eas confirmans, unam episcopo cum
+<lb n="22" xml:id="bsb00000721_00210_22"/>suis aliamque abbati monachisque contradidit perpetue <w lemma="firmitatis" xml:id="w435" corresp="#w435 #w436">firmi-</w>
+<lb n="23" xml:id="bsb00000721_00210_23"/><w lemma="firmitatis" xml:id="w436" corresp="#w435 #w436">tatis</w> sine aliqua eversione ita retinendas indicio. Quisquis <w lemma="autem" xml:id="w437" corresp="#w437 #w438">au-</w>
+<pb xml:id="bsb00000721_00212" n="202"/><lb n="1" xml:id="bsb00000721_00212_1"/><w lemma="autem" xml:id="w438" corresp="#w437 #w438">tem</w> vult scire, quantę fuerint causae ob redemptionem praedicti
+<lb n="2" xml:id="bsb00000721_00212_2"/>census et monasterii securitatem et praeterea ob tributariorum
+<lb n="3" xml:id="bsb00000721_00212_3"/>praedictorum reconciliationem ad episcopatum contraditę, legat
+<lb n="4" xml:id="bsb00000721_00212_4"/>in cartis supra memoratis, et invenire poterit, quod quaerit.
+<lb n="5" xml:id="bsb00000721_00212_5"/>Pręterea rex piissimus Hludowicus statim iussit monachis fieri
+<lb n="6" xml:id="bsb00000721_00212_6"/>aliam cartam firmissimę immunitatis, ut post Grimaldum <w lemma="deinceps" xml:id="w439" corresp="#w439 #w440">dein-</w>
+<lb n="7" xml:id="bsb00000721_00212_7"/><w lemma="deinceps" xml:id="w440" corresp="#w439 #w440">ceps</w> potestatem in perpetuum haberent eligendi sibi abbates
+<lb n="8" xml:id="bsb00000721_00212_8"/>nullique hominum, nisi solis regibus, subiacerent; et in eadem
+<lb n="9" xml:id="bsb00000721_00212_9"/>carta conscribi iussit regia dona sibimetipsi secundum <w lemma="consuetudinem" xml:id="w441" corresp="#w441 #w442">consuetu-</w>
+<lb n="10" xml:id="bsb00000721_00212_10"/><w lemma="consuetudinem" xml:id="w442" corresp="#w441 #w442">dinem</w> aliorum monasteriorum securitate praeditorum <w lemma="quotannis" xml:id="w443" corresp="#w443 #w444">quotan-</w>
+<lb n="11" xml:id="bsb00000721_00212_11"/><w lemma="quotannis" xml:id="w444" corresp="#w443 #w444">nis</w> ventura, id est duos caballos et duo scuta cum lanceis. Et
+<lb n="12" xml:id="bsb00000721_00212_12"/>sic etiam istam cartam sua manu confirmatam proprioque
+<lb n="13" xml:id="bsb00000721_00212_13"/>anulo / consignatam monachis tradens laetos eos in sua redire
+<lb n="14" xml:id="bsb00000721_00212_14"/>permisit.
+</ab></div>
+<div type="part"><ab>
+<lb n="15" xml:id="bsb00000721_00212_15"/>[De regimine Hartmoti, Grimaldo abbate adhuc vivente]
+<lb n="16" xml:id="bsb00000721_00212_16"/>9. [26.] His ita Deo disponente peractis Grimaldus abbas,
+<lb n="17" xml:id="bsb00000721_00212_17"/>omnia monasterii negotia Hartmoto commendans, ipse securus
+<lb n="18" xml:id="bsb00000721_00212_18"/>regali se frequentabat exhibere praesentię. Hartmotus itaque
+<lb n="19" xml:id="bsb00000721_00212_19"/>cum fratribus tandem optatae securitatis quiete percepta <w lemma="operibus" xml:id="w445" corresp="#w445 #w446">operi-</w>
+<lb n="20" xml:id="bsb00000721_00212_20"/><w lemma="operibus" xml:id="w446" corresp="#w445 #w446">bus</w> necessariis totis studebat insistere nisibus. Atque inprimis
+<lb n="21" xml:id="bsb00000721_00212_21"/>templum Dei in honore sancti Galli constructum variis cępit <w lemma="ornamentis" xml:id="w447" corresp="#w447 #w448">or-</w>
+<lb n="22" xml:id="bsb00000721_00212_22"/><w lemma="ornamentis" xml:id="w448" corresp="#w447 #w448">namentis</w> decorare et sublimare. Principio vero tumbam <w lemma="sancti" xml:id="w449" corresp="#w449 #w450">sanc-</w>
+<pb xml:id="bsb00000721_00214" n="204"/><lb n="1" xml:id="bsb00000721_00214_1"/><w lemma="sancti" xml:id="w450" corresp="#w449 #w450">ti</w> Galli cum reliquis altaribus et analogio atque confessione
+<lb n="2" xml:id="bsb00000721_00214_2"/>ita innovari maximaque ex parte totum ex integro fecit ędificari,
+<lb n="3" xml:id="bsb00000721_00214_3"/>sicut hodie videtur et cernitur. Pręterea coronis argenteis <w lemma="aliisque" xml:id="w451" corresp="#w451 #w452">ali-</w>
+<lb n="4" xml:id="bsb00000721_00214_4"/><w lemma="aliisque" xml:id="w452" corresp="#w451 #w452">isque</w> diversis luminaribus pariter cum multimodis variorum <w lemma="ornamentorum" xml:id="w453" corresp="#w453 #w454">or-</w>
+<lb n="5" xml:id="bsb00000721_00214_5"/><w lemma="ornamentorum" xml:id="w454" corresp="#w453 #w454">namentorum</w> splendoribus ipsam magnopere studuit insignire
+<lb n="6" xml:id="bsb00000721_00214_6"/>basilicam. Absidam quoque post altarium sancti Galli ita
+<lb n="7" xml:id="bsb00000721_00214_7"/>honorifice pictura deaurata, sicut in praesenti videmus, ipso
+<lb n="8" xml:id="bsb00000721_00214_8"/>composuit tempore. Librorum etiam non parvam / copiam sub
+<lb n="9" xml:id="bsb00000721_00214_9"/>eodem abbate Hartmotus composuit, quorum nomina hęc
+<lb n="10" xml:id="bsb00000721_00214_10"/>esse scias:
+<lb n="11" xml:id="bsb00000721_00214_11"/>Quinque libros Moysi, Iosue Iudicumque in volumine I.
+<lb n="12" xml:id="bsb00000721_00214_12"/>Regum libros IIII in volumine uno.
+<lb n="13" xml:id="bsb00000721_00214_13"/>Tres libros Salomonis et librum Sapientię vel Iesu, Iob et <w lemma="Tobiam" xml:id="w455" corresp="#w455 #w456">To-</w>
+<lb n="14" xml:id="bsb00000721_00214_14"/><w lemma="Tobiam" xml:id="w456" corresp="#w455 #w456">biam</w> in volumine uno.
+<lb n="15" xml:id="bsb00000721_00214_15"/>Paralipomenon, Iudith, Hester et Hesdram <w lemma="Machabeorumque" xml:id="w457" corresp="#w457 #w458">Machabeorum-</w>
+<lb n="16" xml:id="bsb00000721_00214_16"/><w lemma="Machabeorumque" xml:id="w458" corresp="#w457 #w458">que</w> libros II in volumine I.
+<lb n="17" xml:id="bsb00000721_00214_17"/>Omnes prophetas in volumine I.
+<lb n="18" xml:id="bsb00000721_00214_18"/>Epistolas Pauli, Actus Apostolorum, VII epistolas canonicas
+<lb n="19" xml:id="bsb00000721_00214_19"/>et Apocalypsin Iohannis in volumine I.
+<pb xml:id="bsb00000721_00216" n="206"/><lb n="1" xml:id="bsb00000721_00216_1"/>Sancti Augustini super Iohannem, partem <hi rend="ITALICS">II</hi><hi rend="super">am</hi> et III<hi rend="super">am</hi>.
+<lb n="2" xml:id="bsb00000721_00216_2"/>XXII libros de civitate Dei in duobus voluminibus.
+<lb n="3" xml:id="bsb00000721_00216_3"/>Augustini de civitate Dei libros XV in volumine I.
+<lb n="4" xml:id="bsb00000721_00216_4"/>Contra Faustum Manicheum libros duos in volumine I.
+<lb n="5" xml:id="bsb00000721_00216_5"/>LXXXII quęstiones et contra adversarium legis et <w lemma="prophetarum" xml:id="w459" corresp="#w459 #w460">prophe-</w>
+<lb n="6" xml:id="bsb00000721_00216_6"/><w lemma="prophetarum" xml:id="w460" corresp="#w459 #w460">tarum</w> in volumine I.
+<lb n="7" xml:id="bsb00000721_00216_7"/>Augustini super psalmos VI volumina.
+<lb n="8" xml:id="bsb00000721_00216_8"/>Item de eisdem libris in voluminibus duobus excerpta valde
+<lb n="9" xml:id="bsb00000721_00216_9"/>necessaria. /
+<lb n="10" xml:id="bsb00000721_00216_10"/>Libros XII confessionum sancti Augustini.
+<lb n="11" xml:id="bsb00000721_00216_11"/>Eiusdem libros VII de baptismo.
+<lb n="12" xml:id="bsb00000721_00216_12"/>In Genesim ad litteram libros XII.
+<lb n="13" xml:id="bsb00000721_00216_13"/>Sancti Ambrosii contra Arrianos liber I et epistola eius et
+<lb n="14" xml:id="bsb00000721_00216_14"/>sancti Augustini contra eosdem in volumine I pusillo.
+<pb xml:id="bsb00000721_00218" n="208"/><lb n="1" xml:id="bsb00000721_00218_1"/>De doctrina christiana libri IIII in volumine I.
+<lb n="2" xml:id="bsb00000721_00218_2"/>Recapitulationes sancti Augustini.
+<lb n="3" xml:id="bsb00000721_00218_3"/>Lectionarium ad basilicam.
+<lb n="4" xml:id="bsb00000721_00218_4"/>Duo volumina epistolarum sancti Hieronimi.
+<lb n="5" xml:id="bsb00000721_00218_5"/>Omelias Iohannis Crysostomi et de compunctione cordis ac
+<lb n="6" xml:id="bsb00000721_00218_6"/>reparatione lapsi in volumine I.
+<lb n="7" xml:id="bsb00000721_00218_7"/>Sancti Hilarii super Matheum volumen I.
+<lb n="8" xml:id="bsb00000721_00218_8"/>Collectarios duos in singulis voluminibus de adventu Domini
+<lb n="9" xml:id="bsb00000721_00218_9"/>usque in pascha.
+<lb n="10" xml:id="bsb00000721_00218_10"/>Sancti Ambrosii episcopi in evangelium secundum Lucam in
+<lb n="11" xml:id="bsb00000721_00218_11"/>volumine I.
+<lb n="12" xml:id="bsb00000721_00218_12"/>Eiusdem in epistolas Pauli volumina II.
+<lb n="13" xml:id="bsb00000721_00218_13"/>Eiusdem de bono mortis et Hieronimi in Apocalypsin <w lemma="Iohannis" xml:id="w461" corresp="#w461 #w462">Io-</w>
+<lb n="14" xml:id="bsb00000721_00218_14"/><w lemma="Iohannis" xml:id="w462" corresp="#w461 #w462">hannis</w> in volumine I.
+<lb n="15" xml:id="bsb00000721_00218_15"/>Victorini de sancta trinitate.
+<pb xml:id="bsb00000721_00220" n="210"/><lb n="1" xml:id="bsb00000721_00220_1"/>Librum sancti Clementis. /
+<lb n="2" xml:id="bsb00000721_00220_2"/>Passionales duos in duobus voluminibus.
+<lb n="3" xml:id="bsb00000721_00220_3"/>Cassiodori super omnes psalmos in tribus voluminibus.
+<lb n="4" xml:id="bsb00000721_00220_4"/>Bedę super Cantica Canticorum.
+<lb n="5" xml:id="bsb00000721_00220_5"/>Collationum patrum tertiam et quartam partem.
+<lb n="6" xml:id="bsb00000721_00220_6"/>Regulam sancti Benedicti et reliquorum patrum in <w lemma="volumine" xml:id="w463" corresp="#w463 #w464">volu-</w>
+<lb n="7" xml:id="bsb00000721_00220_7"/><w lemma="volumine" xml:id="w464" corresp="#w463 #w464">mine</w> I.
+<lb n="8" xml:id="bsb00000721_00220_8"/>Explanationem super lectiones in volumine I.
+<lb n="9" xml:id="bsb00000721_00220_9"/>Libros ęthimologiarum Isidori in volumine I.
+<lb n="10" xml:id="bsb00000721_00220_10"/>Iosephi de antiquitate Iudaica libros XII in volumine I.
+<lb n="11" xml:id="bsb00000721_00220_11"/>Item libros IIII in volumine I.
+<pb xml:id="bsb00000721_00222" n="212"/><lb n="1" xml:id="bsb00000721_00222_1"/>Item eiusdem de bello Iudaico libros VII in volumine I.
+<lb n="2" xml:id="bsb00000721_00222_2"/>Excerpta de Pompeio in volumine I.
+<lb n="3" xml:id="bsb00000721_00222_3"/>Gesta Alexandri in volumine I.
+<lb n="4" xml:id="bsb00000721_00222_4"/>Librum ymnorum Optimum.
+<lb n="5" xml:id="bsb00000721_00222_5"/>Grammaticam Prisciani in volumine I.
+<lb n="6" xml:id="bsb00000721_00222_6"/>Librum canonum.
+<lb n="7" xml:id="bsb00000721_00222_7"/>Passionalem apostolorum.
+<lb n="8" xml:id="bsb00000721_00222_8"/>Passionem sanctorum Sergii et Bachi.
+<lb n="9" xml:id="bsb00000721_00222_9"/>Vitas [patrum, quas dicunt maiores].
+<lb n="10" xml:id="bsb00000721_00222_10"/>Chronicam Eusebii et Hieronimi.
+<lb n="11" xml:id="bsb00000721_00222_11"/>Tractatum Origenis in epistolam Pauli ad Romanos. /
+<lb n="12" xml:id="bsb00000721_00222_12"/>Rhabani episcopi in posteriorem partem Hieremiae <w lemma="prophet&#x119;" xml:id="w465" corresp="#w465 #w466">pro-</w>
+<lb n="13" xml:id="bsb00000721_00222_13"/><w lemma="prophet&#x119;" xml:id="w466" corresp="#w465 #w466">phetę</w> volumen I.
+<pb xml:id="bsb00000721_00224" n="214"/><lb n="1" xml:id="bsb00000721_00224_1"/>Item epistolas Pauli apostoli et VII epistolas canonicas in <w lemma="volumine" xml:id="w467" corresp="#w467 #w468">vo-</w>
+<lb n="2" xml:id="bsb00000721_00224_2"/><w lemma="volumine" xml:id="w468" corresp="#w467 #w468">lumine</w> uno.
+<lb n="3" xml:id="bsb00000721_00224_3"/>Actus Apostolorum et Apokalipsin in volumine I.
+<lb n="4" xml:id="bsb00000721_00224_4"/>Vitam sancti Columbae in volumine I.
+<lb n="5" xml:id="bsb00000721_00224_5"/>Item Iob, Tobiam, Iudith et Hester in volumine I.
+<lb n="6" xml:id="bsb00000721_00224_6"/>Visiones Wettini et Baronti.
+<lb n="7" xml:id="bsb00000721_00224_7"/>[27.] Pręterea etiam idem Hartmotus sub Grimaldi <w lemma="temporibus" xml:id="w469" corresp="#w469 #w470">tempori-</w>
+<lb n="8" xml:id="bsb00000721_00224_8"/><w lemma="temporibus" xml:id="w470" corresp="#w469 #w470">bus</w> ipsa fratrum necessaria, in quantum potuit, meliorare
+<lb n="9" xml:id="bsb00000721_00224_9"/>studuit et augere, quod tunc constitutum usque hodie similiter
+<lb n="10" xml:id="bsb00000721_00224_10"/>permanet firmum. Temporibus etiam illis, exigentibus <w lemma="meritorum" xml:id="w471" corresp="#w471 #w472">meri-</w>
+<lb n="11" xml:id="bsb00000721_00224_11"/><w lemma="meritorum" xml:id="w472" corresp="#w471 #w472">torum</w> eius insigniis, corpus sancti Otmari de ecclesia sancti
+<lb n="12" xml:id="bsb00000721_00224_12"/>Petri festive sublatum in basilicam sancti Galli cum debita <w lemma="laudum" xml:id="w473" corresp="#w473 #w474">lau-</w>
+<lb n="13" xml:id="bsb00000721_00224_13"/><w lemma="laudum" xml:id="w474" corresp="#w473 #w474">dum</w> honorificentia est perlatum, praesente Grimaldo abbate
+<lb n="14" xml:id="bsb00000721_00224_14"/>et archicapellano regis Hludowici et Salomone <w lemma="Constantiensis" xml:id="w475" corresp="#w475 #w476">Constantien-</w>
+<lb n="15" xml:id="bsb00000721_00224_15"/><w lemma="Constantiensis" xml:id="w476" corresp="#w475 #w476">sis</w> ecclesię episcopo cum cetero innumerabili populo, IIII.
+<lb n="16" xml:id="bsb00000721_00224_16"/>feria sub octavo Kalendarum Novembrium die, / anno <w lemma="incarnationis" xml:id="w477" corresp="#w477 #w478">incarna-</w>
+<lb n="17" xml:id="bsb00000721_00224_17"/><w lemma="incarnationis" xml:id="w478" corresp="#w477 #w478">tionis</w> dominicę DCCCLXIIII. Collocatum est autem corpus
+<lb n="18" xml:id="bsb00000721_00224_18"/>sancti viri in ecclesia sancti Galli iuxta altarium sancti Iohannis
+<pb xml:id="bsb00000721_00226" n="216"/><lb n="1" xml:id="bsb00000721_00226_1"/>Baptistę, ubi magna miraculorum abundantia meritorum eius
+<lb n="2" xml:id="bsb00000721_00226_2"/>claruere praeconia, usque dum nova sibi ędificata basilica,
+<lb n="3" xml:id="bsb00000721_00226_3"/>quae statim in brevi tempore est peracta, tumbaque argento et
+<lb n="4" xml:id="bsb00000721_00226_4"/>auro sibi parata, honorifice in eam sancti viri exuvię sunt <w lemma="perlat&#x119;" xml:id="w479" corresp="#w479 #w480">per-</w>
+<lb n="5" xml:id="bsb00000721_00226_5"/><w lemma="perlat&#x119;" xml:id="w480" corresp="#w479 #w480">latę</w>. Quae basilica etiam post tempora Grimaldi ab Hartmoto
+<lb n="6" xml:id="bsb00000721_00226_6"/>abbate, ita ut hodie videtur, aucta est atque constructa, tumba
+<lb n="7" xml:id="bsb00000721_00226_7"/>videlicet et altari plenius decoratis.
+<lb n="8" xml:id="bsb00000721_00226_8"/>[28.] Post hęc igitur temporum transeunte curriculo <w lemma="Grimaldus" xml:id="w481" corresp="#w481 #w482">Grimal-</w>
+<lb n="9" xml:id="bsb00000721_00226_9"/><w lemma="Grimaldus" xml:id="w482" corresp="#w481 #w482">dus</w> abbas, cum iam ętatis plurimos dies haberet, cępit sedulo in
+<lb n="10" xml:id="bsb00000721_00226_10"/>nostro monasterio commorari, cupiens reliquum vitae suae <w lemma="tempus" xml:id="w483" corresp="#w483 #w484">tem-</w>
+<lb n="11" xml:id="bsb00000721_00226_11"/><w lemma="tempus" xml:id="w484" corresp="#w483 #w484">pus</w> cum quiete transigere et in Christi ducere servitute. <w lemma="Hartmotus" xml:id="w485" corresp="#w485 #w486">Hart-</w>
+<lb n="12" xml:id="bsb00000721_00226_12"/><w lemma="Hartmotus" xml:id="w486" corresp="#w485 #w486">motus</w> vero praecipiente Grimaldo omnes labores et itinera, sive
+<lb n="13" xml:id="bsb00000721_00226_13"/>ad curtem, sive in expeditionem et ad omnes alias necessitates,
+<lb n="14" xml:id="bsb00000721_00226_14"/>vice illius strenue complevit omniumque curam negotiorum in
+<lb n="15" xml:id="bsb00000721_00226_15"/>semet accepit. / Ipse autem Grimaldus, cum alia loca et <w lemma="monasteria" xml:id="w487" corresp="#w487 #w488">mo-</w>
+<lb n="16" xml:id="bsb00000721_00226_16"/><w lemma="monasteria" xml:id="w488" corresp="#w487 #w488">nasteria</w> suae dicioni habuisset subiecta, in hoc monasterio
+<lb n="17" xml:id="bsb00000721_00226_17"/>praecipue cupiens finem dierum suorum expectare, cępit <w lemma="studiosissime" xml:id="w489" corresp="#w489 #w490">stu-</w>
+<lb n="18" xml:id="bsb00000721_00226_18"/><w lemma="studiosissime" xml:id="w490" corresp="#w489 #w490">diosissime</w> monachicis se exercere disciplinis, et licet habitu non
+<lb n="19" xml:id="bsb00000721_00226_19"/>esset, conversatione tamen et voto monachus existebat. <w lemma="Orationibus" xml:id="w491" corresp="#w491 #w492">Ora-</w>
+<lb n="20" xml:id="bsb00000721_00226_20"/><w lemma="Orationibus" xml:id="w492" corresp="#w491 #w492">tionibus</w> sepius insistebat, elemosinarum largitatem solus prae
+<lb n="21" xml:id="bsb00000721_00226_21"/>ceteris possidebat, in tantum ut pater pauperum vocaretur
+<lb n="22" xml:id="bsb00000721_00226_22"/>et esset. His itaque aliisque similibus bonarum virtutum <w lemma="profectibus" xml:id="w493" corresp="#w493 #w494">profec-</w>
+<pb xml:id="bsb00000721_00228" n="218"/><lb n="1" xml:id="bsb00000721_00228_1"/><w lemma="profectibus" xml:id="w494" corresp="#w493 #w494">tibus</w> cottidie crescens, senex et plenus dierum in confessione
+<lb n="2" xml:id="bsb00000721_00228_2"/>verę fidei de hac luce Domino vocante altitudinem conscendit, ut
+<lb n="3" xml:id="bsb00000721_00228_3"/>credimus, lucis perpetuę, atque in eodem monasterio cum omni
+<lb n="4" xml:id="bsb00000721_00228_4"/>honore et debita veneratione sepultus requiescit in Domino.
+<lb n="5" xml:id="bsb00000721_00228_5"/>Contigit autem transitus eius Idibus Iuniis, VI. feria in primo
+<lb n="6" xml:id="bsb00000721_00228_6"/>ortu solis, anno incarnationis dominicę DCCCLXXII.
+<lb n="7" xml:id="bsb00000721_00228_7"/>Rexit autem monasterium nostrum feliciter per annos XXX et
+<lb n="8" xml:id="bsb00000721_00228_8"/>unum.
+<lb n="9" xml:id="bsb00000721_00228_9"/><hi rend="ITALICS">Pręmia tantorum cui dona, Christe, laborum</hi>
+<lb n="10" xml:id="bsb00000721_00228_10"/><hi rend="ITALICS">Huicque polum tribuas, qui sydera celsa crearas.</hi>
+<lb n="11" xml:id="bsb00000721_00228_11"/><hi rend="ITALICS">Matheus, Marcus, Lucas pariterque Iohannes l</hi>
+<lb n="12" xml:id="bsb00000721_00228_12"/><hi rend="ITALICS">Sint illi comites, quorum celebrabat honores.</hi>
+</ab></div>
+<div type="part"><ab>
+<lb n="13" xml:id="bsb00000721_00228_13"/>[De electione Hartmoti in abbatem Grimaldo mortuo]
+<lb n="14" xml:id="bsb00000721_00228_14"/>[29.] Post obitum vero Grimaldi fratres iuxta permissam sibi
+<lb n="15" xml:id="bsb00000721_00228_15"/>licentiam protinus cum maximo unanimitatis consensu <w lemma="Hartmotum" xml:id="w495" corresp="#w495 #w496">Hartmo-</w>
+<lb n="16" xml:id="bsb00000721_00228_16"/><w lemma="Hartmotum" xml:id="w496" corresp="#w495 #w496">tum</w> sibi elegerunt abbatem. Cum quo pariter quidam de
+<lb n="17" xml:id="bsb00000721_00228_17"/>senioribus fratrum ad piissimum regem Hludowicum <w lemma="devenerunt" xml:id="w497" corresp="#w497 #w498">devene-</w>
+<lb n="18" xml:id="bsb00000721_00228_18"/><w lemma="devenerunt" xml:id="w498" corresp="#w497 #w498">runt</w>. Qui cum eorum consensum et desiderium comperisset, <w lemma="sicut" xml:id="w499" corresp="#w499 #w500">si-</w>
+<lb n="19" xml:id="bsb00000721_00228_19"/><w lemma="sicut" xml:id="w500" corresp="#w499 #w500">cut</w> prius disposuit, Hartmoto monasterium cum omni <w lemma="securitatis" xml:id="w501" corresp="#w501 #w502">securita-</w>
+<lb n="20" xml:id="bsb00000721_00228_20"/><w lemma="securitatis" xml:id="w502" corresp="#w501 #w502">tis</w> libertate contradidit, nulla addita vel interposita causa, per
+<pb xml:id="bsb00000721_00230" n="220"/><lb n="1" xml:id="bsb00000721_00230_1"/>quam aliquomodo ulterius violari potuisset huius securitatis <w lemma="integritas" xml:id="w503" corresp="#w503 #w504">in-</w>
+<lb n="2" xml:id="bsb00000721_00230_2"/><w lemma="integritas" xml:id="w504" corresp="#w503 #w504">tegritas</w>. Hartmotus vero cum fratribus ad monasterium <w lemma="rediens" xml:id="w505" corresp="#w505 #w506">redi-</w>
+<lb n="3" xml:id="bsb00000721_00230_3"/><w lemma="rediens" xml:id="w506" corresp="#w505 #w506">ens</w> optimi se pastoris et patris perfectione studuit ubique et <w lemma="undique" xml:id="w507" corresp="#w507 #w508">un-</w>
+<lb n="4" xml:id="bsb00000721_00230_4"/><w lemma="undique" xml:id="w508" corresp="#w507 #w508">dique</w> exercere. Nam licet praeteritorum maxima pars ille
+<lb n="5" xml:id="bsb00000721_00230_5"/>fuisset laborum atque bonorum, tamen nunc quasi incipiens <w lemma="cumulum" xml:id="w509" corresp="#w509 #w510">cu-</w>
+<lb n="6" xml:id="bsb00000721_00230_6"/><w lemma="cumulum" xml:id="w510" corresp="#w509 #w510">mulum</w> et augmentum solitorum desiderabat augere meritorum.
+<lb n="7" xml:id="bsb00000721_00230_7"/>Nam parietes basilicę sancti Galli, et in choro et foris chorum et
+<lb n="8" xml:id="bsb00000721_00230_8"/>posteriora templi, sicut modo cernuntur, pictura deaurata idem
+<lb n="9" xml:id="bsb00000721_00230_9"/>eodem in tempore fecit ornari et comi. In aliis praeterea <w lemma="&#x119;dificiis" xml:id="w511" corresp="#w511 #w512">ędifi-</w>
+<lb n="10" xml:id="bsb00000721_00230_10"/><w lemma="&#x119;dificiis" xml:id="w512" corresp="#w511 #w512">ciis</w>, ut cerni poterit in praesenti, plurimum nostro monasterio /
+<lb n="11" xml:id="bsb00000721_00230_11"/>decorem suis temporibus ipse patravit, et, ut plurima breviter
+<lb n="12" xml:id="bsb00000721_00230_12"/>comprehendam, ubicumque fuit, sive intus, sive foris, sive apud
+<lb n="13" xml:id="bsb00000721_00230_13"/>divites, sive apud mediocres, Domino donante sapientiaque a
+<lb n="14" xml:id="bsb00000721_00230_14"/>Deo sibi concessa nostra omnia cautissime providente, nos <w lemma="semper" xml:id="w513" corresp="#w513 #w514">sem-</w>
+<lb n="15" xml:id="bsb00000721_00230_15"/><w lemma="semper" xml:id="w514" corresp="#w513 #w514">per</w> securi extiteramus. Librorum quoque, quos ille ad <w lemma="communem" xml:id="w515" corresp="#w515 #w516">com-</w>
+<lb n="16" xml:id="bsb00000721_00230_16"/><w lemma="communem" xml:id="w516" corresp="#w515 #w516">munem</w> monasterii utilitatem suo tempore patravit, haec sunt
+<lb n="17" xml:id="bsb00000721_00230_17"/>nomina:
+<lb n="18" xml:id="bsb00000721_00230_18"/>Lectiones evangelii, quem librum auro et argento ac lapidibus
+<lb n="19" xml:id="bsb00000721_00230_19"/>pretiosis ornavit.
+<lb n="20" xml:id="bsb00000721_00230_20"/>Lectionarium elephanto et auro paratum.
+<pb xml:id="bsb00000721_00232" n="222"/><lb n="1" xml:id="bsb00000721_00232_1"/>XXXV volumina beati Gregorii in Iob in sex corpora divisa.
+<lb n="2" xml:id="bsb00000721_00232_2"/>Collectaria duo de pascha usque ad adventum Domini.
+<lb n="3" xml:id="bsb00000721_00232_3"/>VII libros sancti Augustini in heptatheucum.
+<lb n="4" xml:id="bsb00000721_00232_4"/>Sancti Ambrosii de fide contra Arrianos libros III in <w lemma="volumine" xml:id="w517" corresp="#w517 #w518">volumi-</w>
+<lb n="5" xml:id="bsb00000721_00232_5"/><w lemma="volumine" xml:id="w518" corresp="#w517 #w518">ne</w> I.
+<lb n="6" xml:id="bsb00000721_00232_6"/>Item eiusdem libros III proprie de spiritu sancto et unum de
+<lb n="7" xml:id="bsb00000721_00232_7"/>incarnatione Domini et alium de laude sanctorum in <w lemma="volumine" xml:id="w519" corresp="#w519 #w520">volumi-</w>
+<lb n="8" xml:id="bsb00000721_00232_8"/><w lemma="volumine" xml:id="w520" corresp="#w519 #w520">ne</w> I.
+<lb n="9" xml:id="bsb00000721_00232_9"/>Vitam sancti Martini in volumine uno.
+<lb n="10" xml:id="bsb00000721_00232_10"/>Vitam sanctorum Galli et Otmari in volumine I. /
+<lb n="11" xml:id="bsb00000721_00232_11"/>Vitam sancti Silvestri in volumine uno.
+<lb n="12" xml:id="bsb00000721_00232_12"/>Instituta patrum, quas nuncupant vitas patrum minores, in
+<lb n="13" xml:id="bsb00000721_00232_13"/>volumine I.
+<lb n="14" xml:id="bsb00000721_00232_14"/>XX duas omelias Gregorii super Ezechihelem prophetam in
+<lb n="15" xml:id="bsb00000721_00232_15"/>volumine I.
+<pb xml:id="bsb00000721_00234" n="224"/><lb n="1" xml:id="bsb00000721_00234_1"/>Ambrosii de officiis libros III in volumine I.
+<lb n="2" xml:id="bsb00000721_00234_2"/>Sancti Augustini de magistro et eiusdem epistolas.
+<lb n="3" xml:id="bsb00000721_00234_3"/>Item de gratia et libero arbitrio.
+<lb n="4" xml:id="bsb00000721_00234_4"/>Collectanea Flori presbyteri de voluminibus sancti Augustini
+<lb n="5" xml:id="bsb00000721_00234_5"/>in epistolam Pauli ad Romanos in volumine I.
+<lb n="6" xml:id="bsb00000721_00234_6"/>Sancti Augustini de utilitate credendi et bono naturae et <w lemma="scoliam" xml:id="w521" corresp="#w521 #w522">sco-</w>
+<lb n="7" xml:id="bsb00000721_00234_7"/><w lemma="scoliam" xml:id="w522" corresp="#w521 #w522">liam</w> Cyrilli de incarnatione Domini et paucas quęstiones.
+<lb n="8" xml:id="bsb00000721_00234_8"/>Polihystorem Solini in volumine I.
+<lb n="9" xml:id="bsb00000721_00234_9"/>Altercatio Attici et Cretoboli ad parvum tempus non <w lemma="poterat" xml:id="w523" corresp="#w523 #w524">pote-</w>
+<lb n="10" xml:id="bsb00000721_00234_10"/><w lemma="poterat" xml:id="w524" corresp="#w523 #w524">rat</w> inveniri, pro qua, antequam inveniretur, scripta est alia, et
+<lb n="11" xml:id="bsb00000721_00234_11"/>additus est ei liber sancti Augustini de vita christiana et <w lemma="altercatio" xml:id="w525" corresp="#w525 #w526">alterca-</w>
+<lb n="12" xml:id="bsb00000721_00234_12"/><w lemma="altercatio" xml:id="w526" corresp="#w525 #w526">tio</w> ecclesiae et synagogae.
+<lb n="13" xml:id="bsb00000721_00234_13"/>Collectanea Flori in epistolam ad Corinthios / secundam et
+<lb n="14" xml:id="bsb00000721_00234_14"/>ad Hebreos.
+<lb n="15" xml:id="bsb00000721_00234_15"/>Decreta pontificum Romanorum in volumine uno.
+<lb n="16" xml:id="bsb00000721_00234_16"/>Regulam sancti Basilii et cęterorum.
+<pb xml:id="bsb00000721_00236" n="226"/><lb n="1" xml:id="bsb00000721_00236_1"/>[30.] Alios quoque libros proprii causa videlicet usus iocunda
+<lb n="2" xml:id="bsb00000721_00236_2"/>patravit scriptura, quos similiter post finem dierum suorum
+<lb n="3" xml:id="bsb00000721_00236_3"/>sancti Galli servitio perpetualiter contradidit retinendos, <w lemma="imprecans" xml:id="w527" corresp="#w527 #w528">im-</w>
+<lb n="4" xml:id="bsb00000721_00236_4"/><w lemma="imprecans" xml:id="w528" corresp="#w527 #w528">precans</w> etiam illi non parvę dedecus confusionis, si quis <w lemma="praesumpserit" xml:id="w529" corresp="#w529 #w530">prae-</w>
+<lb n="5" xml:id="bsb00000721_00236_5"/><w lemma="praesumpserit" xml:id="w530" corresp="#w529 #w530">sumpserit</w> aliquam partem eorum de monasterio sancti Galli
+<lb n="6" xml:id="bsb00000721_00236_6"/>abstrahere illiusque servitio eos auferre. Nomina vero <w lemma="eorundem" xml:id="w531" corresp="#w531 #w532">eorun-</w>
+<lb n="7" xml:id="bsb00000721_00236_7"/><w lemma="eorundem" xml:id="w532" corresp="#w531 #w532">dem</w> librorum sunt haec:
+<lb n="8" xml:id="bsb00000721_00236_8"/>Quinque libri Moysi, Iosue Iudicumque in volumine I.
+<lb n="9" xml:id="bsb00000721_00236_9"/>Regum libri IIII in volumine I.
+<lb n="10" xml:id="bsb00000721_00236_10"/>Psalterium de Hebraico translatum.
+<lb n="11" xml:id="bsb00000721_00236_11"/>Proverbia Salomonis, Ecclesiastes et Cantica Canticorum.
+<lb n="12" xml:id="bsb00000721_00236_12"/>Item liber Sapientię et Iesu filii Sirach et Paralipomenon libri
+<lb n="13" xml:id="bsb00000721_00236_13"/>duo in volumine uno.
+<lb n="14" xml:id="bsb00000721_00236_14"/>Iob, Tobias, Iudith et Hester in volumine I.
+<lb n="15" xml:id="bsb00000721_00236_15"/>Esdras, Neemias et Machabeorum libri II in volumine I.
+<lb n="16" xml:id="bsb00000721_00236_16"/>Esaias et Hieremias in volumine I. /
+<lb n="17" xml:id="bsb00000721_00236_17"/>Ezechihel et XII prophetae et Danihel in volumine I.
+<lb n="18" xml:id="bsb00000721_00236_18"/>Evangeliorum volumen I.
+<lb n="19" xml:id="bsb00000721_00236_19"/>Reliquorum librorum Novi Testamenti volumen I.
+<lb n="20" xml:id="bsb00000721_00236_20"/>Bedę libelli duo de natura rerum et temporibus.
+<pb xml:id="bsb00000721_00238" n="228"/><lb n="1" xml:id="bsb00000721_00238_1"/>Item unus grandis et alia argumenta computandi in <w lemma="volumine" xml:id="w533" corresp="#w533 #w534">volumi-</w>
+<lb n="2" xml:id="bsb00000721_00238_2"/><w lemma="volumine" xml:id="w534" corresp="#w533 #w534">ne</w> I.
+<lb n="3" xml:id="bsb00000721_00238_3"/>Regula sancti Benedicti et martyrologium Bedę et ymnarius
+<lb n="4" xml:id="bsb00000721_00238_4"/>nec non et omelię Cęsarii in volumine I.
+<lb n="5" xml:id="bsb00000721_00238_5"/>Ethimologiarum Isidori volumina II.
+<lb n="6" xml:id="bsb00000721_00238_6"/>Medicinalis liber unus.
+<lb n="7" xml:id="bsb00000721_00238_7"/>Glossa in epistolas Pauli.
+<lb n="8" xml:id="bsb00000721_00238_8"/>Super lectiones volumina II.
+<lb n="9" xml:id="bsb00000721_00238_9"/>Super evangelia volumina II.
+<lb n="10" xml:id="bsb00000721_00238_10"/>Volumen Orosii.
+<lb n="11" xml:id="bsb00000721_00238_11"/>Martiani de nuptiis Mercurii et Philologie libri II.
+<lb n="12" xml:id="bsb00000721_00238_12"/>Item de VII liberalibus artibus libri VII.
+<lb n="13" xml:id="bsb00000721_00238_13"/>Boethii V libri philosophicę consolationis in volumine I.
+<lb n="14" xml:id="bsb00000721_00238_14"/>Item alii V in altero volumine.
+<lb n="15" xml:id="bsb00000721_00238_15"/>Inter hos etiam unam mappam mundi subtili opere patravit,
+<lb n="16" xml:id="bsb00000721_00238_16"/>quam inter hos quoque libros connumeravit. /
+<pb xml:id="bsb00000721_00240" n="230"/><lb n="1" xml:id="bsb00000721_00240_1"/>[31.] Post obitum vero Hludowici piissimi regis in <w lemma="partem" xml:id="w535" corresp="#w535 #w536">par-</w>
+<lb n="2" xml:id="bsb00000721_00240_2"/><w lemma="partem" xml:id="w536" corresp="#w535 #w536">tem</w> Caroli filii eius nostro monasterio pertingente cum <w lemma="c&#x119;tero" xml:id="w537" corresp="#w537 #w538">cę-</w>
+<lb n="3" xml:id="bsb00000721_00240_3"/><w lemma="c&#x119;tero" xml:id="w538" corresp="#w537 #w538">tero</w> regno, omnes immunitatis cartas a patre eius <w lemma="Hludowico" xml:id="w539" corresp="#w539 #w540">Hludowi-</w>
+<lb n="4" xml:id="bsb00000721_00240_4"/><w lemma="Hludowico" xml:id="w540" corresp="#w539 #w540">co</w> nobis condonatas ab ipso clementissimo filio eius Carolo
+<lb n="5" xml:id="bsb00000721_00240_5"/>Hartmotus abba nobis renovari fecit atque illius auctoritate <w lemma="iterato" xml:id="w541" corresp="#w541 #w542">ite-</w>
+<lb n="6" xml:id="bsb00000721_00240_6"/><w lemma="iterato" xml:id="w542" corresp="#w541 #w542">rato</w> conscribi. Neque hoc silentio praetereundum est, <w lemma="quantum" xml:id="w543" corresp="#w543 #w544">quan-</w>
+<lb n="7" xml:id="bsb00000721_00240_7"/><w lemma="quantum" xml:id="w544" corresp="#w543 #w544">tum</w> de regalibus donationibus ad nostrum monasterium fuisset
+<lb n="8" xml:id="bsb00000721_00240_8"/>illo tempore concessum. Denique praefatus piissimę memorię
+<lb n="9" xml:id="bsb00000721_00240_9"/>rex Hludowicus, vivente abbate Grimaldo, locum, qui dicitur
+<lb n="10" xml:id="bsb00000721_00240_10"/>Mecchinga, ad monasterium sancti Galli aeternę causa <w lemma="remunerationis" xml:id="w545" corresp="#w545 #w546">re-</w>
+<lb n="11" xml:id="bsb00000721_00240_11"/><w lemma="remunerationis" xml:id="w546" corresp="#w545 #w546">munerationis</w> regia auctoritate contradidit. Post cuius obitum,
+<lb n="12" xml:id="bsb00000721_00240_12"/>Grimaldo quoque defuncto, Carolus clementissimus rex filius
+<lb n="13" xml:id="bsb00000721_00240_13"/>eius, Hartmoto intercedente, quandam possessionem regię <w lemma="potestatis" xml:id="w547" corresp="#w547 #w548">po-</w>
+<lb n="14" xml:id="bsb00000721_00240_14"/><w lemma="potestatis" xml:id="w548" corresp="#w547 #w548">testatis</w>, in pago Turgoiense sitam, in loco, qui dicitur <w lemma="Roholvesriuti" xml:id="w549" corresp="#w549 #w550">Rohol-</w>
+<lb n="15" xml:id="bsb00000721_00240_15"/><w lemma="Roholvesriuti" xml:id="w550" corresp="#w549 #w550">vesriuti</w>, sancto Gallo in perpetuam possessionem <w lemma="condonavit" xml:id="w551" corresp="#w551 #w552">condona-</w>
+<lb n="16" xml:id="bsb00000721_00240_16"/><w lemma="condonavit" xml:id="w552" corresp="#w551 #w552">vit</w>, quod et protinus suę auctoritatis conscriptione firmavit. /
+<lb n="17" xml:id="bsb00000721_00240_17"/>Quendam etiam montem situm in Hretia Curiense, in quo
+<lb n="18" xml:id="bsb00000721_00240_18"/>constructa est basilica sancti Victoris martyris, cuius et nomine
+<lb n="19" xml:id="bsb00000721_00240_19"/>vocatur idem locus Mons Victoris, ipso tempore ad <w lemma="monasterium" xml:id="w553" corresp="#w553 #w554">monaste-</w>
+<lb n="20" xml:id="bsb00000721_00240_20"/><w lemma="monasterium" xml:id="w554" corresp="#w553 #w554">rium</w> sancti Galli contradidit, firmitatisque cartam regia <w lemma="auctoritate" xml:id="w555" corresp="#w555 #w556">auc-</w>
+<lb n="21" xml:id="bsb00000721_00240_21"/><w lemma="auctoritate" xml:id="w556" corresp="#w555 #w556">toritate</w> exinde fieri iussit, rogante Eusebio Scottigena, qui <w lemma="ibidem" xml:id="w557" corresp="#w557 #w558">ibi-</w>
+<lb n="22" xml:id="bsb00000721_00240_22"/><w lemma="ibidem" xml:id="w558" corresp="#w557 #w558">dem</w> per XXX annos spontanee clausus Domino serviebat.
+<lb n="23" xml:id="bsb00000721_00240_23"/>Anno vero incarnationis dominicę DCCCLXXXIIII<hi rend="super">to</hi>, pridie
+<lb n="24" xml:id="bsb00000721_00240_24"/>Kalendas Februarias, de hac luce ad lucem migravit <w lemma="perennem" xml:id="w559" corresp="#w559 #w560">per-</w>
+<pb xml:id="bsb00000721_00242" n="232"/><lb n="1" xml:id="bsb00000721_00242_1"/><w lemma="perennem" xml:id="w560" corresp="#w559 #w560">ennem</w>. [32.] Postquam vero idem Carolus Italiam <w lemma="ingressus" xml:id="w561" corresp="#w561 #w562">in-</w>
+<lb n="2" xml:id="bsb00000721_00242_2"/><w lemma="ingressus" xml:id="w562" corresp="#w561 #w562">gressus</w> pacifice eam suo subiugavit imperio, alium etiam
+<lb n="3" xml:id="bsb00000721_00242_3"/>locum in pago supra dicto similiter regię auctoritatis <w lemma="dominio" xml:id="w563" corresp="#w563 #w564">domi-</w>
+<lb n="4" xml:id="bsb00000721_00242_4"/><w lemma="dominio" xml:id="w564" corresp="#w563 #w564">nio</w> cedentem, nomine Stamheim, cum omnibus ad illum
+<lb n="5" xml:id="bsb00000721_00242_5"/>pertinentibus sancto Otmaro imperatoria contradidit potestate;
+<lb n="6" xml:id="bsb00000721_00242_6"/>huiusque donationis firmitatem imperialis scripti praecepto
+<lb n="7" xml:id="bsb00000721_00242_7"/>firmissime corroboravit. Sed et illius, quam supra <w lemma="memoravimus" xml:id="w565" corresp="#w565 #w566">memoravi-</w>
+<lb n="8" xml:id="bsb00000721_00242_8"/><w lemma="memoravimus" xml:id="w566" corresp="#w565 #w566">mus</w>, donationis imperatoriam denuo iussit scribi <w lemma="commemorationem" xml:id="w567" corresp="#w567 #w568">commemora-</w>
+<lb n="9" xml:id="bsb00000721_00242_9"/><w lemma="commemorationem" xml:id="w568" corresp="#w567 #w568">tionem</w>, / quod factum est, ut imperavit.
+<lb n="10" xml:id="bsb00000721_00242_10"/>Postquam autem idem mitissimus imperator Carolus <w lemma="omnibus" xml:id="w569" corresp="#w569 #w570">omni-</w>
+<lb n="11" xml:id="bsb00000721_00242_11"/><w lemma="omnibus" xml:id="w570" corresp="#w569 #w570">bus</w> Italiae Germaniaeque populis suavissimo ordine <w lemma="imperavit" xml:id="w571" corresp="#w571 #w572">impera-</w>
+<lb n="12" xml:id="bsb00000721_00242_12"/><w lemma="imperavit" xml:id="w572" corresp="#w571 #w572">vit</w>, rogante Hartmoto et efficiente Liutwardo episcopo atque
+<lb n="13" xml:id="bsb00000721_00242_13"/>archicancellario imperatoris, quandam abbatiolam in Italia
+<lb n="14" xml:id="bsb00000721_00242_14"/>sitam, olearum et vinearum feracem, quam tunc idem <w lemma="Liutwardus" xml:id="w573" corresp="#w573 #w574">Liutwar-</w>
+<lb n="15" xml:id="bsb00000721_00242_15"/><w lemma="Liutwardus" xml:id="w574" corresp="#w573 #w574">dus</w> in beneficio habebat, cui nomen est Massin, ad <w lemma="monasterium" xml:id="w575" corresp="#w575 #w576">mona-</w>
+<lb n="16" xml:id="bsb00000721_00242_16"/><w lemma="monasterium" xml:id="w576" corresp="#w575 #w576">sterium</w> sancti Galli imperatoria auctoritate contradidit. Eo <w lemma="quoque" xml:id="w577" corresp="#w577 #w578">quo-</w>
+<lb n="17" xml:id="bsb00000721_00242_17"/><w lemma="quoque" xml:id="w578" corresp="#w577 #w578">que</w> pacto, ut idem Liutwardus tempore vitę suę sub usu <w lemma="fructuario" xml:id="w579" corresp="#w579 #w580">fruc-</w>
+<lb n="18" xml:id="bsb00000721_00242_18"/><w lemma="fructuario" xml:id="w580" corresp="#w579 #w580">tuario</w> ipsas res possideret censumque de ipso loco, sicut ipse
+<lb n="19" xml:id="bsb00000721_00242_19"/>condixit, singulis annis ad monasterium praedictum <w lemma="persolveret" xml:id="w581" corresp="#w581 #w582">persolve-</w>
+<lb n="20" xml:id="bsb00000721_00242_20"/><w lemma="persolveret" xml:id="w582" corresp="#w581 #w582">ret</w>, hoc est vel VI languenas de oleo vel LX solidos de <w lemma="argento" xml:id="w583" corresp="#w583 #w584">argen-</w>
+<lb n="21" xml:id="bsb00000721_00242_21"/><w lemma="argento" xml:id="w584" corresp="#w583 #w584">to</w>. Post obitum vero Liutwardi ipsę res sine ullius <w lemma="contradictione" xml:id="w585" corresp="#w585 #w586">contradic-</w>
+<pb xml:id="bsb00000721_00244" n="234"/><lb n="1" xml:id="bsb00000721_00244_1"/><w lemma="contradictione" xml:id="w586" corresp="#w585 #w586">tione</w> perpetualiter ad ius pertinerent monasterii. Cuius rei
+<lb n="2" xml:id="bsb00000721_00244_2"/>carta protinus firmissime sua auctoritate est scripta atque <w lemma="firmata" xml:id="w587" corresp="#w587 #w588">firma-</w>
+<lb n="3" xml:id="bsb00000721_00244_3"/><w lemma="firmata" xml:id="w588" corresp="#w587 #w588">ta</w>, atque ipso imperatore iubente / super altarium sancti Galli
+<lb n="4" xml:id="bsb00000721_00244_4"/>est posita, ubi hodie Deo volente cum pace tenetur.
+<lb n="5" xml:id="bsb00000721_00244_5"/>[33.] Igitur venerabilis abbas Hartmotus post tantorum, ut
+<lb n="6" xml:id="bsb00000721_00244_6"/>supra commemoravimus, perfectionem laborum cupiens
+<lb n="7" xml:id="bsb00000721_00244_7"/>etiam finem suę clarissimę administrationis aspicere propriis
+<lb n="8" xml:id="bsb00000721_00244_8"/>oculis, iam quoque ętate requiem poscente, cępit sedulo ab <w lemma="imperatore" xml:id="w589" corresp="#w589 #w590">im-</w>
+<lb n="9" xml:id="bsb00000721_00244_9"/><w lemma="imperatore" xml:id="w590" corresp="#w589 #w590">peratore</w> deposcere et cum fratribus quaerere, quatenus ipse
+<lb n="10" xml:id="bsb00000721_00244_10"/>ab his laboribus liberaretur et alius in eius locum <w lemma="subrogaretur" xml:id="w591" corresp="#w591 #w592">subroga-</w>
+<lb n="11" xml:id="bsb00000721_00244_11"/><w lemma="subrogaretur" xml:id="w592" corresp="#w591 #w592">retur</w>, cuius aetas et valitudo apta existeret ad supportandos
+<lb n="12" xml:id="bsb00000721_00244_12"/>varios casus, qui nunc etiam prioribus ampliores variantur in
+<lb n="13" xml:id="bsb00000721_00244_13"/>mundo. Cuius rei consensum neque apud imperatorem, <w lemma="neque" xml:id="w593" corresp="#w593 #w594">ne-</w>
+<lb n="14" xml:id="bsb00000721_00244_14"/><w lemma="neque" xml:id="w594" corresp="#w593 #w594">que</w> apud monachos facile potuit invenire. Sed cum ille <w lemma="diutissime" xml:id="w595" corresp="#w595 #w596">diutissi-</w>
+<lb n="15" xml:id="bsb00000721_00244_15"/><w lemma="diutissime" xml:id="w596" corresp="#w595 #w596">me</w> et omnimodo in hac persisteret petitione, aetatis suae sepius
+<lb n="16" xml:id="bsb00000721_00244_16"/>causando gravedinem, tandem difficillime adquisitam istius <w lemma="petitionis" xml:id="w597" corresp="#w597 #w598">peti-</w>
+<lb n="17" xml:id="bsb00000721_00244_17"/><w lemma="petitionis" xml:id="w598" corresp="#w597 #w598">tionis</w> ab imperatore suscepit promissionem. Proinde laetus
+<lb n="18" xml:id="bsb00000721_00244_18"/>cępit ad haec ipsa negotia congruens inquirere tempus. /
+<lb n="19" xml:id="bsb00000721_00244_19"/>Aliquanto vero temporum transeunte curriculo, contigit
+<lb n="20" xml:id="bsb00000721_00244_20"/>domnum imperatorem de Italia redeuntem nostrum intrare
+<lb n="21" xml:id="bsb00000721_00244_21"/>monasterium, ubi cum maxima laudum honorificentia <w lemma="cunctorumque" xml:id="w599" corresp="#w599 #w600">cunc-</w>
+<lb n="22" xml:id="bsb00000721_00244_22"/><w lemma="cunctorumque" xml:id="w600" corresp="#w599 #w600">torumque</w> non parva laetitia fuisset susceptus, ipse etiam <w lemma="laetus" xml:id="w601" corresp="#w601 #w602">lae-</w>
+<lb n="23" xml:id="bsb00000721_00244_23"/><w lemma="laetus" xml:id="w602" corresp="#w601 #w602">tus</w> triduo ibidem permansit. Tunc vero venerabilis abbas
+<pb xml:id="bsb00000721_00246" n="236"/><lb n="1" xml:id="bsb00000721_00246_1"/>Hartmotus, oportunum tempus suae voluntati occurrere <w lemma="credens" xml:id="w603" corresp="#w603 #w604">cre-</w>
+<lb n="2" xml:id="bsb00000721_00246_2"/><w lemma="credens" xml:id="w604" corresp="#w603 #w604">dens</w>, imperatoris clementiam, ut suae promissionis memor <w lemma="existeret" xml:id="w605" corresp="#w605 #w606">exi-</w>
+<lb n="3" xml:id="bsb00000721_00246_3"/><w lemma="existeret" xml:id="w606" corresp="#w605 #w606">steret</w>, studiosissime cępit flagitare. Piissimus vero princeps
+<lb n="4" xml:id="bsb00000721_00246_4"/>nullius preteritę immemor vel dictionis vel promissionis, volens
+<lb n="5" xml:id="bsb00000721_00246_5"/>et abbatis petitioni annuere et monachis in omnibus satisfacere,
+<lb n="6" xml:id="bsb00000721_00246_6"/>illorum concessit arbitrio, ut, quem vellent, de suis abbatem sibi
+<lb n="7" xml:id="bsb00000721_00246_7"/>eligerent, Hartmoto videlicet successorem. [34.] Quae res a
+<lb n="8" xml:id="bsb00000721_00246_8"/>fratribus audita maximae tristitiae et lacrimarum pariterque <w lemma="intermixtae" xml:id="w607" corresp="#w607 #w608">in-</w>
+<lb n="9" xml:id="bsb00000721_00246_9"/><w lemma="intermixtae" xml:id="w608" corresp="#w607 #w608">termixtae</w> laetitiae seminarium existebat: tristitiae, quia a tanti
+<lb n="10" xml:id="bsb00000721_00246_10"/>patris dominio ipso vivente se abstrahere / cordetenus <w lemma="recusaverunt" xml:id="w609" corresp="#w609 #w610">recusa-</w>
+<lb n="11" xml:id="bsb00000721_00246_11"/><w lemma="recusaverunt" xml:id="w610" corresp="#w609 #w610">verunt</w>, laetitiae vero, quia idem clementissimus imperator, cum
+<lb n="12" xml:id="bsb00000721_00246_12"/>rem finiri necessitas exegisset, non per suos nuntios absens,
+<lb n="13" xml:id="bsb00000721_00246_13"/>sed per se ipsum nostras causas maluit confirmare atque statuere
+<lb n="14" xml:id="bsb00000721_00246_14"/>praesens.
+</ab></div>
+<div type="part"><ab>
+<lb n="15" xml:id="bsb00000721_00246_15"/>[De Bernhardo abbate]
+<lb n="16" xml:id="bsb00000721_00246_16"/>Cum igitur haec, ut diximus, necessitas, immo etiam <w lemma="dignissima" xml:id="w611" corresp="#w611 #w612">dignissi-</w>
+<lb n="17" xml:id="bsb00000721_00246_17"/><w lemma="dignissima" xml:id="w612" corresp="#w611 #w612">ma</w> utilitas rem finiri exigerent, omnes pariter senes et iuvenes a
+<lb n="18" xml:id="bsb00000721_00246_18"/>primo usque ad ultimum Domino donante communi consilio
+<lb n="19" xml:id="bsb00000721_00246_19"/>atque una voce Bernhardum sibi elegerunt abbatem, virum
+<lb n="20" xml:id="bsb00000721_00246_20"/>nobilitate et iuventute praeclarum, cuius sapientia et moribus <w lemma="atque" xml:id="w613" corresp="#w613 #w614">at-</w>
+<lb n="21" xml:id="bsb00000721_00246_21"/><w lemma="atque" xml:id="w614" corresp="#w613 #w614">que</w> benignitate et regia servitia peragi et se cum omnibus suis <w lemma="fidissime" xml:id="w615" corresp="#w615 #w616">fi-</w>
+<lb n="22" xml:id="bsb00000721_00246_22"/><w lemma="fidissime" xml:id="w616" corresp="#w615 #w616">dissime</w> protegi confidebant. [35.] Cuius rei notitia cum ad
+<pb xml:id="bsb00000721_00248" n="238"/><lb n="1" xml:id="bsb00000721_00248_1"/>imperatorem fuisset perlata, protinus ipse conventui eorum <w lemma="dignatus" xml:id="w617" corresp="#w617 #w618">dig-</w>
+<lb n="2" xml:id="bsb00000721_00248_2"/><w lemma="dignatus" xml:id="w618" corresp="#w617 #w618">natus</w> est interesse; ibique inprimis Hartmotum, ut sepissime
+<lb n="3" xml:id="bsb00000721_00248_3"/>postulaverat, honorabiliter atque cum magna gratiarum actione
+<lb n="4" xml:id="bsb00000721_00248_4"/>a pondere tantorum liberum / donavit esse laborum. Sed non
+<lb n="5" xml:id="bsb00000721_00248_5"/>destituit a magisterio ibidem degentium. Postea vero omnibus
+<lb n="6" xml:id="bsb00000721_00248_6"/>Bernhardum sibi abbatem poscentibus statim in praesenti <w lemma="benignissimus" xml:id="w619" corresp="#w619 #w620">benig-</w>
+<lb n="7" xml:id="bsb00000721_00248_7"/><w lemma="benignissimus" xml:id="w620" corresp="#w619 #w620">nissimus</w> princeps eorum desiderium audiens Bernhardo <w lemma="monasterium" xml:id="w621" corresp="#w621 #w622">mona-</w>
+<lb n="8" xml:id="bsb00000721_00248_8"/><w lemma="monasterium" xml:id="w622" corresp="#w621 #w622">sterium</w> cum congregatione commendavit ipsumque abbatem
+<lb n="9" xml:id="bsb00000721_00248_9"/>constituit . Qui inter alia plurima consolatoria verba hoc
+<lb n="10" xml:id="bsb00000721_00248_10"/>etiam intulit promittendo: se numquam hanc securitatem nobis
+<lb n="11" xml:id="bsb00000721_00248_11"/>ablaturum, tantummodo si inter nostros valeat inveniri, qui ad
+<lb n="12" xml:id="bsb00000721_00248_12"/>hoc officium idoneus possit existere. Omnibus vero <w lemma="rationabiliter" xml:id="w623" corresp="#w623 #w624">rationa-</w>
+<lb n="13" xml:id="bsb00000721_00248_13"/><w lemma="rationabiliter" xml:id="w624" corresp="#w623 #w624">biliter</w> constitutis, domnus imperator omnes ibidem <w lemma="conversantes" xml:id="w625" corresp="#w625 #w626">conversan-</w>
+<lb n="14" xml:id="bsb00000721_00248_14"/><w lemma="conversantes" xml:id="w626" corresp="#w625 #w626">tes</w> laetos efficiens, ipse quoque laetus de monasterio <w lemma="abscessit" xml:id="w627" corresp="#w627 #w628">absces-</w>
+<lb n="15" xml:id="bsb00000721_00248_15"/><w lemma="abscessit" xml:id="w628" corresp="#w627 #w628">sit</w>. Contigit autem ista ordinatio circa finem anni ab <w lemma="incarnatione" xml:id="w629" corresp="#w629 #w630">incarna-</w>
+<lb n="16" xml:id="bsb00000721_00248_16"/><w lemma="incarnatione" xml:id="w630" corresp="#w629 #w630">tione</w> Domini DCCC<hi rend="super">mi</hi>LXXX<hi rend="super">mi</hi>tertii, VI. feria, VIII. Idus
+<lb n="17" xml:id="bsb00000721_00248_17"/>Decembris, indictione prima; anno vero Caroli imperatoris
+<lb n="18" xml:id="bsb00000721_00248_18"/>tertio – super omnia vero regnante Domino nostro Iesu
+<lb n="19" xml:id="bsb00000721_00248_19"/>Christo, cui est honor et gloria per indeficientia saecula. Amen.
+</ab></div>
+</div>
+</div>
+</body>
+</text>
+</TEI>
