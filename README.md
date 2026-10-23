@@ -39,6 +39,14 @@ réutilisation.**
 Le détail (producteur, nombre de textes, format, remarques) se trouve dans
 [`catalogue/sources.csv`](catalogue/sources.csv).
 
+## Taille
+
+Environ **240 millions de mots latins uniques** (308 millions en comptant les textes présents
+dans plusieurs corpus). Le détail par corpus est dans
+[`catalogue/comptage-mots.csv`](catalogue/comptage-mots.csv). La méthode est décrite dans
+[`scripts/comptage/`](scripts/comptage/README.md) ; les constats (recoupements, bruit OCR,
+licences, pièges) dans [`docs/NOTES.md`](docs/NOTES.md).
+
 ## Formats
 
 - La plupart des corpus sont en **TEI XML**. Perseus, OGL, PTA et Formulae suivent les
