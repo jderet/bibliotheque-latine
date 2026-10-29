@@ -88,6 +88,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 2 mots mal lus.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -322,7 +323,7 @@
             facinore commisso totum solus auferat. dolet quidem ille et <lb n="15"/>
             fidem sibi seruatam non esse conqueritur; uerum in ipsa sua <lb/>
             querela cogitare debet potius in bona uita ipsi humanae <lb/>
-            societati fuisse soruandam, ne praeda iniqua ex homine fieret, <lb/>
+            societati fuisse <choice><sic>soruandam</sic><corr>seruandam</corr></choice>, ne praeda iniqua ex homine fieret, <lb/>
             si sentit, quam inique sibi in peccati societate seruata non <lb/>
             fuerit. ille quippe utrubique perfidus profecto sceleratior iudicandus <lb n="20"/>
             est. at si id, quod male fecerant, ei displicuisset et
@@ -2051,7 +2052,7 @@
              
 <pb n="231"/>
             et quanta humilitate custodiendam est uno sicut potui .. uolumine ostendi. <lb/>
-            Explicit Augustini de bcno coniugali. Incipit eiusdem de sca uirginitate <lb/>
+            Explicit Augustini de <choice><sic>bcno</sic><corr>bono</corr></choice> coniugali. Incipit eiusdem de sca uirginitate <lb/>
             <hi rend="italic">fol. 30b D</hi> Explicit de bono coniugali <hi rend="italic">fol. 84b B</hi> Explicit liber de bono <lb/>
             coniugali. Incipit liber de sancta uirginitate <hi rend="italic">fol</hi>. 78* <hi rend="italic">M</hi> Explicit liber <lb/>
             de bono coniugali <hi rend="italic">fol</hi>. 45a <hi rend="italic">E subscriptio abest a codd. N fol. 70b , T<lb/>

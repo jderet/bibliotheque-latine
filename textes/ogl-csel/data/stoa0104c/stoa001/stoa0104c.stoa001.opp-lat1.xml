@@ -88,6 +88,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 5 mots mal lus, 2 mots collés.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -104,7 +105,7 @@
             <l n="5">has dum disiungi iussit, a cardine fatur: <milestone n="3" unit="altsection"/>  </l>
             <l n="6">"Lux fiat !" et clare nituerunt omnia mundo. <milestone n="5" unit="altsection"/>  </l>
             <l n="7">cum dominus primi complesset facta diei, <milestone n="7" unit="altsection"/>  </l>
-            <l n="8">condidit albentem nebulis uascentibus axem.  </l>
+            <l n="8">condidit albentem nebulis <choice><sic>uascentibus</sic><corr>nascentibus</corr></choice> axem.  </l>
             <l n="9">accipit inmensus errantia litora pontus,  </l>
             <l n="10">multiplices rapiens ualidis cum tractibus amnes. <milestone n="9" unit="altsection"/>  </l>
             <l n="11">tertia lux faciem terrarum fulua retexit. <milestone n="10" unit="altsection"/>  </l>
@@ -1611,7 +1612,7 @@ ad altar <hi rend="italic">C</hi> 751 euinctus <hi rend="italic">G</hi> euinctis
             <l n="952">ergo ubi mercedem septenis traxerat annis, <milestone n="21" unit="altsection"/>  </l>
             <l n="953">desponsam thalami deposcit foedere iungi. <milestone n="23" unit="altsection"/>  </l>
             <l n="954">nec mora, mentito donatur munere Lia,  </l>
-            <l n="955"><milestone n="17" unit="altsection"/> Iuminibus grauidis, primo sed prosata partu.   </l>
+            <l n="955"><milestone n="17" unit="altsection"/> <choice><sic>Iuminibus</sic><corr>luminibus</corr></choice> grauidis, primo sed prosata partu.   </l>
 <l n="956">sed fraudis commenta dolens concepta Iacobus <milestone n="25" unit="altsection"/> <milestone n="900" unit="altline"/>  </l>
             <l n="957">, uerba canit soceris, frustratus uirgine pacta. <milestone n="30" unit="altsection"/>  </l>
             <l n="958">rursus in alterius pretium mercede seorsa  </l>
@@ -2673,7 +2674,7 @@ aliquis</hi> uersus <hi rend="italic">ad sententiam exprimendamu. Areualus</hi> 
              <l n="160">regis ad optutus, ut quae sunt iussa renarres. <note type="margin"> 12 </note>  </l>
             <l n="161">ac ne, praetrepidus coeptu, infirmere sub actu, <note type="margin">215</note> </l>
             <l n="162">tecum semper ero. qui libertate reuersa  </l>
-            <l n="163">hoc in colle mihi sensu Iuminibus ouanti." </l>
+            <l n="163">hoc in colle mihi sensu <choice><sic>Iuminibus</sic><corr>luminibus</corr></choice> ouanti." </l>
 
           <l n="164"><milestone unit="para"/><note type="margin"> 18 </note> Haec ubi detonuit dominus, fiducia uatem  </l>
              <l n="165">parua tenet primum. mox nomen quaerit aeternum  </l>
@@ -2812,7 +2813,7 @@ aliquis</hi> uersus <hi rend="italic">ad sententiam exprimendamu. Areualus</hi> 
             <l n="261">et parere tibi. tu dices cognita fratri; <note type="margin">315</note> </l>
             <l n="262">ille canet regi, ut plebem emittere curet.. <note type="margin"> 7 </note>  </l>
             <l n="263">iamque pius uates bis quadraginta per annos  </l>
-            <l n="264">pacificam uitarn mortali in carne terebat.  </l>
+            <l n="264">pacificam <choice><sic>uitarn</sic><corr>uitam</corr></choice> mortali in carne terebat.  </l>
             <note type="margin"> 10 sqq. </note>
             <l n="265">hi dum sanctificis regem mollire loquellis   </l>
             <l n="266">percupiunt et signa nouant, nil lubricus anguis <note type="margin">320</note> </l>
@@ -4369,7 +4370,7 @@ aliquis</hi> uersus <hi rend="italic">ad sententiam exprimendamu. Areualus</hi> 
             <l n="1309">incautas mentes fallaci cluderet astu  </l>
             <note type="margin">16 </note>
             <l n="1310">coniunx sumpta foris profanaque sacra doceret. <note type="margin"> 28 </note>   </l>
-            <l n="1311">iamque quaterdenos celeri cum lumine soles <note type="margin">1370</note> </l>
+            <l n="1311">iamque <choice><sic>quaterdenos</sic><corr>quater de nos</corr></choice> celeri cum lumine soles <note type="margin">1370</note> </l>
             <l n="1312">triuerat hic uates, nullamque adsumpserat escam,  </l>
             <l n="1313">ieiunum referens ad castra ingentia pectus. <note type="margin"> 29 </note>  </l>
             <l n="1314">illum conspicuae fulgentem lampade flammae  </l>
@@ -7617,7 +7618,7 @@ aliquis</hi> uersus <hi rend="italic">ad sententiam exprimendamu. Areualus</hi> 
             <l n="582">gentiles populus cultus atque idola sumpsit,.  </l>
             <l n="583">defugiens dominum terrae dominumque caelorum. <note type="margin"> 37 </note>  </l>
             <l n="584">subditur Eglomum quae propter facta tyrannis,  </l>
-             <l n="585">atque quaterdenos uixit captiuus in annos. </l>
+             <l n="585">atque <choice><sic>quaterdenos</sic><corr>quater de nos</corr></choice> uixit captiuus in annos. </l>
 
 <note type="footnote"> 575deaetu6C 576cuIteUoa] <hi rend="italic">coltellus A collectus B 577iudea-BC</hi> <lb/>
             578 Iposita C 580 linquid C 581 postata C post acto <hi rend="italic">L corr. p</hi> <lb/>
@@ -7910,7 +7911,7 @@ aliquis</hi> uersus <hi rend="italic">ad sententiam exprimendamu. Areualus</hi> 
       <l n="162">perpessique decem dominos ac messibus octo. <milestone n="15" unit="altchapter"/>   </l>
       <l n="163">his inflexa malis natio, quae fecerat, horret  </l>
             <l n="164">deposcitque deum, qui solus crimina donat.  </l>
-            <l n="165">ilicet adlegitur, qui sceptrum sumat, Aotus:  </l>
+            <l n="165">ilicet adlegitur, qui sceptrum sumat, <choice><sic>Aotus</sic><corr>Actus</corr></choice>:  </l>
             <l n="166">hic utraque manu conitens robore dextrae  </l>
             <l n="167">degenerem nullo sensit sub pondere laeuam. <milestone n="16-18" unit="altchapter"/>   </l>
       <l n="168">is cum uictori sociorum munera ferret,  </l>

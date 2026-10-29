@@ -91,6 +91,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 2 mots collés, 1 mot mal lu.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -1672,7 +1673,7 @@ multi esse rectores nec in una domo multi domini nec <lb n="10"/>
             omnium natales coniugia progenies imperia res gestas obitus <lb n="10"/>
 </p></div>
 
-<div n="9" subtype="section" type="textpart"><p>            sepulera demonstrant, et secutus eos Tullius tertio De natura <lb/>
+<div n="9" subtype="section" type="textpart"><p>            <choice><sic>sepulera</sic><corr>sepulcra</corr></choice> demonstrant, et secutus eos Tullius tertio De natura <lb/>
             deorum libro dissoluit publicas religiones, sed tamen ueram, <lb/>
             quam ignorabat, nec ipse nec alius quisquam potuit inducere. 
 </p></div>
@@ -2411,7 +2412,7 @@ multi esse rectores nec in una domo multi domini nec <lb n="10"/>
 <div n="17" subtype="chapter" type="textpart">
 <div n="1" subtype="section" type="textpart">
 <p>\'Deus\' inquit Epicurus \'nihil curat\'. nullam igitur <lb/>
-            habet potestatem — curare enim necesse est eum qui habeatuel <lb/>
+            habet potestatem — curare enim necesse est eum qui <choice><sic>habeatuel</sic><corr>habeat uel</corr></choice> <lb/>
             si habet et non utitur, quae tanta neglegentiae causa est <lb/>
             ut ei non dicam nostrum genus, sed etiam mundus ipse sit  <lb/>
             uilis ?</p></div>
@@ -3438,7 +3439,7 @@ multi esse rectores nec in una domo multi domini nec <lb n="10"/>
 </div>
 
 <div n="9" subtype="section" type="textpart"><p> <lb/>
-            ex his apparet uanas esse rationes philosophorumqui deum putant
+            ex his apparet uanas esse rationes <choice><sic>philosophorumqui</sic><corr>philosophorum qui</corr></choice> deum putant
 
 <note rend="script" type="footnote"> <hi rend="italic">AVCTORES</hi> 2 s.] IV 169 s. Rz. (168 s. Fr.) 7-9] V 358-360. <lb/>
             <hi rend="italic">BPJ 2</hi> <foreign xml:lang="grc">ΟΥΔΟΑΕ</foreign>C<foreign xml:lang="grc">ΙΠΥ</foreign>C<foreign xml:lang="grc">ΙΔΕΙΙΑ ΑΙΝΧΟΑΟΝΕΝΑΡΑΠΟΝ</foreign> <hi rend="italic">TEC B, OTA«J-</hi> <lb/>

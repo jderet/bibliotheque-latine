@@ -86,6 +86,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 1 mot mal lu.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -1386,7 +1387,7 @@
             in locum, ubi intrauerunt in mare, ibi est oratorium <lb/>
             Moysi. Ibi est et ciuitas modica, quae appellatur Clisma, ubi <lb/>
             etiam et de India naues ueniunt. Quo maris loco, ubi transierunt, <lb/>
-            culfus exit de pelago maiore et extendit intus in <lb n="15"/>
+            <choice><sic>culfus</sic><corr>cultus</corr></choice> exit de pelago maiore et extendit intus in <lb n="15"/>
             multis milibus, qui accessa recessa habet. Recedente mare <lb/>
             omnis praefiguratio, arma Pharaonis uel uestigia rotarum curruum <lb/>
             parent; sed et omnia arma in marmore conuersa. Illic <lb/>

@@ -86,6 +86,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 6 mots mal lus.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -847,10 +848,10 @@
             <l n="17">sed pollere magis cupiens antistite tali  </l>
             <l n="18">ardebat totis Martinum adsciscere uotis.  </l>
             <l n="19">sed penitus sancto depellens corde tumorem  </l>
-            <l n="20">mens humilis crebris precibus inmota mauebat,  </l>
+            <l n="20">mens humilis crebris precibus inmota <choice><sic>mauebat</sic><corr>manebat</corr></choice>,  </l>
             <l n="21">donec conpositis uerbis lacrimisque coactis  </l>
             <l n="22">uicerunt nimium mendacia iusta rigorem.  </l>
-            <l n="23">nam quidam tantae pietatis couscius orat,  </l>
+            <l n="23">nam quidam tantae pietatis <choice><sic>couscius</sic><corr>conscius</corr></choice> orat,  </l>
             <l n="24">coniugis infirmae tristem miseratus erumnam  </l>
             <l n="25">dignetur sancto poscentem uisere uoto: </l>
 
@@ -1060,7 +1061,7 @@ A cod, Tureti aduersum Pl</hi> retrahit <hi rend="italic">Sv:</hi> <lb/>
             <l n="144">mollia ne fluxum nutrirent uellera corpus  </l>
             <l n="145">lasciua et tenui uestis fluitaret amictu,  </l>
             <l n="146">qualia praeteritae consuerat copia uitae.  </l>
-            <l n="147">nam multos illuc prisco de sauguine claros  </l>
+            <l n="147">nam multos illuc prisco de <choice><sic>sauguine</sic><corr>sanguine</corr></choice> claros  </l>
             <l n="148">traxerat ad talem prudens sententia uitam.  </l>
             <l n="149">quo mage mirandum est post serica fulchra torosque  </l>
             <l n="150">hanc uestem et talem ingressis placuisse rigorem.  </l>
@@ -2516,7 +2517,7 @@ A cod, Tureti aduersum Pl</hi> retrahit <hi rend="italic">Sv:</hi> <lb/>
             <l n="292">inpulit. solus constanti pectore Clarus  </l>
             <l n="293">reppulit a sancto fallacia murmura sensu,  </l>
             <l n="294">et quamuis domini furiosus fingeret iram,  </l>
-            <l n="295">nec terrere graucm potuit nec fallere cautum, </l>
+            <l n="295">nec terrere <choice><sic>graucm</sic><corr>grauem</corr></choice> potuit nec fallere cautum, </l>
 
 <note type="footnote">269] cf. Fortunat. V. M. II, 226. 279 = Fortunat. V. JVI. 11, 230. <lb/>
             283] cf. I, 181. 287] cf. Fortunat. V. M. III, 52. 290] cf. 173. <lb/>
@@ -4558,7 +4559,7 @@ A cod, Tureti aduersum Pl</hi> retrahit <hi rend="italic">Sv:</hi> <lb/>
 <pb n="122"/>
             <l n="417">linquere contiguas pernici turbine terras, -  </l>
             <l n="418">supplicio suspensa suo, sed libera nexu,  </l>
-            <l n="419">uincta precum meritis, propriis pendeutia poenis  </l>
+            <l n="419">uincta precum meritis, propriis <choice><sic>pendeutia</sic><corr>pendentia</corr></choice> poenis  </l>
             <l n="420">clamare admissas tacito sub iudice culpas.  </l>
             <l n="421">nec percontantis confessio reddita uerbis  </l>
             <l n="422">eruta per trepidam prodebat crimina uocem.  </l>
@@ -5671,7 +5672,7 @@ A cod, Tureti aduersum Pl</hi> retrahit <hi rend="italic">Sv:</hi> <lb/>
             <hi rend="italic">RPY</hi> ritos PF1 201 auctore P <hi rend="italic">202 dedit Rt PY cod. Iureti hostis P</hi> </note> <lb/>
              
 <pb n="147"/>
-            <l n="203">uerum ubi tartarei feralia busta tyrauni  </l>
+            <l n="203">uerum ubi tartarei feralia busta <choice><sic>tyrauni</sic><corr>tyranni</corr></choice>  </l>
             <l n="204">eminus aspexit deceptae uirginis error,  </l>
             <l n="205">concidit, et dono tanti spoliata patroni  </l>
             <l n="206">addicta est propriis eliso corpore morbis,  </l>

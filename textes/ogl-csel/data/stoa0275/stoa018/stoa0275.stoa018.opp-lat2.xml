@@ -93,6 +93,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 1 césure.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -1010,8 +1011,7 @@
 </div>
 
 <div n="16" subtype="chapter" type="textpart">
-<p>Nam et si mauult opera iustitiae, non tamen sine sacri- <lb n="25"/>
-            ficio, quod est anima conflictata ieiuniis. ille certe deus, cui <lb/>
+<p>Nam et si mauult opera iustitiae, non tamen sine sacri<lb n="25" break="no"/>ficio, quod est anima conflictata ieiuniis. ille certe deus, cui <lb/>
             nec populus incontinens gulae placuit, nec sacerdos nec prophetes. <lb/>
             manent adhuc monumenta concupiscentiae, ubi sepultus <lb/>
             est populus carnis auidissimus usque ad choleram

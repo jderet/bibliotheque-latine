@@ -88,6 +88,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 2 mots mal lus.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -1606,7 +1607,7 @@
             aut eligere, quae bona sunt, et esse arbor bona. aut <lb/>
             eligere, quae mala sunt, et esse arbor mala, non quia mala <lb/>
             ipsa. quae eliguntur, aliquam habent in se ipsis substantiam,<lb n="5"/>
-            sed quia deus omnia, quae condidit. gradibus suis eondidit <lb/>
+            sed quia deus omnia, quae condidit. gradibus suis <choice><sic>eondidit</sic><corr>condidit</corr></choice> <lb/>
             generibusque distinxit, caelestia atque terrena, inmortalia atque <lb/>
             mortalia et omnia bona in suo quodque genere condidit, animam <lb/>
             habentem liberum arbitrium sub se ipso et supra cetera <lb/>
@@ -2006,7 +2007,7 @@
             delictum, superabundauit gratia. data est enim lex <lb/>
             superbis hominibus et uiribus suis totum tribuentibus, ut <lb/>
             cum inplere non possent legem datam, praeuaricatores inuenirentur <lb/>
-            et facti rei sub lege peferent misericordiam a legis <lb n="10"/>
+            et facti rei sub lege <choice><sic>peferent</sic><corr>peterent</corr></choice> misericordiam a legis <lb n="10"/>
             conditore. proinde paulo post dicit idem apostolus: itaque <lb/>
             lex quidem sancta et mandatum sanctum et iustum <lb/>
             et bonum. sed ne dicas. quia de alio mandato dicit, ut <lb/>

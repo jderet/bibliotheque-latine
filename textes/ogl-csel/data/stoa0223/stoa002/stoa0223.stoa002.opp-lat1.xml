@@ -92,6 +92,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 6 mots mal lus, 1 césure, 1 mot collé.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -3613,7 +3614,7 @@
             scriptorum tuorum, in quibus caritas de corde puro et fide <lb/>
             non ficta in azymis ueritatis sincerum loquitur affectum <lb/>
             ac uicissim meum ab intima mente sollicitat. quid igitur faciam? <lb/>
-            obtemperabo tihi copia litterarum? sed bonorum meorum <lb/>
+            obtemperabo <choice><sic>tihi</sic><corr>tibi</corr></choice> copia litterarum? sed bonorum meorum <lb/>
             t
 
 <note type="footnote"> 4] (I Cor. 6,10). 12] (Ps. 15,5). 21] I Tim. 1, 5. 22] I Cor. 5,8. <lb/>
@@ -10962,7 +10963,7 @@
 </div>
 
 <div n="6" subtype="section" type="textpart">
-<p>De aetatis autem flore primaeque inuentutis quis audeat <lb n="15"/>
+<p>De aetatis autem flore primaeque <choice><sic>inuentutis</sic><corr>iuuentutis</corr></choice> quis audeat <lb n="15"/>
             gloriari? admonet namque diuina scriptura dicens: omnis <lb/>
             caro fenum et omnis claritas eius ut flos feni. aruit <lb/>
             fenum, et flos decidit; sermo autem domini manet in <lb/>
@@ -11706,7 +11707,7 @@
             nos. de qua dicit: beatus qui manducabit panem in <lb/>
             regno dei, quia Christus idem et regnum et panis est, <lb/>
             quo nos saginamur et serpens tabescit, cuius fames et poena <lb n="5"/>
-            est eibus uitae nostrae Christus Iesus, qui factus est nobis <lb/>
+            est <choice><sic>eibus</sic><corr>cibus</corr></choice> uitae nostrae Christus Iesus, qui factus est nobis <lb/>
             in escam, ut eo pane uiuentes et secundum eum ambulantes <lb/>
             possimus iuxta apostolum dicere: nostra autem conuersatio <lb/>
             in caelis est. cum enim quae sursum sunt sapimus <lb/>
@@ -12094,7 +12095,7 @@
             sanctis dei feminae Melani benedictione mihi pignus est. unde <lb/>
             te dignior uisa est, cuius fides illi magis quam noster sanguis <lb/>
             propinquat. fateor tamen ausum me, ut eam quamuis ilico ut <lb/>
-            acceperam tibi destinatam meo tamen uestitu initiando praeterem, <lb/>
+            acceperam tibi destinatam meo tamen uestitu initiando <choice><sic>praeterem</sic><corr>praetorem</corr></choice>, <lb/>
             sciens magis me tibi hac iniuria praestiturum, quam <lb n="15"/>
             si te intemerata nouitate illius honorassem, simul ut mihi <lb/>
             benedictionem quasi de tua iam ueste praecerperem, ut iactare <lb/>
@@ -12911,7 +12912,7 @@
 
 <div n="2" subtype="section" type="textpart">
 <p>Non autem uobis et hoc scribimus, ut imitemini conpositionem <lb/>
-            istam, qua tubello aureolo rem tantae benedictionis <lb/>
+            istam, qua <choice><sic>tubello</sic><corr>tu bello</corr></choice> aureolo rem tantae benedictionis <lb/>
             inclusimus. magis enim nos tali paratu fidem uestram imitati <lb/>
             sumus, ut uestram uobis formulam mitteremus in specie auri, <lb/>
             quia scimus uos ut aurum ignitum intra uos habere regnum <lb n="5"/>
@@ -15513,8 +15514,7 @@
             te et in te est uerbum ueritatis et ueritas dei. neque indiges <lb/>
             spiritu sancto, qui dominum Iesum dei filium deum in gloria <lb/>
             dei patris et ad dexteram uirtutis regem regum manere et ex<lb n="15"/>
-            resurrectione mortuorum iudicem uiuis et mortuis adfore con- <lb/>
-            fiteris et credis et praedicas. 
+            resurrectione mortuorum iudicem uiuis et mortuis adfore con<lb break="no"/>fiteris et credis et praedicas. 
 </p>
           
 </div>
@@ -15973,7 +15973,7 @@
             in uoce exultationis et confessionis epularer, uidens <lb/>
             non te et uidens ex leone uitulum, uidens in apro Christum, <lb n="10"/>
             nunc uersa ferocitatis aut uirtutis uice aprum saeculo, <lb/>
-            aguum deo. non enim iam de silua sed de segete aper es, <lb/>
+            <choice><sic>aguum</sic><corr>agnum</corr></choice> deo. non enim iam de silua sed de segete aper es, <lb/>
             quia bonis disciplinarum fructibus opimaris et in fruge uirtutum <lb/>
             tibi pastus est; duplicis testamenti dentibus ad rumpenda <lb/>
             retia Nebroth uenatoris armaris, totaque illa, quae pro saeculo<lb n="15"/>
@@ -21656,7 +21656,7 @@
             inflectat aut ira praecipitet; nihil enim quietius, nihil purius, nihil <lb/>
             denique pulchrius ea mente esse debet, quae in dei habitaculum praeparanda <lb/>
             est, quem non auro templa fulgentia, non gemmis altaria distincta <lb n="25"/>
-            delectant, sod anima ornata uirtutibus. ideo et templum dei <lb/>
+            delectant, <choice><sic>sod</sic><corr>sed</corr></choice> anima ornata uirtutibus. ideo et templum dei <lb/>
             sanctorum corda dicuntur affirmante apostolo, qui ait: si quis templum <lb/>
             dei uiolauerit, disperdet illum deus; templum enim <lb/>
             dei sanctum est, quod estis uos.

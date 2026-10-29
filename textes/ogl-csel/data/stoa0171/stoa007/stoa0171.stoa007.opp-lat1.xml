@@ -91,6 +91,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 1 mot mal lu, 1 mot collé.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -2334,7 +2335,7 @@
             sic exprimi, ut discoloribus membris per omne corpus <lb/>
             concors mixtura uarietur.</p></div>
 
-<div n="12" subtype="section" type="textpart"><p>dispares quoque naturae hocmodo  <lb/>
+<div n="12" subtype="section" type="textpart"><p>dispares quoque naturae <choice><sic>hocmodo</sic><corr>hoc modo</corr></choice>  <lb/>
             fieri putantur: cum forte in laeuam uteri partem masculinae <lb/>
             stirpis semen inciderit, marem quidem gigni <lb n="15"/>
             opinatio est, sed quia sit in feminina parte conceptus. <lb/>
@@ -2386,7 +2387,7 @@
             accepit:</p></div>
 
 <div n="17" subtype="section" type="textpart"><p>item mulier, ut Varro interpretatur, a mollitie,<lb n="15"/>
-            inmutata et detracta littera, uelut mollier. cui suscepto <lb/>
+            inmutata et detracta littera, uelut <choice><sic>mollier</sic><corr>mollior</corr></choice>. cui suscepto <lb/>
             fetu cum partus adpropinquare iam coepit, turgescentes mammae <lb/>
             dulcibus sucis distenduntur et ad nutrimenta nascentis fontibus <lb/>
             lacteis fecundum pectus exuberat. nec enim decebat aliud <lb/>

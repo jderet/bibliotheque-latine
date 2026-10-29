@@ -90,6 +90,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 22 mots mal lus, 13 mots collés, 1 mot coupé.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -449,7 +450,7 @@
             scilicet sacrilegam peruersamque doctrinam, disperdet in perpetuum.  <lb/>
             </p></div>
 
-<div n="3" subtype="section" type="textpart"><p>porro ea quae eleuantur contra seientiam dei et in <lb/>
+<div n="3" subtype="section" type="textpart"><p>porro ea quae eleuantur contra <choice><sic>seientiam</sic><corr>scientiam</corr></choice> dei et in <lb/>
             sua confidunt sapientia, quae apud deum stultitia est, dissipabit <lb/>
             atque deponet, ut aedificentur pro his humilia, et in<lb n="5"/>
             locum superiorum, quae destructa sunt et euulsa, exstruantur <lb/>
@@ -2673,7 +2674,7 @@
             Christum dominum deum suum et in eo peccauit non solum <lb/>
             illo tempore, quando est nisus in carne. sed et ante aduentum<lb n="20"/>
             illius.unde dicunt: \'nos et patres n ostri ab adulescentia <lb/>
-            nostrausquead hancdiemetnon audiuimus uocem <lb/>
+            <choice><sic>nostrausquead</sic><corr>nostra usque ad</corr></choice> hancdiemetnon audiuimus uocem <lb/>
             dei nostri, qui nostris patribus loquebatur: si crederetis <lb/>
             Mosi, crederetis et mihi; de me enim ille scripsit. 
 </p>
@@ -3903,7 +3904,7 @@
             in uentum, sed iam nunc adducam super uos gentem <lb/>
             Babyloniorum, quae ueniet de longinquo, gentem robustam\' <lb/>
             — pro quo in Hebraeo scriptum est \'ethan\' — ,\'gentem anti quam\' <lb/>
-            — cuius quondam dominatus est Nebrod gigans —, lcuius <lb n="15"/>
+            — cuius quondam dominatus est Nebrod gigans —, <choice><sic>lcuius</sic><corr>leuius</corr></choice> <lb n="15"/>
             ignorabis linguam siue\' — ut in Hebraeo scriptum est - \'nec  <lb/>
             intelleges, quid loquatur; est enim malorum <milestone n="877" unit="altchapter"/> solacium, si <lb/>
             illos hostes habeas, quos possis rogare et qui tuas intellegant <lb/>
@@ -4208,7 +4209,7 @@
             <hi rend="italic">dicit dominus, aut super gentem huiuscemodi non  <lb/>
             ulciscetur anima mea</hi>?</p></div>
 
-<div n="2" subtype="section" type="textpart"><p>Si uoluero annotare per siugula, <lb/>
+<div n="2" subtype="section" type="textpart"><p>Si uoluero annotare per <choice><sic>siugula</sic><corr>singula</corr></choice>, <lb/>
             quae in Septuaginta editione praetermissa sunt, longum fiet. <lb/>
             \'qui tendunt,\' ait, \'insidias et aliorum nuditate laetantur, ideo <lb/>
             magnificati sunt et ditati.\' quia superiora fecerunt, incrassati<lb n="5"/>
@@ -4785,7 +4786,7 @@
 
 <div n="6" subtype="section" type="textpart"><p>et cognosce, congregatio, nequaquam <lb/>
             Iudaica. sed omnium nationum siue, qui pascitis greges, <lb/>
-            episcopi et presbyteri et omnis ordo ecclesiasticus, uel c ognoscite <lb/>
+            episcopi et presbyteri et omnis ordo ecclesiasticus, uel <choice><sic>c ognoscite</sic><corr>cognoscite</corr></choice> <lb/>
             testimonium, quod in eis est; testimonium <lb/>
             enim dei fidele, sapientiam praestans paruulis. quibus<lb n="20"/>
             loquitur et dominus: noli timere, grex paruule, et: ecce ego et pueri mei, quos mihi dedit deus. \'cognoscite <lb/>
@@ -5011,7 +5012,7 @@
             repente ueniet uastator siue miseria super nos, LXX <lb/>
             super uos posuerunt, cum multo deus misericordius dixerit, <lb/>
             ut. quidquid super suum uenturum est populum, super se<lb n="20"/>
-            quoque uenire testetur. \'uastatorem\' autem proprie uelNabuchodonosor <lb/>
+            quoque uenire testetur. \'uastatorem\' autem proprie <choice><sic>uelNabuchodonosor</sic><corr>uel Nabuchodonosor</corr></choice> <lb/>
             uel diabolum significat. 
 </p>
           </div>
@@ -5048,7 +5049,7 @@
              argentum reprobum uocate eos, quia dominus <lb/>
             proiecit illos</hi>!</p></div>
 
-<div n="2" subtype="section" type="textpart"><p>Datur propbeta populo incredulo probator  <lb/>
+<div n="2" subtype="section" type="textpart"><p>Datur <choice><sic>propbeta</sic><corr>propheta</corr></choice> populo incredulo probator  <lb/>
             robustus\', quod Hebraice dicitur \'mabsar\'. quod uel \'munitum\' <lb/>
             iuxta Aquilam uel \'clausum\' atque \'circumdatum\' iuxta Symmachum <lb/>
             et LXX sonat instar urbis firmissimae, ut nullas <lb n="10"/>
@@ -5290,7 +5291,7 @@
 <p rend="script"><note type="margin">7, 12 20 </note> <hi rend="italic">Ite ad locum meum in Silo, ubi habitauit <lb n="20"/>
             nomen meum a principio, et uidete, quae fecerim ei <lb/>
             propter malitiam populi mei Israhel </hi>! Ex praeteritis docet <lb/>
-            praesentia et dieentibus: templum domini, templum
+            praesentia et <choice><sic>dieentibus</sic><corr>dicentibus</corr></choice>: templum domini, templum
 
 <note type="footnote"> 1 cf. Ios. 22, 16. Ind. 5. 17. 19 4 *Hier. 7. 11 6 *Matth. <lb/>
             21, 13. cf. Marc. 11, 17. Luc. 19. 46 9 Ioh. 2, 16 14 Hier. 7, 11 <lb/>
@@ -5583,7 +5584,7 @@
             eorum de terra Aegypti, usque ad hunc diem</hi>.</p></div>
 
 <div n="2" subtype="section" type="textpart"><p>\'Me dicente:  <lb n="5"/>
-            audite uocem meam et ero uobisdeus et reliqua, <lb/>
+            audite uocem meam et ero <choice><sic>uobisdeus</sic><corr>uobis deus</corr></choice> et reliqua, <lb/>
             non audierunt nec inclinauerunt aurem suam,  <lb/>
             sed sui cordis fecere desideria et contra apostoli sententiam, <milestone n="896" unit="altchapter"/> <lb/>
             qui praeteritorum obliuiscebatur et in priora se extendebat, <lb/>
@@ -5880,7 +5881,7 @@
             dat locum paenitentiae.</p></div>
 
 <div n="2" subtype="section" type="textpart"><p>quod autem iuxta Hebraicum scriptum <lb/>
-            est:etqui auersus est. non auertetillud significatquod, <lb/>
+            est:etqui auersus est. non auertetillud <choice><sic>significatquod</sic><corr>significat quod</corr></choice>, <lb/>
             qui a deo auersatus est, si uoluerit ad meliora conuerti. possit
 
 <note type="footnote"> 19 *Hier. 8, 4 23 *Hier. 8, 4 </note>
@@ -6718,12 +6719,12 @@
              donec consumantur</hi>. Potest et de uicino tempore prophetari, <lb/>
             quando capti sunt a Chaldaeis, et proprie de hoc tempore, <lb n="10"/>
             quando dispersi sunt in gentibus, quas non nouerant ipsi <lb/>
-            et patres eorum, et in toto orbe diuisi cibatique suut absinthio <lb/>
+            et patres eorum, et in toto orbe diuisi cibatique <choice><sic>suut</sic><corr>sunt</corr></choice> absinthio <lb/>
             siue necessitatibus et angustiis.</p></div>
 
 <div n="2" subtype="section" type="textpart"><p>et acceperunt potum  <lb/>
             aquam fellis, quod aut malorum significat magnitudinem et <lb/>
-            sempiteruum captiuitatis iugum, aut certe per ignorantiam <lb n="15"/>
+            <choice><sic>sempiteruum</sic><corr>sempiternum</corr></choice> captiuitatis iugum, aut certe per ignorantiam <lb n="15"/>
             legis dei pro Christo Antichristum suscepturi sunt. mittitur <lb/>
             autem gladius post eos, ut usque ad interitum consumantur, <lb/>
             uel certe gladius, qui eos diuidat et non patiatur in malum <lb/>
@@ -8572,7 +8573,7 @@
              carni</hi>. LXX: <hi rend="italic">propter me dissipatione dissipata est <lb/>
             terra</hi> et reliqua.</p></div>
 
-<div n="2" subtype="section" type="textpart"><p>Hoc, quod posuimus: luxitque superme 
+<div n="2" subtype="section" type="textpart"><p>Hoc, quod posuimus: luxitque <choice><sic>superme</sic><corr>super me</corr></choice> 
             iuxta Hebraicum priori uersiculo copulatur, ut sit: posuerunt <lb/>
             eam in dissipationem, hoc est hereditatem meam, <lb n="20"/>
             luxitque super me meo auxilio destituta. iuxta LXX uero <lb/>
@@ -8993,7 +8994,7 @@ peribunt\'. potest hoc et iuxta historiam <milestone n="933" unit="altchapter"/>
             Babylonem legimus, ubi scriptum est: super montem caligosum <lb/>
             leuate signum, quod Hebraice dicitur \'neseptha\'. <lb/>
             hoc itaque praecipit, ut, antequam ducantur in captiuitatem <lb/>
-            et sernitutis mala sentiant, agant paenitentiam, cumque
+            et <choice><sic>sernitutis</sic><corr>seruitutis</corr></choice> mala sentiant, agant paenitentiam, cumque
 
 <note type="footnote"> 1 *Hier. 13, 15 8. 9 *Hier. 13, 16 13 *Hier. 13, 17 14 *Hier. <lb/>
             13, 15 18 Ps. 67, 35. *I Par. 16, 28 (29) etc. 21 *Esai. 13, 2 </note>
@@ -10287,7 +10288,7 @@ peribunt\'. potest hoc et iuxta historiam <milestone n="933" unit="altchapter"/>
             ,-desideraui. <lb/>
             </p></div>
 
-<div n="2" subtype="section" type="textpart"><p>nec protuit mihi quisquam; salus enim  <lb/>
+<div n="2" subtype="section" type="textpart"><p>nec <choice><sic>protuit</sic><corr>profuit</corr></choice> mihi quisquam; salus enim  <lb/>
             creaturae lucrum est creatoris. aut certe non debui nec <lb/>
             debuit mihi quisquam; nemo mihi dedit, quantum accipere <lb/>
             cupiebam, nec me sibi fecit in aliquo debitorem\'. quodque <lb n="5"/>
@@ -10386,7 +10387,7 @@ peribunt\'. potest hoc et iuxta historiam <milestone n="933" unit="altchapter"/>
             amieitiam <hi rend="italic">P</hi> 25 deleth <hi rend="italic">P,Ap.c.m2 </hi>. </note> <lb n="25"/>
              
 <pb n="191"/>
-            similis estlegatur \'daleth\', scientiam cognitionemque\' significat. <lb/>
+            similis <choice><sic>estlegatur</sic><corr>est legatur</corr></choice> \'daleth\', scientiam cognitionemque\' significat. <lb/>
             quod autem dicitur, sic intellegendum:</p></div>
 
 <div n="2" subtype="section" type="textpart"><p>(ne doleas, quod populus  <lb/>
@@ -10626,7 +10627,7 @@ peribunt\'. potest hoc et iuxta historiam <milestone n="933" unit="altchapter"/>
              et erunt cadauera eorum in escam uolatili bus <lb/>
             caeli et bestiis terrae</hi>.</p></div>
 
-<div n="2" subtype="section" type="textpart"><p>Si tempore imminentis captinitatis  <lb/>
+<div n="2" subtype="section" type="textpart"><p>Si tempore imminentis <choice><sic>captinitatis</sic><corr>captiuitatis</corr></choice>  <lb/>
             uetatur propheta uxorem ducere, ne tribulationem carnis habeat  <lb/>
             et super dolorem proprium <milestone n="951" unit="altchapter"/> uxoris quoque ac liberorum miseriis <lb/>
             torqueatur, quanto magis apostolus iubet, quia adbreuiatum <lb n="20"/>
@@ -10967,7 +10968,7 @@ peribunt\'. potest hoc et iuxta historiam <milestone n="933" unit="altchapter"/>
             eos in terram suam, quam dedi patribus eorum, <lb/>
             nunc ostendit, quomodo reducendi sint, quod primum mittat<lb n="5"/>
             apostolos, quibus saluator dixit: uenite post me et faciam <lb/>
-            uospiscatores hominum, et postea uenatores, quos uel <lb/>
+            <choice><sic>uospiscatores</sic><corr>uos piscatores</corr></choice> hominum, et postea uenatores, quos uel <lb/>
             ecclesiasticos uiros uel angelos possumus accipere, qui, postquam <lb/>
             consummationis tempus aduenerit, uenentur sanctos <lb/>
             quosque de montibus dogmatum excelsorum et de collibus<lb n="10"/>
@@ -11206,7 +11207,7 @@ peribunt\'. potest hoc et iuxta historiam <milestone n="933" unit="altchapter"/>
             in aeternum.</p></div>
 
 <div n="3" subtype="section" type="textpart"><p>pudet me contentionis nostrorum, qui Hebraicam <lb/>
-            arguunt ueritatem. Iudaei contra se leguut et, quid pro se sit,<lb n="20"/>
+            arguunt ueritatem. Iudaei contra se <choice><sic>leguut</sic><corr>legunt</corr></choice> et, quid pro se sit,<lb n="20"/>
             nescit ecclesia. unde nos, qui sumus filii apostolorum, recordemur <lb/>
             iniquitatum prioris populi et iuste eos perpessos esse  <lb/>
             testamur.</p></div>
@@ -11359,7 +11360,7 @@ peribunt\'. potest hoc et iuxta historiam <milestone n="933" unit="altchapter"/>
 <div n="4" subtype="section" type="textpart"><p>et non, inquit, timebit, cum uenerit aestus —  <lb/>
             uel tempus persecutionis uel dies iudicii —; et erit folium <lb n="20"/>
             eius uiride — siue erunt in eo ramusculi frondentes —, <lb/>
-            ut numquam timeat siccitatem, sed cunctarum uirtntum germinet <lb/>
+            ut numquam timeat siccitatem, sed cunctarum <choice><sic>uirtntum</sic><corr>uirtutum</corr></choice> germinet <lb/>
             gratia. cumque tempus siue annus uenerit siccitatis, <lb/>
             non metuet, quando dominus iratus mandauerit nubibus. ne <lb/>
             pluant super Israhel imbrem.</p></div>
@@ -11492,7 +11493,7 @@ peribunt\'. potest hoc et iuxta historiam <milestone n="933" unit="altchapter"/>
             <hi rend="italic">quent eum</hi> — <hi rend="italic">et in nouissimo suo erit insipiens</hi>.  <lb/>
 </p></div>
 
-<div n="2" subtype="section" type="textpart"><p>            Aiunt sQriptores naturalis historiae, tam bestiarum et uoiucrum <lb/>
+<div n="2" subtype="section" type="textpart"><p>            Aiunt sQriptores naturalis historiae, tam bestiarum et <choice><sic>uoiucrum</sic><corr>uolucrum</corr></choice> <lb/>
             quam arborum herbarumque, quorum principes sunt apud <lb/>
             Graecos Aristoteles et Theophrastus, apud nos Plinius Secundus,  <lb/>
             hanc perdicis esse <milestone n="961" unit="altchapter"/> naturam, ut oua alterius perdicis, id est<lb n="5"/>
@@ -11822,7 +11823,7 @@ peribunt\'. potest hoc et iuxta historiam <milestone n="933" unit="altchapter"/>
             sabbati, ut omne tempus uitae nostrae in sanctificatione I <lb/>
             ducamus, sicut fecerunt patres nostri Abraham, Isaac et Iacob. <lb/>
             cumque ista praeceperit deus, non inclinauerunt aurem <lb/>
-            suam — mentis utiquenon carnis —,sed induraueruntceruicem <lb/>
+            suam — mentis <choice><sic>utiquenon</sic><corr>utique non</corr></choice> carnis —,sed induraueruntceruicem <lb/>
             suam reicientes iugum legis et per <foreign xml:lang="grc">μεταϕοαν̀</foreign> indomitorum <lb n="5"/>
             animalium habentes similitudinem.</p></div>
 
@@ -12116,7 +12117,7 @@ et publice <milestone n="967-968" unit="altchapter"/> negant.</p></div>
              
 <pb n="224"/>
             domini audire praecepta. \'cumque,\' ait, (perrexissem et descendissem  <lb/>
-            in domum figuli, faciebatipse opussuperrotam,\' <lb/>
+            in domum figuli, <choice><sic>faciebatipse</sic><corr>faciebat ipse</corr></choice> opussuperrotam,\' <lb/>
             quam LXX uerbi ambiguitate seducti \'lapides\' transtulerunt;  <lb/>
             \'abanim\' enim pro qualitate loci et diuersitate pronuntiationis  <lb/>
             et \'organum\', id est \'rota\' figuli, uocatur et \'lapides\'.</p></div>
@@ -12612,7 +12613,7 @@ et publice <milestone n="967-968" unit="altchapter"/> negant.</p></div>
 <pb n="233"/>
             non quo deus futura nescierit, sed quo indigna sua notitia <lb/>
             ignorare se dicat iuxta illud euangelicum: recedite a m e, <lb/>
-            operariiiniquitatis, nesciouos! nouit enim dominus <lb/>
+            operariiiniquitatis, <choice><sic>nesciouos</sic><corr>nescio uos</corr></choice>! nouit enim dominus <lb/>
             eos, qui sui sunt, et qui ignorat, ignorabitur. uel <lb/>
             certe <foreign xml:lang="grc">ἀνϑρωποπαϑω̃ς</foreign> et haec de deo accipienda sicut et alia. <lb n="5"/>
 </p></div>
@@ -12643,7 +12644,7 @@ et publice <milestone n="967-968" unit="altchapter"/> negant.</p></div>
             locus iste amplius ruina et</hi> <foreign xml:lang="grc">πολάνδριον</foreign> <hi rend="italic">filii Ennom, <lb/>
             sed</hi> <foreign xml:lang="grc">πολο άνδριον</foreign> <hi rend="italic">occisionis</hi>.</p></div>
 
-<div n="2" subtype="section" type="textpart"><p>Quae sit uailis filii 
+<div n="2" subtype="section" type="textpart"><p>Quae sit <choice><sic>uailis</sic><corr>uallis</corr></choice> filii 
 
 <note type="footnote"> 2 *Luc. 13, 27. cf. Matth. 7, 23 3 *II Tim. 2, 19 4 *I Cor. <lb/>
             14. 38 19 *Hier. 19, 6 </note>
@@ -13053,7 +13054,7 @@ et publice <milestone n="967-968" unit="altchapter"/> negant.</p></div>
             per mendacium prospera pollicendo.</p></div>
 
 <div n="5" subtype="section" type="textpart"><p>simulque animaduertenda   <lb/>
-            prophetae patientia atque prndentia, quod missus in carcerem <lb/>
+            prophetae patientia atque <choice><sic>prndentia</sic><corr>prudentia</corr></choice>, quod missus in carcerem <lb/>
             tacet et silentio uincit iniuriam nec tamen dissimulat, quod <lb/>
             scit esse uenturum, ut saltem sic pseudopropheta pontifex <lb n="10"/>
             peccare desistat et dei clementiam deprecetur. 
@@ -13174,7 +13175,7 @@ et publice <milestone n="967-968" unit="altchapter"/> negant.</p></div>
             in Athenis uidens idololatriae deditam ciuitatem incitabatur <lb/>
             spiritu et tota mente feruebat; et post modicum in eodem <lb/>
             uolumine legimus: cum uenissent autem de Macedonia <lb/>
-            Silas et Timotheus. instabat uerbo Panlus testificans <lb/>
+            Silas et Timotheus. instabat uerbo <choice><sic>Panlus</sic><corr>Paulus</corr></choice> testificans <lb/>
             Iudaeis esse Christum Iesum.</p></div>
 
 <div n="5" subtype="section" type="textpart"><p>sed et plerique  <lb n="20"/>
@@ -13938,7 +13939,7 @@ et publice <milestone n="967-968" unit="altchapter"/> negant.</p></div>
             Libani. quod redigendum sit in solitudinem cum uniuersis<lb n="5"/>
             urbibus suis non potentia regis Babylonii. sed domini iussione, <lb/>
             qui dicit: sanctificabo super te interficientem. <lb/>
-            \'sanctus\' autem uocaturNabuchodonosor et omnis eius exercitus,  <lb/>
+            \'sanctus\' autem <choice><sic>uocaturNabuchodonosor</sic><corr>uocatur Nabuchodonosor</corr></choice> et omnis eius exercitus,  <lb/>
             quia exsequitur sententiam dei.</p></div>
 
 <div n="6" subtype="section" type="textpart"><p>\'et succident\'. inquit, (electas <lb/>
@@ -15051,7 +15052,7 @@ et publice <milestone n="967-968" unit="altchapter"/> negant.</p></div>
              Sodoma et habitatores eius quasi Gomorra</hi>.</p></div>
 
 <div n="2" subtype="section" type="textpart"><p>‛Non  <lb/>
-            soium, inquit, ‛in hereticorum conciliabulis haec reperta <lb n="15"/>
+            <choice><sic>soium</sic><corr>solum</corr></choice>, inquit, ‛in hereticorum conciliabulis haec reperta <lb n="15"/>
             sunt. sed in prophetis quoque Hierusalem, id est doctoribus  <lb/>
             <milestone n="1001" unit="altchapter"/> ecclesiae, uidi similia siue horribilia adulterantium uerbum <lb/>
             dei et ingredientium per uiam mendacii, ut hereticorum <lb/>
@@ -15403,7 +15404,7 @@ et publice <milestone n="967-968" unit="altchapter"/> negant.</p></div>
             sunt autem multa genera prophetandi. quorum unum est <lb/>
             somniorum, quale fuit in Danihel —, idcirco et ad eos prophetalis <lb/>
             sermo dirigitur, qui credunt somniis et omnia, quae <lb/>
-            cernunt, putant reuelationem esse diuiuam. quae proprie sanctis <lb/>
+            cernunt, putant reuelationem esse <choice><sic>diuiuam</sic><corr>diuinam</corr></choice>. quae proprie sanctis <lb/>
             et seruis dei aperitur. quodsi legimus Pharao et Nabuchodonosor<lb n="5"/>
             impios reges uidisse somnia, quae uera fuerint. non <lb/>
             eorum fuit meriti. qui uiderunt. sed ut per occasionem eorum <lb/>
@@ -15483,7 +15484,7 @@ et publice <milestone n="967-968" unit="altchapter"/> negant.</p></div>
             mea sunt quasi ignis, dicit dominus, et quasi malleus <lb n="25"/>
             conterens petram?</p></div>
 
-<div n="4" subtype="section" type="textpart"><p>meus enim\', inquit, \'sermo nnntiat 
+<div n="4" subtype="section" type="textpart"><p>meus enim\', inquit, \'sermo <choice><sic>nnntiat</sic><corr>nuntiat</corr></choice> 
 
 <note type="footnote"> 2 Hier. 23, 29 8 cf. Matth. 3, 12. Luc. 3, 17 11 Ps. 33, 9 <lb/>
             20. 21 II Tim. 3, 6. 7 21 cf. Eph. 4, 14 24 Hier. 23, 29 </note>
@@ -17418,7 +17419,7 @@ et publice <milestone n="967-968" unit="altchapter"/> negant.</p></div>
             monte \'Moria\', hoc est \'uisionis\', in quo Abraham Isaac filium <lb/>
             optulisse narratur, cessauit religio Silom nec postea ibi sunt <lb/>
             celebrata sacrificia, sic exstructa ecclesia et spiritalibus in ea <lb/>
-            uictimis immolatis cessauerunt legis cerimoniae et data est nrbs <lb n="20"/>
+            uictimis immolatis cessauerunt legis cerimoniae et data est <choice><sic>nrbs</sic><corr>urbs</corr></choice> <lb n="20"/>
             Iudaeorum in maledictionem cunctis gentibus terrae, de <lb/>
             qua nos dominus liberauit dicente apostolo: Christus
 
@@ -18007,7 +18008,7 @@ et publice <milestone n="967-968" unit="altchapter"/> negant.</p></div>
 <div n="2" subtype="section" type="textpart"><p>Cuius infelicitatis est Israhel, quando conparatione <lb/>
             eius Nabuchodonosor ‛seruus dei’ appellatur! scriptum <lb/>
             est in euangelio: mundus per ipsum factus est et<lb n="20"/>
-            mundus eum non cognouit; in propria uenit etsui <lb/>
+            mundus eum non cognouit; in propria uenit <choice><sic>etsui</sic><corr>et sui</corr></choice> <lb/>
             eum non receperunt. recte itaque conditor creaturam suam <lb/>
             tradit, cui uoluerit. denique et diabolus, in cuius typum praecessit <lb/>
             Nabuchodonosor, confitetur: haec omnia mihi tradita  <lb/>
@@ -19409,7 +19410,7 @@ dicitur: quos frixit <milestone n="1048" unit="altchapter"/> rex Babylonis in ig
             propheta: omnes adulterantes quasi clibanus succensus <lb n="20"/>
             a coquente.</p></div>
 
-<div n="8" subtype="section" type="textpart"><p>felix, qui tollit iugum ab adulescentla sua 
+<div n="8" subtype="section" type="textpart"><p>felix, qui tollit iugum ab <choice><sic>adulescentla</sic><corr>adulescentia</corr></choice> sua 
 
 <note type="footnote"> 5 Hier. 29 (36), 22 6 cf. Dan. 13, 61. 62 (Sus. 61. 62) 13 cf. <lb/>
             Dan. 13, 61 (Sas. 61) 20 Os. 7, 4 21 cf. Thren. 3, 27 </note>
@@ -19546,7 +19547,7 @@ dicitur: quos frixit <milestone n="1048" unit="altchapter"/> rex Babylonis in ig
             esse gratiae et apostolus memorat —; \'cur\', inquit, \'non incre-  <lb/>
 </p></div>
 
-<div n="7" subtype="section" type="textpart"><p>            puisti Hieremiam Anathothiten?\'quod ipsemerebaturquasi ia <lb n="15"/>
+<div n="7" subtype="section" type="textpart"><p>            puisti Hieremiam Anathothiten?\'quod <choice><sic>ipsemerebaturquasi</sic><corr>ipse merebatur quasi</corr></choice> ia <lb n="15"/>
             pseudopropheta, refert in prophetam et praeuenit mendacio ueritatem. <lb/>
             unde et prudentiores putantur filii tenebrarum filiis <lb/>
             lucis in generatione hac nobisque agentibus patienter et exspectantibus <lb/>
@@ -23413,7 +23414,7 @@ dicit dominus: insanabilis fractura <lb/>
             <hi rend="italic">quae ad austrum sunt</hi> —, <hi rend="italic">quia conuertam captiuitatem <lb n="20"/>
             eorum. ait dominus</hi>.</p></div>
 
-<div n="3" subtype="section" type="textpart"><p>Haec iuita iitteram licet in typo  <lb/>
+<div n="3" subtype="section" type="textpart"><p>Haec iuita <choice><sic>iitteram</sic><corr>litteram</corr></choice> licet in typo  <lb/>
             praecesserint post reditum de Chaldaeis, quando ad Cyri regis <lb/>
             imperium reuersus est populus in Iudaeam. tamen spiritaliter in <lb/>
             Christo et in apostolis uerius pleniusque complentur. tunc et homines <lb/>

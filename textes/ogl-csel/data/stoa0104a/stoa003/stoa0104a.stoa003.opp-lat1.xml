@@ -85,6 +85,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 1 mot collé.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -829,7 +830,7 @@
 
 <pb n="413"/>
             adhuc iustiora faciat, similiter et sanctus sanctiora. <lb/>
-            ecce uenio cito, et merces mea mecum estreddere <lb/>
+            ecce uenio cito, et merces mea mecum <choice><sic>estreddere</sic><corr>est reddere</corr></choice> <lb/>
             unicuique secundum facta sua. unde et clamantes <lb/>
             martyres et ad uindictam suam dolore erumpente properantes <lb/>
             expectare adhuc iubentur et temporibus consummandis implendisque <lb n="5"/>

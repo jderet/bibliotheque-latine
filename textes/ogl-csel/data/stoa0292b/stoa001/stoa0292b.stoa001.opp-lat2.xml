@@ -86,7 +86,8 @@
 			</langUsage>
 		</profileDesc>
 
-	</teiHeader>
+	<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 7 mots collés.</change></revisionDesc>
+</teiHeader>
 	<text>
 		<body>
 			<div type="edition" xml:lang="lat" n="urn:cts:latinLit:stoa0292b.stoa001.opp-lat2">
@@ -942,7 +943,7 @@
 					<l n="295">Dum fit <hi rend="italic">adhuc dignus</hi> discitq; labore mereri, \')
 							<milestone n="310" unit="altline"/></l>
 					<l n="296">Expers <hi rend="italic">moerorum curaeq;</hi> ignarus agebat. </l>
-					<l n="297"><sic>Tantu</sic> apud autore est meriti pro nomine summi </l>
+					<l n="297"><sic>Tantu</sic> apud <choice><sic>autore</sic><corr>aut ore</corr></choice> est meriti pro nomine summi </l>
 					<l n="298">Nodu aliquid meruisse mali: <sic>Quatu</sic>
 						<hi rend="italic">ergo</hi> putamus </l>
 					<l n="299">Soluere posse patrem rediturae in tempora vitae: <milestone n="315" unit="altline"/></l>
@@ -1155,7 +1156,7 @@
 					</l>
 					<l n="396"><hi rend="italic">Fingere, pluralemq; Deo vocem addere soli</hi>. </l>
 					<l n="397">Serpentis primam <hi rend="italic">hanc</hi> sonuit vox impia diri, <milestone n="410" unit="altline"/></l>
-					<l n="398">Qui mortis tū caussa fuit: nam credula, postqua </l>
+					<l n="398">Qui mortis tū caussa fuit: nam credula, <choice><sic>postqua</sic><corr>post qua</corr></choice> </l>
 					<l n="399">Rupit sacrilegis praescriptum morsibus Eua, </l>
 					<l n="400">Experti iam docta mali, <hi rend="italic">
 								consorti
@@ -1458,7 +1459,7 @@
 					<l n="25">Nectareusq; sapor: viuis nunc floribus <sic>halans</sic>
 					</l>
 					<l n="26">Tellus, absenti tristes <hi rend="italic">contristat</hi> odore. </l>
-					<l n="27">O quam no eade <hi rend="italic">(
+					<l n="27">O quam no <choice><sic>eade</sic><corr>ea de</corr></choice> <hi rend="italic">(
 								exclamat
 								
 							)</hi> Paradise rependis: </l>
@@ -2390,7 +2391,7 @@
 						<hi rend="italic">* Iam captiua diu claustris emittere apertis,</hi>
 					</l>
 					<l n="422"><hi rend="italic">Quae bonus humanos</hi> opifex <hi rend="italic">seruarat</hi> in vsus: </l>
-					<l n="423">Quę postqua data porta, ruunt: pars aera pennis, </l>
+					<l n="423">Quę <choice><sic>postqua</sic><corr>post qua</corr></choice> data porta, ruunt: pars aera pennis, </l>
 					<l n="424">Pars saltus, syluasq; petunt: pars mersa cauernis <milestone n="525" unit="altline"/></l>
 					<l n="425">Infoditur, patulis: terrae pars libera campis, </l>
 					<l n="426">Exultat siccis, &amp; prato vernat aperto. </l>
@@ -2941,7 +2942,7 @@
 					<l n="203"><hi rend="italic"><sic>Quu</sic> nemo indutus terreno</hi> corpore coelum
 							<milestone n="250" unit="altline"/></l>
 					<l n="204">Ascendat, nisi qui coelo descenderit alto. </l>
-					<l n="205">Sed quia gens vna est, eade quoq; forma <sic>loquedi</sic>
+					<l n="205">Sed quia gens vna est, <choice><sic>eade</sic><corr>ea de</corr></choice> quoq; forma <sic>loquedi</sic>
 					</l>
 
 
@@ -3957,7 +3958,7 @@
 					<pb n="482"/>
 					<l n="710"><hi rend="italic"><sic>Ttcm</sic></hi> sol exoritur toto feruentior igne, </l>
 					<l n="711">Irato fulgore micans, radiosque seueros </l>
-					<l n="712">Dirigit in Sodoma: qui postqua lumina flamis <milestone n="765" unit="altline"/></l>
+					<l n="712">Dirigit in Sodoma: qui <choice><sic>postqua</sic><corr>post qua</corr></choice> lumina flamis <milestone n="765" unit="altline"/></l>
 					<l n="713">Inuoluere suis, resolutaq; sulphura: nexos </l>
 					<l n="714">Secum praecipitant ignes, siccoq; liquore </l>
 					<l n="715">Dispensata suis stillant incendia <hi rend="italic">
@@ -3967,7 +3968,7 @@
 					<l n="716">Fulmineus denso praeceps cadit aere nymbus </l>
 					<l n="717">Inuoluitq; <sic>vrbes</sic>, &amp; totis <sic>sęuit</sic> in agris. <milestone n="770" unit="altline"/></l>
 					<l n="718">Admixto stridore tonat, vincitq; querelas </l>
-					<l n="719">Flammea tempestas: quae postqua pabula terris </l>
+					<l n="719">Flammea tempestas: quae <choice><sic>postqua</sic><corr>post qua</corr></choice> pabula terris </l>
 					<l n="720">Repperit <hi rend="italic">incensis, ipsisq;</hi> insedit arenis, </l>
 					<l n="721">Erigit immensam coniuncto fomite metam </l>
 					<l n="722">Ignis, &amp; a terris redeunt in sidera flammae, <milestone n="775" unit="altline"/></l>

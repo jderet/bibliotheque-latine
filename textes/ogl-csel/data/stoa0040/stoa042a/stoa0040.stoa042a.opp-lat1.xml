@@ -88,6 +88,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 3 mots mal lus, 1 césure, 1 mot collé.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -2797,7 +2798,7 @@
              laudent nomen domini. et caelos caelorum si bene intellegimus <lb n="15"/>
             sidereos aeriorum, tamquam superiores inferiorum, et <lb/>
             hos in eodem psalmo accipimus, ubi dictum est: laudate <lb/>
-            eum, caeli oaelorum, satis adparet hunc aerem non solum <lb/>
+            eum, caeli <choice><sic>oaelorum</sic><corr>caelorum</corr></choice>, satis adparet hunc aerem non solum <lb/>
             caelum, sed etiam caelos dici, sicut dicuntur et terrae, nec <lb/>
             aliud significatur quam illa quae singulariter terra dicitur, <lb n="20"/>
             quando dicimus orbem terrarum et orbem terrae. 
@@ -3786,7 +3787,7 @@
             et omne lignum, quod habet in se fructum seminis ■ <lb n="5"/>
             seminalis — uobis erit ad escam et omnibus bestiis <lb/>
             terrae et omnibus uolatilibus caeli et omni reptili <lb/>
-            repenti super terram, quodhabetin se spiritum uitae - et <lb/>
+            repenti super terram, <choice><sic>quodhabetin</sic><corr>quod habet in</corr></choice> se spiritum uitae - et <lb/>
             omne pabulum uiride in escam. et factum est sic. <lb/>
             et uidit deus omnia, quae fecit, et ecce bona ualde. <lb n="10"/>
             et facta est uespera, et factum est mane dies sextus. <lb/>
@@ -5280,8 +5281,7 @@
             quae fecit, ex eo coepta est, ex quo illa perfecit. neque enim <lb/>
             operibus suis non egendo requieuisset, priusquam essent, <lb/>
             quibus nec perfectis eguisset; et quia eis omnino numquam . <lb/>
-            eguit nec ista beatitudo, qua non eis eget, tamquam pro-<lb n="25"/>
-            ficiendo perficietur, ideo septimo diei nulla uespera accessit. 
+            eguit nec ista beatitudo, qua non eis eget, tamquam pro<lb n="25" break="no"/>ficiendo perficietur, ideo septimo diei nulla uespera accessit. 
 </p>
           
 </div>
@@ -8117,7 +8117,7 @@
           <p>Ac per hoc alia quaestio est suo loco retractanda, quid de <lb/>
             peccato primorum parentum, qui duo soli fuerunt, generis <lb/>
             humani contraxerit uniuersa consparsio; nihil tamen talium <lb/>
-            mcritorum habere potuisse hominem, antequam de terrae <lb/>
+            <choice><sic>mcritorum</sic><corr>meritorum</corr></choice> habere potuisse hominem, antequam de terrae <lb/>
             puluere fictus esset, antequam suo tempore uiueret, nulla<lb n="5"/>
             quaestio est. sicut enim Esau et Iacob, quos nondum natos <lb/>
             dixit apostolus nihil egisse boni uel mali, non possemus dicere <lb/>
@@ -8534,7 +8534,7 @@
             causas futura sunt. sed si ita sunt et in praescientia dei, <lb/>
             uere futura sunt; si autem ibi aliter sunt, ita potius futura <lb/>
             sunt, sicut ibi sunt, ubi qui praescit falli non potest. nam <lb n="15"/>
-            futura dicitur senectus in iuueue, sed tamen futura non est, <lb/>
+            futura dicitur senectus in <choice><sic>iuueue</sic><corr>iuuene</corr></choice>, sed tamen futura non est, <lb/>
             si ante moriturus est. hoc autem ita erit, sicut se habent <lb/>
             aliae causae siue mundo contextae siue in dei praescientia <lb/>
             reseruatae; nam secundum quasdam causas futurorum moriturus <lb/>

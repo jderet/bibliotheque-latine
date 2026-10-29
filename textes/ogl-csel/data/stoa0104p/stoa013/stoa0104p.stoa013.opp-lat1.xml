@@ -85,6 +85,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 1 mot mal lu.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -411,7 +412,7 @@
 </p>
           </div>
 
-<div n="8" subtype="section" type="textpart"><p> Nam illa altera reliquorum dementia est manifesta otiosis hominibns <lb/>
+<div n="8" subtype="section" type="textpart"><p> Nam illa altera reliquorum dementia est manifesta otiosis <choice><sic>hominibns</sic><corr>hominibus</corr></choice> <lb/>
             negotiatio: in iniuriam suam pinguescit in sagina corpus ut <lb/>
             robustius aut feriat aut uapulet, et prima uictoria est ultra modum, <lb/>
             humani uentris esurire potuisse, super titulo coronae edacis flagitiosae <lb/>

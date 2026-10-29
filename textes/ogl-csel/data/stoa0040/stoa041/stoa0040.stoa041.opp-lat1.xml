@@ -87,6 +87,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 2 mots collés, 1 mot coupé.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -373,7 +374,7 @@
             aduersus schisma Donati, et hoc non cum illis, qui nouerunt <lb/>
             Caecilianum non ueris, sed calumniosis criminibus adpetitum, <lb/>
             et perniciosam sententiam suam mortifero pudore non deserunt, <lb/>
-            sed cumillis, quibus dicimus: etiamsi mali fuissent, propter quos <lb/>
+            sed <choice><sic>cumillis</sic><corr>cum illis</corr></choice>, quibus dicimus: etiamsi mali fuissent, propter quos <lb/>
              in ecclesia non estis, uos tamen eos ferendo, quos emendare aut <lb n="20"/>
             segregare minime poteratis, in ecclesia permanere debuistis. <lb/>
             quidam uero e contrario periclitantes cum bonorum
@@ -2277,7 +2278,7 @@
             ad solam fidem pertinere — quamquam hoc dicere nullus est <lb/>
             ausus, praesertim quia mandata dixit, quae ne multitudine <lb/>
             cogitationem spargerent, in illis duobus tota lex pendet <lb/>
-            et prophet ae — licet recte dici possit ad solamfidem pertinere
+            et <choice><sic>prophet ae</sic><corr>prophetae</corr></choice> — licet recte dici possit ad solamfidem pertinere
 
 <note type="footnote"> 2 Matth. 11, 12 8 cf. Rom. 5, 5 15 loh. 17, 3 18 I loh. <lb/>
             2, 3. 4 24 Matth. 22, 40 </note>
@@ -2526,7 +2527,7 @@
             carnis detis. unde et ipse Petrus dicit: liberi, non <lb/>
             sicut uelamentum malitiae habentes libertatem, <lb/>
             ait de illis et in secunda epistula sua: hi sunt fontes <lb/>
-            sicci etnebulae a turbine exagitatae, quibus caligo <lb/>
+            sicci <choice><sic>etnebulae</sic><corr>et nebulae</corr></choice> a turbine exagitatae, quibus caligo <lb/>
             tenebrarum reseruata est. superba enim uanitatis <lb n="10"/>
             loquentes inliciunt in concupiscentiis carnis inpudicitiae <lb/>
             eos qui paululum effuge-runt, in errore <lb/>

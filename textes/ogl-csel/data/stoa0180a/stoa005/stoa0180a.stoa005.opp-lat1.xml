@@ -84,6 +84,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 3 mots mal lus.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -417,7 +418,7 @@
             sui Pharaenis et ipsi damnentur. salutant religionem tuam <lb n="10"/>
             qui mecum sunt; dignare salutare qui tecum sunt. diuina dei <lb/>
             gratia incolumem te, memorem nostri, semper beatum conseruet, <lb/>
-            merit. home dei, farnule Christi, particeps apostolorum, solatium <lb/>
+            merit. <choice><sic>home</sic><corr>homo</corr></choice> dei, farnule Christi, particeps apostolorum, solatium <lb/>
             fraternitatis, magister ueritatis et in omnibus desiderantissime. <lb/>
             <lb n="15"/>
             
@@ -547,10 +548,10 @@
             
 </p>
           <p rend="script">Accipe aliud, quia tranquillitas tua patienter admittit. manent <lb/>
-            tegatorum litterae qui ad clementiam tuam fuerant destinati <lb/>
+            <choice><sic>tegatorum</sic><corr>togatorum</corr></choice> litterae qui ad clementiam tuam fuerant destinati <lb/>
             quae nuper uenerunt, quibus significant propter turbationem <lb/>
             quidem omnium ecclesiarum se quidem ante succumbere <lb/>
-            sententiis orientalium uoluisse, proposuisse tamen conditlonem, <lb n="20"/>
+            sententiis orientalium uoluisse, proposuisse tamen <choice><sic>conditlonem</sic><corr>conditionem</corr></choice>, <lb n="20"/>
             ut, si idem Arrii haeresem condemnassent, hoc genere  <lb/>
             <add>es</add>se<add>ut</add> inclinati eorum sententiis oboedire. placitum, ut ipsi <lb/>
             significant, scriptura teste firmatur. itur in concilium, acci. <lb/>

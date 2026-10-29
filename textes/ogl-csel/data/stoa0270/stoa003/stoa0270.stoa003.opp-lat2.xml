@@ -86,6 +86,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 3 mots mal lus, 1 mot collé.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -566,7 +567,7 @@
 
 <pb n="159"/>
             quae cum reprimi sacerdotum auctoritate non posset, scaeuo exemplo<lb/>
-            ad regendam ecelesiae disciplinam praefectus adsumitur, cuius <lb/>
+            ad regendam <choice><sic>ecelesiae</sic><corr>ecclesiae</corr></choice> disciplinam praefectus adsumitur, cuius <lb/>
             terrore dispersi fratres ac per diuersas oras monachi sunt fugati, <lb/>
             ita ut propositis edictis in nulla consistere sede sinerentur. 
 </p>
@@ -1709,7 +1710,7 @@
             eum cogitatio iniecta per diabolum, quod rectius esset ut rediret <lb n="25"/>
             ad patriam filiumque unicum ac domum totam cum uxore saluaret<lb/>
             : quod utique esset acceptius Deo, quam si solum se saeculo <lb/>
-            eripere contentus salutem suorum non sine inpietate neclegeret.  <lb/>
+            eripere contentus salutem suorum non sine inpietate <choice><sic>neclegeret</sic><corr>nec legeret</corr></choice>.  <lb/>
 
 </p>
 </div>
@@ -4200,7 +4201,7 @@ efferor, si quid creditis, spiritu et prae dolore totus <lb/>
 
 <div n="2" subtype="section" type="textpart"><p>Maximus imperator,<lb/>
             alias sane bonus, deprauatus consiliis sacerdotum post <lb n="15"/>
-            Priscilliani necem Ithacium episoopum Priscilliani accusatorem <lb/>
+            Priscilliani necem Ithacium <choice><sic>episoopum</sic><corr>episcopum</corr></choice> Priscilliani accusatorem <lb/>
             ceterosque illius socios, quos nominari non est necesse, ui regia <lb/>
             tuebatur, ne quis ei crimini daret, opera illius cuiuscumque modi  <lb/>
             hominem fuisse damnatum. 
@@ -4348,7 +4349,7 @@ efferor, si quid creditis, spiritu et prae dolore totus <lb/>
             publicorum potius quam insectationibus sacerdotum: non esse <lb/>
             causam, qua Ithacii ceterorumque partis eius communionem putaret<lb/>
             esse damnandam. Theognitum odio potius quam causa<lb n="20"/>
-            ecisse discidium, eundemque tamen solum esse, qui se a communione<lb/>
+            <choice><sic>ecisse</sic><corr>egisse</corr></choice> discidium, eundemque tamen solum esse, qui se a communione<lb/>
             interim separarit: a reliquis nihil nouatum. quin etiam <lb/>
             ante paucos dies habita synodus Ithacium pronuntiauerat culpa  <lb/>
             non teneri. 

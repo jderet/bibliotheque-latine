@@ -85,6 +85,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 1 mot collé, 1 mot mal lu.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -168,7 +169,7 @@
             </p>
           </div>
 
-<div n="2" subtype="section" type="textpart"><p rend="script">Quid est ergo renerti, quam in Christum credendo per eum qui est  <lb/>
+<div n="2" subtype="section" type="textpart"><p rend="script">Quid est ergo <choice><sic>renerti</sic><corr>reuerti</corr></choice>, quam in Christum credendo per eum qui est  <lb/>
             uia ueniendi ad patrem Deo reconciliatum posse saluari ? quomodo <lb/>
             autem reuerti ad Deum possunt qui ei per quem est agnitio et reuersio <lb n="10"/>
             ad Deum uoluntatem Dei praedicanti credere noluerunt ? aut <lb/>
@@ -482,7 +483,7 @@
 
 <div n="8" subtype="section" type="textpart"><p> Nam ut duri cordis tunc et impiae plebis ad Domini metum ipso <lb/>
             Domino euangelizante conuersas mentes sileam, ut apostolorum eius<lb n="10"/>
-            praedicatione multiplicatum in orbe toto et refersum credentium <lb/>
+            praedicatione multiplicatum in orbe toto et <choice><sic>refersum</sic><corr>refer sum</corr></choice> credentium <lb/>
             populum conticiscam: illud praeclarum atque memorabile gloriosumque <lb/>
             Iasonis Hebraei Christiani et Papisci Alexandrini Iudaei <lb/>
             disceptationis occurrit, Iudaici cordis obstinatam duritiam Hebraei <lb/>

@@ -85,6 +85,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 13 mots mal lus, 4 mots collés.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -539,7 +540,7 @@
             non sum nec in aduersas res bonas mali ominis obscenitate <lb/>
              traduco?</p></div>
 
-<div n="17" subtype="section" type="textpart"><p>et tamen o magni cuitores atque antistites  <lb n="10"/>
+<div n="17" subtype="section" type="textpart"><p>et tamen o magni <choice><sic>cuitores</sic><corr>cultores</corr></choice> atque antistites  <lb n="10"/>
             numinum, cur irasci populis Christianis augustissimos illos <lb/>
             adseueratis deos? ita, non aduertitis non uidetis, adfectus quam <lb/>
             turpes, quam indecoras numinibus attribuatis insanias? quid est <lb/>
@@ -725,7 +726,7 @@
             numinum, qui aut summo seruientibus regi crimen <lb n="15"/>
             impietatis adfingit aut sibi torquetur maiestatem eius cultumque <lb/>
             praeponi? Delius Apollo uel Clarius, Didymaeus Philesius <lb/>
-            Pythius † ethis habendus diuinus est, qui aut summum imperatorem <lb/>
+            Pythius † <choice><sic>ethis</sic><corr>et his</corr></choice> habendus diuinus est, qui aut summum imperatorem <lb/>
             nescit aut ignorat a nobis cotidianis ei precibus supplicari? <lb/>
             qui si pectorum secreta nesciret nec quid in intimis <lb/>
              sensibus contineamus agnosceret, summum tamen inuocare nos <lb n="20"/>
@@ -1299,7 +1300,7 @@
             ab aggeribus conditos et post diem funeris tertium <lb/>
             pollinctorum uelaminibus expediri? unus fuit e nobis, qui <lb/>
             quid singuli uoluerent, quid sub obscuris cogitationibus continerent <lb/>
-            tacitorum in cordibus peruidebat? unus fuit enobis,<lb n="20"/>
+            tacitorum in cordibus peruidebat? unus fuit <choice><sic>enobis</sic><corr>e nobis</corr></choice>,<lb n="20"/>
             qui cum unam emitteret uocem, ab diuersis populis et dissona <lb/>
             oratione loquentibus familiaribus uerborum sonis et suo cuique <lb/>
             utens existimabatur eloquio? unus fuit e nobis, qui cum officia  <lb/>
@@ -2148,7 +2149,7 @@
 <div n="5" subtype="section" type="textpart"><p>quid dicitis, o <lb/>
             nescii, etiam fletu et miseratione dignissimi? ita non extimescitis, <lb/>
             ne forte haec uera sint quae sunt despectui uobis et <lb/>
-            praebent materiam risus ? nec saltem uobiscum sub ohscuri <lb n="15"/>
+            praebent materiam risus ? nec saltem uobiscum sub <choice><sic>ohscuri</sic><corr>obscuri</corr></choice> <lb n="15"/>
             cogitationibus uoluitis, ne quod hoc die credere obstinata <lb/>
             renuitis peruersitate, redarguat serum tempus et inreuocabilis <lb/>
             paenitentia castiget? nonne uel haec saltem fidem uobis faciunt <lb/>
@@ -2997,7 +2998,7 @@
 <pb n="70"/>
             ratio non tantum incorporeas indicat eas non esse, uerum etiam <lb/>
             priuat immortalitate has omnis et ad fines adplicat quibus <lb/>
-            uita consneta est terminari? quicquid enim causa ingruente <lb/>
+            uita <choice><sic>consneta</sic><corr>consueta</corr></choice> est terminari? quicquid enim causa ingruente <lb/>
             nonnulla ita mutatur et uertitur ut integritatem suam retinere <lb/>
             non possit, id necesse est iudicari natura esse passiuum. quod<lb n="5"/>
             autem est promptum atque expositum passioni, corruptibile <lb/>
@@ -3492,7 +3493,7 @@ medietas <milestone n="43" unit="altpage"/>  ergo quaedam et  <lb/>
             et crudelissimo uentri darent,. et in tam saeuis atque horridis <lb/>
             moribus sortem suam flerent \'quas ab talibus mensis paupertatis <lb/>
             <milestone n="48" unit="altpage"/> angustiae uindicarent, pro beatis ac felicibus uiuerent! <lb/>
-            quarum ora et faciem tam crudeles polluerent apparatus? ldcirco <lb/>
+            quarum ora et faciem tam crudeles polluerent apparatus? <choice><sic>ldcirco</sic><corr>idcirco</corr></choice> <lb/>
             animas misit, ut diuini ponderis et grauitatis oblitae <lb n="20"/>
             gemmas lapillos margaritas castitatis dispendio conpararent, <lb/>
             conspiciendis quaererent corporibus fucos, innecterent catenis\' <lb/>
@@ -4486,7 +4487,7 @@ medietas <milestone n="43" unit="altpage"/>  ergo quaedam et  <lb/>
             et numina suppliciter adoratis, sicut uestris litteris atque opinionibus <lb/>
             traditur, non esse, non sciri ab temporibus coeperunt <lb/>
             certis et impositis nominum appellationibus nuncupari? nam <lb/>
-            si uerum est ex Saturno atque eius uxore Iouem suis curn <lb n="10"/>
+            si uerum est ex Saturno atque eius uxore Iouem suis <choice><sic>curn</sic><corr>cum</corr></choice> <lb n="10"/>
             fratribus procreatum, ante nuptias et partus Opis nusquam <lb/>
             fuerat Iuppiter, Iuppiter tam supremus quam Stygius, nusquam <lb/>
             sali dominus, nusquam Iuno, quinimmo alius nullus genitoribus <lb/>
@@ -4657,7 +4658,7 @@ medietas <milestone n="43" unit="altpage"/>  ergo quaedam et  <lb/>
 <div n="74" subtype="section" type="textpart"><p>et quid, inquit, est uisum deo<lb n="10"/>
             regi ac principi, ut ante horas, quemadmodum dicitur, pauculas <lb/>
             sospitator ad uos Christus caeli ex arcibus mitteretur? interrogamus <lb/>
-            et nos contra: quae causa, quae rafio est, ut non <lb/>
+            et nos contra: quae causa, quae <choice><sic>rafio</sic><corr>ratio</corr></choice> est, ut non <lb/>
             suis aliquando reddantur mensibus tempora, sed serius hiemes, <lb/>
             serius aestas atque autumnitas fiant? cur post messes arefactas<lb n="15"/>
             atque extincta frumenta nonnumquam decidant pluuiae, quas <lb/>
@@ -4752,7 +4753,7 @@ medietas <milestone n="43" unit="altpage"/>  ergo quaedam et  <lb/>
             tenebrosam euadere caecitatem.</p></div>
 
 <div n="77" subtype="section" type="textpart"><p>itaque ista quam dicitis persecutionis<lb n="20"/>
-            asperitas liberatio nostra est, non persecutio, necpoenam <lb/>
+            asperitas liberatio nostra est, non persecutio, <choice><sic>necpoenam</sic><corr>nec poenam</corr></choice> <lb/>
             uexatio inferet sed ad lucem libertatis educet. ut si aliquis <lb/>
             brutus ac stolidus in carcerem hominem datum in ingressu <lb/>
             quaestionum numquam adficier sat grauibus atque <lb/>
@@ -9828,7 +9829,7 @@ medietas <milestone n="43" unit="altpage"/>  ergo quaedam et  <lb/>
              
 <pb n="227"/>
             frustis hostias et fragminibus caedere, informibus massis sacra <lb/>
-            et mnnia inpertire diuina : audire a uobis exposcimus, facturine <lb/>
+            et <choice><sic>mnnia</sic><corr>munia</corr></choice> inpertire diuina : audire a uobis exposcimus, facturine <lb/>
             istud sitis an contra quam imperabitur recusaturi P fortasse <lb/>
             dicetis: qua causa? quia nemo est in rebus humanis tam stolide <lb/>
             caecus, qui argentum aes aurum gypsum ebur argillam <lb n="5"/>
@@ -9986,7 +9987,7 @@ medietas <milestone n="43" unit="altpage"/>  ergo quaedam et  <lb/>
             uultus et ad reliquos habitus figurati corporis sui similitudinem  <lb/>
             commodare.</p></div>
 
-<div n="19" subtype="section" type="textpart"><p>in simulacris dii habitant. singuline in singuIis
+<div n="19" subtype="section" type="textpart"><p>in simulacris dii habitant. singuline in <choice><sic>singuIis</sic><corr>singulis</corr></choice>
 
 <note type="footnote"> 2 uinctione si <hi rend="italic">scripsi:</hi> uinctiones ut P uincti omnes et <hi rend="italic">JSab</hi> uinctionis <lb/>
             ui <hi rend="italic">Salm</hi> immobilitatis <hi rend="italic">scripsi:</hi> mobilitatis P nobilitatis <hi rend="italic">Sdb</hi> <lb/>
@@ -10095,7 +10096,7 @@ medietas <milestone n="43" unit="altpage"/>  ergo quaedam et  <lb/>
             esse praesentem et custodia pertinaci suas aedes simulacraque <lb/>
             tutari?</p></div>
 
-<div n="22" subtype="section" type="textpart"><p>nisi forte neclegere deos dicetis haec damna nec putare  <lb/>
+<div n="22" subtype="section" type="textpart"><p>nisi forte <choice><sic>neclegere</sic><corr>neglegere</corr></choice> deos dicetis haec damna nec putare  <lb/>
             esse idoneam causam, propter quam se egerant et nocentibus <lb/>
             poenam uiolatae religionis infligant. ergo si haec ita sunt, nec <lb/>
             <lb n="5"/>
@@ -10278,7 +10279,7 @@ medietas <milestone n="43" unit="altpage"/>  ergo quaedam et  <lb/>
             cruces facinerosorum constituerentur audaciae. nunc uero quia <lb/>
             constitit conprobatumque est, re ipsa inanem esse opinionem <lb n="10"/>
             timoris qui ab signis dicatur effluere, ad legum decursum est <lb/>
-            sanctiones, a quibus esset formido eertissima et iam fixa constitutaque <lb/>
+            sanctiones, a quibus esset formido <choice><sic>eertissima</sic><corr>certissima</corr></choice> et iam fixa constitutaque <lb/>
             damnatio, quibus debent et ipsa simulacra, quod <lb/>
             incolumia <milestone n="134b" unit="altpage"/> adhuc perstant et honoris alicuius concessione  <lb/>
             munita sunt.</p></div>
@@ -10668,7 +10669,7 @@ medietas <milestone n="43" unit="altpage"/>  ergo quaedam et  <lb/>
             capellarum fuerint atque ouium sanguine et ceteris quae admouentur <lb/>
             altaribus. indignum enim primum est, ut illa uis <lb/>
             numinum subliinitasque caelestium beneficia credatur sua habere <lb/>
-            uenalla, prius sumere atque ita praestare; tum quod foedius <lb n="20"/>
+            <choice><sic>uenalla</sic><corr>uenalia</corr></choice>, prius sumere atque ita praestare; tum quod foedius <lb n="20"/>
             multo est, nisi acceperint, prodesse nulli perpetique miserrimos <lb/>
             discriminum subire fortunas, cum prohibere possint ac subuenire. <lb/>
             si ex duobus facientibus res sacras nocens unus set <lb/>
@@ -11160,7 +11161,7 @@ medietas <milestone n="43" unit="altpage"/>  ergo quaedam et  <lb/>
 <pb n="258"/>
             uerecundius dicimus, a uolgaribus autem adsolent cognomine testium <lb/>
             nuncupari. quid fitilla, quid frumen, quid africia, quid gratilla <lb/>
-            catumeum † cumspolium cubula? ex quibus duo, quae prima, <lb/>
+            catumeum † <choice><sic>cumspolium</sic><corr>cum spolium</corr></choice> cubula? ex quibus duo, quae prima, <lb/>
             sunt pultium nomina sed genere et qualitate diuersa, series <lb/>
             uero quae sequitur liborum significantias continet; et ipsis  <lb n="5"/>
             enim non est una eademque formatio. non enim placet carnem <lb/>
@@ -11275,7 +11276,7 @@ medietas <milestone n="43" unit="altpage"/>  ergo quaedam et  <lb/>
             ratio, ut ante ipsa numinum signa thura iniciantur altaribus <lb/>
             et ex eorum incendio familiaria fieri existimentur et mitia. <lb/>
             quid ex huiusmodi facto adquiritur his rei aut eorum ad animos <lb/>
-            quid aocedit, ut merito iudicemus recte ista dependi et <lb/>
+            quid <choice><sic>aocedit</sic><corr>accedit</corr></choice>, ut merito iudicemus recte ista dependi et <lb/>
             non frustra atque inaniter concremari? ut enim uos debetis <lb n="30"/>
             ostendere, cur thura diis detis, sic et deos sequitur ut debeatis <lb/>
             expromere habere aliquam causam, cur ea non respuant,
@@ -12210,7 +12211,7 @@ medietas <milestone n="43" unit="altpage"/>  ergo quaedam et  <lb/>
             mederetur instantibus nec sineret in futurum tale aliquid quod  <lb n="10"/>
 </p></div>
 
-<div n="48" subtype="section" type="textpart"><p>            metueretur mreperer nisi torte aiiquis dicet, minoriDus et <lb/>
+<div n="48" subtype="section" type="textpart"><p>            metueretur mreperer nisi torte <choice><sic>aiiquis</sic><corr>aliquis</corr></choice> dicet, minoriDus et <lb/>
             consequentibus saeculis idcirco dei talis defuisse custodiam, <lb/>
             quod impiis iam moribus et inprobabilibus uiueretur, opem <lb/>
             autem contulisse maioribus, quod innoxii fuerint et ab omni <lb/>

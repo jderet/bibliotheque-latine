@@ -89,6 +89,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 9 mots collés, 7 mots mal lus, 1 mot coupé.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -1699,7 +1700,7 @@
             coli Martem uxoris adulterum, Hercules Iunonem persecutricem <lb/>
             suam. quae ista inter eos est tam foeda consensio, <lb/>
             ut nec Diana uirgo casta coli prohibeat non dicam Venerem <lb/>
-            sed Priapum? nam si unus homo et uenator et agricola esseuoluerit, <lb/>
+            sed Priapum? nam si unus homo et uenator et agricola <choice><sic>esseuoluerit</sic><corr>esse uoluerit</corr></choice>, <lb/>
             seruus erit amborum, quibus tamen uel uicina templa <lb n="15"/>
             fabricare erubescit. sed interpretentur Dianam uirtutem quam <lb/>
             uolunt, interpretentur et Priapum fecunditatis deum, ita sane <lb/>
@@ -1748,7 +1749,7 @@
             omnes gentes audeant iam negare, si possunt. haec promissio <lb/>
             facta est etiam ad Isaac filium Abrahae, haec et ad Iacob <lb/>
             nepotem Abrahae, qui etiam Israhel appellatus est, ex quo <lb/>
-            uniuersus populus et propagatus et nominatus est, uthuius <lb/>
+            uniuersus populus et propagatus et nominatus est, <choice><sic>uthuius</sic><corr>ut huius</corr></choice> <lb/>
             populi deus appellaretur deus Israhel, non quod ipse <lb n="20"/>
             non sit deus omnium gentium siue nescientium siue iam <lb/>
             scientium, sed quia in isto populo uoluit manifestius
@@ -1835,7 +1836,7 @@
             non facies secundum opera ipsorum, sed deponendo <lb/>
             depones et confringendo confringes simulacra eorum. <lb/>
             quis autem dicat Christum adque Christianos non pertinere <lb n="15"/>
-            ad Israhel, cum Israhel nepos fuerit Ab ahae, cui primo et deinde <lb/>
+            ad Israhel, cum Israhel nepos fuerit Ab <choice><sic>ahae</sic><corr>aliae</corr></choice>, cui primo et deinde <lb/>
             Isaac filio eius et deinde ipsi Israhel nepoti eius dictum est <lb/>
             quod iam commemoraui: in semine tuo benedicentur <lb/>
             omnes gentes? quod fieri iam uidemus in Christo, cum <lb/>
@@ -4226,7 +4227,7 @@
           </div>
 
 <div n="14" subtype="section" type="textpart"><p><milestone n="5" unit="altchapter"/>Post enumeratas generationes Mattheus ita sequitur:  <lb/>
-            <note n="15"/> Christi autem generatio sicerat. cum esset desponsata <lb/>
+            <note n="15"/> Christi autem generatio <choice><sic>sicerat</sic><corr>sic erat</corr></choice>. cum esset desponsata <lb/>
             mater eius Maria Ioseph, antequam conuenirent, <lb/>
             inuenta est in utero habens de spiritu sancto. <lb/>
             hoc quemadmodum factum sit, quod hic praetermisit, Lucas <lb n="5"/>
@@ -5373,7 +5374,7 @@
             in deserto: parate uiam domini, rectas facite semitas <lb/>
             eius. Marcus quoque et Lucas consentiunt hoc Esaiae testimonium<lb n="15"/>
             esse de Iohanne. nam plura uerba etiam consequentia <lb/>
-            ex eodem propheta Lucas comrnemorauit, cum de baptista <lb/>
+            ex eodem propheta Lucas <choice><sic>comrnemorauit</sic><corr>commemorauit</corr></choice>, cum de baptista <lb/>
             Iohanne narraret. Iohannes autem euangelista ipsum Iohannem <lb/>
             baptistam de se ipso idem testimonium Esaiae protulisse <lb/>
             commemorat, sicut nunc Mattheus dixit quaedam Iohannis <lb n="20"/>
@@ -7188,7 +7189,7 @@
 <div n="61" subtype="section" type="textpart"><p> Iam ipsa uerba uideamus, uel quae domino dicta uel quae <lb/>
             ab illo responsa omnes isti tres euangelistae posuerunt. Mattheus:<lb n="5"/>
             <note n="11"/> et uidentes, inquit, Pharisaei dicebant discipulis <lb/>
-            eius:quarecumpublicanis et peccatoribus <lb/>
+            eius:<choice><sic>quarecumpublicanis</sic><corr>quare cum publicanis</corr></choice> et peccatoribus <lb/>
             manducat magister uester? totidem paene uerbis hoc <lb/>
             ait et Marcus: <note n="16"/> quare cum publicanis et peccatoribus <lb/>
             manducat et bibit magister uester? praetermissum<lb n="10"/>
@@ -7797,7 +7798,7 @@
             non multo magis nos? sed non sumus usi <lb/>
             hac potestate. unde apparet haec non ita praecepisse <lb/>
             dominum, tamquam euangelistae uiuere aliunde non debeant <lb/>
-            quam eis praebentibus quibus adnuntiant euangelium — alicquin <lb/>
+            quam eis praebentibus quibus adnuntiant euangelium — <choice><sic>alicquin</sic><corr>alioquin</corr></choice> <lb/>
             contra hoc praeceptum fecit idem apostolus, qui uictum<lb n="10"/>
             de manuum suarum laboribus transigebat, ne cuiquam grauis <lb/>
             esset —, sed potestatem dedisse, in qua scirent sibi ista <lb/>
@@ -9065,7 +9066,7 @@
             <note n="17"/> et cum ascendissent nauem, uenerunt trans mare in <lb/>
             Capharnaum. et tenebrae iam factae erant et non <lb/>
             uenerat ad eos Iesus. <note n="18"/> mare autem uento magno flante <lb/>
-            eisurgebat, et cetera. nihil hic contrarium uideri potest, nisi
+            <choice><sic>eisurgebat</sic><corr>eis urgebat</corr></choice>, et cetera. nihil hic contrarium uideri potest, nisi
 
 <note type="footnote"> 1 Marc. 6, 48 6 *ib. 50 13 Ioh. 6, 15-18; cf. 15-21 </note>
 
@@ -11488,7 +11489,7 @@ suis suis. ut nemini dicerent, quia ipse esset Iesus <lb/>
 </p>
           </div>
 
-<div n="156" subtype="section" type="textpart"><p>Cetera facti huius nullam mihi uidentur habere quaestionemquod  <lb/>
+<div n="156" subtype="section" type="textpart"><p>Cetera facti huius nullam mihi uidentur habere <choice><sic>quaestionemquod</sic><corr>quaestionem quod</corr></choice>  <lb/>
             enim alii dicunt discipulos murmurasse de unguenti <lb n="10"/>
             effusione pretiosi. fohannes autem ludam commemorat et ideo, <lb/>
             quia fur erat, manifestum puto esse discipulorum nomine <lb/>
@@ -11817,7 +11818,7 @@ suis suis. ut nemini dicerent, quia ipse esset Iesus <lb/>
             intrasse satanan in cor Iudae, quando pactus est tunc cum <lb/>
             Iudaeis, ut eum accepta pecunia traderet, sed etiam sibi ipsi <lb/>
             Iohannes repugnare uideatur, quia iam dixerat superius, antequam <lb/>
-            istam buccellam acciperet: et cena facta, cum di abolus <lb n="5"/>
+            istam buccellam acciperet: et cena facta, cum <choice><sic>di abolus</sic><corr>diabolus</corr></choice> <lb n="5"/>
             inmisisset in cor, ut traderet eum ludas. quomodo enim <lb/>
             intrat in cor, nisi inmittendo iniquas persuasiones cogitationibus <lb/>
             iniquorum? sed nunc intellegere debemus a diabolo <lb/>
@@ -12338,7 +12339,7 @@ suis suis. ut nemini dicerent, quia ipse esset Iesus <lb/>
             isti tacuerunt, et orantem ab angelo confortatum et prolixius <lb/>
             orantis sudorem fuisse sanguineum et guttas decurrentes in <lb n="15"/>
             terram. cum ergo dicit: et cum surrexisset ab oratione <lb/>
-            etuenisset ad discipulos suos, non expressit quota oratione; <lb/>
+            <choice><sic>etuenisset</sic><corr>et uenisset</corr></choice> ad discipulos suos, non expressit quota oratione; <lb/>
             nihilo tamen illis duobus repugnat. Iohannes uero, posteaquam <lb/>
             in hortum ingressum dicit cum discipulis suis, non comme* <lb/>
             morat, quid illic egerit, donec eius traditor cum Iudaeis ad <lb n="20"/>
@@ -12388,7 +12389,7 @@ suis suis. ut nemini dicerent, quia ipse esset Iesus <lb/>
             si et ita dicatur: uerum tamen non mea uoluntas, sed<lb n="20"/>
             tua fiat — satis ostendit non ex possibilitate, sed ex uoluntate <lb/>
             patris dictum esse si fieri potest, praesertim quia Lucas <lb/>
-            et hoc ipsum planius intimauit; non enim ait: si fiori potest, <lb/>
+            et hoc ipsum planius intimauit; non enim ait: si <choice><sic>fiori</sic><corr>fieri</corr></choice> potest, <lb/>
             sed: si uis. cui apertiori sententiae apertius iungitur quod <lb/>
             Marcus posuit, ut ita dicatur: si uis, omnia enim tibi<lb n="25"/>
             possibilia sunt, transfer a me calicem istum.
@@ -12409,7 +12410,7 @@ suis suis. ut nemini dicerent, quia ipse esset Iesus <lb/>
 </p>
           </div>
 
-<div n="14" subtype="section" type="textpart"><p>. Quod autem ipse Marcns non solum pater sed abba pater  <lb/>
+<div n="14" subtype="section" type="textpart"><p>. Quod autem ipse <choice><sic>Marcns</sic><corr>Marcus</corr></choice> non solum pater sed abba pater  <lb/>
             eum dixisse commemorat, hoc est abba Hebraeice, quod est <lb/>
             Latine pater. et fortasse dominus propter aliquod sacramentum <lb/>
             utrumque dixerit uolens ostendere illam se tristitiam in <lb/>
@@ -13753,7 +13754,7 @@ suis suis. ut nemini dicerent, quia ipse esset Iesus <lb/>
             Iesus: regnum meum non est de mundo hoc; si ex <lb/>
             hoc mundo esset regnum meum, ministri mei <lb/>
             decertarent, ut non traderer Iudaeis; nunc autem <lb/>
-            meum regnum non esthinc. <note n="37"/> dixit itaque ei Pilatus: <lb/>
+            meum regnum non <choice><sic>esthinc</sic><corr>est hinc</corr></choice>. <note n="37"/> dixit itaque ei Pilatus: <lb/>
             ergo rex es tu? respondit Iesus: tu dicis, quia rex <lb n="20"/>
             sum ego. ecce quando uentum est ad id quod alii euangelistae <lb/>
             commemorauerunt. sequitur ergo item dicente adhuc domino <lb/>
@@ -14098,7 +14099,7 @@ suis suis. ut nemini dicerent, quia ipse esset Iesus <lb/>
           </div>
 
 <div n="41" subtype="section" type="textpart"><p> Prius enim, qua hora cmcifigi potuerit, uideamus; deinde <lb/>
-            uidobimus, cur hora tertia crucifixum dixerit Marcus. hora <lb/>
+            <choice><sic>uidobimus</sic><corr>uidebimus</corr></choice>, cur hora tertia crucifixum dixerit Marcus. hora <lb/>
             erat quasi sexta, cum traditus est crucifigendus Pilato <lb n="20"/>
             sedente, ut dictum est, pro tribunali. non enim iam plena <lb/>
             sexta erat, sed quasi sexta, id est peracta quinta et aliquid
@@ -15937,7 +15938,7 @@ suis suis. ut nemini dicerent, quia ipse esset Iesus <lb/>
             crucifixerunt eum. <note n="21"/> nos autem sperabamus, quia ipse <lb/>
             est redemturus Israhel. et nunc super haec omnia <lb/>
             tertia dies hodie quod haec facta sunt. <note n="22"/> sed et <lb/>
-            muliores quaedam ex nostris terruerunt nos, quae <lb/>
+            <choice><sic>muliores</sic><corr>mulieres</corr></choice> quaedam ex nostris terruerunt nos, quae <lb/>
             ante lucem fuerunt ad monumentum, <note n="23"/> et non inuento<lb n="5"/>
             corpore eius uenerunt dicentes se etiam <lb/>
             uisionemangelorumuidisse, qui dicunt eum uiuere. <lb/>
@@ -17320,7 +17321,7 @@ suis suis. ut nemini dicerent, quia ipse esset Iesus <lb/>
 </p>
           </div>
 
-<div n="7" subtype="section" type="textpart"><p> VI. SequiturMarcus et dicit: *°quisquis enim potum dederit <lb/>
+<div n="7" subtype="section" type="textpart"><p> VI. <choice><sic>SequiturMarcus</sic><corr>Sequitur Marcus</corr></choice> et dicit: *°quisquis enim potum dederit <lb/>
             uobis calicem aquae in nomine meo, quia Christi <lb/>
             estis, amen dico uobis, non perdet mercedem suam. <lb/>
             <note n="41"/> et quisquis scandalizauerit unum ex his pusillis <lb/>

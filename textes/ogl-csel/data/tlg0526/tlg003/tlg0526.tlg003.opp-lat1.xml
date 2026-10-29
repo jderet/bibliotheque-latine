@@ -89,6 +89,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 2 mots mal lus.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -1030,7 +1031,7 @@
 <div n="88" subtype="section" type="textpart"><p>filium uero <lb n="15"/>
             Alisfragmathoseos Thumnosim dicit conatum quidem eos per <lb/>
             obsessionem capere et fortiter cum quadringentis octuaginta <lb/>
-            milibus armaterum eorum muris excubuisse. cum uero obsessionem <lb/>
+            milibus <choice><sic>armaterum</sic><corr>armatorum</corr></choice> eorum muris excubuisse. cum uero obsessionem <lb/>
             desperasset, pacta cum eis fecisse, ut Aegyptum relinquentes,  <lb/>
             quo uellent, innoxii omnes abirent.</p></div>
 
@@ -3587,7 +3588,7 @@
 
 <div n="309" subtype="section" type="textpart"><p>altera uero die quendam Moysen eis  <lb/>
             persuasisse dixit, ut properantes unam uiam secarent, donec <lb n="10"/>
-            ad loca habitabilia perueuirent eisque praecepisse ut nulli <lb/>
+            ad loca habitabilia <choice><sic>perueuirent</sic><corr>peruenirent</corr></choice> eisque praecepisse ut nulli <lb/>
             hominum fauerent neque bona suadentibus adquiescerent, sed <lb/>
             pessima quaeque facerent deorumque templa et aras quae <lb/>
             possent inuenire subuerterent.</p></div>

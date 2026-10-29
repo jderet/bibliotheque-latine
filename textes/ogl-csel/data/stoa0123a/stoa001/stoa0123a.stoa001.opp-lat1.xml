@@ -85,7 +85,8 @@
             </langUsage>
         </profileDesc>
         
-  </teiHeader>
+  <revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 1 mot collé, 2 mots mal lus.</change></revisionDesc>
+</teiHeader>
 <text>
 <body>
 <div type="edition" xml:lang="lat" n="urn:cts:latinLit:stoa0123a.stoa001.opp-lat1">
@@ -1584,7 +1585,7 @@
 </div>
 
 
-<div n="2" subtype="section" type="textpart"><p>            simulacrum hoc Troianis Abaris nendidit stultis hominibus uana  <lb/> 
+<div n="2" subtype="section" type="textpart"><p>            simulacrum hoc Troianis Abaris <choice><sic>nendidit</sic><corr>uendidit</corr></choice> stultis hominibus uana  <lb/> 
             promittens. <sic>nendebatur</sic> deus  <milestone n="14b" unit="altpage"/>  ut prodesset emptori, et emptor <lb/>
             suppliciter adorabat quicquid paulo ante uiderat subhastatum<lb n="5"/>.
             substantia autem simulacri ipsius ex ossibus Pelopis est. si humana<lb/>
@@ -1622,7 +1623,7 @@
             in hoc incendio Palladium latebras inuenire non poterit: ignis  <lb/>
             iste scrutatur abdita, quaerit absconsa <milestone n="15a" unit="altpage"/> et quicquid errantes homines<lb/>
             uanis persuasionibus perdidit, rapida flammarum populatione<lb/>
-            complectitur. cuenit enim\', inquit, \'dies domini ut <lb/>
+            complectitur. <choice><sic>cuenit</sic><corr>euenit</corr></choice> enim\', inquit, \'dies domini ut <lb/>
             ardens clibanus\'. audisti quid ueniat: nihil est quod ex te <lb n="30"/>
             collectum in apothecis dominicis reponi possit: ardebis ut stipula, <lb/>
             cuius inanis uilitas in cineres fauillasque seruatur, qua rapax
@@ -2351,7 +2352,7 @@
 </div>
 
 
-<div n="2" subtype="section" type="textpart"><p>inuenimus enim itadici: <foreign xml:lang="grc">εὐοῖ, δίκερως δίμορφε</foreign>. <lb/>
+<div n="2" subtype="section" type="textpart"><p>inuenimus enim <choice><sic>itadici</sic><corr>ita dici</corr></choice>: <foreign xml:lang="grc">εὐοῖ, δίκερως δίμορφε</foreign>. <lb/>
             deos iste uester non <sic>biformisest</sic>, sed multiformis: in <lb/>
             multas enim species uenenati oris forma mutatur. ipse est basiliscus<lb/>
             et scorpio, qui fidelium securis uestigiis premitur, ipse malitiosus<lb/>

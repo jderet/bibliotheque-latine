@@ -87,6 +87,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 1 mot mal lu, 1 mot collé.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -758,7 +759,7 @@
             etiam commendat, quid sibi liceat et tamen non faciat. ne<lb n="10"/>
             scitis, inquit, quoniam qui in templo operantur. <lb/>
             quae de templo sunt edunt? qui altario deseruiunt, <lb/>
-            altario conpartiuntur? sic et dominus ordinauithis <lb/>
+            altario conpartiuntur? sic et dominus <choice><sic>ordinauithis</sic><corr>ordinauit his</corr></choice> <lb/>
             qui euangelium adnuntiant de euangelio <lb/>
             uiuere; ego autem nullius horum usus sum. quid<lb n="15"/>
             hoc apertius? quid clarius? uereor, ne forte, cum dissero <lb/>
@@ -845,7 +846,7 @@
             id est sustentandae huius uitae. uae enim mihi erit, inquit, <lb/>
             si non euangelizauero, id est malo meo non euangelizabo,<lb n="10"/>
             quia fame cruciabor et unde uiuam non habebo. <lb/>
-            nam sequitur et dicit: si enim uolens hoc facio, merc <lb/>
+            nam sequitur et dicit: si enim uolens hoc facio, <choice><sic>merc</sic><corr>mero</corr></choice> <lb/>
             e d e m habeo. uolentem se dicit facere, sine ulla uitae <lb/>
             huius fulciendae necessitate conpulsus facit, et ob hoc habere <lb/>
             mercedem, utique apud deum gloriae sempiternae. si autem<lb n="15"/>

@@ -95,6 +95,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 12 mots coupés, 18 mots mal lus, 14 mots collés.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -116,7 +117,7 @@
             milia legionum angelorum pro Christo, ne pateretur, pugnare <lb/>
             potuisse nec tamen factum; legas fieri potuisse, ut semel gentes exterminarentur <lb/>
             a terra, quae dabatur filiis Israhel, deum tamen id paulatim <lb n="15"/>
-            fieri uoluisse;et alia sexcenta possunt occurrerequae fieri uel potuisse <lb/>
+            fieri uoluisse;et alia sexcenta possunt <choice><sic>occurrerequae</sic><corr>occurrere quae</corr></choice> fieri uel potuisse <lb/>
             uel posse fateamur et eorum tamen exempla quod facta sint proferre <lb/>
             nequeamus. unde non ideo negare debemus fieri posse, ut homo sine <lb/>
             peccato sit, quia nullus est hominum praeter illum, qui non tantum <lb/>
@@ -150,8 +151,8 @@
             uita, qui hoc opus inpleuerit, si ab homine inpleri potest. sed cogitare <lb/>
             debes, quamuis ad hominem id agere pertineat, hoc quoque munus <lb/>
             esse diuinum atque ideo non dubitare opus esse diuinum; deusest<lb n="5"/>
-            enimqui operatur in uobis, ait apostolus, et uelle e t operari <lb/>
-            pro bona u oluntate. 
+            <choice><sic>enimqui</sic><corr>enim qui</corr></choice> operatur in uobis, ait apostolus, et uelle e t operari <lb/>
+            pro bona <choice><sic>u oluntate</sic><corr>uoluntate</corr></choice>. 
 </p>
           
 </div>
@@ -196,14 +197,14 @@
             urgeri <hi rend="italic">PGCT</hi> 27 praesummant <hi rend="italic">L</hi> </note> <lb/>
              
 <pb n="157"/>
-            diuina, reprimunt se nec hanc uoccm audent emittere, quoniam uident <lb/>
+            diuina, reprimunt se nec hanc <choice><sic>uoccm</sic><corr>uocem</corr></choice> audent emittere, quoniam uident <lb/>
             quam sit impia et non ferenda. sed aiunt ideo ista sine ope diuina non <lb/>
             fieri, quia et hominem deus creauit cum libero uoluntatis arbitrio et <lb/>
-            dando praecepta ipse docet quemadmodum homini sit uiuenduin <lb/>
+            dando praecepta ipse docet quemadmodum homini sit <choice><sic>uiuenduin</sic><corr>uiuendum</corr></choice> <lb/>
             ot in eo utique adiuuat, quod docendo aufert ignorantiam, ut sciat <lb n="5"/>
             homo in operibus suis quid euitare et quid adpetere debeat, quo per <lb/>
             liberum arbitrium naturaliter insitum uiam demonstratam ingrediens <lb/>
-            continenter et iuste et pie uiuendo ad beatam candemquc aeternam <lb/>
+            continenter et iuste et pie uiuendo ad beatam <choice><sic>candemquc</sic><corr>eandemque</corr></choice> aeternam <lb/>
             uitam peruenire mereatur. 
 </p>
           
@@ -212,7 +213,7 @@
 <div n="5" subtype="section" type="textpart">
 <p><milestone n="3" unit="altchapter"/> Nos autem dicimus humanam uoluntatem sic diuinitus <lb n="10"/>
             adiuuari ad faciendam iustitiam, ut praeter quod creatus est homo <lb/>
-            cum libero arbitrio practerque doctrinam qua ei praecipitur <lb/>
+            cum libero arbitrio <choice><sic>practerque</sic><corr>praeterque</corr></choice> doctrinam qua ei praecipitur <lb/>
             quemadmodum uiuere debeat accipiat spiritum sanctum, quo <lb/>
             fiat in animo eius delectatio dilectioque summi illius atque incommutabilis <lb/>
             boni, quod deus est, etiam nunc cum per fidem ambulatur, <lb n="15"/>
@@ -261,8 +262,8 @@
             sed etiam illo coque uel maxime, quod apertissime alio loco dicit: <lb/>
             concupiscentiam nesciebam, nisi lex diceret: non concupisces; <lb/>
             et paulo post ait: occasione accepta peccatum <lb/>
-            per mandatum fefellit me et per illudoccidit.eccequodest <lb/>
-            littera o ccidit. et utique non figurate aliquid dicitur, quod accipiendum<lb n="15"/>
+            per mandatum fefellit me et per <choice><sic>illudoccidit</sic><corr>illud occidit</corr></choice>.<choice><sic>eccequodest</sic><corr>ecce quod est</corr></choice> <lb/>
+            littera <choice><sic>o ccidit</sic><corr>occidit</corr></choice>. et utique non figurate aliquid dicitur, quod accipiendum<lb n="15"/>
             non sit secundum litterae sonum, cum dicitur: non concupisces, <lb/>
             sed apertissimum saluberrimumque praeceptum est, quod si <lb/>
             quis inpleuerit nullum habebit omnino peccatum. nam hoc ideo elegit <lb/>
@@ -448,7 +449,7 @@
             ut ultra non seruiamus peccato. qui enim mortuus <lb/>
             est, iustificatus est a peccato. si autem mortui sumus<lb n="10"/>
             cum Christo, credimus, quia simul uiuemus cum illo, <lb/>
-            scientes, quiaChristus surgens ex mortuis iam non moritur <lb/>
+            scientes, <choice><sic>quiaChristus</sic><corr>quia Christus</corr></choice> surgens ex mortuis iam non moritur <lb/>
             et mors ei ultra non dominabitur. quod enim <lb/>
             mortuus est peccato, mortuus est semel; quod autem <lb/>
             uiuit, uiuit deo. ita et uos existimate uos mortuos esse<lb n="15"/>
@@ -557,7 +558,7 @@
             quod profitetur implere. s i au tem tu, inquit, ludaeus cognominaris <lb/>
             et requiescis in lege et gloriaris in deo et nosti uoluntatem <lb n="20"/>
             et probas distantia instructus ex lege, confidis <lb/>
-            teipsum ducem esse caecorum, lumen eorum, qui in tenebrissunt, eruditorem <lb/>
+            teipsum ducem esse caecorum, lumen eorum, qui in <choice><sic>tenebrissunt</sic><corr>tenebris sunt</corr></choice>, eruditorem <lb/>
             insipientium, magistrum infantium, <lb/>
             habentem formam scientiae et ueritatis in lege, qui ergo <lb/>
             alium doces, te ipsum non doces? qui praedicas non furandum,<lb n="25"/>
@@ -589,7 +590,7 @@
             circumcisio, sed qui in abscondito, Iudaeus est et circumcisione <lb n="10"/>
             cordis, qui spiritu, non littera, cuius laus non ex <lb/>
             hominibus, sed ex deo. hic manifestauit quemadmodum dixerit: <lb/>
-            gloriaris indeo. nant utique si uere talis Iudaeus gloriaretur in <lb/>
+            gloriaris <choice><sic>indeo</sic><corr>in deo</corr></choice>. nant utique si uere talis Iudaeus gloriaretur in <lb/>
             deo eo modo, quo postulat gratia, quae non operum meritis, sed gratuito <lb/>
             datur, ex deo esset laus eius, non ex hominibus. sed ita gloriabantur <lb n="15"/>
             in deo, uelut qui soli meruissent legem eius accipere, secundum illam <lb/>
@@ -817,7 +818,7 @@
 <div n="18" subtype="section" type="textpart">
 <p><milestone n="11" unit="altchapter"/> Quae cogitatio pium facit, quia pietas est uera sapientia <lb/>
             — pietatem dico quam Graeci <foreign xml:lang="grc">ϑεοσέβειαν</foreign> uocant -; ipsa quippe <lb/>
-            commendata est, cum dictum est homini, quod in libro Iob logitur: <lb/>
+            commendata est, cum dictum est homini, quod in libro Iob <choice><sic>logitur</sic><corr>legitur</corr></choice>: <lb/>
             ecce pietas est sapientia. <foreign xml:lang="grc">ϑεοσέβεια</foreign> porro, si ad uerbi originem<lb n="10"/>
             latine expressam interpretaretur, dei cultus dici poterat, qui in hoc <lb/>
             maxime constitutus est, ut anima ei non sit ingrata; unde et in ipso <lb/>
@@ -871,11 +872,11 @@
             leues et inflati ac per se ipsos uelut per inane sublati, ubi <lb/>
             non requiescerent, sed fracti dissilirent, in figmenta idolorum tamquam <lb n="15"/>
             in lapides deciderunt. quia enim commendauerat pietatem <lb/>
-            fidei, qua deo iustificati grati esse dcbemus, uelut contrarium quod <lb/>
+            fidei, qua deo iustificati grati esse <choice><sic>dcbemus</sic><corr>debemus</corr></choice>, uelut contrarium quod <lb/>
             detestaremur subinferens: reuelatur enim, inquit, ira dei de <lb/>
             caelo super omnem impietatem et iniustitiam hominum <lb/>
             eorum qui ueritatem in iniquitate detinent, quia quod <lb n="20"/>
-            not estdei manifestum est in illis; deus enim illis manifestauit. <lb/>
+            not <choice><sic>estdei</sic><corr>est dei</corr></choice> manifestum est in illis; deus enim illis manifestauit. <lb/>
             inuisibilia enim eius a creatura mundi per ea <lb/>
             quae facta sunt intellecta conspiciuntur, sempiterna <lb/>
             quoque uirtus eius ac diuinitas, ut sint inexcusabiles. <lb/>
@@ -896,7 +897,7 @@
             <hi rend="italic">26 aut gr eger. om. Oml 27 obscuratu* Lm2</hi> </note> <lb/>
              
 <pb n="172"/>
-            esse sapientes stulti factisunt et mutauerunt gloriam incorruptibilis <lb/>
+            esse sapientes stulti <choice><sic>factisunt</sic><corr>facti sunt</corr></choice> et mutauerunt gloriam incorruptibilis <lb/>
             dei in similitudinem imaginis corruptibilis <lb/>
             hominis et uolucrum et quadrupedum et serpentium. <lb/>
             uide quemadmodum non eos dixerit ueritatis ignaros, sed quod ueritatem <lb/>
@@ -908,16 +909,16 @@
             inuenire potuerunt. ubi ergo impietas? quia uidelicet cum cognouissent<lb n="10"/>
             deum, non sicut deum glorifieauerunt aut gratias <lb/>
             egerunt, sed euanuerunt in cogitationibus suis. eorum <lb/>
-            proprie uanitas morbus est, qui se ipsos seducunt, dum uidcntur <lb/>
+            proprie uanitas morbus est, qui se ipsos seducunt, dum <choice><sic>uidcntur</sic><corr>uidentur</corr></choice> <lb/>
             sibi aliquid esse, cum nihil sint. denique hoc tumore superbiae sese <lb/>
             obumbrantes, cuius pedem sibi non uenire deprecatur sanctus ille<lb n="15"/>
             cantator qui dixit: in lumine tuo uidebimus lumen, ab ipso <lb/>
             lumine incommutabilis ueritatis auersi sunt et obscuratum est <lb/>
-            insipiens cor eorum. non enimsapiens cor, quamuis cognouissent <lb/>
+            insipiens cor eorum. non <choice><sic>enimsapiens</sic><corr>enim sapiens</corr></choice> cor, quamuis cognouissent <lb/>
             deum, sed insipiens potius, quia non sicut deum glorificauerunt aut <lb/>
             gratias egerunt. dixit enim homini: ecce pietas est sapientia. <lb n="20"/>
             ac per hoc dicentes se esse sapientes, quod non aliter intellegendum <lb/>
-            est nisi \'hoc ipsum sibi tribuentes,\' stulti fact i sunt. 
+            est nisi \'hoc ipsum sibi tribuentes,\' stulti <choice><sic>fact i</sic><corr>facti</corr></choice> sunt. 
 </p>
           
 </div>
@@ -1031,11 +1032,11 @@
              
 <pb n="175"/>
             quibus ait: et sicut dicunt nos quidam dicere, faciamus <lb/>
-            mala, ut ueniant bona, quorum iudiciumiustum est.siautemdicit <lb/>
+            mala, ut ueniant bona, quorum iudiciumiustum est.<choice><sic>siautemdicit</sic><corr>si autem dicit</corr></choice> <lb/>
             etiam ipsa: non concupisces, sicut tam multa praecepta <lb/>
             euangelica et apostolica testificari et clamare non cessant, quare lex <lb/>
             factorum etiam ipsa non dicitur? neque enim quia non habet opera <lb n="5"/>
-            ueterum sacramentorum, circumcisionis uidelieet atque ceterorum, <lb/>
+            ueterum sacramentorum, circumcisionis <choice><sic>uidelieet</sic><corr>uidelicet</corr></choice> atque ceterorum, <lb/>
             ideo non sunt opera quae habet in sacramentis suis huic iam tempori <lb/>
             congruis. aut uero de operibus sacramentorum quaestio fuit, quando <lb/>
             mentio legis ob hoc fiebat, quia per ipsam cognitio peccati est et ideo <lb/>
@@ -1126,12 +1127,12 @@
              
 <pb n="177"/>
             nihil de uictimus pecorum, quae nunc a Christianis non immolantur. <lb/>
-            in illis igitur decem praeceptis excepta sabbati obscruatione dicatur <lb/>
+            in illis igitur decem praeceptis excepta sabbati <choice><sic>obscruatione</sic><corr>obseruatione</corr></choice> dicatur <lb/>
             mihi quid non sit obseruandum a Christiano siue de non faciendis. <lb/>
             colendisique idolis aliisque ullis diis praeter unum uerum deum siue <lb/>
             de non accipiendo nomine dei in nanum siue de honore parentibus <lb n="5"/>
             deferendo siue decauendis fornicationibus, homicidiis, furtis, falsis <lb/>
-            testimouiis, adulteriis, re aliena concupiscenda. quid horum quisquam <lb/>
+            <choice><sic>testimouiis</sic><corr>testimoniis</corr></choice>, adulteriis, re aliena concupiscenda. quid horum quisquam <lb/>
             dixerit Christianum non debere seruare? an forte non istam legem, <lb/>
             quae in illis duabus tabulis scripta est, litteram occidentem appellat <lb/>
             apostolus. sed illam circumcisionis aliorumque ueterum iamque abolitorum <lb n="10"/>
@@ -1458,7 +1459,7 @@
             <hi rend="italic">om.b</hi> habeamus <hi rend="italic">C</hi> habcamus <hi rend="italic">T</hi> 27 <foreign xml:lang="grc">ι̣</foreign>h<foreign xml:lang="grc">̣̄</foreign>m<foreign xml:lang="grc">̣</foreign> xpm <hi rend="italic">P</hi> </note> <lb/>
              
 <pb n="184"/>
-            tribueretur, continuo commcndauit unde agitur dicens: <lb/>
+            tribueretur, continuo <choice><sic>commcndauit</sic><corr>commendauit</corr></choice> unde agitur dicens: <lb/>
             non quia idonei sumus cogitare aliquid <lb/>
             quasi ex nobismet ipsis, sed sufficientia <lb/>
             nostra ex deo est, qui et idoneos nos fecit <lb/>
@@ -1478,7 +1479,7 @@
             donum spiritus operamur iustitiam et a praeuaricationis damnatione <lb/>
             liberamur. ideo illud euacuatur, hoc manet, quoniam terrens <lb/>
             paedagogus auferetur, cum timori successerit caritas; ubi enim<lb n="15"/>
-            spiritus domini li bertas. hanc autem ministrationem <lb/>
+            spiritus domini <choice><sic>li bertas</sic><corr>libertas</corr></choice>. hanc autem ministrationem <lb/>
             non ex meritis nostris, sed ex misericordia esse sic dicit: <lb/>
             propter quod habentes ministrationem hanc <lb/>
             sicut misericordiam consecuti non infirmemur, <lb/>
@@ -1612,10 +1613,10 @@
             occidit. s i enim data esset lex, quae posset uiuificare, <lb/>
             omnino ex lege esset iustitia. sed <lb/>
             conelusit scriptura omnia sub peccato, ut <lb n="10"/>
-            prom i ssio ex fide Iesu Christi daretur credentibus. <lb/>
+            <choice><sic>prom i</sic><corr>promi</corr></choice> ssio ex fide Iesu Christi daretur credentibus. <lb/>
             ex hac promissione, hoc est ex dei beneficio, ipsa <lb/>
             lex inpletur, sine qua promissione praeuaricatores facit uel usque <lb/>
-            ad cffectum mali operis, si etiam repagula timoris concupiscentiae <lb/>
+            ad <choice><sic>cffectum</sic><corr>effectum</corr></choice> mali operis, si etiam repagula timoris concupiscentiae <lb/>
             flamma transcenderit, uel certe in sola uoluntate, si timor poenae <lb n="15"/>
             suauitatem libidinis uicerit. quod enim ait: conclusit scriptura <lb/>
             omnia sub peccato, ut promissio ex fide <lb/>
@@ -1800,8 +1801,8 @@
             paruulus, quasi paruulus loquebar, quasi paruulus <lb/>
             sapiebam, quasi paruulus cogitabam; <lb/>
             cum autem factus sum uiri, quae paruuli erant <lb n="10"/>
-            deposui. cur autem hoc dixerit consequenter ostendens: ui d emus, <lb/>
-            inquit, nunc per s peculum in enigmate, <lb/>
+            deposui. cur autem hoc dixerit consequenter ostendens: ui <choice><sic>d emus</sic><corr>demus</corr></choice>, <lb/>
+            inquit, nunc per <choice><sic>s peculum</sic><corr>speculum</corr></choice> in enigmate, <lb/>
             tunc autem facie ad faciem; nunc scio ex <lb/>
             parle, tunc autem cognoscam sicut et cognitus <lb/>
             sum. <lb n="15"/>
@@ -1818,7 +1819,7 @@
             ipsi erunt mihi populus, continuo addidit: et non <lb n="20"/>
             docebunt unusquisque ciuem suum et unusquisque <lb/>
             fratrem suum dicens: cognosce dum <lb/>
-            i num, quia omnes cognoscent me a mi nore <lb/>
+            i num, quia omnes cognoscent me a <choice><sic>mi nore</sic><corr>minore</corr></choice> <lb/>
             usque ad mai orem eorum. nunc certe iam tempus <lb/>
             est testamenti noui, cuius per prophetam est facta promissio per <lb n="25"/>
             haec uerba, quae ex illa prophetia commemorauimus. cur ergo <lb/>
@@ -2030,12 +2031,12 @@
             et homines nisi peccata non separant, quae non nisi per eandem <lb/>
             gratiam dimittuntur. unde cum dixisset: omnes enim cognoscent <lb/>
             me a minore usque ad maiorem eorum,<lb n="5"/>
-            mox addidit: quiapropitius ero iniquitati eorum <lb/>
+            mox addidit: <choice><sic>quiapropitius</sic><corr>quia propitius</corr></choice> ero iniquitati eorum <lb/>
             et peccata eorum non memora or ultra. per <lb/>
             legem ergo factorum dicit dominus: non concupisces, <lb/>
             per legem fidei dicit dominus: sine me nihil potestis <lb/>
             facere; agebat enim de bonis operibus, hoc est de palmitum<lb n="10"/>
-            fruetibus. cum igitur haec appareat distantia ueteris et noui testamenti, <lb/>
+            <choice><sic>fruetibus</sic><corr>fructibus</corr></choice>. cum igitur haec appareat distantia ueteris et noui testamenti, <lb/>
             quod lex ibi in tabulis, hie in cordibus scribitur, ut quod <lb/>
             ibi forinsecus terret, hic delectet intrinsecus, ibique fiat praeuaricator <lb/>
             per occidentem litteram, hic dilector per uiuifieantem spiritum, <lb/>
@@ -2118,7 +2119,7 @@
              
 <pb n="198"/>
             apud deum. qu i cum que enim sine lege peccauerunt, <lb/>
-            sine lege peribunt; etquicumque in <lb/>
+            sine lege peribunt; <choice><sic>etquicumque</sic><corr>et quicumque</corr></choice> in <lb/>
             lege peccauerunt, per legem iudicabuntur. <lb/>
             non enim auditores legis iusti sunt apud <lb/>
             deum, sed factores legis iustificabuntur. <lb n="5"/>
@@ -2367,7 +2368,7 @@
             tamen sicut in regno dei uelut stella ab stella in gloria differunt <lb n="20"/>
             sancti, sic et in damnatione poenae sempiternae tolerabilius erit <lb/>
             Sodomae quam alteri ciuitati et erunt quidam duplo amplius quibusdam <lb/>
-            gehennae filii. ita nec illud in iudicio dei uaeabit, quod in <lb/>
+            gehennae filii. ita nec illud in iudicio dei <choice><sic>uaeabit</sic><corr>uacabit</corr></choice>, quod in <lb/>
             ipsa impietate damnabili magis alius alio minusue peccauerit.
 
 <note type="footnote"> 4 cf. l\'s. 18, 8 6 Ps. 4, 7 9 1 Tim. 2. 5 13 cf. Rom. 2, 14-16 <lb/>
@@ -2452,17 +2453,17 @@
             enim deus qui iustificat circum cisiouem ex fide <lb/>
             et praec put i um per fidem; quod non ad aliquam <lb/>
             differentiam dictum est, tamquam aliud sit \'ex fide\' et aliud \'per <lb/>
-            fidem\'. sed ad narietatem locutionis. alio quippe loco cum de <lb/>
+            fidem\'. sed ad <choice><sic>narietatem</sic><corr>uarietatem</corr></choice> locutionis. alio quippe loco cum de <lb/>
             gentibus diceret, hoc est de praeputio: praeuidens, inquit, <lb n="15"/>
             scriptura. quia ex fide iustificat gentes deus. <lb/>
             itemque cum de circumcisione loqueretur. unde erat ipse. nos. <lb/>
             inquit. natura Iudaeiet non ex gentibus peccatores <lb/>
             sci entes quia non iustificatur homo ex <lb/>
             operibus legis nisi per fidem Iesu Christi. et <lb n="20"/>
-            nos in Christo Iesu cred imus. ecce et praeputium <lb/>
+            nos in Christo Iesu <choice><sic>cred imus</sic><corr>credimus</corr></choice>. ecce et praeputium <lb/>
             dixit iustificari ex fide et circumcisionem per fidem. si tamen <lb/>
             circumcisio iustitiam fidei teneat. sic enim gentes, quae <lb/>
-            non sectabantur iust itiam. adprehenderunt <lb/>
+            non sectabantur <choice><sic>iust itiam</sic><corr>iustitiam</corr></choice>. adprehenderunt <lb/>
             iustitiam, iustitiam autem quae ex fide est —
 
 <note type="footnote"> 3 Nemo—auferctur ab eo] cf. Prosperi Aquitani sent. ex Aug. delib. <lb/>
@@ -2497,7 +2498,7 @@
             sua crediderit sine adiutorio et dono dei, quod est ex<lb n="15"/>
             fide Iesu Christi? et circumcisionem ceteraque talia suspicamur, <lb/>
             quia etiam de his sacramentis aliis in locis talia quaedam <lb/>
-            leguntur? sed hic utique non circum cisionem tamquam suam <lb/>
+            leguntur? sed hic utique non <choice><sic>circum cisionem</sic><corr>circumcisionem</corr></choice> tamquam suam <lb/>
             iustitiam nolebant constituere, quia et ipsam deus praecipiendo <lb/>
             constituit. nec de illis operibus hoc intellegi potest, de quibus<lb n="20"/>
             dominus eis dicit: reicitis mandatum dei, ut traditiones uestras <lb/>
@@ -2576,7 +2577,7 @@
             autem sperantibus in te! ex lege timemus <lb n="5"/>
             deum, ex fide speramus in deum; sed timentibus poenam absconditur <lb/>
             gratia. sub quo timore anima laborans, quando concupiscentiam <lb/>
-            malam non uiccrit nec timor ille quasi custos seuerus <lb/>
+            malam non <choice><sic>uiccrit</sic><corr>uicerit</corr></choice> nec timor ille quasi custos seuerus <lb/>
             abscesserit, per fidem confugiat ad misericordiam dei, ut det <lb/>
             quod iubet atque inspirata gratiae suauitate per spiritum sanctum<lb n="10"/>
             faciat plus delectare quod praecipit quam delectat quod inpedit. <lb/>
@@ -2634,7 +2635,7 @@
             enim quis deuictus est, huic et seruus addictus <lb n="15"/>
             o s t. si autem liberati sunt, quid sc iactant uelut <lb/>
             do opere proprio et gloriantur, quasi non acceperint ? an ita sunt <lb/>
-            liberi, ut nec illum uclint habere dominum, qui eis dicit: sine <lb/>
+            liberi, ut nec illum <choice><sic>uclint</sic><corr>uelint</corr></choice> habere dominum, qui eis dicit: sine <lb/>
             me nihil potestis \\facere, et: si uos filius <lb/>
             liberauerit. tunc uere liberi eritis ? <lb n="20"/>
             
@@ -2715,7 +2716,7 @@
              
 <pb n="211"/>
             pollicemur; nam et ipsa dicitur fides. sed aliter dicimus: \'non mihi<lb/>
-             habuit fidem\', aliterautem: \'non mihi seruauit fidem\'. nam illud est <lb/>
+             habuit fidem\', <choice><sic>aliterautem</sic><corr>aliter autem</corr></choice>: \'non mihi seruauit fidem\'. nam illud est <lb/>
             \'non credidit quod dixi\', illud \'non fecit quod dixit\'. secundum <lb/>
             fedem, qua credimus, fideles sumus deo; secundum illam uero, qua <lb/>
             fit quod promittitur, etiam deus ipse fidelis est nobis. hoc enim <lb n="5"/>
@@ -3450,13 +3451,13 @@
             lebioribus G esse*t 0 </note> <lb/>
              
 <pb n="227"/>
-            uel linguam alicui, quae dicenda non essct. accommodet uel in <lb/>
+            uel linguam alicui, quae dicenda non <choice><sic>essct</sic><corr>esset</corr></choice>. accommodet uel in <lb/>
             ipso corde aliquid ita cogitet, ut mallet licitum quod male <lb/>
             delectat et per praeceptum scitur inlicitum; etiam ista quippe <lb/>
             consensio est ad peccatum, quae utique fieret, nisi poena terreret. <lb/>
             tales iusti ex fide uiuentes non opus habent dicere: dimitte <lb n="5"/>
             nobis debita nostra, sicut et nos dimittimus <lb/>
-            debitoribus nostr i s? falsumque esse conuincunt, quod <lb/>
+            debitoribus <choice><sic>nostr i</sic><corr>nostri</corr></choice> s? falsumque esse conuincunt, quod <lb/>
             scriptum est: non iustificabitur in conspectu tuo <lb/>
             omnis uiuens ? et illud: si dixerimus quia peccatum <lb/>
             non habemus, nos ipsos decipimus et <lb n="10"/>

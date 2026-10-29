@@ -89,6 +89,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 4 mots mal lus, 1 mot collé.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -538,7 +539,7 @@
 </p>
           </div>
 
-<div n="15" subtype="section" type="textpart"><p rend="script"> ► Est etiam initium mysticum, utillud est: ego sum primus <note type="margin">B </note> <lb/>
+<div n="15" subtype="section" type="textpart"><p rend="script"> ► Est etiam initium mysticum, <choice><sic>utillud</sic><corr>ut illud</corr></choice> est: ego sum primus <note type="margin">B </note> <lb/>
             et nouissimus, initium et finis et illud in euangelio <lb n="5"/>
             praecipue, quod interrogatus dominus quis esset respondit: <lb/>
             initium quod et loquor uobis. qui uere et secundum <lb/>
@@ -3794,7 +3795,7 @@ reductos sinus suos scinditur.
             fugere uenena, non serpere. denique ceruis cibus uenenum est: <lb/>
             coluber ceruum fugit, leonem interficit: draco helefantum ligat, <lb/>
             cuius ruina mors uictoris est. et ideo summa ui utrimque<lb n="15"/>
-            certatur, ille ut pedem alliget, in quo casus uiucti sibi nocere <lb/>
+            certatur, ille ut pedem alliget, in quo casus <choice><sic>uiucti</sic><corr>uincti</corr></choice> sibi nocere <lb/>
             non possit, iste ne posteriore extremus pede aut calle <lb/>
             capiatur angusto, ubi uel ipse se non queat retorquere et <note type="margin"> F </note> <lb/>
             draconem graui proterere uestigio uel sequentis elefanti  <lb/>
@@ -8656,7 +8657,7 @@ ueniamus ad Atlanticum mare. quam ingentia illic <note type="margin"> E </note> 
 </p>
           </div>
 
-<div n="77" subtype="section" type="textpart"><p><milestone n="23" unit="altchapter"/> Et quia de uolatilibus dicimus, Don putamns alienum ea <note type="margin"> D </note> <lb/>
+<div n="77" subtype="section" type="textpart"><p><milestone n="23" unit="altchapter"/> Et quia de uolatilibus dicimus, Don <choice><sic>putamns</sic><corr>putamus</corr></choice> alienum ea <note type="margin"> D </note> <lb/>
             conplecti quae de uerme Indo tradit historia uel eorum relatio <lb/>
             qui uidere potuerunt. fertur hic corniger uermis conuerti
 
@@ -10670,7 +10671,7 @@ ueniamus ad Atlanticum mare. quam ingentia illic <note type="margin"> E </note> 
 </p>
           </div>
 
-<div n="49" subtype="section" type="textpart"><p rend="script"> IDemque cum feCIsset piscium beiuas, cum lecisset lerarum <lb/>
+<div n="49" subtype="section" type="textpart"><p rend="script"> IDemque cum feCIsset piscium <choice><sic>beiuas</sic><corr>beluas</corr></choice>, cum <choice><sic>lecisset</sic><corr>legisset</corr></choice> lerarum <lb/>
             genera et bestiarum, non requieuit: requieuit autem, posteaquam<lb n="5"/>
             hominem ad imaginem suam fecit. in quo requiescat <lb/>
             audi dicentem: aut supra quem requiescam nisi super <lb/>

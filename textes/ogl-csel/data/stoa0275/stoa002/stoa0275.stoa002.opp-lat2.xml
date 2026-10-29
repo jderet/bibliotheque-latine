@@ -94,6 +94,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 1 mot mal lu, 4 mots coupés.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -925,7 +926,7 @@ is <lb/>
             contemplator <add> .... </add>is in caelum recepti, nisi contemneret, quos <lb/>
             deieraret, quam ipse, II quam ei, qui ei peierare permittunt.  <lb/>
             consentiunt enim ipsi nihil esse quod <milestone n="12" unit="altpage"/> deierant, immo insuper <lb/>
-            et praemio afficiunt, quia publice contempser it periurii uindices. <lb/>
+            et praemio afficiunt, quia publice <choice><sic>contempser it</sic><corr>contempserit</corr></choice> periurii uindices. <lb/>
             quanquam periurii apud uos quotusquisque <milestone unit="docbreak"/> purus est? <lb n="5"/>
             immo iam per deos deierandi periculum euanuit, potiore habita |  <lb/>
             religione per Caesarem deierandi, quod et ipsum ad offuscationem <lb/>
@@ -1059,7 +1060,7 @@ is <lb/>
             eam gratiam consimilis bestiae superficiem a Iudaeis coli. <lb n="5"/>
             inde opinor praesumptum, <milestone unit="docbreak"/> nos quoque, ut Iudaicae religionis <lb/>
             propinquos, eidem simulacro <milestone unit="docbreak"/> initiari. at enim idem Cornelius <lb/>
-            Tacitus, sane ille mendaciorum lo quacissimus, oblitus <lb/>
+            Tacitus, sane ille mendaciorum <choice><sic>lo quacissimus</sic><corr>loquacissimus</corr></choice>, oblitus <lb/>
             affirmationis suae in posterioribus refert <milestone unit="docbreak"/> Pompeium Magnum <lb/>
             de Iudaeis debellatis captisque Hierosolymis templum adisse<lb n="10"/>
             et perscrutatum nihil simulacri reperisse. ubi ergo is deus <lb/>
@@ -2285,7 +2286,7 @@ is <lb/>
             notitia. deum ego existimo ubiq<add>ue notum</add>5 <milestone unit="docbreak"/> <milestone n="26v" unit="altpage"/> ubique praesentem,  <lb n="10"/>
             ubique dominantem, omnibus colendum, omnibus demeren. <lb/>
             at enim cum illi quoque, quos totus orbis communiter <lb/>
-            colit, excidant pro bationi uerae diuinitatis, quanto magis <lb/>
+            colit, excidant <choice><sic>pro bationi</sic><corr>probationi</corr></choice> uerae diuinitatis, quanto magis <lb/>
             isti, quos ne ipsi quidem municipes sui <milestone unit="docbreak"/> norunt? nam quae <lb/>
             idonea auctoritas praecucurrit eiusmodi theologiae <milestone unit="docbreak"/> quam etiam <lb n="15"/>
             fama destituit? quanti sunt qui norint uisu uel auditu Atarga <lb/>
@@ -2323,7 +2324,7 @@ is <lb/>
             consacra-<add>uerunt</add>, <milestone unit="docbreak"/> illum dico quem non iam Aegyptus aut Graecia, uerum <lb/>
             totus orbis <milestone unit="docbreak"/> <add>colit et</add> Afri iurant, de cuius statu quod conici <lb/>
             potest apud nostras litteras, <milestone unit="docbreak"/> <add>ut ue</add>risimile uidetur, positum <lb/>
-            est. nam Serapis iste quidam olim Io seph dictus, fuit, de <lb/>
+            est. nam Serapis iste quidam olim <choice><sic>Io seph</sic><corr>Ioseph</corr></choice> dictus, fuit, de <lb/>
             genere sanctorum. iunior inter ceteros fratres, sed excelsior f <lb n="10"/>
             <add>ingenio</add> ab isdem fratribus per liuorem uenum in Aegyptum <lb/>
             datus serui<add> ebat in fami</add>lia regis Aegyptiorum Pharao. a <lb/>
@@ -3353,7 +3354,7 @@ is <lb/>
             Romana meru<add>it</add>. |  atqui non post summum imperium <lb/>
             auctis iam rebus superstitio quaesita est? <milestone unit="docbreak"/> etsi a Numa sacra <lb/>
             introducta sunt, nondum tamen aut simulacris aut tem<add>plis</add> <lb/>
-            res uestras diuina frustrabant. frugi religio et paupertina supersti <lb n="10"/>
+            res uestras diuina frustrabant. frugi religio et paupertina <choice><sic>supersti</sic><corr>superati</corr></choice> <lb n="10"/>
             <add>tio; | altaria tem</add>eraria et uasa sordida, et nidor <add>paruus</add> <lb/>
             ex illis, et deus ipse nusquam. <milestone unit="docbreak"/> <add>ergo non</add> ante religiosi quam <lb/>
             maiores neque ideo maiores, quia religiosi. atquin quomo<add>do |  <lb/>

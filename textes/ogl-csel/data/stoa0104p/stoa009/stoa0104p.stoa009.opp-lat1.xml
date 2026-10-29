@@ -85,6 +85,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 3 mots mal lus.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -467,7 +468,7 @@
 </p>
           </div>
 
-<div n="10" subtype="section" type="textpart"><p rend="script"> Hic est Christus Iesns qui secundum carnem Abrahae fuit filius in <lb/>
+<div n="10" subtype="section" type="textpart"><p rend="script"> Hic est Christus <choice><sic>Iesns</sic><corr>Iesus</corr></choice> qui secundum carnem Abrahae fuit filius in <lb/>
             cuius mysterio centenario patri natus Isaac super humeros suos portauit <lb/>
             lignum: ut ex eo demonstraretur et aduersarios expugnari et
 
@@ -536,7 +537,7 @@
             </p>
           </div>
 
-<div n="11" subtype="section" type="textpart"><p> Denique reuertamnr ad Exodum, id est ad diem Paschae primum, <lb/>
+<div n="11" subtype="section" type="textpart"><p> Denique <choice><sic>reuertamnr</sic><corr>reuertamur</corr></choice> ad Exodum, id est ad diem Paschae primum, <lb/>
             et exinde per ordinem dinumeremus annos usque ad Christum. in quibus <lb/>
             annis inueniemus nobis magna et admirabilia sacramenta demonstrari,<lb n="5"/>
             dinumerantes itaque per ordinem: de die quo exierunt ex <lb/>
@@ -948,7 +949,7 @@
 </p>
           </div>
 
-<div n="21" subtype="section" type="textpart"><p rend="script">Debemus ostendere et id ipsum non fuisse nacuum, sed in salutem  <lb n="10"/>
+<div n="21" subtype="section" type="textpart"><p rend="script">Debemus ostendere et id ipsum non fuisse <choice><sic>nacuum</sic><corr>uacuum</corr></choice>, sed in salutem  <lb n="10"/>
             nostram fuisse praeostensum. in die enim quarto quando factus est <lb/>
             sol, ipso die et luna facta est XV, altero autem die fuit XVI, tertio <lb/>
             uero XVII: et sic plasmatus est Adam de terra, qui per suam inobedientiam <lb/>

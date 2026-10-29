@@ -85,6 +85,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 1 mot collé.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -148,7 +149,7 @@
             <l n="11">T utum quod nihil est (tutum nil uentre tumesci T), </l>
             <l n="12">I nsidias membrisque mouent animaeque ludent</l>
             <l n="13">S i tamen his dapibus uesci dignantur egeni S, </l>
-            <l n="14">T emnat diuitias animus paucisque quiesca T. </l>
+            <l n="14">T emnat diuitias animus paucisque <choice><sic>quiesca</sic><corr>qui esca</corr></choice> T. </l>
             <l n="15">E xemplo adsumptus Domini, qui milia quinqu E </l>
             <l n="16">S emotis cunctis modicis saturauit ab esci S. </l>
 

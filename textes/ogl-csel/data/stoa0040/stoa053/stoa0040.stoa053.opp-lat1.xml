@@ -88,6 +88,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 1 mot mal lu, 1 césure.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -459,8 +460,7 @@
 </div>
 
 <div n="18" subtype="chapter" type="textpart">
-<p>Neque enim uel illa materies, quam hylen antiqui di- <lb/>
-            xerunt, malum dicenda est. non eam dico, quam Manichaeus <lb/>
+<p>Neque enim uel illa materies, quam hylen antiqui di<lb break="no"/>xerunt, malum dicenda est. non eam dico, quam Manichaeus <lb/>
             hylen appellat dementissima uanitate nesciens, quid loquatur, <lb/>
             formatricem corporum — unde recte illi dictum est, quod <lb/>
             alterum deum inducat; nemo enim formare et creare corpora<lb n="10"/>
@@ -1097,7 +1097,7 @@
             dolorem, iniquitatem, dedecus, bellum, inmoderationem, deformitatem, <lb/>
             peruersitatem. principes enim tenebrarum et uixisse <lb/>
             in sua natura dicunt et in suo regno saluos fuisse et meminisse <lb/>
-            et intellexisse. sic enim contionatum illi dicunt prineipem <lb/>
+            et intellexisse. sic enim contionatum illi dicunt <choice><sic>prineipem</sic><corr>principem</corr></choice> <lb/>
             tenebrarum, ut neque ipse talia dicere neque ab eis, <lb n="10"/>
             quibus dicebat, audiri sine memoria et intellectu potuisset: <lb/>
             et habuisse temperiem animo et corpori suo congruam et <lb/>

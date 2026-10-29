@@ -88,6 +88,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 9 mots collés, 6 mots mal lus.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -586,7 +587,7 @@
             uulnere schismatis. idololatas enim in populo dei gladius <lb/>
             interemit, schismaticos autem terrae hiatus absorbuit. et apostolus <lb/>
             si habeam, inquit, omnem fidem ita ut montes <lb/>
-            transferam, caritatem autem non habeamnihil sum. 
+            transferam, caritatem autem non <choice><sic>habeamnihil</sic><corr>habeam nihil</corr></choice> sum. 
 </p>
           
 </div>
@@ -643,7 +644,7 @@
             omnia sacramenta et omnem scientiam et si habuero <lb/>
             omnem fidem ut montes transferam, caritatem <lb n="20"/>
             autem non habeam, nihil sum. quid ergo eis prodest, si <lb/>
-            et linguam in sacris mysteriis habeant angelicam et prcphetiam <lb/>
+            et linguam in sacris mysteriis habeant angelicam et <choice><sic>prcphetiam</sic><corr>prophetiam</corr></choice> <lb/>
             quemadmodum Caipbas et Saul, ut aliquando prophetent, quos <lb/>
             fuisse damnabiles sancta scriptura testatur, si sacramenta non <lb/>
             tantum sciant sed et habeant, sicut habuit Simon magus, si <lb n="25"/>
@@ -1152,7 +1153,7 @@
             in terra uiuentium conputantur, ubi est spes nostra et <lb/>
             portio dominus. nec inuenio quid uerius intellegatur in eo quod <lb/>
             scriptum est: inperfectum meum uiderunt oculi tui, <lb/>
-            quandoquidemsequitur:et in libro tuo omnes scribentur.
+            <choice><sic>quandoquidemsequitur</sic><corr>quando quidem sequitur</corr></choice>:et in libro tuo omnes scribentur.
 
 <note type="footnote">1 I Cor. 2, 14 14 cf. I Ioh. 4, 2 16 cf. I Cor. 2, 14 27 cf. <lb/>
             Ps. 141, 6 29 Ps. 138, 16 </note>
@@ -1843,7 +1844,7 @@
             a domino appensa recognoscamus. tempore illo, quo dominus <lb/>
             priora delicta recentibus poenarum exemplis cauenda monstrauit <lb/>
             et idolum fabricatum adque adoratum est et propheticus liber <lb/>
-            ira regis contemptoris iucensus et schisma temptatum, idololatria <lb/>
+            ira regis contemptoris <choice><sic>iucensus</sic><corr>incensus</corr></choice> et schisma temptatum, idololatria <lb/>
             gladio punita est, exustio libri bellica caede et peregrina<lb n="15"/>
             captiuitate, schisma hiatu terrae, sepultis auctoribus uiuis <lb/>
             et ceteris caelesti igne consumptis. quis iam dubitauerit hoc <lb/>
@@ -1882,7 +1883,7 @@
             tam multa de sceleribus schismatum et haeresum loquitur? <lb n="5"/>
             aut quomodo canitur in psalmis: si uere iustitiam diligitis, <lb/>
             recta iudicate, filii hominum? cur autem ipse <lb/>
-            dominusdicit:nolite iudicare personaliter, sed rectum <lb/>
+            <choice><sic>dominusdicit</sic><corr>dominus dicit</corr></choice>:nolite iudicare personaliter, sed rectum <lb/>
             iudicium iudicate, si non licet de aliquo iudicare? postremo <lb/>
             ipsi de.illis traditoribus, de quibus falsa iudicauerunt, <lb n="10"/>
             cur omnino iudicauerunt de seruis alienis? suo domino stabant <lb/>
@@ -2300,7 +2301,7 @@
 </div>
 
 <div n="19" subtype="section" type="textpart">
-<p><milestone n="14" unit="altchapter"/> Quid sit autem pernieiosius, utrum omnino non<lb n="20"/>
+<p><milestone n="14" unit="altchapter"/> Quid sit autem <choice><sic>pernieiosius</sic><corr>perniciosius</corr></choice>, utrum omnino non<lb n="20"/>
             baptizari an rebaptizari, iudicare difficile est. uideo quidem <lb/>
             quid amplius homines detestentur adque horreant, uerumtamen <lb/>
             recurrens ad illam stateram dominicam, ubi non ex humano <lb/>
@@ -4125,7 +4126,7 @@
             quo <hi rend="italic">Ktnl</hi></note> <lb/>
              
 <pb n="235"/>
-            alta illa et praeclara sublimitas potuit, quo deoeptus <lb/>
+            alta illa et praeclara sublimitas potuit, quo <choice><sic>deoeptus</sic><corr>deceptus</corr></choice> <lb/>
             est ipse qui decepit. exinde inuidia grassatur <lb/>
             in terris, dum liuore periturus magistro <lb/>
             perditionis obsequitur, dum diabolum qui zelat <lb/>
@@ -4386,7 +4387,7 @@
             28 <hi rend="italic">all</hi>. in] de <hi rend="italic">Cypr</hi>. </note> <lb/>
              
 <pb n="241"/>
-            aliud eos quiforissunt et contra ecclesiam faciunt <lb/>
+            aliud eos <choice><sic>quiforissunt</sic><corr>qui foris sunt</corr></choice> et contra ecclesiam faciunt <lb/>
             in nomine Christi baptizare. sed et multi qui intus sunt . <lb/>
             contra ecclesiam faciunt male uiuendo et in suam uitam infirmas <lb/>
             animas traducendo, et nonnulli qui foris sunt in Christi nomine <lb/>
@@ -4930,7 +4931,7 @@
             acriores, ut in ipso igne aeterno pro disparibus ponderibus <lb/>
             peccatorum sint disparia tormenta poenarum. neque enim frustra <lb/>
             ipse dominus ait: tolerabilius erit Sodomis quam <lb/>
-            uobisin die iudicii. sed tamen ad non possidendum regnum <lb/>
+            <choice><sic>uobisin</sic><corr>uobis in</corr></choice> die iudicii. sed tamen ad non possidendum regnum <lb/>
             dei tantundem ualet ex uitiis illis quod elegeris mitius, quantum <lb n="15"/>
             uel plura uel unum quod perspexeris grauius. et quia illi <lb/>
             possessuri sunt regnum dei quos ad dextram constituet ille <lb/>
@@ -5966,9 +5967,9 @@
             utique super baptizatum descenderat. adhuc autem uenienti ut <lb/>
             baptizaretur dixerat: ego a te debeo baptizari. iam ergo <lb/>
             sciebat eum. quid sibi itaque uult: ego nesciebam eum, sed<lb n="15"/>
-            qui me misit baptizare in aqua, ipsemihidixit:super <lb/>
+            qui me misit baptizare in aqua, <choice><sic>ipsemihidixit</sic><corr>ipse mihi dixit</corr></choice>:super <lb/>
             quem uideris spiritum descendentem de caelo et <lb/>
-            manentem super eumipse est qui baptizatin spirtu <lb/>
+            manentem super <choice><sic>eumipse</sic><corr>eum ipse</corr></choice> est qui baptizatin spirtu <lb/>
             sancto, cum hoc posteaquam baptizatus est factum sit, nisi <lb/>
             quia secundum aliquid eum sciebat, secundum aliquid adhuc nesciebat? <lb n="20"/>
             sciebat uidelicet sponsum filium dei de cuius plenitudine <lb/>
@@ -6339,7 +6340,7 @@
 
 <div n="26" subtype="section" type="textpart">
 <p>Illud autem quid habeat rationis non uideo, ut nondum <lb/>
-            dicatur ouis errans, cui quaerenti salutem ohristianam in haereticorum <lb/>
+            dicatur ouis errans, cui quaerenti salutem <choice><sic>ohristianam</sic><corr>christianam</corr></choice> in haereticorum <lb/>
             incidere errorem et aput eos contingit baptizari, et <lb/>
             ouis iam facta dicatur in ipsa intus catholica, qui saeculo <lb/>
             uerbis solis et non factis renuntiauit et in ea cordis falsitate<lb n="15"/>
@@ -7768,7 +7769,7 @@
 <p>Cui respondetur: Uniuersae ecclesiae catholicae sententia <lb n="10"/>
             haec est, ut haeretici, quamuis in haeresi, iam Christi baptismo <lb/>
             baptizati ad ecclesiam uenientes non baptizentur. si enim nulla <lb/>
-            est aput peccatores remissie peccatorum, nec intus peccatores <lb/>
+            est aput peccatores <choice><sic>remissie</sic><corr>remissio</corr></choice> peccatorum, nec intus peccatores <lb/>
             peccata dimittunt et tamen ab eis baptizati non rebaptizantur. 
 </p>
           
@@ -8510,7 +8511,7 @@
             templi; cellaria eorum plena, eructuantia ex hoc <lb/>
             in hoc; oues eorum fecundae, multiplicantes in <lb/>
             exitibus suis; boues eorum crassi. non est ruina <lb/>
-            maceriae necexitus neque clamor in plateiseorum. <lb/>
+            maceriae <choice><sic>necexitus</sic><corr>nec exitus</corr></choice> neque clamor in <choice><sic>plateiseorum</sic><corr>plateis eorum</corr></choice>. <lb/>
             beatum dixerunt populum cui haec sunt: beatus <lb n="20"/>
             populus cuius est dominus deus ipsius. si ergo isti <lb/>
             sunt filii alieni qui in rebus temporalibus et abundantia terrenae <lb/>

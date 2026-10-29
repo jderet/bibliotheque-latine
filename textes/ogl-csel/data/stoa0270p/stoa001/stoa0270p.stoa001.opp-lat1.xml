@@ -86,6 +86,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 1 mot collé, 3 mots mal lus.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -181,7 +182,7 @@
             ubi ebriosus, ubi maledicus irecognoscentur? quid miseri pro sua <lb/>
             defensione dicturi sunt? \'nesciuimus te, Domine, te in mundo esse <lb n="30"/>
             non uidimus: prophetas non misisti, legem saeculo non dedisti: <lb/>
-            patriarchas uon nidimus, sanctorum non legimus exempla. Christus
+            patriarchas uon <choice><sic>nidimus</sic><corr>uidimus</corr></choice>, sanctorum non legimus exempla. Christus
 
 
 <note type="footnote"> 1 Luc. 9, 62. 6 Ezech. 18, 24. </note>
@@ -695,7 +696,7 @@
 
 
 <pb n="231"/>
-            inbentur implere contendas. hoc est quod dicit: recede a malo et <lb/>
+            <choice><sic>inbentur</sic><corr>iubentur</corr></choice> implere contendas. hoc est quod dicit: recede a malo et <lb/>
             fac bonum. nolo enim putes in hoc constare iustitiam ut malum <lb/>
             non facias, cum et bonum non facere malum sit et in utroque legis <lb/>
             praeuaricatio committatur, quoniam qui dixit \'recede a malo\', ipse <lb/>
@@ -1110,7 +1111,7 @@
 
 <div n="11" subtype="section" type="textpart"><p>Quid sit sanctam esse corpore breuiter quidem, sed plene exprsuisse me arbitror:<lb/>
              nunc quod sequtur et spiritu, nosse debemus, <lb/>
-            hoc est, ut quod opere nefas est fieri, nec fas sit cogitatione concipore. <lb n="20"/>
+            hoc est, ut quod opere nefas est fieri, nec fas sit cogitatione <choice><sic>concipore</sic><corr>concipere</corr></choice>. <lb n="20"/>
             illa enim est sancta tam corpore quam spiritu, quae nec mente <lb/>
             nec corde delinquit, sciens etiam cordis esse inspectorem Deum, et <lb/>
             idcirco satisagit, ut omni modo etiam animum cum corpore mundum
@@ -1513,7 +1514,7 @@
             seruum Domini litigare non oportet, quanto magis Dei <lb/>
             ancillam, cuius quo uerecundior est sexus, animus debet esse modestior. <lb/>
             linguam a maliloquio cohibe et ori tuo frenum legis inpone, ut <lb/>
-            tunc, siforte, loquaris, quando tacere peccatum sit. caue ne quid <lb/>
+            tunc, <choice><sic>siforte</sic><corr>si forte</corr></choice>, loquaris, quando tacere peccatum sit. caue ne quid <lb/>
             quod in reprehensionem ueniat dicas. lapis emissus est sermo prolatus:<lb n="15"/>
             quapropter diu antequam proferatur cogitandus est. beata quippe <lb/>
             labia sunt, quae numquam quod reuocare uelint emittunt. pudicae <lb/>

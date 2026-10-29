@@ -84,6 +84,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 4 mots mal lus.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -551,7 +552,7 @@ P1<foreign xml:lang="grc">υ</foreign>; idessent <hi rend="italic">M</hi> 6 in u
             <l n="167">Quod Deus ut uidit fieri sub nna loquella,  </l>
             <l n="168">Descendit et fecit., loquerentur lingua diuersa.  </l>
             <l n="169">Quos inde disparsit per insulas terrae semotos,  </l>
-             <l n="170">Vt fierent gentes nario sermone loquentes.  </l>
+             <l n="170">Vt fierent gentes <choice><sic>nario</sic><corr>uario</corr></choice> sermone loquentes.  </l>
             <l n="171">Tunc genus indocile uitam feritatis agebat;  </l>
             <l n="172">Nemo Deum sciebat, disputabat nemo de uita.  </l>
             <l n="173">Inrepserat quoniam rudibus temerarius ille  </l>
@@ -1090,7 +1091,7 @@ P1<foreign xml:lang="grc">υ</foreign>; idessent <hi rend="italic">M</hi> 6 in u
 <milestone n="360" unit="altline"/>
             <l n="364">Sed filium dixit se missum fuisse a patre.  </l>
              <l n="365">Sic ipse tradiderat semet ipsum dici prophetis,  </l>
-            <l n="366">Vt Deus in terris Altissimi filins esset. </l>
+            <l n="366">Vt Deus in terris Altissimi <choice><sic>filins</sic><corr>filius</corr></choice> esset. </l>
 
 <note type="footnote"> 313 sqq. Eaai. 60, 5 sq. (Cypr. p. 78, 3 H.) 351 Bom. 11, 34 <lb/>
             311 Sap. 2, 24 382 I Cor. 15, 54; Hos. 13, 14; Esai. 25, 8 <lb/>
@@ -2611,7 +2612,7 @@ P1<foreign xml:lang="grc">υ</foreign>; idessent <hi rend="italic">M</hi> 6 in u
              
 <pb n="172"/>
             <l n="879">Nulla dies pacis tunc erit nec oblatio Christo,  </l>
-             <l n="880">Sed crnor ubique manat, quem describere uincor;  </l>
+             <l n="880">Sed <choice><sic>crnor</sic><corr>cruor</corr></choice> ubique manat, quem describere uincor;  </l>
             <l n="881">Vincunt enim lacrimae, deficit manus, corda tremescunt,  </l>
 <milestone n="875" unit="altline"/>
             <l n="882">Quamquam sit martyribus aptam tot funera ferre;  </l>
@@ -2956,7 +2957,7 @@ P1<foreign xml:lang="grc">υ</foreign>; idessent <hi rend="italic">M</hi> 6 in u
 
 <milestone n="980" unit="altline"/>
             <l n="987">Quorum qui pn〈m〉ores, praepositi siue legati,  </l>
-            <l n="988">In looo seruorum rediguntur sancti (s) iniqui.  </l>
+            <l n="988">In <choice><sic>looo</sic><corr>loco</corr></choice> seruorum rediguntur sancti (s) iniqui.  </l>
             <l n="989">Interea sancti intrant in colonia sancta, </l>
 
 <note type="footnote"> 985 sq. Apoo. 19, 20 </note>

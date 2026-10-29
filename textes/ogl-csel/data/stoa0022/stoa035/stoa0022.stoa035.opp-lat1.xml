@@ -88,6 +88,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 1 mot coupé, 1 mot collé.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -365,7 +366,7 @@
             tilis est nobis? et addiderunt in Genesi: et uidebimus <lb/>
             quid erunt somnia eius. hoc scriptum est de Ioseph, <lb n="5"/>
             conpletum est de Christo, quando Iudaei in eius passione <note type="margin"> B </note> <lb/>
-            dixerunt: sirex Istrahel est, descendat nunc de cruce, <lb/>
+            dixerunt: <choice><sic>sirex</sic><corr>si rex</corr></choice> Istrahel est, descendat nunc de cruce, <lb/>
             et credimus ei. confidit in deum: liberet nunc eum, <lb/>
             si uult eum. numquid et ipsi fratres tam impii, ut fratrem occiderent? <lb/>
             et unde tantorum merita patriarcharum, ut lex tribus <lb n="10"/>
@@ -591,7 +592,7 @@
             sibi. hanc habebat, cum diceret mortuae: surge in nomine <note type="margin"> D </note> <lb/>
             domini nostri Iesu Christi. et defuncta surrexit. huius<lb n="10"/>
             resinae temperamento lapides illi, de quibus potens est deus <lb/>
-            resuscitare filios Abrahae, conpaginantur. huius resinae medi camento <lb/>
+            resuscitare filios Abrahae, conpaginantur. huius resinae <choice><sic>medi camento</sic><corr>medicamento</corr></choice> <lb/>
             claudus erigitur, paralyticus reformatur, mortua  <lb/>
             resuscitatur.</p></div>
 

@@ -84,6 +84,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 1 mot coupé.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -302,7 +303,7 @@
             inferam, quas relinquam. stat ante oculos meos Bulgarum <lb/>
             ductor libertatem dextera, tua adserente prostratus, nec extinctus, <lb/>
             ne periret monumentis, nec intactus, ne uiueret adrogantiae, <lb/>
-            in gente indomita domesticus adstipulator superfu turus roboris <lb/>
+            in gente indomita domesticus adstipulator <choice><sic>superfu turus</sic><corr>superfuturus</corr></choice> roboris <lb/>
             tui: qui si sufficiens leto uulnus excepisset, personam uiceras:<lb n="20"/>
             quod in luce substitit, submisit originem. haec est natio, cuius
 

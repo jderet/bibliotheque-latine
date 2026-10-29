@@ -88,6 +88,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 1 mot collé, 1 césure, 1 mot coupé.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -797,7 +798,7 @@
 <div n="22" subtype="section" type="textpart">
 <p>Interea post paululum dies sese aperuit. surrexerunt illi <lb/>
              et ego inlacrimans multa oraui, cum audio Licentium succinentem <lb n="20"/>
-            illud propheticum laete atque garrule: deus uirtutu m, conuerte <lb/>
+            illud propheticum laete atque garrule: deus <choice><sic>uirtutu m</sic><corr>uirtutum</corr></choice>, conuerte <lb/>
             nos et ostende faciem tuam, et salui <lb/>
             erimus. quod pridie post caenam cum ad requisita naturae foras <lb/>
             exisset, paulo clarius cecinit., quam ut mater nostra ferre posset, quod <lb/>
@@ -1553,8 +1554,7 @@
             — Nullo modo, inquam, est, Alypi, beneuolentiae atque humanitatis <lb/>
             tuae uocem tuam sermoni nostro etiam desideratam negare. sed <lb/>
             perge modo, quod instituisti effice; cetera, ut iam sese habet ordo <lb/>
-            ille, prouenient. — Aeque mihi de ordine, inquit, sunt speranda me- <lb n="20"/>
-            liora, in cuius adsertione interim me substituere uoluistis. sed, ni <lb/>
+            ille, prouenient. — Aeque mihi de ordine, inquit, sunt speranda me<lb n="20" break="no"/>liora, in cuius adsertione interim me substituere uoluistis. sed, ni <lb/>
             fallor, ob hoc stultitiam deo ista tua conclusione ab his copulatam <lb/>
             putasti, quod uniuersa, quae intellegit sapiens, cum deo esse dixerunt. <lb/>
             sed id quatenus accipiendum sit, nunc omitto; tuam illam ratiocinationem <lb/>
@@ -2461,7 +2461,7 @@
             de illo, cui poculum medicus dederit, cur id dulciter sentire debuerit, <lb/>
             aliud infertur, propter quod ita est, id est morbi genus, quod iam <lb/>
             non in illo sensu est sed aliter sese habet in corpore. si autem rogetur <lb/>
-            ligurriens aliquid gulae stimulo concitatus, cur ita dulce situel respondeat:<lb n="15"/>
+            ligurriens aliquid gulae stimulo concitatus, cur ita dulce <choice><sic>situel</sic><corr>sit uel</corr></choice> respondeat:<lb n="15"/>
             \'quia libet\' aut \'quia delector\', nemo illud dicet rationabiliter <lb/>
             dulce, nisi forte illius delectatio alicui rei sit necessaria et <lb/>
             illud, quod mandit, ob hoc ita confectum sit. 

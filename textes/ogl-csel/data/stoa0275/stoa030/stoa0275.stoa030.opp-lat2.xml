@@ -93,6 +93,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 1 césure.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -980,8 +981,7 @@
             <add>r, Christi</add> se esse testatur, qui Christi est, in Christo sit <lb/>
             necesse est. si in Christo est, <add>in Christo utique</add> confitetur; cum <lb/>
             se Christianum  <milestone n="62v" unit="altpage"/> confitetur. hoc <add>enim non potest esse</add> nisi sit  <lb n="20"/>
-            in Christo. porro in Christo confitendo Christum quoque con- <lb/>
-            fitetur, qui sit in ipso, dum et ipse in illo est, utpote Christianus. <lb/>
+            in Christo. porro in Christo confitendo Christum quoque con<lb break="no"/>fitetur, qui sit in ipso, dum et ipse in illo est, utpote Christianus. <lb/>
             nam et si diem dixeris, lucis rem ostendisti, quae <lb/>
             diem praestat, licet non dixeris lucem. ita etsi non directo <lb/>
             pronuntiauit qui me confessus fuerit, non est diuersus <lb n="25"/>

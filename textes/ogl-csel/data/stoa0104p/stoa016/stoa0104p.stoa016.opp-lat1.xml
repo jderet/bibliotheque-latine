@@ -85,6 +85,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 1 mot collé.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -358,7 +359,7 @@
             uiuos filios aut propter litteras aut propter honores ant propter negotia peregrinis <lb/>
             regionibus credunt, et gaudent totam uitam sine affectibus commorari,<lb n="5"/>
             dummodo capiant quod cupiunt de suis pigneribus adipisci. et <lb/>
-            utad palatia pergant peregrinantur, ad studia dignitatis nauigant acquirenda <lb/>
+            <choice><sic>utad</sic><corr>ut ad</corr></choice> palatia pergant peregrinantur, ad studia dignitatis nauigant acquirenda <lb/>
             uel ad causas patrimonii aliquas explicandas per labores et <lb/>
             pericula proficiscentes omnes impellunt, nec secum uacare quos diligunt <lb/>
             patiuntur. et ut ad palatia caeli, ad studia Christi, ad honorem<lb n="10"/>

@@ -95,7 +95,8 @@
   <change who="Alison Babeu" when="2022-04-20">Added in next CTS refsDecl</change>
   <change who="Alison Babeu" when="2022-04-13">Changed URN and file from stoa0040a to stoa0022a (Augustine to Ambrosiaster)</change>
   <change who="Alison Babeu" when="2022-04-12">Merged two files to create the volume for this one work</change>
- </revisionDesc>
+ <change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 23 mots collés, 13 mots mal lus, 3 mots coupés, 1 césure.</change>
+</revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -624,7 +625,7 @@
 <pb n="24"/>
             omnes quotquot fidem habuerunt unius dei, quam saluator <lb/>
             praedicauit, iure Christiani dicendi sunt; ab initio enim saluator <lb/>
-            uenturus promissus est. unde in Apocalypsi ait: a agnu s <lb/>
+            uenturus promissus est. unde in Apocalypsi ait: a <choice><sic>agnu s</sic><corr>agnus</corr></choice> <lb/>
             qui occisus est a constitutione mundi. itaque <lb/>
             semper Christianismus. hi enim omnes. quos supra dixi. a<lb n="5"/>
             primo homine creato in mundo per quos tradux tenditur ad <lb/>
@@ -855,7 +856,7 @@
             plagis), notitia ser plag <hi rend="italic">(corr</hi>. plagas) <hi rend="italic">A</hi> </note> <lb/>
              
 <pb n="29"/>
-            hoe etiam numero remunerandi sunt qui relietis omnibus dominum <lb/>
+            hoe etiam numero remunerandi sunt qui <choice><sic>relietis</sic><corr>relictis</corr></choice> omnibus dominum <lb/>
             sequuntur et in futuro uitam aeternam habebunt, hoc est signum <lb/>
             quod posuit deus in Cain, ne quis occideret eum <lb/>
             omnis qui inuenisset eum. in parricida enim posita lex est, <lb/>
@@ -2536,7 +2537,7 @@
             est, peruenit in Israhel non praetermittens Samariam; sed <lb/>
             dum causa, qua missa est in Samariam, inuenta est et in <lb/>
             Hierusalem, missa illuc uenit etiam in eum locum, in quo eadem <lb/>
-            reserat. quia nindicta causam sequitur, non discernens personam. <lb n="20"/>
+            reserat. quia <choice><sic>nindicta</sic><corr>uindicta</corr></choice> causam sequitur, non discernens personam. <lb n="20"/>
             
 </p>
 
@@ -3098,7 +3099,7 @@
 </div>
 
 <div n="10" subtype="section" type="textpart">
-<p>Sed forte dicantIudaei: csi ea, quae a Moyse data sunt, cessare <lb/>
+<p>Sed forte <choice><sic>dicantIudaei</sic><corr>dicant Iudaei</corr></choice>: csi ea, quae a Moyse data sunt, cessare <lb/>
             dicta sunt per adbreuiationem legis, numquid circumcisio a <lb n="15"/>
             Moyse data est ut cesset? ac per hoc signum patris nostri habemus, <lb/>
             quia sumus filii Abrahae, quod propter testimonium <lb/>
@@ -3788,7 +3789,7 @@
             unum, id est natum Christum, dicentes: panem nostrum <lb/>
             manducabimus et uestimentis nostris operiemur. <lb/>
             uerum tamen inuocetur nomen tuum super nos, <lb/>
-            aufer obprobrium nostrum. quid est hoc quod precautur <lb/>
+            aufer obprobrium nostrum. quid est hoc quod <choice><sic>precautur</sic><corr>precantur</corr></choice> <lb/>
             si enim pane proprio utuntur et uestimentis suis induuntur, id <lb n="10"/>
             est, et uiuunt et nudae non sunt, quid eis deest? si enim <lb/>
             panis ad uitam significatur et uestitus ad dei deuotionem <lb/>
@@ -7128,7 +7129,7 @@
             pentecosten, lex data est, quo et spiritus sanctus decidit in <lb/>
             discipulos, ut auctoritatem caperent ac scirent euangelicum <lb/>
             ius praedicare. quod factum duplici testimonio confirmatur, <lb/>
-            quia et praedestinatum ostenditur et manitesta spiritus sancti<lb n="10"/>
+            quia et praedestinatum ostenditur et <choice><sic>manitesta</sic><corr>manifesta</corr></choice> spiritus sancti<lb n="10"/>
             infusione diuinum et supercaeleste probatur; inperiti enim <lb/>
             diuersis linguis magnalia dei loquebantur.-
 </p>
@@ -7498,7 +7499,7 @@
 
 <div n="7" subtype="section" type="textpart">
 <p>Tale etiam illud Hieremiae profetae est; dicit enim inter alia: <lb/>
-            hicdeus noster: non aestimabitur alter ad eum. hic <lb/>
+            <choice><sic>hicdeus</sic><corr>hic deus</corr></choice> noster: non aestimabitur alter ad eum. hic <lb/>
             adinuenit omnem uiamscientiae et dedit eam Iacob <lb/>
             puero suo et Israhel dilecto sibi. post haec in <lb/>
             terra uisus est et inter homines conuersatus <lb n="10"/>
@@ -7644,7 +7645,7 @@
             id quod aeternum est, reuelatis dolum malitiae uestrae, quia <lb/>
             ut sensum uerbi eludatis, falsa uoce Christum uerum esse <lb/>
             filium dei dicitis negantes ei quia aequalis est deo patri. non <lb/>
-            enim uerus est, si inaequalis est. poteritnum uerus dici filius, <lb/>
+            enim uerus est, si inaequalis est. <choice><sic>poteritnum</sic><corr>poterit num</corr></choice> uerus dici filius, <lb/>
             si non uerus dicatur et pater? si enim uerus est filius, erit <lb n="15"/>
             uerus et pater; quam ueritatem aequalitas probat. quod si <lb/>
             dispares sunt, neuter eorum uerus est sed quoniam scripturarum <lb/>
@@ -7681,7 +7682,7 @@
             quanto magis hoc amplecti deberes, si bonae mentis esses, <lb/>
             per quod uerum quod dicitur uerum probatur et deus pater <lb/>
             testimonium quod de filio suo dedit uerum firmatur! nam <lb/>
-            dominusait:apud deum autem, inquit, omnia possibilia,<lb n="5"/>
+            <choice><sic>dominusait</sic><corr>dominus ait</corr></choice>:apud deum autem, inquit, omnia possibilia,<lb n="5"/>
             ut quidquid hominibus inpossibile uidetur deo possibile sit. <lb/>
             nam si ratio carnis respicitur, nec uirgo peperit nec Ionas in <lb/>
             uentre ceti uixit nec mortui resurgent nec deus filium genuit. <lb/>
@@ -8584,7 +8585,7 @@
             quam in adulterio se deprehendisse maiores Iudaeorum dixerunt, <lb/>
             ut. quia pia praedicatio inciperet, non condemnandum, sed <lb/>
             ignoscendum doceret. nam per Moysen data lex, quia iustitiam <lb n="15"/>
-            hahuit ad uindictam, in primordiis suis seueritatem exercuit, <lb/>
+            <choice><sic>hahuit</sic><corr>habuit</corr></choice> ad uindictam, in primordiis suis seueritatem exercuit, <lb/>
             quia et in illum, qui sabbatis exiit ligna colligere, funebriter <lb/>
             uindicauit et in filium Aegyptiae, qui blasphemauerat in deum, <lb/>
             similiter ultionem dedit et in causa fusilis uituli percussit <lb/>
@@ -8922,7 +8923,7 @@
             largior et uberior in misericordia esse uoluit, ut plus gratiae <lb/>
             praedicante filio esset, quam fuerat praedicantibus seruis. nec <lb/>
             inmerito: sic enim fuit dignum ut maiora dona per filium <lb/>
-            quam per tamulos largiretur. denique ad se conuersis credentibus <lb/>
+            quam per <choice><sic>tamulos</sic><corr>famulos</corr></choice> largiretur. denique ad se conuersis credentibus <lb/>
             omnia simul peccata concedit nulla interueniente lamentatione <lb n="5"/>
             paenitentiae. unde dicit apostolus Paulus: sine paenitentia <lb/>
             enim sunt dona et uocatio dei. post autem si peccauerint. <lb/>
@@ -9586,8 +9587,7 @@
             non erit uerum, quia a uitioso dictum est, cum alia causa <lb/>
             sit conuersationis et alia professionis. nonne persecutor odio <lb n="15"/>
             Christiani nominis professionem persequitur, non conuersationem? <lb/>
-            primo in loco sciens hoc proficere religioni, cum con- <lb/>
-            fitemur esse nos Christianos, sacrilegus confitentibus nobis <lb/>
+            primo in loco sciens hoc proficere religioni, cum con<lb break="no"/>fitemur esse nos Christianos, sacrilegus confitentibus nobis <lb/>
             credit quod non uult audire, quia odit. tu autem, cum eiusdem <lb/>
             professionis sis et signaculi, non credis confitentibus nobis quae <lb n="20"/>
             ipse confiteris. si aliter nos renatos scires quam tu renatus es, <lb/>
@@ -10733,7 +10733,7 @@
             est mundus, sicut continetur in Sapientia, quae <lb/>
             dicitur Solomonis: ex materia inuisa, hoc est tenebrosa. et <lb/>
             tenebras enim et aquam factam sacra uolumina ipsius domini<lb n="10"/>
-            uoce testanturper Eseiamprofetam: ego enim, inquit, deusqui <lb/>
+            uoce <choice><sic>testanturper</sic><corr>testantur per</corr></choice> Eseiamprofetam: ego enim, inquit, deusqui <lb/>
             feci lucem et creaui tenebras. similiter et per Dauid et <lb/>
             aquas factas et terram firmatam super aquas spiritus sanctus <lb/>
             ostendit. quod conuenit et euangelicae auctoritati et apostolicae <lb/>
@@ -10877,7 +10877,7 @@
             et lautum ire. numquid possent haec nocte facere, ut orto die <lb/>
             intrarent in sabbatum? dominus certe uespere resurrexit et <lb/>
             diei deputatur. in die enim resurrectio celebratur, qui dies dominicas <lb/>
-            appellatur - sic enimlegis: haec dies quam fecit dominus <lb n="15"/>
+            appellatur - sic <choice><sic>enimlegis</sic><corr>enim legis</corr></choice>: haec dies quam fecit dominus <lb n="15"/>
             non tamen nox dominica, quia principatum dies habet. siue <lb/>
             enim praeterito diei siue futuro, semper nox subiecta est, quia <lb/>
             et ordine inferior est et natura dicente apostolo: filii diei <lb/>
@@ -11102,7 +11102,7 @@
             hominum, recuperaret hominibus, quia, sicut in principio in Adam <lb/>
             dei fuit imago, ut cognitio eius esset in terris, ita post ruinas <lb/>
             humani generis et obliuionem ueri in Habraham reformatum<lb n="15"/>
-            est, utab ipso fides in deum iterum coepta germinaret in fructum. <lb/>
+            est, <choice><sic>utab</sic><corr>ut ab</corr></choice> ipso fides in deum iterum coepta germinaret in fructum. <lb/>
             unde non est absurdum ut ei nomine eius plebs ab eo coepta <lb/>
             uocabulum sortiretur. 
 </p>
@@ -11188,7 +11188,7 @@
             qui in primitus lingua data remaneret. denique neque terram <lb/>
             aliquam habet inter homines, ut ceterae linguae, neque gentem <lb/>
             exceptis Iudaeis, quia primo homini data est in paradiso. et <lb/>
-            postquam confusae suntlinguae, nusquam reperta haec quae nunc<lb n="10"/>
+            postquam confusae <choice><sic>suntlinguae</sic><corr>sunt linguae</corr></choice>, nusquam reperta haec quae nunc<lb n="10"/>
             dicitur Habraea. si igitur nusquam habet locum uel gentem — <lb/>
             Habraham autem natione Syrus erat —, unde hanc linguam <lb/>
             Habrahae uel ceteris seminis eius, nisi quia aut illa prior est <lb/>
@@ -11483,7 +11483,7 @@
             et sine genealogia neque initium dierum nec finem <lb/>
             uitae habens; similatus autem filio dei manet sacerdos <lb/>
             in perpetuum. et ut haec locis quibus significauerat commendaret, <lb/>
-            de eo adiecit: uidetis, ait, quantus sithic, cuidecimas<lb n="10"/>
+            de eo adiecit: uidetis, ait, quantus <choice><sic>sithic</sic><corr>sit hic</corr></choice>, cuidecimas<lb n="10"/>
             dedit Abraham de primitiuis princeps patrum. ut enim <lb/>
             qua potentia et quanta Melchisedech sit ostendat, laudat Abraham <lb/>
             dicens quia princeps patrum est, hoc est ceteris omnibus <lb/>
@@ -11695,7 +11695,7 @@
             eius Iacob ? igitur si in mundo plebs non erat dei exceptis <lb/>
             filiis Abrahae, qua ratione alia plebs putatur fuisse, quae ex <lb/>
             doctrina descenderat Melchisedech negante profeta? quando enim <lb/>
-            nominat omnes gentes, quae in muudo sunt, et non dicit populum
+            nominat omnes gentes, quae in <choice><sic>muudo</sic><corr>mundo</corr></choice> sunt, et non dicit populum
 
 <note type="footnote">6 I Esdr. 3, 12 12 cf. Hebr. 7, 28 23 Deut. 32, 8. 9 </note><note type="margin"><hi rend="italic">def. DiCNX</hi> </note>
 
@@ -11724,7 +11724,7 @@
 <p>Iam uide de quo male sentire contendis et, si hunc non <lb/>
             uereris, uel Christum metue, cui similis scripturae auctoritate <lb/>
             refertur. per ordinem enim paulatim ad naturale eius meritum <lb n="15"/>
-            uenit, ut, si quos dicta superiora mouercnt, quibus rex iustitiae <lb/>
+            uenit, ut, si quos dicta superiora <choice><sic>mouercnt</sic><corr>mouerent</corr></choice>, quibus rex iustitiae <lb/>
             et pacis significatus est, et quia in carne uisus neque patrem <lb/>
             neque matrem habuit, hoc est ingenitus apparuit neque ortum <lb/>
             neque occasum habens ex his, quae ultima subiecit, superiora <lb/>
@@ -11904,7 +11904,7 @@
             peccatorum. igitur sicut beatus est qui non abiit in consilium <lb/>
             impiorum, sic inemendabilis erit, si abiit, dicente Solomone quia <lb n="10"/>
             «pes impiorum peribit et: beatus uir qui in uia peccatorum <lb/>
-            non stetit. si autem steterit, non iam beatus, sedreus <lb/>
+            non stetit. si autem steterit, non iam beatus, <choice><sic>sedreus</sic><corr>sed reus</corr></choice> <lb/>
             dignus plagis. ad emendationem aliquam enim uidetur habere <lb/>
             spem, quia non impius, sed peccator est. si autem unus fuerit <lb/>
             qui non abiit in consilio impiorum et in uia peccatorum <lb n="15"/>
@@ -12415,7 +12415,7 @@
             habebitur dicente domino: diliges dominum deum tuum <lb/>
             ex toto corde tuo et ex omni uirtute tua. hoc est <lb/>
             primum mandatum. et secundum simile illi: diliges proximum <lb/>
-            tibi tamquam teipsum. inhisduobus <lb n="10"/>
+            tibi tamquam teipsum. <choice><sic>inhisduobus</sic><corr>in his duobus</corr></choice> <lb n="10"/>
             mandatis tota lex pendet et profetae. quis ergo ex <lb/>
             toto corde dominum diligens legem eius non seruet? aut quis <lb/>
             habens proximi caritatem peccatis studeat, quippe cum causa <lb/>
@@ -12425,7 +12425,7 @@
 
 <div n="10" subtype="section" type="textpart">
 <p>Etsubiecit:hic accipiet benedictionem a domino <lb n="15"/>
-            et misericordiam a deo salutari suo. nunc quodmeritum <lb/>
+            et misericordiam a deo salutari suo. nunc <choice><sic>quodmeritum</sic><corr>quod meritum</corr></choice> <lb/>
             eius sit, qui in causa dei et hominis*, creatoris et proximi, fidem <lb/>
             habuerit et dilectionem, ostendit, quia et benedicetur a domino,. <lb/>
             ut commendatus appareat, et in his misericordiam consequetur, <lb/>
@@ -13069,7 +13069,7 @@
 </div>
 
 <div n="18" subtype="section" type="textpart">
-<p>Uideris de ceteris. et adiecit: ne proicias meafacie <lb/>
+<p>Uideris de ceteris. et adiecit: ne proicias <choice><sic>meafacie</sic><corr>mea facie</corr></choice> <lb/>
             tua et spiritum sanctum tuum ne auferas a me. <lb/>
             hic sensus est, quem supra memoraui, quia securus de uenia <lb/>
             sollicitus est de reformatione. cui enim ignoscitur solum, solet <lb/>
@@ -13330,12 +13330,12 @@
             ediscant. cum enim cognouerint, quantus sit cui se crediderunt <lb/>
             et quae sit eius potentia, nullo pacto, nulla ratione ab eius <lb/>
             spe traduci se patientur. unde dictum legimus: gustate et uidete, <lb/>
-            quam suauisestdominus, ut data opera cognoscant <lb/>
+            quam <choice><sic>suauisestdominus</sic><corr>suauis est dominus</corr></choice>, ut data opera cognoscant <lb/>
             diuinitatis eius saporem intellegentes nihil sapientius esse quam <lb n="20"/>
             in Christum credere. quam ob rem ipse magister gentium inter <lb/>
             cetera ait: in quo sunt omnes thesauri sapientiae et <lb/>
             scientiae absconditi, et iterum: nam scio, inquit, cui <lb/>
-            credidi, quia potens estdepositummeum custodire.
+            credidi, quia potens <choice><sic>estdepositummeum</sic><corr>est depositum meum</corr></choice> custodire.
 
 <note type="footnote"> 5 Iob. 17, 3 7 cf. Eaai. 7, 9 14 cf. Act. 9, 15 18 Ps. 33, 9. <lb/>
             cf. I Petro 2, 3 22 Col. 2, 8 23 11 Tim. 1, 12 </note> <note type="margin"> <hi rend="italic">kf.F</hi> </note>
@@ -14444,7 +14444,7 @@
 <div n="11" subtype="section" type="textpart">
 <p>Nam si rem plenius discutiamus, qui nunc iusti sunt, <lb/>
             iniustos illos prius fuisse ostendemus, data autem opera inmutati<lb n="5"/>
-            sunt. ipse etenim Abraham per fidem iustus factus legiturante <lb/>
+            sunt. ipse etenim Abraham per fidem iustus factus <choice><sic>legiturante</sic><corr>legitur ante</corr></choice> <lb/>
             ergo non fuit, quippe cum patre suo duce idola coluisse <lb/>
             intellegatur - et Zacheus utique, cui post uulgarem uitam testimonium <lb/>
             perhibet dominus, et uas electionis, qui istud etiam <lb/>
@@ -14817,7 +14817,7 @@
 <div n="34" subtype="section" type="textpart">
 <p>Haec omnia ignorantes pagani fatum appellant, cum <lb/>
             diuersae sint causae et ista ab inimicis procurentur, ut quacumque <lb/>
-            ex causa inretitus homo subiciatur passionibus. sedfatum <lb n="5"/>
+            ex causa inretitus homo subiciatur passionibus. <choice><sic>sedfatum</sic><corr>sed fatum</corr></choice> <lb n="5"/>
             bonum appellant, cum bene temperata sunt corpora aut <lb/>
             affabilitate commendantur habentia gratiam quandam; malum <lb/>
             autem fatum esse, si plus caloris habeat aut umoris, aut si <lb/>
@@ -15658,7 +15658,7 @@
 
 <div n="77" subtype="section" type="textpart">
 <p>Quia autem nec apud eos ipsos fixa est ista adseueratio, <lb/>
-            idcirco incerti temptant, ne aliud uerum inueniant quam tractaut. <lb/>
+            idcirco incerti temptant, ne aliud uerum inueniant quam <choice><sic>tractaut</sic><corr>tracta ut</corr></choice>. <lb/>
             sed prudentiores qui inter eos uidentur: 'non propter <lb/>
             fata\' inquiunt, \'supplicamus, cum ea minime inmutari sciamus, <lb n="20"/>
             sed horum causa, quae iuxta fata sunt, ne faciant nobis aliquid <lb/>
@@ -15694,7 +15694,7 @@
 
 <div n="78" subtype="section" type="textpart">
 <p>Uidete autem ne et hoc fati sit quod supplicatis, quia sine <lb/>
-            sale solet esse quidquid fato adsignatis. certe non mala resest <lb/>
+            sale solet esse quidquid fato adsignatis. certe non mala <choice><sic>resest</sic><corr>res est</corr></choice> <lb/>
             supplicare: cur ergo non fati esse dicatur? si ergo fati erit quod<lb n="10"/>
             supplicat, cuius erit supplicare et non impetrare? quia, si fati <lb/>
             erat, impetrare deberet quod supplicat. si autem fati est supplicare <lb/>
@@ -16644,9 +16644,9 @@
 </div>
 
 <div n="3" subtype="section" type="textpart">
-<p>tbi?apuddeum, inquit, ut non indigne initio subiectum <lb n="20"/>
+<p>tbi?<choice><sic>apuddeum</sic><corr>apud deum</corr></choice>, inquit, ut non indigne initio subiectum <lb n="20"/>
             minime aestimaretur, quod semper erat apud deum. conuenit <lb/>
-            enim ut quod ante omnia apud deum erat nuili subiciatur initio. 
+            enim ut quod ante omnia apud deum erat <choice><sic>nuili</sic><corr>nulli</corr></choice> subiciatur initio. 
 </p>
 </div>
 
@@ -17043,7 +17043,7 @@
             terra, quia, quamuis et filius inuisibilis sit, illic tamen, id est <lb/>
             in caelestibus, uidetur apostolis -uel ceteris talibus, de quibus <lb/>
             dixit: pater, uolo ut ubi ego sum et isti sint mecum <lb/>
-            et uideant claritatem meam; etalio loco: beati, inquit, <lb n="10"/>
+            et uideant claritatem meam; <choice><sic>etalio</sic><corr>et alio</corr></choice> loco: beati, inquit, <lb n="10"/>
             mundo corde, quia ipsi deum uidebunt, hoc est patrem <lb/>
             in filio, deum in imagine, quod est deum in deo. 
 </p>
@@ -17265,7 +17265,7 @@
 <div n="10" subtype="section" type="textpart">
 <p>Scriptura ipsa testatur, quia factus est, inquit, primus <lb n="15"/>
             homo Adam in animam uiuentem, secundus autem <lb/>
-            homo in spiriturn uiuificantem.. primus, ait, homo de <lb/>
+            homo in <choice><sic>spiriturn</sic><corr>spiritum</corr></choice> uiuificantem.. primus, ait, homo de <lb/>
             terra, terrenus; secundus homo ae caelo, caelestis: <lb/>
             qualis terrenus, tales et terreni; qualis caelestis, <lb/>
             tales et caelestes. quid tam apertum quia Adam non habuit <lb n="20"/>
@@ -17861,7 +17861,7 @@
 
 <div n="13" subtype="section" type="textpart">
 <p>Contuendum etenim est quo modo dictum est, quia <lb/>
-            nemo scit quidsit in homine nisi spiritus hominis, <lb/>
+            nemo scit <choice><sic>quidsit</sic><corr>quid sit</corr></choice> in homine nisi spiritus hominis, <lb/>
             qui in eo est. spiritum animum significauit, quia nemo scit <lb n="15"/>
             quid sit in animo hominis nisi animus eius, qui est spiritus. <lb/>
             sic et in deo nemo scit quae sunt nisi spiritus dei, hoc est <lb/>
@@ -19478,7 +19478,7 @@
 
           <milestone n="II-uet-8" unit="concordantia"/>
           <div n="1" subtype="section" type="textpart">
-<p>Qui hoc reprehensibile putat, dicat quid aliud fieri debueri t <lb/>
+<p>Qui hoc reprehensibile putat, dicat quid aliud fieri <choice><sic>debueri t</sic><corr>debuerit</corr></choice> <lb/>
             nam utique serpentem fecit, qui et terrorem incuteret, non <lb/>
             tamen obesset, per id quod stupore quodam ad nocendum <lb n="5"/>
             tardior est. si enim leonem fecisset aut ursum aut aliud tale, <lb/>
@@ -20958,7 +20958,7 @@
             contra carnem, hoc est contra uitia, repugnare, ut hominem <lb/>
             conseruet deo; lex autem diaboli, qui est error, contradicit <lb/>
             per oblectamenta luxuriae et mundana dulcedine. his ergo <lb n="5"/>
-            repugnantibus medius homo est, qui cum conseutit spiritui, <lb/>
+            repugnantibus medius homo est, qui cum <choice><sic>conseutit</sic><corr>consentit</corr></choice> spiritui, <lb/>
             non uult caro; cum autem manum dat carni, spernit spiritum, <lb/>
             id est legem dei contemnit. consentientem ergo carni <lb/>
             spiritus reuocat, ne faciat quod uult; adsentientem autem <lb/>
@@ -21063,7 +21063,7 @@
             tunc Iesus respondit discipulis eius dicens: ite, dicite <lb/>
             Iohanni quae uidistis et audistis. caeci uident, surdi <lb/>
             audiunt, leprosi mundantur, claudi ambulant, mortui <lb n="5"/>
-            resurgunt; et beatus ille est qui in me non fuerit s candalizatus. <lb/>
+            resurgunt; et beatus ille est qui in me non fuerit <choice><sic>s candalizatus</sic><corr>scandalizatus</corr></choice>. <lb/>
             abeuntibus autem nuntiis Iohannis coepit <lb/>
             Iesus dicere ad turbas de Iohanne baptista: quid. <lb/>
             existis in desertum uidere? harundinem uento moueri <lb/>
@@ -21257,7 +21257,7 @@
             absurdum est,: et tamen apostolus ecclesiam membra et corpi\\% <lb/>
             Christi appellat, ita ut nos inuicem simus membra, quo modo; <lb/>
             ergo \' qui\'formcatur m suum corpus peccat et non magis in, <lb/>
-            Christi? quia secundum ecolesiae mysterium non QV-strum corpus <lb/>
+            Christi? quia secundum <choice><sic>ecolesiae</sic><corr>ecclesiae</corr></choice> mysterium non QV-strum corpus <lb/>
             dicimur, sed Christi,. et. hoc- longe a causa est, quia qui forni* <lb n="10"/>
             catur ideo in corpus suum peccat; (quoniam totbs;A\'dam con-. <lb/>
             taminatur. 
@@ -21749,7 +21749,7 @@
           <milestone n="II-nou-37" unit="concordantia"/>
           <div n="1" subtype="section" type="textpart">
 <p>Indignantis uerba sunt dicentis: noli me tangere. quamuis <lb/>
-            enim desideraret saluatorem, aliis tamen resurreetionem eius <lb n="25"/>
+            enim desideraret saluatorem, aliis tamen <choice><sic>resurreetionem</sic><corr>resurrectionem</corr></choice> eius <lb n="25"/>
             credentibus haec ad monumentum stabat plorans, quam iam <lb/>
             gaudere oportuerat. audierat enim a Iohanne et Petro apostolis
 
@@ -21830,7 +21830,7 @@
             hanc posse, quia sabbatum uiolat, sed per iustitiam legis intrari <lb/>
             in regnum dei. tunc saluator: ego sum, inquit, ianua. per <lb/>
              me si quis introibit, saluabitur et pascua inueniet; si <lb n="20"/>
-            quis autem aliunde intrare uolueritille fur est et latro. 
+            quis autem aliunde intrare <choice><sic>uolueritille</sic><corr>uoluerit ille</corr></choice> fur est et latro. 
 </p>
 </div>
 

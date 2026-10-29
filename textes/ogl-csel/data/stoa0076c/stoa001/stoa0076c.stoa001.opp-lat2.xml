@@ -86,6 +86,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 61 mots mal lus, 10 mots collés, 1 mot coupé.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -1549,7 +1550,7 @@
             spiritalis instigat, per quod nos ab humilitate propositi huius <lb/>
             ac districtione diuellat.</p></div>
 
-<div n="6" subtype="section" type="textpart"><p>quae omnia oum sint nostrae salnti  <lb/>
+<div n="6" subtype="section" type="textpart"><p>quae omnia oum sint nostrae <choice><sic>salnti</sic><corr>saluti</corr></choice>  <lb/>
             professionique contraria, tamen uelamine quodam misericordiae <lb/>
             ac religionis obtecta facile inperitos incautosque decipiunt. <lb/>
             imitantur enim nomismata ueri regis, quia uidentur ad prae- <lb n="25"/>
@@ -2391,7 +2392,7 @@
             commanebat offerret, ut scilicet hoc sacrificio Abrahae patriarchae  <lb/>
             meritis aequaretur.</p></div>
 
-<div n="2" subtype="section" type="textpart"><p>cuius in tantum est persnasione <lb n="25"/>
+<div n="2" subtype="section" type="textpart"><p>cuius in tantum est <choice><sic>persnasione</sic><corr>persuasione</corr></choice> <lb n="25"/>
             seductus, ut parricidium opere perfecisset, nisi eum uidens <lb/>
             puer cultrum extra consuetudinem acuendo praeparare et uincula <lb/>
             quibus eum uelut oblaturus ad immolandum constringere <lb/>
@@ -2621,7 +2622,7 @@
             aliquando pulsatum furtiui illius desiderii instigatione persenserim. <lb/>
             </p></div>
 
-<div n="6" subtype="section" type="textpart"><p>quem sensum in Ecclesiaste quoque pulcherrime legimns  <lb/>
+<div n="6" subtype="section" type="textpart"><p>quem sensum in Ecclesiaste quoque pulcherrime <choice><sic>legimns</sic><corr>legimus</corr></choice>  <lb/>
             figuratum. si momorderit, inquit, serpens non in sibilo, <lb n="10"/>
             non est abundantia incantatori, taciti serpentis morsum <lb/>
             perniciosum esse designans, id est: si per confessionem suggestio <lb/>
@@ -3213,7 +3214,7 @@
             saturitate frueretur et expletionem uentris sui biduano ieiunio <lb/>
             quodammodo conpararet.</p></div>
 
-<div n="2" subtype="section" type="textpart"><p>qui obstinatione et pertinaoia mentis  <lb/>
+<div n="2" subtype="section" type="textpart"><p>qui obstinatione et <choice><sic>pertinaoia</sic><corr>pertinacia</corr></choice> mentis  <lb/>
             suae definitionibus potius propriis quam seniorum traditionibus <lb/>
             adquiescens quali fine suum propositum terminarit, procul <lb n="10"/>
             dubio meministis, siquidem relicta heremo rursus ad inanem <lb/>
@@ -4034,7 +4035,7 @@
             quae mala sunt cogitem uel uniuersa quae mihi possunt inferri  <lb/>
 </p></div>
 
-<div n="11" subtype="section" type="textpart"><p>            non patienter libenterque sustineam, nihil mihi proderit eiterioris <lb/>
+<div n="11" subtype="section" type="textpart"><p>            non patienter libenterque sustineam, nihil mihi proderit <choice><sic>eiterioris</sic><corr>citerioris</corr></choice> <lb/>
             hominis abrenuntiatio atque conbustio interiore adhuc
 
 <note type="footnote"> 18 Mt. 19, 21 </note>
@@ -5052,7 +5053,7 @@
             inmorari optansque sibimet successorem dignissimum prouidere superstes eum presbyterii honore prouexit. qui tamen prioris <lb/>
 </p></div>
 
-<div n="2" subtype="section" type="textpart"><p>            humilitatis consuetudinem non omittens nihil nmquam sibi <lb/>
+<div n="2" subtype="section" type="textpart"><p>            humilitatis consuetudinem non omittens nihil <choice><sic>nmquam</sic><corr>umquam</corr></choice> sibi <lb/>
             illo praesente de sublimioris ordinis adiectione donauit, sed <lb/>
             semper abbate Pafnutio spiritales hostias offerente hic uelut <lb/>
             diaconus in prioris ministerii permansit officio. in quo tamen <lb n="5"/>
@@ -6876,7 +6877,7 @@
              <sic>imortificate</sic>, inquit, membra uestra quae sunt super <lb n="10"/>
             terram, fornicationem, inmunditiam, libidinem et <lb/>
             cetera, et iterum de duobus ad Ephesios: fornicatio et <lb/>
-            inmunditia nec nominetur in uobiset iterum: illud <lb/>
+            inmunditia nec nominetur in <choice><sic>uobiset</sic><corr>uobis et</corr></choice> iterum: illud <lb/>
             autem scitote, quod omnis fornicator aut inmundus <lb/>
              aut auarus, quod est idolorum seruitus, non habet <lb n="15"/>
             hereditatem in regno Christi et dei.</p></div>
@@ -8212,7 +8213,7 @@
             aerumnis quae nobis pro peccatorum nostrorum meritis inferre <lb/>
              conpelleris.</p></div>
 
-<div n="3" subtype="section" type="textpart"><p>quas soiens utiles esse nonnullis ita alius propheta,  <lb/>
+<div n="3" subtype="section" type="textpart"><p>quas <choice><sic>soiens</sic><corr>sciens</corr></choice> utiles esse nonnullis ita alius propheta,  <lb/>
             utique non inuidens saluti eorum, sed consulens inprecatur: <lb n="20"/>
             adde illis mala, domine, adde mala gloriosis terrae, <lb/>
             et ipse dominus ecce, inquit, inducam super eos mala, <lb/>
@@ -8532,7 +8533,7 @@
             ipsis fuit interfectoribus fratribus non solum pius, sed etiam <lb/>
             munificus inuenitur.</p></div>
 
-<div n="9" subtype="section" type="textpart"><p>hi ergo eornmque consimiles recte <lb/>
+<div n="9" subtype="section" type="textpart"><p>hi ergo <choice><sic>eornmque</sic><corr>eorumque</corr></choice> consimiles recte <lb/>
             <foreign xml:lang="grc">ἁμϕοτεϱοδέξιοι</foreign>, id est ambidextri nuncupantur. utraque enim <lb/>
             manu utuntur pro dextera et inter haec quae apostolus dinumerat<lb n="5"/>
             transeuntes pariter dicunt: per arma iustitiae <lb/>
@@ -9972,7 +9973,7 @@
             ipsa quoque anima nostra uel certe <sic>asr</sic> iste subtilis, tamen <lb n="25"/>
             incorporeae nullatenus aestimandae sunt.</p></div>
 
-<div n="2" subtype="section" type="textpart"><p>habent enim seoundum
+<div n="2" subtype="section" type="textpart"><p>habent enim <choice><sic>seoundum</sic><corr>secundum</corr></choice>
 
 <note type="footnote"> 11 lob 2, 6 (LXX) 19 sqq.] cf. CIaudian. Mamert. ed. A. <lb/>
             Engelbrecht pag. 9 sq. </note>
@@ -10360,7 +10361,7 @@
             adprehende arma et scutum: et exsurge in adiutorium <lb/>
             mihi. effunde frameam, et conclude aduersus<lb n="15"/>
             eos, qui persequuntur me: dic animae meae: <lb/>
-            salus tua egosum.</p></div>
+            salus tua <choice><sic>egosum</sic><corr>ego sum</corr></choice>.</p></div>
 
 <div n="7" subtype="section" type="textpart"><p>quos cum subditis et extinctis uniuersis <lb/>
             passionibus uicerimus, merebimur illam benedictionis uocem <lb/>
@@ -10957,7 +10958,7 @@
             harum tenebrarum quaeue spiritalia nequitiae ab apostolo <lb/>
             nominentur.</p></div>
 
-<div n="5" subtype="section" type="textpart"><p>quae uooabula non casn neo fortuito indita illis <lb/>
+<div n="5" subtype="section" type="textpart"><p>quae <choice><sic>uooabula</sic><corr>uocabula</corr></choice> non casn neo fortuito indita illis <lb/>
             debemus accipere, sed significatione istarum ferarum, quae. <lb n="20"/>
             apud nos uel minus noxiae uel magis perniciosae sunt, illorum <lb/>
             <sic>ferocitatee</sic> rabiesque distingui et ex similitudine nequitiae
@@ -12398,7 +12399,7 @@ negotiationis tuae repleta sunt interiora <lb n="15"/>
             uiri, qui pro inormitate corporum uel crudelitatis atque  <lb n="15"/>
             malitiae gigantes nuncupati sunt.</p></div>
 
-<div n="9" subtype="section" type="textpart"><p>hi namque finitimos popnlari <lb/>
+<div n="9" subtype="section" type="textpart"><p>hi namque finitimos <choice><sic>popnlari</sic><corr>populari</corr></choice> <lb/>
             ac rapinas inter homines primi exercere coeperunt, praeda <lb/>
             potius exigentes uitam suam quam sudore operis ac labore <lb/>
             contenti, et quorum usque eo scelera supercreuerant, ut expiari <lb/>
@@ -12501,7 +12502,7 @@ negotiationis tuae repleta sunt interiora <lb n="15"/>
             pedum necdum euangelico coruscante mandato suppliciter  <lb/>
             obtulerunt?</p></div>
 
-<div n="4" subtype="section" type="textpart"><p>unde Iob tantam de uotionem fidei, tantam castimoniae <lb/>
+<div n="4" subtype="section" type="textpart"><p>unde Iob tantam <choice><sic>de uotionem</sic><corr>deuotionem</corr></choice> fidei, tantam castimoniae <lb/>
             puritatem, tantam humilitatis, mansuetudinis, misericordiae, <lb/>
             humanitatis scientiam consecutus est, quantam nunc <lb n="20"/>
             ne ab illis quidem qui euangelia memoriter tenent uidemus <lb/>
@@ -13283,7 +13284,7 @@ negotiationis tuae repleta sunt interiora <lb n="15"/>
             inquit, Sodomorum uitis eorum et sarmenta eorum <lb/>
             ei Gomorra.</p></div>
 
-<div n="4" subtype="section" type="textpart"><p>uis etiam frnctum nitis istius atque sarmenti  <lb/>
+<div n="4" subtype="section" type="textpart"><p>uis etiam <choice><sic>frnctum</sic><corr>fructum</corr></choice> nitis istius atque sarmenti  <lb/>
             germen agnoscere ? uua eorum uua fellis, botrus amaritudinis <lb n="10"/>
             ipsis), quia omnino nisi fuerimus cunctis uitiis <lb/>
             expurgati et ab omnium passionum crapula sobrii, absque <lb/>
@@ -13748,7 +13749,7 @@ negotiationis tuae repleta sunt interiora <lb n="15"/>
             aliter enim ad illa sublimiora quae praediximus supplicationum <lb/>
             genera peruenire nullatenus poterimus, nisi per ordinem postulationum <lb/>
             istarum sensim mens nostra fuerit gradatimque<lb n="15"/>
-            proueeta. 
+            <choice><sic>proueeta</sic><corr>prouecta</corr></choice>. 
 </p>
           </div></div>
 
@@ -15103,7 +15104,7 @@ negotiationis tuae repleta sunt interiora <lb n="15"/>
 <note type="footnote"> 28 Rom. 1, 83 25 Hierem. 2, 11 </note> <lb/>
             2 quur 0 5 possomus 0 6 profecit <hi rend="italic">D:</hi> proficit <hi rend="italic">VOPX</hi> <lb/>
             8 ostendere 0 9 Ysaac <hi rend="italic">V</hi> admirandum 0 12 detenere <lb/>
-            D* decepi <hi rend="italic">V*</hi> 13 rece∗∗tis <hi rend="italic">D</hi> sicut] sunt <hi rend="italic">D\'</hi> 14 ignorantiae <lb/>
+            D* decepi <hi rend="italic">V*</hi> 13 <choice><sic>rece</sic><corr>rege</corr></choice>∗∗tis <hi rend="italic">D</hi> sicut] sunt <hi rend="italic">D\'</hi> 14 ignorantiae <lb/>
             <hi rend="italic">DPX</hi>. 16 conpositns <hi rend="italic">V</hi> 17 adque <hi rend="italic">VO</hi> nominu <lb/>
             <hi rend="italic">DP</hi> laminis 0 circnmacribtione <hi rend="italic">YO</hi> 19 habere uel tenere <lb/>
             <hi rend="italic">D</hi> 22 degeritur <hi rend="italic">V</hi> 23 incurrupt. <hi rend="italic">V</hi> 24 dei.... 25 corruptibilis <lb/>
@@ -15143,7 +15144,7 @@ negotiationis tuae repleta sunt interiora <lb n="15"/>
             <sic>snaa</sic> gloria uenientem internis obtutibus animae peruideri. <lb/>
 </p></div>
 
-<div n="2" subtype="section" type="textpart"><p>            non enim poterunt intneri Iesum nenientem in regno suo,  <lb/>
+<div n="2" subtype="section" type="textpart"><p>            non enim poterunt <choice><sic>intneri</sic><corr>intueri</corr></choice> Iesum <choice><sic>nenientem</sic><corr>uenientem</corr></choice> in regno suo,  <lb/>
             qui adhuc sub illa quodammodo Iudaica infirmitate detenti <lb n="25"/>
             non queunt dicere cam apostolo: et si cognouimus secundum <lb/>
             carnem Christum, sed nunc iam non
@@ -15706,7 +15707,7 @@ negotiationis tuae repleta sunt interiora <lb n="15"/>
             montes excelsi ceruis: petra refugium erinaceis. <lb/>
 </p></div>
 
-<div n="3" subtype="section" type="textpart"><p>            quod satis proprie huio quem diximus sensqi coaptatur, eo  <lb/>
+<div n="3" subtype="section" type="textpart"><p>            quod satis proprie <choice><sic>huio</sic><corr>huic</corr></choice> quem diximus sensqi coaptatur, eo  <lb/>
             quod quisquis in simplicitate atque innocentia perseuerans <lb/>
             nulli est noxius uel molestus, sed sua tantum simplicitate <lb/>
             contentus solummodo se ab insidiantium praeda desiderat
@@ -15751,7 +15752,7 @@ negotiationis tuae repleta sunt interiora <lb n="15"/>
             per prophetam aut in propheta fuisse conpletas, sed in se cotidie  <lb/>
             geri inplerique cognoscat.</p></div>
 
-<div n="5" subtype="section" type="textpart"><p>tunc enim scriptnrae diuinae nobis
+<div n="5" subtype="section" type="textpart"><p>tunc enim <choice><sic>scriptnrae</sic><corr>scripturae</corr></choice> diuinae nobis
 
 <note type="footnote"> 5 Prov. 90, 26 (LXX) </note>
 
@@ -15881,7 +15882,7 @@ negotiationis tuae repleta sunt interiora <lb n="15"/>
             quibus delectatur uel inmorandi eis non habens potestatem. <lb/>
 </p></div>
 
-<div n="3" subtype="section" type="textpart"><p>            necessarium ergo nobis est prae omnibus nosse quemadmedum  <lb/>
+<div n="3" subtype="section" type="textpart"><p>            necessarium ergo nobis est prae omnibus nosse <choice><sic>quemadmedum</sic><corr>quemadmodum</corr></choice>  <lb/>
             haec spiritalia conpetenter explere possimus officia uel certe <lb/>
             hunc eundem uersiculum, quem nobis uice formulae tradidisti, <lb/>
             inmobiliter custodire, ut omnium sensuum ortus ac fines non <lb n="15"/>
@@ -15924,7 +15925,7 @@ negotiationis tuae repleta sunt interiora <lb n="15"/>
             inplere. <sic>perparam</sic> namque orat, quisquis illo tantum <lb/>
             tempore quo genua flectuntur orare consueuit. numquam <lb/>
             uero orat, quisquis etiam flexis genibus euagatione cordis <lb/>
-            qualicumque distrahitur. et idciroo quales orantes uolumus<lb n="5"/>
+            qualicumque distrahitur. et <choice><sic>idciroo</sic><corr>idcirco</corr></choice> quales orantes uolumus<lb n="5"/>
             inueniri, tales nos esse oportet ante tempus orandi. necesse <lb/>
             est enim mentem in tempore supplicationis suae de statu <lb/>
             praecedente formari illisque eam cogitationibus orantem uel <lb/>
@@ -16260,7 +16261,7 @@ negotiationis tuae repleta sunt interiora <lb n="15"/>
             in ea, secundum litteram de illa putent regione  <lb/>
             praedictum.</p></div>
 
-<div n="2" subtype="section" type="textpart"><p>in his igitur locis mnlta in hunc modum oppida <lb/>
+<div n="2" subtype="section" type="textpart"><p>in his igitur locis <choice><sic>mnlta</sic><corr>multa</corr></choice> in hunc modum oppida <lb/>
             eminentioribus tumulis collocata fugatis habitatoribus suis<lb n="5"/>
             eluuies illa uelut insulas fecit, quae desideratam secedentibus <lb/>
             sanctis solitudinem praebent, in quibus tres senes, id est <lb/>
@@ -16536,7 +16537,7 @@ negotiationis tuae repleta sunt interiora <lb n="15"/>
             cuius iam totus est retentabit, quia damno intimae castitatis <lb/>
             nihil credit esse damnosius.</p></div>
 
-<div n="5" subtype="section" type="textpart"><p>nec enim carius ac pretiosins  <lb/>
+<div n="5" subtype="section" type="textpart"><p>nec enim carius ac <choice><sic>pretiosins</sic><corr>pretiosius</corr></choice>  <lb/>
             quicquam praesenti iudicat puritate, <sic>eai</sic> poena grauis est uel <lb/>
             uirtutum perniciosa transgressio uel ipsius uitii uirulenta <lb/>
             contagio. huic, inquam, nec reuerentia humanae praesentiae
@@ -16815,7 +16816,7 @@ negotiationis tuae repleta sunt interiora <lb n="15"/>
             et iterum: nos amici mei estis, si feceritis ea quae <lb n="15"/>
             praecipio uobis.</p></div>
 
-<div n="5" subtype="section" type="textpart"><p>nidetis ergo perfectionum gradus esse dinersos  <lb/>
+<div n="5" subtype="section" type="textpart"><p>nidetis ergo perfectionum gradus esse <choice><sic>dinersos</sic><corr>diuersos</corr></choice>  <lb/>
             et de excelsis ad excelsiora nos a domino prouocari ita, <lb/>
             ut is qui in timore dei beatus et perfectus extiterit, ambulans <lb/>
             sicut scriptum est de uirtute in uirtutem et de perfectione <lb/>
@@ -16904,7 +16905,7 @@ negotiationis tuae repleta sunt interiora <lb n="15"/>
             erga <sic>ee</sic> quantulumcumque feruor dilectionis illius intepescat. <lb n="10"/>
 </p></div>
 
-<div n="2" subtype="section" type="textpart"><p>            cuius timoris magnifioentiam unus prophetarum eleganter  <lb/>
+<div n="2" subtype="section" type="textpart"><p>            cuius timoris <choice><sic>magnifioentiam</sic><corr>magnificentiam</corr></choice> unus prophetarum eleganter  <lb/>
             expressit diuitiae, inquiens, salutis sapientia et scientia: <lb/>
             timor domini ipse thesaurus eius. non potuit <lb/>
             timoris istius dignitatem ae meritum magis euidenter exprimere, <lb/>
@@ -16961,7 +16962,7 @@ negotiationis tuae repleta sunt interiora <lb n="15"/>
             deus spiritum timoris, sed uirtutis et dilectionis  <lb/>
             et sobrietatis.</p></div>
 
-<div n="6" subtype="section" type="textpart"><p>eoe etiam, qui perfecta caelestis illins <lb/>
+<div n="6" subtype="section" type="textpart"><p>eoe etiam, qui perfecta caelestis <choice><sic>illins</sic><corr>illius</corr></choice> <lb/>
             patris dilectione flagrabant quosque ex semis filios adoptio<lb n="20"/>
             diuina iam fecerat, hoc adhortatur eloquio: non enim accepistis <lb/>
             spiritum seruitutis iterum in timore, <lb/>
@@ -17213,7 +17214,7 @@ negotiationis tuae repleta sunt interiora <lb n="15"/>
             consequantur parque sit gaudium in tanta parilitate palmarum.  <lb/>
             </p></div>
 
-<div n="2" subtype="section" type="textpart"><p>tanta enim sibi societate foederantur, utuna absque <lb/>
+<div n="2" subtype="section" type="textpart"><p>tanta enim sibi societate foederantur, <choice><sic>utuna</sic><corr>ut una</corr></choice> absque <lb/>
             altera nequeat possideri. hoc igitur propositio uestra conplexa<lb n="20"/>
             est, ut utrum ignis ille concupiscentiae, cuius haec caro uelut <lb/>
             insitum sentit ardorem, ad plenum possit extingui, disputatione <lb/>
@@ -17381,7 +17382,7 @@ negotiationis tuae repleta sunt interiora <lb n="15"/>
              
 <pb n="338"/>
             ea, sed ne nominari quidem in nobis debere pronuntiet <lb/>
-            fornicatio, inquiens, et omnis inmunditia autauaritia <lb/>
+            fornicatio, inquiens, et omnis inmunditia <choice><sic>autauaritia</sic><corr>aut auaritia</corr></choice> <lb/>
             nec nominetur in uobis, aut turpitudo aut <lb/>
             <sic n="poss">stultILoquium</sic> aut scurrilitas, quae ad rem non pertinent. <lb/>
             quae etiam pari modo perniciosa esse et aequali <lb n="5"/>
@@ -17393,7 +17394,7 @@ negotiationis tuae repleta sunt interiora <lb n="15"/>
             habet hereditatem in regno Christi et dei, et iterum: <lb/>
             nolite errare: neque fornicarii neque idolis <lb n="10"/>
             seruientes neque adulteri neque molles neque <lb/>
-            masculorum concubitores neque fures nequeauari <lb/>
+            masculorum concubitores neque fures <choice><sic>nequeauari</sic><corr>neque auari</corr></choice> <lb/>
             neque ebriosi neque maledici neque rapaces regnum <lb/>
             dei possidebunt. dubium proinde esse non debet <lb/>
             fornicationis et inmunditiae de membris nostris aboleri posse<lb n="15"/>
@@ -17413,7 +17414,7 @@ negotiationis tuae repleta sunt interiora <lb n="15"/>
             desudantes experientiae magisterio doceamur incorruptionem  <lb/>
 </p></div>
 
-<div n="2" subtype="section" type="textpart"><p>            eius dininae gratiae largitate conoedL ob hoc sane solummodo<lb n="25"/>
+<div n="2" subtype="section" type="textpart"><p>            eius <choice><sic>dininae</sic><corr>diuinae</corr></choice> gratiae largitate conoedL ob hoc sane solummodo<lb n="25"/>
             se unusquisque infatigabiliter in his exercitiis perdurare debere <lb/>
             cognoscat, ut per illorum adflictionem misericordiam domini <lb/>
             consecutus de inpugnatione carnis ac dominatione
@@ -17629,7 +17630,7 @@ negotiationis tuae repleta sunt interiora <lb n="15"/>
             modo suam <sic>hefeditet</sic> terram, uerum etiam delectetur in <lb/>
             multitudine pacis.</p></div>
 
-<div n="5" subtype="section" type="textpart"><p>ubi autem adhnc superest sollicitndo  <lb/>
+<div n="5" subtype="section" type="textpart"><p>ubi autem adhnc superest <choice><sic>sollicitndo</sic><corr>sollicitudo</corr></choice>  <lb/>
             certaminis, pacis esse non potest multitudo. non enim ait <lb/>
             \'<sic>deleetabuntur</sic> in pace\', sed in multitudine pacis. per <lb/>
             quod euidenter ostenditur ita efficacissimam medicinam cordis <lb n="10"/>
@@ -18101,7 +18102,7 @@ negotiationis tuae repleta sunt interiora <lb n="15"/>
             cum nullo pruritu, sed ne cum minima quidem libidinis <lb n="5"/>
             recordatione sedentur.</p></div>
 
-<div n="5" subtype="section" type="textpart"><p>et idciroo, ut cum lege animi lex  <lb/>
+<div n="5" subtype="section" type="textpart"><p>et <choice><sic>idciroo</sic><corr>idcirco</corr></choice>, ut cum lege animi lex  <lb/>
             quoque congruat corporalis, etiam in ipsius aquae potu ita <lb/>
             est nimietas castiganda, ut umoris cotidiani illa collectio <lb/>
             pigrius arefactis influens membris illum quem ineuitabilem <lb/>
@@ -18793,7 +18794,7 @@ negotiationis tuae repleta sunt interiora <lb n="15"/>
             perpetuam corporis puritatem non dicam opere adsequi, sed <lb n="5"/>
             nec cogitatione potuerunt.</p></div>
 
-<div n="3" subtype="section" type="textpart"><p>denique famosissimus ille ipserum <lb/>
+<div n="3" subtype="section" type="textpart"><p>denique famosissimus ille <choice><sic>ipserum</sic><corr>ipsorum</corr></choice> <lb/>
             Socrates hoc, ut ipsi concelebrant, de se <sic>nen</sic> erubuit profiteri. <lb/>
             nam cum intuens eum quidam <hi rend="italic"><foreign xml:lang="grc">ϕυσιογνώμι</foreign>s<foreign xml:lang="grc">ν</foreign></hi> dixisset: <foreign xml:lang="grc">ὸ́μματα</foreign> <lb/>
             <hi rend="italic"><foreign xml:lang="grc">πσιδεϱαστοι̃</foreign>,</hi> hoc <sic>eet</sic> <sic>oenli</sic> corruptoris puerorum, et inruentes <lb/>
@@ -18988,7 +18989,7 @@ negotiationis tuae repleta sunt interiora <lb n="15"/>
              egent gloria dei, nec per omnes homines mors pertransisse  <lb/>
             credatur.</p></div>
 
-<div n="4" subtype="section" type="textpart"><p>et in tantum omnes qui perennt contra<lb/>
+<div n="4" subtype="section" type="textpart"><p>et in tantum omnes qui <choice><sic>perennt</sic><corr>pereunt</corr></choice> contra<lb/>
              dei pereunt uoluntatem, at nec ipsam mortem deus fecisse<lb/>
              dicatur, ita scriptura testante: quia deus mortem non<lb/>
              fecit, nec gaudet in perditione <sic>uinorum</sic>, et inde est<lb n="10"/>
@@ -19103,7 +19104,7 @@ negotiationis tuae repleta sunt interiora <lb n="15"/>
             et quomodo non uolentis neque currentis, sed <lb/>
             miserentis sit dei? quid <sic>etum</sic> sit illud, quod deus <lb/>
             reddet unicuique secundum opera eius, et: deus<lb n="20"/>
-            est qui operatur in nobis et uelle etperficere, pro <lb/>
+            est qui operatur in nobis et uelle <choice><sic>etperficere</sic><corr>et perficere</corr></choice>, pro <lb/>
             bona uoluntate, et: hoc non ex uobis, sed dei <lb/>
             donum est: non ex operibus, ut ne quis glorietur? <lb/>
             quid sit etiam illud quod dicitur: adpropinquate domino, <lb/>
@@ -19296,7 +19297,7 @@ negotiationis tuae repleta sunt interiora <lb n="15"/>
             fieret et illis de germani nece tractantibus futurae famis <lb n="20"/>
             remedia pararentur.</p></div>
 
-<div n="3" subtype="section" type="textpart"><p>quod idem loseph a fratribus agnitns <lb/>
+<div n="3" subtype="section" type="textpart"><p>quod idem loseph a fratribus <choice><sic>agnitns</sic><corr>agnitus</corr></choice> <lb/>
             manifestat dicens: nolite pauere, nec durum uobis <lb/>
             uideatur quod uendidistis me in his regionibus: <lb/>
             pro salute enim uestra misit me deus ante uos, et <lb/>
@@ -19329,7 +19330,7 @@ negotiationis tuae repleta sunt interiora <lb n="15"/>
             cernitis, ut saluos faceret populos. <lb n="10"/>
             multos.</p></div>
 
-<div n="4" subtype="section" type="textpart"><p>quod etiam beatns Dauid oeconomice tunc factum  <lb/>
+<div n="4" subtype="section" type="textpart"><p>quod etiam <choice><sic>beatns</sic><corr>beatus</corr></choice> Dauid oeconomice tunc factum  <lb/>
             in psalmo centesimo quarto similiter declarauit dicens: et <lb/>
             uocauit famem super terram: et omne firmamentum <lb/>
             panis contriuit. misit ante eos uirum: in seri <lb/>
@@ -19340,7 +19341,7 @@ negotiationis tuae repleta sunt interiora <lb n="15"/>
             subtrahentes ecclesiasticae fidei regulam excessisse uideamur. <lb/>
 </p></div>
 
-<div n="5" subtype="section" type="textpart"><p>            nam cum uiderit nos dens ad bonam uelle deflectere, ocourrit,  <lb n="20"/>
+<div n="5" subtype="section" type="textpart"><p>            nam cum uiderit nos dens ad bonam uelle deflectere, <choice><sic>ocourrit</sic><corr>occurrit</corr></choice>,  <lb n="20"/>
             dirigit atque confortat: ad uocem enim clamoris tui <lb/>
             statim ut audierit, respondebit tibi, et inuoca <lb/>
             me, inquit, in die tribulationis: et eripiam te, et <lb/>
@@ -19390,7 +19391,7 @@ negotiationis tuae repleta sunt interiora <lb n="15"/>
             habuerat scientiam mali, boni uero quam acceperat scientiam <lb/>
             non amisit.</p></div>
 
-<div n="3" subtype="section" type="textpart"><p>denique non amisisse hnmanum genus post <lb n="20"/>
+<div n="3" subtype="section" type="textpart"><p>denique non amisisse <choice><sic>hnmanum</sic><corr>humanum</corr></choice> genus post <lb n="20"/>
             <sic>naricationem</sic> Adae scientiam boni etiam apostoli sententia <lb/>
             euidentissime declaratur, qua dicit: cum enim gentes, <lb/>
             quae legem non habent, naturaliter ea quae legis <lb/>
@@ -19504,7 +19505,7 @@ negotiationis tuae repleta sunt interiora <lb n="15"/>
             <sic>dieuntur</sic>, id est bonus ac malus, in hominis uero optione <lb/>
             consistere, ut eligat quem sequatur.</p></div>
 
-<div n="8" subtype="section" type="textpart"><p>et idciroo manet in  <lb/>
+<div n="8" subtype="section" type="textpart"><p>et <choice><sic>idciroo</sic><corr>idcirco</corr></choice> manet in  <lb/>
             homine liberum semper arbitrium, quod gratiam dei <sic>possitvel</sic> <lb/>
             neglegere uel amare. non enim praecepisset apostolus <lb/>
             dicens: cum metu <sic>ettremore</sic> uestram salutem operamini, <lb n="5"/>
@@ -19621,7 +19622,7 @@ negotiationis tuae repleta sunt interiora <lb n="15"/>
             fuit arbitrii: quod autem arguitur per prophetam, diuinae <lb/>
             dignationis est gratia.</p></div>
 
-<div n="3" subtype="section" type="textpart"><p>rursum quod peocatum suum hnmiliatus  <lb/>
+<div n="3" subtype="section" type="textpart"><p>rursum quod <choice><sic>peocatum</sic><corr>peccatum</corr></choice> suum hnmiliatus  <lb/>
             agnoscit, suum est: quod uero sub breuissimo temporis <lb n="20"/>
             puncto indulgentiam tantorum criminum promeretur, domini <lb/>
             miserentis est donum. et quid de hac tam breui confessione <lb/>
@@ -20511,7 +20512,7 @@ negotiationis tuae repleta sunt interiora <lb n="15"/>
             eiusdem propositi sectatores familiarissime deo per silentium  <lb/>
             solitudinis cohaesisse cognoscimus.</p></div>
 
-<div n="2" subtype="section" type="textpart"><p>quidam erga institntionem <lb/>
+<div n="2" subtype="section" type="textpart"><p>quidam erga <choice><sic>institntionem</sic><corr>institutionem</corr></choice> <lb/>
             fratrum et peruigilem coenobiorum curam omnem studii sui <lb/>
             sollicitudinem dediderunt, ut nuper abbatem Iohannem, qui<lb n="25"/>
             in uicinia ciuitatis cui nomen est Thmuis grandi coenobio <lb/>
@@ -23499,7 +23500,7 @@ negotiationis tuae repleta sunt interiora <lb n="15"/>
             qui uoluntati fratris suam subicit uoluntatem, quam eum <lb/>
             qui in defendendis suis definitionibus ac tenendis pertinacior <lb/>
             inuenitur. ille enim sustentans ac tolerans proximum sani <lb/>
-            ae nalidi, hic autem infirmi et quodammodo aegrotantis obtinet<lb n="5"/>
+            ae <choice><sic>nalidi</sic><corr>ualidi</corr></choice>, hic autem infirmi et quodammodo aegrotantis obtinet<lb n="5"/>
             locum, quem ita palpari necesse est ac foueri, ut interdum <lb/>
             etiam a rebus necessariis pro eius quiete ac pace salubre sit <lb/>
             aliquid relaxari. in quo quidem non se credat quis aliquid <lb/>
@@ -24525,7 +24526,7 @@ negotiationis tuae repleta sunt interiora <lb n="15"/>
             exploratores maluit. occultare quam prodere, admisceri populo  <lb/>
             dei aeterna benedictione promeruit.</p></div>
 
-<div n="2" subtype="section" type="textpart"><p>quae si neritatem loqui<lb n="5"/>
+<div n="2" subtype="section" type="textpart"><p>quae si <choice><sic>neritatem</sic><corr>ueritatem</corr></choice> loqui<lb n="5"/>
             ant saluti ciuium consulere maluisset, nulli dubium quod nec <lb/>
             inminentem cum uniuersa domo sua fugisset interitum nec <lb/>
             auctoribus dominicae natiuitatis inserta et in patriarcharum <lb/>
@@ -24762,7 +24763,7 @@ negotiationis tuae repleta sunt interiora <lb n="15"/>
             praeponentes apostolico satisfecerimus imperio, sine dubio <lb/>
             subeunda eat nobis necessitas mentiendi.</p></div>
 
-<div n="8" subtype="section" type="textpart"><p>et idciroo nec  <lb/>
+<div n="8" subtype="section" type="textpart"><p>et <choice><sic>idciroo</sic><corr>idcirco</corr></choice> nec  <lb/>
             integra caritatis uiscera possidere nec ea quae aliorum sunt <lb/>
             secundum apostolicam disciplinam quaerere poterimus, nisi <lb n="5"/>
             his quae districtioni nostrae perfectionique conueniunt paululum <lb/>
@@ -24912,7 +24913,7 @@ negotiationis tuae repleta sunt interiora <lb n="15"/>
             sculpturae artis et cogitationis hominis, diuinitatem <lb n="5"/>
             esse similem.</p></div>
 
-<div n="8" subtype="section" type="textpart"><p>infirmis autem infirmns effectus est, <lb/>
+<div n="8" subtype="section" type="textpart"><p>infirmis autem <choice><sic>infirmns</sic><corr>infirmus</corr></choice> effectus est, <lb/>
             cum secundum indulgentiam, non secundum imperium his qui <lb/>
             se continere non poterant in id ipsum redire concessit, sine <lb/>
             cum lacte, non esca Corinthios potans in infirmitate et timore <lb/>
@@ -25312,7 +25313,7 @@ negotiationis tuae repleta sunt interiora <lb n="15"/>
             suam ad parietem, et orauit ad dominum, et dixit :<lb n="15"/>
             obsecro domine, memento quaeso quomodo <sic>ambulanerim</sic> <lb/>
             coram te in ueritate, et in corde perfecto, <lb/>
-            et quod bonum est in oculis tuis, fecerim. etfleuit <lb/>
+            et quod bonum est in oculis tuis, fecerim. <choice><sic>etfleuit</sic><corr>et fleuit</corr></choice> <lb/>
             Ezechias fletu magno. post quae rursus dicitur ad <lb/>
             eundem: reuertere, et dic Ezechiae regi Iuda dicens:<lb n="20"/>
             haec dicit dominus deus Dauid patris tui: audiui <lb/>
@@ -25560,7 +25561,7 @@ negotiationis tuae repleta sunt interiora <lb n="15"/>
             exerceri cum libuerit possunt et cum necesse fuerit inreprehensibiliter <lb/>
             praetermitti.</p></div>
 
-<div n="2" subtype="section" type="textpart"><p>ceterum super obseruantia lllorum principalium  <lb n="25"/>
+<div n="2" subtype="section" type="textpart"><p>ceterum super obseruantia <choice><sic>lllorum</sic><corr>illorum</corr></choice> principalium  <lb n="25"/>
             mandatorum constantissime definiendum est ac pro <lb/>
             his etiam mors, si necesse fuerit, non uitanda, pro quibus <lb/>
             inmobiliter est dicendum: iuraui et statui. quod fieri debet <lb/>
@@ -25793,7 +25794,7 @@ negotiationis tuae repleta sunt interiora <lb n="15"/>
           <ab>
             <title type="sub">DE TRIBVS GENERIBVS MONACHORVM. CAPITVLA. </title>
           </ab>
-          <div n="1" subtype="chapter" type="textpart"><p> Quemadmodum Diolcon nenientes ab abbate Piamun <lb n="5"/>
+          <div n="1" subtype="chapter" type="textpart"><p> Quemadmodum Diolcon <choice><sic>nenientes</sic><corr>uenientes</corr></choice> ab abbate Piamun <lb n="5"/>
             fuerimus suscepti. 
 </p>
           </div>
@@ -26750,7 +26751,7 @@ negotiationis tuae repleta sunt interiora <lb n="15"/>
             ingenito ut ita dixerim desiderio solitudinis semper habitatione <lb/>
             <sic>ganderet</sic>.</p></div>
 
-<div n="2" subtype="section" type="textpart"><p>itaque cum tantae in pneritia esset uirtutis ac  <lb n="20"/>
+<div n="2" subtype="section" type="textpart"><p>itaque cum tantae in <choice><sic>pneritia</sic><corr>pueritia</corr></choice> esset uirtutis ac  <lb n="20"/>
             gratiae, ut etiam praeclari ac summi id temporis uiri grauitatem <lb/>
             eius et inmobilem constantiam mirarentur eumque, <lb/>
             licet minor esset aetate, pro uirtutum tamen merito senioribus <lb/>
@@ -26841,7 +26842,7 @@ negotiationis tuae repleta sunt interiora <lb n="15"/>
             per diabolum qui ipsius criminis incentor fuerat publicauit. <lb n="20"/>
 </p></div>
 
-<div n="7" subtype="section" type="textpart"><p>            adreptus namque dirissimo daemone cunotas factionis occultae  <lb/>
+<div n="7" subtype="section" type="textpart"><p>            adreptus namque dirissimo daemone <choice><sic>cunotas</sic><corr>cunctas</corr></choice> factionis occultae  <lb/>
             patefecit insidias crimina.tionumque ac fraudium idem fuit <lb/>
             proditor qui commentor. ita autem spiritu illo inmundo <lb/>
             grauiter diuque uexatus est, ut ne orationibus quidem sanctorum <lb/>
@@ -26982,7 +26983,7 @@ negotiationis tuae repleta sunt interiora <lb n="15"/>
             genuit, sed inter homines adquisitam consummauit atque excoluit  <lb/>
             solitudo.</p></div>
 
-<div n="8" subtype="section" type="textpart"><p>sciendum sane est innidiae morbum difficiiins <lb/>
+<div n="8" subtype="section" type="textpart"><p>sciendum sane est <choice><sic>innidiae</sic><corr>inuidiae</corr></choice> morbum difficiiins <lb/>
             ad medellam quam cetera uitia peruenire. nam eum quem <lb/>
             semel ueneni sui peste corruperit paene dixerim carere remedio.. <lb/>
             ipsa namque est lues de qua figuraliter dicitur per prophetam:
@@ -27480,7 +27481,7 @@ negotiationis tuae repleta sunt interiora <lb n="15"/>
             excessus forte turbauerit, nihilominus cotidiani operis modus  <lb/>
             dierum numerum signans arcet errorem.</p></div>
 
-<div n="3" subtype="section" type="textpart"><p>et ut eeteras heremi <lb/>
+<div n="3" subtype="section" type="textpart"><p>et ut <choice><sic>eeteras</sic><corr>ceteras</corr></choice> heremi <lb/>
             uirtutes silentio praetermittam (non enim est nobis de earum <lb/>
             numerositate ac multitudine, sed de solitudinis atque coenobii<lb n="10"/>
             fine tractandum), causas potius ob quas illam deserere maluerim, <lb/>
@@ -28058,7 +28059,7 @@ negotiationis tuae repleta sunt interiora <lb n="15"/>
               <lb/>
             sensa indigens ueniabiliter admisisset?</p></div>
 
-<div n="7" subtype="section" type="textpart"><p>haec erge et oeten Us <lb/>
+<div n="7" subtype="section" type="textpart"><p>haec <choice><sic>erge</sic><corr>ergo</corr></choice> et oeten Us <lb/>
             similia detrimenta quisque perpenderit, non solum uniuersa <lb/>
             damnorum genera, sed etiam iniuriarum atque poenarum <lb/>
             quaecumque possunt a crudelissimis inrogari facili sustentatione <lb/>
@@ -29399,7 +29400,7 @@ negotiationis tuae repleta sunt interiora <lb n="15"/>
             uerentur aetatis, praeueniendos adulescentiae motus licito <lb n="5"/>
 </p></div>
 
-<div n="2" subtype="section" type="textpart"><p>            nuptiarum remedio credidernnt cum ergo hic unias lostri <lb/>
+<div n="2" subtype="section" type="textpart"><p>            nuptiarum remedio <choice><sic>credidernnt</sic><corr>crediderunt</corr></choice> cum ergo hic unias lostri <lb/>
             tempus cum coniuge peregisset, uenit ad abbatem Iohannem, <lb/>
             qui tunc temporis merito mirae sanctitatis electus diaconiae <lb/>
             praesidebat. non enim ad hunc gradum quilibet propria <lb/>
@@ -29896,7 +29897,7 @@ negotiationis tuae repleta sunt interiora <lb n="15"/>
             uxorem et agros, insuper et animam suam, non <lb n="5"/>
             p-otest meus esse discipulus.</p></div>
 
-<div n="7" subtype="section" type="textpart"><p>cum ergo his atque hninsmodi <lb/>
+<div n="7" subtype="section" type="textpart"><p>cum ergo his atque <choice><sic>hninsmodi</sic><corr>huiusmodi</corr></choice> <lb/>
             uerbis muliebris non flecteretur intentio et in eadem <lb/>
             obstinationis duritia permaneret, si ego te, inquit beatus <lb/>
             Theonas, abstrahere a morte non possum, nec tu me separabis <lb/>
@@ -30104,7 +30105,7 @@ negotiationis tuae repleta sunt interiora <lb n="15"/>
             fuerit, non nocere uel in partem umquam laudabilem <sic n="poss">CODmutari</sic>.  <lb/>
             </p></div>
 
-<div n="2" subtype="section" type="textpart"><p>ac perinde haec, quibus qualitates statutas nidemns <lb/>
+<div n="2" subtype="section" type="textpart"><p>ac perinde haec, quibus qualitates statutas <choice><sic>nidemns</sic><corr>uidemus</corr></choice> <lb/>
             et tempora et quae sic obseruata sanctificant ut omissa non <lb/>
             polluant, media esse manifestum est, ut puta nuptias, agriculturam, <lb/>
             diuitias, solitudinis remotionem, uigilias, sacrorum <lb n="15"/>
@@ -30116,7 +30117,7 @@ negotiationis tuae repleta sunt interiora <lb n="15"/>
 
 <div n="3" subtype="section" type="textpart"><p>quidquid enim imperatiue decernitur,<lb n="20"/>
             mortem inrogat non inpletum: quaecumque uero suadentur <lb/>
-            potius quam iubentur, facta prosunt, infacta non puniunt. et <lb/>
+            potius quam iubentur, facta prosunt, <choice><sic>infacta</sic><corr>intacta</corr></choice> non puniunt. et <lb/>
             idcirco aut omnia haec aut certe quaedam pro causa, pro loco, <lb/>
             pro modo, pro tempore circumspecte agere nos maiores nostri <lb/>
             et prouide obseruare iusserunt, quia si congrue horum aliquid <lb n="25"/>
@@ -30161,7 +30162,7 @@ negotiationis tuae repleta sunt interiora <lb n="15"/>
             uestros repetitis. ecce ad lites et contentiones <lb n="20"/>
             ieiunatis, et percutitis pugno impie. nolite <lb/>
             ieiunare sicut usque ad hanc diem, ut audiatur in <lb/>
-            excelso clamor uester. numquid tale estieiunium, <lb/>
+            excelso clamor uester. numquid tale <choice><sic>estieiunium</sic><corr>est ieiunium</corr></choice>, <lb/>
             quod elegi, per diem adfligere hominem animam <lb/>
             suam? numquid contorquere quasi circulum caput <lb n="25"/>
             suum, et saccum et cinerem sternere? numquid <lb/>
@@ -30286,7 +30287,7 @@ negotiationis tuae repleta sunt interiora <lb n="15"/>
             uidetur aduersum, id est ciborum naturaliter iucunda perceptio: <lb/>
             quae, nisi intemperantia atque luxuria uel alia quaedam uitia<lb n="5"/>
             subsequantur, mala non potest definiri, quia non quod intrat <lb/>
-            in os, coinquinat hominem, sed quae proceduntde <lb/>
+            in os, coinquinat hominem, sed quae <choice><sic>proceduntde</sic><corr>procedunt de</corr></choice> <lb/>
             ore, haec coinquinant hominem. principali itaque <lb/>
             derogat bono nec perfecte aut sine peccato illud exsequitur, <lb/>
             quisquis id non propter se, sed propter aliud aliquid facit. <lb n="10"/>
@@ -30792,7 +30793,7 @@ negotiationis tuae repleta sunt interiora <lb n="15"/>
             et inuoluat, ut primitiarum nostrarum opima deflorans primus  <lb/>
             ipse decerpat.</p></div>
 
-<div n="5" subtype="section" type="textpart"><p>quamobrem omni nobis cautione cnrandum <lb/>
+<div n="5" subtype="section" type="textpart"><p>quamobrem omni nobis cautione <choice><sic>cnrandum</sic><corr>curandum</corr></choice> <lb/>
             est, si tamen uim praedicti uersiculi opere uolumus adimplere, <lb/>
             ut ita primos <sic>matntinaram</sic> cogitationum ortus sollers uigilantia <lb/>
             tueatur, ne quid ex eis festina praesumptio liuentis adtaminet<lb n="10"/>
@@ -31064,7 +31065,7 @@ negotiationis tuae repleta sunt interiora <lb n="15"/>
             si uis perfectus esse, uade uende omnia quae habes <lb/>
             et da pauperibus.</p></div>
 
-<div n="4" subtype="section" type="textpart"><p>lex talionem conuiciorum etiniuriarum  <lb/>
+<div n="4" subtype="section" type="textpart"><p>lex talionem conuiciorum <choice><sic>etiniuriarum</sic><corr>et iniuriarum</corr></choice>  <lb/>
             non prohibet ultionem dicens: <sic>oculumpro</sic> oculo, dentem <lb/>
             pro dente. gratia congeminatione iniuriarum uel caedis
 
@@ -31841,7 +31842,7 @@ negotiationis tuae repleta sunt interiora <lb n="15"/>
             ac doloris sui medicabili eorum consilio consecuturum se esse <lb n="5"/>
             confidens.</p></div>
 
-<div n="2" subtype="section" type="textpart"><p>sed cum primam cawam morbi hnins spiritalium <lb/>
+<div n="2" subtype="section" type="textpart"><p>sed cum primam cawam morbi <choice><sic>hnins</sic><corr>huius</corr></choice> spiritalium <lb/>
             medicorum doctrina discuteret, quae solet ex abundanti ciborum <lb/>
             praesumptione descendere, eamque memorato fratri deprehenderent <lb/>
             non inesse, atque hanc <sic>inlasionem</sic> nequaquam uitio <lb/>
@@ -32134,7 +32135,7 @@ negotiationis tuae repleta sunt interiora <lb n="15"/>
             quia nos non absque peccato, illum sine peccato constat  <lb/>
             fuisse temptatum.</p></div>
 
-<div n="4" subtype="section" type="textpart"><p>quia etenim hominam, quamuis fortis atqae <lb/>
+<div n="4" subtype="section" type="textpart"><p>quia etenim <choice><sic>hominam</sic><corr>heminam</corr></choice>, quamuis fortis atqae <lb/>
             bellator sit, hostilibus tamen telis plerumque non pateat, quis<lb n="10"/>
             uelut inpenetrabili carne circumdatus tantis proeliorum periculis <lb/>
             sine periculo misceatur ? ille autem solus speciosus forma <lb/>
@@ -32229,7 +32230,7 @@ negotiationis tuae repleta sunt interiora <lb n="15"/>
             peccatum in ea, sed similitudinem peccati suscepisse credendus  <lb/>
             est.</p></div>
 
-<div n="2" subtype="section" type="textpart"><p>similitudo eDim non ad carnis ueritatem secundum pranum <lb/>
+<div n="2" subtype="section" type="textpart"><p>similitudo eDim non ad carnis ueritatem secundum <choice><sic>pranum</sic><corr>prauum</corr></choice> <lb/>
             quorundam haereticorum sensum, sed ad peccati est <lb/>
             imaginem referenda. erat enim in ipso uera quidem caro,<lb n="5"/>
             sed absque peccato, similis scilicet peccatrici. illud siquidem <lb/>
@@ -33181,7 +33182,7 @@ negotiationis tuae repleta sunt interiora <lb n="15"/>
             potest esse propositum, em non aliquando ille uersutus insidiator  <lb/>
             <sic>mlndat</sic>?</p></div>
 
-<div n="8" subtype="section" type="textpart"><p>quit ita sobtndinis secreta sectatus est et nniuersorum <lb/>
+<div n="8" subtype="section" type="textpart"><p>quit ita sobtndinis secreta sectatus est et <choice><sic>nniuersorum</sic><corr>uniuersorum</corr></choice> <lb/>
             mortalium consortia declinauit, ut numquam cogitationibus <lb/>
             superfluis laberetur et intuitu rerum uel occupatione <lb/>
             <sic>aetnum</sic> terrenorum ab illa quae uere sola et bona est dei<lb n="10"/>
@@ -33245,7 +33246,7 @@ negotiationis tuae repleta sunt interiora <lb n="15"/>
             dicendus est recordatio orationis tempore intentionem supplicantis <lb/>
             <sic>anertent</sic>.</p></div>
 
-<div n="3" subtype="section" type="textpart"><p>si emm, inquiunt, cum a quoiibet sublimi  <lb n="20"/>
+<div n="3" subtype="section" type="textpart"><p>si emm, inquiunt, cum a <choice><sic>quoiibet</sic><corr>quolibet</corr></choice> sublimi  <lb n="20"/>
             homine non dicam pro uita ac salute nostra, sed etiam pro <lb/>
             alicuius lucri conmodo supplicamus, totam in eum carnis et <lb/>
             mentis aciem defigentes de nutu eius trepida expectatione
@@ -35242,7 +35243,7 @@ hora macula se posse carere peccati. <lb/>
             expleta omni corporis cura marsuppio suo diebus singulis  <lb/>
             inferebat.</p></div>
 
-<div n="2" subtype="section" type="textpart"><p>sed cum indesinenter hnnc conderet quaestum, <lb/>
+<div n="2" subtype="section" type="textpart"><p>sed cum indesinenter <choice><sic>hnnc</sic><corr>hunc</corr></choice> conderet quaestum, <lb/>
             audiuit in quadam longe posita ciuitate singulorum solidorum<lb n="10"/>
             singulos homines tonsori praebere mercedem. quo illo conperto, <lb/>
             quamdiu, inquit, hac mendicitate contentus ero, ut trium <lb/>
@@ -35634,7 +35635,7 @@ hora macula se posse carere peccati. <lb/>
             uelut de profundissimo sopore consurgens nihil ex his quae  <lb/>
             somniauerat expergefactus inueniet.</p></div>
 
-<div n="4" subtype="section" type="textpart"><p>itaque eum diabolns <lb/>
+<div n="4" subtype="section" type="textpart"><p>itaque eum <choice><sic>diabolns</sic><corr>diabolus</corr></choice> <lb/>
             maioribus uitae huius necessitatibus et inextricabilibus laqueis <lb/>
             inretitum ne respirare quidem ad haec quae sibi ipse promiserat <lb/>
             aliquando permittet, eumque non iam illis quas ante<lb n="10"/>
@@ -35662,7 +35663,7 @@ hora macula se posse carere peccati. <lb/>
             etiam crebra uisitatio, non solum toleranda patienter, sed etiam  <lb n="25"/>
             gratanter est amplectenda:</p></div>
 
-<div n="3" subtype="section" type="textpart"><p>primum quod pronoeat nos auidins
+<div n="3" subtype="section" type="textpart"><p>primum quod pronoeat nos <choice><sic>auidins</sic><corr>auidius</corr></choice>
 
 <note type="footnote"> 2 dum om. <hi rend="italic"><foreign xml:lang="grc">β</foreign></hi> 3 frandolenter <hi rend="italic">KlZ</hi> eripiat] aaertat <hi rend="italic">Oflv</hi> <lb/>
             4 a om. <hi rend="italic">F</hi> contubemio <hi rend="italic">BF:</hi> cont. salntari 0 salutari cont. <lb/>

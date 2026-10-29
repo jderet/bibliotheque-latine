@@ -89,6 +89,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 2 mots mal lus.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -1919,7 +1920,7 @@
 <pb n="79"/>
             enim ait: (quia traditores sunt\', sed: (si traditores sunt\', ut <lb/>
             innocentia eorum probanda restaret ubi probari recte po-, <lb/>
-            tuisset. 
+            <choice><sic>tuisset</sic><corr>fuisset</corr></choice>. 
 </p>
           
 </div>
@@ -2103,7 +2104,7 @@
 
 <div n="33" subtype="section" type="textpart">
 <p>Cum ergo hinc diuturna conflictatio fieret, saepe repetentibus <lb/>
-            Donatistis non potuisse tempore persecutionis conoilium <lb/>
+            Donatistis non potuisse tempore persecutionis <choice><sic>conoilium</sic><corr>concilium</corr></choice> <lb/>
             congregari ad episcopum ordinandum, quia in apostasia <lb/>
             erat mundus nec erant quibus ordinaretur et cetera talia, <lb/>
             catholicis autem respondentibus, quod et episcopi facile congregarentur <lb n="10"/>

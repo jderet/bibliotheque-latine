@@ -92,6 +92,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 1 mot mal lu.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -505,7 +506,7 @@
             Lactantii dederas libros ideo non libenter lego. quia et <lb/>
             plurimae epistulae eius usque ad mille spatia uersuum <lb/>
             tenduntur et raro de nostro dogmate disputant, quo fit ut et <lb/>
-            legenti fastidium generet lengitudo et si qua breuia sunt,
+            legenti fastidium generet <choice><sic>lengitudo</sic><corr>longitudo</corr></choice> et si qua breuia sunt,
 
 <note type="footnote"> 11* </note> <lb/>
              

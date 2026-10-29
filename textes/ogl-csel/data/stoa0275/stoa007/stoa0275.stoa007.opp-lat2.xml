@@ -86,6 +86,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 1 mot coupé, 1 mot collé.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -1441,7 +1442,7 @@
 <pb n="259"/>
             ita scripturae docent, haec dicimus et in filium competisse <lb/>
             et in his filium uenisse et in his semper egisse et sic ea in <lb/>
-            se hominibus manifestasse. omnia, inquit, patris measunt. <lb/>
+            se hominibus manifestasse. omnia, inquit, patris <choice><sic>measunt</sic><corr>mea sunt</corr></choice>. <lb/>
             cur non et nomina? cum ergo legis deum omnipotentem et <lb/>
             altissimum et deum uirtutum et regem Israhelis et qui est, <lb n="5"/>
             uide, ne per haec filius etiam demonstretur, suo iure deus <lb/>
@@ -1738,7 +1739,7 @@
             <hi rend="italic">Hirsaugiensis teste Bhenano</hi> </note> <lb n="25"/>
              
 <pb n="266"/>
-            demonstrabit illi, u t uos mirem ini. qu omodo enim (pater) <lb/>
+            demonstrabit illi, u t uos mirem ini. <choice><sic>qu omodo</sic><corr>quomodo</corr></choice> enim (pater) <lb/>
             suscitat mortuos et uiuificat, ita et filius quos uult <lb/>
             uiuificat. neque enim pater iudicat, sed omne iudicium <lb/>
             dedit filio, uti omnes honorent filium, sicut <lb/>

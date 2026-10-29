@@ -89,6 +89,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 2 mots coupés.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -1566,7 +1567,7 @@
             <hi rend="italic">BP\'BxD\'L et</hi> (8. ft. m2) <hi rend="italic">T. om. cet.,</hi> enim a. <hi rend="italic">recte puto</hi> </note> <lb/>
              
 <pb n="331"/>
-            acc usa tor est sui. qui se accusat iustus est; qui iustus <note type="margin"> E </note> <lb/>
+            <choice><sic>acc usa</sic><corr>accusa</corr></choice> tor est sui. qui se accusat iustus est; qui iustus <note type="margin"> E </note> <lb/>
             est sobrius est, sanus est. iustus fauere sibi nescit, rigorem <lb/>
             iudicii etiam circa se non nouit inflectere, recordationem <lb/>
             lapsus proprii perhorrescit et commissum erubescit errorem, <lb/>
@@ -2406,7 +2407,7 @@
             mirabilis, qui timidiores accendit in proelium et exploratis <lb/>
             locorum fulcit ingeniis, ut infirma uirium commodae stationis <lb/>
             oportunitate conpenset: ille similiter magnus etiam fidei prae- <lb n="5"/>
-            . dicator, qui iniquos docet. unde pulchre ait: docebo in iquos. <lb/>
+            . dicator, qui iniquos docet. unde pulchre ait: docebo <choice><sic>in iquos</sic><corr>iniquos</corr></choice>. <lb/>
             non dixit: docebo iustos - nouerunt enim iusti uias <lb/>
             domini -, sed iniquos inquit docebo. denique auctor <note type="margin"> 701 A </note> prudentiae <lb/>
             et magister omnium dicit: non ueni iustos uocare, <lb/>

@@ -86,6 +86,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 1 mot coupé, 1 mot mal lu.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -223,7 +224,7 @@
             aduersus carnem et sanguinem, sed aduersus<lb n="5"/>
             principes et potestates huius mundi, rectores <lb/>
             harum tenebrarum, aduersus spiritalia nequitiae in <lb/>
-            eaelestibus. caelum enim dicitur etiam iste aer, ubi uenti <lb/>
+            <choice><sic>eaelestibus</sic><corr>caelestibus</corr></choice>. caelum enim dicitur etiam iste aer, ubi uenti <lb/>
             et nubes et procellae et turbines fiunt, sicut etiam scriptura <lb/>
             dicit multis locis: et intonuit de caelo dominus, et: <lb n="10"/>
             aues caeli, et: uolatilia caeli, cum manifestum sit aues <lb/>
@@ -1685,7 +1686,7 @@
             hoc induere incorruptionem et mortale hoc <lb/>
             induere inmortalitatem. cum enim hoc factum fuerit, <lb/>
             iam non erit caro et sanguis, sed caeleste corpus. quod et <lb n="20"/>
-            dominus promittit, cum dicit: neque n ubent neque uxores <lb/>
+            dominus promittit, cum dicit: neque <choice><sic>n ubent</sic><corr>nubent</corr></choice> neque uxores <lb/>
             ducent, sed erunt aequales angelis dei. non enim <lb/>
             iam hominibus, sed deo uiuent, cum aequales angelis facti <lb/>
             fuerint. inmutabitur ergo caro et sanguis et fiet corpus caeleste <lb/>

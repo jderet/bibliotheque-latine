@@ -85,6 +85,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 1 mot mal lu.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -4930,7 +4931,7 @@ Aid. Fabr. al. que om. T pfeta A, ppha K, apheta P uiderit LiZ1 209 tum maioribu
              <l n="115">Pandebat populis Iudaeae crimina gentis.  </l>
             <l n="116">Mox igitur Dominum Pilati ad moenia duci.  </l>
             <l n="117">Nexibus adstrictum ludas ut uidit iniquus,  </l>
-            <l n="118">Deriguit scelerisque sui commorcia reddens  </l>
+            <l n="118">Deriguit scelerisque sui <choice><sic>commorcia</sic><corr>commercia</corr></choice> reddens  </l>
 
 
 <note type="footnote"> 118 cf. Verg. Aen. II 182 </note>

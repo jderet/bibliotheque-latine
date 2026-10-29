@@ -88,6 +88,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 1 césure.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -821,8 +822,7 @@
             tunc peccare dicunt, quando natura mali praeualet naturae <lb/>
             dei. haec Manichaeorum est inmundissima insania, quorum <lb n="20"/>
             machinamenta diabolica facillime ueritas indubitata subuertit, <lb/>
-            quae dei naturam incontaminabilem atque incorruptibilem con- <lb/>
-            fitetur. quid autem flagitiosae contaminationis et corruptionis <lb/>
+            quae dei naturam incontaminabilem atque incorruptibilem con<lb break="no"/>fitetur. quid autem flagitiosae contaminationis et corruptionis <lb/>
             de istis merito non creditur, a quibus deus, qui summe atque
 
 <note rend="script" type="footnote"> 2 quaeruntur <hi rend="italic">TAB</hi> 3 talia prius <hi rend="italic">T</hi> decernendo-talia <hi rend="italic">om. <lb/>

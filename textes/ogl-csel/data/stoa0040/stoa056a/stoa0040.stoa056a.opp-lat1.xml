@@ -95,6 +95,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 3 mots collés, 1 mot mal lu.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -1972,7 +1973,7 @@
             hoc <hi rend="italic">om. C</hi> hoc-lauacro <hi rend="italic">om. N</hi> </note> <lb/>
              
 <pb n="250"/>
-            est, ut eodem lanacro regenerationis et uerbo sanctificationis <lb/>
+            est, ut eodem <choice><sic>lanacro</sic><corr>lauacro</corr></choice> regenerationis et uerbo sanctificationis <lb/>
             omnia prorsus mala hominum regeneratorum mundentur atque <lb/>
             sanentur, non solum peccata quae omnia nunc remittuntur in <lb/>
             baptismo, sed etiam quae posterius humana ignorantia uel <lb/>
@@ -3360,7 +3361,7 @@
             (in <hi rend="italic">add. m. 2) F</hi> : </note> <lb/>
              
 <pb n="281"/>
-            uilium feminarum, quia clauserat deus aforis omnem uuluamin <lb/>
+            uilium feminarum, quia clauserat deus aforis omnem <choice><sic>uuluamin</sic><corr>uuluam in</corr></choice> <lb/>
             domo Abimelech. uide ergo\', inquit, \'utrum naturaliter <lb/>
             malum dici debet, quod interdum aufert exasperatus deus <lb/>
             redditque placatus. ipse\', inquit, facit et piorum filios et inpiorum, <lb/>
@@ -4796,7 +4797,7 @@
             EPYTHIMIAS <hi rend="italic">K</hi> ENP THI EPV THIMIAS <hi rend="italic">VP</hi> in pathi epithimias <hi rend="italic">EW</hi> </note> <lb/>
              
 <pb n="313"/>
-            morbo desideriiuel concupiscentiae, aliiuero: in passione <lb/>
+            morbo <choice><sic>desideriiuel</sic><corr>desiderii uel</corr></choice> concupiscentiae, <choice><sic>aliiuero</sic><corr>alii uero</corr></choice>: in passione <lb/>
             concupiscentiae, uel si quo alio modo in aliis atque aliis <lb/>
             codicibus inuenitur. sed passio in latina lingua, maxime usu <lb/>
             loquendi ecclesiastico, non ad uituperationem consueuit intellegi. <lb/>

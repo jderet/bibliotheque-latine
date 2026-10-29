@@ -88,6 +88,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 6 mots collés, 2 mots coupés, 5 mots mal lus.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -575,7 +576,7 @@
             Themanorum uidete, semitas Sabaeorum intuemini: <lb/>
             illos significat, qui in temporalibus confidunt, de quibus se, <lb/>
             id est hominem quem significat dicit non praesumere. nunc <lb/>
-            autem et uos insurrexistis inme sine misericordia:<lb n="15"/>
+            autem et uos insurrexistis <choice><sic>inme</sic><corr>in me</corr></choice> sine misericordia:<lb n="15"/>
             putantes beatitudinem hominum, si carnalibus abundent, quia <lb/>
             insultabant potius quam conpatiebantur. sed uidentes <lb/>
             uulnus meum timete: intellegentes quid significet timete <lb/>
@@ -785,13 +786,13 @@
             debitores eos, id est peccatores demonstrauit. et restituet <lb/>
             tibi uitam iustitiae: quae debetur iustitiae, id est <lb/>
             beatam. et erunt priora tua minima: in comparatione <lb/>
-            posteriorum, quae infinita erunt. autnumquid non hi <lb n="15"/>
+            posteriorum, quae infinita erunt. <choice><sic>autnumquid</sic><corr>aut numquid</corr></choice> non hi <lb n="15"/>
             docebunt te et referent tibi? quoniam nonnullorum <lb/>
             maior est auctoritas. iam et hic de Christo dicturus audita <lb/>
             narrat, quomodo Eliphaz narrauit reuelationem. numquid <lb/>
             uiret scirpus sine aqua? ita ergo et inpii arescent sine <lb/>
             misericordia dei. adhuc in sua radice consistit et non <lb n="20"/>
-            metetur? si aquam non babeat. antequam bibat omnis <lb/>
+            metetur? si aquam non <choice><sic>babeat</sic><corr>habeat</corr></choice>. antequam bibat omnis <lb/>
             herba, nonne arescit? nisi bibat; non enim ante aliquando <lb/>
             uiruit inpius. atque araneis complebitur
 
@@ -1505,7 +1506,7 @@
             numquid ordo est in sermonibus spiritus? superbiae. <lb/>
             aut in quo molestum tibi erit? quamuis non ames<lb n="10"/>
             quod dicas. et ego secundum uos loquor: quomodo <lb/>
-            digni estis. si subiocta esset anima uestra pro mea: <lb/>
+            digni estis. si <choice><sic>subiocta</sic><corr>subiecta</corr></choice> esset anima uestra pro mea: <lb/>
             si uos pateremini quod ego, loquerer sermonibus, non factis; <lb/>
             ita nihil est loqui quod non facitis. si enim loquar, non <lb/>
             dolebo uulnere: ostenditis uos neque in loquendo neque <lb n="15"/>
@@ -2061,7 +2062,7 @@
             qui docet sensum et scientiam? quasi dixerit lob non <lb n="5"/>
             eum recte iudicare: cum utique reprehendi deus non possit <lb/>
             nisi per intellegentiam, qua superior est, siquidem ab ipso <lb/>
-            detur homini. et ueniot tecum in iudicium? ut compareris <lb/>
+            detur homini. et <choice><sic>ueniot</sic><corr>ueniet</corr></choice> tecum in iudicium? ut compareris <lb/>
             ei. lumen tuum in tenebras conuersum est: dignitas. <lb/>
             et dormientem te aqua operuit: securum inundatio <lb n="10"/>
             tribulationis. an per nebulam diiudicat? quasi per <lb/>
@@ -3328,7 +3329,7 @@
             sint a te. si peccasti, quid agis? confirmat quod ab eo <lb/>
             dictum est: si ego peccaui, quid possum tibi facere? <lb/>
             aut si multa iniusta fecisti, quid poteris facere? plus <lb/>
-            est "m u Ita iniusta fec i s ti", quam quod superius dixit <lb/>
+            est "m u Ita iniusta <choice><sic>fec i</sic><corr>feci</corr></choice> s ti", quam quod superius dixit <lb/>
             "peccasti". sed tamen quid poteris facere deo, quando ne <lb n="5"/>
             nubes quidem potes laedere? et si iustus es, quid dabis <lb/>
             ei? e contrario: quomodo iustitia tua nihil ei prodest, sic <lb/>
@@ -3549,7 +3550,7 @@
             uoluntas an i mi: domino dicitur non monentis auctoritate <lb/>
             aut iubentis audacia, sed locutione prophetiae per imperatiuum<lb n="20"/>
             modum futura praedicentis, sicuti est: accingere gladium <lb/>
-            tuumsuper femur, potentissime. a precibus in firmorum, <lb/>
+            <choice><sic>tuumsuper</sic><corr>tuum super</corr></choice> femur, potentissime. a precibus in firmorum, <lb/>
             cum in necessitate fuerint, clamantium: infelix <lb/>
             ego homo, quis me liberabit de corpore mortis <lb/>
             huius? et omnes qui habent fortitudinem: praesumentes<lb n="25"/>
@@ -3991,7 +3992,7 @@
             ille enim deus, non sicut dictum est: dii estis et filii <lb n="10"/>
             altissimi, sed cui rapina non sit esse aequalem patri, et <lb/>
             filius hominis, non sicut filii hominum, in quibus non est <lb/>
-            salus, sed prae participibus suis: non enimiustus tantum. <lb/>
+            salus, sed prae participibus suis: non <choice><sic>enimiustus</sic><corr>enim iustus</corr></choice> tantum. <lb/>
             sicut Iob, sicut Paulus, sicut ecclesia, sed etiam iustificans <lb/>
             tamquam unigenitus a patre, plenus gratia et ueritate. <lb n="15"/>
             ad insinuandam ergo differentiam diuinae humanitatis eius, <lb/>
@@ -4219,7 +4220,7 @@
             sui? quandoquidem nec illud tempus quisquam recolit, quo <lb/>
             non in parentibus, sed in se ipso natus est; quo tempore <lb/>
             certe nemo dubitat, quod iam erat et uiuebat et sentiebat. <lb/>
-            omnia autem scit illa sapientia quae format omuia, non tantum <lb/>
+            omnia autem scit illa sapientia quae format <choice><sic>omuia</sic><corr>omnia</corr></choice>, non tantum <lb/>
             illa supercaelestia, sed etiam ista mortalia. et quia Christus <lb n="5"/>
             dei uirtus est et dei sapientia, scit ista ille, qui etiam mortaliter <lb/>
             natus est non condicione mortali, quia in mortuis liber, <lb/>
@@ -4303,10 +4304,10 @@
             habet liberiorem cursum perniciosa illa interpretatio, quam <lb n="5"/>
             agri fructiferi non recipiunt, et tanto maiore inpetu inpellit <lb/>
             et deicit et trahit quod instabile inuenerit, quanto uidetur de <lb/>
-            auctoritate diuina suscepta — ueutis uero tentatur, quem <lb/>
+            auctoritate diuina suscepta — <choice><sic>ueutis</sic><corr>uentis</corr></choice> uero tentatur, quem <lb/>
             inflant inanes suasiones hominum superborum, id est ex propria <lb/>
             auctoritate uerba uana iactantium. qui ergo iudicio dei praeparatur <lb n="10"/>
-            ad perditionem non obtemperando uerbis eiusquod <lb/>
+            ad perditionem non obtemperando uerbis <choice><sic>eiusquod</sic><corr>eius quod</corr></choice> <lb/>
             est super arenam aedificare — non resistit uentis talibus <lb/>
             et cadendo fit uia uocibus tempestatis. ualidae autem pluuiae <lb/>
             dictum arbitror "difficilis ad capiendum", id est ad <lb/>
@@ -4507,7 +4508,7 @@
             declinauit? angelos caelestes, per quos diuinae uoces <lb/>
             enuntiari solent. non enim ceciderunt sicut ille unus, sed <lb/>
             flexu oboedientiae declinati sunt in terram, maxime cum et <lb/>
-            ipse dominus esset in terra. nam euangelista, et an gel i <lb n="10"/>
+            ipse dominus esset in terra. nam euangelista, et an <choice><sic>gel i</sic><corr>geli</corr></choice> <lb n="10"/>
             inquit, ministrabant ei. diffusus est autem sicut <lb/>
             terra cinis, et adglutinauit eum sicut lapidibus <lb/>
             cibum. diffusa est late atque abundanter humilitas paenitentiae <lb/>
@@ -4641,7 +4642,7 @@
             pronuntiandi sunt. quis autem est qui dimisit <lb/>
             onagrum liberum? mirum nisi eos per onagrum significat, <lb/>
             qui pauci ab omni negotio liberi deo seruiunt. et uincula <lb/>
-             eiusquis resoluit ? affectionum carnalium atque popularium. <lb n="20"/>
+             <choice><sic>eiusquis</sic><corr>eius quis</corr></choice> resoluit ? affectionum carnalium atque popularium. <lb n="20"/>
             posui enim habitaculum desertum et tabernacula <lb/>
             eius salsuginem. unde clamet: sitiuit in te anima <lb/>
             mea. inridens multitudinem ciuitatis: quam Babyloniam <lb/>

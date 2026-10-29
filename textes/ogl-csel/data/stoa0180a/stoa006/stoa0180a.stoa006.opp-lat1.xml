@@ -84,6 +84,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 3 mots collés, 1 césure.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -539,7 +540,7 @@
             non potest, qui cum te Christianum fingas, Christianum tamen <lb/>
             nomen e medio auferre nitaris. inter haec daturos legentes <lb/>
             ueniam conspicere debes, quod pro merito impietatis tuae <lb/>
-            facundia mediocris ingenii mei ad exsecrandum te describerenon <lb/>
+            facundia mediocris ingenii mei ad exsecrandum te <choice><sic>describerenon</sic><corr>describere non</corr></choice> <lb/>
             ualuerit; dedisse me etenim uidebant formam uniuersis <lb n="20"/>
             deum timentibus praebuisseque materiam tractaturis, quo te <lb/>
             ordine possent sine uitae aeternae radicibus positum secare. <lb/>
@@ -686,8 +687,7 @@
             ne in omnibus his poenis tua detestabilitate inuentis <lb/>
             in hac perseuerantia fidei moriamur, et tamen admoues uarios <lb/>
             durosque cruciatus. sic nos quos tam infeste persequeris <lb/>
-            uarie excarnificari cupis et quidem momentis omnibus; inter- <lb n="5"/>
-            ficiendos uero non esse statuisti, tamquam mors tantummodo <lb/>
+            uarie excarnificari cupis et quidem momentis omnibus; inter<lb n="5" break="no"/>ficiendos uero non esse statuisti, tamquam mors tantummodo <lb/>
             beatos milites Christi faciat ac non etiam tormenta quanto <lb/>
             fuerint grauiora tanto maiorem uirtutis gloriam pariant. etenim <lb/>
             <unclear/> ,,qui nouimus iustitiae copiosiorem esse uitam ac prolixiorem <lb/>
@@ -1220,7 +1220,7 @@
             quin immo hortor, haec pellens ex tenebrosis sensibus tuis <lb/>
             illas insulsa mens tua recipiat meditationes, quae te possint <lb/>
             in uiam statuere, quae ducant ad dei regnum. adprehende <lb/>
-            amoeniter quod te ducat ad conuiuium Abrahae Isaac etIacob,<lb n="15"/>
+            amoeniter quod te ducat ad conuiuium Abrahae Isaac <choice><sic>etIacob</sic><corr>et Iacob</corr></choice>,<lb n="15"/>
             dei amicorum. tu qui ausus fueris homo totius iniustitiae <lb/>
             iustum te aestimare, omnibus te praeponens dei iudicio sanctae <lb/>
             ecclesiae constitutis episcopis fidemque sanctam quam semper <lb/>
@@ -1245,7 +1245,7 @@
             quam <hi rend="italic">Gall</hi>. 25 repperiatur 27 illut </note> <lb n="30"/>
              
 <pb n="311"/>
-            unicieius filii unamque deitatem possidere patrem et filium, in <lb/>
+            <choice><sic>unicieius</sic><corr>unici eius</corr></choice> filii unamque deitatem possidere patrem et filium, in <lb/>
             aeternum te periturum, siquidem Arrius magister tuus creaturam <lb/>
             dixerit dei filium et tu eiusdem ad caelum extuleris <lb/>
             usque laudibus blasphemiam. nos te urgemus, rogamus, inpellimus <lb/>

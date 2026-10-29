@@ -86,6 +86,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 2 mots mal lus, 1 mot collé.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -440,7 +441,7 @@
              <l n="50">Omnibus, et numquam cuiquam nisi femina mater.  </l>
             <l n="51">Nunc si fax iuuenalis auet uastare pudorem,  </l>
             <l n="52">Sunt intus natae biiuges mihi, nubilis aetas,  </l>
-            <l n="53">Virginitas in fiore tumens, iam debita messi,  </l>
+            <l n="53">Virginitas in <choice><sic>fiore</sic><corr>flore</corr></choice> tumens, iam debita messi,  </l>
             <l n="54">Digna cupido uiris, tulerit qua uestra uoluntas:  </l>
             <l n="55">Dedo pater proque hospitibus pensabo dolorem.  </l>
             
@@ -867,7 +868,7 @@
             <l n="93">Hinc fluctus, illinc flatus redduntur amici,  </l>
             <l n="94">Securamque uiam placida signante carina  </l>
             <l n="95">Candida caeruleo florent uestigia sulco.  </l>
-            <l n="96">Nauita tumDomino laetus uenerando timorem  </l>
+            <l n="96">Nauita <choice><sic>tumDomino</sic><corr>tum Domino</corr></choice> laetus uenerando timorem  </l>
             <l n="97">Sacrificat grates, tum portus intrat amicos.  </l>
             <l n="98">Nauigat et uates alio susceptus Ionas  </l>
             <l n="99">Nauigio fluctusque secat sub fluctibus imis, \'  </l>
@@ -914,7 +915,7 @@
             <l n="5">Vt te corriperem: tenebras praeponere luci\'  </l>
             <l n="6">Quis patiatur enim, te matrem credere magnam  </l>
             <l n="7">Posse deam dici rursusque putare colendam,  </l>
-            <l n="8">Cuius cultoros infamia turpis inurit?  </l>
+            <l n="8">Cuius <choice><sic>cultoros</sic><corr>cultores</corr></choice> infamia turpis inurit?  </l>
             <l n="9">Namque sacerdotes tunicis muliebribus idem  </l>
             <l n="10">Interius uitium cultu exteriore fatentur,  </l>
             <l n="11">Idque licere putant quod non licet: unde per urbem  </l>

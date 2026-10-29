@@ -90,6 +90,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 5 mots mal lus.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -1916,7 +1917,7 @@
 <pb n="43"/>
             <l n="6">deuotamque animam tormenta per omnia Christo  </l>
             <l n="7">sponte tua iussus laxatis reddere membris  </l>
-            <l n="8">liquisti nacnos rabidis lictoribus artus,.  </l>
+            <l n="8">liquisti <choice><sic>nacnos</sic><corr>uacuos</corr></choice> rabidis lictoribus artus,.  </l>
             <l n="9">uectus in aetherium sine sanguine martyr honorem,  </l>
              <l n="10">o pater, o domine, indignis licet, adnue semis,  </l>
             <l n="11">ut tandem, hanc fragili trahimus dum corpore uitam,  </l>
@@ -7309,7 +7310,7 @@
              <l n="250">fidelis animae casta libertas terit,  </l>
             <l n="251">et in hoc parentis aliquid illius refert  </l>
             <l n="252">puer iste Christi consulatum militans,  </l>
-            <l n="253">quod liberandis cousulens munus pium  </l>
+            <l n="253">quod liberandis <choice><sic>cousulens</sic><corr>consulens</corr></choice> munus pium  </l>
             <l n="254">redemptionis opere dispensat deo,  </l>
              <l n="255">prisci parentis aemulator hactenus,  </l>
             <l n="256">quod seruitute liberat domesticos,  </l>
@@ -8163,7 +8164,7 @@
             <l n="11">carminibus, maior rerum tibi nascitur ordo.  </l>
             <l n="12">non modo iudicium Paridis nec bella gigantum  </l>
             <l n="13">falsa canis. fuerit puerili ludus in aeuo  </l>
-            <l n="14">iste tuus quondam; decuerunt ludicra paruum.  </l>
+            <l n="14">iste tuus quondam; <choice><sic>decuerunt</sic><corr>docuerunt</corr></choice> ludicra paruum.  </l>
              <l n="15">nunc animis grauior, quantum prouectior annis,  </l>
             <l n="16">aspernare lenes maturo corde Camenas,  </l>
             <l n="17">et qualem castis iam congrua moribus aetas  </l>
@@ -9741,7 +9742,7 @@
             <l n="576">uitae subactae dedecus.  </l>
             <l n="577">qui seraus hoste gloriante uixerat,  </l>
             <l n="578">hoste obruto uictor cadit  </l>
-            <l n="579">et plura morions interemit milia,  </l>
+            <l n="579">et plura <choice><sic>morions</sic><corr>moriens</corr></choice> interemit milia,  </l>
             <l n="580">quam uiuus interfecerat.  </l>
             <l n="581">imitetur istam filius noster uolo  </l>
             <l n="582">sic morte mortem, ut permanens  </l>
@@ -10632,7 +10633,7 @@
             <l n="30">terrificis pauidas feriat rumoribus aures,  </l>
             <l n="31">nos tamen in domino stabilis fiducia Christo  </l>
             <l n="32">roboret et recto fixis pede mentibus armet,  </l>
-            <l n="33">nec panor ater in hanc obducat nubila lucem,  </l>
+            <l n="33">nec <choice><sic>panor</sic><corr>pauor</corr></choice> ater in hanc obducat nubila lucem,  </l>
             <l n="34">quam deus aetherio Felicis honore serenat.  </l>
             <l n="35">legifer ut quondam Pharii tellure tyranni  </l>
             <l n="36">pascha sacrum Moyses prima sub lege dicauit  </l>

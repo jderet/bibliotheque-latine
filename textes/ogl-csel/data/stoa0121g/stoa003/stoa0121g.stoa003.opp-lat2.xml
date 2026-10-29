@@ -88,6 +88,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 1 mot coupé, 1 mot mal lu.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -1129,7 +1130,7 @@
             non solum dixit acceperit), in sua iustitia, quam operatus <lb/>
             est, uiuet. aduertis, quod huiusmodi medicina sicut ore <lb/>
             poscenda, ita opere consummanda est. insultare deo uidetur, <lb/>
-            qui illo tempore ad medicum noluit ueuire, quo potuit, et illo <lb/>
+            qui illo tempore ad medicum noluit <choice><sic>ueuire</sic><corr>uenire</corr></choice>, quo potuit, et illo <lb/>
             nunc incipit uelle, quo non potest. opus itaque est, ut, quanta <lb n="20"/>
             in peccando fuit abruptae et uegetae ad malum mentis intentio, <lb/>
             tanta sit in uulnerum curatione deuotio. 
@@ -1156,7 +1157,7 @@
              
 <pb n="185"/>
             credendi ratio requiritur, sed placendi. fides ergo nuda meritis <lb/>
-            inanis et uacua est, sicut apostolus dicit: quid prod est, si <lb/>
+            inanis et uacua est, sicut apostolus dicit: quid <choice><sic>prod est</sic><corr>prodest</corr></choice>, si <lb/>
             fidem quis dicat se habere, opera autem non habeat? <lb/>
             numquid potest fides seruare eum? sequitur enim et dicit: <lb/>
             fides, si non habeat opera, mortua est in semet ipsa. <lb n="5"/>

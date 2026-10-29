@@ -86,6 +86,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 5 mots mal lus.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -1385,7 +1386,7 @@
             in cuius ministerio quicquid ualeo praestat inpendi. simul <lb/>
             etiam percepi animo quod, si reddenda est de otioso sermone <lb/>
             ratio, non minus de otioso silentio. enut enim otiosa silentia,   <lb n="15"/>
-            si laetantibus circumfusis omnigenum mentihus solus, cum <lb/>
+            si laetantibus circumfusis omnigenum <choice><sic>mentihus</sic><corr>mentibus</corr></choice> solus, cum <lb/>
             dare possem, uerba subtraherem, quippe cum etiam in obsequiis <lb/>
             caelestibus hymnos deceat adhiberi et credamus exsortem <lb/>
             humanitatis dominum hominum meris laudibus demulceri <lb/>
@@ -1616,7 +1617,7 @@
             <l n="108">"Summe deum, sancti custos, qui culmine caeli  </l>
             <l n="109">Omina dextra facis, quae cernis lumine dextro,  </l>
              <l n="110">Hunc tibi de primis et adhue reptantibus annis,   </l>
-            <l n="111">Sancte, pater neodum, quem necdum cassibus artis  </l>
+            <l n="111">Sancte, pater <choice><sic>neodum</sic><corr>necdum</corr></choice>, quem necdum cassibus artis  </l>
             <l n="112">Lubrica terrenis innectunt saecula culpis.  </l> 
 
           <l n="113"><milestone unit="para"/>Nec faciant: sit, summe deus, tibi munus opimum".  </l> 
@@ -1838,7 +1839,7 @@
           <l n="18"><milestone unit="para"/>Inmunda lymphis sobrium  </l>
             <l n="19">Per busta tetris uexerat:  </l>
              <l n="20">Viuens sepulcra pertulit,   </l>
-            <l n="21">Viuentis urnae prandlum.  </l> 
+            <l n="21">Viuentis urnae <choice><sic>prandlum</sic><corr>prandium</corr></choice>.  </l> 
 
           <l n="22"><milestone rend="script" unit="para"/>Secreta coeti prodidit  </l>
 
@@ -2699,7 +2700,7 @@
             <l n="3">Nil tibi, uirgo, perit: carnem mens pura refudit,  </l>
             <l n="4">Quae numquam mundi uixit in obsequiis.  </l>
             <l n="5">Funera busta rogi scelerum stipendia cessent:  </l>
-            <l n="6">De uita ad uitam transitus iste plaeet.  </l> 
+            <l n="6">De uita ad uitam transitus iste <choice><sic>plaeet</sic><corr>placet</corr></choice>.  </l> 
 
           
 
@@ -2875,7 +2876,7 @@
             <l n="6">Conscia secreti detulit ora tui  </l>
             <l n="7">Hunc utero genetrix caelestem fudit in aulam,  </l>
             <l n="8">Vbera subducens tradidit uberibus.  </l>
-            <l n="9">Cana uenerandum stupuerunt saeoula uatem:  </l>
+            <l n="9">Cana uenerandum stupuerunt <choice><sic>saeoula</sic><corr>saecula</corr></choice> uatem:  </l>
              <l n="10">Moribus ante fuit quod gerit officio.  </l>
  
           

@@ -85,6 +85,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 11 mots mal lus, 1 mot coupé.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -243,7 +244,7 @@
 </p>
           </div>
 
-<div n="5" subtype="section" type="textpart"><p> (I, 2) Quanti tunc ab eis praeolari pontifices et nobiles sacerdotes <lb/>
+<div n="5" subtype="section" type="textpart"><p> (I, 2) Quanti tunc ab eis <choice><sic>praeolari</sic><corr>praeclari</corr></choice> pontifices et nobiles sacerdotes <lb/>
             diuersis poenarum generibus extincti sunt, ut traderent <lb/>
             si quid auri uel argenti proprium uel ecclesiasticum haberent! <lb/>
             Et dum, quae erant, urguentibus poenis facilius ederentur, <lb/>
@@ -713,7 +714,7 @@
             magis memoratos faceret famulos, Martinianum Maximamque <lb n="5"/>
             coniugali consortio sociare.</p></div>
 
-<div n="31" subtype="section" type="textpart"><p>Martinianus adulescentulorum saecnlarium <lb/>
+<div n="31" subtype="section" type="textpart"><p>Martinianus adulescentulorum <choice><sic>saecnlarium</sic><corr>saecularium</corr></choice> <lb/>
             more coniugium affectabat, Maxima namque iam deo <lb/>
             sacrata. humanas nuptias refutabat. At ubi uentum est, ut <lb/>
             cubiculi adirentur secreta silentia, et Martinianus, nesciens <lb/>
@@ -1867,7 +1868,7 @@
 </p>
           </div>
 
-<div n="39" subtype="section" type="textpart"><p>CRex Hunirix Unandalorum et Alanorum uninersis episcopis  <lb/>
+<div n="39" subtype="section" type="textpart"><p>CRex Hunirix Unandalorum et Alanorum <choice><sic>uninersis</sic><corr>uniuersis</corr></choice> episcopis  <lb/>
             omousianis. Non semel sed saepius constat esse prohibitum, <lb/>
             ut in sortibus Uuandalorum sacerdotes uestri <sic n="poss">eonnentus</sic> minime <lb/>
             celebrarent, ne sua seductione animas subuerterent Christianas. <lb/>
@@ -1964,7 +1965,7 @@
           </div>
 
 <div n="43" subtype="section" type="textpart"><p rend="script">(II, 15) Sed cum haec suggestio a beato Eugenio offerretur,  <lb/>
-            ille iam qui conceperat dolorem, urguebatur ini quitatem <lb/>
+            ille iam qui conceperat dolorem, urguebatur <choice><sic>ini quitatem</sic><corr>iniquitatem</corr></choice> <lb/>
             grauius parturire, et ita sancto uiro Eugenio episcopo per <lb n="5"/>
             Obadum praepositum regni sui mandasse uidetur: csubde mihi <lb/>
             uniuersum orbem terrarum, ut sub potestate mea totus mundus <lb/>
@@ -3103,7 +3104,7 @@
 </p>
           </div>
 
-<div n="92" subtype="section" type="textpart"><p>(III, 19) Quis autem illam dignitatem spiritus sancti pessit  <lb/>
+<div n="92" subtype="section" type="textpart"><p>(III, 19) Quis autem illam dignitatem spiritus sancti <choice><sic>pessit</sic><corr>possit</corr></choice>  <lb/>
             " tacere? Antiqui enim prophetae clamabant: haec dicit <lb/>
             dominus. Hanc uocem Christus adueniens in suam personam <lb/>
             reuocauit dicens: ego autem dico uobis. Noui autem prophetae <lb n="20"/>
@@ -3243,7 +3244,7 @@
             patrem, adorabo et filium, adorabo et spiritum sanctum una  <lb/>
             eademque ueneratione.</p></div>
 
-<div n="97" subtype="section" type="textpart"><p>Quod Si quis dnrum hoc putat, audiat <lb/>
+<div n="97" subtype="section" type="textpart"><p>Quod Si quis <choice><sic>dnrum</sic><corr>durum</corr></choice> hoc putat, audiat <lb/>
             quomodo Dauid ad culturam dei fideles hortatur: adorate,<lb n="15"/>
             inquit, scabellum pedum eius. Si religionis est adorare <lb/>
             scabellum pedum eius, quanto magis religiosum, si eius spiritus <lb/>
@@ -3514,7 +3515,7 @@
             quas inductis secum in errore imperatoribus temporum <sic>dinersorum</sic>  <lb n="15"/>
             tunc contigit promulgari.</p></div>
 
-<div n="8" subtype="section" type="textpart"><p>Quarum illud nidetnr tenere <lb/>
+<div n="8" subtype="section" type="textpart"><p>Quarum illud <choice><sic>nidetnr</sic><corr>uidetur</corr></choice> tenere <lb/>
             conceptio, ut nulla exceptis superstitionis suae antistitibus <lb/>
             ecclesia patuisset, nullibi liceret aliis aut <sic n="poss">connictus</sic> <sic>agereant</sic> <lb/>
             exercere conuentus, nec ecclesias aut in urbibus aut in quibusdam <lb/>
@@ -3813,7 +3814,7 @@
 <pb n="81"/>
             nequaquam <sic>inrsre</sic> noluerant, <sic>dioentes</sic> <sic>prohibitvm</sic> <sic>fnisse</sic> <sic>ernangelioa</sic> <lb/>
             <sic>auetoritate</sic>, ipso domino dicente: non iurabis in <lb/>
-            toto. Quibus ministri regis: secedant m parte\', inquiunt, cqui <lb/>
+            toto. Quibus ministri regis: secedant m parte\', inquiunt, <choice><sic>cqui</sic><corr>equi</corr></choice> <lb/>
             iurare <sic>disponuat</sic>.\' Qui cum secederent, notariis scribentibus <lb/>
             quis quid diceret uel ex qua ciuitate fuisset, similiter factum <lb n="5"/>
             est ut de illis, qui minime <sic n="poss">iaranerunt</sic>; statimque pars utraque <lb/>
@@ -3967,7 +3968,7 @@
 </p>
           </div>
 
-<div n="26" subtype="section" type="textpart"><p rend="script"> (V, 3) In ciuitate nero Culusitana non naleo quae gesta <lb n="10"/>
+<div n="26" subtype="section" type="textpart"><p rend="script"> (V, 3) In ciuitate nero Culusitana non <choice><sic>naleo</sic><corr>ualeo</corr></choice> quae gesta <lb n="10"/>
             sunt nuntiare, quia et ipsam quantitatem martyrum uel etiam <lb/>
             confessorum inpossibile est homini supputare. Ubi quaedam <lb/>
             matrona auctrix sui nominis Uictoria, dum in conspectu uulgi <lb/>
@@ -4006,7 +4007,7 @@
 </p>
           </div>
 
-<div n="27" subtype="section" type="textpart"><p>(V, 4) Qualiter autem Adrumetinae eiuitatis ciuem Uictdrianum  <lb n="5"/>
+<div n="27" subtype="section" type="textpart"><p>(V, 4) Qualiter autem Adrumetinae <choice><sic>eiuitatis</sic><corr>ciuitatis</corr></choice> ciuem Uictdrianum  <lb n="5"/>
             tunc proconsulem Carthaginis praedicem, nescio deficientibus <lb/>
             uerbis. Quo in Africae partibus nullus ditior fuit, <lb/>
             qui etiam apud impium regem pro rebus semper sibi commissis <lb/>
@@ -4565,7 +4566,7 @@
             uindicaturus est Christus. nonne uides eos clamantes et dicentes: <lb/>
             Christiani sumus\'?</p></div>
 
-<div n="51" subtype="section" type="textpart"><p>Sed haec mulier quid in eonspectu  <lb/>
+<div n="51" subtype="section" type="textpart"><p>Sed haec mulier quid in <choice><sic>eonspectu</sic><corr>conspectu</corr></choice>  <lb/>
             indicum egerit, tacendum non est. Nam cum ipsa uel maritus, <lb n="5"/>
             licet seorsum, carceris tamen custodia tenerentur, ita ut se <lb/>
             penitus non uiderent, mandatur mulieri diciturque illi: <sic>csolue</sic> <lb/>
@@ -4957,7 +4958,7 @@
             tuam. Uiae eius lugent, eo quod nemo conueniat <lb n="15"/>
             in die festo.</p></div>
 
-<div n="68" subtype="section" type="textpart"><p>Egressus est a facie eius omnis deoori  <lb/>
+<div n="68" subtype="section" type="textpart"><p>Egressus est a facie eius omnis <choice><sic>deoori</sic><corr>decori</corr></choice>  <lb/>
             et deliciae. Didicerunt uias asperas ambulare uirgines et <lb/>
             iuuenes eius, in aulis educati monasteriorum; abierunt <lb/>
             in captiuitate Maurorum, dum lapides sancti eius <lb/>

@@ -86,6 +86,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 8 mots mal lus.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -1182,7 +1183,7 @@
             <l n="15">Oblitus est iste prophetare, qui ante solebat.  </l>
             
 
-          <l n="16"><milestone unit="para"/>Monstra deo ista fincta sunt per uiniuoraces,  </l>
+          <l n="16"><milestone unit="para"/>Monstra deo ista <choice><sic>fincta</sic><corr>tincta</corr></choice> sunt per uiniuoraces,  </l>
             <l n="17">Audacia quorum damnabilis numina fingit.  </l>
             <l n="18">Gestabatur enim et aluit tale sigillum:  </l>
             <l n="19">Nunc et ipse silet, nec ullus de illo prophetat.  </l>
@@ -2796,7 +2797,7 @@
           <l n="1"><milestone unit="para"/>Desidet (populus) absconsus ultimus sanctus,  </l>
             <l n="2">Et quidem ignotus a nobis ubi moretur.  </l>
 
-          <l n="3"><milestone unit="para"/>Per nonem tribuum &lt;cam&gt; agant et dimidiam ipsi,  </l>
+          <l n="3"><milestone unit="para"/>Per <choice><sic>nonem</sic><corr>nouem</corr></choice> tribuum &lt;cam&gt; agant et dimidiam ipsi,  </l>
             <l n="4">Omissae duae tribum haec sunt et dimidia nobis.  </l>
             <l n="5">Praecepitque Christus per legem uiuere priscos.  </l>
             <l n="6">Viuamus nunc omnes, nouellae traditio legis,  </l>
@@ -3170,7 +3171,7 @@
             <l n="8">In baptismo tibi genitali (a) sola donantur.  </l>
             <l n="9">Nam si quis peccans catecuminus, poena notatur;  </l>
             <l n="10">Insignis illa uiuas, sed non sine damna moraris.  </l>
-            <l n="11">Summa tibi: grania peccata deuita tu semper. </l>
+            <l n="11">Summa tibi: <choice><sic>grania</sic><corr>grauia</corr></choice> peccata deuita tu semper. </l>
 
 <note rend="script" type="footnote"> V, inscr.cate cominia C; de uocabuli <hi rend="italic">forma cf</hi>. Schuch. Vokal. <hi rend="italic">I <lb/>
             p. 396; b. Gbl. 16p. 347 2 propter] p<foreign xml:lang="grc">̃</foreign>p C</hi> ur<foreign xml:lang="grc">̃</foreign>a C <hi rend="italic">3 si qua Crv;</hi> <lb/>
@@ -3535,7 +3536,7 @@
              <l n="7">Omnia concedet, omnia sunt et nostra aostra.  </l>
              <l n="8">Bepoeitus castris ulterius caue delinquas.  </l>
             <l n="9">Errare noli diu miles per spelaea ferarum.  </l>
-            <l n="10">Sit tibi pest peocare desistere gestum inmensum.  </l>
+            <l n="10">Sit tibi <choice><sic>pest</sic><corr>post</corr></choice> <choice><sic>peocare</sic><corr>peccare</corr></choice> desistere gestum inmensum.  </l>
             
 
           
@@ -3779,7 +3780,7 @@
 <ab> <title>XVI.  SAECVLARIA IN TOTVM FVGIENDA. </title> </ab>
           <l n="1"><milestone rend="script" unit="para"/>Si quidam doctores, dum exspectant munera uestra  </l>
             <l n="2">Aut timent personas, laxantes singula uobis,  </l>
-            <l n="3">Et ego non docee, sed cogor dicere uerum.  </l>
+            <l n="3">Et ego non <choice><sic>docee</sic><corr>doceo</corr></choice>, sed cogor dicere uerum.  </l>
             <l n="4">Cum caterua Mali pergis ad spectacula uana,  </l>
             <l n="5">Vbi (a) Satana fragoribus pompa &lt;pa&gt;ratur.  </l>
             <l n="6">Licere persuades tibi, quodcumque placebit. </l>
@@ -3817,11 +3818,11 @@
             <l n="12">Nolite diligere mundum neque ambitum eius:  </l>
             <l n="13">Tanta Dei uox est, et tibi pro le(ui) uidetur.  </l>
             <l n="14">Obseruas mandatum hominis, et Dei deuitas;  </l>
-            <l n="15">Tu fidis muneri, quo dootores ora procludunt,  </l>
+            <l n="15">Tu fidis muneri, quo <choice><sic>dootores</sic><corr>doctores</corr></choice> ora procludunt,  </l>
             <l n="16">Vt taceant neque dicant tibi iussa diuina.  </l>
             <l n="17">Me uera dicente[m] sicut teneris, prospice Summum: </l>
 
-          <l n="18"><milestone rend="script" unit="para"/>Filius cuius eras, illi te adsigna olientem.  </l>
+          <l n="18"><milestone rend="script" unit="para"/>Filius cuius eras, illi te adsigna <choice><sic>olientem</sic><corr>clientem</corr></choice>.  </l>
             <l n="19">Yiuere si quaeris gentiliter homo fidelis,.  </l>
             <l n="20">Gaudia te mundi remonent a gratia Christi;  </l>
             <l n="21">Indisciplinate quod libe(t) licere praesumis,  </l>

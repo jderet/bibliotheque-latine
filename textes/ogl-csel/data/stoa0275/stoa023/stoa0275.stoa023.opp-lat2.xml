@@ -86,6 +86,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 2 mots coupés.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -109,7 +110,7 @@
             maxime penes deum, nec alius id quam qui possidet dispensat, <lb n="15"/>
             ut cuique dignatur. itaque uelut solacium erit disputare super <lb/>
             eo, quod frui non datur, uice languentium, qui, cum uacent <lb/>
-            a sanita te, de bonisj eius tacere non norunt. itaj miserrimus <lb/>
+            a <choice><sic>sanita te</sic><corr>sanitate</corr></choice>, de bonisj eius tacere non norunt. itaj miserrimus <lb/>
             ego, semper aeger caloribus impatientiae quam nLon obtineo <lb/>
             patientiae sanitatem eLt suspirem et inuocem et perorem <lb n="20"/>
             necesse est, cum rejcordor et in meae imbecillitatis contemplatione <lb/>
@@ -142,7 +143,7 @@
             com<add>miserint</add> pacem. in eam conspirant, in eam foede rantur, <lb/>
             in illam adfectatio<add>ne uir</add>tutis unanimiter student; <add>omnem sapientiae <lb/>
             </add> ostentationem de pati<add>entia praef</add>erunt. grande testi<add>monium</add> <lb n="10"/>
-            eius est, cum etiam uanas saeculi disciplin as ad laudem <lb/>
+            eius est, cum etiam uanas saeculi <choice><sic>disciplin as</sic><corr>disciplinas</corr></choice> ad laudem <lb/>
             et gloriam <add>promouet</add>. aut numquid poti<add>us iniu</add>ria, cum <lb/>
             diuina res in saecu<add>larib</add>us artibus uolutatur? <add>sed uide</add>rint <lb/>
             illi, quos mox sapi<add>entiae su</add>ae cum saeculo destructae ac <lb/>

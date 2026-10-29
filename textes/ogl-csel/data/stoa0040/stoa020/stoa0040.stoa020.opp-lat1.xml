@@ -88,6 +88,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 1 mot mal lu, 2 mots collés, 1 mot coupé.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -692,7 +693,7 @@
 <p>Audite hoc idem testamentum ad Iacob: et exiit lacob <lb/>
             a puteo iurationis et profectus est in Charram. et <lb n="25"/>
             deuenit in locum et dormiuit in loco illo, quoniam <lb/>
-            solis occasus erat. et sumps it lapidem ex lapidibits <lb/>
+            solis occasus erat. et <choice><sic>sumps it</sic><corr>sumpsit</corr></choice> lapidem ex lapidibits <lb/>
             loci et posuit ad caput suum et dormiuit in loco <lb/>
             illo. et uisum uidit; et ecce scala stabilita super <lb/>
             terram, cuius caput pertingebat ad caelum, et
@@ -712,7 +713,7 @@
             dabo eam et semini tuo. et erit semen tuum sicut <lb n="5"/>
             harena terrae et multiplicabitur supra mare et in <lb/>
             africum et in aquilonem et ad orientem; et benedicentur <lb/>
-            in te omnes tribus terrae et in semine tuoet <lb/>
+            in te omnes tribus terrae et in semine <choice><sic>tuoet</sic><corr>tuo et</corr></choice> <lb/>
             ecce ego sum tecum, custodiens te in omni uia <lb/>
             quacumque ibis, et reducam te in terram hanc, quia <lb n="10"/>
             non te derelinquam donec faciam omnia quae tecum <lb/>
@@ -1719,7 +1720,7 @@ eum: quae deus mundauit tu ne communia dixeris. quod autem per hoc uisum gentes 
 
 conuenissent, dixit ad eos: uos melius scitis quomodo abominandum sit uiro Iudaeo iungi aut accedere ad alienigenam; sed mihi deus ostendit nullum communem aut inquinatum dicere hominem. ita exposuit illam uocem, quam de animalibus in illo linteo
 
-demonstratis audierat: quae deus mundauit tu ne communia dixeris. iam cui non appareat illo uase significatum orbem terrarum cum omnibus gentibus? unde etiam quattuor initiis erat alligatum propter notissimas quattuor orbis partes orientem et occidentem. austrum et aquilonem, quas saepissime scriptura commendat. iam uero Paulus missus ad gentes quae loca circumierit disseminans uerbum dei dei etnatas confirmans ecclesias, longum est commemorare. cui Iudaei cum restitissent Antiochiae, ipse et Barnabas dixerunt ad eos: uobis
+demonstratis audierat: quae deus mundauit tu ne communia dixeris. iam cui non appareat illo uase significatum orbem terrarum cum omnibus gentibus? unde etiam quattuor initiis erat alligatum propter notissimas quattuor orbis partes orientem et occidentem. austrum et aquilonem, quas saepissime scriptura commendat. iam uero Paulus missus ad gentes quae loca circumierit disseminans uerbum dei dei <choice><sic>etnatas</sic><corr>et natas</corr></choice> confirmans ecclesias, longum est commemorare. cui Iudaei cum restitissent Antiochiae, ipse et Barnabas dixerunt ad eos: uobis
 
 
 
@@ -2572,7 +2573,7 @@ demonstratis audierat: quae deus mundauit tu ne communia dixeris. iam cui non ap
             erubescunt si dicant, non habent omnino quod dicant. sed quid <lb/>
             ad nos nemini inuidemus. hoc nobis legant de scripturis sanctis. <lb/>
             et credimus; hoc, inquam, nobis ex canone diuinorum librorum <lb/>
-            legant, tot cinitates, quae usque ad hodiernum diem baptismum <lb/>
+            legant, tot <choice><sic>cinitates</sic><corr>ciuitates</corr></choice>, quae usque ad hodiernum diem baptismum <lb/>
             per apostolos sibi traditum tenuerunt, propter Afrorum sibi incognita <lb n="15"/>
             crimina perisse a fide Christi et denuo baptizandas esse a <lb/>
             parte Donati, atque inde ceteris gentibus. quae nondum audierunt, <lb/>

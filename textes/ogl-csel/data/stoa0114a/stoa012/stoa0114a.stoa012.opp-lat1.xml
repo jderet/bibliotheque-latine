@@ -83,6 +83,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 1 mot mal lu.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -1509,7 +1510,7 @@
             unitate desciscit: pingues hostias litat diabolo qui contristat<lb n="20"/>
             ecclesiam. uanas ergo repudiate tendiculas: simplicem habet <lb/>
             defensionem pacis affectus: nimis armatus est qui illa quae <lb/>
-            aduersarius concordise ministrat tela contemnit: sufficit contra <lb/>
+            aduersarius <choice><sic>concordise</sic><corr>concordiae</corr></choice> ministrat tela contemnit: sufficit contra <lb/>
             omnia iacula iurgiorum fidei nuda oppositio. quid Eulali et
 
 <note type="footnote"> 3 Ps. 33, 12 </note>

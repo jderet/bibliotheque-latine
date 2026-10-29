@@ -85,6 +85,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 2 mots mal lus.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -234,7 +235,7 @@
           </ab>
           <p> Baptisma quod dant haeretici et schismatici non esse uerum <lb/>
             ubique in scripturis sanctis declaratum est, quoniam ipsi <lb/>
-            praepositi eorum falsi Christi sunt et falsi prophetae dicente Dcmino <lb/>
+            praepositi eorum falsi Christi sunt et falsi prophetae dicente <choice><sic>Dcmino</sic><corr>Domino</corr></choice> <lb/>
             per Salomonem: qui fidens est falsis hic pascit <lb n="15"/>
             uentos, idem autem ipse sequitur aues uolantes. <lb/>
             deseruit enim uias uineae suae, semitas uero agelli <lb/>
@@ -488,7 +489,7 @@
 <div n="16" subtype="section" type="textpart"><ab>
             <title type="sub">Successus ab Abbir Germaniciana dixit:</title>
           </ab>
-          <p rend="script">Haereticis aut nihil licet aut tctum licet. si possunt baptizare,  <lb/>
+          <p rend="script">Haereticis aut nihil licet aut <choice><sic>tctum</sic><corr>totum</corr></choice> licet. si possunt baptizare,  <lb/>
             possunt et sanctum Spiritum dare: si autem sanctum <lb/>
             Spiritum dare non possunt, quia non habent Spiritum sanctum, <lb/>
             nec baptizare spiritaliter possunt. propterea censemus haereticos <lb/>

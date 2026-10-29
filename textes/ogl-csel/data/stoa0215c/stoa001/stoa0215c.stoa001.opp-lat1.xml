@@ -86,6 +86,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 176 mots mal lus, 1 mot collé, 2 mots coupés.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -1872,7 +1873,7 @@ AQVITANICA PROVINCIA obliquo cursu Ligeris fluminis, qui <lb n="5"/>
 </p>
           </div>
 
-<div n="90" subtype="section" type="textpart"><p rend="script"> TRIPOLITANA prouineia, quae et Subuentana uel regio Arzugum <lb/>
+<div n="90" subtype="section" type="textpart"><p rend="script"> TRIPOLITANA <choice><sic>prouineia</sic><corr>prouincia</corr></choice>, quae et Subuentana uel regio Arzugum <lb/>
             dicitur, ubi Leptis magna ciuitas est, quamuis Arzuges<lb n="10"/>
             per longum Africae limitem generaliter uocentur, habet ab <lb/>
             oriente aras Philaenorum inter Syrtes maiores et Trogodytas, a
@@ -5029,7 +5030,7 @@ thepanis (corr. т. 2) P
 <div n="11" subtype="section" type="textpart"><p>Latinos Anco Marcio duce saepe congressos, <lb/>
             aliquando superatos: Tarquinium Priscum omnes finitimos et <lb/>
             potentes tunc Tusciae duodecim populos innumeris concidisse<lb n="5"/>
-            conflictibus: Veientes Seruio Tullio insistente uiotos fuisse nec  <lb/>
+            conflictibus: Veientes Seruio Tullio insistente <choice><sic>uiotos</sic><corr>uictos</corr></choice> fuisse nec  <lb/>
             domitos:</p></div>
 
 <div n="12" subtype="section" type="textpart"><p>Tarquinii Superbi regnum occisi soceri scelere adsumptum, <lb/>
@@ -5092,8 +5093,8 @@ thepanis (corr. т. 2) P
           
             Romanos consul primum conditorem regemque Romae non <lb/>
             salum exaequare parricidio sed et uincere studuit; quippe duos <lb n="10"/>
-            filios sues adnlescentes totidemque uxoris suae fratres, Vitellios <lb/>
-            iuucnes, reuocandorum in Vrbem regum plaoito insimulatos, <lb/>
+            filios sues <choice><sic>adnlescentes</sic><corr>adulescentes</corr></choice> totidemque uxoris suae fratres, Vitellios <lb/>
+            <choice><sic>iuucnes</sic><corr>iuuenes</corr></choice>, reuocandorum in Vrbem regum plaoito insimulatos, <lb/>
             in contionem pretraxit, uirgis cecidit securique percussit,
 </p></div>
 
@@ -5459,7 +5460,7 @@ thepanis (corr. т. 2) P
             hereditas, ipsis quoque eandem tradendi formulam seruaturis.  <lb/>
             </p></div>
 
-<div n="14" subtype="section" type="textpart"><p>ita ad proxima aduentantis Cyri temptamenta suooubuit <lb/>
+<div n="14" subtype="section" type="textpart"><p>ita ad proxima aduentantis Cyri temptamenta <choice><sic>suooubuit</sic><corr>succubuit</corr></choice> <lb/>
             magna Babylon et ingens Lydia, amplissima Orientis cum <lb/>
             capite suo bracchia unius proelii expeditione ceciderunt: et<lb n="5"/>
             nostri incircumspecta anxietate causantur, si potentissimae <lb/>
@@ -5526,7 +5527,7 @@ thepanis (corr. т. 2) P
             adjecta super omnia illius rei admiratione, quod ne nuntius <lb/>
             quidem tantae cladis superfuit.</p></div>
 
-<div n="6" subtype="section" type="textpart"><p>regina oaput Gyri amputari  <lb n="10"/>
+<div n="6" subtype="section" type="textpart"><p>regina <choice><sic>oaput</sic><corr>caput</corr></choice> Gyri amputari  <lb n="10"/>
             atque in utrem humano sanguine oppletum coici iubet non <lb/>
             muliebriter increpitans: Satia te, inquit, sanguine quem, <lb/>
             sitisti, cuius per annos triginta insatiabilis perseuerasti. <lb/>
@@ -5826,7 +5827,7 @@ ducenta milia Persarum <milestone n="109" unit="altpage"/>  apud campos Marathon
 
 <div n="8" subtype="section" type="textpart"><p>persuasi igitur mori <lb/>
             malle, in ultionem futurae mortis armantur tamquam ipsi <lb n="10"/>
-            interitum suum et exigerent et uindicarent. mirum diotu sescenti  <lb/>
+            interitum suum et exigerent et uindicarent. mirum <choice><sic>diotu</sic><corr>dictu</corr></choice> sescenti  <lb/>
             uiri castra sescentorum milium inrumpunt.</p></div>
 
 <div n="9" subtype="section" type="textpart"><p>tumultus <lb/>
@@ -5924,7 +5925,7 @@ ducenta milia Persarum <milestone n="109" unit="altpage"/>  apud campos Marathon
             defectio Persas iam fugam circumspicientes aperte fugere persuasit.  <lb/>
             </p></div>
 
-<div n="5" subtype="section" type="textpart"><p>in qua trepidatione multae nanes mersae captaeque<lb n="5"/>
+<div n="5" subtype="section" type="textpart"><p>in qua trepidatione multae <choice><sic>nanes</sic><corr>naues</corr></choice> mersae captaeque<lb n="5"/>
             sunt, plures tamen saeuitiam regis uelut immanitatem hostis  <lb/>
             timentes domos dilabuntur.</p></div>
 
@@ -6083,7 +6084,7 @@ ducenta milia Persarum <milestone n="109" unit="altpage"/>  apud campos Marathon
             rei adstipulatus est, quod Persas, audita clade sociorum primum <lb/>
             dolore dehinc desperatione correptos, nec bello expeditos <lb/>
             nec fugae habilee reddidit. atque ita consternatos profligatosque <lb/>
-            eonstantior factus hostis successu felicitatis inuasit.</p></div>
+            <choice><sic>eonstantior</sic><corr>constantior</corr></choice> factus hostis successu felicitatis inuasit.</p></div>
 
 <div n="7" subtype="section" type="textpart"><p>Xerxes,  <lb/>
             bello in Graecia infeliciter gesto contemptibilis suis factus, per <lb n="5"/>
@@ -6101,7 +6102,7 @@ ducenta milia Persarum <milestone n="109" unit="altpage"/>  apud campos Marathon
 
 <div n="9" subtype="section" type="textpart"><p>Leonida ille clarissimus Lacedaemoniorum  <lb/>
             in bello isto aduersus Xerxen, quod supremum <lb/>
-            ipsi atque hostibus fuit, cum sesoentis suis famosissima illa <lb n="15"/>
+            ipsi atque hostibus fuit, cum <choice><sic>sesoentis</sic><corr>sescentis</corr></choice> suis famosissima illa <lb n="15"/>
             incitamenta dixisset: Prandete, tamquam apud inferos
 
 <note type="footnote"> AVCTORES § 7 <hi rend="italic">Iwtin. 3, 1 § 1 et 2</hi> §8 <hi rend="italic">numerus 1900000</hi> <lb/>
@@ -6146,7 +6147,7 @@ ducenta milia Persarum <milestone n="109" unit="altpage"/>  apud campos Marathon
 </div>
 
 <div n="12" subtype="chapter" type="textpart">
-<div n="1" subtype="section" type="textpart"><p rend="script"> At Romae — ut ad id tempus redeam unde digressns sum: <lb/>
+<div n="1" subtype="section" type="textpart"><p rend="script"> At Romae — ut ad id tempus redeam unde <choice><sic>digressns</sic><corr>digressus</corr></choice> sum: <lb/>
             neque enim interuallo miseriarum ad alios transire conpellor, <lb/>
             sed, sicuti se quondam efferuescentia ubique mala ipsis actibus <lb/>
             conligarunt, ita etiam permixta referuntur: nobis quippe conferre <lb n="10"/>
@@ -6196,11 +6197,11 @@ ducenta milia Persarum <milestone n="109" unit="altpage"/>  apud campos Marathon
 </p>
           </div>
 
-<div n="5" subtype="section" type="textpart"><p>Proximo dehino anno ciues exules seruique fugitiui duce  <lb/>
+<div n="5" subtype="section" type="textpart"><p>Proximo <choice><sic>dehino</sic><corr>dehinc</corr></choice> anno ciues exules seruique fugitiui duce  <lb/>
             Herbonio, uiro Sabino, inuaserunt incenderuntque Capitolium. <lb/>
 </p></div>
 
-<div n="6" subtype="section" type="textpart"><p>            ubi fortissime quidem Valerio consule et lmperatore obstitere  <lb/>
+<div n="6" subtype="section" type="textpart"><p>            ubi fortissime quidem Valerio consule et <choice><sic>lmperatore</sic><corr>imperatore</corr></choice> obstitere  <lb/>
             iuniores; sed adeo atrox et graue discrimen proelii fuit, ut <lb n="10"/>
             ipse quoque consul Valerius ibi fuerit occisus et indignam de <lb/>
             semis uictoriam insuper etiam sua morte foedarit. 
@@ -6257,7 +6258,7 @@ ducenta milia Persarum <milestone n="109" unit="altpage"/>  apud campos Marathon
 <div n="13" subtype="chapter" type="textpart">
 <div n="1" subtype="section" type="textpart"><p> Anno qui proximus trecentesimo ab Vrbe condita fuit, dum<lb n="5"/>
             legati ad Athenienses propter Solonis leges transferendas missi <lb/>
-            exspectantur, arma Romana funes pestilentiaque compesouit. 
+            exspectantur, arma Romana funes pestilentiaque <choice><sic>compesouit</sic><corr>compescuit</corr></choice>. 
 </p>
           </div>
 
@@ -6266,7 +6267,7 @@ ducenta milia Persarum <milestone n="109" unit="altpage"/>  apud campos Marathon
             legum Atticarum gratia magnam perniciem reipublicae <lb n="10"/>
             inuexit.</p></div>
 
-<div n="3" subtype="section" type="textpart"><p>nam primns ex decemniris cedentibus ceteris solus <lb/>
+<div n="3" subtype="section" type="textpart"><p>nam <choice><sic>primns</sic><corr>primus</corr></choice> ex <choice><sic>decemniris</sic><corr>decemuiris</corr></choice> cedentibus ceteris solus <lb/>
             Appius Claudius sibi continuauit imperium, statimque aliorum <lb/>
             coniuratio subsecuta est, ut more contempto, quo insigne imperii <lb/>
             penes unum potestas autem communis erat, omnes omnia  <lb/>
@@ -6366,7 +6367,7 @@ ducenta milia Persarum <milestone n="109" unit="altpage"/>  apud campos Marathon
             iugis et torrida siccitas fuit, ut praesentis tunc futurique anni  <lb/>
 </p></div>
 
-<div n="10" subtype="section" type="textpart"><p>            spem gignendis terrae tructibus abnegarit, lsdemque temporibus  <lb/>
+<div n="10" subtype="section" type="textpart"><p>            spem gignendis terrae <choice><sic>tructibus</sic><corr>fructibus</corr></choice> abnegarit, <choice><sic>lsdemque</sic><corr>isdemque</corr></choice> temporibus  <lb/>
             cum Fidenates hostes maximorum  <milestone n="123" unit="altpage"/> auxiliorum manu stipante<lb n="5"/>
             terribiles Romanis arcibus imminerent, Aemilius tertium dictator <lb/>
             magnam mali molem ipsis Fidenis uix captis depulit et  <lb/>
@@ -6492,13 +6493,13 @@ ducenta milia Persarum <milestone n="109" unit="altpage"/>  apud campos Marathon
             taedio permoti, cum Syracusanis foedus ineunt, auxilia Atheniensium  <lb/>
             spernunt;</p></div>
 
-<div n="10" subtype="section" type="textpart"><p>post autem, Syracusams condiciones paois <lb n="10"/>
+<div n="10" subtype="section" type="textpart"><p>post autem, Syracusams condiciones <choice><sic>paois</sic><corr>pacis</corr></choice> <lb n="10"/>
             meditatione dominationis transgredientibus, denuo legatos <lb/>
             Athenas mittunt, qui capillo barbaque squalidi et lugubribus <lb/>
             induti misericordiam atque auxilium et sermone et habitu precarentur.  <lb/>
             </p></div>
 
-<div n="11" subtype="section" type="textpart"><p>igitur magna ciassis instruitur ducibus Nicia et <lb/>
+<div n="11" subtype="section" type="textpart"><p>igitur magna <choice><sic>ciassis</sic><corr>classis</corr></choice> instruitur ducibus Nicia et <lb/>
             Lamacho, tantisque uiribus Sicilia repetitur, ut suffragia sua  <lb n="15"/>
             et hi timerent, qui impetrauissent.</p></div>
 
@@ -6559,7 +6560,7 @@ ducenta milia Persarum <milestone n="109" unit="altpage"/>  apud campos Marathon
             in Siciliam fuerit, sic ex utraque parte summis uiribus dimicatur. <lb/>
             </p></div>
 
-<div n="18" subtype="section" type="textpart"><p>igitur Athenienses prima congressione uincuntur, oastra  <lb n="15"/>
+<div n="18" subtype="section" type="textpart"><p>igitur Athenienses prima congressione uincuntur, <choice><sic>oastra</sic><corr>castra</corr></choice>  <lb n="15"/>
             quoque cum omni pecunia uel publica uel priuata et cum <lb/>
             uniuerso instructu diuturnae expeditionis amittunt;</p></div>
 
@@ -6948,7 +6949,7 @@ ducenta milia Persarum <milestone n="109" unit="altpage"/>  apud campos Marathon
             fugiens, in itinere clausus cubiculo, uiuus.</p></div>
 
 <div n="7" subtype="section" type="textpart"><p>incensus est. quo <lb/>
-            interfecto quasi sublato ultore seouri miseras urbis reliquias<lb n="5"/>
+            interfecto quasi sublato ultore <choice><sic>seouri</sic><corr>securi</corr></choice> miseras urbis reliquias<lb n="5"/>
             caedibus rapinisque exhauriunt. Theramenen quoque, unum ex <lb/>
             numero sub, cui haec displicere senserunt, in exemplum  <lb/>
             timoremque reliquorum trucidant.</p></div>
@@ -6963,7 +6964,7 @@ ducenta milia Persarum <milestone n="109" unit="altpage"/>  apud campos Marathon
 <div n="9" subtype="section" type="textpart"><p>erat inter exules Thrasybulus, <lb/>
             uir strenuus et generis nobilitate inter suos clarus: qui auctor  <lb/>
             audendi pro patria fuit. itaque castellum Fylen Atticorum <milestone n="135" unit="altpage"/>  <lb n="15"/>
-            flnium collecti exules capiunt multarumque ciuitatum opibus <lb/>
+            <choice><sic>flnium</sic><corr>finium</corr></choice> collecti exules capiunt multarumque ciuitatum opibus <lb/>
             adiuti uires capessunt: quibus Lysias quoque Syracusanus <lb/>
             orator quasi in auxilium urbis, quae esset patria communis  <lb/>
             eloquentiae, quingentos milites cum stipendiis suis misit.</p></div>
@@ -7205,9 +7206,9 @@ ducenta milia Persarum <milestone n="109" unit="altpage"/>  apud campos Marathon
 </p>
           </div>
 
-<div n="7" subtype="section" type="textpart"><p>Tnnc etiam Atalaote ciuitas, Locris adhaorens terrae contigua,  <lb n="5"/>
+<div n="7" subtype="section" type="textpart"><p>Tnnc etiam Atalaote ciuitas, Locris <choice><sic>adhaorens</sic><corr>adhaerens</corr></choice> terrae contigua,  <lb n="5"/>
             repentino maris impetu abscissa atque ia insulam desolata <lb/>
-            est. Atheniensium quoque miserabiles reliquias pestis innasit <lb/>
+            est. Atheniensium quoque miserabiles reliquias pestis <choice><sic>innasit</sic><corr>inuasit</corr></choice> <lb/>
             diuque populata est. 
 </p>
           
@@ -7344,7 +7345,7 @@ ducenta milia Persarum <milestone n="109" unit="altpage"/>  apud campos Marathon
 
  hinc illis  <lb n="15"/>
             mutare sedes, aliud incolere oppidum, altero etiam censeri <lb/>
-            nomine cogitatum plaoitum atque temptatum est.
+            nomine cogitatum <choice><sic>plaoitum</sic><corr>placitum</corr></choice> atque temptatum est.
 
 <note type="footnote"> AVCTORES § 7—§ 9 <hi rend="italic">Liu. 6, 40-44.48,</hi> insertis § 8 iuuentutemfuisse<lb/>
              <hi rend="italic">ex Floro 1, 13 § 13</hi> § 10 offensae-respondens <hi rend="italic">sec. Vergil. <lb/>
@@ -7554,7 +7555,7 @@ ducenta milia Persarum <milestone n="109" unit="altpage"/>  apud campos Marathon
             occasionem quam auide desiderauerant, tam libenter hausissent —  <lb/>
 </p></div>
 
-<div n="3" subtype="section" type="textpart"><p>            ostesderunt enim, quam aegre et misere illa eatenns gesserint, <lb/>
+<div n="3" subtype="section" type="textpart"><p>            ostesderunt enim, quam aegre et misere illa <choice><sic>eatenns</sic><corr>eatenus</corr></choice> gesserint, <lb/>
             quae tam facile indigna etiam condicione posuerunt: nam quid <lb/>
             tam indignum liberis et fortibus uiris, quam longe remoti; <lb/>
             saepe uicti, adhuc hostis et deinde minitantis. imperio arma<lb n="5"/>
@@ -7617,7 +7618,7 @@ ducenta milia Persarum <milestone n="109" unit="altpage"/>  apud campos Marathon
             talentis Conon per Farnabazum euocatur classique praeficitur. <lb/>
             </p></div>
 
-<div n="8" subtype="section" type="textpart"><p>quibus conpertis Lacedaemonii et ipsi anxilia naualis  <lb/>
+<div n="8" subtype="section" type="textpart"><p>quibus conpertis Lacedaemonii et ipsi <choice><sic>anxilia</sic><corr>auxilia</corr></choice> naualis  <lb/>
             belli a rege Aegypti Hereynione per legatos petunt, a quo
 
 <note type="footnote"> AVCTORES § <hi rend="italic">7 Iustin</hi>. 6, 1 § <hi rend="italic">4-7.9</hi> § 8-§ 11 <hi rend="italic">Iustin. 6, 2</hi> <lb/>
@@ -7707,7 +7708,7 @@ ducenta milia Persarum <milestone n="109" unit="altpage"/>  apud campos Marathon
             agitante, ipse quoque nauali discursu oram maritimam peruagaretur. <lb/>
             </p></div>
 
-<div n="13" subtype="section" type="textpart"><p>Conon uero suscepto negotio duplioem curam inpendebat  <lb n="5"/>
+<div n="13" subtype="section" type="textpart"><p>Conon uero suscepto negotio <choice><sic>duplioem</sic><corr>duplicem</corr></choice> curam inpendebat  <lb n="5"/>
             debens sociis sollicitudinem, patriae fidem, ut huic exhiberet <lb/>
             naturam, illis praeberet industriam: in hoc propensior <lb/>
             ciuibus, quod quieti libertatique eorum alieni sanguinis discrimen <lb/>
@@ -7807,7 +7808,7 @@ ducenta milia Persarum <milestone n="109" unit="altpage"/>  apud campos Marathon
             sed uictis semel aduersum uictores obsistendi nec uirtus<lb n="5"/>
             nec animus erat.</p></div>
 
-<div n="20" subtype="section" type="textpart"><p>oum igHur oaedes tantum unius paene  <lb/>
+<div n="20" subtype="section" type="textpart"><p>oum igHur <choice><sic>oaedes</sic><corr>caedes</corr></choice> tantum unius paene  <lb/>
             partis ageretur, repente rex Agesilaus arcessitus ex Asia inprouisus <lb/>
             bello superuenit; Thebanos iam successu duplicis <lb/>
             uictoriae laetiores segnioresque adgreditur nec difficile superat, <lb/>
@@ -7923,7 +7924,7 @@ ducenta milia Persarum <milestone n="109" unit="altpage"/>  apud campos Marathon
 
  nam speculati absentiam Arcadum  <lb/>
             castellum eorum repentina inruptione perfringunt. Arcades <lb/>
-            uero exciti iniuria, iunoto sibi Thebanorum auxilio amissa <lb/>
+            uero exciti iniuria, <choice><sic>iunoto</sic><corr>iuncto</corr></choice> sibi Thebanorum auxilio amissa <lb/>
             furto bello repetunt.</p></div>
 
 <div n="3" subtype="section" type="textpart"><p>in eo proelio Archidamus dux Lacedaemoniorum  <lb n="5"/>
@@ -7990,7 +7991,7 @@ ducenta milia Persarum <milestone n="109" unit="altpage"/>  apud campos Marathon
 </p>
           </div>
 
-<div n="9" subtype="section" type="textpart"><p rend="script"> Contexui indigestae histeriae inextricabilem cratem atque <lb/>
+<div n="9" subtype="section" type="textpart"><p rend="script"> Contexui indigestae <choice><sic>histeriae</sic><corr>historiae</corr></choice> inextricabilem cratem atque <lb/>
             incertos bellorum orbes huc et illuc lymphatico furore gestorum<lb n="15"/>
             uerbis e uestigio secutus inplicui, quoniam tanto, ut uideo,  <lb/>
             inordinatius scripsi, quanto magis ordinem custodiui.</p></div>
@@ -8154,7 +8155,7 @@ ducenta milia Persarum <milestone n="109" unit="altpage"/>  apud campos Marathon
 </p></div>
 
 <div n="2" subtype="section" type="textpart"><p>non ut adsolet plus minusue solito temporum turbata temperies,  <lb n="10"/>
-            hoc est ant intempestina siccitas hiemis aut repentinus <lb/>
+            hoc est ant <choice><sic>intempestina</sic><corr>intempestiua</corr></choice> siccitas hiemis aut repentinus <lb/>
             calor ueris aut incongruus umor aestatis uel autumni diuitis 
 
 
@@ -8435,7 +8436,7 @@ ducenta milia Persarum <milestone n="109" unit="altpage"/>  apud campos Marathon
 
 
 <pb n="152"/>
-            amplissimis generis sui inorementis consistere atque exim quandoque  <lb/>
+            amplissimis generis sui <choice><sic>inorementis</sic><corr>incrementis</corr></choice> consistere atque exim quandoque  <lb/>
             erupturos opinio est.</p></div>
 
 <div n="8" subtype="section" type="textpart"><p>cuius etiam belli tempestate transourrens <lb/>
@@ -8499,7 +8500,7 @@ ducenta milia Persarum <milestone n="109" unit="altpage"/>  apud campos Marathon
             illo tamen inter bella Punica unius anni ueluti anis praeteruolantis <lb/>
             excursu Romani propter clausas Iani portas inter febres <lb/>
             morbosque reipublicae, ad hoc brenissimo pacis signo <lb/>
-            uelut tenuissimo aquae gelidae haustu inlecti sunt, ut in peins <lb/>
+            uelut tenuissimo aquae gelidae haustu inlecti sunt, ut in <choice><sic>peins</sic><corr>peius</corr></choice> <lb/>
             recalescentes multo grauius uehementiusque adflictarentur. <lb n="5"/>
             
 </p>
@@ -8735,13 +8736,13 @@ ducenta milia Persarum <milestone n="109" unit="altpage"/>  apud campos Marathon
             imperatorem et summum philosophum eruditus est. <lb/>
 </p></div>
 
-<div n="3" subtype="section" type="textpart"><p>            ipso autem Alexandro scelere Eurydioes matris ocoiso, quamuis  <lb n="5"/>
+<div n="3" subtype="section" type="textpart"><p>            ipso autem Alexandro scelere Eurydioes matris <choice><sic>ocoiso</sic><corr>occiso</corr></choice>, quamuis  <lb n="5"/>
             ea iam commisso adulterio et altero primum filio interfecto <lb/>
             filiaque uiduata generi nuptias mariti morte pepigisset, <lb/>
             conpulsus a populo regnum, quod paruo occisi fratris filio <lb/>
             tuebatur, suscepit.</p></div>
 
-<div n="4" subtype="section" type="textpart"><p>qui cum foris concursu exsurgentium nndique  <lb/>
+<div n="4" subtype="section" type="textpart"><p>qui cum foris concursu exsurgentium <choice><sic>nndique</sic><corr>undique</corr></choice>  <lb/>
             hostium, domi autem deprehensarum saepe insidiarum metu <lb n="10"/>
             fatigaretur, primum bellum cum Atheniensibus gessit.</p></div>
 
@@ -8796,7 +8797,7 @@ ducenta milia Persarum <milestone n="109" unit="altpage"/>  apud campos Marathon
 </p>
           </div>
 
-<div n="10" subtype="section" type="textpart"><p rend="script"> Exim Graeoiam prope totam consiliis praeuentam uiribus<lb n="10"/>
+<div n="10" subtype="section" type="textpart"><p rend="script"> Exim <choice><sic>Graeoiam</sic><corr>Graeciam</corr></choice> prope totam consiliis praeuentam uiribus<lb n="10"/>
             domuit. quippe Graeciae ciuitates dum imperare singulae <lb/>
             cupiunt, imperium omnes perdiderunt et dum in mutuum. <lb/>
             exitium sine modo ruunt, omnibus perire quod siagulae amitterent  <lb/>
@@ -8835,7 +8836,7 @@ ducenta milia Persarum <milestone n="109" unit="altpage"/>  apud campos Marathon
 
 <div n="12" subtype="section" type="textpart"><p>huic autem ad obtinendam totius Graeciae  <lb/>
             dominationem immoderata. Thebanorum dominatio facultatem <lb/>
-            dedit, qui uiotos Lacedaemonios ac Phocenses, caedibus <lb/>
+            dedit, qui <choice><sic>uiotos</sic><corr>uictos</corr></choice> Lacedaemonios ac Phocenses, caedibus <lb/>
             etiam rapinisque confectos, cum insuper in communi Graeciae <lb/>
             concilio tanta pecuniae multa onerauissent, quantam illi soluere <lb n="5"/>
             nulle modo possent, ad arma confugere coegerunt.</p></div>
@@ -8843,7 +8844,7 @@ ducenta milia Persarum <milestone n="109" unit="altpage"/>  apud campos Marathon
 <div n="13" subtype="section" type="textpart"><p>itaque  <lb/>
             Phocenses Philomelo duce et auxiliis Lacedaemoniorum Atheniensiumque <lb/>
             fulti commissa pugna fugatisque hostibus Thebanorum <lb/>
-            castra oeperunt. sequenti proelio inter inmensas utriusque <lb/>
+            castra <choice><sic>oeperunt</sic><corr>ceperunt</corr></choice>. sequenti proelio inter inmensas utriusque <lb/>
             populi strages Philomelus occisus est; in ouius locum <lb n="10"/>
             Phocenses Oenomaum ducem creauerunt. 
 </p>
@@ -8954,7 +8955,7 @@ ducenta milia Persarum <milestone n="109" unit="altpage"/>  apud campos Marathon
           </div>
 
 <div n="23" subtype="section" type="textpart"><p rend="script">Athenienses uero, qui prius Philippi ingressum Thermopylarum  <lb/>
-            munitione reppulerant, ultro paoem eius expetentes <lb/>
+            munitione reppulerant, ultro <choice><sic>paoem</sic><corr>pacem</corr></choice> eius expetentes <lb/>
             fraudulentissimum hostem de neglecta introitus custodia commonuerunt. <lb/>
             </p></div>
 
@@ -9232,7 +9233,7 @@ ducenta milia Persarum <milestone n="109" unit="altpage"/>  apud campos Marathon
 </div>
 
 <div n="14" subtype="chapter" type="textpart">
-<div n="1" subtype="section" type="textpart"><p rend="script"> Postea Philippus cruentissimam nictoriam in Thebanos et <lb n="10"/>
+<div n="1" subtype="section" type="textpart"><p rend="script"> Postea Philippus cruentissimam <choice><sic>nictoriam</sic><corr>uictoriam</corr></choice> in Thebanos et <lb n="10"/>
             Lacedaemonios exercuit: siquidem principes ciuitatum alios <lb/>
             securi percussit, alios in exilium egit, omnes bonis priuauit. 
 </p></div>
@@ -9426,7 +9427,7 @@ ducenta milia Persarum <milestone n="109" unit="altpage"/>  apud campos Marathon
               <lb/>
             constabat.</p></div>
 
-<div n="5" subtype="section" type="textpart"><p>itaque Samnites nictoria potiti uniuersum exercitum <lb/>
+<div n="5" subtype="section" type="textpart"><p>itaque Samnites <choice><sic>nictoria</sic><corr>uictoria</corr></choice> potiti uniuersum exercitum <lb/>
             Romanum turpiter captum armis etiam uestimentisque nudatum, <lb/>
             tantum singulis uilioribus operimentis ob uerecunda <lb/>
             corporum tegenda concessis, sub iugum missum seruitioque  <lb/>
@@ -9659,7 +9660,7 @@ inde profecturus ad Persicum bellum <lb/>
 
 <div n="10" subtype="section" type="textpart"><p>quarum redemptionam <lb n="5"/>
             Darius cum etiam oblata regni dimidia parte non inpetrauisset, <lb/>
-            tertio cunctis Persarum uiribus sociorumque auxiliis contraetis,  <lb/>
+            tertio cunctis Persarum uiribus sociorumque auxiliis <choice><sic>contraetis</sic><corr>contractis</corr></choice>,  <lb/>
             bellum instaurat.</p></div>
 
 <div n="11" subtype="section" type="textpart"><p>sed dum haec Darius agit, Alexander Parmenionem <lb/>
@@ -10489,7 +10490,7 @@ inde profecturus ad Persicum bellum <lb/>
             bellum molirentur, Romani ad exorandos Gallos misere <lb/>
             legatos.</p></div>
 
-<div n="13" subtype="section" type="textpart"><p>quos cum Galli interfecissent, Caeoilius praetor ob  <lb/>
+<div n="13" subtype="section" type="textpart"><p>quos cum Galli interfecissent, <choice><sic>Caeoilius</sic><corr>Caecilius</corr></choice> praetor ob  <lb/>
             ulciscendam legatorum necem et conprimendum tumultum <lb/>
             hostium eum exercitu missus, ab Etruscis Gallisque oppressus <lb n="15"/>
             interiit.</p></div>
@@ -11085,7 +11086,7 @@ inde profecturus ad Persicum bellum <lb/>
 
 <div n="51" subtype="section" type="textpart"><p>Alexander frater eius dum bellum aduersus fratrem <lb/>
             ob ultionem matris instruit, a Demetrio, cuius auxilium petierat,  <lb/>
-            ciroumuentus occiditur.</p></div>
+            <choice><sic>ciroumuentus</sic><corr>circumuentus</corr></choice> occiditur.</p></div>
 
 <div n="52" subtype="section" type="textpart"><p>Lysimachus cum Dori regis Thraoum <lb/>
             infestissimo bello urgueretur, aduersus Demetrium pugnare  <lb/>
@@ -11352,7 +11353,7 @@ inde profecturus ad Persicum bellum <lb/>
             
 </p></div>
 
-<div n="9" subtype="section" type="textpart"><p>hunc ego puerilibus licentiis nausiantem non modo dioentem  <lb/>
+<div n="9" subtype="section" type="textpart"><p>hunc ego puerilibus licentiis nausiantem non modo <choice><sic>dioentem</sic><corr>dicentem</corr></choice>  <lb/>
             ista non ferrem, sed etiam ab ipsis stratis, otii sui testibus, <lb/>
             in populum publicumque protraherem, eique foras producto <lb n="20"/>
             infantes in eo atque ex eo gelu ludentes iucundantes
@@ -11402,7 +11403,7 @@ inde profecturus ad Persicum bellum <lb/>
 <div n="1" subtype="section" type="textpart"><p rend="script"> <milestone n="214" unit="altpage"/> Anno ab Vrbe condita CCCCLXIIII Tarentini Romanam   <lb/>
             classem forte praetereuntem, spectaculo theatri prospectam <lb/>
             hostiliter inuaserunt, quinque tantum nauibus uix per fugam<lb n="10"/>
-            elapsis; cetera retracta in portum elassis et profligata est; <lb/>
+            elapsis; cetera retracta in portum <choice><sic>elassis</sic><corr>classis</corr></choice> et profligata est; <lb/>
             praefecti nauium trucidati, omnes bello utiles caesi, reliqui  <lb/>
             pretio uenditi sunt.</p></div>
 
@@ -11553,7 +11554,7 @@ inde profecturus ad Persicum bellum <lb/>
 </p>
 </div>
 
-<div n="15" subtype="section" type="textpart"><p>           et cum a sociis increpitaretur, cur se uiotum diceret qui  <lb/>
+<div n="15" subtype="section" type="textpart"><p>           et cum a sociis increpitaretur, cur se <choice><sic>uiotum</sic><corr>uictum</corr></choice> diceret qui  <lb/>
             uicisset, respondisse fertur: Ne ego si iterum eodem modo <lb/>
             uicero, sine ullo milite Epirum reuertar.</p></div>
 
@@ -11581,7 +11582,7 @@ inde profecturus ad Persicum bellum <lb/>
 
 <div n="20" subtype="section" type="textpart"><p> nam cum diu  <lb/>
             obnixe <milestone n="218" unit="altpage"/>  cunctis in mutuam caedem ruentibus, anceps belli penderet  <lb/>
-            euentus, Pyrrhus, transfixo bracohio saucius, prior cessit <lb/>
+            euentus, Pyrrhus, transfixo <choice><sic>bracohio</sic><corr>bracchio</corr></choice> saucius, prior cessit <lb/>
             e proelio. sed et Fabricius legatus tunc uulneratus est.</p></div>
 
 <div n="21" subtype="section" type="textpart"><p>elephanti  <lb/>
@@ -11688,7 +11689,7 @@ inde profecturus ad Persicum bellum <lb/>
 
 <div n="6" subtype="section" type="textpart"><p>LXXX  <lb/>
             milia peditum in illo proelio habuisse regem dicunt, equitum <lb/>
-            nero vi milia. ex his caesa referuntur xxxni milia, capti <lb/>
+            nero vi milia. ex his caesa referuntur <choice><sic>xxxni</sic><corr>xxxui</corr></choice> milia, capti <lb/>
             autem sunt mille trecenti.</p></div>
 
 <div n="7" subtype="section" type="textpart"><p>Pyrrhus quinto demum anno, quam  <lb n="10"/>
@@ -11804,7 +11805,7 @@ inde profecturus ad Persicum bellum <lb/>
 </div>
 
 <div n="4" subtype="chapter" type="textpart">
-<div n="1" subtype="section" type="textpart"><p rend="script">Anno ab Vrbe condita <hi rend="italic">CCCCLXXVIII</hi> obseena et dira prodi gia  <lb/>
+<div n="1" subtype="section" type="textpart"><p rend="script">Anno ab Vrbe condita <hi rend="italic">CCCCLXXVIII</hi> <choice><sic>obseena</sic><corr>obscena</corr></choice> et dira <choice><sic>prodi gia</sic><corr>prodigia</corr></choice>  <lb/>
             uel uisa Romae uel nuntiata sunt. aedes Salutis ictu fulminis <lb n="5"/>
             dissoluta, pars muri sub eodem loco de caelo, ut dicunt, tacta <lb/>
             est.</p></div>
@@ -11847,7 +11848,7 @@ inde profecturus ad Persicum bellum <lb/>
 
 
 <pb n="214"/>
-              ingera exhausto penitus suco ubertatis in cinerem extorruit, <lb/>
+              <choice><sic>ingera</sic><corr>iugera</corr></choice> exhausto penitus suco ubertatis in cinerem <choice><sic>extorruit</sic><corr>exterruit</corr></choice>, <lb/>
               ita ut non fruges solum sed et arbores cum imis stirpibus  <lb/>
               absumpsisse referatur. 
 </p>
@@ -12143,7 +12144,7 @@ inde profecturus ad Persicum bellum <lb/>
 
 <div n="8" subtype="section" type="textpart"><p>ibi tnnc Mazeus  <lb/>
             dux exulum Carthalonem filium suum, sacerdotem Herculis, <lb n="5"/>
-            cnr sibi uelut insultans purpuratus occurreret, in crucem sub <lb/>
+            <choice><sic>cnr</sic><corr>cur</corr></choice> sibi uelut insultans purpuratus occurreret, in crucem sub <lb/>
             oculis patriae ita ut erat cum purpuris infulisque suspendit. <lb/>
  
 </p></div>
@@ -12164,7 +12165,7 @@ inde profecturus ad Persicum bellum <lb/>
             nuntius cum attonitam repentino luctu Carthaginem repleuisset,. <lb n="15"/>
             non secus ac si capta esset turbata ciuitas fuit.</p></div>
 
-<div n="12" subtype="section" type="textpart"><p>omnia nlulatibus  <lb/>
+<div n="12" subtype="section" type="textpart"><p>omnia <choice><sic>nlulatibus</sic><corr>ululatibus</corr></choice>  <lb/>
             personabant, clausae ubique ianuae, cuncta publica <lb/>
             priuataque officia damnata, uniuersi ad portum decurrunt <lb/>
             egredientesque de nauibus  <milestone n="227" unit="altpage"/>  paucos, qui cladi superfuerant, de  <lb/>
@@ -12268,7 +12269,7 @@ inde profecturus ad Persicum bellum <lb/>
 </p>
           </div>
 
-<div n="21" subtype="section" type="textpart"><p rend="script">Post haec Carthaginienses cum Tyrum urbem, auotorem  <lb/>
+<div n="21" subtype="section" type="textpart"><p rend="script">Post haec Carthaginienses cum Tyrum urbem, <choice><sic>auotorem</sic><corr>auctorem</corr></choice>  <lb/>
             originis suae, ab Alexandro Magno captam euersamque didicissent, <lb n="10"/>
             timentes transitum eius in Africam futurum, Hamilcarem <lb/>
             quendam cognomento Rhodanum, uirum facundia sollertiaque <lb/>
@@ -12491,7 +12492,7 @@ inde profecturus ad Persicum bellum <lb/>
 <div n="7" subtype="chapter" type="textpart">
 <div n="1" subtype="section" type="textpart"><p rend="script">Anno ab Vrbe condita CCCCLXXXIII id est Appio Claudio  <lb/>
             Q. Fabio consulibus Mamertinis, quorum Messana nobilis <lb/>
-            Sieiliae ciuitas erat, auxilia contra Hieronem Syracusanum <lb/>
+            <choice><sic>Sieiliae</sic><corr>Siciliae</corr></choice> ciuitas erat, auxilia contra Hieronem Syracusanum <lb/>
             regem et Poenorum copias Hieroni iunctas et Appium Claudium <lb n="10"/>
             consulem cum exercitu misere Romani.</p></div>
 
@@ -12540,7 +12541,7 @@ inde profecturus ad Persicum bellum <lb/>
 
 
 <pb n="226"/>
-            quingentis et triginta milibus peditum, trigiuta etiam elephantis <lb/>
+            quingentis et triginta milibus peditum, <choice><sic>trigiuta</sic><corr>triginta</corr></choice> etiam elephantis <lb/>
             ex inprouiso intercessit expugnationemque ciuitatis paulisper  <lb/>
             distulit.</p></div>
 
@@ -12607,7 +12608,7 @@ inde profecturus ad Persicum bellum <lb/>
 
 <pb n="227"/>
             Sardis et Oorsis defensandis nauali proelio praefecerunt, qui a<lb/>
-             Seipione consule uictus, amisso exercitu ipse confertissimis <lb/>
+             <choice><sic>Seipione</sic><corr>Scipione</corr></choice> consule uictus, amisso exercitu ipse confertissimis <lb/>
             hostibus ae inmiscnit ibique interfectus est.</p></div>
 
 <div n="12" subtype="section" type="textpart"><p>eodem anno tria  <lb/>
@@ -12623,7 +12624,7 @@ inde profecturus ad Persicum bellum <lb/>
 </div>
 
 <div n="8" subtype="chapter" type="textpart">
-<div n="1" subtype="section" type="textpart"><p rend="script"> <milestone n="235" unit="altpage"/> Anno ab hec preximo Calatinus consul Camerinam Siciliae  <lb/>
+<div n="1" subtype="section" type="textpart"><p rend="script"> <milestone n="235" unit="altpage"/> Anno ab hec <choice><sic>preximo</sic><corr>proximo</corr></choice> Calatinus consul Camerinam Siciliae  <lb/>
             urbem petens. temere in angustias deduxit exercitum, quas <lb/>
             Poenorum copiae iam dudum praestruxerant.</p></div>
 
@@ -12635,7 +12636,7 @@ inde profecturus ad Persicum bellum <lb/>
             obsessas angustias hoste non urguente transiret. 
 </p></div>
 
-<div n="3" subtype="section" type="textpart"><p> oaesi sunt in  <lb n="15"/>
+<div n="3" subtype="section" type="textpart"><p> <choice><sic>oaesi</sic><corr>caesi</corr></choice> sunt in  <lb n="15"/>
             eo bello omnes trecenti, solus Calpurnius quamuis multis confossus <lb/>
             uulneribus et cadaueribus obtectus euasit.</p></div>
 
@@ -12677,7 +12678,7 @@ inde profecturus ad Persicum bellum <lb/>
             proelio Carthaginienses in fugam uersi sexaginta et quattuor  <lb/>
             naues perdiderunt.</p></div>
 
-<div n="7" subtype="section" type="textpart"><p>uictores consnles in Africam transuecti <lb/>
+<div n="7" subtype="section" type="textpart"><p>uictores <choice><sic>consnles</sic><corr>consules</corr></choice> in Africam transuecti <lb/>
             sunt primamque omnium Clipeam urbem in deditionem receperunt. <lb n="5"/>
             </p></div>
 
@@ -12948,7 +12949,7 @@ inde profecturus ad Persicum bellum <lb/>
 
 <div n="12" subtype="section" type="textpart"><p>uicit aliquando apud Romanos improbissimam  <lb/>
             cupiditatem enormitas miseriarum: nam patres, quibus <lb/>
-            iam nauticae rei pertaesum. esset, decrenere ne amplius <lb/>
+            iam nauticae rei pertaesum. esset, <choice><sic>decrenere</sic><corr>decreuere</corr></choice> ne amplius <lb/>
             quam sexaginta nauium classis ad subsidium haberetur Italiae; <lb n="5"/>
             quod quidem decretum continuo adacti indomita cupiditate <lb/>
             ruperunt.</p></div>
@@ -13007,7 +13008,7 @@ inde profecturus ad Persicum bellum <lb/>
 <div n="1" subtype="section" type="textpart"><p rend="script"> Post haec fessi tot malis Carthaginienses petendam esse <lb/>
             pacem a Romanis decreuerunt. ad quam rem Atilium Regulum <lb/>
             antea ducem Romanum, quem iam per quinque annos captiuum <lb/>
-            detinebant, inter ceteros legatos praecipue mittendum putanerunt: <lb/>
+            detinebant, inter ceteros legatos praecipue mittendum <choice><sic>putanerunt</sic><corr>putauerunt</corr></choice>: <lb/>
             quem non impetrata pace ab Italia reuersum resectis <lb n="5"/>
             palpebris inligatum in machina uigilando necauerunt.</p></div>
 
@@ -13188,8 +13189,8 @@ inde profecturus ad Persicum bellum <lb/>
             carens torrentis inuenit, inpulsa deiecit.</p></div>
 
 <div n="8" subtype="section" type="textpart"><p>aquarum grauissimam  <lb/>
-            cladem granior ignis secuta uastatio est; qui ignis, incertum <lb n="15"/>
-            unde surrexerit, plurimas oiuitatis partes peruagatus cum <lb/>
+            cladem <choice><sic>granior</sic><corr>grauior</corr></choice> ignis secuta uastatio est; qui ignis, incertum <lb n="15"/>
+            unde surrexerit, plurimas <choice><sic>oiuitatis</sic><corr>ciuitatis</corr></choice> partes peruagatus cum <lb/>
             hominum domoramque miserabilem stragem fecit tum etiam <lb/>
             tantum opum uno consumpsit incendio quantum plurimae et <lb/>
             peregrinae uictoriae conferre non possent.</p></div>
@@ -13410,7 +13411,7 @@ inde profecturus ad Persicum bellum <lb/>
 </p>
           </div>
 
-<div n="3" subtype="section" type="textpart"><p rend="script">Tertio deinceps anno miseram ciuitatem sacrilegis saerificiis  <lb n="5"/>
+<div n="3" subtype="section" type="textpart"><p rend="script">Tertio deinceps anno miseram ciuitatem sacrilegis <choice><sic>saerificiis</sic><corr>sacrificiis</corr></choice>  <lb n="5"/>
             male potentes funestauere pontifices; namque decemuiri consuetudinem <lb/>
             priscae superstitionis egressi Gallum uirum et Gallam <lb/>
             feminam cum muliere simul Graeca in foro boario uiuos  <lb/>
@@ -13479,7 +13480,7 @@ inde profecturus ad Persicum bellum <lb/>
 </p>
           </div>
 
-<div n="11" subtype="section" type="textpart"><p> Sequenti anno Manlius Torquatus et Fuluius Flaceus consules <lb/>
+<div n="11" subtype="section" type="textpart"><p> Sequenti anno Manlius Torquatus et Fuluius <choice><sic>Flaceus</sic><corr>Flaccus</corr></choice> consules <lb/>
             primi trans Padum Romanas duxere legiones. pugnatum <lb/>
             est ibi cum Insubribus Gallis, quorum interfecta sunt uiginti <lb/>
             tria milia, quinque milia capta sunt. 
@@ -13643,7 +13644,7 @@ inde profecturus ad Persicum bellum <lb/>
             exercitu paene solus evasit. in eo tamen bello etiam Hannibal <lb/>
             sauciatus est.</p></div>
 
-<div n="8" subtype="section" type="textpart"><p>qui postea, cum in Etrnriam primo uere transiret,  <lb/>
+<div n="8" subtype="section" type="textpart"><p>qui postea, cum in <choice><sic>Etrnriam</sic><corr>Etruriam</corr></choice> primo uere transiret,  <lb/>
             in summo Appennino tempestate correptus, biduo continuo <lb n="10"/>
             inmobiliter cum. exercitu niuibus conclusus et onustus <lb/>
             obriguit. ubi magnus hominum numerus, iumenta conplurima, <lb/>
@@ -13992,7 +13993,7 @@ inde profecturus ad Persicum bellum <lb/>
 </div>
 
 <div n="17" subtype="chapter" type="textpart">
-<div n="1" subtype="section" type="textpart"><p rend="script">Anno ab Vrbe condita DXLIII Claudius Maroellus Syracusas  <lb/>
+<div n="1" subtype="section" type="textpart"><p rend="script">Anno ab Vrbe condita DXLIII Claudius <choice><sic>Maroellus</sic><corr>Marcellus</corr></choice> Syracusas  <lb/>
             opulentissimam urbem Siciliae secunda oppugnatione uix cepit, <lb/>
             quam cum iam pridem obsedisset, Archimedis Syracusani ciuis <lb/>
             admirabili ingenio praediti machinis repulsus expugnare non <lb/>
@@ -14025,7 +14026,7 @@ inde profecturus ad Persicum bellum <lb/>
 <pb n="252"/>
             exercitum et cum ingenti clade omnium per Sedicinum Suessanumque <lb/>
             agrum uia Latina profectus ad Anienem, fluuium <lb/>
-            tribus milibus ab Vrbe consedit incredibili totius cinitatis  <lb/>
+            tribus milibus ab Vrbe consedit incredibili totius <choice><sic>cinitatis</sic><corr>ciuitatis</corr></choice>  <lb/>
 </p></div>
 
 <div n="3" subtype="section" type="textpart"><p>            metu, cum senatu populoque diuersis caris trepido matronae <lb/>
@@ -14156,7 +14157,7 @@ inde profecturus ad Persicum bellum <lb/>
             proconsulare sortitus, ultionem praecipue patris et <lb/>
             patrui animo intendens, Pyrenaeum transgressus primo impetu<lb n="10"/>
             Carthaginem Nonam cepit, ubi stipendia maxima, praesidia <lb/>
-            ualida, copiae auri argeutique magnae Poenorum habebantur; <lb/>
+            ualida, copiae auri <choice><sic>argeutique</sic><corr>argentique</corr></choice> magnae Poenorum habebantur; <lb/>
             ibi etiam Magonem fratrem Hannibalis captum cum ceteris  <lb/>
             Romam misit.</p></div>
 
@@ -14165,7 +14166,7 @@ inde profecturus ad Persicum bellum <lb/>
             ducem cepit, quadraginta ciuitates in deditionem accepit,  <lb/>
             uiginti et sex expugnauit.</p></div>
 
-<div n="3" subtype="section" type="textpart"><p>Hannibal in Italia Cn. Fnluium  <lb/>
+<div n="3" subtype="section" type="textpart"><p>Hannibal in Italia Cn. <choice><sic>Fnluium</sic><corr>Fuluium</corr></choice>  <lb/>
             proconsulem, XI praeterea <milestone n="264" unit="altpage"/>  tribunos et XVII milia militum
 
 <note type="footnote"> AVCTORES § 14 Liuius 26, 35 et 86 <hi rend="italic">(cf. Augustin. C. D</hi>. 3, 19 <lb/>
@@ -14260,7 +14261,7 @@ inde profecturus ad Persicum bellum <lb/>
             Romanam infestantibus aciem: qui a militibus Romanis, quos <lb n="5"/>
 </p></div>
 
-<div n="11" subtype="section" type="textpart"><p>            a uolitando nelites uocant — quod genus militiae paulo ante <lb/>
+<div n="11" subtype="section" type="textpart"><p>            a uolitando <choice><sic>nelites</sic><corr>uelites</corr></choice> uocant — quod genus militiae paulo ante <lb/>
             repertum fuerat, ut lecti agilitate iuuenes cum armis suis post <lb/>
             terga equitum sederent et mox, cum ad hostem uentum esset, <lb/>
             equis desilirent et continuo pedites ipsi, ex alia parte equitibus <lb/>
@@ -14316,13 +14317,13 @@ inde profecturus ad Persicum bellum <lb/>
 <div n="16" subtype="section" type="textpart"><p>post haec anno continuo inter  <lb/>
             Hannibalem et Romanos quies a tumultu bellorum intercessisse <lb/>
             uisa est, quia inquietudo morborum in castris erat et <lb/>
-            grauissima pestilentia utrique exercitus agebautur.</p></div>
+            grauissima pestilentia utrique exercitus <choice><sic>agebautur</sic><corr>agebantur</corr></choice>.</p></div>
 
 <div n="17" subtype="section" type="textpart"><p>interea  <lb/>
             Scipio uniuersa Hispania a Pyrenaeo usque ad Oceanum in <lb n="10"/>
             prouinciam redacta Romam uenit, consul cum Licinio Crasso <lb/>
             creatus in Africam transiit, Hannonem Hamilcaris filium, ducem <lb/>
-            Poenorum, interfecit, exeroitum eius partim caede partim <lb/>
+            Poenorum, interfecit, <choice><sic>exeroitum</sic><corr>exercitum</corr></choice> eius partim caede partim <lb/>
             captiuitate disperdidit: nam undecim milia Poenorum eo <lb/>
             proelio occidit.</p></div>
 
@@ -14363,7 +14364,7 @@ inde profecturus ad Persicum bellum <lb/>
 <pb n="258"/>
             concurrerunt: quare facile ab armatis oppressi sunt. in utrisque  <lb/>
             castris <milestone n="267" unit="altpage"/>  quadraginta milia hominum igni ferroque consumpta <lb/>
-            sunt, oapta quinque milia, duces ipsi miserabiliter  <lb/>
+            sunt, <choice><sic>oapta</sic><corr>capta</corr></choice> quinque milia, duces ipsi miserabiliter  <lb/>
             ambusti aegre effugerunt.</p></div>
 
 <div n="20" subtype="section" type="textpart"><p>Hasdrubal imperator Carthaginem <lb/>
@@ -14428,7 +14429,7 @@ inde profecturus ad Persicum bellum <lb/>
 
 <div n="3" subtype="section" type="textpart"><p>quod diu magnis dneum  <lb/>
             artibus dispositum, magnis copiarum molibus gestum, magnis <lb/>
-            militum uiribus consummatum Romanis uiotoriam contulit. <lb/>
+            militum uiribus consummatum Romanis <choice><sic>uiotoriam</sic><corr>uictoriam</corr></choice> contulit. <lb/>
             octoginta ibi elephanti uel capti uel occisi sunt, Carthaginiensium <lb/>
             interfecta sunt XX milia quingenti Hannibal omnia et <lb n="10"/>
             ante proelium et in proelio expertus, cum paucis, hoc est uix <lb/>
@@ -14620,7 +14621,7 @@ ita lucidissime patet, quia  <milestone n="271" unit="altpage"/>   simili impude
 </p>
           </div>
 
-<div n="15" subtype="section" type="textpart"><p rend="script"> P. Soipione Africano iterum T. Sempronio Longo consulibus, <lb/>
+<div n="15" subtype="section" type="textpart"><p rend="script"> P. <choice><sic>Soipione</sic><corr>Scipione</corr></choice> Africano iterum T. Sempronio Longo consulibus, <lb/>
             apud Mediolanium decem milia Gallorum caesa, sequenti autem <lb/>
             proelio undecim milia Gallorum, Romanorum uero quinque  <lb n="15"/>
             milia occisa sunt.
@@ -14678,7 +14679,7 @@ ita lucidissime patet, quia  <milestone n="271" unit="altpage"/>   simili impude
 </p>
           </div>
 
-<div n="20" subtype="section" type="textpart"><p rend="script">P. Cornelio Soipione M. Acilio Glabrione consulibus Antiochus  <lb n="10"/>
+<div n="20" subtype="section" type="textpart"><p rend="script">P. Cornelio <choice><sic>Soipione</sic><corr>Scipione</corr></choice> M. Acilio Glabrione consulibus Antiochus  <lb n="10"/>
             quamuis Thermopylas occupasset, quarum munimine tutior <lb/>
             propter dubios belli euentus fieret, tamen commisso bello <lb/>
             a consule Glabrione superatus uix cum paucis fugit e proelio <lb/>
@@ -14722,7 +14723,7 @@ ita lucidissime patet, quia  <milestone n="271" unit="altpage"/>   simili impude
             praeerat, bellum nauale gessit; Antiochus uicto <milestone n="273" unit="altpage"/>  Hannibale <lb/>
             atque in fugam acto simulque omni exercitu amisso pacem <lb/>
             rogauit filiumque Africani, quem utrum explorantem an in <lb n="5"/>
-            proelio cepisset inoertum est, ultro remisit.</p></div>
+            proelio cepisset <choice><sic>inoertum</sic><corr>incertum</corr></choice> est, ultro remisit.</p></div>
 
 <div n="23" subtype="section" type="textpart"><p>in Hispania ulteriore <lb/>
             L. Aemilius proconsule a Lusitanis cum uniuerso exercitu  <lb/>
@@ -14838,7 +14839,7 @@ ita lucidissime patet, quia  <milestone n="271" unit="altpage"/>   simili impude
             centum quinque oppida uacuata quassataque bellis ad deditionem  <lb/>
             coegit.</p></div>
 
-<div n="33" subtype="section" type="textpart"><p>eadem aestate etiam L. Postnmius in citeriore <lb/>
+<div n="33" subtype="section" type="textpart"><p>eadem aestate etiam L. <choice><sic>Postnmius</sic><corr>Postumius</corr></choice> in citeriore <lb/>
             Hispania quadraginta milia hostium bello interfecit. Gracchus  <lb/>
             praetor ibidem iterum ducenta oppida expugnauit et  <milestone n="275" unit="altpage"/> cepit. 
 </p>
@@ -14900,7 +14901,7 @@ ita lucidissime patet, quia  <milestone n="271" unit="altpage"/>   simili impude
             sunt Thraces cum rege Cotye et uniuersi cum rege Gentio <lb/>
             lllyrii.</p></div>
 
-<div n="37" subtype="section" type="textpart"><p>itaque aduenionti Crasso consuli Perseus ocenrrit, commissoque  <lb n="15"/>
+<div n="37" subtype="section" type="textpart"><p>itaque <choice><sic>aduenionti</sic><corr>aduenienti</corr></choice> Crasso consuli Perseus ocenrrit, commissoque  <lb n="15"/>
             proelio miserabiliter uicti fugere Romani. sequenti, <lb/>
             pugna paene pari clade partis utriusque in hiberna discessum <lb/>
             est.</p></div>
@@ -15119,7 +15120,7 @@ esset.
 <div n="3" subtype="section" type="textpart"><p>sed Carthaginienses postquam arma tradiderant  <lb/>
             et relicta urbe recedere procul a mari decem milibus passuum <lb n="5"/>
             iussi sunt, dolorem ad desperationem contulerunt aut defensuri <lb/>
-            cinitatem aut cum ipsa per ipsam sepeliendi, ducesque sibi <lb/>
+            <choice><sic>cinitatem</sic><corr>ciuitatem</corr></choice> aut cum ipsa per ipsam sepeliendi, ducesque sibi <lb/>
             duos Hasdrubales creauerunt.</p></div>
 
 <div n="4" subtype="section" type="textpart"><p>arma primum facere adgressi  <lb/>
@@ -15287,7 +15288,7 @@ esset.
 </p>
           </div>
 
-<div n="8" subtype="section" type="textpart"><p rend="script"> Sed mihi quamlibet studiose quaerenti uernmtamen homini<lb n="5"/>
+<div n="8" subtype="section" type="textpart"><p rend="script"> Sed mihi quamlibet studiose quaerenti <choice><sic>uernmtamen</sic><corr>uerumtamen</corr></choice> homini<lb n="5"/>
             tardioris ingenii nusquam omnino causa tertii belli Punici, <lb/>
             quam in tantum Carthago accenderit, ut iuste euerti decerneretur, <lb/>
             eluxit, illudque me uel maxime mouet, quod, si ita <lb/>
@@ -15697,7 +15698,7 @@ esset.
 </p>
 </div>
 
-<div n="2" subtype="section" type="textpart"><p> <lb/> nam cum Metellus praetor Achaeos Boeotiosque coninnctos  <lb/>
+<div n="2" subtype="section" type="textpart"><p> <lb/> nam cum Metellus praetor Achaeos Boeotiosque <choice><sic>coninnctos</sic><corr>coniunctos</corr></choice>  <lb/>
             duobus bellis, hoc est primum apud Thermopylas,  <lb/>
 </p></div>
 
@@ -16334,7 +16335,7 @@ fuit.
             quadraginta milia Romanorum non solum sustinuit sed etiam <lb/>
             uicit pudendisque foederibus adfecit.</p></div>
 
-<div n="4" subtype="section" type="textpart"><p>igitur Scipio Afrioanus  <lb/>
+<div n="4" subtype="section" type="textpart"><p>igitur Scipio <choice><sic>Afrioanus</sic><corr>Africanus</corr></choice>  <lb/>
             Hispaniam ingressus non se ilico ingessit hostibus, ut quasi <lb/>
             incautos circumueniret, sciens numquam hoc genus hominum <lb n="5"/>
             adeo in otium corpore atque animo resolui, ut non ipsa qualitate <lb/>
@@ -16346,7 +16347,7 @@ fuit.
             pugna transegisset, sic quoque parum propemodum hac <lb n="10"/>
             profecit industria.</p></div>
 
-<div n="6" subtype="section" type="textpart"><p>namque ubi copia pugnandi faota est, exercitus  <lb/>
+<div n="6" subtype="section" type="textpart"><p>namque ubi copia pugnandi <choice><sic>faota</sic><corr>facta</corr></choice> est, exercitus  <lb/>
             Romanus oppressus impetu Numantinorum terga conuertit; <lb/>
             sed increpatione et minis obiectantis sese consulis <lb/>
             manuque retinentis tandem indignatus in hostem rediit et <lb/>
@@ -16591,7 +16592,7 @@ Gracchus tribunus plebi <lb/>
             Siciliensis mali fomite, a quo istae uelut scintillae emicantes, <lb/>
             diuersa haec incendia seminarunt.</p></div>
 
-<div n="6" subtype="section" type="textpart"><p>in Sicilia enim post Fnluium 
+<div n="6" subtype="section" type="textpart"><p>in Sicilia enim post <choice><sic>Fnluium</sic><corr>Fuluium</corr></choice> 
 
 <note type="footnote"> AVCTORES cap. 9 <hi rend="italic">Liuius</hi> 68 <hi rend="italic">et 59 (cfPeriocha)</hi> </note>
 
@@ -16761,7 +16762,7 @@ Gracchus tribunus plebi <lb/>
 </p>
           </div>
 
-<div n="11" subtype="section" type="textpart"><p> M. Aemilio L. Oreste consulibus Aetna uasto tremore concnssa <lb/>
+<div n="11" subtype="section" type="textpart"><p> M. Aemilio L. Oreste consulibus Aetna uasto tremore <choice><sic>concnssa</sic><corr>concussa</corr></choice> <lb/>
             exundauit igneis globis, rursusque alio die Lipara insula <lb/>
             et uicinum circa eam mare in tantum efferbuit, ut adustas
 
@@ -16802,7 +16803,7 @@ Gracchus tribunus plebi <lb/>
 </div>
 
 <div n="11" subtype="chapter" type="textpart">
-<div n="1" subtype="section" type="textpart"><p>M. Plantio Hypsaeo M. Faluio Flaoco consulibus uixdum  <lb n="5"/>
+<div n="1" subtype="section" type="textpart"><p>M. Plantio Hypsaeo M. Faluio <choice><sic>Flaoco</sic><corr>Flacco</corr></choice> consulibus uixdum  <lb n="5"/>
             Africam a bellorum excidiis quiescentem horribilis et inusitata <lb/>
             perditio consecuta est.</p></div>
 
@@ -16955,7 +16956,7 @@ Gracchus tribunus plebi <lb/>
             
           </div>
 
-<div n="3" subtype="section" type="textpart"><p> Eodem anno C. Gracchus, Graochi illius qui iam occisus in <lb/>
+<div n="3" subtype="section" type="textpart"><p> Eodem anno C. Gracchus, <choice><sic>Graochi</sic><corr>Gracchi</corr></choice> illius qui iam occisus in <lb/>
             seditione fuerat frater, tribunus plebi per tumultum creatus  <lb/>
             magna reipublicae pernicies fuit.</p></div>
 
@@ -17147,7 +17148,7 @@ Gracchus tribunus plebi <lb/>
 </p>
           </div>
 
-<div n="5" subtype="section" type="textpart"><p>Q. Marcius consul Gallorum gentem sub radioe Alpium  <lb/>
+<div n="5" subtype="section" type="textpart"><p>Q. Marcius consul Gallorum gentem sub <choice><sic>radioe</sic><corr>radice</corr></choice> Alpium  <lb/>
             sitam bello adgressus est. qui cum se Romanis copiis circumsaeptos <lb/>
             uiderent belloque inpares fore intellegerent, occisis <lb/>
             coniugibus ac liberis in flammas sese proiecerunt.</p></div>
@@ -17723,7 +17724,7 @@ Gracchus tribunus plebi <lb/>
 
 <pb n="318"/>
             continuo equis exstimulatis, postquam suas isdem funibus, quibus <lb/>
-            equorum crura nexuerant, indidere coruices, protractae <lb/>
+            equorum crura nexuerant, indidere <choice><sic>coruices</sic><corr>ceruices</corr></choice>, protractae <lb/>
             atque exanimatae sunt, aliae laqueo de subrectis plaustrorum  <lb/>
             temonibus pependerunt.</p></div>
 
@@ -17886,7 +17887,7 @@ Gracchus tribunus plebi <lb/>
 
 
 <pb n="321"/>
-            Giganio interfeotus est. itaque  <milestone n="334" unit="altpage"/> auctoribus tantae seditionis  <lb/>
+            Giganio <choice><sic>interfeotus</sic><corr>interfectus</corr></choice> est. itaque  <milestone n="334" unit="altpage"/> auctoribus tantae seditionis  <lb/>
             occisis quies populo fuit.</p></div>
 
 <div n="11" subtype="section" type="textpart"><p>tunc Cato atque Pompeius rogationem  <lb/>
@@ -17904,7 +17905,7 @@ Gracchus tribunus plebi <lb/>
 
 <div n="13" subtype="section" type="textpart"><p>cum euidenti oppugnaretur  <lb/>
             calumnia et opinione bonorum omnium iure absoluendus <lb/>
-            putaretur, peiurio iudioum condemnatus est. qui <lb/>
+            putaretur, peiurio <choice><sic>iudioum</sic><corr>iudicum</corr></choice> condemnatus est. qui <lb/>
             Zmyrnam conmigrans litterarum studiis intentus consenuit. 
 </p>
           
@@ -17914,7 +17915,7 @@ Gracchus tribunus plebi <lb/>
 </div>
 
 <div n="18" subtype="chapter" type="textpart">
-<div n="1" subtype="section" type="textpart"><p>  <milestone n="335" unit="altpage"/> Anno ab Vrbe eondita DCLIII Sex. Iulio Caesare et L.  <lb n="15"/>
+<div n="1" subtype="section" type="textpart"><p>  <milestone n="335" unit="altpage"/> Anno ab Vrbe <choice><sic>eondita</sic><corr>condita</corr></choice> DCLIII Sex. Iulio Caesare et L.  <lb n="15"/>
             Marcio Philippo consulibus intestinis causis sociale bellum <lb/>
             tota commonit Italia.</p></div>
 
@@ -18291,7 +18292,7 @@ Gracchus tribunus plebi <lb/>
             Sulla cognito inpatiens reuera iuuenis intemperataque ira <lb/>
             percitus cum quattuor legionibus primum ante Vrbem consedit, <lb/>
             ubi Gratidium Marii legatum quasi primam uictimam belli <lb/>
-            ciuilis ocoidit, mox Vrbem cum exercitu inrupit, faces ad infiammandam <lb n="10"/>
+            ciuilis <choice><sic>ocoidit</sic><corr>occidit</corr></choice>, mox Vrbem cum exercitu inrupit, faces ad infiammandam <lb n="10"/>
             Vrbem poposcit. omnibus metu abditis, per  <lb/>
             Sacram uiam cito agmine in forum <milestone n="342" unit="altpage"/>   uenit.
 
@@ -18736,7 +18737,7 @@ Gracchus tribunus plebi <lb/>
 <div n="9" subtype="section" type="textpart"><p> <lb/>
             dumque uiolentius ipse in concurrentem manus adigit, circa <lb/>
             suum uulnus manum percutientis hebetauit. ita eo interfecto, <lb n="5"/>
-            ipse leuiter uulneratus coruices seruo suo praebuit.</p></div>
+            ipse leuiter uulneratus <choice><sic>coruices</sic><corr>ceruices</corr></choice> seruo suo praebuit.</p></div>
 
 <div n="10" subtype="section" type="textpart"><p>Carrinatem <lb/>
             praetorem Sulla iugulauit. inde Praeneste profectus omnes <lb/>
@@ -18797,7 +18798,7 @@ Gracchus tribunus plebi <lb/>
 
 <div n="2" subtype="section" type="textpart"><p>hoc fine conclusa sunt duo bella  <lb/>
             funestissima, sociale Italicum et ciuile Sullanum. haec per <lb/>
-            annos decern tracta plus quam centum quinquaginta milia <lb/>
+            annos <choice><sic>decern</sic><corr>decem</corr></choice> tracta plus quam centum quinquaginta milia <lb/>
             Romanorum consumpserunt;</p></div>
 
 <div n="3" subtype="section" type="textpart"><p>tantumque leetissimorum uirorum  <lb n="5"/>
@@ -18823,7 +18824,7 @@ Gracchus tribunus plebi <lb/>
             nobis respondebitur, iustius quidem socialia uocari oportere, <lb/>
             sed nobis proficere, si ciuilia nominentur. cum enim causis <lb/>
             uocabulis ac studiis paria docentur omnia tum sibi in his <lb n="20"/>
-            tanto plus uindioat reuerentia Christianae religionis quanto
+            tanto plus <choice><sic>uindioat</sic><corr>uindicat</corr></choice> reuerentia Christianae religionis quanto
 
 <note type="footnote"> AVCTORES § 1 <hi rend="italic">Liwus 89 aut 90</hi> § 2 <hi rend="italic">Eutrop. 5, 9 (cf. Oros. <lb/>
             infra §12)</hi> .§ 3 <hi rend="italic">Liuius (l. c.) ? (cf. Orosius 3, 15 § 10 et Liuius</hi> <lb/>
@@ -18859,7 +18860,7 @@ Gracchus tribunus plebi <lb/>
             commouerint, Britannis Gallisque et creati populis et instructi: <lb n="5"/>
 </p></div>
 
-<div n="8" subtype="section" type="textpart"><p>            haec bella, quantum externis proxima tantum longinqua cinilibus, <lb/>
+<div n="8" subtype="section" type="textpart"><p>            haec bella, quantum externis proxima tantum longinqua <choice><sic>cinilibus</sic><corr>ciuilibus</corr></choice>, <lb/>
             quid nisi socialia iure uocitentur, cum ipsi Romani ne <lb/>
             Sertorii quidem aut Perpennae aut Crixi aut Spartaci bella  <lb/>
             ciuilia uspiam nominarint?</p></div>
@@ -19210,7 +19211,7 @@ Gracchus tribunus plebi <lb/>
 </div>
 
 <div n="24" subtype="chapter" type="textpart">
-<div n="1" subtype="section" type="textpart"><p> Anno ab Yrbe condita DCLXXVIIII Lucullo et Cassio consnlibus <lb/>
+<div n="1" subtype="section" type="textpart"><p> Anno ab Yrbe condita DCLXXVIIII Lucullo et Cassio <choice><sic>consnlibus</sic><corr>consulibus</corr></choice> <lb/>
             gladiatores septuaginta et quattuor Capuae a lude  <lb/>
              <milestone n="360" unit="altpage"/> Cn. Lentuli diffugerunt : qui continuo ducibus Crixo et Oenomao <lb/>
             Gallis et Spartaco Thrace Vesuuium montem occupauerunt;<lb n="10"/>
@@ -19256,7 +19257,7 @@ Gracchus tribunus plebi <lb/>
             qui spectandi fuerant spectaturi, utpote lanistae gladiatorum <lb/>
             potius quam militum principes, ediderunt.</p></div>
 
-<div n="4" subtype="section" type="textpart"><p>deinde consnles  <lb n="5"/>
+<div n="4" subtype="section" type="textpart"><p>deinde <choice><sic>consnles</sic><corr>consules</corr></choice>  <lb n="5"/>
             Gellius et Lentulus aduersum eos cum exercitu missi, quorum <lb/>
             Gellius Crixum acerrime pugnantem proelio oppressit, Lentulus <lb/>
             a Spartaco superatus aufugit. post etiam conlatis frustra ambo <lb/>
@@ -19266,7 +19267,7 @@ Gracchus tribunus plebi <lb/>
 <div n="5" subtype="section" type="textpart"><p>itaque  <lb n="10"/>
             exterrita Ciuitate non minore propemodum metu, quam sub <lb/>
             Hannibale circa portas fremente trepidauerat, senatus Crassum <lb/>
-            cum legionibus consulum nouoque supplemen to <milestone n="361" unit="altpage"/>  militum misit.  <lb/>
+            cum legionibus consulum nouoque <choice><sic>supplemen to</sic><corr>supplemento</corr></choice> <milestone n="361" unit="altpage"/>  militum misit.  <lb/>
             
 </p></div>
 
@@ -19326,7 +19327,7 @@ Gracchus tribunus plebi <lb/>
             adhuc ab Africo perdetonuerat, iam Cimbricum a circio fulminabat.  <lb/>
             </p></div>
 
-<div n="12" subtype="section" type="textpart"><p>de Cimbricis illis nubibus adhuo foedi uastique torrentes  <lb/>
+<div n="12" subtype="section" type="textpart"><p>de Cimbricis illis nubibus <choice><sic>adhuo</sic><corr>adhuc</corr></choice> foedi uastique torrentes  <lb/>
             effusi sanguinis agebantur, iam socialis belli  <milestone n="362" unit="altpage"/> nebulas <lb/>
             in magna continuo malorum nubila coituras misera exhalabat  <lb n="15"/>
             Italia.</p></div>
@@ -19370,7 +19371,7 @@ Gracchus tribunus plebi <lb/>
 <div n="15" subtype="section" type="textpart"><p>de Mariana face rogus Sullanae cladis  <lb/>
             accensus est, de isto rogo funestissimo Sullani et ciuilis belli <lb n="5"/>
             per plurimas terrarum partes ardentes sudes sparsi sunt <lb/>
-            multaque inoendia ex uno fomite diffuderunt.</p></div>
+            multaque <choice><sic>inoendia</sic><corr>incendia</corr></choice> ex uno fomite diffuderunt.</p></div>
 
 <div n="16" subtype="section" type="textpart"><p>nam Lepidus et  <lb/>
             Scipio in Italia, Brutus in Gallia, Domitius Cinnae gener in <lb/>
@@ -19640,7 +19641,7 @@ Gracchus tribunus plebi <lb/>
             ipsi, quia se colendos sciebant, futuros custodiere cultores. ergo  <lb/>
             praescii sunt.</p></div>
 
-<div n="16" subtype="section" type="textpart"><p>si praescii sunt, cnr hoc imperium inter tot <lb/>
+<div n="16" subtype="section" type="textpart"><p>si praescii sunt, <choice><sic>cnr</sic><corr>cur</corr></choice> hoc imperium inter tot <lb/>
             annorum saecula eo potissimum tempore ad summam potentiae<lb n="10"/>
             arcem perduxerunt, quo ille nasci inter homines atque adgnosci <lb/>
             ut homo uoluit, post cuius nomen et ipsi pro nihilo <lb/>
@@ -19806,7 +19807,7 @@ quod semper utique confitendum  <milestone n="369" unit="altpage"/>   est, tunc 
             per quadraginta annos fuit.</p></div>
 
 <div n="29" subtype="section" type="textpart"><p>nam DCLXU, ut dixi, anDO ab  <lb/>
-            Vrbe coudita, quo etiam primum ciuile bellum coeperat,
+            Vrbe <choice><sic>coudita</sic><corr>condita</corr></choice>, quo etiam primum ciuile bellum coeperat,
 
 <note type="footnote"> AVCTORES 12 XL annos <hi rend="italic">(itmn Eutrop</hi>. 6,12)..p. 356, 4 XXX. ann <lb/>
             <hi rend="italic">cf. Oros. 5, 19 § 2 et 6, 5 § 11</hi> || ut dixi 5, 19 § 1 </note>
@@ -20115,7 +20116,7 @@ quod semper utique confitendum  <milestone n="369" unit="altpage"/>   est, tunc 
             arrepta naui clam fugit e castris.</p></div>
 
 <div n="20" subtype="section" type="textpart"><p>Lucullus, incruento milite  <lb/>
-            spectator cladis alienae, nouum genus uiotoriae adeptus est; <lb n="5"/>
+            spectator cladis alienae, nouum genus <choice><sic>uiotoriae</sic><corr>uictoriae</corr></choice> adeptus est; <lb n="5"/>
             mox Marium adortus uicit fugauitque: in quo proelio plus <lb/>
             quam undecim milia Marianorum militum interfecta referuntur. <lb/>
 </p></div>
@@ -20125,7 +20126,7 @@ quod semper utique confitendum  <milestone n="369" unit="altpage"/>   est, tunc 
             aut cepit. multi ibi ex his quos Sulla proscripserat, <lb n="10"/>
             interempti sunt.</p></div>
 
-<div n="22" subtype="section" type="textpart"><p>Marius postera die de spelunoa, ubi latebat,  <lb/>
+<div n="22" subtype="section" type="textpart"><p>Marius postera die de <choice><sic>spelunoa</sic><corr>spelunca</corr></choice>, ubi latebat,  <lb/>
             extractus meritas hostilis animi poenas luit.</p></div>
 
 <div n="23" subtype="section" type="textpart"><p>eodem uero  <lb/>
@@ -20137,7 +20138,7 @@ quod semper utique confitendum  <milestone n="369" unit="altpage"/>   est, tunc 
             tempestate correptus octoginta rostratas naues perdidit; ipse <lb/>
             cum quassa iam naui mergeretur, in myoparonem Seleuci <lb/>
             piratae ipso pirata iuuante transiluit. inde Sinopem ac post <lb/>
-            Amisum cum magna diffioultate peruenit.
+            Amisum cum magna <choice><sic>diffioultate</sic><corr>difficultate</corr></choice> peruenit.
 
 <note type="footnote"> 1 peetilentiamqae] pwtia quae <hi rend="italic">D</hi> 2 coc <hi rend="italic">PR</hi> 3 amisse <hi rend="italic">R1</hi> <lb/>
             amissise D 4 clam aufugit <hi rend="italic">R2</hi> II fugit. P || e] de D || luculllus <lb/>
@@ -20228,7 +20229,7 @@ quod semper utique confitendum  <milestone n="369" unit="altpage"/>   est, tunc 
   
             caesa referuntur.</p></div>
 
-<div n="7" subtype="section" type="textpart"><p>Tigranes uix ceutum quinquaginta equitibus  <lb/>
+<div n="7" subtype="section" type="textpart"><p>Tigranes uix <choice><sic>ceutum</sic><corr>centum</corr></choice> quinquaginta equitibus  <lb/>
             comitatus aufugit diademate et tiara ne agnosceretur abiectis. <lb/>
             tunc ad Lucullum totius paene Orientis supplices uenere <lb/>
             legati; imminente hieme per Armeniam in Mesopotamiam <lb/>
@@ -20251,7 +20252,7 @@ quod semper utique confitendum  <milestone n="369" unit="altpage"/>   est, tunc 
 </p>
           </div>
 
-<div n="2" subtype="section" type="textpart"><p>Eodem tempore Cretam insnlam per biennium Metellus  <lb/>
+<div n="2" subtype="section" type="textpart"><p>Eodem tempore Cretam <choice><sic>insnlam</sic><corr>insulam</corr></choice> per biennium Metellus  <lb/>
             euertit diuturnoque bello domitam in potestatem redegit legesque <lb/>
             Minois Romanis legibus permutauit. <lb n="15"/>
             
@@ -20367,7 +20368,7 @@ quod semper utique confitendum  <milestone n="369" unit="altpage"/>   est, tunc 
 
 <div n="2" subtype="section" type="textpart"><p>eodem tempore Castor  <lb/>
             Mithridatis praefectus, qui Phanagorio praeerat , interfectis <lb/>
-            amicis regiis arcem ocoupauit et quattuor Mithridatis filios ad <lb n="10"/>
+            amicis regiis arcem <choice><sic>ocoupauit</sic><corr>occupauit</corr></choice> et quattuor Mithridatis filios ad <lb n="10"/>
             praesidia Romana transmisit.</p></div>
 
 <div n="3" subtype="section" type="textpart"><p>Mithridates accensus ira in  <lb/>
@@ -20413,7 +20414,7 @@ quod semper utique confitendum  <milestone n="369" unit="altpage"/>   est, tunc 
             statimque descendens ad uxores, pelices ac filias suae uenenum  <lb/>
             omnibus dedit.</p></div>
 
-<div n="6" subtype="section" type="textpart"><p>quod cum ipse nonissimus hausisset nec tamen <lb/>
+<div n="6" subtype="section" type="textpart"><p>quod cum ipse <choice><sic>nonissimus</sic><corr>nouissimus</corr></choice> hausisset nec tamen <lb/>
             propter remedia, quibus uitalia sua aduersus noxios sucos saepe<lb n="5"/>
             obstruxerat, ueneno confici posset frustraque spatiaretur, siquo <lb/>
             tandem modo infusa pestis per uenas uegetatione corporis <lb/>
@@ -20475,7 +20476,7 @@ quod semper utique confitendum  <milestone n="369" unit="altpage"/>   est, tunc 
             temperasset, hoc mox habitura supplicii quod remedii ad <lb/>
             tempus habuisset;</p></div>
 
-<div n="12" subtype="section" type="textpart"><p>cum trepidae diuersarum proninciarum  <lb n="10"/>
+<div n="12" subtype="section" type="textpart"><p>cum trepidae diuersarum <choice><sic>proninciarum</sic><corr>prouinciarum</corr></choice>  <lb n="10"/>
             legationes inter succedentes Romanorum duces et truculentiorem <lb/>
             notitia Mithridaten, alternis ad utrumque, prout quemque sors <lb/>
             belli attollebat, et incertis satisfactionibus transferebantur <lb/>
@@ -20525,7 +20526,7 @@ quod semper utique confitendum  <milestone n="369" unit="altpage"/>   est, tunc 
             primum Arabasque perdomuit urbemque eorum, quam Petram  <lb/>
             nominant, cepit;</p></div>
 
-<div n="2" subtype="section" type="textpart"><p>hinc ad Iudaeos, quibus Aristobulus expnlso <lb/>
+<div n="2" subtype="section" type="textpart"><p>hinc ad Iudaeos, quibus Aristobulus <choice><sic>expnlso</sic><corr>expulso</corr></choice> <lb/>
             fratre Hyrcano primus ex sacerdote rex praeerat, atque ad <lb/>
             Hierosolymam urbem eorum Gabinium cum exercitu mittit. <lb n="5"/>
             ipse continuo subsecutus et a patribus urbe susceptus sed a  <lb/>
@@ -20538,7 +20539,7 @@ quod semper utique confitendum  <milestone n="369" unit="altpage"/>   est, tunc 
             tredecim milia ibi Iudaeorum caesa narrantur, cetera multitudo  <lb/>
             in fidem uenit.</p></div>
 
-<div n="4" subtype="section" type="textpart"><p>Pompeius mnros ciuitatis enerti aequarique. <lb/>
+<div n="4" subtype="section" type="textpart"><p>Pompeius <choice><sic>mnros</sic><corr>muros</corr></choice> ciuitatis enerti aequarique. <lb/>
             solo imperauit et, cum aliquantos principes Iudaeorum securi <lb/>
             percussisset, Hyrcanum sacerdotio restituit, Aristobulum captiuum <lb/>
             Romam duxit. hoc bellum Orientis cum uiginti et <lb n="15"/>
@@ -20547,7 +20548,7 @@ quod semper utique confitendum  <milestone n="369" unit="altpage"/>   est, tunc 
 </p>
           </div>
 
-<div n="5" subtype="section" type="textpart"><p> Interea coninratio Catilinae . aduersus patriam per eosdem <lb/>
+<div n="5" subtype="section" type="textpart"><p> Interea <choice><sic>coninratio</sic><corr>coniuratio</corr></choice> Catilinae . aduersus patriam per eosdem <lb/>
             dies in Vrbe habita et prodita, in Etruria uero ciuili bello  <lb/>
             extincta est; Romae conscii coniurationis occisi sunt.</p></div>
 
@@ -21327,7 +21328,7 @@ Caesar per Crassum de rebellione <lb/>
              <lb n="20"/>
 </p></div>
 
-<div n="15" subtype="section" type="textpart"><p>            deinde Menapios, qui sibi propter inmensas palndes atque <lb/>
+<div n="15" subtype="section" type="textpart"><p>            deinde Menapios, qui sibi propter inmensas <choice><sic>palndes</sic><corr>paludes</corr></choice> atque <lb/>
             inpeditissimas siluas munitissimi uidebantur, tribus agminibus  <lb/>
             inuadit  <milestone n="400" unit="altpage"/> nimiaque caede uulgo agitata residuos sapplices in  <lb/>
             deditionem recepit.</p></div>
@@ -21557,7 +21558,7 @@ Caesar per Crassum de rebellione <lb/>
 <div n="16" subtype="section" type="textpart"><p>at uero C. <lb/>
             Caninius legatus bellum apud Pictonas inuenit: ubi magna <lb/>
             hostium multitudo impeditam itinere legionem circumdedit  <lb/>
-            atque ad extremum diserimen adduxit.</p></div>
+            atque ad extremum <choice><sic>diserimen</sic><corr>discrimen</corr></choice> adduxit.</p></div>
 
 <div n="17" subtype="section" type="textpart"><p>porro antem Fabius<lb n="5"/>
             legatus acceptis Caninii litteris in Pictonas proficiscitur <lb/>
@@ -21901,7 +21902,7 @@ Caesar per Crassum de rebellione <lb/>
             Syriam egregia animi uirtute ac moderatione pressisset; <lb/>
             qui et Antiochum copiasque eius ingentes proelio uicit et<lb n="15"/>
             interfecit, Parthos quoque ab Horode in Syriam missos iamque <lb/>
-            ingressos Antiochiam bello expulit duoemque eorum Osagen <lb/>
+            ingressos Antiochiam bello expulit <choice><sic>duoemque</sic><corr>ducemque</corr></choice> eorum Osagen <lb/>
             interfecit.
 
 <note type="footnote"> AVCTORES § 5 Liuius <hi rend="italic">108</hi> </note>
@@ -22476,7 +22477,7 @@ Caesar per Crassum de rebellione <lb/>
             quam arma experiri studeret; qui tamen ilico ut liber <lb/>
             fuit bellum intulit, sed continuo cum toto exercitu suo et <lb n="5"/>
             ipse deletus est. nam uiginti milia hominum in eo bello <lb/>
-            caesa referuntur, duodecim milia cum septuaginta longis nanibus <lb/>
+            caesa referuntur, duodecim milia cum septuaginta longis <choice><sic>nanibus</sic><corr>nauibus</corr></choice> <lb/>
             dedita, quingenti ex uictoribus cecidisse dicuntur.</p></div>
 
 <div n="2" subtype="section" type="textpart"><p>rex  <lb/>
@@ -22612,7 +22613,7 @@ Caesar per Crassum de rebellione <lb/>
 </p>
           </div>
 
-<div n="4" subtype="section" type="textpart"><p>Percensuit latitudinem regni sui Roma oladibus suis atque  <lb/>
+<div n="4" subtype="section" type="textpart"><p>Percensuit latitudinem regni sui Roma <choice><sic>oladibus</sic><corr>cladibus</corr></choice> suis atque  <lb/>
             in suam conuersa caedem singulas quasque gentes ibidem, ubi <lb/>
             domuit, uindicauit. Asiae Europae atque Africae, non dico <lb n="20"/>
             tribus mundi partibus sed totis trium partium angulis <milestone n="427" unit="altpage"/>  edidit  <lb/>
@@ -22763,7 +22764,7 @@ Caesar per Crassum de rebellione <lb/>
             insidiis, inter suorum clades ipse quoque pilo graruiter <lb/>
             uulneratus ab eodem uulnere interpositis diebus est<lb n="5"/>
             mortuus. Hirtius auxilium collegae ferens magnas Antonii <lb/>
-            copias uasta strage deleuit. Caesar catenus castra custodiit. 
+            copias uasta strage deleuit. Caesar <choice><sic>catenus</sic><corr>eatenus</corr></choice> castra custodiit. 
 </p></div>
 
 <div n="5" subtype="section" type="textpart"><p> <lb/>
@@ -22825,7 +22826,7 @@ Caesar per Crassum de rebellione <lb/>
             Paulum fratrem suum in eundem proscriptorum gregem coniecerat. <lb/>
             </p></div>
 
-<div n="12" subtype="section" type="textpart"><p>adiecti sunt postea  <milestone n="432" unit="altpage"/>   ad numerum prosoriptorum  <lb/>
+<div n="12" subtype="section" type="textpart"><p>adiecti sunt postea  <milestone n="432" unit="altpage"/>   ad numerum <choice><sic>prosoriptorum</sic><corr>proscriptorum</corr></choice>  <lb/>
             triginta equites Romani. multae diu et uariae caedes  <lb/>
             actae, domus proscriptorum direptis omnibus dirutae sunt. <lb n="10"/>
 </p></div>
@@ -22933,11 +22934,11 @@ Caesar per Crassum de rebellione <lb/>
 <div n="23" subtype="section" type="textpart"><p>Ventidius Persas et Parthos in Syriam inrumpentes  <lb/>
             tribus bellis maximis fudit regemque eorum Pacorum <lb/>
             in acie interfecit, ea scilicet die, qua Crassus a Parthis <lb/>
-            fuerat ocoisus. Antonius, uix uno castello expugnato, pacem <lb n="10"/>
+            fuerat <choice><sic>ocoisus</sic><corr>occisus</corr></choice>. Antonius, uix uno castello expugnato, pacem <lb n="10"/>
             cum Antiocho fecit, ut ipse tantam rem consummasse uideretur. <lb/>
 </p></div>
 
-<div n="24" subtype="section" type="textpart"><p>            Ventidium Syriae praefeoit iussitque ut Antigono bellum inferret,  <lb/>
+<div n="24" subtype="section" type="textpart"><p>            Ventidium Syriae <choice><sic>praefeoit</sic><corr>praefecit</corr></choice> iussitque ut Antigono bellum inferret,  <lb/>
             qui Iudaeos tum forte debellauerat captisque Hierosolymis <lb/>
             templum spoliauerat regnumque Herodi dederat: quem <lb/>
             continuo uictum in deditionem recepit.</p></div>
@@ -22980,7 +22981,7 @@ Caesar per Crassum de rebellione <lb/>
 </p></div>
 
 <div n="27" subtype="section" type="textpart"><p> <lb/>
-            Caesar interea Tauromenium traiecerat: quem repentino impetn <lb/>
+            Caesar interea Tauromenium traiecerat: quem repentino <choice><sic>impetn</sic><corr>impetu</corr></choice> <lb/>
             Pompeius adflixit: unde multis demersis nauibus suis ac magna. <lb n="5"/>
             multitudine suorum militum perdita, in Italiam Caesar aufugit;  <lb/>
             nec interueniente mora in Siciliam rediit;</p></div>
@@ -23044,7 +23045,7 @@ Caesar per Crassum de rebellione <lb/>
             restituit, sex milia, quorum domini non exstabant, in crucem <lb/>
             egit.</p></div>
 
-<div n="34" subtype="section" type="textpart"><p>ouans Vrbem ingressus ut in perpetuum tribunioiae  <lb/>
+<div n="34" subtype="section" type="textpart"><p>ouans Vrbem ingressus ut in perpetuum <choice><sic>tribunioiae</sic><corr>tribuniciae</corr></choice>  <lb/>
             potestatis esset, a senatu decretum est. his diebus trans <lb/>
             Tiberim e taberna meritoria fons olei terra exundauit ac per <lb/>
             totum diem largissimo riuo fluxit. <lb n="15"/>
@@ -23256,7 +23257,7 @@ Caesar per Crassum de rebellione <lb/>
 
 <div n="18" subtype="section" type="textpart"><p>Cleopatra postquam  <lb/>
             se ad triumphum seruari intellexit, uoluntariam mortem petens, <lb n="5"/>
-            serpentis, ut putatur, morsu in sinistro tacta bracehio exanimis <lb/>
+            serpentis, ut putatur, morsu in sinistro tacta <choice><sic>bracehio</sic><corr>bracchio</corr></choice> exanimis <lb/>
             inuenta est, frustra Caesare etiam Psyllos admouente. qui <lb/>
             uenena serpentum e uulneribus hominum haustu reuocare atque <lb/>
             exsugere solent.</p></div>
@@ -23377,7 +23378,7 @@ Caesar per Crassum de rebellione <lb/>
 </p>
           </div>
 
-<div n="5" subtype="section" type="textpart"><p>Nam cum primum, C. Caesare auunculo suo interfeoto,  <lb/>
+<div n="5" subtype="section" type="textpart"><p>Nam cum primum, C. Caesare auunculo suo <choice><sic>interfeoto</sic><corr>interfecto</corr></choice>,  <lb/>
             ex Apollonia rediens Vrbem ingrederetur, hora circiter tertia <lb/>
             repente liquido ac puro sereno circulus ad speciem caelestis <lb/>
             arcus orbem solis ambiit, quasi eum unum ac potissimum <lb/>
@@ -23440,7 +23441,7 @@ Caesar per Crassum de rebellione <lb/>
 </p>
           </div>
 
-<div n="8" subtype="section" type="textpart"><p> Tertio autem, cum Vrbem triumpbans quintum consul ngressus <lb/>
+<div n="8" subtype="section" type="textpart"><p> Tertio autem, cum Vrbem <choice><sic>triumpbans</sic><corr>triumphans</corr></choice> quintum consul ngressus <lb/>
             est, eo scilicet die, quem supra nominauimus, cum et <lb/>
             Ianum post ducentos annos primum ipse clausit et clarissimum <lb/>
             illud Augusti nomen adsumpsit, quid fidelius ac uerius credi
@@ -23612,7 +23613,7 @@ Caesar per Crassum de rebellione <lb/>
             Raetiamque sortitus maximas fortissimasque gentes Germaniae <lb/>
             armis subegit.</p></div>
 
-<div n="13" subtype="section" type="textpart"><p>nam tunc, neluti ad  <milestone n="446" unit="altpage"/>   constitutum pacis diem  <lb/>
+<div n="13" subtype="section" type="textpart"><p>nam tunc, <choice><sic>neluti</sic><corr>ueluti</corr></choice> ad  <milestone n="446" unit="altpage"/>   constitutum pacis diem  <lb/>
             festinarent, ita omnes ad experientiam belli decisionemue  <lb/>
             foederis undatim gentes commouebantur aut suscepturae
 
@@ -23819,7 +23820,7 @@ Caesar per Crassum de rebellione <lb/>
             per totum Oceani circulum cunctis gentibus una pace conpositis, <lb/>
             Iani portas tertio ipse tunc clausit.</p></div>
 
-<div n="2" subtype="section" type="textpart"><p>quas ex eo per duodeoim  <lb/>
+<div n="2" subtype="section" type="textpart"><p>quas ex eo per <choice><sic>duodeoim</sic><corr>duodecim</corr></choice>  <lb/>
             fere annos quietissimo semper obseratas otio ipsa etiam robigo <lb/>
             signauit, nec prius umquam nisi sub extrema senectute Augusti <lb/>
             pulsatae Atheniensium seditione et Dacorum commotione patuerunt. <lb n="5"/>
@@ -24009,7 +24010,7 @@ Caesar per Crassum de rebellione <lb/>
           
 <div n="1" subtype="chapter" type="textpart">
 <div n="1" subtype="section" type="textpart">
-<p>Sufficientia ut arbitror doeumenta collecta sunt, quibus <lb/>
+<p>Sufficientia ut arbitror <choice><sic>doeumenta</sic><corr>documenta</corr></choice> collecta sunt, quibus <lb/>
             absque ullo arcano, quod paucorum fidelium est, probari de <lb/>
             medio queat, unum illum et uerum Deum, quem Christiana <lb/>
             fides praedicat, et condidisse mundum creaturamque eius, cum <lb n="5"/>
@@ -24027,7 +24028,7 @@ Caesar per Crassum de rebellione <lb/>
             hominum fieret, quod a principio uirtute eius, quem praedicas, <lb n="15"/>
             Dei sic potius coepisse potuisset?</p></div>
 
-<div n="3" subtype="section" type="textpart"><p>quibus quidem neraciter  <lb/>
+<div n="3" subtype="section" type="textpart"><p>quibus quidem <choice><sic>neraciter</sic><corr>ueraciter</corr></choice>  <lb/>
             respondere possem, ad hoc ab initio creatum et institutum <lb/>
             humanum genus, ut sub religione cum pace sine labore uiuens <lb/>
             fracta oboedientiae aeternitatem promereretur, sed abusum
@@ -24958,7 +24959,7 @@ exordio regni eius Petrus, apostolus Domini  <milestone n="467" unit="altpage"/>
             interfecit seseque sacramento prioris militiae continuit.  <lb/>
             </p></div>
 
-<div n="8" subtype="section" type="textpart"><p>tristius ac perniciosins urbi Romae nihil umquam fuisse <lb/>
+<div n="8" subtype="section" type="textpart"><p>tristius ac <choice><sic>perniciosins</sic><corr>perniciosius</corr></choice> urbi Romae nihil umquam fuisse <lb/>
             quam bella ciuilia satis notum est. itaque propter aduentum
 
 <note type="footnote"> AVCTORES § 5 <hi rend="italic">cf. Oros. 2, 17 § 15</hi> § 6 Furius <hi rend="italic">sqq</hi>. — § 7 <lb/>
@@ -25540,7 +25541,7 @@ exordio regni eius Petrus, apostolus Domini  <milestone n="467" unit="altpage"/>
             regum et ducum — maxime losepbi Iudaeorum ducis sententia, <lb/>
             qui captus cum in uincla coiceretur, constantissime <lb/>
             dixerat, sicut Suetonius refert, continuo se ab eodem sed <lb/>
-            imperatore soluendum — imperium adoptus est, relictoque in <lb n="15"/>
+            imperatore soluendum — imperium <choice><sic>adoptus</sic><corr>adeptus</corr></choice> est, relictoque in <lb n="15"/>
             castris ad procurationem obsidionis Hierosolymorum filio Tito, <lb/>
             per Alexandriam profectus est Romam; sed cognita
 
@@ -25631,7 +25632,7 @@ exordio regni eius Petrus, apostolus Domini  <milestone n="467" unit="altpage"/>
             dispersas: quarum numerus ad nonaginta milia hominum fuisse <lb n="5"/>
             narratur.</p></div>
 
-<div n="8" subtype="section" type="textpart"><p>Vespasianus et Titus imperatores magnifioum agentes  <lb/>
+<div n="8" subtype="section" type="textpart"><p>Vespasianus et Titus imperatores <choice><sic>magnifioum</sic><corr>magnificum</corr></choice> agentes  <lb/>
             de Iudaeis triumphum Vrbem ingressi sunt. pulchrum et <lb/>
             ignotum antea cunctis mortalibus inter trecentos uiginti <lb/>
             triumphos, qui  <milestone n="481" unit="altpage"/> a conditione Vrbis usque in id tempus acti  <lb/>
@@ -25797,7 +25798,7 @@ exordio regni eius Petrus, apostolus Domini  <milestone n="467" unit="altpage"/>
             iactantia, sub nomine superatorum hostium de extinctis legionibus  <lb/>
             <milestone n="484" unit="altpage"/>  triumphauit.</p></div>
 
-<div n="5" subtype="section" type="textpart"><p>idemque efferatus snperbia, qua se deum <lb/> 
+<div n="5" subtype="section" type="textpart"><p>idemque efferatus <choice><sic>snperbia</sic><corr>superbia</corr></choice>, qua se deum <lb/> 
             coli uellet, persecutionem in Christianos agi secundus a <lb/>
             Nerone imperauit. quo tempore etiam beatissimus lohannes  <lb/>
             apostolus in Patmum insulam relegatus fuit.</p></div>
@@ -26075,7 +26076,7 @@ exordio regni eius Petrus, apostolus Domini  <milestone n="467" unit="altpage"/>
 
 <pb n="469"/>
             tantum ciuitate permissa: quam ipse in optimum statum <lb/>
-            murorum exstructione reparauit et Aeliam uooari de praenomine <lb/>
+            murorum exstructione reparauit et Aeliam <choice><sic>uooari</sic><corr>uocari</corr></choice> de praenomine <lb/>
             suo praecepit. 
 </p>
           
@@ -26276,7 +26277,7 @@ exordio regni eius Petrus, apostolus Domini  <milestone n="467" unit="altpage"/>
 </div>
 
 <div n="16" subtype="chapter" type="textpart">
-<div n="1" subtype="section" type="textpart"><p> Anno ab Urbe condita DCCCCXXX Lucins Antoninns Commodus  <lb/>
+<div n="1" subtype="section" type="textpart"><p> Anno ab Urbe condita DCCCCXXX Lucins <choice><sic>Antoninns</sic><corr>Antoninus</corr></choice> Commodus  <lb/>
             quintus decimus ab Augusto patri successit in regnum <lb n="20"/>
              <milestone n="496" unit="altpage"/>  mansitque   
 in eo annis xiii. 
@@ -26313,7 +26314,7 @@ in eo annis xiii.
             dedecore deprauatus, gladiatoriis quoque armis saepissime in <lb/>
             ludo depugnauit et in amphitheatro feris sese frequenter obiecit; <lb/>
             interfecit etiam quamplurimos senatores, maxime quos <lb/>
-            animadnertit nobilitate industriaque excellere.</p></div>
+            <choice><sic>animadnertit</sic><corr>animaduertit</corr></choice> nobilitate industriaque excellere.</p></div>
 
 <div n="3" subtype="section" type="textpart"><p>flagitia regis  <lb n="5"/>
             poena Vrbis insequitur. nam fulmine Capitolium ictum, ex <lb/>
@@ -26891,7 +26892,7 @@ morbo obiit.  <lb/>
 
 <div n="7" subtype="section" type="textpart"><p>Germani Alpibus Raetia totaque Itałia penetrata  <lb/>
             Rauennam usque perueniunt; Alamanni Gallias peruagantes <lb/>
-            etiam in ltaliam transeunt; Graecia Macedonia Pontus Asia <lb/>
+            etiam in <choice><sic>ltaliam</sic><corr>italiam</corr></choice> transeunt; Graecia Macedonia Pontus Asia <lb/>
             Gothorum inundatione deletur\'; nam Dacia trans Danuuium in <lb n="5"/>
             perpetuum aufertur; Quadi et Sarmatae Pannonias depopulantur; <lb/>
             Germani ulteriores abrasa potiuntur Hispania; Parthi Mesopotamiam <lb/>
@@ -27183,7 +27184,7 @@ morbo obiit.  <lb/>
             agrestium hominum imperitam et confusam manum militari <lb n="10"/>
 </p></div>
 
-<div n="3" subtype="section" type="textpart"><p>            nirtute conposuil deinde  <milestone n="526" unit="altpage"/>  Carausius quidam, genere quidem  <lb/>
+<div n="3" subtype="section" type="textpart"><p>            <choice><sic>nirtute</sic><corr>uirtute</corr></choice> conposuil deinde  <milestone n="526" unit="altpage"/>  Carausius quidam, genere quidem  <lb/>
             infimus sed consilio et manu promptus, cum ad obseruanda <lb/>
             Oceani litora, quae tunc Franci et Saxones infestabant, positus <lb/>
             plus in perniciem quam in prouectum reipublicae ageret,
@@ -27229,7 +27230,7 @@ morbo obiit.  <lb/>
             Quinquegentiani infestarent, Narseus etiam rex Persarum Orientem <lb/>
             bello premeret.</p></div>
 
-<div n="5" subtype="section" type="textpart"><p>hoc perionlo Diocletianns permotns Marimianum  <lb/>
+<div n="5" subtype="section" type="textpart"><p>hoc perionlo Diocletianns <choice><sic>permotns</sic><corr>permotus</corr></choice> Marimianum  <lb/>
             Herculium ex Caesare fecit Augustum, Constantium <lb n="10"/>
             uero et Maximianum Galerium Caesares legit. Constantius <lb/>
             Herculii Maximiani priuignam Theodoram accepit uxorem, ex <lb/>
@@ -27272,7 +27273,7 @@ morbo obiit.  <lb/>
             praefectus praetorio oppressit Britanniamque post decem annos  <lb/>
             recepit.</p></div>
 
-<div n="7" subtype="section" type="textpart"><p>Gonstantius uero. Caeear in Qallia primo proelio ab <lb/>
+<div n="7" subtype="section" type="textpart"><p>Gonstantius uero. Caeear in <choice><sic>Qallia</sic><corr>gallia</corr></choice> primo proelio ab <lb/>
             Alamannis profligato exercitu suo, uix ipse subreptus est; <lb n="5"/>
             secundo autem secuta est satis secunda uictoria:  <milestone n="527" unit="altpage"/>  nam paucis  <lb/>
             horis sexaginta milia Alamannorum caesa referuntur.</p></div>
@@ -27324,7 +27325,7 @@ morbo obiit.  <lb/>
             magnis consiliis uiribusque superauit.</p></div>
 
 <div n="11" subtype="section" type="textpart"><p>extinotia Persarum copiis  <lb/>
-            ipsoque Narseo in fugam aoto, castra eius innasit, uxores sorores <lb n="5"/>
+            ipsoque Narseo in fugam aoto, castra eius <choice><sic>innasit</sic><corr>inuasit</corr></choice>, uxores sorores <lb n="5"/>
             liberosque cepit, immensam uim gazae Persicae diripuit, <lb/>
             captiuos quamplurimos Persarum nobilium abduxit. reueraus <lb/>
             in Mesopotamiam a Diocletiano plurimo honore susceptus est. <lb/>
@@ -27485,7 +27486,7 @@ morbo obiit.  <lb/>
             bellum nisi uoluntarium, quo exerceri uires non periclitari <lb/>
             queant;</p></div>
 
-<div n="6" subtype="section" type="textpart"><p>res praeterea humano generi huousque incognita: <lb/>
+<div n="6" subtype="section" type="textpart"><p>res praeterea humano generi <choice><sic>huousque</sic><corr>hucusque</corr></choice> incognita: <lb/>
             multorum simul regum patiens consortium et magna concordia <lb/>
             potestasque communis, alias numquam, nunc in commune <lb/>
             prospiciens.</p></div>
@@ -27809,7 +27810,7 @@ morbo obiit.  <lb/>
 
 <div n="3" subtype="section" type="textpart"><p>haec eet lenta illa <lb/>
             paganorum poena sed certa; hinc sani insaniunt, hinc non <lb/>
-            unlnerati conpunguntur, hinc ridentes gemunt, hinc uiuentes <lb/>
+            <choice><sic>unlnerati</sic><corr>uulnerati</corr></choice> conpunguntur, hinc ridentes gemunt, hinc uiuentes <lb/>
             deficiunt, hinc secreto excruciantur, quos nemo persequitur, <lb/>
             hinc iam paucissimi remanserunt, qui numquam aliquo persequente <lb n="15"/>
             puniti sunt.</p></div>
@@ -27873,14 +27874,14 @@ morbo obiit.  <lb/>
             conterritus in Galliam profectus est, ut Constantine genero <lb/>
             aeque dolis iunctus auferret imperium.</p></div>
 
-<div n="10" subtype="section" type="textpart"><p>sed per fiiiam deprehensus  <lb/>
+<div n="10" subtype="section" type="textpart"><p>sed per <choice><sic>fiiiam</sic><corr>filiam</corr></choice> deprehensus  <lb/>
             et proditus, deinde in fugam uersus Massiliae oppressus et <lb n="15"/>
             interfectus est.</p></div>
 
 <div n="11" subtype="section" type="textpart"><p>porro Galerius occiso Seuero Licinium imperatorem  <lb/>
             creauit.</p></div>
 
-<div n="12" subtype="section" type="textpart"><p>cumque perseeutionem a Diocletiano et Maximiano  <lb/>
+<div n="12" subtype="section" type="textpart"><p>cumque <choice><sic>perseeutionem</sic><corr>persecutionem</corr></choice> a Diocletiano et Maximiano  <lb/>
             missam ipse atrocioribus edictis adcumulauisset ac postquam
 
 <note type="footnote"> AVCTORES § 5 — § 10 <hi rend="italic">Eutrop. 10, 2 et 3 exceptis</hi> maxime § 7 <lb/>
@@ -28086,7 +28087,7 @@ gentes  diuersis proeliis subegit. urbem nominis <lb/>
             adspirantem nonis rebus oppressit. tricennalibus suis Dalmatiam <lb n="5"/>
             Caesarem legit.</p></div>
 
-<div n="31" subtype="section" type="textpart"><p>cumque bellum in Persas moliretur, in nilla  <lb/>
+<div n="31" subtype="section" type="textpart"><p>cumque bellum in Persas moliretur, in <choice><sic>nilla</sic><corr>uilla</corr></choice>  <lb/>
             publica iuxta Nicomediam, dispositam bene rempublicam filiis <lb/>
             tradens, diem obiit. 
 </p>
@@ -28097,7 +28098,7 @@ gentes  diuersis proeliis subegit. urbem nominis <lb/>
 </div>
 
 <div n="29" subtype="chapter" type="textpart">
-<div n="1" subtype="section" type="textpart"><p>Anno ab Vrbe eondita MXCII Constantius tricensimus quintus  <lb n="10"/>
+<div n="1" subtype="section" type="textpart"><p>Anno ab Vrbe <choice><sic>eondita</sic><corr>condita</corr></choice> MXCII Constantius tricensimus quintus  <lb n="10"/>
             cum Constantino et Constante fratribus suis adeptus imperium <lb/>
             uiginti et quattuor annis tenuit. fuit inter successores
 
@@ -28251,7 +28252,7 @@ gentes  diuersis proeliis subegit. urbem nominis <lb/>
             quo multa Romanorum uirium profligatio etiam in posterum  <lb/>
             nocuit.</p></div>
 
-<div n="13" subtype="section" type="textpart"><p>Magnentius tamen uictus anfngit ac non multo post <lb/>
+<div n="13" subtype="section" type="textpart"><p>Magnentius tamen uictus <choice><sic>anfngit</sic><corr>aufugit</corr></choice> ac non multo post <lb/>
             apud Lugdunum propria se manu interfecit. Decentius quoque <lb/>
             frater eiusdem, quem Caesarem Galliis praefecerat, apud <lb n="10"/>
             Senonas laqueo uitam finiuit.</p></div>
@@ -28295,7 +28296,7 @@ gentes  diuersis proeliis subegit. urbem nominis <lb/>
             Alamannorum paruis copiis magnam multitudinem fudit, Rheno <lb/>
             Germanos reuinxit.</p></div>
 
-<div n="16" subtype="section" type="textpart"><p>his elatus suooessibus fastigium usurpauit  <lb/>
+<div n="16" subtype="section" type="textpart"><p>his elatus <choice><sic>suooessibus</sic><corr>successibus</corr></choice> fastigium usurpauit  <lb/>
             Augusti et mox Italiam Illyricumque peruadens Constantium <lb/>
             Parthicis proeliis occupatum regni parte priuauit.</p></div>
 
@@ -28304,11 +28305,11 @@ gentes  diuersis proeliis subegit. urbem nominis <lb/>
             ad ciuile bellum reuertitur, in itinere inter Ciliciam Cappadociamque <lb/>
             defunctus est.</p></div>
 
-<div n="18" subtype="section" type="textpart"><p>ita ille qui discissa paee et unitate  <lb/>
-            fidei catholicae Christianos aduersum Christianos armans oiuili, <lb/>
+<div n="18" subtype="section" type="textpart"><p>ita ille qui discissa <choice><sic>paee</sic><corr>pace</corr></choice> et unitate  <lb/>
+            fidei catholicae Christianos aduersum Christianos armans <choice><sic>oiuili</sic><corr>ciuili</corr></choice>, <lb/>
             ut ita dicam, bello Ecclesiae membra dilacerauerat, totum <lb/>
             inquieti tempus imperii molestissimumque spatium uitae suae. <lb n="10"/>
-            bellis. oiuilibus etiam per propinquos et consanguineos excitatis <lb/>
+            bellis. <choice><sic>oiuilibus</sic><corr>ciuilibus</corr></choice> etiam per propinquos et consanguineos excitatis <lb/>
             exercuit exegit expendit. 
 </p>
           
@@ -28472,7 +28473,7 @@ gentes  diuersis proeliis subegit. urbem nominis <lb/>
 <div n="2" subtype="section" type="textpart"><p>qui cum Christianus integra <lb/>
             fide sacramentum militiae gereret sub Iuliano Augusto tribunus <lb/>
             scutariorum, iussus ab imperatore sacrilego aut immolare<lb n="5"/>
-            idolis aut militia excedere, fideliter sciens et graniora Dei esse  <lb/>
+            idolis aut militia excedere, fideliter sciens et <choice><sic>graniora</sic><corr>grauiora</corr></choice> Dei esse  <lb/>
             indicia et meliora promissa, sponte discessit.</p></div>
 
 <div n="3" subtype="section" type="textpart"><p>ita parua interiecta <lb/>
@@ -28695,7 +28696,7 @@ gentes  diuersis proeliis subegit. urbem nominis <lb/>
 
 <div n="2" subtype="section" type="textpart"><p>uastas illas tunc <lb/>
             Aegypti solitudines harenasque diffusas, quas propter sitim ac <lb/>
-            sterilitatem periculesissimamque serpentum abundantiam connersatio <lb/>
+            sterilitatem periculesissimamque serpentum abundantiam <choice><sic>connersatio</sic><corr>conuersatio</corr></choice> <lb/>
             humana non nosset, magna habitantium monachorum  <lb/>
             multitudo compleuerat.</p></div>
 
@@ -28869,7 +28870,7 @@ gentes  diuersis proeliis subegit. urbem nominis <lb/>
             cogerentur, funditus caesae gladiis insequentum contisque <lb n="10"/>
             perierunt.</p></div>
 
-<div n="15" subtype="section" type="textpart"><p>ipse imperator cum sagitta sauoius uersusque in  <lb/>
+<div n="15" subtype="section" type="textpart"><p>ipse imperator cum sagitta <choice><sic>sauoius</sic><corr>saucius</corr></choice> uersusque in  <lb/>
             fugam aegre in cuiusdam uillulae casam deportatus lateret, <lb/>
             ab insequentibus hostibus deprehensus, subiecto igne consumptus <lb/>
             est et, quo magis testimonium punitionis eius et diuinae <lb/>
@@ -28966,9 +28967,9 @@ gentes  diuersis proeliis subegit. urbem nominis <lb/>
 </div>
 
 <div n="34" subtype="chapter" type="textpart">
-<div n="1" subtype="section" type="textpart"><p>Anno abVrbe condita MCXXXII Gratianus quadragesimus ab  <lb/>
+<div n="1" subtype="section" type="textpart"><p>Anno <choice><sic>abVrbe</sic><corr>ab Vrbe</corr></choice> condita MCXXXII Gratianus quadragesimus ab  <lb/>
             Augusto post mortem Valentis sex annis imperium tenuit, <lb n="5"/>
-            quainuis iamdudum antea cum patruo Valente et cum Valentiniano  <lb/>
+            <choice><sic>quainuis</sic><corr>quamuis</corr></choice> iamdudum antea cum patruo Valente et cum Valentiniano  <lb/>
             <milestone n="555" unit="altpage"/>  fratre regnaret.</p></div>
 
 <div n="2" subtype="section" type="textpart"><p>qui cum acum ac paene conlapsum  <lb/>
@@ -29121,7 +29122,7 @@ gentes  diuersis proeliis subegit. urbem nominis <lb/>
 
 <div n="10" subtype="section" type="textpart"><p>ubi Gratianum Augustum <lb/>
             subita incursione perterritum atque in Italiam transire meditantem <lb/>
-            dolis oircumuentum interfecit fratremque eius Valentinianum<lb n="10"/>
+            dolis <choice><sic>oircumuentum</sic><corr>circumuentum</corr></choice> interfecit fratremque eius Valentinianum<lb n="10"/>
             Augustum Italia expulit. Valentinianus in Orientem <lb/>
             refugiens a Theodosio paterna pietate susceptus, mox etiam <lb/>
             imperio restitutus est.
@@ -29175,7 +29176,7 @@ gentes  diuersis proeliis subegit. urbem nominis <lb/>
             sola fide maior — nam longe minor uniuersa apparatus bellici <lb/>
             conparatione — proripuit.</p></div>
 
-<div n="3" subtype="section" type="textpart"><p>Aquileiae tunc Maximns uictoriae  <lb n="10"/>
+<div n="3" subtype="section" type="textpart"><p>Aquileiae tunc <choice><sic>Maximns</sic><corr>Maximus</corr></choice> uictoriae  <lb n="10"/>
             suae spectator insederat. Andragathius comes eius summam <lb/>
             belli administrabat: qui cum largissimis militum copiis ipsamque <lb/>
             magnarum copiarum fortitudinem praecellente consilio omnes
@@ -29277,7 +29278,7 @@ gentes  diuersis proeliis subegit. urbem nominis <lb/>
             Theodosium filiumque eius Honorium usque ad nunc <lb n="10"/>
             et externa bella et ciuilia consecuta sunt, et tamen omnia <lb/>
             paene usque in hodiernum diem et quidem cum fructu simplicis <lb/>
-            sanctaeque uiotoriae uel nullo uel minimo sanguine quieuerunt. <lb/>
+            sanctaeque <choice><sic>uiotoriae</sic><corr>uictoriae</corr></choice> uel nullo uel minimo sanguine quieuerunt. <lb/>
             </p>
           </div>
 
@@ -29590,7 +29591,7 @@ gentes  diuersis proeliis subegit. urbem nominis <lb/>
             relictus ad maturitatem uirilis aetatis euaserit istique propemodum <lb/>
             soli inueniantur, quos ob egregiam patris ac suam <lb/>
             fidem et diuisos et destitutos Christi tutela prouexerit — <lb n="10"/>
-            Africam excerptam a societate reipublieae sibi usurpare ausus <lb/>
+            Africam excerptam a societate <choice><sic>reipublieae</sic><corr>reipublicae</corr></choice> sibi usurpare ausus <lb/>
             est, gentili magis licentia contentus quam ambitu regiae affectationis <lb/>
             inflatus.</p></div>
 
@@ -29900,7 +29901,7 @@ gentes  diuersis proeliis subegit. urbem nominis <lb/>
 </p>
 </div>
 
-<div n="9" subtype="section" type="textpart"><p>quorum unns Christianus propiorque Romano et, ut res    <milestone n="569" unit="altpage"/>  docuit,  <lb/>
+<div n="9" subtype="section" type="textpart"><p>quorum <choice><sic>unns</sic><corr>unus</corr></choice> Christianus propiorque Romano et, ut res    <milestone n="569" unit="altpage"/>  docuit,  <lb/>
             timore Dei mitis in caede, alius paganus barbarus et uere  <lb/>
             Scytha, qui non tantum gloriam aut praedam quantum inexsaturabili <lb/>
             crudelitate ipsam caedem amaret in caede, et hic
@@ -30267,7 +30268,7 @@ gentes  diuersis proeliis subegit. urbem nominis <lb/>
             a sanctis sedibus longe ut ferunt et medio interiectu Vrbis  <lb/>
             aberat.</p></div>
 
-<div n="8" subtype="section" type="textpart"><p>itaque magno spectaculo omnium disposita per singnlos <lb/>
+<div n="8" subtype="section" type="textpart"><p>itaque magno spectaculo omnium disposita per <choice><sic>singnlos</sic><corr>singulos</corr></choice> <lb/>
             singula et super capita elata palam aurea atque argentea uasa<lb n="10"/>
             portantur; exertis undique ad defensionem gladiis pia pompa  <lb/>
             munitur;</p></div>
@@ -30901,7 +30902,7 @@ gentes  diuersis proeliis subegit. urbem nominis <lb/>
             Magnum uel quemquam alium regum fuisse historiae <lb n="5"/>
             ferunt.</p></div>
 
-<div n="14" subtype="section" type="textpart"><p>is simnl ut cum agmine milltum ad Vrbem pergens <lb/>
+<div n="14" subtype="section" type="textpart"><p>is <choice><sic>simnl</sic><corr>simul</corr></choice> ut cum agmine <choice><sic>milltum</sic><corr>militum</corr></choice> ad Vrbem pergens <lb/>
             litore egressus est, occursu comitis Marini territus et in fugam <lb/>
             uersus, arrepta naui solus Carthaginem rediit atque ibi continuo <lb/>
             militari manu interfectus est. Sabinus gener eius Constantinopolim <lb/>
@@ -30957,7 +30958,7 @@ gentes  diuersis proeliis subegit. urbem nominis <lb/>
 </div>
 
 <div n="43" subtype="chapter" type="textpart">
-<div n="1" subtype="section" type="textpart"><p> <milestone n="584" unit="altpage"/>  Anno ab Vrbe condita MCLXVIII Constantins comes apud   <lb n="5"/>
+<div n="1" subtype="section" type="textpart"><p> <milestone n="584" unit="altpage"/>  Anno ab Vrbe condita MCLXVIII <choice><sic>Constantins</sic><corr>Constantius</corr></choice> comes apud   <lb n="5"/>
             Arelatem Galliae urbem consistens, magna rerum gerendarum <lb/>
             industria Gothos a Narbona expulit atque abire in Hispaniam <lb/>
             coegit interdicto praecipue atque intercluso omni commeatu <lb/>
@@ -31121,7 +31122,7 @@ gentes  diuersis proeliis subegit. urbem nominis <lb/>
             habitam fratri reddidit;</p></div>
 
 <div n="13" subtype="section" type="textpart"><p>Romanae securitati periculum suum <lb/>
-            ebtulit, ut aduersus ceteras gentes, quae per Hispanias consedissent,  <lb/>
+            <choice><sic>ebtulit</sic><corr>obtulit</corr></choice>, ut aduersus ceteras gentes, quae per Hispanias consedissent,  <lb/>
             sibi pugnaret et Romanis uinceret.</p></div>
 
 <div n="14" subtype="section" type="textpart"><p>quamuis et ceteri <lb/>
@@ -31170,7 +31171,7 @@ gentes  diuersis proeliis subegit. urbem nominis <lb/>
 
 <div n="16" subtype="section" type="textpart"><p>ex quo utcumque concesserim, ut licenter Christiana  <lb/>
             tempora reprehendantur, si quid a conditione mundi  <lb n="5"/>
-            usque ad nunc simili faotum felicitate  <milestone n="587" unit="altpage"/>  te doceatur.</p></div>
+            usque ad nunc simili <choice><sic>faotum</sic><corr>factum</corr></choice> felicitate  <milestone n="587" unit="altpage"/>  te doceatur.</p></div>
 
 <div n="17" subtype="section" type="textpart"><p>manifestauimus,  <lb/>
             ut arbitror, atque ostendimus non magis uerbo paene <lb/>

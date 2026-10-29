@@ -88,6 +88,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 1 mot collé, 1 césure.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -450,8 +451,7 @@
 </div>
 
 <div n="10" subtype="section" type="textpart">
-<p>Atque ego rursus exordiens: Beatos nos esse uo- <lb/>
-            lumus, inquam. — l\'ix hoc effuderam, occurrerunt una uoce consentientes.<lb n="20"/>
+<p>Atque ego rursus exordiens: Beatos nos esse uo<lb break="no"/>lumus, inquam. — l\'ix hoc effuderam, occurrerunt una uoce consentientes.<lb n="20"/>
             — Uideturne uobis, inquam, beatus esse, qui quod uult <lb/>
             non habet? — Negauerunt. — Quid? omnis, qui quod uult habet. <lb/>
             beatus est? — Tum mater: Si bona, inquit, uelit et habeat, beatus <lb/>
@@ -1194,7 +1194,7 @@
             qiiucso <hi rend="italic">LM edd</hi>. 27 stultū**A </note> <lb n="30"/>
              
 <pb n="112"/>
-            nequitiam dixeramus esse ab eo dictam, quod necquicquam sit, cui <lb/>
+            nequitiam dixeramus esse ab eo dictam, quod <choice><sic>necquicquam</sic><corr>nec quicquam</corr></choice> sit, cui <lb/>
             contrariam frugalitatem a fruge fuisse nominatam. ergo in his duobus <lb/>
             contrariis, hoc est frugalitate atque nequitia, illa duo uidentur <lb/>
             eminere, esse et non esse. egestati autem, de qua quaestio est, quid <lb/>

@@ -89,6 +89,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 1 mot mal lu, 1 mot collé.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -1623,7 +1624,7 @@
             totiens de uase contumeliae uas honoris efficitur. ut uero <lb/>
             de bonis mali efficiantur, hoc facilius in se recipit humana <lb/>
             fragilitas, ut de uase honoris in uas contumeliae transeat, sicut<lb n="5"/>
-            legimus inAbacuc: et escae eius electae, de quibus etiam <lb/>
+            legimus <choice><sic>inAbacuc</sic><corr>in Abacuc</corr></choice>: et escae eius electae, de quibus etiam <lb/>
             dicitur: aurum ut paleas reputabit, Hieremias quoque: quomodo <lb/>
             obscuratum est aurum, mutatus est color optimus? <lb/>
             sicut et apostolus dicit: tollam ergo membra Christi <lb/>
@@ -3728,7 +3729,7 @@
             28 iuditio P 29 oculto P ocultorum P 30 quisquae P </note> <lb n="30"/>
              
 <pb n="88"/>
-            condemnatur, bonum facere potuisse conuincitur. magua est ergo <lb/>
+            condemnatur, bonum facere potuisse conuincitur. <choice><sic>magua</sic><corr>magna</corr></choice> est ergo <lb/>
             uis animi in utramque partem, dum et super honestate confunditur <lb/>
             et super inhonestate confunditur. et ideo dicitur per <lb/>
             prophetam: palpebrae eius interrogant filios hominum, <lb/>

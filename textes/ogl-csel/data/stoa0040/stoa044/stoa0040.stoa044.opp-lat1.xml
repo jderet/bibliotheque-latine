@@ -93,6 +93,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 2 mots collés, 1 mot mal lu.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -1079,7 +1080,7 @@
             concupisces. occasione autem accepta peccatum per <lb/>
             mandatum operatum est in me omnem concupiscentiam. <lb/>
             neque ista dicendo legem uituperat, immo etiam laudat, cum <lb/>
-            dicit: lexquidem sancta et mandatum sanctum etiustum <lb n="15"/>
+            dicit: lexquidem sancta et mandatum sanctum <choice><sic>etiustum</sic><corr>et iustum</corr></choice> <lb n="15"/>
             et bonum. quod ergo bonum est, inquit, mihi factum <lb/>
             est mors? absit, sed peccatum, ut appareat peccatum, <lb/>
             per bonum mihi operatum est mortem. et iterum legem <lb/>
@@ -1606,7 +1607,7 @@
 <p>Dicam etiam aliquid latius. superius metuebam, cum <lb/>
             diceret Pelagius \'adiuuante gratia dei posse esse hominem <lb/>
             sine peccato\\. ne forte eandem gratiam possibilitatem diceret <lb/>
-            esse naturae a deo couditae cum libero arbitrio, sicut in libro <lb/>
+            esse naturae a deo <choice><sic>couditae</sic><corr>conditae</corr></choice> cum libero arbitrio, sicut in libro <lb/>
             illo est, quem tamquam eius accepi, cui respondi, et eo modo <lb n="5"/>
             nescientes iudices falleret. nunc uero cum anathematizat eos <lb/>
             qui gratiam dei et adiutorium non ad singulos actus dicunt <lb/>
@@ -1695,7 +1696,7 @@
             an non prophetia eius est: spiritus enim manifeste dicit, <lb/>
             quia in nouissimis temporibus recedent quidam a fide <lb/>
             intendentes spiritibus seductoribus, doctrinis daemoniorum <lb/>
-            etcetera?eratet doctor gentium in fide et ueritate <lb n="10"/>
+            etcetera?<choice><sic>eratet</sic><corr>erat et</corr></choice> doctor gentium in fide et ueritate <lb n="10"/>
             et operabatur uirtutes et sanitates; nam mordentem uiperam <lb/>
             manu excussit illaesa et paralyticus ad uerbum eius restituta <lb/>
             continuo salute surrexit. adiutoria quae dicat obscurum est, <lb/>

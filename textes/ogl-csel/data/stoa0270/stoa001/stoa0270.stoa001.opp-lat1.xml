@@ -86,6 +86,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 1 mot mal lu.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -1751,7 +1752,7 @@ tanta claritudine facies eius renidebat, ut intueri eum populus non<lb/>
 </div>
 
 <div n="6" subtype="section" type="textpart"><p>cum XL in deserto annos <lb/>
-            populo praefuisset. ceterum Hebraei ob lianc causam tanto tempore<lb/>
+            populo praefuisset. ceterum Hebraei ob <choice><sic>lianc</sic><corr>hanc</corr></choice> causam tanto tempore<lb/>
             in eremo fuisse traduntur, donec omnes, qui uerbis Dei non <lb/>
             crediderant, interirent. excepto enim Iesu <sic>tet</sic> Chaleb nemo ultra <lb n="10"/>
             xx annos natus, Aegypto profectus, Iordanem transiit. 

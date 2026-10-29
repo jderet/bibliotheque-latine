@@ -88,6 +88,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 1 mot mal lu.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -875,7 +876,7 @@ ceruicem monilibus.
 </p>
           </div>
 
-<div n="33" subtype="section" type="textpart"><p rend="script"> <milestone n="7" unit="altchapter"/> Uicta est spes anari, rumpuntur uetusta horrea messibus <note type="margin"> B </note> <lb/>
+<div n="33" subtype="section" type="textpart"><p rend="script"> <milestone n="7" unit="altchapter"/> Uicta est spes <choice><sic>anari</sic><corr>auari</corr></choice>, rumpuntur uetusta horrea messibus <note type="margin"> B </note> <lb/>
             nonis. \'minus habui et frustra seruaui; plus natum est. cui <lb n="20"/>
             congrego? dum incrementa pretiorum aucupor, amisi usum
 

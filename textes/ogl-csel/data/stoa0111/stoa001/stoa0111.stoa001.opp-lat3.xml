@@ -88,6 +88,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 3 mots mal lus.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -105,7 +106,7 @@
             aperiebant, iunctus est cum eo loco, quo sunt memoriae <lb/>
             concupiscentiae.</p></div>
 
-<div n="2" subtype="section" type="textpart"><p>In eo ergo loco cum uenitnr, ut tamen  commonuerunt deductores sancti illi, qui nobiscum erant, <lb n="10"/>
+<div n="2" subtype="section" type="textpart"><p>In eo ergo loco cum <choice><sic>uenitnr</sic><corr>uenitur</corr></choice>, ut tamen  commonuerunt deductores sancti illi, qui nobiscum erant, <lb n="10"/>
             dicentes: consuetudo est, ut fiat hic oratio ab his qui <lb/>
             ueniunt, quando de eo loco primitus uidetur mons Dei: sicut <lb/>
             et nos fecimus. Habebat autem de eo loco ad montem <lb/>
@@ -719,7 +720,7 @@
             cuicumque incommoditas fuerit, uadent ibi et tollent surculos et <lb/>
             prode illis est.</p></div>
 
-<div n="4" subtype="section" type="textpart"><p>Hoc autem referente sancto episcepo de Arabia  <lb/>
+<div n="4" subtype="section" type="textpart"><p>Hoc autem referente sancto <choice><sic>episcepo</sic><corr>episcopo</corr></choice> de Arabia  <lb/>
             cognouimus; nam ipse nobis dixit nomen ipsius arboris, quemadmodum <lb/>
             appellant eam graece, id est dendros alethiae, quod <lb/>
             nos dicimus arbor ueritatis. Qui tamen sanctus episcopus <lb n="5"/>
@@ -1267,7 +1268,7 @@
             Tunc dixerunt nobis sancti, qui nobiscum iter faciebant, id <lb/>
             est loci notores: haec est uallis Corra, ubi sedit sanctus <lb/>
             Helias Thesbites temporibus Achab regis, qua famis fuit, et <lb n="5"/>
-            insso Dei coruus ei escam portabat et de eo torrente aquam <lb/>
+            <choice><sic>insso</sic><corr>iusso</corr></choice> Dei coruus ei escam portabat et de eo torrente aquam <lb/>
             bibebat. Nam hic torrens, quem uides de ipsa ualle percurrentem <lb/>
             in Iordanem, hic est Corra.</p></div>
 

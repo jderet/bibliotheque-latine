@@ -92,6 +92,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 33 mots mal lus, 2 mots coupés, 5 mots collés, 1 césure.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -986,7 +987,7 @@
             diuersitas, cum ipsa significatione ad unum omnia reuoluantur. <lb/>
 </p></div>
 
-<div n="22" subtype="section" type="textpart"><p>            Anstoteles quamuis secum lpse dissideat ac repugnantia sibi et  <lb/>
+<div n="22" subtype="section" type="textpart"><p>            Anstoteles quamuis secum <choice><sic>lpse</sic><corr>ipse</corr></choice> dissideat ac repugnantia sibi et  <lb/>
             dicat et sentiat, in summum tamen unam mentem mundo <lb n="10"/>
             praeesse testatur.</p></div>
 
@@ -1415,7 +1416,7 @@
 </p>
           </div>
 
-<div n="17" subtype="section" type="textpart"><p>Exequerer nunc testimonia ceterarum, nisi et haec sufticerent  <lb/>
+<div n="17" subtype="section" type="textpart"><p>Exequerer nunc testimonia ceterarum, nisi et haec <choice><sic>sufticerent</sic><corr>sufficerent</corr></choice>  <lb/>
             et illa opportunioribus locis reseruarem. sed cum defendamus <lb n="5"/>
             causam ueritatis aput eos qui aberrantes a ueritate falsis <lb/>
             religionibus seruiunt, quod genus probationis aduersus eos magis <lb/>
@@ -3414,7 +3415,7 @@
             Uulcano Marte Mercurio, quos maiorum gentium deos appellauit,  <lb/>
             timuit aperte coner.</p></div>
 
-<div n="27" subtype="section" type="textpart"><p>et idcirco ait late hocpatere, ut <lb/>
+<div n="27" subtype="section" type="textpart"><p>et idcirco ait late <choice><sic>hocpatere</sic><corr>hoc patere</corr></choice>, ut <lb/>
             idem de Ioue ceterisque antiquioribus diis intellegamus, quorum <lb/>
             memoriam si eadem ratione ueteres consecrauerunt, qua se imaginem<lb n="10"/>
             nomenque filiae consecraturum esse dicit, ignosci <lb/>
@@ -4541,7 +4542,7 @@ admittitur.</p></div>
             ab humanitate desciscunt, quam qui rudes et inperiti ad mala <lb/>
             facinora bonorum ignoratione labuntur.</p></div>
 
-<div n="6" subtype="section" type="textpart"><p>apparet tamen antieum  <lb/>
+<div n="6" subtype="section" type="textpart"><p>apparet tamen <choice><sic>antieum</sic><corr>anti eum</corr></choice>  <lb/>
             esse hunc immolandorum hominum ritum, siquidem Saturnus <lb/>
             in Latio eodem genere sacrificii cultus est, non quidem <lb n="15"/>
             ut homo ad aram immolaretur, sed ut in Tiberim de ponte <lb/>
@@ -4850,7 +4851,7 @@ admittitur.</p></div>
 
 <div n="33" subtype="section" type="textpart"><p>Hercules eo cum delatus <lb/>
             esset famemque pateretur, aratorem quendam conspexit <lb/>
-            operantem ab eoque petere coepit, ut sibi unum bouem ueuderet. <lb/>
+            operantem ab eoque petere coepit, ut sibi unum bouem <choice><sic>ueuderet</sic><corr>uenderet</corr></choice>. <lb/>
             enimuero ille negauit fieri posse, quod spes sua omnis  <lb/>
             colendae terrae duobus illis iuuencis niteretur.</p></div>
 
@@ -5469,7 +5470,7 @@ admittitur.</p></div>
             et postmodum persuasione inueterata in susceptis prauissime <lb/>
             religionibus perseuerauerint.</p></div>
 
-<div n="2" subtype="section" type="textpart"><p>gestio enim conuictis inanus  <lb/>
+<div n="2" subtype="section" type="textpart"><p>gestio enim conuictis <choice><sic>inanus</sic><corr>manus</corr></choice>  <lb/>
             et hominum inpia uanitate detecta singularis dei adserere <lb/>
              maiestatem, suscipiens utilius et maius officium reuocandi homines <lb n="15"/>
             a prauis itineribus et in gratiam secum ipsos reducendi, <lb/>
@@ -5960,7 +5961,7 @@ admittitur.</p></div>
             <sic>pattoruium</sic><corr>patrocinium</corr> ueritatis suscipere non audes. at mortem ut <sic>sapretts</sic><corr>sapiens</corr> <lb/>
             contemnere debuisti, et erat multo pulchrius ut ob <lb/>
             benedicta potius quam ob maledicta morerere, nec plus tibi <lb/>
-            laudis Philippicae adferre potuerunt quam discussus error geueris <lb/>
+            laudis Philippicae adferre potuerunt quam discussus error <choice><sic>geueris</sic><corr>generis</corr></choice> <lb/>
             humani et mentes hominum ad sanitatem tua disputatione <lb n="10"/>
             reuocatae.</p></div>
 
@@ -6079,7 +6080,7 @@ admittitur.</p></div>
             illosne qui falsam religionem suscipiunt an eos qui  <lb/>
             nullam.</p></div>
 
-<div n="18" subtype="section" type="textpart"><p>sed ut dixi uenia coucedi potest inperitis et qui se<lb n="15"/>
+<div n="18" subtype="section" type="textpart"><p>sed ut dixi uenia <choice><sic>coucedi</sic><corr>concedi</corr></choice> potest inperitis et qui se<lb n="15"/>
             sapientes non esse fateantur: iis uero non potest, qui sapientiam  <lb/>
             professi stultitiam potius exhibent.</p></div>
 
@@ -6133,7 +6134,7 @@ admittitur.</p></div>
             ipsum peruenire ad hanc scientiam non potest, nisi doceatur <lb/>
             a deo.</p></div>
 
-<div n="24" subtype="section" type="textpart"><p>ita philosophi quod summum fuit humauae sapicntiae  <lb/>
+<div n="24" subtype="section" type="textpart"><p>ita philosophi quod summum fuit <choice><sic>humauae</sic><corr>humanae</corr></choice> <choice><sic>sapicntiae</sic><corr>sapientiae</corr></choice>  <lb/>
             adsecuti sunt, ut intellegerent quid non sit: illud adsequi nequiuerunt, <lb n="15"/>
             ut dicerent quid sit. nota Ciceronis uox est: utinam <lb/>
             tam facile uera inuenire possem quam falsa conuincere. <lb/>
@@ -6252,7 +6253,7 @@ admittitur.</p></div>
             qui neque cum fierent sentiebant neque cum coluntur sciunt; <lb/>
             nec enim sensum consecratione sumpserunt.</p></div>
 
-<div n="10" subtype="section" type="textpart"><p>non placcbat  <lb/>
+<div n="10" subtype="section" type="textpart"><p>non <choice><sic>placcbat</sic><corr>placebat</corr></choice>  <lb/>
             Persio quod aurea. uasa templis inferantur, superuacuum putanti <lb/>
             esse inter religiones quod non sanctitatis, sed auaritiae <lb/>
             sit instrumentum.</p></div>
@@ -6320,7 +6321,7 @@ admittitur.</p></div>
             esse aureum, hieme frigidum, laneum uero utrique tempori  <lb/>
             aptum.</p></div>
 
-<div n="18" subtype="section" type="textpart"><p>idem auream barbain detrahens Aesculapio incongruens <lb/>
+<div n="18" subtype="section" type="textpart"><p>idem auream <choice><sic>barbain</sic><corr>barbam</corr></choice> detrahens Aesculapio incongruens <lb/>
             et inicum esse ait, cum Apollo pater eius inberbis adhuc <lb/>
             esset ac leuis, priorem filium quam patrem barbatum <lb n="20"/>
             uideri.</p></div>
@@ -6592,7 +6593,7 @@ admittitur.</p></div>
             qui deo et patri indulgentissimo sua sibi opera praetulerunt. <lb/>
             </p></div>
 
-<div n="7" subtype="section" type="textpart"><p>sed quid mirum si aut barhari aut inperiti homines  <lb/>
+<div n="7" subtype="section" type="textpart"><p>sed quid mirum si aut <choice><sic>barhari</sic><corr>barbari</corr></choice> aut inperiti homines  <lb/>
             errant, cum etiam philosophi Stoicae disciplinae in eadem sint <lb/>
             opinione, ut omnia caelestia quae mouentur in deorum numero <lb n="15"/>
             habenda esse censeant? siquidem Lucilius Stoicus aput Ciceronem <lb/>
@@ -6644,7 +6645,7 @@ admittitur.</p></div>
             nisi forte nullo discrimine tam innumerabiles, tam minutos  <lb/>
             deos aceruatim colere debemus.</p></div>
 
-<div n="12" subtype="section" type="textpart"><p>quid quod argumentum iliud,<lb n="10"/>
+<div n="12" subtype="section" type="textpart"><p>quid quod argumentum <choice><sic>iliud</sic><corr>illud</corr></choice>,<lb n="10"/>
             quo colligunt uniuersa caelestia deos esse, in contrarium ualet? <lb/>
             nam si deos idcirco esse opinantur, quia certos et rationabiles <lb/>
             cursus habent, errant. ex hoc enim apparet deos non esse, quod  <lb/>
@@ -6760,7 +6761,7 @@ admittitur.</p></div>
             distinxit et tenebras ipsas multis minutisque luminbus temperauit.  <lb/>
             </p></div>
 
-<div n="24" subtype="section" type="textpart"><p>quanto igitur Naso prudentius quam illi qui sapieutiae <lb/>
+<div n="24" subtype="section" type="textpart"><p>quanto igitur Naso prudentius quam illi qui <choice><sic>sapieutiae</sic><corr>sapientiae</corr></choice> <lb/>
             studere se putant, qui sensit a deo lumina illa ut horrorem<lb n="15"/>
             tenebrarum depellerent instituta! is eum librum quo Phaenomena. <lb/>
             breuiter conprehendit his tribus uersibus terminauit: <lb/>
@@ -6926,7 +6927,7 @@ admittitur.</p></div>
             partes eius, quia neque domus habere dominium sui potest <lb/>
             neque illa de quibus domus constat.</p></div>
 
-<div n="42" subtype="section" type="textpart"><p>non tantum igitur ucritate,  <lb/>
+<div n="42" subtype="section" type="textpart"><p>non tantum igitur <choice><sic>ucritate</sic><corr>ueritate</corr></choice>,  <lb/>
             sed etiam uerbis suis reuincuntur. sicut enim domus <lb n="15"/>
             in usum habitandi facta per se nihil sentit dominoque subiecta <lb/>
             est, qui eam fecit aut incolit, ita mundus per se nihil sentiens <lb/>
@@ -7888,7 +7889,7 @@ admittitur.</p></div>
             est igitur mundum prouidentia instructum quam materiam  <lb/>
             prouidentia conglobatam.</p></div>
 
-<div n="51" subtype="section" type="textpart"><p>quare non oportuit pntare idcirco <lb/>
+<div n="51" subtype="section" type="textpart"><p>quare non oportuit <choice><sic>pntare</sic><corr>putare</corr></choice> idcirco <lb/>
             non esse mundum diuina prouidentia factum, quia materia
 
 <note type="footnote"> <hi rend="italic">AUCTORES</hi> 3] cf. pag. 132,21. § 48-50 (Epicurus)] cf. ad frg. 368 <lb/>
@@ -7923,7 +7924,7 @@ admittitur.</p></div>
             omnem diuinitatem ignorantia ueri putauit esse tollendam. <lb/>
             </p></div>
 
-<div n="54" subtype="section" type="textpart"><p>itaque deos potuit toilere, quia non erant: cum  <lb/>
+<div n="54" subtype="section" type="textpart"><p>itaque deos potuit <choice><sic>toilere</sic><corr>tollere</corr></choice>, quia non erant: cum  <lb/>
             autem prouidentiam diuinam quae est in uno deo conaretur <lb n="10"/>
             euertere, quia contra ueritatem niti coeperat, deficientibus argumentis <lb/>
             in hanc foueam necessario decidit, unde se extricare <lb/>
@@ -8141,8 +8142,7 @@ admittitur.</p></div>
 <pb n="143"/>
             se diuersasque constituit, orientem scilicet occidentemque. ex <lb/>
             quibus oriens deo adcensetur, quia ipse luminis fons et inlustrator <lb/>
-            est rerum et quod oriri nos faciat ad uitam sempiter- <lb/>
-            nam: occidens autem conturbatae illi prauaeque menti adscribitur, <lb/>
+            est rerum et quod oriri nos faciat ad uitam sempiter<lb break="no"/>nam: occidens autem conturbatae illi prauaeque menti adscribitur, <lb/>
             quod lumen abscondat, quod tenebras semper inducat <lb n="5"/>
             et quod homines faciat occidere atque interire peccatis.</p></div>
 
@@ -8155,7 +8155,7 @@ admittitur.</p></div>
             est, meridiem ac septentrionem, quae partes illis duabus societate <lb n="10"/>
             iunguntur.</p></div>
 
-<div n="8" subtype="section" type="textpart"><p>ea enim quae est soiis caiore nagranuor,  <lb/>
+<div n="8" subtype="section" type="textpart"><p>ea enim quae est <choice><sic>soiis</sic><corr>solis</corr></choice> <choice><sic>caiore</sic><corr>calore</corr></choice> nagranuor,  <lb/>
             proxima est et cohaeret orienti, at illa quae frigoribus ac perpetuo <lb/>
             gelu torpet, eiusdem est cuius extremus occasus. nam <lb/>
             sient contrariae sunt lumini tenebrae, ita frigus calori.</p></div>
@@ -8403,7 +8403,7 @@ admittitur.</p></div>
 </p>
 </div>
 
-<div n="6" subtype="section" type="textpart"><p>            nullas enim iitteras ueritatis attigerant, sed quae prophetarum  
+<div n="6" subtype="section" type="textpart"><p>            nullas enim <choice><sic>iitteras</sic><corr>litteras</corr></choice> ueritatis attigerant, sed quae prophetarum  
 
 
 <note type="footnote"> <hi rend="italic">EPITOME</hi> 6-10] c. 22, 2 tum — figuratum 16 s. (Prometheo)] <lb/>
@@ -9602,7 +9602,7 @@ admittitur.</p></div>
             esse in regenda. prouincia dixerit, quamuis illorum ministerio <lb n="15"/>
             res geratur.</p></div>
 
-<div n="8" subtype="section" type="textpart"><p>et hi tamen possunt aliquid praeter iussa rectcris <lb/>
+<div n="8" subtype="section" type="textpart"><p>et hi tamen possunt aliquid praeter iussa <choice><sic>rectcris</sic><corr>rectoris</corr></choice> <lb/>
             per ipsius ignorantiam, quae est condicionis humanae: ille <lb/>
             autem praeses mundi et rector uniuersi, qui scit omnia, cuius <lb/>
             diuinis oculis nihil saeptum est, solus habet rerum omnium <lb/>
@@ -11635,7 +11635,7 @@ uoluerunt, sed effecerunt repugnans bonum, quoniam qui uo-luptati deditus est, h
             quo efficitur ut is agnoscat deum, qui unde ortus sit <lb/>
             quasi recordetur.</p></div>
 
-<div n="9" subtype="section" type="textpart"><p>qui ergo philosophi uolunt animos omui  <lb/>
+<div n="9" subtype="section" type="textpart"><p>qui ergo philosophi uolunt animos <choice><sic>omui</sic><corr>omni</corr></choice>  <lb/>
             metu liberare, tollunt etiam religionem et orbant hominem <lb n="15"/>
             suo proprio ac singulari bono: quod est a recte uiuendo atque <lb/>
             ab omni humanitate diiunctum, quia deus ut cuncta uiuentia <lb/>
@@ -12595,7 +12595,7 @@ uoluerunt, sed effecerunt repugnans bonum, quoniam qui uo-luptati deditus est, h
             est ergo philosophiae magisterium aut quid te docuit illa uitae  <lb/>
             parens, si uerum miserabiliter ignoras?</p></div>
 
-<div n="21" subtype="section" type="textpart"><p>quodsi haecerroris <lb/>
+<div n="21" subtype="section" type="textpart"><p>quodsi <choice><sic>haecerroris</sic><corr>haec erroris</corr></choice> <lb/>
             ignorationisque confessio paene inuito tibi ab intimo <lb n="5"/>
             pectore expressa est, cur non tibi uerum fateris aliquando, : <lb/>
             philosophiam, quam tu nihil docentem in caelum laudibus extulisti, <lb/>
@@ -13147,7 +13147,7 @@ auctoritate corrupta sine ullo pudore concurreret.
             <hi rend="italic">BRHPV,</hi> duos <hi rend="italic">S</hi> </note> <lb/>
              
 <pb n="230"/>
-            qui aut deos omnino neclegerent aut non pie colerent, uel <lb/>
+            qui aut deos omnino <choice><sic>neclegerent</sic><corr>nec legerent</corr></choice> aut non pie colerent, uel <lb/>
             minora incommoda euenire uel nulla; ipsa etiam saepe templa  <lb/>
             fulminibus conflagrare.</p></div>
 
@@ -13888,7 +13888,7 @@ auctoritate corrupta sine ullo pudore concurreret.
             dicto exinde apparet, quod adiecit de suo aliquid, ut ornaret. <lb/>
 </p></div>
 
-<div n="15" subtype="section" type="textpart"><p>            quaero igitur cui esse optimum putet non nasci, cum sit nullns  <lb/>
+<div n="15" subtype="section" type="textpart"><p>            quaero igitur cui esse optimum putet non nasci, cum sit <choice><sic>nullns</sic><corr>nullus</corr></choice>  <lb/>
             omnino qui sentiat: nam ut bonum sit aliquid aut malum, <lb/>
             sensus efficit.</p></div>
 
@@ -17296,7 +17296,7 @@ Et rursus in fine eiusdem carminis:
             inuexit, ut non modo pane caelesti, sed etiam instructioribus <lb/>
             epulis saturarentur.</p></div>
 
-<div n="11" subtype="section" type="textpart"><p>pro his tamen diuinis beneficiis bonorem  <lb n="5"/>
+<div n="11" subtype="section" type="textpart"><p>pro his tamen diuinis beneficiis <choice><sic>bonorem</sic><corr>honorem</corr></choice>  <lb n="5"/>
             deo non reddiderunt, sed depulsa iam seruitute, iam siti <lb/>
             fameque deposita in luxuriam prolapsi ad profanos Aegyptiorum. <lb/>
             ritus animos transtulerunt.</p></div>
@@ -17889,7 +17889,7 @@ Et rursus in fine eiusdem carminis:
              
 <pb n="314"/>
             dominus domino meo: sede ad dexteram meam, quoadusque <lb/>
-            ponam inimicos tuos subpedaneum pedu m <lb/>
+            ponam inimicos tuos subpedaneum <choice><sic>pedu m</sic><corr>pedum</corr></choice> <lb/>
             tuorum. qui propheta cum rex esset, quem appellare dominum <lb/>
             suum posset qui sederet ad dexteram dei nisi Christum <lb/>
             filium dei, qui est rex regum et dominus dominorum? 
@@ -21638,7 +21638,7 @@ graecos om. H 8 NAO S, iNAV P A6CX1C0II BRSP, A6CXI CGN V,
             pariter et colendum cunctae nationes ei omni orbe concurrerent. <lb n="5"/>
 </p></div>
 
-<div n="35" subtype="section" type="textpart"><p>            denique nulla gens tam inhnmana est, nulla regio tam remota,  <lb/>
+<div n="35" subtype="section" type="textpart"><p>            denique nulla gens tam <choice><sic>inhnmana</sic><corr>inhumana</corr></choice> est, nulla regio tam remota,  <lb/>
             cui aut passio eius aut sumas maiestatis ignota. sit.</p></div>
 
 <div n="36" subtype="section" type="textpart"><p>extendit  <lb/>
@@ -23142,7 +23142,7 @@ graecos om. H 8 NAO S, iNAV P A6CX1C0II BRSP, A6CXI CGN V,
            adnotare.</p></div>
 
 <div n="23" subtype="section" type="textpart"><p>o caecum pectus, o mentem Cimmeriis ut <lb/>
-            aiunt tenebris atrorem! discipulus hic fortasse Anaxagorae <lb/>
+            aiunt tenebris <choice><sic>atrorem</sic><corr>at rorem</corr></choice>! discipulus hic fortasse Anaxagorae <lb/>
             fuerit, cui niues atramentum fuerunt. atquin eadem caecitas <lb/>
             est et uero falsitatis et mendacio ueritatis nomen inponere. <lb n="15"/>
             uidelicet homo subdolus uoluit lupum sub ouis pelle celare, ut  <lb/>
@@ -25439,7 +25439,7 @@ graecos om. H 8 NAO S, iNAV P A6CX1C0II BRSP, A6CXI CGN V,
 
 <div n="10" subtype="section" type="textpart"><p>quid ergo iustus faciet, si  <lb/>
             forte naufragium fecerit et aliquis inbecillior uiribus <lb/>
-            tabu lam ceperit? nonne illum tabula deturbabit, ut <lb n="5"/>
+            <choice><sic>tabu lam</sic><corr>tabulam</corr></choice> ceperit? nonne illum tabula deturbabit, ut <lb n="5"/>
             ipse conscendat eaque nixus euadat, maxime cum sit <lb/>
             nullus medio mari testis? si sapiens est, faciet: ipsi <lb/>
             enim pereundum est, nisi fecerit; si autem mori maluerit <lb/>
@@ -26370,7 +26370,7 @@ graecos om. H 8 NAO S, iNAV P A6CX1C0II BRSP, A6CXI CGN V,
             libidines intra pectus inclusas ulli amnes abluant aut ulla  <lb/>
             maria purificent.</p></div>
 
-<div n="34" subtype="section" type="textpart"><p>quanto satius est mentem potius elnere, <lb/>
+<div n="34" subtype="section" type="textpart"><p>quanto satius est mentem potius <choice><sic>elnere</sic><corr>eluere</corr></choice>, <lb/>
             quae malis cupiditatibus sordidatur, et uno uirtutis ac fidei <lb/>
             lauacro uniuersa uitia depellere! quod qui fecerit, quamlibet <lb/>
             inquinatum ac sordidum corpus gerat, satis purus est. 
@@ -27060,7 +27060,7 @@ graecos om. H 8 NAO S, iNAV P A6CX1C0II BRSP, A6CXI CGN V,
             stipati familiarum gregibus per dimotum populum semper <lb/>
             incedant.</p></div>
 
-<div n="9" subtype="section" type="textpart"><p>sic aaaicti et sermentes uoiuptatibus mm uigoremque  <lb/>
+<div n="9" subtype="section" type="textpart"><p>sic aaaicti et sermentes <choice><sic>uoiuptatibus</sic><corr>uoluptatibus</corr></choice> mm uigoremque  <lb/>
             mentis extinguunt et cum uiuere se maxime putant, ad <lb n="5"/>
             mortem concitatissime properant.</p></div>
 
@@ -28357,7 +28357,7 @@ graecos om. H 8 NAO S, iNAV P A6CX1C0II BRSP, A6CXI CGN V,
             enim horum sic sapiens, ut sapientem uolumus in-  <lb/>
 </p></div>
 
-<div n="27" subtype="section" type="textpart"><p>            tellegi, nec ii qui sapientes habiti et nominati, Ma.rcus <lb/>
+<div n="27" subtype="section" type="textpart"><p>            tellegi, nec ii qui sapientes habiti et nominati, Ma.<choice><sic>rcus</sic><corr>reus</corr></choice> <lb/>
             Cato et Gaius Laelius, sapientes fuerunt, ne illi <lb/>
             quidem septem, sed ex mediorum officiorum frequentia
 
@@ -28831,7 +28831,7 @@ graecos om. H 8 NAO S, iNAV P A6CX1C0II BRSP, A6CXI CGN V,
             superuacuis et inanibus poenis delectantur quibus licet <lb/>
             agere tranquille.</p></div>
 
-<div n="20" subtype="section" type="textpart"><p>si enim mortales sunt auimae, si uirtus  <lb/>
+<div n="20" subtype="section" type="textpart"><p>si enim mortales sunt <choice><sic>auimae</sic><corr>animae</corr></choice>, si uirtus  <lb/>
             dissoluto corpore nihil futura est, quid fugimus adtributa nobis <lb/>
             bona quasi aut ingrati aut indigni qui diuinis muneribus perfruamur? <lb n="10"/>
             quae bona ut habeamus, scelerate inpieque uiuendum <lb/>
@@ -29560,7 +29560,7 @@ graecos om. H 8 NAO S, iNAV P A6CX1C0II BRSP, A6CXI CGN V,
             autem non aliter quam si praestentur iis hominibus qui prodesse  <lb/>
             nullo modo possunt.</p></div>
 
-<div n="9" subtype="section" type="textpart"><p>at ille m recipiendis lnlustribus <lb/>
+<div n="9" subtype="section" type="textpart"><p>at ille m recipiendis <choice><sic>lnlustribus</sic><corr>inlustribus</corr></choice> <lb/>
             nihil spectauit aliut nisi utilitatem nec dissimulauit homo ingeniosus <lb/>
             quid ex eo commodi speraret. ait enim, qui id faciat, <lb/>
             potentem aput exteros futurum per gratiam principum,<lb n="10"/>
@@ -31932,7 +31932,7 @@ si enim nihil censeat sapiens <lb/>
             habeat uxorem, neque seruam neque liberam habere insuper  <lb/>
             uelit, sed matrimonio fidem seruet.</p></div>
 
-<div n="24" subtype="section" type="textpart"><p>non emm, sicut lUns <lb/>
+<div n="24" subtype="section" type="textpart"><p>non emm, sicut <choice><sic>lUns</sic><corr>luna</corr></choice> <lb/>
             publici ratio est, sola mulier adultera est quae habet alium, <lb/>
             maritus autem etiamsi plures habeat, a crimine adulterii so-  <lb/>
 </p></div>
@@ -34674,7 +34674,7 @@ si enim nihil censeat sapiens <lb/>
             et effectus apparet, aeterna sunt, quia nullam uim patiuntur <lb n="10"/>
             extrinsecus?</p></div>
 
-<div n="10" subtype="section" type="textpart"><p>corpus autem si ideo mortale est, quia uism <lb/>
+<div n="10" subtype="section" type="textpart"><p>corpus autem si ideo mortale est, quia <choice><sic>uism</sic><corr>uiam</corr></choice> <lb/>
             pariter et tactui subiacet, ergo et anima idcirco inmortalis <lb/>
             est, quia nec tangi potest nec uideri. 
 </p>
@@ -34773,7 +34773,7 @@ si enim nihil censeat sapiens <lb/>
             immo uero dissoluto corpore anima uanesceret uelut umor  <lb/>
             fracto uase diffusus.</p></div>
 
-<div n="8" subtype="section" type="textpart"><p>nam si terrenum et tragile corpus post <lb n="5"/>
+<div n="8" subtype="section" type="textpart"><p>nam si terrenum et <choice><sic>tragile</sic><corr>fragile</corr></choice> corpus post <lb n="5"/>
             secessum animae non statim diffluit in terramque tabescit, ei <lb/>
             qua illi origo est, ergo anima, quae fragilis non est, in aeternum  <lb/>
             manet, quoniam origo eius aeterna est.</p></div>
@@ -35571,7 +35571,7 @@ si enim nihil censeat sapiens <lb/>
             materia deficeret, uiribus suis male uteretur, quibus se ipsa  <lb/>
             confecit.</p></div>
 
-<div n="16" subtype="section" type="textpart"><p>haec fuit prima eius senectus, cum bellis laeerata <lb/>
+<div n="16" subtype="section" type="textpart"><p>haec fuit prima eius senectus, cum bellis <choice><sic>laeerata</sic><corr>lacerata</corr></choice> <lb/>
             ciuilibus atque intestino malo pressa rursus ad regimen singularis <lb n="5"/>
             imperii reccidit quasi ad alteram infantiam reuoluta. <lb/>
             amissa enim libertate, quam Bruto duce et auctore defenderat, <lb/>

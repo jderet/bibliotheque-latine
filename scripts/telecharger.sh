@@ -146,4 +146,8 @@ mkdir -p "$TEXTES/gutenberg-latin/txt"
 cp "$W/gutenberg/txt/"*.txt "$TEXTES/gutenberg-latin/txt/"
 cp "$W/gutenberg/catalogue.json" "$TEXTES/gutenberg-latin/catalogue.json"
 
+# CSEL : corrections OCR évidentes (scripts/ocr/csel-corrections.tsv), encodées en TEI. Une correction
+# dont le texte a changé en amont est refusée, et le nombre de refus affiché.
+python3 -I "$RACINE/scripts/ocr/corriger_csel.py" appliquer
+
 echo "Assemblage terminé : $(du -sh "$TEXTES" | cut -f1)"

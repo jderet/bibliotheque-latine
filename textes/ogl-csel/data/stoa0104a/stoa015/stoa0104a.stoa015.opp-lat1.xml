@@ -85,6 +85,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 4 mots collés, 1 mot coupé.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -335,7 +336,7 @@
             caelestis doctrinae conpendio conprehendatur! sic, ait, adorate: <lb/>
             pater noster, qui es in caelis. homo nouus, renatus et <lb/>
             Deo suo per eius gratiam restitutus pater primo in loco dicit, <lb/>
-            quia filius esse iam coepit. in sua, inquit, propria uenitet <lb/>
+            quia filius esse iam coepit. in sua, inquit, propria <choice><sic>uenitet</sic><corr>uenit et</corr></choice> <lb/>
             sui eum non receperunt. quotquot eum receperunt <lb n="15"/>
             dedit illis potestatem ut filii Dei fierent, qui credunt in nomine eius.. <lb/>
             qui ergo credidit in nomine eius et <lb/>
@@ -525,7 +526,7 @@
             fuerat exciderunt Domino manifestante et probante. multi <lb/>
             inquit, uenient ab oriente et occidente et recumbent <lb/>
             cum Abraham et Isaac et Iacob in regno caelorum. <lb/>
-            filii autem regni expellen tur in tene bras exteriores: <lb n="15"/>
+            filii autem regni expellen tur in <choice><sic>tene bras</sic><corr>tenebras</corr></choice> exteriores: <lb n="15"/>
             illic erit ploratio et stridor dentium. ostendit quia ante <lb/>
             filii regni Iudaei erant, quando et filii Dei esse perseuerabant, <lb/>
             postquam cessauit circa illos nomen paternum, cessauit et regnum. <lb/>
@@ -535,7 +536,7 @@
 </p>
           </div>
 
-<div n="14" subtype="section" type="textpart"><p rend="script"> Addimus quoque etdicimus: fiat uoluntas tua in caelo <lb/>
+<div n="14" subtype="section" type="textpart"><p rend="script"> Addimus quoque <choice><sic>etdicimus</sic><corr>et dicimus</corr></choice>: fiat uoluntas tua in caelo <lb/>
             et in terra, non ut Deus faciat quod uult, sed ut nos facere <lb/>
             possimus quod Deus uult. nam Deo quis obsistit quominus quod <lb/>
             uelit faciat? sed quia nobis a diabolo obsistitur quominus per <lb/>
@@ -810,7 +811,7 @@
 </p>
           </div>
 
-<div n="21" subtype="section" type="textpart"><p rend="script"> Neque enim deesse cottidianus cibus potest iusto, cum scriptumsit: <lb/>
+<div n="21" subtype="section" type="textpart"><p rend="script"> Neque enim deesse cottidianus cibus potest iusto, cum <choice><sic>scriptumsit</sic><corr>scriptum sit</corr></choice>: <lb/>
             non occidet Dominus fame animam iustam, <lb/>
             et iterum: iuuenior fui et senui et non uidi iustum <lb/>
             derelictum neque semen eius quaerens panem, item <lb n="20"/>
@@ -1330,7 +1331,7 @@
             hic est dies quem fecit Dominus: laetemur et epulemur <lb/>
             in eum. item quod sol appellatus sit Malachin propheta <lb/>
             testatur dicens: uobis autem qui timetis nomen <lb/>
-             Domini orietur sol iustitiaeet in alis eius curatio <lb n="15"/>
+             Domini orietur sol <choice><sic>iustitiaeet</sic><corr>iustitiae et</corr></choice> in alis eius curatio <lb n="15"/>
             est. quodsi in scripturis sanctis sol uerus et dies uerus est <lb/>
             Christus, nulla hora excipitur christianis, quominus frequenter <lb/>
             ac semper Deus debeat adorari, ut qui in Christo hoc est in sole <lb/>

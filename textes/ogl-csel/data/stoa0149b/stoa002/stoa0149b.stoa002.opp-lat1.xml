@@ -89,6 +89,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 42 mots mal lus, 8 mots collés.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -226,7 +227,7 @@
             qui se pacem cum his, qui horum sectarentur errores. <del>se</del> habiturum <lb/>
             negauit. blasphemias quoque omnes.</p></div>
 
-<div n="3" subtype="section" type="textpart"><p>quas littcris uestris subiecistis,  <lb/>
+<div n="3" subtype="section" type="textpart"><p>quas <choice><sic>littcris</sic><corr>litteris</corr></choice> uestris subiecistis,  <lb/>
             dampnamus maximeque eorum sacerdotes apostatas respuentes, <lb n="20"/>
             qui in loca fratrum indignissime exulantium quorundam aut ignoratione <lb/>
             aut impietate sunt substituti. pollicentes hoc coram deo <lb/>
@@ -621,7 +622,7 @@
             eos uitare ab huiusmodi et horrere nec illis facile communicare- <lb/>
 </p></div>
 
-<div n="4" subtype="passage" type="textpart"><p>            municare, agnoscere illos ex actibus suis atque ex eorum seriptis <lb n="20"/>
+<div n="4" subtype="passage" type="textpart"><p>            municare, agnoscere illos ex actibus suis atque ex eorum <choice><sic>seriptis</sic><corr>scriptis</corr></choice> <lb n="20"/>
             sacrilegis praedamnare. nunc uero uehementer metuimus, ne nostris <lb/>
             temporibus compleatur, quod scriptum est: cum dormiunt <lb/>
             homines, uenit inimicus et sparsit zizania <lb/>
@@ -729,7 +730,7 @@
             Athanasium dignam pro criminibus sententiam dicunt. <lb/>
             propter quod de Tyro fugiens imperatorem appellat. audit etiam<lb n="15"/>
             imperator. quique interrogatione habita omnia eius flagitia recognoscens <lb/>
-            sua ilium sententia in exilium deportauit. his ergo ita cedentibiis <lb/>
+            sua ilium sententia in exilium deportauit. his ergo ita <choice><sic>cedentibiis</sic><corr>cedentibus</corr></choice> <lb/>
             rebus cum Athanasius damnatos digne in exilio haberetur ob <lb/>
             meritum facinorum suorum sacrilegus in deum, in mysteria sacra <lb/>
             profanus, in basilicae demolitione uiolentus, in episcoporum exitiis<lb n="20"/>
@@ -746,7 +747,7 @@
             de exilio compararet, de Gallia ad Alexandriam post plurimum<lb n="25"/>
             tempus aduenit.</p></div>
 
-<div n="2" subtype="passage" type="textpart"><p>quique praetorita in nihilum ducens acrius in  <lb/>
+<div n="2" subtype="passage" type="textpart"><p>quique <choice><sic>praetorita</sic><corr>praeterita</corr></choice> in nihilum ducens acrius in  <lb/>
             nequitia praeualebat. nam comparatione sequentium leuia sunt, <lb/>
             quae ab ipso prima commissa sunt. etenim per omnem uiam reditus <lb/>
             sui ecclesias subuertebat, damnatos episcopos aliquos restaurabat.
@@ -796,7 +797,7 @@
             suum sacrificium a sanctis et integris sacerdotibus confectum, si <lb/>
             fas est dicere, canibus proiciendum iubebat. igitur cum haec ita <lb/>
             sint, numquidnam lupis tantis ac talibus oues Christi adhuc usque <lb/>
-            credemus et membraChristi membra fonucatonac faciemus? absit. <lb n="25"/>
+            credemus et <choice><sic>membraChristi</sic><corr>membra Christi</corr></choice> membra fonucatonac faciemus? absit. <lb n="25"/>
             
 </p>
           </div>
@@ -1019,7 +1020,7 @@
 <p>Uerum nos iterum illos atque iterum rogabamus, ne firma <lb n="10"/>
             solidaque concuterent, nc subuerterent legem nec iura diuina <lb/>
             turbarent, ne cuncta confunderent atque traditionem ecclesiae ne <lb/>
-            quidem in modica parte frustrarent, sed necnouam sectam inducerent <lb/>
+            quidem in modica parte frustrarent, sed <choice><sic>necnouam</sic><corr>nec nouam</corr></choice> sectam inducerent <lb/>
             aut Orientalibus episcopis conciliisque sanctissimis de Occidente <lb/>
             uenientes aliqua in parte praeponerent.</p></div>
 
@@ -1612,7 +1613,7 @@
             duabus, hanc exposuimus fidem. 
 </p>
           <p>Credimus in unum deum patrem <lb/>
-            omnipotentem, ereatorem etfactorem <lb/>
+            omnipotentem, <choice><sic>ereatorem</sic><corr>creatorem</corr></choice> etfactorem <lb/>
             uniuersorum, ex quo omnis paternitas <lb/>
             in caelis et in terra nominatur. <lb/>
             credimus et in unigenitum eius <lb/>
@@ -1623,12 +1624,12 @@
             hanc exposuerunt fidem. 
 </p>
           <p>Credimus in unum deum patrem <lb/>
-            umnipotentem, creatorcm omnium ct <lb/>
+            umnipotentem, <choice><sic>creatorcm</sic><corr>creatorem</corr></choice> omnium ct <lb/>
             factorem, ex quo omnia in caelo et <lb/>
             in terra nominantur. et in unicum <note type="chapter">
  2 </note> <lb n="10"/>
             filium eius dominum nostrum lesum <lb/>
-            Christum ante omnia saocula. ex <lb/>
+            Christum ante omnia <choice><sic>saocula</sic><corr>saecula</corr></choice>. ex <lb/>
             patre natum, deum de deo; lumen
 
 <note type="footnote"> <hi rend="italic">Hilar. de syn. 34</hi> </note>
@@ -1691,7 +1692,7 @@
             est et mortuus ct sepultus. <lb/>
             et surrexit ex mortuis tertia die ct<lb/>
             receptus in caelo est et sedet in <lb/>
-            dc lumine, per quem omnia et proptcr <lb/>
+            dc lumine, per quem omnia et <choice><sic>proptcr</sic><corr>propter</corr></choice> <lb/>
             quem omnia facta sunt in caelo <lb/>
             et in terra, uisibilia et innisibilia, <lb/>
             uerbum, sapientia et potestas, lumen <lb n="10"/>
@@ -1699,7 +1700,7 @@
             nouissimis temporibus propter nos <lb/>
             homo factus est et creatus ex sancta <lb/>
             uirgine, crucifixus et mortuus et <lb/>
-            sepultus. et rcsurrexit a mortuis <lb n="15"/>
+            sepultus. et <choice><sic>rcsurrexit</sic><corr>resurrexit</corr></choice> a mortuis <lb n="15"/>
             tertio die, receptum in caelis, <lb/>
             sedentem ad dexteram patris et
 
@@ -1775,7 +1776,7 @@
             sed etiam in futuro. credimus et <note type="chapter">
  4 </note><lb/>
             in unum spiritum sanctum dei, hocest <lb/>
-            paradetum, quem pollicitus apostolis <lb/>
+            <choice><sic>paradetum</sic><corr>paracletum</corr></choice>, quem pollicitus apostolis <lb/>
             post in caelum ascensionem misit
 
 <note type="footnote"> <hi rend="italic">llilar. de Byn. 34</hi> </note>
@@ -1851,7 +1852,7 @@
             uel ex alia substantia spiritum et non <lb/>
             ex dco ct erat aliquando tempus\' uel <lb/>
             saeculum\', \'quando non erat\', alienus <lb/>
-            nouit sancta ct catholica ecclesia. similitcr <lb n="15"/>
+            nouit sancta ct catholica ecclesia. <choice><sic>similitcr</sic><corr>similiter</corr></choice> <lb n="15"/>
             etiam dicentes tres esse deos uel
 
 <note type="footnote"> <hi rend="italic">llilar. de syn. 34</hi> </note>
@@ -1905,10 +1906,10 @@
 </p>
           <p>Christum nOli osse deum et ante <lb/>
             saecula neque Christum neque filium <lb/>
-            cum esse dei ueleum ipsum esse <lb/>
+            cum esse dei <choice><sic>ueleum</sic><corr>uel eum</corr></choice> ipsum esse <lb/>
             patrem et filium ct sanctum spiritum <lb/>
             uel innascibilem filium uel quod<lb/>
-            neque consilio neque uoluntate patcr <lb/>
+            neque consilio neque uoluntate <choice><sic>patcr</sic><corr>pater</corr></choice> <lb/>
             genuerit filium, anathematizat sancta <lb/>
             et catholica ecclesia. <lb/>
             15
@@ -1916,7 +1917,7 @@
           <p>Christum non esse deum siue spiritum <lb/>
             non esse dei uel ante saecula nec <lb/>
             Christum nec filium et nec spiritum <lb/>
-            tlei esse uel eundem patrem et filium <lb/>
+            <choice><sic>tlei</sic><corr>dei</corr></choice> esse uel eundem patrem et filium <lb/>
             et spiritum sanctum uel nOli natum <lb n="10"/>
             filium uel natum spiritum aut noluntate\' <lb n="20"/>
             uel arbitrio\' pater <unclear>genllit</unclear> <lb/>
@@ -2925,7 +2926,7 @@
 </p></div>
 
 <div n="3" subtype="section" type="textpart"><p>            repugnabat, quam similiter recitauimus atque insinuauimus episcopis  <lb/>
-            ltalis. unde contra unam legem uisum est etiam, cum <lb/>
+            <choice><sic>ltalis</sic><corr>italis</corr></choice>. unde contra unam legem uisum est etiam, cum <lb/>
             episcoporum numerus pro Athanasio maior existeret, in parte<lb n="20"/>
             aliqua commodare consensum. haec scripta, si deo fidem debet <lb/>
             Eusebius, qui missus fuerat, festinans ad Africam nobis reliquit. <lb/>
@@ -3208,9 +3209,9 @@
             a domino deo patre per Christum dominum nostrum docente spiritu <lb/>
             sancto in euangelio et apostolis omnibus suscepimus per traditionem patrum <lb n="20"/>
             secundum successionem apostolorum, quae aput Niciam tractata [sunt] <lb/>
-            contra hereses, quae eo tempore surrexerunt, proposita est (et) nunc usque permanct. <lb/>
-            quibus a nobis omnibus nec addendum aliquid credimus nec minuerc <lb/>
-            posse manifestum est. placuit ergo nihil nouum fieti, substantiae\' quoque, quod 2
+            contra hereses, quae eo tempore surrexerunt, proposita est (et) nunc usque <choice><sic>permanct</sic><corr>permanet</corr></choice>. <lb/>
+            quibus a nobis omnibus nec addendum aliquid credimus nec <choice><sic>minuerc</sic><corr>minuere</corr></choice> <lb/>
+            posse manifestum est. placuit ergo nihil nouum <choice><sic>fieti</sic><corr>ficti</corr></choice>, substantiae\' quoque, quod 2
 
 <note type="footnote"> J = Cod. Bodleianus e Mus. 101 s. VII (f. 62v). </note>
 
@@ -3392,7 +3393,7 @@
 <pb n="99"/>
             adprehendet.</p></div>
 
-<div n="3" subtype="section" type="textpart"><p>ct singularum quidem rerum idcm beatus apostolus  <lb/>
+<div n="3" subtype="section" type="textpart"><p>ct singularum quidem rerum <choice><sic>idcm</sic><corr>idem</corr></choice> beatus apostolus  <lb/>
             merita exigui honoris sui (ui) distinxit, ut intellegi promtum esset <lb/>
             ceteris profectu augumenti caelestis abolendis non exiguo honoris <lb/>
             sui fructu tria haec sola esse, quae maneant quidem. 
@@ -3840,7 +3841,7 @@
             
           et mendacii fuisse plena.</p></div>
 
-<div n="2" subtype="passage" type="textpart"><p>nam ctsi cx eo, quod uocati sunt a lulio  <lb/>
+<div n="2" subtype="passage" type="textpart"><p>nam <choice><sic>ctsi</sic><corr>etsi</corr></choice> cx eo, quod uocati sunt a lulio  <lb/>
             episcopo, carissimo fratre nostro, noluerunt, claruit noluisse eos <lb/>
             uenire ex ipsis litteris, quibus eorum mendacia detecta sunt; <lb/>
             uenissent enim, si habuissent fiduciam eorum, quae gesserunt <lb/>
@@ -3857,7 +3858,7 @@
             claruit Eng noluerunt 〈uenire〉, claruit <hi rend="italic">Fed</hi> claruit noluerunt <hi rend="italic">A</hi> claruit <hi rend="italic">Cy</hi> 3 ue-. <lb/>
             nisse <hi rend="italic">Cy</hi> littereris <hi rend="italic">A</hi> õ licet] tamen <hi rend="italic">Cou</hi> his] ipsis <hi rend="italic">y</hi> 8 Asrlepam C<foreign xml:lang="grc">γ</foreign> </note>
 </p>
-          <p>eius soeiorum nihil aliud nisi mendaciis et calumniis plcna. et licet ex eo, quod <note type="chapter"> t </note> <lb n="10"/>
+          <p>eius <choice><sic>soeiorum</sic><corr>sociorum</corr></choice> nihil aliud nisi mendaciis et calumniis <choice><sic>plcna</sic><corr>plena</corr></choice>. et licet ex eo, quod <note type="chapter"> t </note> <lb n="10"/>
             uocati sunt a dilecto nostro et a consacerdote luJio, noluerunt occurrere et ex <lb/>
             his, quae scripta sunt ab eodem lulio, manifestata sit ipsorum calumnia — uenissent <lb/>
             enim, si confidissent operibus suis et factis aduersus fratres nostros et conministros-, <lb/>
@@ -3909,8 +3910,8 @@
             <hi rend="italic">.om.y</hi> 11 prodentes <hi rend="italic">Cp.c</hi>. prudentes A </note>
 </p>
           <p>uocationibus, uidelicet episcopis conuentis et praecipue bonae senectutis Osio, <lb/>
-            qui propter tempus et confessionem et tantum laborem [ex] omni reucrentia <lb/>
-            dignus uidctur, et expectantibus et adhortantibus eos ingredi, quo ea, quae de <lb/>
+            qui propter tempus et confessionem et tantum laborem [ex] omni <choice><sic>reucrentia</sic><corr>reuerentia</corr></choice> <lb/>
+            dignus <choice><sic>uidctur</sic><corr>uidetur</corr></choice>, et expectantibus et adhortantibus eos ingredi, quo ea, quae de <lb/>
             absentibus conministris rumigerarunt et scripserunt, haec praesentes conuincant.<lb n="15"/>
             sed uocati non uenerunt, sicut diximus, sed monstrantes ex hoc calumniam <lb/>
             suam et non solum insidias et factiones fecerunt clamantes per
@@ -4027,7 +4028,7 @@
  2 </note> runt enim ministri, parentes et amici mortuorum propter ipsos. et, quod maius <lb/>
             est, aderant episcopi et quidam ferrum et catenas offerebant, quas propter <lb/>
             ipsos portauerant. alii ex ipsorum insimulationibus mortem contestati sunt. in <lb/>
-            tantam enim peruenerant inmanitatem, ut etiam auderent episcopos uclle interlicere, <lb/>
+            tantam enim peruenerant inmanitatem, ut etiam auderent episcopos <choice><sic>uclle</sic><corr>uelle</corr></choice> interlicere, <lb/>
             et interfecissent, nisi effugissent manus eorum. surrexit itaque conminister<lb n="15"/>
             noster beatus Theodulus fugiens eorum insimulationes: iussus enim <lb/>
             fuerat ex eorum insimulatione interire. et alii gladiorum uulnera
@@ -4142,7 +4143,7 @@
           <p>
 4. Haec itaque considerantes perducti sunt ad suae uoluntatis interitum. <lb/>
             erubescebant enim sua confiteridelicta et, quoniam omnibus patefacta celari nnn <lb/>
-            poterant, Sardicam peruenerunt, quoper suum aduentum sinceritatis opinionem  <lb/>
+            poterant, Sardicam peruenerunt, <choice><sic>quoper</sic><corr>quo per</corr></choice> suum aduentum sinceritatis opinionem  <lb/>
             adquirant. 
 </p>
 <p><note type="chapter"> 2 
@@ -4174,7 +4175,7 @@
              ἠδύναντο</foreign> HSFT)</hi> nequiuerunt <hi rend="italic">Cass</hi> </note>
 <pb n="113"/>
             
-          uidenon potuerunt, maxime consacerdotunm nostrorum Athanasi, <lb/>
+          <choice><sic>uidenon</sic><corr>uide non</corr></choice> potuerunt, maxime consacerdotunm nostrorum Athanasi, <lb/>
             Marcelli et Asclepi conscientia perturbati, qui et inplorabant <lb/>
             iudicium <add>et</add> prouocabant accusatores, ut eos non solum conuincerent <lb/>
             de his, quae aduersum sese falsa confinxerant, uerum <lb/>
@@ -4259,8 +4260,8 @@
           <p>occasionem alterius malitiae ualeant inuenire, cogitauimus secundum ueritatis <lb/>
             rationem ab his conmissa uentilarc. quo facto reperimus eos et ex actitatis <lb/>
             calumniatores et nihil nliut nisi conministris nostris insidias praeparasse. quem <lb/>
-            enim diccbant ab Athanasio interfectum Arsenium, uiuit et moratur inter <lb/>
-            uiuos. ex quo apparet etiam illa, quae de aliis uerbosabantur, ficta fuissc. 
+            enim <choice><sic>diccbant</sic><corr>dicebant</corr></choice> ab Athanasio interfectum Arsenium, uiuit et moratur inter <lb/>
+            uiuos. ex quo apparet etiam illa, quae de aliis uerbosabantur, ficta <choice><sic>fuissc</sic><corr>fuisse</corr></choice>. 
 </p><p><note type="chapter">
  2 </note> <lb n="15"/>
             quoniam uero de calice fracto a Macario Athanasii prcsbvtero mentionem fecerunt, <lb/>
@@ -4389,7 +4390,7 @@
              xai <foreign xml:lang="grc">νῡν</foreign>]</hi> oi <hi rend="italic">xai Theod (codd.)</hi> et <hi rend="italic">Cass <foreign xml:lang="grc">μηδέ πώποτε</foreign> Theod</hi> </note>
 <pb n="117"/>
             
-          numloco apud Mareotem ecclesiam nec ministrum. quem tamen nunc <lb/>
+          <choice><sic>numloco</sic><corr>num loco</corr></choice> apud Mareotem ecclesiam nec ministrum. quem tamen nunc <lb/>
             uelut episcopum illum secum adduxerunt, qui ante nec presbiter <lb/>
             fuit, ut nomine episcopatus uideantur falsitatem suam tegere <lb/>
             apud audientes. 
@@ -4413,7 +4414,7 @@
 </p>
           <p>quam Mclitii fuisse presbyterum et omnino non habuisse Melitium apnt Mareotam <lb/>
             ecclesiam uel ministrum. et tamen eum, qui nec esset presbyter, nunc <lb/>
-            pro opiscopo produxerunt, ut hoc nomine obstupefaciant audientes enrum <lb/>
+            pro <choice><sic>opiscopo</sic><corr>episcopo</corr></choice> produxerunt, ut hoc nomine obstupefaciant audientes enrum <lb/>
             calumnias. 
 </p>
           </div>
@@ -4421,10 +4422,10 @@
 
 <div n="6a" subtype="section" type="textpart">
 <div n="1" subtype="passage" type="textpart">
-<p>Lectus cst autem lilxr conministri nostri Marcelli et inuonta est Eusebii <lb n="15"/>
+<p>Lectus cst autem lilxr conministri nostri Marcelli et <choice><sic>inuonta</sic><corr>inuenta</corr></choice> est Eusebii <lb n="15"/>
             commentatio. quae enim proposita quaestione Marcellus diocbat, haec <lb/>
             tamquam ab ipso <unclear>confessa</unclear> fingebant. lecta sunt igitur rt haec et sequentia et <lb/>
-            practerita quaestionum et recta fides uiri reperta est ; neque enim a sancta
+            <choice><sic>practerita</sic><corr>praeterita</corr></choice> quaestionum et recta fides uiri reperta est ; neque enim a sancta
 
 <note type="footnote"> 12 neo essct <hi rend="italic">Bal</hi> necesse W 16 commentatio <hi rend="italic">Hal</hi> commendatio W<lb/>
             17 sequantia IV </note> 
@@ -4489,8 +4490,8 @@ sed imperium sine initio et fine saluatoris esse conscripsit. Asclepas etiam con
             
 </p>
           <p>
-7. Merito igitur, fratrcs dilectissimi, frequenter uocati non responderunt, <lb/>
-            merito fugerunt. conscientia onim coacti per fugam suas calumnias firmauerunt <lb/>
+7. Merito igitur, <choice><sic>fratrcs</sic><corr>fratres</corr></choice> dilectissimi, frequenter uocati non responderunt, <lb/>
+            merito fugerunt. conscientia <choice><sic>onim</sic><corr>enim</corr></choice> coacti per fugam suas calumnias firmauerunt <lb/>
             et credi ista fecerunt, quae praesentes accusatores dicebant ac demonstrabant.
 
 <note type="footnote"> 14 iudicantum <hi rend="italic">Evg</hi> iudicandum IV iudicantium <hi rend="italic">Bal</hi> 18 credi ista <hi rend="italic">Fed</hi> <lb/>
@@ -4632,7 +4633,7 @@ sed imperium sine initio et fine saluatoris esse conscripsit. Asclepas etiam con
 
 <div n="8" subtype="section" type="textpart">
 <div n="1" subtype="passage" type="textpart">
-<p>Quia ergo non oportuit contic scere nec inultas retinere
+<p>Quia ergo non oportuit <choice><sic>contic</sic><corr>contio</corr></choice> scere nec inultas retinere
 
 <note type="footnote"> 1 scilicet <hi rend="italic">Cy</hi> se <hi rend="italic">A de forma</hi> Ario <hi rend="italic">u. Studien II 39</hi> palesna A ac <hi rend="italic">add. <lb/>
              Fed</hi> 2 Stephano <hi rend="italic">Cy, sed Cou mauult Asterio; cf. Studien II 10</hi> 3 hi <hi rend="italic">y</hi> hii A <lb/>
@@ -4642,7 +4643,7 @@ sed imperium sine initio et fine saluatoris esse conscripsit. Asclepas etiam con
             
 </p>
           <p>ministris nostris Macario Palestinae et Asterio de Arahia, qui cum ipsis nenernnt <lb/>
-            et ab eadem incredulitate recessernnt. iai enim ad sanctam synodum <lb/>
+            et ab eadem incredulitate <choice><sic>recessernnt</sic><corr>recesserunt</corr></choice>. iai enim ad sanctam synodum <lb/>
             uenientes uiulentiam, (quam) passi sunt, cum lacrimis exposuerunt. nihil autem <lb/>
             rectum aput eos fieri dicebant. etiam hoc addebant esse quosdam rectae fidei <lb/>
              et interminationibus adque accusationibus prohiberi &lt;ire&gt; ad noa. hac de causa <lb n="15"/>
@@ -4698,7 +4699,7 @@ sed imperium sine initio et fine saluatoris esse conscripsit. Asclepas etiam con
             exilia, ecclesiarum destrudiones, incendia, translationes de minimis ad <lb/>
             maiores ciuitates ct ante omnia insurgentem per ipsos aduersus rectam fidem <lb/>
             maledicam Arrianorum heresim, hac de causa dilcctissimos fratres nostros ct <lb/>
-            consaccrdotcs Athanasium, Alexandriae episcopum, et Marccllum Ancyrae <lb n="15"/>
+            consaccrdotcs Athanasium, Alexandriae episcopum, et <choice><sic>Marccllum</sic><corr>Marcellum</corr></choice> Ancyrae <lb n="15"/>
             Galatiae et Asclepam Gazae et eos, qui cum ipsis ministrant domino, innocentes <lb/>
             et sinceros esse pronuntiamus scribentes ad singulorum prouincias, ut <lb/>
             cuiusque cognoscant ecclesiae populi sui episcopi sinceritatem et hunc habere
@@ -4740,7 +4741,7 @@ sed imperium sine initio et fine saluatoris esse conscripsit. Asclepas etiam con
 </p>
           <p>episcopum (et) expectare, adgrcssos uero ecclesiarum ipsorum iudicium luporum <lb/>
             lieurgium Alexandriae et Basilium 〈Ancyrae et〉 Quincianum Gazae nec episcopos <lb/>
-            nominari necChristianos penitus appcllari nec aliquam cum his habere communionem <lb n="10"/>
+            nominari <choice><sic>necChristianos</sic><corr>nec Christianos</corr></choice> penitus <choice><sic>appcllari</sic><corr>appellari</corr></choice> nec aliquam cum his habere communionem <lb n="10"/>
             uel eorum litteras suscipere uel ad ipsos scribere. Theodorum Herarle- <note type="chapter">
  ! </note> <lb/>
             atum Europae cum suis, [de] Maroniae Ciliciae et Caesareae Palaestinae Narcissum <lb/>
@@ -5768,7 +5769,7 @@ sed imperium sine initio et fine saluatoris esse conscripsit. Asclepas etiam con
             autem illa, quae non sunt. sed ut subiectioni huic credideritis, <lb/>
             credo, carcer exegit, custos institit, tortor incubuit, gladius pependit, <lb/>
             ignis ambussit. in non extantibus iudicandis episcopalem apud <lb/>
-            uos auctoritatem inprobitas optinuit, in ueritatc optinenda sanctitas <lb/>
+            uos auctoritatem inprobitas optinuit, in <choice><sic>ueritatc</sic><corr>ueritate</corr></choice> optinenda sanctitas <lb/>
             fidem perdidit. o ueros Christi discipulos! o dignos successores<lb n="5"/>
             Petri atque Pauli! o pios ecclesiae patres! o ambitiosos inter deum <lb/>
 </p></div>
@@ -5841,7 +5842,7 @@ sed imperium sine initio et fine saluatoris esse conscripsit. Asclepas etiam con
 <div n="1" subtype="section" type="textpart">
           <p>Quoniam constat nos antehac multa grauia de nomine <lb/>
             Athanasii episcopi litteris nostris insinuasse atque litteris sanctitatis <lb/>
-            tuae conuenti eius rei, de qua significauimus non praestitissc <lb n="10"/>
+            tuae conuenti eius rei, de qua significauimus non <choice><sic>praestitissc</sic><corr>praestitisse</corr></choice> <lb n="10"/>
             rationem, profitemur apud sanctitatem tuam praesentibus, <lb/>
             cunctis presbyteris fratribus nostris omnia, quae antehac ad aures <lb/>
             nostras peruenerunt de nomine praedicti, falsa nobis esse
@@ -6107,7 +6108,7 @@ sed imperium sine initio et fine saluatoris esse conscripsit. Asclepas etiam con
 
 <div n="3" subtype="passage" type="textpart"><p>            onis elicitae adsensu in Fotini animaduersionem, in Athanasii  <lb/>
             reatum, in damnationem fidei catholicae transeatur. et spero, quod <lb/>
-            non cxiguam partom cognitionis istius synodus Serdicensis adtulerit, <lb/>
+            non <choice><sic>cxiguam</sic><corr>exiguam</corr></choice> partom cognitionis istius synodus Serdicensis adtulerit, <lb/>
             ubi insectatione Arrianorum omnia in Athanasium crimina conficta<lb n="5"/>
             esse monstrantur et uis adhibita plebi dei, ut in pestiferam letalis <lb/>
             doctrinae coniuentiam transirent. rem tamen omnem, quia causa <lb/>
@@ -6442,7 +6443,7 @@ sed imperium sine initio et fine saluatoris esse conscripsit. Asclepas etiam con
             extrinsecus opis ad continendam se numquam eguerit, et \'substantia\' <lb/>
             dicitur, quod intra se id, quod semper est, et in aeternitatis <lb/>
             suae uirtute subsistat. ac sic, quod ait: ego e t <lb/>
-            pater unum sumus, et: qui me uidit, uiditet <lb/>
+            pater unum sumus, et: qui me uidit, <choice><sic>uiditet</sic><corr>uidit et</corr></choice> <lb/>
             patrem, et rursum: ego in patre et pater in me,<lb n="5"/>
             et illud: ego de patre exiui aequalis in utroque, id est <lb/>
 </p></div>
@@ -6516,7 +6517,7 @@ sed imperium sine initio et fine saluatoris esse conscripsit. Asclepas etiam con
           <ab>
             <title type="sub"> <milestone n="106v" unit="folio"/> Dilectissimis fratribus et coepiscopis nostris uniuersis per Orientem constitutis Liberius episcopus urbis Romae aeternam salutem. </title>
           </ab>
-          <p>Studens paci et concordiae ecclesiarum, postcaquam litteras <lb/>
+          <p>Studens paci et concordiae ecclesiarum, <choice><sic>postcaquam</sic><corr>posteaquam</corr></choice> litteras <lb/>
             caritatis uestrae de nomine Athanasi et ceterorum factas ad nomen <lb/>
             Iulii bonae memoriae episcopi accepi, secutus traditionem maiorum <lb/>
             presbyteros urbis Romae Lucium, Paulum et Helianum e latere <lb n="10"/>
@@ -6546,7 +6547,7 @@ sed imperium sine initio et fine saluatoris esse conscripsit. Asclepas etiam con
 <div n="1" subtype="section" type="textpart">
           <p rend="script">Quid in his litteris non sanctitatis, quid non ex metu dei eueniens <lb/>
             est? sed Potamius et Epictetus, dum damnare urbis Romae <lb n="25"/>
-            episeopum gaudent, sicut in Ariminensi synodo continetur, audire
+            <choice><sic>episeopum</sic><corr>episcopum</corr></choice> gaudent, sicut in Ariminensi synodo continetur, audire
 
 <note rend="script" type="footnote"> <hi rend="italic">2 Ediderunt epislulam Baronius ad a</hi>. 352 n. <hi rend="italic">XII, Binius I 466, Ed. regia <lb/>
             111140 sq., Labbe-Cossart II 752, Coleti II 807, Mansi III 208</hi> 3 LIUERI <hi rend="italic">A</hi> <lb/>
@@ -7407,7 +7408,7 @@ sed imperium sine initio et fine saluatoris esse conscripsit. Asclepas etiam con
             separatus est, sicuti teste est omne presbiterium ecclesiae Romanae. <lb/>
             sola haec causa fieri.</p></div>
 
-  <div n="3" subtype="passage" type="textpart"><p>ut tardius uidcrer de nomine ipsius litteras ad  <lb/>
+  <div n="3" subtype="passage" type="textpart"><p>ut tardius <choice><sic>uidcrer</sic><corr>uiderer</corr></choice> de nomine ipsius litteras ad  <lb/>
             fratres et coepiscopos nostros Orientales dare, ut legati mei, quos <lb n="5"/>
             ab urbe Roma ad comitatum direxeram, seu episcopi, qui fuerant <lb/>
             deportati, et ipsi ulla cum his, si fieri posset, de exilio reuocarentur. 
@@ -7685,7 +7686,7 @@ sed imperium sine initio et fine saluatoris esse conscripsit. Asclepas etiam con
             <hi rend="italic">ACml</hi> </note> <lb/>
              
 <pb n="176"/>
-            ucstrarum communionem initis. nee id saltem consilii sumitis, sin <lb/>
+            <choice><sic>ucstrarum</sic><corr>uestrarum</corr></choice> communionem initis. nee id saltem consilii sumitis, sin <lb/>
             pudor aliquos fefellisset, Ariminensem synodum aestimari. dolum <lb/>
             enim uestrum in non anathematizandis uestris statim prodidistis. <lb/>
             </p>

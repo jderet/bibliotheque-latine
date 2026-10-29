@@ -92,6 +92,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 3 mots mal lus, 2 mots collés.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -1359,7 +1360,7 @@
             agere posset.</p></div>
 
 <div n="3" subtype="section" type="textpart"><p>adhaerent ergo singulis et suh nomine geniorum <lb/>
-            aut penatiuin domos occupant. his sacraria constituuntur, <lb/>
+            aut <choice><sic>penatiuin</sic><corr>penatium</corr></choice> domos occupant. his sacraria constituuntur, <lb/>
             his cottidie libatur ut laribus, his honos datur tamquam malorum <lb/>
             depulsoribus;</p></div>
 
@@ -1473,7 +1474,7 @@
             <lb/>
             tantam uim esse aerumnarum et malorum.</p></div>
 
-<div n="6" subtype="section" type="textpart"><p>ad eaChrysippus <lb/>
+<div n="6" subtype="section" type="textpart"><p>ad <choice><sic>eaChrysippus</sic><corr>ea Chrysippus</corr></choice> <lb/>
             cum in libro xept <sic>rpovota</sic>; quarto dissereret, <lb/>
             \'nihil prorsus\' inquit \'istis insulsius qui opinantur <lb/>
             bona esse potuisse, si non essent itidem mala.</p></div>
@@ -1833,7 +1834,7 @@
             non modo litterae sacrae docent, uerum etiam idem ipsi philosophi  <lb/>
             <milestone n="24b" unit="altpage"/>   nonnumquam fatentur.</p></div>
 
-<div n="2" subtype="section" type="textpart"><p>Cicero sicait: sedomnium quae <lb/>
+<div n="2" subtype="section" type="textpart"><p>Cicero sicait: <choice><sic>sedomnium</sic><corr>sed omnium</corr></choice> quae <lb/>
             in hominum doctorum disputatione uersantur, nihil est<lb n="5"/>
             profecto praestabilius quam plane intellegi nos ad <lb/>
             iustitiam esse natos. est hoc uerissimum. nec enim ad <lb/>
@@ -3113,7 +3114,7 @@
             iam maledictis abstinent, sed quantis possunt uerborum contumeliis <lb/>
             insectantur. idemque si potestatem nacti fuerint, uelut <lb/>
             hostes publicos persecuntur, immo etiam plus quam hostes, <lb/>
-            quorum, cum bello uicti fuerint, aiit mors aut seruitus poena <lb n="20"/>
+            quorum, cum bello uicti fuerint, <choice><sic>aiit</sic><corr>aut</corr></choice> mors aut seruitus poena <lb n="20"/>
             est nec ullus post arma deposita cruciatus, quamuis omnia <lb/>
             pati meruerint qui facere uoluerunt,  <milestone n="39b" unit="altpage"/>  et inter mucrones locum  <lb/>
             pietas habet.</p></div>
@@ -4492,7 +4493,7 @@
             sua sponte autem nihil  <milestone n="54b" unit="altpage"/>   nasci potest, quia nulla est sine  <milestone n="17" unit="altchapter"/>   <lb/>
             generante natura.</p></div>
 
-<div n="7" subtype="section" type="textpart"><p>semina uero principalia quomodo esse potuernnt, <lb/>
+<div n="7" subtype="section" type="textpart"><p>semina uero principalia quomodo esse <choice><sic>potuernnt</sic><corr>potuerunt</corr></choice>, <lb/>
             cum et semina ei rebus oriantur et uicissim res ex <lb n="10"/>
             seminibus? nullum igitur semen est quod originem non habet <lb/>
             sic factum est ut cum putarent mundum nulla prouidentia <lb/>

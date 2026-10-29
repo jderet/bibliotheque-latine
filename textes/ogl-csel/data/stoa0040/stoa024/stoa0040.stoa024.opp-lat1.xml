@@ -88,7 +88,8 @@
       </langUsage>
     </profileDesc>
     
-  </teiHeader>
+  <revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 5 mots mal lus, 4 mots coupés, 3 mots collés, 1 césure.</change></revisionDesc>
+</teiHeader>
   <text><body><div type="edition" xml:lang="lat" n="urn:cts:latinLit:stoa0040.stoa024.opp-lat1">
           <head>
             <title type="main">VI. CONTRA FAUSTUM LIBRI TRIGINTA TRES. </title>
@@ -3018,7 +3019,7 @@
             exemplo etiam resurrectionem nostram praedicat dicens: tradidi <lb/>
             enim uobis in primis, quod et accepistis, quia <lb n="5"/>
             Christus mortuus est pro peccatis nostris secundum <lb/>
-            scripturas; et quiasepultus est et quia resurrexit tertia <lb/>
+            scripturas; et <choice><sic>quiasepultus</sic><corr>quia sepultus</corr></choice> est et quia resurrexit tertia <lb/>
             die secundum scripturas. et paulo post infert, quare hoc <lb/>
             dixerit: si autem Christus praedicatur, quia resurrexit a <lb/>
             mortuis, quomodo dicunt quidam in uobis, quia resurrectio <lb n="10"/>
@@ -4073,7 +4074,7 @@
 <p>Gemens et tremens eris in terra. nunc ecce, quis <lb n="5"/>
             non uideat, quis non agnoscat in tota terra, quacumque dispersus <lb/>
             est ille populus, quomodo gemat maerore amissi regni <lb/>
-            et tremat timore sub innumerabilibus populis cbristianis? <lb/>
+            et tremat timore sub innumerabilibus populis <choice><sic>cbristianis</sic><corr>christianis</corr></choice>? <lb/>
             ideoque respondit Cain et dixit: maior est causa mea; si <lb/>
             eicis me hodie a facie terrae, et a facie tua abscondar, <lb n="10"/>
             et ero gemens et tremens super terram, et erit, <lb/>
@@ -5657,7 +5658,7 @@
             hic uiuitur, sufficit de illis uiris hoc existimare, quod commendat <lb/>
             apostolicae doctrinae sanitas. quia iustus ex fide <lb/>
             uiuit. credidit autem Abraham deo et deputatum est <lb/>
-            ei ad iustitiam. praeu idens enim scriptura, quia ex <lb n="5"/>
+            ei ad iustitiam. <choice><sic>praeu idens</sic><corr>praeuidens</corr></choice> enim scriptura, quia ex <lb n="5"/>
             fide iustificat gentes deus, praenuntiauit Abrahae dicens <lb/>
             quia in semine tuo benedicentur omnes gentes. <lb/>
             apostoli uerba sunt. ad cuius tam claram tamque omnibus <lb/>
@@ -5975,7 +5976,7 @@
             uitam aeternam habere, ipsae testimonium perhibent <lb/>
             de me, et: si crederetis Moysi. crederetis et mihi; <lb/>
             de me enim ille scripsit, et: habent ibi Moysen et <lb/>
-            proph etas, audiant eos, et: si Moysen et prophetas <lb n="10"/>
+            <choice><sic>proph etas</sic><corr>prophetas</corr></choice>, audiant eos, et: si Moysen et prophetas <lb n="10"/>
             non audiunt, nec si quis a mortuis resurrexerit, credent <lb/>
             ei! unde huc existis? unde confiditis? scripturas tanta <lb/>
             auctoritate firmatas commendatasque respuitis, miracula non <lb/>
@@ -6291,7 +6292,7 @@
             quorum libris haec inueniuntur esse praenuntiata, quae nunc <lb/>
             cernuntur inpleta. non nobiscum tenent eiusdem euangelii<lb n="10"/>
             societatem. cum uero doceretur etiam hoc ab eisdem prophetis <lb/>
-            esse praedictum, quantum moueretur ad fidem, quistam <lb/>
+            esse praedictum, quantum moueretur ad fidem, <choice><sic>quistam</sic><corr>quis tam</corr></choice> <lb/>
             demens est, ut non uideat? quis tam inpudens, ut se <lb/>
             uidere dissimulet? quis enim dubitet hoc de Iudaeis fuisse <lb/>
             prophetatum, cum Esaias dicat: agnouit bos possessorem<lb n="15"/>
@@ -8569,7 +8570,7 @@
 </div>
 
 <div type="textpart" subtype="chapter" n="3">
-<p>Quamuis ergo et haec non parua uideantur ad contirmandam <lb/>
+<p>Quamuis ergo et haec non parua uideantur ad <choice><sic>contirmandam</sic><corr>confirmandam</corr></choice> <lb/>
             suspicionem falsi de capitulo isto, plus tamen illo<lb n="5"/>
             teneor, quia omnem, ut dixi, Moyseos scripturam scrutatus <lb/>
             nullas ibi de Christo prophetias inueni. nunc tamen te conpertus <lb/>
@@ -9718,7 +9719,7 @@
             Iacob, quem dominus Iesus Christus eadem conmendatione <lb/>
             conmemorat eiusque auctoritate Sadducaeorum refellit errorem <lb/>
             resurrectionem negantium, ubi ait: de resurrectione autem <lb/>
-            m ortuorum non legistis, quid deus locutus sit de <lb/>
+            <choice><sic>m ortuorum</sic><corr>mortuorum</corr></choice> non legistis, quid deus locutus sit de <lb/>
             rubo ad Moysen: ego sum deus Abraham et deus<lb n="5"/>
             Isaac et deus Iacob? non est deus mortuorum, sed <lb/>
             uiuorum; omnes enim illi uiuunt. oportune itaque eadem <lb/>
@@ -13953,8 +13954,7 @@
             debetur. sed quid agam et tantae caecitati istorum haereticorum <lb/>
             quando demonstrabo, quam uim habeat, quod in psalmis <lb/>
             canitur: sacrificium laudis glorificabit me, et illic<lb n="10"/>
-            uia est, ubi ostendam illi salutare meum? huius sacri- <lb/>
-            ficii caro et sanguis ante aduentum Christi per uictimas <lb/>
+            uia est, ubi ostendam illi salutare meum? huius sacri<lb break="no"/>ficii caro et sanguis ante aduentum Christi per uictimas <lb/>
             similitudinum promittebatur, in passione Christi per ipsam <lb/>
             ueritatem reddebatur, post ascensum Christi per sacramentum <lb/>
             memoriae celebratur; ac per hoc tantum interest inter sacrificia<lb n="15"/>
@@ -14089,7 +14089,7 @@
             quam istos eadem, quae facitis, facientes, potiusque <lb/>
             feminam. quae in Manichaeum crediderit, uestram dicitis etiam <lb n="15"/>
             parientem quam Sibyllam nec saltem nubentem. at enim <lb/>
-            multi cbristiani catholici uocantur et sunt adulteri, raptores, <lb/>
+            multi <choice><sic>cbristiani</sic><corr>christiani</corr></choice> catholici uocantur et sunt adulteri, raptores, <lb/>
             auari, ebriosi et quicquid aliud sanae doctrinae aduersatur. <lb/>
             quid autem inter uos in tam exiguo ac paene nullo numero <lb/>
             uestro nonne plerique sunt tales, et quidam in paganis non <lb n="20"/>
@@ -14795,7 +14795,7 @@
             ut alternantibus temporibus anni transcurrerent ? proinde perpetua <lb/>
             fertilitas erat arborum, quibus elementum et alimentum <lb/>
             sui generis, -sicut gignendis adfuerat, ita fetandis perpetuo <lb/>
-            subpetebat et fructus numquum deesse faciebat; sicut uidemus <lb n="25"/>
+            subpetebat et fructus <choice><sic>numquum</sic><corr>num quum</corr></choice> deesse faciebat; sicut uidemus <lb n="25"/>
             arbores citriorum toto anno flores et fructus parere, si <lb/>
             iugiter inrigentur. magna ergo illic copia et eius habendae
 
@@ -16736,7 +16736,7 @@
             peccatis recte facta discernere: quibus et constantia pertinacia <lb/>
             uideri potest et uirtus fiduciae uitium putatur audaciae et <lb/>
             quaecumque similiter obiciuntur quasi non recte agentibus a <lb n="15"/>
-            non recte cernentibus. neque enim Abraham fiagitio consensit <lb/>
+            non recte cernentibus. neque enim Abraham <choice><sic>fiagitio</sic><corr>flagitio</corr></choice> consensit <lb/>
             uxoris eiusque uendidit adulterium, sed sicut illa famulam <lb/>
             suam non libidini mariti permisit, sed officio generandi ultro <lb/>
             intulit nequaquam turbato ordine naturali, ubi eius potestas <lb/>
@@ -18801,7 +18801,7 @@
             gerenda bella suscipiant; ordo tamen ille naturalis <lb/>
             mortalium paci adcommodatus hoc poscit, ut suscipiendi belli <lb/>
             auctoritas atque consilium penes principem sit, exequendi autem <lb/>
-            iussa bellica ministerium milites debeant paci salutique co mmuni. <lb/>
+            iussa bellica ministerium milites debeant paci salutique <choice><sic>co mmuni</sic><corr>communi</corr></choice>. <lb/>
             bellum autem, quod gerendum deo auctore suscipitur, <lb n="15"/>
             recte suscipi dubitare fas non est uel ad terrendam uel ad <lb/>
             obterendam uel ad subiugandam mortalium superbiam, quando <lb/>
@@ -23163,7 +23163,7 @@
             ne daemonibus communicasse uideatur. morticinum autem <lb n="25"/>
             puto quod ad escam usus hominum non admisit, eo quod non <lb/>
             occisorum, sed mortuorum animalium morbida caro est nec <lb/>
-            apta ad salutem corporis, cuius causa suminus alimentum.
+            apta ad salutem corporis, cuius causa <choice><sic>suminus</sic><corr>summus</corr></choice> alimentum.
 
 <note type="footnote"> 1 cf. Luc. 1J, 20 16 I Cor. 30, 20 </note>
 

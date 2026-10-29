@@ -94,6 +94,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 1 mot mal lu.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -1796,7 +1797,7 @@
             genitura accepto initio animae immortali mortale ei circumgelauerint <lb n="20"/>
             corpus; tum quod mundus hic imago sit alterius <lb/>
             alicuius. quae omnia ut fidei commendet, et animam retro in <lb/>
-            superioribus cum deo egisse in eommercio idearum et inde huc <lb/>
+            superioribus cum deo egisse in <choice><sic>eommercio</sic><corr>commercio</corr></choice> idearum et inde huc <lb/>
             transuenire et hic quae retro norit de exemplaribus recensere, <lb/>
             nouum elaborauit argumentum, <sic>nafofcets</sic> <sic>avajAvifaet</sic>; id est discentias <lb n="25"/>
             reminiscentias esse. uenientes enim inde huc animas <lb/>

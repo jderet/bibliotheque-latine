@@ -83,6 +83,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 12 mots mal lus, 2 mots coupés, 1 mot collé.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -245,7 +246,7 @@
             temporis seruans memoriae commisisti, detestabilia retinens, <lb/>
             ne per obliuionem inpune transirent, et maiorem horrorem <lb/>
             excessibus debens, dum ruinam metuis aliorum. sed remotis <lb n="5"/>
-            dieendi obstaculis ueniamus ad illa quae religioso sunt magis <lb/>
+            <choice><sic>dieendi</sic><corr>dicendi</corr></choice> obstaculis ueniamus ad illa quae religioso sunt magis <lb/>
             digna memoratu. cum hostilis inruptio more pecorum Christianum <lb/>
             populum per diuersa distraheret, tu uariorum generibus <lb/>
             crutiatuum capiebaris in omnibus, tu paterna conuentus pietate <lb/>
@@ -645,7 +646,7 @@
 <pb n="437"/>
             se suspicetur inperitiam. post sacratissimum Zachariam, cuius <lb/>
             faucibus eliminata per istud uocabulum remeauit humanitas, <lb/>
-            ab uniuersis\' iura- ereditur Iohannes apostolus clauis. esse uerborum. <lb/>
+            ab uniuersis\' iura- <choice><sic>ereditur</sic><corr>creditur</corr></choice> Iohannes apostolus clauis. esse uerborum. <lb/>
             in huius comitatu Antoninus, uetusti heroa saeculi, <lb/>
             et beatissimi Cassiani iuncta claritudo faciunt de aede sacramentum, <lb n="5"/>
             de terrena habitatione caeleste collegium, de manu <lb/>
@@ -776,7 +777,7 @@
           </ab>
           <p>Conlator bonorum deus, cui effectus in uoto est, qui de <lb/>
             medio populi Moysen in prophetae persona dedicasti. nam dum <lb/>
-            queritur de in becillitate, te auctore conualuit: sumpsit meritum <lb/>
+            queritur de <choice><sic>in becillitate</sic><corr>inbecillitate</corr></choice>, te auctore conualuit: sumpsit meritum <lb/>
             pontificis, dum testes sui arbiter se uociferatur nil mereri, <lb/>
             cui apicem actione sublimem conciliauit humilitas da, parem<lb n="10"/>
             nostris exordiis gratiam, quia propensiorem deberi actibus <lb/>
@@ -1599,10 +1600,10 @@
             et fauis scientia de domibus cereis ipse sibi liquentis elementi <lb/>
             nectar adsumat. habet, doctor uenerabilis, laus tua per <lb n="15"/>
             hunc ad cumulum perducta quod capiat: ex talium profectu <lb/>
-            meritorum tuorum plenitude non refutat augmenta, quia discipuli <lb/>
+            meritorum tuorum <choice><sic>plenitude</sic><corr>pleni tu de</corr></choice> non refutat augmenta, quia discipuli <lb/>
             elegantia adsertio est sine labe doctoris, eius maxime, <lb/>
             cuius prosapiem splendidam tempus postulat scientiae te radiis <lb/>
-            adornare, ut deeus originis in diem serenissimum procedat,<lb n="20"/>
+            adornare, ut <choice><sic>deeus</sic><corr>decus</corr></choice> originis in diem serenissimum procedat,<lb n="20"/>
             quando oris in ipso iubar effulserit.
 
 <note rend="script" type="footnote"> 1 defraado <hi rend="italic">LPTYb</hi> prwenti <hi rend="italic">B</hi> 4 nellet <hi rend="italic">T2,</hi> ueilit <hi rend="italic">B,</hi> nelit <lb/>
@@ -1642,7 +1643,7 @@
             est pro dicendi facultate laudatio: ab eloquentiae dote <lb/>
             radiantibus reddenda sunt litteris quae debentur, quia, sicut <lb n="15"/>
             gratuitum munus et opes et animum indicat largitoris, ita <lb/>
-            accepts denegari auaritiam et impudentiam reserat supprimentis. <lb/>
+            <choice><sic>accepts</sic><corr>accepta</corr></choice> denegari auaritiam et impudentiam reserat supprimentis. <lb/>
             libemus litterarum numini quod de ipsarum fluxit <lb/>
             altaribus. quantisuis enim materia ista copiis praedicationis <lb/>
             honoretur, qualibet effluat ubertate dictorum, de possessionis <lb n="20"/>
@@ -2067,10 +2068,10 @@
 <pb n="472"/>
              <lb/>
             proeliis, dum laboris pretium flagitat, et hostes et bella commendat, <lb/>
-            qui exhausts putat laboris esse suffragia, nisi quae <lb/>
+            qui <choice><sic>exhausts</sic><corr>exhausta</corr></choice> putat laboris esse suffragia, nisi quae <lb/>
             iratis caelicolis conferuntur, ut possit ciuitas eius perdere <lb/>
             quod. per ipsum creditur adquisisse. confidit genium bellatoris <lb/>
-            pictis tabulis et imaginibus non t eneri nec requirit ut seruetur<lb n="5"/>
+            pictis tabulis et imaginibus non <choice><sic>t eneri</sic><corr>teneri</corr></choice> nec requirit ut seruetur<lb n="5"/>
             saeculis aere formatus: sola. opinatur esse gaudia, quibus <lb/>
             euenit munus adulterii. si ad hoc te casibus obtulisti, ut <lb/>
             pro sudore tuo nominari pudeat quod requiris, nos non possumus <lb/>
@@ -2507,7 +2508,7 @@
             <hi rend="italic">B</hi> 26 submouero <hi rend="italic">TV</hi> sacrilegis <hi rend="italic">b</hi> </note> <lb/>
              
 <pb n="483"/>
-            luee reus accipiet, inter supplicia consumat, quia deuenustat <lb/>
+            <choice><sic>luee</sic><corr>luce</corr></choice> reus accipiet, inter supplicia consumat, quia deuenustat <lb/>
             referentem et alienorum actuum turpitudo. 
 </p>
             </div><div n="21" subtype="dictio" type="textpart">     <ab>
@@ -2830,7 +2831,7 @@
             te equidem partes, cum ab officio, cui eras per naturam <lb/>
             obnoxius, cessares, armasti: proficit uentoso munimini quod<lb n="20"/>
             genuinae negatum est turpiter puritati. crede mihi, lex cum <lb/>
-            parentem loeuta eat, non tacuit redemptorem: hortata est <lb/>
+            parentem <choice><sic>loeuta</sic><corr>locuta</corr></choice> eat, non tacuit redemptorem: hortata est <lb/>
             iussit extorsit uniuersa sufficienter inpleri religiosi operis <lb/>
             sacramenta per nomina. calamitas mea sensus tuos ad huius <lb/>
             rei intellectus obnubit: redemptio filii, quae est in diligentia <lb n="25"/>
@@ -3225,8 +3226,8 @@
              
 <pb n="500"/>
             sed quid agamus inter anxia et incerta deprehensi? recipiat <lb/>
-            nos pro remediis exosa nanigatio et lassatae rudentibus manus <lb/>
-            stuppea rursus uinola meditentur: haereat clauis dextera, ut <lb/>
+            nos pro remediis exosa <choice><sic>nanigatio</sic><corr>nauigatio</corr></choice> et lassatae rudentibus manus <lb/>
+            stuppea rursus <choice><sic>uinola</sic><corr>uincla</corr></choice> meditentur: haereat clauis dextera, ut <lb/>
             frenatae puppis per gubernaculum iura moderetur: depictus <lb/>
             sideribus axis reddatur aspectui: dispositionis nostrae itinera <lb n="5"/>
             noctium dirigantur indiciis. sit solacium luminibus meis, si <lb/>
@@ -3264,7 +3265,7 @@
             L laeto <hi rend="italic">B,</hi> loeto <hi rend="italic">LV</hi>exhibimus <hi rend="italic">B</hi> </note> <lb/>
              
 <pb n="501"/>
-            caelicolum potontiam aut liceret posteritati conferre quod <lb/>
+            caelicolum <choice><sic>potontiam</sic><corr>potentiam</corr></choice> aut liceret posteritati conferre quod <lb/>
             possidet aut caris decidentibus pro lamentationis termino <lb/>
             daretur occumbere. inferiores hominibus sumus quibus similes <lb/>
             paremus, in hoc deterius Parcarum ludibrio subiacentes, quia <lb/>
@@ -3309,7 +3310,7 @@
             tenerae aetatis primordiis imperaui. sed quid transacta recolo, <lb/>
             cum animum meum futurae calamitatis pulset immanitas ? <lb/>
             uideo Troiae fumantis excidia et statu eam manente subuersam: <lb/>
-            uideo Hectoris prcelia acerba Graiugenis, qui idcirco creuit<lb n="5"/>
+            uideo Hectoris <choice><sic>prcelia</sic><corr>proelia</corr></choice> acerba Graiugenis, qui idcirco creuit<lb n="5"/>
             opinionibus, ub suboli meae, dum occumbit, triumphi crescat <lb/>
             ad pretium: raptatum quadrigis adhuc bellaturi corpus agnosco, <lb/>
             et Achillis mei minui commodis quod ex pondere decrescit <lb/>
@@ -3326,7 +3327,7 @@
             auctor sceleris eam coniuncta sibi uniuersitate consenuit. <lb/>
             paene felix contumelia est, quae talem meretur etsi cum <lb/>
             maximo sudore uindictam. quid respuat suscipere necessitatem <lb n="20"/>
-            triumphi termino concludendam? saper sequentium amaritudinem <lb/>
+            triumphi termino concludendam? <choice><sic>saper</sic><corr>sapor</corr></choice> sequentium amaritudinem <lb/>
             rei praecedentis excludit: dulcescit quod doluimus, quia
 
 

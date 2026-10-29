@@ -83,6 +83,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 8 mots mal lus, 1 mot coupé.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -230,7 +231,7 @@
             salui fierent. Iactura <milestone unit="lemmmaend"/> damnum; iactura proprie dicitur, quam <note type="margin"> p. 12, i </note> <lb/>
             faciunt nautae in mari. Tempestate enim orta (onera) proiciuntur <lb/>
             in mare, ut leuigetur nanis. Ne pigeat <milestone unit="lemmmaend"/> ne pigrum te faciat. <lb n="25"/>
-            Anchoram <milestone unit="lemmmaend"/> f???rmitatem. Metaphoram sernat, quia superius <lb/>
+            Anchoram <milestone unit="lemmmaend"/> f???rmitatem. Metaphoram <choice><sic>sernat</sic><corr>seruat</corr></choice>, quia superius <lb/>
             dixit gurgitis profunditatem paschalis carminis, modo dicit \'anchora\' <lb/>
             pro fortitudine. CKVPA graece manus, inde anchora manus ferrea, <lb/>
             quae mordens terram facit stare nauim inmobilem. Pascha\' <lb/>
@@ -398,7 +399,7 @@
             Aeterne, aeternum a graeco deriuatur quod est eon, quod pro <lb/>
             perpetuo accipitur. Deus graece timor interpretatur, uenit autem <lb/>
             a graeco \'theoro\' <milestone unit="lemmmaend"/> uideo. Sedulius hic morem antiquorum seruauit <lb/>
-            peetarum et maxime Virgilii, proposuit enim, inuocauit, narranit. <lb/>
+            <choice><sic>peetarum</sic><corr>poetarum</corr></choice> et maxime Virgilii, proposuit enim, inuocauit, <choice><sic>narranit</sic><corr>narrauit</corr></choice>. <lb/>
             Procella dicitur eo quod percellat homines timore uel naues unda. <lb n="30"/>
             Sol dicitur eo quod solus apparet in die; luna dicitur quasi lucina, <lb/>
             ea est et Iuno. Apud gentiles dicitur lucina eo quod in lucem <lb/>
@@ -509,7 +510,7 @@
             cadunt. Abyssum, abyssum uocat nimiam profunditatem scripturarum, <lb/>
             nam abyssus nimia profunditas dicitur. Nimbis <milestone unit="lemmmaend"/>  pluuiis. <lb/>
             Nimbus dicitur densa et repentina pluuia et dicitur nimbus<lb n="15"/>
-            quasi nubus a nubibus, sicut imber quasi umber ab umbra. Ne ctaris <lb/>
+            quasi nubus a nubibus, sicut imber quasi umber ab umbra. <choice><sic>Ne ctaris</sic><corr>Nectaris</corr></choice> <lb/>
             <milestone unit="lemmmaend"/> dulcedinis. Nectar generale nomen est omnium dulcedinum. <lb/>
             Siccus dicitur quasi sine suco. Metallum uocat omne <lb/>
             durum. Christus erat panis, quoniam dedit eis panem <lb/>
@@ -597,7 +598,7 @@
             aratri, inde deliro  <milestone unit="lemmmaend"/>  exorbito, a uia rationis deuio. Proprie autem <lb/>
             delirare est, quando boues de sulco exorbitant, ita et senes delirare <lb/>
             dicuntur, quoniam a uera locutione recedunt. Bouem  <milestone unit="lemmmaend"/>  apin, <lb/>
-            nam apis uocatns est taurus, qui Isidi reginae offerebatur. Semihominemque <lb/>
+            nam apis <choice><sic>uocatns</sic><corr>uocatus</corr></choice> est taurus, qui Isidi reginae offerebatur. Semihominemque <lb/>
             <milestone unit="lemmmaend"/>  simiam, simia enim semihomo et semicanis<lb n="25"/>
             est. Tria genera sunt simiarum: una est uillosa, quae spinx dicitur, <lb/>
             alia cercopithecus dicitur caudam habens, tertia sine cauda, quae <lb/>
@@ -637,7 +638,7 @@
             utroque. Tunc Petrus missus est a Licinio, socio Constantini, in <lb/>
             carcerem propter fidem catholicam, quam praedicabat. Cui Christus <lb/>
             apparuit in specie pueri pulcherrimi inductus colobio candidissimo <lb/>
-            adeo ut uix conspicl posset, sed dilacerato ueluti a canibus. <lb n="25"/>
+            adeo ut uix <choice><sic>conspicl</sic><corr>conspici</corr></choice> posset, sed dilacerato ueluti a canibus. <lb n="25"/>
             Deinde Petrus grauatus pondere catenarum, quibus erat ligatus <lb/>
             et non ualens surgere, clamauit dicens: Domine quis ita te affecit <lb/>
              <milestone unit="lemmmaend"/>  dilacerauit? Cui dixit Dominus: Arrius me scidit, diuisit enim <lb/>
@@ -1107,7 +1108,7 @@
             dominus non est mortua\'. Vtrumque tamen uerum est, nam hominibus <lb/>
             mortua erat, illi qui suscitare eam poterat, non erat mortua, <lb/>
             sed dormiebat. Biothanatus  <milestone unit="lemmmaend"/>  bis mortuus, nam thanatos  <milestone unit="lemmmaend"/>  mortalis, <lb n="5"/>
-            athanatos, immortalis. Inclite  <milestone unit="lemmmaend"/>  generose, cleos enim <note type="margin"> v. 144—217 <lb/>
+            athanatos, immortalis. Inclite  <milestone unit="lemmmaend"/>  generose, <choice><sic>cleos</sic><corr>deos</corr></choice> enim <note type="margin"> v. 144—217 <lb/>
             </note>gloria. Filius Dauid dicitur, non aliorum patrum, quia ad eum, <lb/>
             repromissiones de filio dei specialiter factae sunt. Cognosce <lb/>
             pro cognoscere. Torpens  <milestone unit="lemmmaend"/>  pigrescens, deficiens. Sed domus <lb/>
@@ -1159,7 +1160,7 @@
             ipso odorem dat, odoratum quod aliunde accipit sicut uestimentum, <lb/>
             odorisecum quod insequitur odorem sicut canis. In sentibus  <milestone unit="lemmmaend"/>  <lb/>
             in errore gentilitatis. De gramine  <milestone unit="lemmmaend"/>  de doctrina euangelii  <milestone unit="lemmmaend"/>  de <lb/>
-            scientia dininarum scripturarum, quae Hebreis datae sunt. Hebrei <lb/>
+            scientia <choice><sic>dininarum</sic><corr>diuinarum</corr></choice> scripturarum, quae Hebreis datae sunt. Hebrei <lb/>
             enim tunc in deum credebant, aliae uero gentes nondum credebant,<lb n="20"/>
             unde psalmista: Notus in Iudea deus. Attemperat  <milestone unit="lemmmaend"/>  coaptat; <lb/>
             organum uocat officia membrorum, nostrum enim corpus quasi ex <lb/>
@@ -1807,7 +1808,7 @@
             sanguis eius fuit effusus et cotidie potamus ex co. Euinxerat <lb/>
              <milestone unit="lemmmaend"/>  ualde ligauerat. Vincla  <milestone unit="s"/>  caritatis  <milestone unit="s"/>  apostolis et martyribus,<lb/>
             quos non poterant supplicio terrere. Hostes  <milestone unit="lemmmaend"/>  inimici Iudei. <lb n="25"/>
-            Properare aduenturn indicum priorum  <milestone unit="lemmmaend"/>  prophetarum. Munera <lb/>
+            Properare <choice><sic>aduenturn</sic><corr>aduentum</corr></choice> indicum priorum  <milestone unit="lemmmaend"/>  prophetarum. Munera <lb/>
             nostra  <milestone unit="lemmmaend"/>  corpus et sanguinem nostrorum. Priorum  <milestone unit="s"/>  prophetarum. <lb/>
             Piis  <milestone unit="lemmmaend"/>  sanctis. Sectae  <milestone unit="lemmmaend"/>  hereses plenae sunt in <lb/>
             ecclesia. C Corui  <milestone unit="lemmmaend"/>  impii. Columba  <milestone unit="lemmmaend"/>  ecclesia. Prauis, <lb/>

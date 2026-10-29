@@ -86,6 +86,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 1 césure, 1 mot collé, 1 mot coupé.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -268,7 +269,7 @@
             ueri, martyres sancti. uiderunt quippe tenueruntque <lb/>
             quod dictum est: corde creditur ad iustitiam, ore confessio <lb n="10"/>
             fit ad salutem, et: in ore eorum non est inuentum <lb/>
-            en t U III mend acium, ac sic inreprehensibiles abierunt, <lb/>
+            en t U III <choice><sic>mend acium</sic><corr>mendacium</corr></choice>, ac sic inreprehensibiles abierunt, <lb/>
             ubi temptari a mendacibus ulterius non cauebunt, quia mendaces <lb/>
             amplius in suis caelestibus coetibus uel alienos uel <lb/>
             proximos non habebunt. illum uero Iehu mendacio inpio et <lb n="15"/>
@@ -729,7 +730,7 @@
             <hi rend="italic">V</hi> ideo] inde <hi rend="italic">TCh</hi> 6 tot antiqui &lt;p tantique] antiqui <hi rend="italic">FL</hi> <lb/>
             7 dampnati <hi rend="italic">V</hi> parti <hi rend="italic">V</hi> incorrecti <hi rend="italic">B</hi> correpti <sic>tp</sic> 8 correpti &lt;p <lb/>
             et in ecclesiam miserantem <hi rend="italic">bd</hi> conlecti] correcti <hi rend="italic">V</hi> enim habet <lb/>
-            (habet <hi rend="italic">a. I.)</hi> y 9 dat <hi rend="italic">om</hi>. y 10 uel <hi rend="italic">om. V</hi> 11 quose ducere V <lb/>
+            (habet <hi rend="italic">a. I.)</hi> y 9 dat <hi rend="italic">om</hi>. y 10 uel <hi rend="italic">om. V</hi> 11 <choice><sic>quose</sic><corr>quo se</corr></choice> ducere V <lb/>
             ne duxerant <hi rend="italic">V</hi> 12 resipisentibus y fit] sit ii sine farius <hi rend="italic">V</hi> <lb/>
             13 error eorum <hi rend="italic">FL</hi> aptationibus 9 14 operam te] operanter <hi rend="italic">T</hi> <lb/>
             operante <hi rend="italic">Ch ? </hi> 16 quae] querere <hi rend="italic">V</hi> scribta <hi rend="italic">T</hi> 18 antistibus T1^ <lb/>
@@ -1548,8 +1549,7 @@
             in ueritate, sed sunt seu praeterita seu praesentia seu futura, <lb/>
             procul dubio uera significatio est nullumque mendacium. sed<lb n="15"/>
             nimis longum est in hac significatione prophetica enucleate <lb/>
-            cuncta rimari, in quibus palmam ueritas habet, quia ut signi- <lb/>
-            ficando praenuntiata sunt, ita consequendo claruerunt. 
+            cuncta rimari, in quibus palmam ueritas habet, quia ut signi<lb break="no"/>ficando praenuntiata sunt, ita consequendo claruerunt. 
 </p>
           
 </div>

@@ -87,6 +87,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 3 mots mal lus.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -288,7 +289,7 @@
           <p><hi rend="italic">Item quod eum dixisse commemorat:</hi> 
 </p>
           <p>Quas Iob litteras legerat, ut abstineret se ab omni re maligna ? <lb n="15"/>
-            quia deum sola mente uitiis non ammixta ueneratur, deum autcm <lb/>
+            quia deum sola mente uitiis non ammixta ueneratur, deum <choice><sic>autcm</sic><corr>autem</corr></choice> <lb/>
             colere proprium iustitiae officium est. 
 </p>
           <p><hi rend="italic">Quid fecisset; lob dicit, non quid in hoc saeculo perfecisset aut sine<lb/>
@@ -411,7 +412,7 @@
           <p>Nam et cum dicit scriptura: homo Christus et cum dicit: <lb n="5"/>
             Christus mortuus est et cum dicit: uerbum caro <lb/>
             factum est, non spoliandus est per fraudulentiam legentis <lb/>
-            expositionibus suis sermo. namque ubi \'homo Christus\' est, praccedit <lb/>
+            expositionibus suis sermo. namque ubi \'homo Christus\' est, <choice><sic>praccedit</sic><corr>praecedit</corr></choice> <lb/>
             : mediator dei atque hominum: ex deo homo, <lb/>
             utrumque unum et inter hominem et deum medius confessione in <lb n="10"/>
             se utriusque naturae. ubi \'Christus mortuus\', subicitur: qui <lb/>
@@ -462,7 +463,7 @@
             
 </p>
           <p>Ergo cum missus est, <hi rend="italic">inquit,</hi> in similitudine carnis peccati, <lb/>
-            non sicut oarnem habuit, ita habuit et peccatum. sed quia ex <lb/>
+            non sicut <choice><sic>oarnem</sic><corr>carnem</corr></choice> habuit, ita habuit et peccatum. sed quia ex <lb/>
             peccato omnis caro est, a peccato scilicet Adam parente deducta, <lb/>
             in similitudine peccati carnis est missus existente in eo non <lb/>
             peccato, sed peccati carnis similitudine.

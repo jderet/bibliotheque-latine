@@ -85,6 +85,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 3 mots mal lus, 1 mot collé.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -238,7 +239,7 @@
             est: unde loquendi consuetudine spirare dicuntur qui uiuunt et exspirasse <lb/>
             qui uitam finierunt. quin et anima Latinis flatus dicitur ad <lb/>
             Graecae uocis imitationem, qui uentum <foreign xml:lang="grc">ἄνεμον</foreign> uocant super haec <lb/>
-            sunt in ipso homine subtilissimi spiritus a corde ubi fontom habent <lb n="5"/>
+            sunt in ipso homine subtilissimi spiritus a corde ubi <choice><sic>fontom</sic><corr>fontem</corr></choice> habent <lb n="5"/>
             sparsi per uniuersum corpus, sed praecipue per arterias commeantes, <lb/>
             licet et aliis partibus omnibus mixti: hi si subito euolent, mortem <lb/>
             praesentem afferunt : sin includantur, lenta aegrotatione consumunt <lb/>
@@ -491,7 +492,7 @@
             lupos stabat placido angelicoque uultu et ad Domini exemplum orat <lb/>
             pro lapidantibus nec alibi habet oculos quam in caelum. illic uidere <lb/>
             meruit, cuius praesidio superior erat persequentibus. qui uero timet <lb n="25"/>
-            Deum, non metuit hominum saeuitias. qui ex animo diligit uitam caeIestem, <lb/>
+            Deum, non metuit hominum saeuitias. qui ex animo diligit uitam <choice><sic>caeIestem</sic><corr>caelestem</corr></choice>, <lb/>
             facile uilem habet animam atque illi cum beato Paulo ui uere <lb/>
             Christus est, mori lucrum. an non ingens lucrum est hanc et <lb/>
             breuem et innumeris malis contaminatam uitam cum sempiterna felicitate <lb/>
@@ -598,7 +599,7 @@
           </div>
 
 <div n="18" subtype="section" type="textpart"><p> Nec solum professione fidei, quae iuxta Paulum ore fit ad salutem, <lb/>
-            glorificatur Deus: uerumetiam confessione commissorum. haec ne temere <lb/>
+            glorificatur Deus: <choice><sic>uerumetiam</sic><corr>uerum etiam</corr></choice> confessione commissorum. haec ne temere <lb/>
             ex nobis ipsis loqui uideamur, adducenda sunt scripturarum testimonia. <lb n="5"/>
             ergo nisi piorum uita cederet in gloriam Dei, Christus non <lb/>
             diceret in euangelio: ut uideant opera uestra bona et glorificent <lb/>
@@ -1183,7 +1184,7 @@
 </p>
           </div>
 
-<div n="37" subtype="section" type="textpart"><p>Eihmci putant plurea esse deos, et hoc tibi uideris perfectus Christiauus,  <lb/>
+<div n="37" subtype="section" type="textpart"><p>Eihmci putant plurea esse deos, et hoc tibi uideris perfectus <choice><sic>Christiauus</sic><corr>Christianus</corr></choice>,  <lb/>
             quod persuasum habes unum esse Deum? quid magni facis? <lb/>
             idem credunt Iudaei qui quotidie blasphemant in synagogis suis: idem <lb/>
             credunt daemones et contremiscunt. si uere credis in Deum, crede iustum <lb/>

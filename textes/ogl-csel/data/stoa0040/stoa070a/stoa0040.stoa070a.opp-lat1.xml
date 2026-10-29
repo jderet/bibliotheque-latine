@@ -87,6 +87,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 5 mots collés.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -490,7 +491,7 @@
 <p>Donatista dixit: Aperta confectio perfidorum isto loco monstratur,<lb n="25"/>
             quae inimica praesumptione a facinoroso sacerdote contacta polluitur, <lb/>
             cuius sacrificium uelut oleum uoce diuina respuitur. facineros <lb/>
-            u s, inquit, qui sacrificatmihi (uitulum) uelut quicanem
+            u s, inquit, qui sacrificatmihi (uitulum) uelut <choice><sic>quicanem</sic><corr>qui canem</corr></choice>
 
 <note type="footnote"> 1 Prou. 24, 36. 35 (30, 13. 12) 5 Esai. 43, 26 6 1 Ioh. 1, 8 <lb/>
             9 Ps. 140, 5 13 Eccle. 7, 21 15 Ps. 140, 5 18 Prou. 27, 6 <lb/>
@@ -756,7 +757,7 @@
             qui donum dei in tuo ponis arbitrio. si enim tactus sancti inmundi <lb/>
             inquinamenta non tollit, uanum est quod geritis, quod <lb/>
              conficitis, quod lauatis. si tetigerit, inquit, quod sanctum <lb n="30"/>
-            est creaturam panisaut uiniuelolei, sanctificabitur?
+            est creaturam <choice><sic>panisaut</sic><corr>panis aut</corr></choice> uiniuelolei, sanctificabitur?
 
 <note type="footnote"> 4 Esai. 14, 12-15 17 Agg. 2, 11-14 30 Agg. 2, 12 </note>
 
@@ -891,8 +892,8 @@
             regis tribu non milites, cur desertor corripis militem, cur reus <lb/>
             increpas innocentem? et ego tibi dico: attende tibi, ne offeras <lb n="15"/>
             in omniloco — hoc est in omni haeresi — et dicas: \'et hic <lb/>
-            est deus et ibi est deus\', sed in loco quem elegerit dominus deustuus in <lb/>
-            tributua — hoc est in tribu eius —, ibi <lb/>
+            est deus et ibi est deus\', sed in loco quem elegerit dominus <choice><sic>deustuus</sic><corr>deus tuus</corr></choice> in <lb/>
+            <choice><sic>tributua</sic><corr>tribu tua</corr></choice> — hoc est in tribu eius —, ibi <lb/>
             offeres holocaustomata tua et ibi facies omnia quaecumque <lb/>
             praecepta sunt tibi. hoc fac, et uiues. <lb n="20"/>
             
@@ -908,7 +909,7 @@
             letales aquas Helisaeus sanctissimus discussa morte sanauit et <lb n="25"/>
             maritante sermone in fetus uberes meare permisit: et dixerunt <lb/>
             uiri ciuitatis ad Helisaeum: ecce commoratio ciuitatisbona, <lb/>
-            sicutet tu, domine, uides, sed aquae malae <lb/>
+            <choice><sic>sicutet</sic><corr>sicut et</corr></choice> tu, domine, uides, sed aquae malae <lb/>
             et steriles sunt hic. et dixit Helisaeus: accipite <lb/>
             mihi unum uas fictile et mittite in eum sale. et acceperunt <lb n="30"/>
             illud, et uenit ad exitus aquarum et proiecit

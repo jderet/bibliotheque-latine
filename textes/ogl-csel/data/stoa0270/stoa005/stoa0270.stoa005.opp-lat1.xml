@@ -85,6 +85,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 1 mot mal lu.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -425,7 +426,7 @@
 
 
 <pb n="144"/>
-            quia uoto adque uirtute et potuit esse martyr et ueluit. quodsi <lb/>
+            quia uoto adque uirtute et potuit esse martyr et <choice><sic>ueluit</sic><corr>uoluit</corr></choice>. quodsi <lb/>
             ei Neronianis Decianisque temporibus in illa. quae tunc extitit, <lb/>
             dimicare congressione licuisset, testor Deum caeli atque terrae, <lb/>
             sponte eculeum ascendisset, ultro se ignibus intulisset.. Hebraeisque<lb/>

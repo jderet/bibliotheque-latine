@@ -89,6 +89,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 2 mots collés.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -832,7 +833,7 @@
             uentri et uenter escis, deus autem et hunc et has <lb/>
             euacuabit. item alibi de hoc ipso: omnia licita sunt, <lb/>
             sed non omnia expediunt; omnia licita sunt, sed <lb n="25"/>
-            non omnia aedificant. nemo quod suum estquaerat, <lb/>
+            non omnia aedificant. nemo quod suum <choice><sic>estquaerat</sic><corr>est quaerat</corr></choice>, <lb/>
             sed id quod alterius est. atque ut ostenderet unde
 
 <note type="footnote">2 I Cor. 9, 4—7 10 I Cor. 9, 12 14 I Cor. 9, 18 17 I Cor. <lb/>
@@ -1145,7 +1146,7 @@
             neque contra iussionem aliquid prohiberet. proinde in his <lb/>
             duabus causis, una de nubendo uel non nubendo, altera de <lb/>
             infideli coniuge dimittendo uel non dimittendo, aliquid simile<lb n="15"/>
-            est in uerbis apostoli, aliquid dissimile. simile quidem illudquod <lb/>
+            est in uerbis apostoli, aliquid dissimile. simile quidem <choice><sic>illudquod</sic><corr>illud quod</corr></choice> <lb/>
             et ibi dicit: praeceptum domini non habeo, consilium <lb/>
             autem do, et hic dicit: ego dico, non dominus. <lb/>
             quale est enim \'praeceptum domini non habeo\\ tale <lb/>

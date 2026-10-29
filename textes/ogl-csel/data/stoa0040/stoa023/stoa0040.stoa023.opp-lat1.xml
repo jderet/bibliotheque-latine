@@ -89,6 +89,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 1 mot mal lu, 1 mot collé.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -2631,7 +2632,7 @@
             magis enim nos dicimus: nomen domini eorum est<lb n="15"/>
             qui eum metuunt, quamuis permixti sint turbis eorum qui <lb/>
             eum non metuunt, et illud quod apostolus ait: nouit dominus <lb/>
-            qui sunt eiuset recedat ab iniustitia omnis qui inuocat <lb/>
+            qui sunt <choice><sic>eiuset</sic><corr>eius et</corr></choice> recedat ab iniustitia omnis qui inuocat <lb/>
             nomen domini. si enim bono pacis, ne ante tempus cum <lb/>
             zizania colliguntur eradicetur simul et triticum, necessitate<lb n="20"/>
             cogitur quisquam esse inter iniustos, recedat tamen ab iniustitia, <lb/>
@@ -3557,7 +3558,7 @@
             uerba sic intellegere, ita eos Optatum Gildonianum uelle defendere, <lb/>
             ut nec modicum fermenti eum fuisse concedant. quodsi <lb n="20"/>
             uel hoc concedunt, quam magnam putant esse massam suam, <lb/>
-            ut non potuerit tota corrumpi? aut si in eis solis eorrupta <lb/>
+            ut non potuerit tota corrumpi? aut si in eis solis <choice><sic>eorrupta</sic><corr>corrupta</corr></choice> <lb/>
             est quibus placebat Optatus, experti discant intellegere quod <lb/>
             legunt, quia in his est massa tota, ad quos pertinet quod <lb/>
             dicitur totum siue bonum siue malum. ad eos autem pertinet <lb n="25"/>

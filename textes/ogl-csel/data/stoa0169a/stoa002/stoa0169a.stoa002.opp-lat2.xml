@@ -86,7 +86,8 @@
             </langUsage>
         </profileDesc>
         
-  </teiHeader>
+  <revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 1 mot mal lu.</change></revisionDesc>
+</teiHeader>
 <text>
 <body>
 <div type="edition" xml:lang="lat" n="urn:cts:latinLit:stoa0169a.stoa002.opp-lat2">
@@ -6307,7 +6308,7 @@
              
 <pb n="136"/>
             <l n="568">Insultant uerbisque omnes inludere certant:  </l>
-            <l n="569">\'Christe, profetabis, cuius tibi palma sonarit!\' </l>
+            <l n="569">\'Christe, profetabis, cuius tibi palma <choice><sic>sonarit</sic><corr>sonant</corr></choice>!\' </l>
 
           <l n="570"><milestone unit="para"/>At Petrum mulier tristem quod uiderat intus,  </l>
             <l n="571">\'Tune etiam, iuuenis, fueras comes additus, inquit,  </l>

@@ -86,6 +86,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 2 mots mal lus.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -105,7 +106,7 @@
             ad studium intellegentiae permouet hominis; contemtus aut gratia. <lb/>
 </p></div>
 
-<div n="2" subtype="section" type="textpart"><p>            sed mihi apud te de diuina re pia dicturo nullus uulgatae consuctudinis  <lb n="10"/>
+<div n="2" subtype="section" type="textpart"><p>            sed mihi apud te de diuina re pia dicturo nullus uulgatae <choice><sic>consuctudinis</sic><corr>consuetudinis</corr></choice>  <lb n="10"/>
             metus est, quia, cum sis bonus ac religiosus, nec uitium <lb/>
             iudicii apud prudentes religionum, quid a quo audiat, sed an, quae <lb/>
             audiat,sint religiosa, diiudicet. et quia mihi a deo [de] praesentia tuae <lb/>
@@ -480,7 +481,7 @@
             quae non scripta sunt, praedicentur. summitte ad ca, quae de <lb/>
             libris loquuturus sum, aures tuas.</p></div>
 
-<div n="2" subtype="section" type="textpart"><p>fidem tuam ad dcum erigas. audi,  <lb/>
+<div n="2" subtype="section" type="textpart"><p>fidem tuam ad <choice><sic>dcum</sic><corr>deum</corr></choice> erigas. audi,  <lb/>
             quod proficit ad fidem, ad unitatem, ad aeternitatem. loquuturus <lb n="15"/>
             tecum sum cum honore regni et fidei tuae omnia ad Orientis et <lb/>
             Occidentis pacem proficientia, sub publica conscientia, sub synodo <lb/>

@@ -85,6 +85,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 1 mot collé, 3 mots mal lus.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -238,7 +239,7 @@
             omnes mali in terra corporales thesauros suos aut omnes boni <lb/>
             in caelo locant? non utique.</p></div>
 
-<div n="9" subtype="section" type="textpart"><p>et ideo effeetus spiritalium  <lb/>
+<div n="9" subtype="section" type="textpart"><p>et ideo <choice><sic>effeetus</sic><corr>effectus</corr></choice> spiritalium  <lb/>
             rerum atque uirtutes uis sacrae locutionis expressit. scilicet <lb n="10"/>
             ut, quia cupiditati et auaritiae terrena atque tartarea, misericordiae <lb/>
             autem ac largitati caelestia ac sempiterna debentur, <lb/>
@@ -873,7 +874,7 @@
             erit patiens dominus delictis tuis. ita ergo  <lb/>
             et iste faciat, ut ille dixit.</p></div>
 
-<div n="52" subtype="section" type="textpart"><p>utatur medioamento alii oblato <lb/>
+<div n="52" subtype="section" type="textpart"><p>utatur <choice><sic>medioamento</sic><corr>medicamento</corr></choice> alii oblato <lb/>
             ad sua uulnera, uereatur oontumaciae inoboedientis exemplum,<lb n="20"/>
             cogitet quid ipse sit passurus in morte, cum uideat quid rex <lb/>
             Assyrius pertulerit in uita. euidens est de superbia ac <lb/>
@@ -1204,7 +1205,7 @@
             uniuersi sic totum singuli, nisi quod prope hoc plus singuli <lb/>
             quam uniuersi, quod tantum acceperunt singuli quantum uniuersi. <lb/>
             ubi enim hoc unus accipit quod uniuersi, etsi par est <lb/>
-            mensura, maior inuidia est. quo fit ut, licet ipsum aecipiat, <lb/>
+            mensura, maior inuidia est. quo fit ut, licet ipsum <choice><sic>aecipiat</sic><corr>accipiat</corr></choice>, <lb/>
             plus debere uideatur, quia magis fit unus obnoxius, qui uidetur <lb n="25"/>
             omnibus conparatus. haec ergo hactenus, quia debitores deo <lb/>
             quidam sanctorum esse se non putant, cum debitum aestimare <lb/>
@@ -1308,7 +1309,7 @@
             linguae ac praeceptorum caelestium uoces sonent, et tum . <lb/>
             rectissime secundum datam a deo normam opinionis nostrae <lb/>
             regulam dirigemus. ac primum non est, quod confugiendum <lb/>
-            sibi nunc quisquam putet ad ueterumex$mplorum esse solacia, <lb/>
+            sibi nunc quisquam putet ad <choice><sic>ueterumex</sic><corr>ueterum ex</corr></choice>$mplorum esse solacia, <lb/>
              ut dicat aliquos fortasse sanctos aut in lege aut ante legem <lb n="30"/>
             diuites fuisse. abiit quippe illud tempus, mutata ratio est.
 

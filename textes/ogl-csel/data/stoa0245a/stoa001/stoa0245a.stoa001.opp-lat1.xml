@@ -89,6 +89,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 1 mot mal lu, 1 mot collé.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -4207,7 +4208,7 @@
             sicut beatitudo uestra de saeculari auctore mutuata est, de <lb/>
             colore barbae albentis agnosco, cum, etiamsi esset error in <lb/>
             conputo, senescentis annos de torpore membrorum per morbi <lb/>
-            incrementa sentirem. sed omni precum humilitate deposco, utpro <lb/>
+            incrementa sentirem. sed omni precum humilitate deposco, <choice><sic>utpro</sic><corr>ut pro</corr></choice> <lb/>
             correctione morum meorum, pro inspirando mihi desiderio<lb n="20"/>
             paenitendi, pro domini nostri propitiatione in sanctis uestris <lb/>
             orationibus supplicetis, ut, qui ad uitandum procliue illius <lb/>
@@ -4275,7 +4276,7 @@
             egritudo S decepte S </note> <lb n="25"/>
              
 <pb n="447"/>
-            et anxietas cumulatur, in animum meum pariter conueuerunt. <lb/>
+            et anxietas cumulatur, in animum meum pariter <choice><sic>conueuerunt</sic><corr>conuenerunt</corr></choice>. <lb/>
             et scit dominus, quod, si uires suppeterent aut parere desideriis <lb/>
             aetatis infirmitas pateretur aut, si essent animalia, quibus <lb/>
             tantum tali tempore posset itineris expediri, non prius ego a <lb/>

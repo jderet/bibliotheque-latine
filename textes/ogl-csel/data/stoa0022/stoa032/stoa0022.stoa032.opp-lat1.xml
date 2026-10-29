@@ -88,6 +88,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 1 mot mal lu, 2 mots collés.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -202,7 +203,7 @@
             dominum suum, qui se sub umbra optegat, aut <lb/>
             sicut mercennarius expectans mercedem suam? <lb n="15"/>
             sic et ego expectaui menses uacuos, noctes autem <lb/>
-            dolorum datae suntmihi. siquiescam, dico: quando <lb/>
+            dolorum datae <choice><sic>suntmihi</sic><corr>sunt mihi</corr></choice>. <choice><sic>siquiescam</sic><corr>si qui escam</corr></choice>, dico: quando <lb/>
             dies? si surgam, iterum: quando uesper? plenus <note type="margin"> C </note> <lb/>
             sum doloribus a uespere usque mane. fermentatur <lb/>
             mihi corpus in putredine uermium, liquefacio <lb n="20"/>
@@ -1764,7 +1765,7 @@
             sapientiam inuestigare, non in abysso eam quaerat sicut <lb/>
             philosophi, qui arbitrantur quod ipsi sua sponte suo ingenio <lb n="15"/>
             profunda eius possint cognoscere, non in mari eam requirat <note type="margin"> B </note> <lb/>
-            — etenim ubi tempestas, ubi procelia uenti est, non potest <lb/>
+            — etenim ubi tempestas, ubi <choice><sic>procelia</sic><corr>procella</corr></choice> uenti est, non potest <lb/>
             ibi esse sapientia — sed ibi quaerat, ubi est tranquillitas <lb/>
             mentis et pax, quae super omnem intellectum est.
 

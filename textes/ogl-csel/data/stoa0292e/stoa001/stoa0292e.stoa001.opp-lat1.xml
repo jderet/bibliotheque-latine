@@ -86,6 +86,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 5 mots collés, 1 mot mal lu.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -1371,7 +1372,7 @@ ideoque ait: unum de animalibus, quia omnia quattuor unum<lb/>
             erit pax terrae, cum surrexerint in ea VII pastores <lb/>
             et octo morsus (hominum) et indagabunt Assur-id est <lb/>
             Antichristum — in fossam Nebroth: in damnationem diaboli. <lb/>
-            etEcclesiastes similiter dixit: cum commoti fuerint custodes <lb/>
+            <choice><sic>etEcclesiastes</sic><corr>et Ecclesiastes</corr></choice> similiter dixit: cum commoti fuerint custodes <lb/>
             domus. ipse autem dominus sic ait: cum uenissent ad <lb n="5"/>
             eum operarii et dixerunt ei: domine, nonne bonum <lb/>
             semen seminasti in tuo agro? unde ergo ibi lolium? <lb/>
@@ -1580,7 +1581,7 @@ ideoque ait: unum de animalibus, quia omnia quattuor unum<lb/>
 
 <div n="2" subtype="section" type="textpart"><p rend="script"> <note type="margin"> 11, 2 </note> [fol. 14v] Aulam autem interiorem eice foras. aula <lb/>
             atrium dicitur, uacua inter parietes area. hos tales non neces-<note type="margin">11, 2 </note> <lb n="15"/>
-            sarios eici iussit de ecclesia. quia data est, inquit, calcari <lb/>
+            <choice><sic>sarios</sic><corr>sanos</corr></choice> eici iussit de ecclesia. quia data est, inquit, calcari <lb/>
             &lt;a&gt;g e n t i b u s, id est huiusmodi homines aut a gentibus aut cum <lb/>
             gentibus conculcari. deinde repetit de nouissimi temporis ruina
 
@@ -1960,7 +1961,7 @@ ideoque ait: unum de animalibus, quia omnia quattuor unum<lb/>
             id est ciuitas Romana: et reges VII sunt: V ceciderunt, <lb/>
             unus est, et alius nondum uenit; et cum uenerit, <note type="margin"> 17,8.11 </note><lb/>
             breui tempore erit. et bestia quam uidisti de VII <lb/>
-            estetoctaua est. intellegi igitur oportet (tempus), quo scribitur<lb n="5"/>
+            <choice><sic>estetoctaua</sic><corr>est et octaua</corr></choice> est. intellegi igitur oportet (tempus), quo scribitur<lb n="5"/>
             apocalypsis, quoniam tunc erat Caesar Domitianus. ante illum <lb/>
             autem fuerat Titus frater ipsius et Vespasianus pater ipsorum, <lb/>
             Otho, Vitellius et Galba. hi sunt \'V qui ceciderunt\'; \'unus <lb/>
@@ -2395,7 +2396,7 @@ ideoque ait: unum de animalibus, quia omnia quattuor unum<lb/>
             quo modo tu stas — id est a flumine magno Eufrate <lb n="10"/>
             usque ad flumen Aegypti —; omnem terram quam <lb/>
             tu aspicis, tibi dabo illam et semini tuo. deinde spiritus <lb/>
-            sanctus ait: dominabitur a mari usque ad mareid <lb/>
+            sanctus ait: dominabitur a mari usque ad <choice><sic>mareid</sic><corr>mare id</corr></choice> <lb/>
             est a mari rubro usque ad Arabiae et (a mari) aquilonis <lb/>
             usque ad mare Phoenices — et usque ad fines terrae:<lb n="15"/>
             sunt Syriae maioris partes. [fol. 21r has igitur prouincias <lb/>
@@ -2433,7 +2434,7 @@ ideoque ait: unum de animalibus, quia omnia quattuor unum<lb/>
             orta est. non enim sol inluminabit tibi (die neque. <lb/>
             luna tibi) nocte; erit enim tibi dominus deus tuus <lb/>
             lumen aeternum. et Dauid ait: et erit firmamentum in<lb n="5"/>
-            terrasuper cacumina montium, et exaltabitur super <lb/>
+            <choice><sic>terrasuper</sic><corr>terra super</corr></choice> cacumina montium, et exaltabitur super <lb/>
             Libanum fructus eius, et florebunt de ciuitate tamquam <lb/>
             faenum terrae. Danihel autem dixit lapidem sine <lb/>
             manibus excisum percussisse statuam habentem quattuor in se — <lb/>
@@ -3334,7 +3335,7 @@ ideoque ait: unum de animalibus, quia omnia quattuor unum<lb/>
             irin autem circum solium: eosdem colores habet iris et <lb/>
             arcus dicitur, de quo etiam ad Noe et filios eius locutus est <lb/>
             dominus. ne timerent inrigationem dei. iam statuam, inquit, <lb/>
-            arcum meum in nubibus, ne iam aquam timeatis sed ignemante <lb/>
+            arcum meum in nubibus, ne iam aquam timeatis sed <choice><sic>ignemante</sic><corr>ignem ante</corr></choice> <lb/>
             solium autem tamquam mare uitreum simile <note type="margin"> 4, 6 </note> <lb n="5"/>
             cristallo: donum baptismi, quod per filium suum paenitentiae <lb/>
             tempore, antequam iudicium iudicet, effundit; ideo ante <lb/>

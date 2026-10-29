@@ -87,6 +87,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 1 césure, 1 mot collé.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -105,7 +106,7 @@
             aliquot annos conueneramus eos publice, ut nobis conferentibus <lb/>
             ueritas appareret et dissensio quae nos diuidit de medio tolleretur, <lb/>
             sed ipsam ueritatem refugientes actis responderunt: <lb/>
-            in dignum estutin unum conueniant filii martyrum <lb/>
+            in dignum <choice><sic>estutin</sic><corr>est ut in</corr></choice> unum conueniant filii martyrum <lb/>
             et progenies traditorum. quare ergo modo nobiscum <lb n="15"/>
             conuenire uoluerunt? puto quod non facerent, quod eis uidebatur <lb/>
             indignum, nisi nos cognoscerent non esse progeniem <lb/>
@@ -2558,8 +2559,7 @@
             non attigerunt. quis ergo eos illi mandato nostro respondisse <lb/>
             arbitretur, quando contra haec omnia nullum uerbum <lb/>
             facere nec saltem qualiscumque responsionis obumbratione <lb/>
-            conati sunt? quod autem uisi sunt respondere, legat qui uo-<lb n="20"/>
-            luerit et iudicet eidem ipsi mandato nostro conferens litteras <lb/>
+            conati sunt? quod autem uisi sunt respondere, legat qui uo<lb n="20" break="no"/>luerit et iudicet eidem ipsi mandato nostro conferens litteras <lb/>
             eorum praeter responsionem quam continuo reddidimus, qua <lb/>
             omnia uanitatis eorum machinamenta subuersa sunt. 
 </p>

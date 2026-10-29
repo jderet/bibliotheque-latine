@@ -84,6 +84,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 2 mots mal lus, 1 mot collé.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -232,7 +233,7 @@
             celabis eum. adnuntians adnuntiabis de eo. manus tuae crunt <lb/>
             in eum in primis ad occidendum eum et manus populi tui <lb/>
             in nouissimo. et lapidabitis illum, et morietur, quoniam quaesiit <lb/>
-            absistere a domino deo tuo</hi>. praeceptum te interfiei quippe <lb n="20"/>
+            absistere a domino deo tuo</hi>. praeceptum te <choice><sic>interfiei</sic><corr>interfici</corr></choice> quippe <lb n="20"/>
             deum me derelinquere inuitantem ignorans dicis: <hi rend="italic">contumeliam <lb/>
             mihi facit Lucifer</hi>. aut negabis te ad idololatriam inuitasse <lb/>
             nos suscipiendam? si censes negandum, conuincent te expositiones <lb/>
@@ -1517,7 +1518,7 @@
             si non recte contempsissemus sacrilegum edictum tuum. <lb/>
             respice etenim conperditi tui quid praeceperint duces Iudaeorum <lb/>
             apostolis et contra quid fecerit beatorum chorus apostolorum, <lb/>
-            et inuenies nos non esse petulantes, sed ettibiet <lb/>
+            et inuenies nos non esse petulantes, sed <choice><sic>ettibiet</sic><corr>et tibi et</corr></choice> <lb/>
             nobis consultum esse cupientes. <hi rend="italic">Petrus autem et Iohannes <lb n="25"/>
             ascendebant in templum ad horam orationis nonam. et qui. <lb/>
             dam uir claudus ex utero matris suae portabatur, quem cotidie <lb/>
@@ -2519,7 +2520,7 @@
             eis qui te nunc haec facere conpulserunt, hoc est coarrianis <lb/>
             tuis: <hi rend="italic">peccaui uobiscum, negans unicum dei filium; <lb/>
             peccaui tribuendo uobis auctoritatem ad eius aeternam negan-15 <lb/>
-            dam clementiam</hi>. tunc cum cognoscere ceeperis patris et filii <lb/>
+            dam clementiam</hi>. tunc cum cognoscere <choice><sic>ceeperis</sic><corr>coeperis</corr></choice> patris et filii <lb/>
             et spiritus sancti unam nos recte confiteri aeternitatem, cum <lb/>
             uidere coeperis quod una sit magnitudo unaque potentia in <lb/>
             patre et in unico filio eius et in sancto paracleto spiritu, ubi <lb/>

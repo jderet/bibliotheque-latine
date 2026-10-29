@@ -85,6 +85,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 2 mots mal lus.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -189,7 +190,7 @@
 </p>
           </div>
 
-<div n="3" subtype="section" type="textpart"><p>Nunc nobis ad nirgines sermo est, quarum quo sublimior gloria  <lb/>
+<div n="3" subtype="section" type="textpart"><p>Nunc nobis ad <choice><sic>nirgines</sic><corr>uirgines</corr></choice> sermo est, quarum quo sublimior gloria  <lb/>
             est maior et cura est. flos est ille ecclesiastici germinis, decus <lb/>
             adque ornamentum gratiae spiritalis, laeta indoles, laudis et honoris <lb/>
             opus integrum adque incorruptum, Dei imago respondens <lb/>
@@ -434,7 +435,7 @@
 </p>
           </div>
 
-<div n="10" subtype="section" type="textpart"><p> Locupletem te dicis et dinitem. sed iactare diuitias suas uirginem <lb/>
+<div n="10" subtype="section" type="textpart"><p> Locupletem te dicis et <choice><sic>dinitem</sic><corr>diuitem</corr></choice>. sed iactare diuitias suas uirginem <lb/>
             non decet, cum dicat scriptura diuina: quid nobis profuit <lb/>
             superbia aut quid diuitiarum iactatio contuli <lb n="20"/>
             nobis? transierunt omnia illa tamquam umbra, et <lb/>

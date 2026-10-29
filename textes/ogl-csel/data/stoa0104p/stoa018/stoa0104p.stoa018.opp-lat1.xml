@@ -85,6 +85,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 1 mot collé.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -203,7 +204,7 @@
             admonente sine tribulatione corporis condigna sint martyria, tanta et <lb/>
             episcopo neglegente et nulla de scripturis sanctis documenta promente <lb n="5"/>
             cumulentur tormenta. apostolus nos excitat Paulus et condigna status <lb/>
-            sui ∗∗ episcopos procuratores euangelicae doctrinae ponitet dicit: quamdiu <lb/>
+            sui ∗∗ episcopos procuratores euangelicae doctrinae <choice><sic>ponitet</sic><corr>ponit et</corr></choice> dicit: quamdiu <lb/>
             heres infans, sub procuratores et actores est: at <lb/>
             cum creuerit, tunc hereditatem suam expetit. nos etiam <lb/>
             sumus dispensatores et procuratores euangelii: hic quoque inter <lb n="10"/>

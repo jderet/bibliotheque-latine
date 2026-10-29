@@ -88,6 +88,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 1 mot collé.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -230,7 +231,7 @@
              
 <pb n="196"/>
             seruata, ut uobiscum non orem, non conuenticula celebrem.nonManichaei <lb/>
-            nomen accipiam.sinon mihideomnibus rebus ad salutemanimae <lb/>
+            nomen accipiam.sinon <choice><sic>mihideomnibus</sic><corr>mihi de omnibus</corr></choice> rebus ad salutemanimae <lb/>
             pertinentibus sine ulla caligine rationem perspicuam dederitis. 
 </p>
           

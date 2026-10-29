@@ -89,6 +89,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 1 mot collé.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -7201,7 +7202,7 @@ uicensima septima <hi rend="italic">de prouidentia;</hi>
             matris suae uolens progredi, cum utique non habeat <lb/>
             uoluntatem.</p></div>
 
-<div n="5" subtype="section" type="textpart"><p>in undetricensimo: <hi rend="italic">absit,</hi> inquam, <hi rend="italic">ut sit in membris  <lb/>
+<div n="5" subtype="section" type="textpart"><p>in <choice><sic>undetricensimo</sic><corr>unde tricensimo</corr></choice>: <hi rend="italic">absit,</hi> inquam, <hi rend="italic">ut sit in membris  <lb/>
             sanctorum etiam genitalibus aliqua turpitudo. dicuntur quidem <lb/>
             inhonesta, quia non habent eam speciem decoris quam membra, . <lb n="5"/>
             quae in promptu locata sunt,</hi> sed probabilior in aliis postea <lb/>

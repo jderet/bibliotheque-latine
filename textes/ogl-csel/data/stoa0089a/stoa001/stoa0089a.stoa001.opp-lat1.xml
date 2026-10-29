@@ -85,7 +85,8 @@
             </langUsage>
         </profileDesc>
         
-  </teiHeader>
+  <revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 10 mots collés, 6 mots mal lus.</change></revisionDesc>
+</teiHeader>
 <text>
 <body>
 <div type="edition" xml:lang="lat" n="urn:cts:latinLit:stoa0089a.stoa001.opp-lat1">
@@ -253,7 +254,7 @@
             <hi rend="italic">Z</hi> 21 conpacientis <hi rend="italic">Z</hi> 25 penitebit <hi rend="italic">Z</hi> </note> <lb/>
              
 <pb n="7"/>
-            diuerso adfectn Iacob dilexisse et Esau odio habuisse <lb/>
+            diuerso <choice><sic>adfectn</sic><corr>adfectu</corr></choice> Iacob dilexisse et Esau odio habuisse <lb/>
             describitur. contristari in peccatis nostris et laetari dicitur <lb/>
             in operibus suis et adfectibus subiacens de se ipse dicit: <lb/>
             paenitet me fecisse hominem, et de summa caeli sede <lb/>
@@ -469,7 +470,7 @@
             regionem cogitet, ibi tantum sensu commorante defigitur, quo <lb/>
             animi intentione raptatur. imaginari sibi aliqua potest, conplecti <lb/>
             omnia simul non potest. cum ergo anima Alexandriam <lb/>
-            uel Hierosolymam cogitanit, si uere illic tota sui praesentia,<lb n="5"/>
+            uel Hierosolymam <choice><sic>cogitanit</sic><corr>cogitauit</corr></choice>, si uere illic tota sui praesentia,<lb n="5"/>
             ut arbitraris, interfuit, referat nobis situs loeoram, uultus <lb/>
             hominum, motus actusque populorum. sed hoc ipsud quod <lb/>
             nunc inter nos commercia sermonum mutua spiritus actione <lb/>
@@ -631,7 +632,7 @@
             Mamerti et <hi rend="italic">Schottus</hi> infinitur <hi rend="italic">Z</hi> </note> <lb/>
              
 <pb n="16"/>
-            quaeumque ex accedenti adiectione uertitur. hic ergo dudum <lb/>
+            <choice><sic>quaeumque</sic><corr>quacumque</corr></choice> ex accedenti adiectione uertitur. hic ergo dudum <lb/>
             primogenitus angelorum, nunc princeps factus est tenebrarum <lb/>
             et quasi corporeus pulcher ante, nunc degener, dudum caelesti <lb/>
             splendore conspicuus, nunc taetro infernalis peccati horrore <lb/>
@@ -919,7 +920,7 @@
             blandimentis lenocinantibus ignaros rerum sedulo precentur, ut <lb/>
             suae potissimum sententiae adquiescant, sibimet adsentiantur: <lb/>
             illud ueri plenum, illud esse salutiferum, quod ipsi doceant, <lb n="10"/>
-            etiam deierando confirmant. si auctoritatom quaeras, subiciunt <lb/>
+            etiam deierando confirmant. si <choice><sic>auctoritatom</sic><corr>auctoritatem</corr></choice> quaeras, subiciunt <lb/>
             istius modi causarum secreta adiri nequaquam posse, nisi <lb/>
             subtilissima rerum indagatrice ratione. si eandem in articulo <lb/>
             reposcas, adiciunt auctoritati potius oportere concedi, neque <lb/>
@@ -1479,7 +1480,7 @@
             pontificem apostolus dicens nostrisque infirmitatibus conpati <lb/>
             pronuntians de ipso itidem dicit: Christus Iesus, qui <lb n="20"/>
             mortuus est, immo etiam qui et resurrexit, qui <lb/>
-            est in dextera dei, qui etiam interpellat pronobis. <lb/>
+            est in dextera dei, qui etiam interpellat <choice><sic>pronobis</sic><corr>pro nobis</corr></choice>. <lb/>
             ille ergo pontifex conpatitur nobis, qui et interpellat pro <lb/>
             nobis. ille uero . qui interpellanti adnuit, ipsa trinitas non <lb/>
             haberet utique quem sibi interpellare necessarium foret, si <lb n="25"/>
@@ -2095,7 +2096,7 @@
 <ab><title>XI.  QVOD OMNE INCORPOREVM SIVE CORPOREVM QVIDQVID EST CREATVM EST. </title></ab>
           <p rend="script">Post haec argumentaris ac dicis, idcirco incorporeum <lb/>
             creatum nil esse, quia quidquid factori s.uo conprehensibile <lb n="5"/>
-            sit incorporeum esse non. possitsub <lb/>
+            sit incorporeum esse non. <choice><sic>possitsub</sic><corr>possit sub</corr></choice> <lb/>
             hac ergo ratione ipse sibi deus ignotus es.t: qui si idcirco <lb/>
             incorporeum nihil creauit, ne aliquid creatum notitiam creatoris <lb/>
             excederet, cum uel corporeum uel incorporeum nihil <lb/>
@@ -2196,7 +2197,7 @@
             sentiat, quae corporatos spiritus iudicat. nam quid hic aliud <lb/>
             uir doctus Hieronymus dixisse censebitur, nisi angelorum corpora <lb/>
             habilitate sui atque potentia humanis longe praestare <lb n="20"/>
-            corporibus? pariter cum dixit: si angeli, etadiecit: caelestia <lb/>
+            corporibus? pariter cum dixit: si angeli, <choice><sic>etadiecit</sic><corr>et adiecit</corr></choice>: caelestia <lb/>
             etiam corpora, duo quaedam intellegi uoluit, angelos <lb/>
             et caelestia corpora, quia cum angeli spiritus corporati sint,
 
@@ -2826,7 +2827,7 @@
 <ab><title>XVIIII.  DE ANIMA QVIA QVANTITATI NON SVBIACET. </title></ab>
           <p>Igitur si inlocalitas animae uel aliquatenus adparuit, cum <lb/>
             nondum de principali, hoc est de rationali nostro disputauerim, <lb/>
-            inin quoquo utiqueutique incorporalitasincorporalitas atqueatque inlocalitasinlocalitas clariusclarius |adparuit :
+            inin quoquo <choice><sic>utiqueutique</sic><corr>utique utique</corr></choice> incorporalitasincorporalitas <choice><sic>atqueatque</sic><corr>atque atque</corr></choice> inlocalitasinlocalitas clariusclarius |adparuit :
 
 <note type="footnote"> 1 recolet <hi rend="italic">BCHB1</hi> 2 adoratur <hi rend="italic">C</hi> 3 saporis <hi rend="italic">B\'</hi> 4 lenia<lb/>
              quaeque <hi rend="italic">Mb,</hi> leoaqae <hi rend="italic">HS,</hi> leniaque <hi rend="italic">reU. et Sch.,</hi> lenia quaeque <hi rend="italic">p\'</hi> <lb/>
@@ -2884,7 +2885,7 @@
 <pb n="70"/>
             nobis dicitur: illius in pedes quinque protenditur longitudo, <lb/>
             latus est duobus itidem pedibus, habet in crasso tantundem. <lb/>
-            num quantitas animae istis signatur indieiis, aut in illa longum <lb/>
+            num quantitas animae istis signatur <choice><sic>indieiis</sic><corr>indiciis</corr></choice>, aut in illa longum <lb/>
             uel latum uel spissum aliquid inuenitur? quod si ita <lb/>
             est, tanto quisque maioris erit animae, quanto corporis corporis, <lb n="5"/>
             nec umquam perexigui corporis hominem magnanimem <lb/>
@@ -3477,16 +3478,16 @@
           <p rend="script">Sed subiungis ac dicis: aliud est animae status, <lb/>
             aliud is qui de anima nascitur cogitationis adfectus.<lb n="5"/>
             quam ob rem aut hoc potius aestimandum <lb/>
-            est, quod si quando sibi aliquid imaginatur, magiscum <lb/>
+            est, quod si quando sibi aliquid imaginatur, <choice><sic>magiscum</sic><corr>magis cum</corr></choice> <lb/>
             suis intra semet ipsam motibus occupetur, <lb/>
             et si quid aliud est, quod adspicere uidetur, magis <lb/>
             ei in recordationis speculo describatur. istud naturam <lb n="10"/>
             tu putas eius esse, non poenam, idcircoque anima tua <lb/>
             in recognitione sui fallitur, quia sibi aduersantia pro se amplectitur <lb/>
             et per sensus corporis fallaciarum adfecta. ludibriis <lb/>
-            eotenus inplicatur errore, ut tamquam absens sibi se quaerat, <lb/>
+            <choice><sic>eotenus</sic><corr>eo tenus</corr></choice> inplicatur errore, ut tamquam absens sibi se quaerat, <lb/>
             cum ipsa sit quaerens se. non enim illud est anima quod<lb n="15"/>
-            q guaeritur, sed quo quaeritur: quidquid enim quaerit, extra se <lb/>
+            q <choice><sic>guaeritur</sic><corr>quaeritur</corr></choice>, sed quo quaeritur: quidquid enim quaerit, extra se <lb/>
             est, nec quaerere illi opus est, nisi quod secum non est. ipsa <lb/>
             autem secum est, quia sine se nihil est, quaerere se ergo <lb/>
             non debuit, quae sine se esse non potuit. quapropter cum <lb/>
@@ -5046,7 +5047,7 @@ eminem
 </p>
           <p>Igitur Platon procedat in medium, a quo uere claret quam <lb/>
             magnum in semet bonum genus humanum neglegat nostro <lb/>
-            praesertim saeculo, quo dictis factisque caelitus editis eotenus <lb/>
+            praesertim saeculo, quo dictis factisque caelitus editis <choice><sic>eotenus</sic><corr>eo tenus</corr></choice> <lb/>
             religio conclamata est, ut paene iam credendi labore submoto <lb/>
             tepore fidei scientiae fructum capessat laborisque mercedem <lb n="10"/>
             opere non patrato percipiat. quo fit ut mirari admodum digne <lb/>
@@ -5229,7 +5230,7 @@ eminem
             e uita. defunctorum enim animus liber <lb/>
             est et solutus a corpore. eo autem tempore quo <lb/>
             uiuimus ita demum adpropinquabimus adplicabimurque <lb/>
-            scientiae, si nihilaut quam minimum corpore <lb/>
+            scientiae, si <choice><sic>nihilaut</sic><corr>nihil aut</corr></choice> quam minimum corpore <lb/>
             utamur neque in societate eius, nisi quatenus <lb n="25"/>
             necesse est, animum dimittamus. ita enim minime <lb/>
             replebimur uitiosa turbulentaque natura corporis, <lb/>
@@ -7014,7 +7015,7 @@ eminem
             flamma. et respondit Abraham: memento, fili, <lb/>
             quia recepisti bona in uita tua, similiter et Lazarus <lb/>
             mala, et ideo nunc hic consolatur, tu uero <lb n="20"/>
-            cruciaris. etinhis omnibus inter nos et uos chaos <lb/>
+            cruciaris. <choice><sic>etinhis</sic><corr>et in his</corr></choice> omnibus inter nos et uos chaos <lb/>
             magnum firmatum est, ut neque hinc ad uos quisquam <lb/>
             possit ire neque inde huc transmeare. istud <lb/>
             nunc mihi secundum loca et tempora uel corpora dissere, <lb/>

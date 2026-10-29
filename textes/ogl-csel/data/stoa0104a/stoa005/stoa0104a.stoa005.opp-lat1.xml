@@ -84,6 +84,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 1 mot coupé.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -492,7 +493,7 @@ et non Deo. item aput Esaiam: adorauerunt<lb/>
             Deo tuo. et iterum loquitur Dominus et dicit nec ciuitati parcendum, <lb/>
             etiamsi uniuersa consenserit ad idololatriam: aut si <lb/>
             audieris in una ex ciuitatibus quas Dominus Deus <lb/>
-            tuus dabit tibi inha bitare te illic dicentes (eamus et <lb/>
+            tuus dabit tibi <choice><sic>inha bitare</sic><corr>inhabitare</corr></choice> te illic dicentes (eamus et <lb/>
             seruiamus us diis aliis quos non nostis, interficiens <lb n="25"/>
             necabis omnes qui sunt in ciuitate caede gladii et <lb/>
             incendes ciuitatem igni, et erit sine habitaculo in <lb/>

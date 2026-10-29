@@ -85,6 +85,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 6 mots mal lus, 4 mots collés, 1 césure.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -180,7 +181,7 @@
             uel adducimus uel aedificamus ad fidem, <lb/>
             nec exercemus quibusdam salubribus difficultatibus <lb/>
             ingenium intentionemque discentium, sed <lb/>
-            eum qui iam credens oboedire deo uoluerit, uthic <lb n="15"/>
+            eum qui iam credens oboedire deo uoluerit, <choice><sic>uthic</sic><corr>ut hic</corr></choice> <lb n="15"/>
             se inspiciat, admonemus, quantumque in bonis <lb/>
             moribus operibusque profecerit et quantum sibi <lb/>
             desit, adtendat. sic enim potest et de his quae <lb/>
@@ -675,7 +676,7 @@
 <div n="4" subtype="chapter" type="textpart">
 <ab> <title>IIII.  DE DEVTERONOMIO. </title> </ab>
           <p rend="script">Nulla erit distantia personarum: ita paruum audietis ut <lb/>
-            magnum, nec accipietis cuiusquam personam: quia dei iudieium <lb/>
+            magnum, nec accipietis cuiusquam personam: quia dei <choice><sic>iudieium</sic><corr>iudicium</corr></choice> <lb/>
             est. Et plurimis interpositis, ubi decalogum <lb/>
             repetit: Custodite igitur sollicite animas uestras. non uidistis <lb/>
             aliquam similitudinem in die, qua locutus est dominus uobis in <lb n="15"/>
@@ -1150,7 +1151,7 @@
             Hiesu Naue, Iudicum, Regnorum, Paralipomenon, <lb/>
             rerum gestarum potius historia legitur quam praecepta <lb/>
             uiuendi. haec tamen paucissima de libro <lb/>
-            Hiesu Naue praetereunda in hocopere non putaui.
+            Hiesu Naue praetereunda in <choice><sic>hocopere</sic><corr>hoc opere</corr></choice> non putaui.
 
 <note type="footnote"> 2 Dent. 27, 15-25 </note>
 
@@ -3653,7 +3654,7 @@
             ab oculis meis: quiescite agere peruerse, discite benefacere: <lb/>
             quaerite iudicium, subuenite oppresso, iudicate pupillo, <lb/>
             defendite uiduam. et uenite et arguite me, dicit dominus. <lb/>
-            Et post VIII uersus: Argentum tuumuersum est in scoriam: <lb/>
+            Et post VIII uersus: Argentum <choice><sic>tuumuersum</sic><corr>tuum uersum</corr></choice> est in scoriam: <lb/>
             uinum tuum mixtum aqua. principes tui socii furum: omnes <lb n="20"/>
             diligunt munera, secuntur retributiones: pupillo non iudicant, <lb/>
             et causa uiduae non ingreditur ad eos. Et paulo post: <lb/>
@@ -7894,7 +7895,7 @@
             dico autem uobis: nec Salomon oumi gloria sua uestiebatur <lb/>
             sicut unum et istis. si autem faenum agri quod hodie in <lb n="10"/>
             agro est et cras in clibanum mittitur, deus sie uestit <lb/>
-            magis uos pusiillue fidei? et uos nolite quaerer, quld manducetis, <lb/>
+            magis uos pusiillue fidei? et uos nolite quaerer, <choice><sic>quld</sic><corr>quid</corr></choice> manducetis, <lb/>
             aut quid bibatis, et nolite in sublime tolli. haec enim <lb/>
             omnia gentes mundi quaerunt: pater autem uester scit, quoniam <lb/>
             his indigetis. uerum tamen quaerite regnum dei, et haec omnia <lb n="15"/>
@@ -9391,8 +9392,7 @@
             sed semet ipsos dederunt primum domino, deinde nobis <lb/>
             per uoluntatem dei, ita ut rogaremus Titum, ut quemadmodum <lb n="5"/>
             coepit ita et perficiat in uos etiam gratiam istam. sed sicut <lb/>
-            in omnibus abundatis fide et sermone et scientia et omni sol- <lb/>
-            licitudine et caritate uestra in nos, ut et in hac gratia abundetis : <lb/>
+            in omnibus abundatis fide et sermone et scientia et omni sol<lb break="no"/>licitudine et caritate uestra in nos, ut et in hac gratia abundetis : <lb/>
             non quasi imperans dico, sed per aliorum sollicitudinem etiam <lb/>
             uestrae caritatis ingenium bonum conprobans. scitis enim <lb n="10"/>
             gratiam domini nostri lesu Christi, quoniam propter uos <lb/>
@@ -9534,7 +9534,7 @@
             multos ex his qui ante peccauerunt et non egerunt paenitentiam <lb/>
             super inmunditiam et inpudicitiam, quam gesserunt. <lb/>
             Et alio loco: Oramus autem deum, ut nihil mali faciatis: non<lb n="20"/>
-            ut nosuos probati pareamus, sed ut uos quod iustum est faciatis. <lb/>
+            ut <choice><sic>nosuos</sic><corr>nos uos</corr></choice> probati pareamus, sed ut uos quod iustum est faciatis. <lb/>
             Et post VI uersus : De cetero, fratres, gaudete, perficimini, <lb/>
             exhortamini, idem sapite, pacem habete: et deus dilectionis <lb/>
             et pacis erit uobiscum.
@@ -9696,7 +9696,7 @@
             ergo effici participes eorum. eratis enim aliquando tenebrae,<lb n="10"/>
             nunc autem lux in domino: ut filii lucis ambulate - fructus <lb/>
             enim lucis est in omni bonitate et iustitia et ueritate — probantes <lb/>
-            quid sit beneplacitum deo. et nolite communieare <lb/>
+            quid sit beneplacitum deo. et nolite <choice><sic>communieare</sic><corr>communicare</corr></choice> <lb/>
             operibus infructuosis tenebrarum: magis autem et redarguite. <lb/>
             quae enim in occulto fiunt ab ipsis, turpe est et dicere. <lb n="15"/>
             omnia autem quae arguuntur a lumine manifestantur. omne <lb/>
@@ -10196,7 +10196,7 @@
 <note type="footnote"> 16* </note> <lb/>
              
 <pb n="244"/>
-            agnitionem, secundam imaginem eius, qui cr.eauit eum: ubi <lb/>
+            agnitionem, secundam imaginem eius, qui cr.<choice><sic>eauit</sic><corr>cauit</corr></choice> eum: ubi <lb/>
             non est gentilis et Iudaeus, circumcisio et praeputium, barbarus <lb/>
             et Scytha, seruus et liber, sed omnia et in omnibus <lb/>
             Christus. induite ergo uos sicut electi dei, sancti et dilecti, <lb/>
@@ -10924,7 +10924,7 @@
             cremantur extra castra. propter quod et Iesus, ut sanctificaret <lb/>
             per suum sanguinem populum extra portam passus <lb/>
             est exeamus igitur ad eum extra castra, inproperium -eius <lb n="10"/>
-            portantes. non enim habemus hic manentem oiuitatem,$ed <lb/>
+            portantes. non enim habemus hic manentem <choice><sic>oiuitatem</sic><corr>ciuitatem</corr></choice>,$ed <lb/>
             futuram inquirimus. per ipsum ergo offeramus hostiam laudis <lb/>
             semper deo, id est fructum labiorum confitentium nomini eius. <lb/>
             beneficentiae -autem et communicationis nolite obliuisci: talibus <lb/>
@@ -11465,7 +11465,7 @@
              
 <pb n="274"/>
             nos? ostendat ex bona conuersatione operationem suam in <lb/>
-            mansuetudine sapientiae. quod si zelum amerum habetis et <lb/>
+            mansuetudine sapientiae. quod si zelum <choice><sic>amerum</sic><corr>amorum</corr></choice> habetis et <lb/>
             contentiones in cordibus uestris, nolite gloriari et mendaces <lb/>
             esse aduersus ueritatem. non est ista sapientia desursum <lb/>
             descendens, sed terrena, animalis, diabolica. ubi enim zelus<lb n="5"/>

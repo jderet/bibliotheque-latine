@@ -91,6 +91,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 3 mots mal lus.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -1084,7 +1085,7 @@
             ipse et instabat nec patiebatur iram inconsiderati senis deflagrare.  <lb/>
             </p></div>
 
-<div n="6" subtype="section" type="textpart"><p>sed quindecim diebus interieotis aliud rursum incendium <lb/>
+<div n="6" subtype="section" type="textpart"><p>sed quindecim diebus <choice><sic>interieotis</sic><corr>interiectis</corr></choice> aliud rursum incendium <lb/>
             molitus est. sed celerius animaduersum, nec tamen  <lb/>
             auctor apparuit.</p></div>
 
@@ -1608,7 +1609,7 @@
             ridebat suauissime nec umquam sine humano cruore cenabat. <lb/>
             dignitatem non habentibus poena ignis fuit.</p></div>
 
-<div n="7" subtype="section" type="textpart"><p>id exitn primo  <lb n="10"/>
+<div n="7" subtype="section" type="textpart"><p>id <choice><sic>exitn</sic><corr>exitu</corr></choice> primo  <lb n="10"/>
             aduersus Christianos permiserat datis legibus, ut post tormenta <lb/>
             damnati lentis ignibus urerentur.</p></div>
 
@@ -2709,7 +2710,7 @@
             expungeret, gregariis et tironibus argentum daret, barbaros  <lb/>
             omni genere largitionis honoraret.</p></div>
 
-<div n="6" subtype="section" type="textpart"><p>nam quod uiueutium bona
+<div n="6" subtype="section" type="textpart"><p>nam quod <choice><sic>uiueutium</sic><corr>uiuentium</corr></choice> bona
 
 <note rend="script" type="footnote">1 quoquis <hi rend="italic">C, corr. Bal</hi> 5 magistris suis <hi rend="italic">Cuperus, item BentUius</hi> <lb/>
             6 reliquerant <hi rend="italic">Heumann (qui</hi> reliqui <hi rend="italic">del., item Dtltbner)</hi>. reliquerunt <lb/>

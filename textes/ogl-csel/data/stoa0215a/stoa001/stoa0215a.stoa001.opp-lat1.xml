@@ -87,6 +87,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 1 césure, 2 mots collés, 5 mots mal lus.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -359,7 +360,7 @@
 <p>A te quidem, frater Parmeniane, multa tractata sunt;<lb n="20"/>
             sed uideo mihi non eo respondendum esse ordine, quo a te <lb/>
             dicta sunt singula. tu enim primo loco dixisti conparationes <lb/>
-            laudesquo baptismatis et praeter carnem Christi a te male <lb/>
+            <choice><sic>laudesquo</sic><corr>laudes quo</corr></choice> baptismatis et praeter carnem Christi a te male <lb/>
             tractatam cetera bene dixisti. hoc enim magis pro nobis te
 
 <note rend="script" type="footnote"> 1 esse potest <hi rend="italic">b</hi> quam <hi rend="italic">om. RBv</hi> comparationem <hi rend="italic">vb</hi> 2 singue <lb/>
@@ -2065,7 +2066,7 @@
             Petri, quae nostra est, per ipsam et ceteras dotes apud <lb/>
             nos esse? etiam sacerdotium, quod in nobis adnullare uisus <lb/>
             es in excusatione erroris et liuoris uestri, dum post nos <lb/>
-            rebaptizatis et post socios uestros in peccatc detectos hoc non <lb/>
+            rebaptizatis et post socios uestros in <choice><sic>peccatc</sic><corr>peccato</corr></choice> detectos hoc non <lb/>
             facitis. dixisti enim, quod, si sacerdos in peccato sit, solae <lb n="15"/>
             possint dotes operari. igitur, quia docuimus, et quid sit haeresis <lb/>
             et quid sit scisma et quid sit sancta ecclesia, et huius <lb/>
@@ -3744,7 +3745,7 @@
             in basilicis sepeliri coepissent, Clarus presbyter in loco Subbulensi <lb/>
             ab episcopo suo coactus est, ut insepultam faceret <lb/>
             sepulturam. unde proditum est mandatum fuisse fieri, quod <lb/>
-            factum est, quando nec sepnltura in domo dei exhiberi concessa <lb/>
+            factum est, quando nec <choice><sic>sepnltura</sic><corr>sepultura</corr></choice> in domo dei exhiberi concessa <lb/>
             est. eorum postea conualuerat multitudo. sic inuenit <lb n="5"/>
             Donatus Bagaiensis, unde contra Macarium furiosam conduceret <lb/>
             turbam. ex ipso genere fuerant, qui sibi percussores sub <lb/>
@@ -4283,7 +4284,7 @@
             aut bestiam non admittit; sic et ecclesia catholica omnes <lb n="15"/>
             filios pacis gremio et sinu suo conplectitur; contra paries, <lb/>
             qui est aedificatus ruinosus, nec lapidem angularem sustinet <lb/>
-            et ianuam sine causa habet nec inclusa eustodit, pluuia <lb/>
+            et ianuam sine causa habet nec inclusa <choice><sic>eustodit</sic><corr>custodit</corr></choice>, pluuia <lb/>
             udatur, tempestatibus caeditur nec potest arcere latronem nec <lb/>
             uenientem prohibet furem. paries de domo est, sed domus <lb n="20"/>
             non est; et pars uestra quasi ecclesia est, sed catholica non <lb/>
@@ -4309,7 +4310,7 @@
              
 <pb n="96"/>
             constat uos solos aliqua passos, quia aliud est tempus pacis, <lb/>
-            aliud tempus persecutiouis. si persecutionem putatis, dicite, <lb/>
+            aliud tempus <choice><sic>persecutiouis</sic><corr>persecutionis</corr></choice>. si persecutionem putatis, dicite, <lb/>
             quid uobiscum passae sint uniuersae prouinciae, in quibus <lb/>
             ecclesia catholica est constituta? sed quia uindicta fuit, non <lb/>
             persecutio, solus paries passus est, cui deus interminatus est<lb n="5"/>
@@ -6136,7 +6137,7 @@
             processit in turbam, uidet medicum, uidet et populum. cogebat <lb/>
             illam dolor, ut medicinam peteret, pudor inpediebat, ne <lb/>
             causam suam coram masculis indicaret. inuenit consilium <lb/>
-            tacita tides. mittam, inquit, manum meam et tangam<lb n="15"/>
+            tacita <choice><sic>tides</sic><corr>fides</corr></choice>. mittam, inquit, manum meam et tangam<lb n="15"/>
             fimbriam uestimenti huius, et sanafiam. nemine uidente <lb/>
             inter turbas manum misit, tetigit et sanata est; nec ausa est <lb/>
             indicare, quod ausa non fuerat petere. sed ne fructus fidei <lb/>
@@ -6803,7 +6804,7 @@
             tuam; pallam lauas, codicem non lauas: si in una parte <lb/>
             bonum est, in altera malum est. non potes negare offendere <lb n="10"/>
             te in una, si in altera promereris, et si gaudes, quod in una <lb/>
-            uidearis religiosus, debes et plangere. quia teueris in altera <lb/>
+            uidearis religiosus, debes et plangere. quia <choice><sic>teueris</sic><corr>te ueris</corr></choice> in altera <lb/>
             parte sacrilegus. 
 </p>
           
@@ -7142,8 +7143,7 @@
              Israhel defendi non potuit, et inimicis est tradita, dum minus <lb n="25"/>
             est reportata: tradita lege qui adferendam dixerant, fugerunt <lb/>
             timidi et non leguntur postea in uindicta aliquid passi. si a <lb/>
-            parentibus uestris haec ratio redderetur, quis eos a commu- <lb/>
-            nione sua repellere potuisset? quid? si nec illa exempla
+            parentibus uestris haec ratio redderetur, quis eos a commu<lb break="no"/>nione sua repellere potuisset? quid? si nec illa exempla
 
 <note type="footnote">5 cfr. Exod. 34, 2; Dent. 10, 1 16 efr. Num. 20,12; Dent. 1, 37 <lb/>
             22 sq. cfr. I Reg. 4, 3-11. </note>

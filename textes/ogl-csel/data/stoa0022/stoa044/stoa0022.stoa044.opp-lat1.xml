@@ -88,6 +88,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 1 mot mal lu.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -787,7 +788,7 @@
 </p>
           </div>
 
-<div n="29" subtype="section" type="textpart"><p> <milestone n="8" unit="altchapter"/> 1 Uidi ego miserabile spectaculum, liberos pro patemo debito<note type="margin"> 600 A </note> <lb n="5"/>
+<div n="29" subtype="section" type="textpart"><p> <milestone n="8" unit="altchapter"/> 1 Uidi ego miserabile spectaculum, liberos pro <choice><sic>patemo</sic><corr>paterno</corr></choice> debito<note type="margin"> 600 A </note> <lb n="5"/>
             in auctionem deduci et teneri calamitatis heredes, qui non <note type="margin"> B </note> <lb/>
             essent participes successionis, et hoc tam immane flagitium <lb/>
             non erubescere creditorem. instat urguet addicit. \'mea\' inquit <lb/>

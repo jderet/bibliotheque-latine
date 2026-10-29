@@ -87,6 +87,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 1 mot mal lu.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -1361,7 +1362,7 @@
             <hi rend="italic">suppleuit Martene,</hi> clades <hi rend="italic">Schenkelius</hi> </note> <lb/>
              
 <pb n="235"/>
-            praetereo gladlis quantum, quantumque ruinis <lb/>
+            praetereo <choice><sic>gladlis</sic><corr>gladiis</corr></choice> quantum, quantumque ruinis <lb/>
             190 igni grandinibus fluminibus liceat; <lb/>
             quantos bella fames perimant morbique furentes <lb/>
             et quae per uarias mors ruit una uias. , <lb/>

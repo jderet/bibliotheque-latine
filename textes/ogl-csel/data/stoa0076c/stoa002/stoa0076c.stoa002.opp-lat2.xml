@@ -86,6 +86,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 17 mots mal lus, 1 césure, 2 mots coupés, 1 mot collé.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -182,7 +183,7 @@
             uerborum uel tradi uel intellegi uel memoria contineri. <lb/>
 </p></div>
 
-<div n="5" subtype="section" type="textpart"><p>            totum uamque in sola experientia usuque consistit, et quemadmodum  <lb/>
+<div n="5" subtype="section" type="textpart"><p>            totum <choice><sic>uamque</sic><corr>namque</corr></choice> in sola experientia usuque consistit, et quemadmodum  <lb/>
             tradi nisi ab experto non queunt, ita ne percipi quidem <lb/>
             uel intellegi nisi ab eo, qui ea pari studio ac sudore adprehendere <lb/>
             elaborauerit, possunt: quae tamen si conlatione iugi <lb/>
@@ -1077,7 +1078,7 @@
             quaestioni, cotidianos orationum ritus uolentibus celebrare  <lb/>
 </p></div>
 
-<div n="5" subtype="section" type="textpart"><p>            unus in medium psalmos domino cantaturus exsnrgit cumque <lb/>
+<div n="5" subtype="section" type="textpart"><p>            unus in medium psalmos domino cantaturus <choice><sic>exsnrgit</sic><corr>exsurgit</corr></choice> cumque <lb/>
             sedentibus cunctis, ut est moris nunc usque in Aegypti partibus, <lb n="15"/>
             et in psallentis uerba omni cordis intentione defixis undecim <lb/>
             psalmos orationum interiectione distinctos contiguis uersibus <lb/>
@@ -1821,7 +1822,7 @@
             ci: surge, Petre, occide et manduca. quod uas quattuor <lb/>
             initiis de caelo summissum non aliud quam euangelium <lb/>
             designare manifeste cognoscitur. licet enim quadriformi euangelist-arum<lb n="5"/>
-            narratione distinctum quattuor uideatur habere priucipia, <lb/>
+            narratione distinctum quattuor uideatur habere <choice><sic>priucipia</sic><corr>principia</corr></choice>, <lb/>
             unum tamen euangelii corpus est, eiusdem scilicet <lb/>
             Christi natiuitatem pariter ac deitatem, mirabilia quoque passionemque  <lb/>
             conplectens.</p></div>
@@ -2068,7 +2069,7 @@
 <pb n="41"/>
             uigiliarum, quas post gallorum cantum ante auroram finire solent, <lb/>
             similiter hodieque decantant, id est centesimum quadragensimum <lb/>
-            octauum psalmum, cuius initium est laudate domiuum de <lb/>
+            octauum psalmum, cuius initium est laudate <choice><sic>domiuum</sic><corr>dominum</corr></choice> de <lb/>
             caelis et reliquos qui sequuntur. quinquagensimum uero psalmum <lb/>
              et sexagensimum secundum et octogensimum nonum huic <lb n="5"/>
             nouellae sollemnitati fuisse deputatos. denique per Italiam hodieque <lb/>
@@ -2790,7 +2791,7 @@
             super earum iudicio quicquam suae discretioni committere, sed <lb/>
             illud credere malum esse uel bonum, quod discusserit ac pronuntiauerit <lb/>
             senioris examen. itaque fit ut in nullo circumuenire <lb/>
-            iuueuem callidus inimicus uelut inexpertum ignarumque praeualeat, <lb n="15"/>
+            <choice><sic>iuueuem</sic><corr>iuuenem</corr></choice> callidus inimicus uelut inexpertum ignarumque praeualeat, <lb n="15"/>
             nec ulla fraude decipere quem peruidet non sua sed <lb/>
             senioris discretione muniri, et suggestiones suas uel ignita <lb/>
             iacula, quaecumque in cor eius iniecerit, ut seniorem celet non <lb/>
@@ -2961,7 +2962,7 @@
 <p>Ad haec nos miserabiles quid dicimus, qui in coenobiis<lb n="15"/>
             commorantes ac sub abbatis cura et sollicitudine constitut <lb/>
             peculiares circumferimus claues, omnique professionis nostra <lb/>
-            uerecundia et confusione calcata etiam anulos, quibus recon dita. <lb/>
+            uerecundia et confusione calcata etiam anulos, quibus <choice><sic>recon dita</sic><corr>recondita</corr></choice>. <lb/>
             praesignemus, in digitis palam gestare nos non pudet quibus <lb/>
             non solum cistellae uel sportae, sed ne arcae quiden <lb n="20"/>
             uel armaria ad ea, quae congerimus uel quae egressi de saeculo<lb/>
@@ -3215,7 +3216,7 @@ gratia L1 terram L1
             tantaque fide uniuersa procurant atque dispensant, ut etiam <lb n="10"/>
             ea, quae despectui habentur paruaque reputantur ac uilia, si <lb/>
             uel loco mouerint uel conpetentius conlocarint, si gillonem <lb/>
-            aqua. inpleuerint, si ei eo cuiquam obtulerint ad bibeudum si, <lb/>
+            aqua. inpleuerint, si ei eo cuiquam obtulerint ad <choice><sic>bibeudum</sic><corr>bibendum</corr></choice> si, <lb/>
             si tenuem fistucam de oratorio cellaue submouerint, mercedem <lb/>
             se consecuturos a domino tota credulitate confidant. <lb n="15"/>
             
@@ -3467,7 +3468,7 @@ GH: cum L 23\ttemtans Hx\t25 praecipit HXL desiuiret H1
             diuitem se iam non esse sciebat, ita etiam patrem  <lb/>
             se esse nesciret.</p></div>
 
-<div n="2" subtype="section" type="textpart"><p>quod nt plenins probaretur, utrum uideHoet <lb/>
+<div n="2" subtype="section" type="textpart"><p>quod nt <choice><sic>plenins</sic><corr>plenius</corr></choice> probaretur, utrum uideHoet <lb/>
             plus faceret affectionem sanguinis ac suorum uiscerum caritatem, <lb n="10"/>
             an oboedientiam et mortificationem Christi, quam renuntians <lb/>
             quisque pro eius debet amore praeferre, de industria <lb/>
@@ -3658,7 +3659,7 @@ GH: cum L 23\ttemtans Hx\t25 praecipit HXL desiuiret H1
             <hi rend="italic">ELT</hi> 25 intendens <hi rend="italic">H</hi> </note> <lb/>
              
 <pb n="70"/>
-            detentus, propius tandem accedens et non solum uuItum, sed <lb/>
+            detentus, propius tandem accedens et non solum <choice><sic>uuItum</sic><corr>uultum</corr></choice>, sed <lb/>
             etiam sonum uocis diligenter explorans ad pedes eius comminus <lb/>
             cecidisset, primo quidem super hoc stuporem summum <lb/>
             uidentibus cunctis incussit, cur uidelicet istud fecerit ei, qui <lb/>
@@ -4707,7 +4708,7 @@ euagatio reducenda, quotiens subtilis hostis ab hoc intuitu mentem captiuare per
 <div n="12" subtype="chapter" type="textpart">
 <div n="1" subtype="section" type="textpart">
 
-<p rend="script">Qui in agone contendit, non coronatur nisilegitime <lb/>
+<p rend="script">Qui in agone contendit, non coronatur <choice><sic>nisilegitime</sic><corr>nisi legitime</corr></choice> <lb/>
             time certauerit qui naturales adpetitus carnis optat extinguere, <lb/>
             extra naturam uitia conlocata primitus superare festinet. <lb n="5"/>
             si enim apostolicae sententiae uim uolumus experiri, quae sint <lb/>
@@ -5919,7 +5920,7 @@ quarumlibet gaudet escarum, tertia quae <sic n="poss">accuratioribus</sic> epuli
             praerupta deuolui, in hoc uero magnanimitas salutaris, quae <lb/>
             ualeat non solum quae uidentur prospera mundi praesentis despicere, <lb/>
              uerum etiam aduersis tristibusque non frangi et ea uelut <lb n="15"/>
-            parua nullaquo contemnere, illic habens defixum iugiter suae <lb/>
+            parua <choice><sic>nullaquo</sic><corr>nullaque</corr></choice> contemnere, illic habens defixum iugiter suae <lb/>
             mentis intuitum, quo cotidie singulisque momentis accersiendum <lb/>
             esse se credit. 
 </p>
@@ -7159,7 +7160,7 @@ quarumlibet gaudet escarum, tertia quae <sic n="poss">accuratioribus</sic> epuli
             25 protinus om. <hi rend="italic">G</hi> grauiter om. Ar ingemescet <hi rend="italic">Å</hi> ingemiscit <hi rend="italic">H2L2</hi> </note> <lb/>
              
 <pb n="135"/>
-            transmigrandum paratus insoleuter ad omnia praecepta respondet, <lb/>
+            transmigrandum paratus <choice><sic>insoleuter</sic><corr>insolenter</corr></choice> ad omnia praecepta respondet, <lb/>
             et tamquam peregrinum extraneumque se gerens, <lb/>
             quaecumque indigentia correctione perspexerit, neglegit atque <lb/>
             contemnit.</p></div>
@@ -7382,7 +7383,7 @@ quarumlibet gaudet escarum, tertia quae <sic n="poss">accuratioribus</sic> epuli
             ab euangelica perfectione reuocare et infideli infirmare terrore? <lb/>
 </p></div>
 
-<div n="2" subtype="section" type="textpart"><p>             inbetur itaque eis ut discedentes e pugna reuertantur in domum  <lb/>
+<div n="2" subtype="section" type="textpart"><p>             <choice><sic>inbetur</sic><corr>iubetur</corr></choice> itaque eis ut discedentes e pugna reuertantur in domum  <lb/>
              suam, quia non potest quisquam duplici corde bella domini <lb n="5"/>
             proeliari (uir enim duplex animo inconstans in omnibus <lb/>
             uiis suis), et cogitantes secundum illam euangelii parabolam <lb/>
@@ -8489,12 +8490,11 @@ quarumlibet gaudet escarum, tertia quae <sic n="poss">accuratioribus</sic> epuli
 <div n="1" subtype="section" type="textpart">
 
 <p>Quasi uero non hic finis unicuique uindictae sit et <lb/>
-            abu nde quis furori proprio uel tristitiae satisfecerit, si id, quod <lb/>
+            <choice><sic>abu nde</sic><corr>abunde</corr></choice> quis furori proprio uel tristitiae satisfecerit, si id, quod <lb/>
             praeualet, ira instigante conpleuerit (quod hi quoque facere <lb/>
             noscuntur, qui motus suos non adpetitu placiditatis, sed inopia <lb/>
             cohibent ultionis: nihil enim inferre amplius his quibus irati <lb/>
-            sunt possunt, nisi ut cum eis affabilitate solita minime con- <lb/>
-            loquantur), aut quasi in effectu operis solummodo sit iracundia <lb/>
+            sunt possunt, nisi ut cum eis affabilitate solita minime con<lb break="no"/>loquantur), aut quasi in effectu operis solummodo sit iracundia <lb/>
             moderanda et non potius ab arcanis nostri pectoris eruenda, <lb/>
             De tenebris illius obscurati nec consilii salubris nec scientiae <lb/>
             lumen admittere, sed nec templum spiritus sancti, habitante in <lb/>
@@ -8769,7 +8769,7 @@ quarumlibet gaudet escarum, tertia quae <sic n="poss">accuratioribus</sic> epuli
             irascitur enim fratri suo, reus erit iudicio, et: qu ?? <unclear>S</unclear> <lb/>
             odit fratrem suum homicida est. in eo scilicet quod <unclear/><lb/>
             corde cupiat interire, cuius cruorem propria manu uel telo <lb/>
-            apud homines minime fudisse cognoscitur, affectu irae bomicida <lb n="10"/>
+            apud homines minime fudisse cognoscitur, affectu irae <choice><sic>bomicida</sic><corr>homicida</corr></choice> <lb n="10"/>
             pronuntiatur a domino, qui non solum pro operationis <lb/>
             effectu, sed etiam pro uoluntatis ac uoti desiderio unicuique <lb/>
             aut praemium reddet ant poenam, secundum illud quod ipse <lb/>
@@ -9671,7 +9671,7 @@ quarumlibet gaudet escarum, tertia quae <sic n="poss">accuratioribus</sic> epuli
             domini nostri Iesu Christi, ut subtrahatis uos <lb n="15"/>
             ab omni fratre ambulante inordinate.</p></div>
 
-<div n="7" subtype="section" type="textpart"><p>ibi rogat, hic dennntiat: <lb/>
+<div n="7" subtype="section" type="textpart"><p>ibi rogat, hic <choice><sic>dennntiat</sic><corr>denuntiat</corr></choice>: <lb/>
             in illa blandientis affectus, in hac obtestantis seueritas <lb/>
             et minantis. denuntiamus uobis, fratres: quia prius rogantes <lb/>
             contempsistis audire, saltim nunc denuntiantibus oboedite. <lb/>
@@ -10470,7 +10470,7 @@ solatione L 18 sustentatos L1 inquid AGlH 20 sustentari L inquid CAGXH 21 aut re
             ad conflictum quanto obscurior ad cauendum. omnium <lb/>
             namque uitiorum manifestior apertiorque congressus est et in <lb n="10"/>
             unoquoque eorum contradictione rigida confuta.tus incentor in- <lb/>
-            ( nalidior factus abscedet uictoremque suum deiectus aduersarius <lb/>
+            ( <choice><sic>nalidior</sic><corr>ualidior</corr></choice> factus abscedet uictoremque suum deiectus aduersarius <lb/>
             deinceps infirmior adtemptabit. hic uero cum pro elatione carnali <lb/>
             pulsauerit mentem et fuerit responsionis scuto repulsus, rursus <lb/>
              at quaedam multiformis nequitia priore habitu personaque mutata <lb n="15"/>
@@ -10812,7 +10812,7 @@ solatione L 18 sustentatos L1 inquid AGlH 20 sustentari L inquid CAGXH 21 aut re
 <p>Nonnumquam uero clericatus gradum et desiderium <lb/>
             presbyterii uel diaconatus inmittit. quem si uel inuitus fuisset <lb/>
             indeptus, tanta expleturum sanctitate ac rigore depingit, ut <lb/>
-            ceteris quoque sacerdotibus praebere potuerit sanetitatis exempla, <lb n="15"/>
+            ceteris quoque sacerdotibus praebere potuerit <choice><sic>sanetitatis</sic><corr>sanctitatis</corr></choice> exempla, <lb n="15"/>
             deinde multos non solum conuersationis forma, uerum etiam <lb/>
             doctrina sua. sermoneque Iucraturum. facit etiam in solitudine <lb/>
             uel in cella commorantem diuersorum domos ac monasteria <lb/>
@@ -11693,7 +11693,7 @@ solatione L 18 sustentatos L1 inquid AGlH 20 sustentari L inquid CAGXH 21 aut re
             conuertar donec deficiant. conteram illos, nec poterunt  <lb/>
             stare: cadent sub pedes meos.</p></div>
 
-<div n="4" subtype="section" type="textpart"><p>rursus infirmitatLs <lb/>
+<div n="4" subtype="section" type="textpart"><p>rursus <choice><sic>infirmitatLs</sic><corr>infirmitatis</corr></choice> <lb/>
             nostrae memores nec posse nos tam acerbos uitiorum hostes <lb/>
             fragili carne circumdatos sine illius adiutorio superare dicamus: <lb n="10"/>
             in te inimicos nostros uentilabimus, et in nomine <lb/>
@@ -12230,7 +12230,7 @@ solatione L 18 sustentatos L1 inquid AGlH 20 sustentari L inquid CAGXH 21 aut re
             responsione rancor, facilitas in sermone, uerba passim sine ulla <unclear/> <lb n="15"/>
             cordis grauitate erumpentia.</p></div>
 
-<div n="3" subtype="section" type="textpart"><p>expers patientiae est, caritat <unclear/><lb/>
+<div n="3" subtype="section" type="textpart"><p>expers patientiae est, <choice><sic>caritat</sic><corr>cantat</corr></choice> <unclear/><lb/>
             aliena, audax ad contumelias inrogandas, ad tolerandas pus<unclear/><lb/>
             lanimis, ad oboediendum difficilis, nisi in quo eam desideriu ?? <unclear/><lb/>
             suum uoluntasque praeuenerit, ad recipiendam exhortatione ??<unclear/><lb/>

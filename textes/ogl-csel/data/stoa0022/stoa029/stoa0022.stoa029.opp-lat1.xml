@@ -88,6 +88,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 2 mots coupés.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -2030,7 +2031,7 @@
             fugit ergo sicut Loth, qui renuntiat uitiis, abdicat se incolarum <lb/>
             moribus, qui post se non respicit, qui superiorem illam <note type="margin"> D </note> ciuitatem <lb/>
             ingreditur introitu cogitationum suarum nec recedit ex <lb/>
-            ea, donec mor iatur princeps sacerdotum, qui tulit peccatum <lb/>
+            ea, donec <choice><sic>mor iatur</sic><corr>moriatur</corr></choice> princeps sacerdotum, qui tulit peccatum <lb/>
             mundi. mortuus quidem semel est, sed moritur unicuique, qui<lb n="5"/>
             baptizatur in morte Christi, ut consepeliamur cum eo et <lb/>
             resurgamus cum eo et in nouitate uitae illius ambulemus. 
@@ -2054,7 +2055,7 @@
             suscepit; adfixa sunt illi patibulo tuorum delictorum chirographa, <lb/>
             ut iam mundo nihil debeas, cui semel renuntiasti. et <lb/>
             recte nihil debes. cui suppetit dicere: mihi enim mundus<lb n="20"/>
-            crucifix us est et ego mundo, ut iam mortem non timeas, <lb/>
+            <choice><sic>crucifix us</sic><corr>crucifixus</corr></choice> est et ego mundo, ut iam mortem non timeas, <lb/>
             si geras Christum, in quo potes dicere: ubi est, mors, <lb/>
             uictoria tua? ubi est, mors, aculeus tuus? etenim cum
 

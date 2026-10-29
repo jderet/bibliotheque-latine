@@ -84,6 +84,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 3 mots mal lus.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -174,7 +175,7 @@
             illam ornatis dum geritis et plures eius laudes exercendo profertis. <lb/>
             facti eius ornamentum, dum et illa uestrum est, mutuo decore inuicem <lb/>
             fenerandum. illa uobis disciplinam bonorum suggerit morum, uos illi <lb n="5"/>
-            ministerlum praestatis operum sanctorum. nam et illa quantum et <lb/>
+            <choice><sic>ministerlum</sic><corr>ministerium</corr></choice> praestatis operum sanctorum. nam et illa quantum et <lb/>
             quid posset per uos apparuit, et quid uos uelitis ipsa demonstrauit <lb/>
             et decuit, copulatis in unum duobus bonis mandatorum et rerum, ne <lb/>
             quid mutilum uideretur, si aut praecepta ministeriis aut praeceptis <lb/>
@@ -407,7 +408,7 @@
             fuerat inrogare. maritalis ardor rerum inscius et uxoris accusatione <lb/>
             gran iter inflammatus incenditur. pudicus uero iuuenis quia delicto <lb/>
             conscientiam non miscuit, in imum carceris truditur. sed sola non est<lb n="5"/>
-            in oarcere pudicitia: nam est cum Ioseph Deus et nocentes dantur <lb/>
+            in <choice><sic>oarcere</sic><corr>carcere</corr></choice> pudicitia: nam est cum Ioseph Deus et nocentes dantur <lb/>
             in manu eius, quia ipse innocens fuerat. somniorum praeterea obscura <lb/>
             dissoluit, quia spiritus in temptatione uigilabat, et per dominum <lb/>
             liberatur a uinculis. qui in domo minor cum periculo fuerat, regiae <lb/>
@@ -423,7 +424,7 @@
             pudicitia et cum pudicitia sola natura. hanc ex senioribus duo <lb/>
             coeperant deperire, nihil memores nec diuini timoris sed nec suae <lb/>
             annis iam marcescentis aetatis: ita illos in flagrantia transactae iuuentutis <lb/>
-            incendia recidiuae libidinis fiamma reuocabat: pudicitiae latrones <lb/>
+            incendia recidiuae libidinis <choice><sic>fiamma</sic><corr>flamma</corr></choice> reuocabat: pudicitiae latrones <lb/>
             amorem confitentur, sed oderant. resistenti minantur calumnias,
 
 <note type="footnote"> 13 cf. Dan. 13. </note>

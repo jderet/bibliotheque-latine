@@ -87,6 +87,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 1 mot mal lu, 1 mot coupé.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -314,7 +315,7 @@
              
 <pb n="668"/>
             detrimento uera felicitate secura. dominus ait: in uestra <lb/>
-            p atientia possidebitis animas uestras; non ait: uillas <lb/>
+            <choice><sic>p atientia</sic><corr>patientia</corr></choice> possidebitis animas uestras; non ait: uillas <lb/>
             uestras, laudes uestras, luxurias uestras, sed: animas uestras. <lb/>
             si ergo tanta suffert anima, ut possideat, unde pereat. <lb/>
             quanta debet sufferre, ne pereat! deinde, ut illud dicam, quod,<lb n="5"/>
@@ -855,7 +856,7 @@
             quod nullus dicere audeat insanus? exultans ergo apud <lb/>
             apostolum uera, pia fidelisque patientia dicit ore sanctorum: <lb/>
             quis nos separabit a caritate Christi? tribulatio? an<lb n="5"/>
-            augustia? an persecutio? an fames? an nuditas? an <lb/>
+            <choice><sic>augustia</sic><corr>angustia</corr></choice>? an persecutio? an fames? an nuditas? an <lb/>
             periculum? an gladius? sicut scriptum est, quia propter <lb/>
             te mortificamur tota die, deputati sumus sicut <lb/>
             oues uictimae. sed in his omnibus superuincimus per <lb/>

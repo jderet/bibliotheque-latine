@@ -85,6 +85,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 3 mots mal lus.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -819,7 +820,7 @@
             nihil proficere, quando ipsum apparet et constat haereticum esse qui <lb/>
             in alium Deum credat siue Christum alium accipiat quam quem <lb/>
             scripturae noui et ueteris testamenti manifeste praedicant, quae <lb/>
-            patrem omnipotentem creatorem omnium et fiiium eius sine obscuritate<lb n="15"/>
+            patrem omnipotentem creatorem omnium et <choice><sic>fiiium</sic><corr>filium</corr></choice> eius sine obscuritate<lb n="15"/>
             annuntiant. eueniet enim eis ut alii ab alio Deo salutem <lb/>
             exspectanti, <hi rend="italic">ut</hi> tunc demum contra opinionem suam a Christo Dei patris <lb/>
             omnipotentis creatoris filio, quem blasphemauerunt, in poenam aeternam <lb/>
@@ -861,7 +862,7 @@
             aquae baptisma deest, quos tamen certi sumus, si quid laxamenti <lb/>
             habeant, etiam aqua solitos baptizari, itemque illis qui legitimi sunt <lb/>
             fideles effecti impune deest baptisma sanguinis proprii, quia baptizati <lb/>
-            in nomine Christi redompti sunt pretiosissimo sanguine Domini, cum <lb/>
+            in nomine Christi <choice><sic>redompti</sic><corr>redempti</corr></choice> sunt pretiosissimo sanguine Domini, cum <lb/>
             utraque haec ex uno atque eodem fonte procedant flumina baptismatis <lb n="15"/>
             dominici, ut omnis qui sitit ueniat et bibat, sicut scriptura dicit: <lb/>
             flumina de uentre eius currebant aquae uiuae. quae <lb/>
@@ -882,7 +883,7 @@
 </p>
           </div>
 
-<div n="15" subtype="section" type="textpart"><p>Et quoniam uidemnr omne baptisma spiritale trifariam diuisisse,  <lb/>
+<div n="15" subtype="section" type="textpart"><p>Et quoniam <choice><sic>uidemnr</sic><corr>uidemur</corr></choice> omne baptisma spiritale trifariam diuisisse,  <lb/>
             ueniamus etiam ad probationem narrationis propositae, ne uideamur <lb/>
             proprio sensu et temere hoc fecisse. ait enim Ioannes de Domino <lb/>
             nostro in epistola sua nos docens: hic est qui uenit per aquam

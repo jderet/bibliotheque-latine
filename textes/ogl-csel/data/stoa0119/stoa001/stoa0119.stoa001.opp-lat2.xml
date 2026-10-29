@@ -84,6 +84,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 8 mots mal lus, 2 mots coupés, 1 mot collé.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -1291,7 +1292,7 @@
             monachis formam sollicitius admonebat beatorum patrum <lb/>
             uestigiis inhaerere, quibus sanctae conuersationis adquireretur <lb n="10"/>
             instructio, adhibendamque operam, ne is, qui parentes reliquit <lb/>
-            et saeculum, pompae saecularis inleoebras retrorsum <lb/>
+            et saeculum, pompae saecularis <choice><sic>inleoebras</sic><corr>inlecebras</corr></choice> retrorsum <lb/>
             aspiciendo cuperet, quas uitauerat, et ad hoc uxoris Loth  <lb/>
             exemplum terribile proponebat.</p></div>
 
@@ -1649,7 +1650,7 @@
 
 <div n="4" subtype="section" type="textpart"><p>ex illo itaque tempore, cum ex  <lb/>
             more fluuius creuisset in cumulos ambissetque uiciniam, quam <lb/>
-            solebat, ita spatiis ecclesiae erat inferius, ut numquam saneti <lb n="15"/>
+            solebat, ita spatiis ecclesiae erat inferius, ut numquam <choice><sic>saneti</sic><corr>sancti</corr></choice> <lb n="15"/>
             patibuli signaculum, quod impresserat homo dei, prorsus <lb/>
             excederet. 
 </p>
@@ -1660,7 +1661,7 @@
 <div n="16" subtype="chapter" type="textpart"><div n="1" subtype="section" type="textpart"><p>Accidit autem, ut castelli presbyter memorati admodum  <lb/>
             uenerabilis, Siluinus nomine, moreretur, et cum in ecclesia <lb/>
             feretro posito noctem psallentes duxissent ex more peruigilem, <lb n="20"/>
-            iam claresceute diluculo regauit uir dei fessos presbyteros et <lb/>
+            iam claresceute diluculo <choice><sic>regauit</sic><corr>rogauit</corr></choice> uir dei fessos presbyteros et <lb/>
             diacones uniuersos parumper abscedere, ut post laborem uigiliarum <lb/>
             somno se aliquantulum recrearent.</p></div>
 
@@ -1941,7 +1942,7 @@
              
 <pb n="39"/>
             properanter excurrere, quem in illa hora humano firmabat <lb/>
-            oruore respergi, statimque nuntiatum est corpora praefatorum <lb/>
+            <choice><sic>oruore</sic><corr>cruore</corr></choice> respergi, statimque nuntiatum est corpora praefatorum <lb/>
             militum \'fluminis impetu ad terram fuisse delata.. 
 </p>
           </div>
@@ -2259,7 +2260,7 @@
 
 </div>
 
-<div n="28" subtype="chapter" type="textpart"><div n="1" subtype="section" type="textpart"><p>Igitur post excidium oppidorumin superiore parte  <lb/>
+<div n="28" subtype="chapter" type="textpart"><div n="1" subtype="section" type="textpart"><p>Igitur post excidium <choice><sic>oppidorumin</sic><corr>oppidorum in</corr></choice> superiore parte  <lb/>
             Danuuii omnem populum in Lauriacum oppidum transmigrantem, <lb/>
             qui sancti Seuerini monitis paruerat, assiduis hortatibus <lb/>
             praestruebat, ne in sua uirtute confiderent, sed orationibus <lb n="10"/>
@@ -2307,7 +2308,7 @@
             cui nomen erat. Pientissimus, nimio timore perterritus exclamauit: <lb/>
             domine n* crescit hic caccauus olei et in modum <lb/>
             fontis exundat*. sic liquor ille gratissimus prodita uirtute  <lb/>
-            subtr actus est.</p></div>
+            <choice><sic>subtr actus</sic><corr>subtractus</corr></choice> est.</p></div>
 
 <div n="5" subtype="section" type="textpart"><p>statim Chriati famulus exclamans ait: \'quid <lb/>
             fecisti, frater ?  obstruxisti commoda plurimorum: ignoscat tibi <lb n="10"/>
@@ -2402,8 +2403,8 @@
 </div>
 
 <div n="30" subtype="chapter" type="textpart"><div n="1" subtype="section" type="textpart"><p>Ciues item oppidi Lauriaci et superioram transfugae <lb/>
-            castellorum ad suspects loca exploratoribus destinatis hostes <lb n="5"/>
-            quantum bumana poterant sollicitudine praecauebant. quos <lb/>
+            castellorum ad <choice><sic>suspects</sic><corr>suspecta</corr></choice> loca exploratoribus destinatis hostes <lb n="5"/>
+            quantum <choice><sic>bumana</sic><corr>humana</corr></choice> poterant sollicitudine praecauebant. quos <lb/>
             seruus dei diuinitatis instinctu commonitus praesaga mente <lb/>
             praestruxit, ut omnem paupertatis suae sufficientiam intra <lb/>
             muros concluderent, quatenus inimicorum feralis excursio nihil <lb/>
@@ -2630,7 +2631,7 @@
             praecepto iubetur deum, totius gratiae largitorem, sine cessatione <lb n="15"/>
             lacrimabiliter exorare.</p></div>
 
-<div n="2" subtype="section" type="textpart"><p>quid pIura? precibus beati uiri <lb/>
+<div n="2" subtype="section" type="textpart"><p>quid <choice><sic>pIura</sic><corr>plura</corr></choice>? precibus beati uiri <lb/>
             idem leprosus diuina opitulatione mundatus, dum commutat <lb/>
             mores in melius, mutare meruit et colorem, regis aeterni <lb/>
             magnalia tam suis quam plurimorum uocibus longe lateque <lb/>
@@ -3033,7 +3034,7 @@
 <div n="2" subtype="section" type="textpart"><p>\'filii in Christo carissimi, scitis, quod beatus <lb/>
             Iacob de saeculo recessurus condicione mortis instante fitios <lb/>
             suos adesse praecipiens et prepheticae benedictionis affatibus <lb/>
-            singulos quosque rem unerans mysteriorum arcana prodidit <lb n="5"/>
+            singulos quosque <choice><sic>rem unerans</sic><corr>remunerans</corr></choice> mysteriorum arcana prodidit <lb n="5"/>
             futurorum. nos uero infirmi ac tepidi tantaeque impares pietati <lb/>
             hanc praerogatiuam nostris usurpare uiribus non audemus, <lb/>
             unum tamen, quod humilitati congruit, non tacebo, mittens <lb/>
@@ -3272,7 +3273,7 @@
 <pb n="65"/>
             oratione soluta laudem dixit altissimo.</p></div>
 
-<div n="2" subtype="section" type="textpart"><p>eumque renersus ad  <lb/>
+<div n="2" subtype="section" type="textpart"><p>eumque <choice><sic>renersus</sic><corr>reuersus</corr></choice> ad  <lb/>
             hospitium, quo suscipi consuerat, intarrogatus fuisset; ex more, <lb/>
             nutu signoque pulsatus, et orasse et laudem se deo obtulisse <lb/>
             clara uoce respondit. quo loquente pauefacti qui eum nouerant, <lb/>

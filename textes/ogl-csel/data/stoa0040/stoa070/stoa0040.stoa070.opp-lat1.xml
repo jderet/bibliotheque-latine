@@ -89,6 +89,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 1 mot collé, 1 mot mal lu, 1 mot coupé.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -3518,7 +3519,7 @@
 
 <div n="74" subtype="chapter" type="textpart">
 
-<p>Et ex cussit dominus Aegyptio sin medium <lb/>
+<p>Et <choice><sic>ex cussit</sic><corr>excussit</corr></choice> dominus Aegyptio sin medium <lb/>
             maris . graecus habet: et excussit dominus Aegyptios <lb/>
             medium maris. 
 </p>
@@ -4833,7 +4834,7 @@
 <p>Cum de animantibus, quae in aquis sunt, praeciperet,<lb n="5"/>
             quae sint eorum munda uel inmunda, in aquis. <lb/>
             inquit, et in mari et in torrentibus. sed in mari latini <lb/>
-            codices habent, quia nimis insolens fuit pluralem nnmerum <lb/>
+            codices habent, quia nimis insolens fuit pluralem <choice><sic>nnmerum</sic><corr>numerum</corr></choice> <lb/>
             transferre de graeco et non dicere in mari, sed in maribus, <lb/>
             maxime propter ambiguitatem, ne non maria, sed mares intellegerentur,<lb n="10"/>
             id est masculi. nam nihilo minus insolens est <lb/>
@@ -7623,7 +7624,7 @@
 
 <div n="72" subtype="chapter" type="textpart">
 
-<p>Nonne hic ipsepater tuus possedit te et fecit te <lb/>
+<p>Nonne hic <choice><sic>ipsepater</sic><corr>ipse pater</corr></choice> tuus possedit te et fecit te <lb/>
             et creauit te? ordo notandus est; prius enim uidetur dicere <lb/>
             debuisse "creauit te et fecit te" et deinde "possedit te". <lb/>
             quomodo enim intellegitur posse possideri qui non est? 

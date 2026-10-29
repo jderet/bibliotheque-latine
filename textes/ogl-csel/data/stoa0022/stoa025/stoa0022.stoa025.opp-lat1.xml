@@ -88,6 +88,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 1 mot collé.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -1825,7 +1826,7 @@
             superflua est — moderatio enim naturalis est, supra mensuram<lb n="5"/>
             quidquid est superfluum habetur — ita est ebrietas, quae fletu <lb/>
             prophetico deploratur. unde ait apostolus: nolite inebriari <lb/>
-            uino, in quo est luxuria. sed implemini spirituest <lb/>
+            uino, in quo est luxuria. sed implemini <choice><sic>spirituest</sic><corr>spiritu est</corr></choice> <lb/>
             ergo ebrietas culpae, est et gratiae. et forte haec naturae <lb/>
             quae gratiae, quia ad imaginem et similitudinem dei facti<lb n="10"/>
             spiritu sancto repleti esse debemus. 

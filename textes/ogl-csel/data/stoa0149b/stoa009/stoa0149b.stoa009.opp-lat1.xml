@@ -87,6 +87,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 7 mots mal lus.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -418,7 +419,7 @@
 <pb n="9"/>
             corporis hostiam praebitura.</p></div>
 
-<div n="6" subtype="section" type="textpart"><p>inuidct itaquc plucito displicens et   <lb/>
+<div n="6" subtype="section" type="textpart"><p>inuidct <choice><sic>itaquc</sic><corr>itaque</corr></choice> plucito displicens et   <lb/>
             contra dei edictum. ut quiesceret, admonentis probabilis ab improbabili <lb/>
             interficitur. reus ad confessionis paenitentiam interrogatur, <lb/>
             sed ad incrementum criminis negat; desperans resurrectionem sed <lb/>
@@ -438,7 +439,7 @@
             populis? oblatio iunioris est placita, ludeus inuidet Christiano, ad <lb n="10"/>
             caedem eius frustra a prophetis monitus exarsit.</p></div>
 
-<div n="2" subtype="section" type="textpart"><p>ucniam ne pcr  <lb/>
+<div n="2" subtype="section" type="textpart"><p>ucniam ne <choice><sic>pcr</sic><corr>per</corr></choice>  <lb/>
             ipsam quidem confessionem paenitentiae consectatur, sed audax <lb/>
             deo commissum scelus abnegat. desperans resurrectionis gloriam <lb/>
             subiectusque capta Hierusalem dominantium potestati gemens <lb/>
@@ -596,7 +597,7 @@
             septies indulgeret, respondit per hanc significantiam docens ipsam <lb/>
             illis, qui credituri essent,; passionis suae poenam remittendam,  <lb/>
             cum, in quantum uindicta eius multiplicata esset. <milestone n="4v" unit="folio"/> in tantum rursum <lb n="5"/>
-            ucnia abundaret. 
+            <choice><sic>ucnia</sic><corr>uenia</corr></choice> abundaret. 
 </p>
           </div>
 </div>
@@ -1080,7 +1081,7 @@
             principibus dicitur, sed magis dominante Laban seruitutem multi <lb/>
             temporis pertulit.</p></div>
 
-<div n="4" subtype="section" type="textpart"><p>dominus fratri suo constituitur; at quid fratrcm  <lb/>
+<div n="4" subtype="section" type="textpart"><p>dominus fratri suo constituitur; at quid <choice><sic>fratrcm</sic><corr>fratrem</corr></choice>  <lb/>
             suum tamquam dominum adorauit? ergo quia scriptura mendacio<lb n="5"/>
             non periclitatur, licet in Iacob haec dicta sint, in populum tamen. <lb/>
             quem praeformabat. et significantur l\'t. aguntur. haec enim omnia <lb/>
@@ -1457,7 +1458,7 @@
 <div n="1" subtype="section" type="textpart">
 <p>In hoc ligno apud eundem Moysen uita omnium pendet, <lb/>
             cum dicit: uidebitis uitam uestram pendentem <lb n="5"/>
-            in conspectu oculorum ucstrorum nocte et die <lb/>
+            in conspectu oculorum <choice><sic>ucstrorum</sic><corr>uestrorum</corr></choice> nocte et die <lb/>
             et timebitis et non credetis uitae uestrae. <lb/>
             hoc in panem apud Hieremiam inicitur ita: super me cogitauerunt <lb/>
             cogitationem dicentes :</p></div>
@@ -1641,7 +1642,7 @@
             sexto die superest, non corrumpitur. cum, quod extra mensuram <lb/>
             ceterorum dierum sit, faeteat.</p></div>
 
-<div n="2" subtype="section" type="textpart"><p>ita et his, quae extra praeseriptum  <lb/>
+<div n="2" subtype="section" type="textpart"><p>ita et his, quae extra <choice><sic>praeseriptum</sic><corr>praescriptum</corr></choice>  <lb/>
             sint, praesumpta corruptio est. in hoc igitur aetatis nostrae tempore <lb n="10"/>
             operandum est, quo uti possimus in requie. tempus autem <lb/>
             huius sexti millesimi anni est, quod sub numero diei sexti significatur <lb/>
@@ -1801,7 +1802,7 @@
 <pb n="32"/>insen- 
 </p></div>
 
-<div n="3" subtype="section" type="textpart"><p>            sibilibus sensus audientiae nullus sit, tamen sub sacramcnto unctionis  <lb/>
+<div n="3" subtype="section" type="textpart"><p>            sibilibus sensus audientiae nullus sit, tamen sub <choice><sic>sacramcnto</sic><corr>sacramento</corr></choice> unctionis  <lb/>
             et corporis se esse, qui in his sit auditurus, ostendit. per quae <lb/>
             audiente Israhel desponsatam sibi in spem fornicariam seminauit <lb/>
             praetermisso eo, qui nuncupatus est Israhel, ceteris\' honorem <lb/>

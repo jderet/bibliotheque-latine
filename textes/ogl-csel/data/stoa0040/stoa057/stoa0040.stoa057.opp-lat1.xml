@@ -94,6 +94,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 21 mots collés, 41 mots mal lus, 5 mots coupés.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -114,7 +115,7 @@ Quamuis in mediis et magnis curarum aestibus atque taediorum, <lb/>
             deum, qui tibi desiderium tale donauit, cui scruiendo illi seruiam <lb/>
             qui donauit, sic, inquam, me conpulit, sic duxit et traxit ad <lb n="10"/>
             dissoluendas pro tantillis uiribus quaestiones, quas mihi scribendo <lb/>
-            indixisti, ut ea causa in animo meo paulisper uineeret alias, donec <lb/>
+            indixisti, ut ea causa in animo meo paulisper <choice><sic>uineeret</sic><corr>uinceret</corr></choice> alias, donec <lb/>
             aliquid efficerem, quo me bonae tuae uoluntati et eorum quibus haec <lb/>
             curae sunt etsi non sufficienter, tamen oboedienter seruisse constaret. <lb/>
             <lb n="15"/>
@@ -447,7 +448,7 @@ Quamuis in mediis et magnis curarum aestibus atque taediorum, <lb/>
 
 <div n="9" subtype="section" type="textpart">
 <p><milestone n="9" unit="altchapter"/> Hoc autem apostolicum testimonium, in quo ait: per <lb/>
-            unum hominem peccatum intrauitin mundumetper peccatum <lb/>
+            unum hominem peccatum <choice><sic>intrauitin</sic><corr>intrauit in</corr></choice> <choice><sic>mundumetper</sic><corr>mundum et per</corr></choice> peccatum <lb/>
             mors, conari eos quidem in aliam nouam detorquere opinionem<lb n="10"/>
             tuis litteris intimasti, sed quidnam illud sit quod in his uerbis <lb/>
             opinentur tacuisti. quantum autem ex aliis comperi, hoc ibi sentiunt, <lb/>
@@ -632,7 +633,7 @@ Quamuis in mediis et magnis curarum aestibus atque taediorum, <lb/>
             poterat, pertinebant. hoc namque occultabatur in uetere testamento <lb/>
             pro temporum dispensatione iustissima, quod nunc reuclatur in <lb/>
             nouo. ergo in omnibus regnauit mors ab Adam usque ad <lb/>
-            Mo ysen, qui Christi gratia non adiuti sunt, ut in eis regnum mortis <lb/>
+            <choice><sic>Mo ysen</sic><corr>Moysen</corr></choice>, qui Christi gratia non adiuti sunt, ut in eis regnum mortis <lb/>
             destrueretur, ergo et in eis qui non peccauerunt in similitudine<lb n="10"/>
             praeuarieationis Adae, id est qui nondum sua et <lb/>
             propria uoluntate sicut ille peccauerunt, sed ab illo peccatum originale <lb/>
@@ -675,7 +676,7 @@ Quamuis in mediis et magnis curarum aestibus atque taediorum, <lb/>
 <p>Sed non, inquit, sicut delictum ita et donatio; si <lb/>
             enim ob unius delictum multi mortui sunt, multo magis <lb/>
             gratia dei et donum in gratia unius hominis Iesu Christi <lb/>
-            in multos abundauit: non \'magis multos\', id est multo plurcs <lb/>
+            in multos abundauit: non \'magis multos\', id est multo <choice><sic>plurcs</sic><corr>plures</corr></choice> <lb/>
             homines - neque enim plures iustificantur quam condemnantur —, <lb n="5"/>
             sed \'multo magis abundauit\'. Adam quippe ex uno suo delicto reos <lb/>
             genuit; Christus autem etiam quae homines delicta propriae uoluntatis <lb/>
@@ -871,7 +872,7 @@ Quamuis in mediis et magnis curarum aestibus atque taediorum, <lb/>
             tamen uolunt isti non nisi Adam dictum, in quo omnes imitatione <lb/>
             peccauerunt, quia primus hominum ipse peccauit. ac per hoc Abel <lb/>
             dici debuit, in quo uno similiter homines imitatione iustificentur, <lb/>
-            quoniam ipse primus hominum luste uixit. aut si propter quendam <lb n="5"/>
+            quoniam ipse primus hominum <choice><sic>luste</sic><corr>iuste</corr></choice> uixit. aut si propter quendam <lb n="5"/>
             articulum temporis ad noui testamenti exordium pertinentem Christus <lb/>
             est positus propter imitationem caput iustorum, ludas eius traditor <lb/>
             caput poni debuit peccatorum. porro si propterea Christus unus est in <lb/>
@@ -925,7 +926,7 @@ Quamuis in mediis et magnis curarum aestibus atque taediorum, <lb/>
             non ex Adam traxerunt homines, sed sua uoluntate addiderunt, <lb/>
             sic et gratia regnet per iustitiam in uitam aeternam. <lb/>
             non tamen aliqua iustitia praeter Christum, sicut aliqua peccata<lb n="10"/>
-            practer Adam. ideo cum dixisset: quemadmodum regnauit <lb/>
+            <choice><sic>practer</sic><corr>praeter</corr></choice> Adam. ideo cum dixisset: quemadmodum regnauit <lb/>
             peccatum in mortem, hic non addidit: \'per unum\' aut \'per Adam,\' <lb/>
             quia supra dixerat etiam de peccato illo, quod subintrante lege <lb/>
             abundauit, et hoc utique non est originis, sed iam propriae uoluntatis. <lb/>
@@ -944,7 +945,7 @@ Quamuis in mediis et magnis curarum aestibus atque taediorum, <lb/>
             autem fallit et fallitur, qui eos in damnatione praedicat non futuros, <lb/>
             dicente apostolo: iudicium ex uno delicto in condemnatione met paulo post: <lb/>
             per unius delictum in omnes homines <lb/>
-            ad condemnationem. quando ergo pcccauit Adam non
+            ad condemnationem. quando ergo <choice><sic>pcccauit</sic><corr>peccauit</corr></choice> Adam non
 
 <note type="footnote"> 3 Rom. 5, 20 5 Rom. 5,20.21 17 cf. August. Enchiridii cap. 46 (XL 254 M): <lb/>
             parentum quoque peccatis paruulos obligari non solum primorum hominum sed <lb/>
@@ -980,7 +981,7 @@ Quamuis in mediis et magnis curarum aestibus atque taediorum, <lb/>
             peccato et morti primi hominis obnoxii nascuntur in carne et simul <lb/>
             iustitiae uitaeque aeternae secundi hominis sociati renascuntur in <lb/>
             baptismo; sic et in Ecclesiastico scriptum est: a muliere initium <lb/>
-            faetum est peccati et perillamomnesmorimur.siueautem <lb/>
+            faetum est peccati et perillamomnesmorimur.<choice><sic>siueautem</sic><corr>siue autem</corr></choice> <lb/>
             a muliere siue ab Adam dicatur, utrumque ad primum hominem <lb n="20"/>
             pertinet, quoniam, sicut nouimus, mulier ex uiro est et utriusque una <lb/>
             caro est. unde et illud quod scriptum est: et erunt duo in <lb/>
@@ -1085,7 +1086,7 @@ Quamuis in mediis et magnis curarum aestibus atque taediorum, <lb/>
 <p><milestone n="19" unit="altchapter"/> Ac ne quis existimet ideo paruulos ad baptismum <lb/>
             adferri oportere, quia, sicut peccatores non sunt, ita nec iusti sunt. <lb/>
             quomodo ergo quidam meritum huius aetatis a domino laudatum <lb/>
-            esse commemorant, quandoait: sinite paruulos uenire ad me; <lb n="25"/>
+            esse commemorant, <choice><sic>quandoait</sic><corr>quando ait</corr></choice>: sinite paruulos uenire ad me; <lb n="25"/>
             talium est enim regnum caelorum? si enim hoc non propter
 
 <note type="footnote"> 2 Tit. 3, 5 5 Rom. 8, 24. 25 11 Rom. 5, G 18 cf. Luc. 5, 31. 32 <lb/>
@@ -1278,7 +1279,7 @@ Quamuis in mediis et magnis curarum aestibus atque taediorum, <lb/>
             sed manet super eum. ab hac quippe ira, qua omnes sub peccato <lb/>
             sunt, de qua dicit apostolus: fuimus enim et nos aliquando <lb/>
             naturaliter filii irae sicut et ceteri, nulla res liberat nisi <lb n="25"/>
-            gratiadei per Icsum Christum dominum nostrum. haec gratia <lb/>
+            gratiadei per <choice><sic>Icsum</sic><corr>Iesum</corr></choice> Christum dominum nostrum. haec gratia <lb/>
             cur ad illum ueniat, ad illum non ueniat, occulta esse causa potest, iniusta non potest. <lb/>
             numquid enim iniquitas apud deum? absit. <lb/>
             sed prius sanctarum scripturarum auctoritatibus colla subdenda
@@ -1301,7 +1302,7 @@ Quamuis in mediis et magnis curarum aestibus atque taediorum, <lb/>
             quippe sententiam mirae profunditatis dicens: conclusit enim <lb n="5"/>
             deus omnes in incredulitate, ut omnibus misereatur. <lb/>
             cuius profunditatis ueluti horrore percussus; o altitudo, inquit, <lb/>
-            diuitiarum sa pientiae et scientiae dei! quam inser utabilia <lb/>
+            diuitiarum <choice><sic>sa pientiae</sic><corr>sapientiae</corr></choice> et scientiae dei! quam inser utabilia <lb/>
             sunt iudicia eius et inuestigabiles uiae eius! quis enim <lb/>
             cognouit sensum domini? aut quis consiliarius illius<lb n="10"/>
             fuit? aut quis prior dedit illi, et retribuetur ei? quoniam <lb/>
@@ -1368,7 +1369,7 @@ Quamuis in mediis et magnis curarum aestibus atque taediorum, <lb/>
             cui opinioni quamuis sancta scriptura apertissime contradicat. quae <lb/>
             cum gratiam commendaret, nondum natis, inquit, nec qui <lb/>
             aliquid egerint boni aut mali, ut secundum electionem <lb/>
-            propositum dei maneretnon ex operibus, sed ex uocante <lb/>
+            propositum dei <choice><sic>maneretnon</sic><corr>maneret non</corr></choice> ex operibus, sed ex uocante <lb/>
             dictum est, quod maior seruiet minori, nec ipsi tamen <lb n="25"/>
             qui hoc sentiunt euadunt huius quaestionis angustias, sed in eis
 
@@ -1397,7 +1398,7 @@ Quamuis in mediis et magnis curarum aestibus atque taediorum, <lb/>
             quomodo autem audient sine praedicante? — alius autem <lb/>
             tardus ingenio, libidinibus deditus, flagitiis et facinoribus coopertus <lb/>
             ita gubernetur, ut audiat, credat, baptizetur, rapiatur aut, si detentus<lb n="10"/>
-            hic fuerit, laudabiliter uiuat? ubi duo isti tam diucrsa <lb/>
+            hic fuerit, laudabiliter uiuat? ubi duo isti tam <choice><sic>diucrsa</sic><corr>diuersa</corr></choice> <lb/>
             merita contraxerunt, non dico, ut iste credat, ille non credat, quod est <lb/>
             propriae uoluntatis, sed ut iste audiat quod credat, ille non audiat — <lb/>
             hoc enim non est in hominis\' potestate — ubi, inquam, haec tam <lb/>
@@ -1410,7 +1411,7 @@ Quamuis in mediis et magnis curarum aestibus atque taediorum, <lb/>
             et tamen eam sibi gratiam praedicari non meruit, qua sola <lb/>
             posset a secundae mortis pernicie liberari; ille autem pro mentis <lb/>
             deterioribus, sicut putant, grauiori corpori inplicitus et ob hoc cordis <lb/>
-            obtunsi, cum carnis inlecebris ardentissima cupidine uincerctur <lb/>
+            obtunsi, cum carnis inlecebris ardentissima cupidine <choice><sic>uincerctur</sic><corr>uinceretur</corr></choice> <lb/>
             et per nequissimam uitam peccatis pristinis, quibus ad hoc uenire
 
 <note type="footnote"> G Rom. 10, 14 22 cf. Apoc. 20, 6 sqq. </note>
@@ -1451,7 +1452,7 @@ Quamuis in mediis et magnis curarum aestibus atque taediorum, <lb/>
             animas terrenis corporibus magis minusue grauari opinantur, adfirmet <lb/>
             eos ante istam uitam sceleratius inmaniusque peccasse, qui <lb/>
             mentis lumen sic amittere meruerunt, ut sensu uicino pecoribus <lb/>
-            nascerentur, non dico tardissimi ingenio -nam hoc de aliis dici soletsed <lb/>
+            nascerentur, non dico tardissimi ingenio -nam hoc de aliis dici <choice><sic>soletsed</sic><corr>solet sed</corr></choice> <lb/>
             ita excordes, ut etiam cirrati ad mouendum risum exhibeant <lb n="20"/>
             cordatis delicias fatuitatis, quorum nomen ex graeco deriuatum <lb/>
             moriones uulgus appellat? talium tamen quidam fuit ita christianus, <lb/>
@@ -1869,9 +1870,9 @@ Quamuis in mediis et magnis curarum aestibus atque taediorum, <lb/>
             gaudebitis <hi rend="italic">b</hi> gaudia <hi rend="italic">fin. M</hi> </note> <lb/>
              
 <pb n="40"/>
-            uestrarum. item alio loco: uos auteminquit, genus electum, <lb/>
+            uestrarum. item alio loco: uos <choice><sic>auteminquit</sic><corr>autem inquit</corr></choice>, genus electum, <lb/>
             regale sacerdotium, gens sancta, populus in adoptione, <lb/>
-            ut uirtutes enuntietis eius qui uos de tenebris uoeauit <lb/>
+            ut uirtutes enuntietis eius qui uos de tenebris <choice><sic>uoeauit</sic><corr>uocauit</corr></choice> <lb/>
             incipiunt admirabile lumen suum.etiterum:Christusinquit, <lb/>
             pro peccatis nostris passus est, iustus pro iniustis, ut<lb n="5"/>
             nos adducat ad deum. item cum commemorasset in arca Noe <lb/>
@@ -1964,7 +1965,7 @@ Quamuis in mediis et magnis curarum aestibus atque taediorum, <lb/>
 <pb n="42"/>
             inquit, propter illum tantum, quia deputatum est illi, <lb/>
             sed et propter nos, quibus deputabitur credentibus <lb/>
-            in eum, qui excitauit Icsum Christum dominum nostrum <lb/>
+            in eum, qui excitauit <choice><sic>Icsum</sic><corr>Iesum</corr></choice> Christum dominum nostrum <lb/>
             a mortuis, qui traditus est propter delicta nostra <lb/>
             et resurrexit propter iustifieationem nostram. et paulo<lb n="5"/>
             post: si enim Christus, inquit, cum infirmi essemus adhuc, <lb/>
@@ -2065,7 +2066,7 @@ Quamuis in mediis et magnis curarum aestibus atque taediorum, <lb/>
             et domino Iesu Christo, qui dedit semet ipsum pro peccatis <lb/>
             nostris, ut eximeret nos de praesenti saeculo <lb/>
             maligno. et alio loco: lex transgressionis gratia proposita<lb n="10"/>
-            est, donec uenirct semen cui promissum est, dispositum <lb/>
+            est, donec <choice><sic>uenirct</sic><corr>ueniret</corr></choice> semen cui promissum est, dispositum <lb/>
             per angelos in manu mediatoris. mediator <lb/>
             autem unius non est deus uero unus est. lex ergo aduersus <lb/>
             promissa dei? absit! si enim data esset lex, quae <lb/>
@@ -2153,7 +2154,7 @@ Quamuis in mediis et magnis curarum aestibus atque taediorum, <lb/>
             in lumine, qui eruit nos de potestate tenebrarum <lb/>
             et transtulit in regnum filii caritatis suae, in quo habemus <lb/>
             redemptionem in remissione peccatorum. et alio <lb/>
-            loco: et estisinquitin illo repleti, qui est caput omnis principatus <lb/>
+            loco: et <choice><sic>estisinquitin</sic><corr>estis inquit in</corr></choice> illo repleti, qui est caput omnis principatus <lb/>
             et potestatis, in quo etiam circumcisi estis circumcisione<lb n="5"/>
             non manu facta, in expoliatione corporis <lb/>
             carnis, in circumcisione Christi, consepulti ei in baptismo, <lb/>
@@ -2174,7 +2175,7 @@ Quamuis in mediis et magnis curarum aestibus atque taediorum, <lb/>
 <p>Et ad Timotheum: humanus, inquit, sermo et omni <lb/>
             acceptione dignus, quia Christus Iesus uenit in hunc mundum <lb/>
             peccatores saluos facere, quorum primus sum <lb/>
-            ego. sed ideo miserieordiam consecutus sum, ut in me <lb/>
+            ego. sed ideo <choice><sic>miserieordiam</sic><corr>misericordiam</corr></choice> consecutus sum, ut in me <lb/>
             primo ostenderet Christus Iesus omnem longanimitatem<lb n="20"/>
             ad informationem eorum qui credituri sunt illi in uitam <lb/>
             aeternam. item dicit: unus enim deus, unus et mediator <lb/>
@@ -2303,7 +2304,7 @@ Quamuis in mediis et magnis curarum aestibus atque taediorum, <lb/>
             semel in extremitate saeculorum ad remissionem peccatorum <lb n="10"/>
             per sacrificium suum manifestatus est. et sicut <lb/>
             constitutum est hominibus semel tantum mori et post <lb/>
-            hoc iudicium, sic etChristus semel oblatus est, ut multorum <lb/>
+            hoc iudicium, sic <choice><sic>etChristus</sic><corr>et Christus</corr></choice> semel oblatus est, ut multorum <lb/>
             peccata portaret, secundo sine peccatis apparebit <lb/>
             eis, qui eum sustinent ad salutem. <lb n="15"/>
             
@@ -2400,9 +2401,9 @@ Quamuis in mediis et magnis curarum aestibus atque taediorum, <lb/>
 </div>
 
 <div n="54" subtype="section" type="textpart">
-<p>Verum tamen commodius est, etiam ex ipso uctere testamento <lb/>
+<p>Verum tamen commodius est, etiam ex ipso <choice><sic>uctere</sic><corr>uetere</corr></choice> testamento <lb/>
             testimonia pauca depromere, quae uel ad supplementum <lb/>
-            ucl potius ad cumulum ualerc debebunt. ipse dominus per prophetam <lb/>
+            ucl potius ad cumulum <choice><sic>ualerc</sic><corr>ualere</corr></choice> debebunt. ipse dominus per prophetam <lb/>
             in psalmo loquens ait: sanctis qui in terra sunt eius <lb/>
             mirificauit omnes uoluntates meas in illis, non \'merita <lb n="5"/>
             eorum\',sed uoluntates meas. namillorum quid nisi quod sequitur? <lb/>
@@ -2454,7 +2455,7 @@ Quamuis in mediis et magnis curarum aestibus atque taediorum, <lb/>
             iniuriata est nec magni aestimata est. hic infirmitates <lb/>
             nostras portat et pro nobis in doloribus est. et nos existimauimus <lb/>
             illum in doloribus esse et in plaga et in<lb n="10"/>
-            poena. ipse autem uulneratusest propter peccata nostra r a <lb/>
+            poena. ipse autem <choice><sic>uulneratusest</sic><corr>uulneratus est</corr></choice> propter peccata nostra r a <lb/>
             et infirmatus est propter iniquitates nostras. eruditio <lb/>
             pacis nostrae in eum, liuore eius sanati sumus. omnes <lb/>
             ut oues errauimus et dominus tradidit illum pro peccatis <lb/>
@@ -2863,7 +2864,7 @@ Quamuis in mediis et magnis curarum aestibus atque taediorum, <lb/>
             est, et filius dei ambulabat in terra et idem ipse filius hominis manebat <lb/>
             in caelo. fit ergo credibiliorum fides ex incredibilioribus creditis. <lb/>
             si enim diuina substantia longe distantior atque incomparabili <lb/>
-            diucrsitate sublimior potuit propter nos ita suscipere humanam <lb n="10"/>
+            <choice><sic>diucrsitate</sic><corr>diuersitate</corr></choice> sublimior potuit propter nos ita suscipere humanam <lb n="10"/>
             substantiam, ut una persona fieret ac sic filius hominis, qui erat in <lb/>
             terra per carnis infirmitatem, idem ipse esset in caelo per participatam <lb/>
             carni diuinitatem, quanto credibilius alii homines sancti et <lb/>
@@ -2906,7 +2907,7 @@ Quamuis in mediis et magnis curarum aestibus atque taediorum, <lb/>
             exaltatum quisquis a serpente morderetur adtenderet; hoc facientes <lb/>
             continuo sanabantur. quid est exaltatus serpens nisi mors Christi <lb/>
             eo significandi modo, quo per efficientem id quod efficitur significatur?<lb n="5"/>
-            a serpente quippe mors ucnit, qui peccatum, quo mori mereretur, <lb/>
+            a serpente quippe mors <choice><sic>ucnit</sic><corr>uenit</corr></choice>, qui peccatum, quo mori mereretur, <lb/>
             homini persuasit. dominus autem in carnem suam non <lb/>
             peccatum transtulit tamquam uenenum serpentis, sed tamen transtulit <lb/>
             mortem, ut esset in similitudine carnis peccati poena sine culpa, <lb/>
@@ -2956,7 +2957,7 @@ Quamuis in mediis et magnis curarum aestibus atque taediorum, <lb/>
             responsionem - ac per hoc eos, qui baptizati non sunt, inter eos <lb/>
             qui non crediderunt. porro si illi, qui baptizati sunt, non iudicantur.isti, <lb/>
             quia carent baptismo, iudicantur. quod uero adiungit: <lb/>
-            hoc est au tem i udici umquia lux uenit in mu ndum et dilexerunt <lb/>
+            hoc est au tem <choice><sic>i udici</sic><corr>iudici</corr></choice> umquia lux uenit in <choice><sic>mu ndum</sic><corr>mundum</corr></choice> et dilexerunt <lb/>
             homines tenebras magis quam lucem, unde lux <lb n="10"/>
             uenit in mundum um, nisi desuo dicit aduentu? sine cuius aduentus <lb/>
             sacramento quomodo paruuli esse dicuntur in luce? aut quomodo <lb/>
@@ -2970,7 +2971,7 @@ Quamuis in mediis et magnis curarum aestibus atque taediorum, <lb/>
             carnali generatione ad Christum uenientium regeneratio spiritalis. <lb n="20"/>
             ipse hoc aperuit, ipse monstrauit, cum ab eo quaereretur quomodo <lb/>
             possent ista fieri, nemini humanam argumentationem in hac causa <lb/>
-            liberamfecit.non alienentur parunli a gratia remissionis peccatorum; <lb/>
+            liberamfecit.non alienentur <choice><sic>parunli</sic><corr>paruuli</corr></choice> a gratia remissionis peccatorum; <lb/>
             non aliter transitur ad Christum, nemo aliter potest deo reconciliari <lb/>
             et ad deum uenire nisi per Christum. <lb n="25"/>
             
@@ -3048,7 +3049,7 @@ Quamuis in mediis et magnis curarum aestibus atque taediorum, <lb/>
             peccatorum fieri remissionem, sed originale esse quicquid <lb/>
             illud in eis est uel noluntdicere uel uidere non possunt. illi autem priores <lb/>
             in ipsa natura humana, quae ab omnibus ut consideretur in promptu <lb n="5"/>
-            est, bene uiderttnt-quod facile fuit—actatem illam in sua iam uita <lb/>
+            est, bene uiderttnt-quod facile fuit—<choice><sic>actatem</sic><corr>aetatem</corr></choice> illam in sua iam uita <lb/>
             propria nihil peccati potuisse contrahere, sed, ne peccatum originale <lb/>
             fateantur, nullum esse omnino peccatum in paruulis dicunt. <lb/>
             in his ergo, quae singula uera dicunt, prius inter se ipsi consentiant, <lb/>
@@ -3074,7 +3075,7 @@ Quamuis in mediis et magnis curarum aestibus atque taediorum, <lb/>
             nullus in alterutram partem rationis usus hoc multo tes tatore <lb/>
             silentio quam sermo noster proclamat atque indicat? ualeat aliquid <lb/>
             ad se ipsam persuadendam ipsa euidentia; nam nusquam sic non <lb n="25"/>
-            inucnio quod dicam, quam ubi res, de qua dicitur, manifestior est <lb/>
+            <choice><sic>inucnio</sic><corr>inuenio</corr></choice> quod dicam, quam ubi res, de qua dicitur, manifestior est <lb/>
             quam omne quod dicitur.
 
 <note rend="script" type="footnote"> 3 <hi rend="italic">post</hi> sed <hi rend="italic">exp</hi>. ut <hi rend="italic">L, add. SVPGb</hi> esset <hi rend="italic">b</hi> quidquid <hi rend="italic">SHmlKCMbd <lb/>
@@ -3124,7 +3125,7 @@ Quamuis in mediis et magnis curarum aestibus atque taediorum, <lb/>
             accessurum creditur aetatis accessu, fit ut conuicia paruulorum <lb/>
             etiam in parentes non solum iniuriosa non sint, uerum etiam grata <lb/>
             atque iucunda sint. quod quidem prudentium nemo probauerit, ut a<lb n="25"/>
-            dictis uelfactis huiusmodi non tantum nou prohibeantur, cum prohiberi
+            dictis <choice><sic>uelfactis</sic><corr>uel factis</corr></choice> huiusmodi non tantum nou prohibeantur, cum prohiberi
 
 <note rend="script" type="footnote"> <hi rend="italic">2 putaret Vml</hi><hi rend="italic">infantes recentes M</hi> cui] sui M <hi rend="italic">3 uitam Lml</hi> 5iniquitate <lb/>
             (i s. e <hi rend="italic">m2) K</hi> 6 deputantum <hi rend="italic">Vml</hi> 7 proibitione <hi rend="italic">K</hi> compescitur <hi rend="italic">Vm2</hi> conpescitis <hi rend="italic">P</hi> <lb/>
@@ -3190,7 +3191,7 @@ Quamuis in mediis et magnis curarum aestibus atque taediorum, <lb/>
 <pb n="68"/>
             etiam indocilis iacet, quare aut quando aut unde contrusa est ? si naturae <lb/>
             est hominis sic incipere et non iam uitiosa est ista natura, cur non <lb/>
-            talis creatus est Adam? cur ille eapax praecepti et ualens uxori et <lb/>
+            talis creatus est Adam? cur ille <choice><sic>eapax</sic><corr>capax</corr></choice> praecepti et ualens uxori et <lb/>
             omnibus animalibus nomina inponere? nam et de illa dixit: haec <lb/>
             uocabitur mulieret: quodcumque uocauit Adam animam<lb n="5"/>
             uiuam, hoc est nomen eius. iste autem nesciens ubi sit, quid <lb/>
@@ -3266,7 +3267,7 @@ Quamuis in mediis et magnis curarum aestibus atque taediorum, <lb/>
             loco abdito posita mirabili facilitate nouerunt. contra homini <lb/>
             nato nec ad incessum pedes idonei nec manus saltem ad scalpendum <lb n="25"/>
             habiles et, nisi opere nutrientis inmotis labris papilla uberis <lb/>
-            ingeratur, nec ubi sint sentiunt et iuxta se iaccntibus mammis
+            ingeratur, nec ubi sint sentiunt et iuxta se <choice><sic>iaccntibus</sic><corr>iacentibus</corr></choice> mammis
 
 <note type="footnote"> 15 cf. Gen. 2, 22 </note>
 
@@ -3294,7 +3295,7 @@ Quamuis in mediis et magnis curarum aestibus atque taediorum, <lb/>
 
 <div n="70" subtype="section" type="textpart">
 <p><milestone n="39" unit="altchapter"/> In paruulis certe gratia dei per baptismum eius, <lb/>
-            qui ucnit in similitudine carnis peccati, id agitur, ut euacuetur caro <lb/>
+            qui <choice><sic>ucnit</sic><corr>uenit</corr></choice> in similitudine carnis peccati, id agitur, ut euacuetur caro <lb/>
             peccati. euacuatur autem, non ut in ipsa uiuente carne concupiscentia <lb/>
             conspersa et innata repente absumatur et non sit, sed ne obsit<lb n="10"/>
             mortuo, quae inerat nato. nam si post baptismum uixerit atque ad <lb/>
@@ -3330,7 +3331,7 @@ Quamuis in mediis et magnis curarum aestibus atque taediorum, <lb/>
              
 <pb n="71"/>
             non iustificetur in conspectu dei omnis uiuens, fit ut per ignorantiam <lb/>
-            ucl infirmitatem non exertis aducrsus cam totis uiribus uoluntatis <lb/>
+            ucl infirmitatem non exertis <choice><sic>aducrsus</sic><corr>aduersus</corr></choice> cam totis uiribus uoluntatis <lb/>
             eidem ad inlicita etiam nonnulla cedamus, tanto magis et crebrius <lb/>
             quanto deteriores, tanto minus et rarius quanto meliores sumus. <lb/>
             sed quoniam de hac quaestione, in qua quaeritur, utrum possit ucl <lb n="5"/>
@@ -3587,7 +3588,7 @@ Quamuis in mediis et magnis curarum aestibus atque taediorum, <lb/>
             sabbato ieiunaret, quod omnium quae possidebat decimas daret. <lb n="15"/>
             nihil sibi addi ad iustitiam iam petebat, sed tamen ex his quae habebat <lb/>
             gratias deo agendo ab illo se accepisse omnia fatebatur. et tamen inprobatus <lb/>
-            est, et quia ueluti saturatus nihilde alimentis iustitiae iam rogabat <lb/>
+            est, et quia ueluti saturatus <choice><sic>nihilde</sic><corr>nihil de</corr></choice> alimentis iustitiae iam rogabat <lb/>
             accipere et quod eam publicano esurienti ac sitienti se uelut insultans <lb/>
             praeferre gestiebat. quid ergo illis fiet, qui, etsi fateantur se non<lb n="20"/>
             habere uel non plenam habere iustitiam, tamen a se ipsis habendam, <lb/>
@@ -3612,7 +3613,7 @@ Quamuis in mediis et magnis curarum aestibus atque taediorum, <lb/>
              
 <pb n="77"/>
             ut non subinferatur ad bene uiuendum etiam nostrae efficacia uoluntatis. <lb/>
-            adiutorenim noster deus dicitur nec adiuuari potest, nisi qui aliquid <lb/>
+            <choice><sic>adiutorenim</sic><corr>adiutor enim</corr></choice> noster deus dicitur nec adiuuari potest, nisi qui aliquid <lb/>
             etiam sponte conatur, quia non sicut in lapidibus insensatis aut sicut <lb/>
             in cis, in quorum natura rationem uoluntatemque non condidit, <lb/>
             salutem nostram deus operatur in nobis. cur autem illum adiuuet, <lb n="5"/>
@@ -3635,7 +3636,7 @@ Quamuis in mediis et magnis curarum aestibus atque taediorum, <lb/>
             propositione quaestionum si a me quaeratur, utrum homo sine peccato <lb/>
             possit esse in hac uita, confitebor posse per dei gratiam et liberum <lb/>
             eius arbitrium, ipsum quoque liberum arbitrium ad dei gratiam, <lb/>
-            hoc est ad dei dona, pertincre non ambigens, nec tantum ut sit, uerum <lb n="20"/>
+            hoc est ad dei dona, <choice><sic>pertincre</sic><corr>pertinere</corr></choice> non ambigens, nec tantum ut sit, uerum <lb n="20"/>
             etiam ut bonum sit, id est ad facienda mandata domini conuertatur <lb/>
             atque ita dei gratia non solum ostendat quid faciendum sit, sed adiuuet etiam, <lb/>
             ut possit fieri quod ostenderit. quid enim habemus quod <lb/>
@@ -3662,7 +3663,7 @@ Quamuis in mediis et magnis curarum aestibus atque taediorum, <lb/>
             deo: tu praecepisti mandata tua custodiri nimis, continuo <lb/>
             non de se praesumpsit, sed optauit, ut faceret: utinam, inquit, dirigantur <lb/>
             uiae meae ad custodiendas iustificationes tuas! <lb/>
-            tuncnon confundar, dum inspicio in omnia mandata tua. <lb n="5"/>
+            <choice><sic>tuncnon</sic><corr>tunc non</corr></choice> confundar, dum inspicio in omnia mandata tua. <lb n="5"/>
             quis autem optat, quod in potestate sic habet, ut ad faciendum <lb/>
             nullo indigeat adiumento? a quo autem id optet, quia non a fortuna <lb/>
             uel a fato uel a quolibet alio praeter deum, in consequentibus satis <lb/>
@@ -3908,7 +3909,7 @@ Quamuis in mediis et magnis curarum aestibus atque taediorum, <lb/>
 
 <div n="12" subtype="section" type="textpart">
 <p><milestone n="10" unit="altchapter"/> Non igitur contrarium testimonium est illud, quo dictum <lb/>
-            est: qui natusest ex deo, non peccat, ei testimonio, quoiam <lb n="10"/>
+            est: qui <choice><sic>natusest</sic><corr>natus est</corr></choice> ex deo, non peccat, ei testimonio, quoiam <lb n="10"/>
             natis ex deo dicitur: si dixerimus, quia peccatum non habemus, <lb/>
             nos ipsos decipimus et ueritas in nobis non est. quamdiu <lb/>
             enim homo quamuis totus in spe iam et iam in re exparte regeneratione spiritali <lb/>
@@ -3992,7 +3993,7 @@ Quamuis in mediis et magnis curarum aestibus atque taediorum, <lb/>
             corpris <hi rend="italic">Lm1</hi> </note><lb n="25"/>
              
 <pb n="85"/>
-            tam distincte, tam quam de se ipsa distinetione satagens eamque maxime <lb/>
+            tam distincte, tam quam de se ipsa <choice><sic>distinetione</sic><corr>distinctione</corr></choice> satagens eamque maxime <lb/>
             uehementerque commendans: peccata, inquit, mea et peccata <lb/>
             populi mei. quis huic euidentiae contradicit, nisi quem plus delectat <lb/>
             defensare quod sentit quam quid sentiendum sit inuenire? 
@@ -4015,7 +4016,7 @@ Quamuis in mediis et magnis curarum aestibus atque taediorum, <lb/>
             mala et induisti me iuuentutis meae peccata et posuisti <lb/>
             pedem meum in prohibitione, seruasti omnia opera mea <lb/>
             et in radices pedum meorum inspexisti, qui ueterescunt <lb/>
-            sicut uter uel sicut ucstimcntum a tinea comestum. <lb/>
+            sicut uter uel sicut <choice><sic>ucstimcntum</sic><corr>uestimentum</corr></choice> a tinea comestum. <lb/>
             homo enim natus ex muliere parui est temporis et plenus <lb n="20"/>
             iracundia et, sicut flos cum flor uit et decidit, discessit, <lb/>
             sicut umbra non manet. nonne et huius curam fecisti <lb/>
@@ -4061,7 +4062,7 @@ Quamuis in mediis et magnis curarum aestibus atque taediorum, <lb/>
             quodsi fuero iustus, os meum impie loquetur; hoc est<lb n="20"/>
             enim: \'si me iustum dixero contra iudicium eius, ubi perfecta illa <lb/>
             iustitiae regula me conuincit iniustum, profecto impie loquetur os <lb/>
-            meum, quia contra dei ucritatem loquetur\'. 
+            meum, quia contra dei <choice><sic>ucritatem</sic><corr>ueritatem</corr></choice> loquetur\'. 
 </p>
           
 </div>
@@ -4102,7 +4103,7 @@ Quamuis in mediis et magnis curarum aestibus atque taediorum, <lb/>
             a sordibus esse non posset et ideo iustissime in iudicium tuum <lb/>
             uenict\'.illudueroquodait:dinumerasti omnes necessitudines <lb/>
             meas et nihil te latuit de peccatis meis; signasti <lb n="15"/>
-            peccata mea in folliculo et adnotasti si quid inuit us commisi, <lb/>
+            peccata mea in folliculo et adnotasti si quid <choice><sic>inuit us</sic><corr>inuitus</corr></choice> commisi, <lb/>
             nonne satis aperuit etiam illa peccata iuste inputari, quae non <lb/>
             delectationis inlecebra committuntur, sed causa deuitandae molestiae <lb/>
             alicuius aut doloris aut mortis? nam et haec dicuntur quadam necessitate <lb/>
@@ -4136,7 +4137,7 @@ Quamuis in mediis et magnis curarum aestibus atque taediorum, <lb/>
              
 <pb n="88"/>
             contigerunt ei, non cum peccasse labiis suis ante dominum, postea <lb/>
-            tamen cum ci loquerctur increpans locutus est, sicut ipse Iob testis <lb/>
+            tamen cum ci <choice><sic>loquerctur</sic><corr>loqueretur</corr></choice> increpans locutus est, sicut ipse Iob testis <lb/>
             est dicens: quid adhuc ego iudicor monitus et increpationes <lb/>
             domini audiens? nemo autem iuste increpatur, nisi in <lb/>
             quo est aliquid, quod increpatione sit dignum. <lb n="5"/>
@@ -4158,7 +4159,7 @@ Quamuis in mediis et magnis curarum aestibus atque taediorum, <lb/>
             magno intellectu displicuit? neque enim opus dei, quo erat homo, <lb/>
             recte illi poterat displicere, cum etiam ipsi deo dicatur: opera<lb n="20"/>
             manuum tuarum ne despexeris. sed profecto secundum illam <lb/>
-            iustitiam, qua se noucrat iustum, se uituperauit atque distabuit <lb/>
+            iustitiam, qua se <choice><sic>noucrat</sic><corr>nouerat</corr></choice> iustum, se uituperauit atque distabuit <lb/>
             aestimauitque se terram et cinerem mente conspiciens Christi <lb/>
             iustitiam, in cuius non tantum diuinitate, sed nec in anima nec in <lb/>
             carne ultum potuit esse peccatum, secundum quam iustitiam, quae <lb n="25"/>
@@ -4337,7 +4338,7 @@ Quamuis in mediis et magnis curarum aestibus atque taediorum, <lb/>
             dicit: quae mihi lucra fuerunt, haec propter Christum <lb/>
             damna esse duxi. uerum tamen et arbitror omnia damnum <lb/>
             esse propter eminentem scientiam Christi Iesu <lb/>
-            domini nostripropter quemomnia non solum detrimenta<lb n="10"/>
+            domini <choice><sic>nostripropter</sic><corr>nostri propter</corr></choice> quemomnia non solum detrimenta<lb n="10"/>
             credidi, uerum etiam stercora existimaui esse, ut Christum <lb/>
             lucrifaciam et inueniar in illo non habens meam <lb/>
             iustitiam, quae ex lege est, sed eam, quae est per fidem <lb/>
@@ -4564,7 +4565,7 @@ Quamuis in mediis et magnis curarum aestibus atque taediorum, <lb/>
             etiam in certamine passionis aduersarium superare, quod etiam <lb/>
             ipsi necesse est fateantur, cum haec diceret, adhuc in illo fuisse conplendum. <lb/>
             hoc ergo totum nos dicimus tunc fuisse adhuc perficiendum, <lb/>
-            quandoiam de dei promissione praefidens totum ita dicebat, tamquam <lb n="5"/>
+            <choice><sic>quandoiam</sic><corr>quando iam</corr></choice> de dei promissione praefidens totum ita dicebat, tamquam <lb n="5"/>
             fuisset effectum. ad ipsius quippe cursus consummationem pertinebat <lb/>
             etiam quod peccata dimittebat debitoribus suis atque ita sibi ut <lb/>
             dimitterentur orabat; qua domini pollicitatione certissimus erat <lb/>
@@ -4574,7 +4575,7 @@ Quamuis in mediis et magnis curarum aestibus atque taediorum, <lb/>
             peccatum, iam fuerat ab illo ablatus ille stimulus carnis, de quo a se <lb/>
             auferendo dominum ter rogauerat responsumque acceperat: sufficit <lb/>
             tibi gratia mea; uirtus in infirmitate perficitur. huic <lb/>
-            tanto uiro perficiendo necessarium fuit, ut ab illo angelus satanac <lb n="15"/>
+            tanto uiro perficiendo necessarium fuit, ut ab illo angelus <choice><sic>satanac</sic><corr>satanae</corr></choice> <lb n="15"/>
             non auferretur, a quo propterea colaphizabatur, ne magnitudine <lb/>
             reuelationum extolleretur, et audet quisquam quemquam uel putare <lb/>
             uel dicere positum sub onere uitae huius ab omni omnino mundum <lb/>
@@ -4660,7 +4661,7 @@ Quamuis in mediis et magnis curarum aestibus atque taediorum, <lb/>
             imns) G longQ (u s. 0 m2)V 26 uolunt SVmlGml 27 dclectant S</hi> </note> <lb/>
              
 <pb n="99"/>
-            tanto enim quidque uehementius uolnmus, quanto certius quam <lb/>
+            tanto enim quidque uehementius <choice><sic>uolnmus</sic><corr>uolumus</corr></choice>, quanto certius quam <lb/>
             bonum sit nouimus eoque delectamur ardentius. ignorantia igitur <lb/>
             et infirmitas uitia sunt, quae inpediunt uoluntatem, ne moueatur <lb/>
             ad faciendum opus bonum uel ab opere malo abstinendum. ut <lb/>
@@ -4834,7 +4835,7 @@ Quamuis in mediis et magnis curarum aestibus atque taediorum, <lb/>
             eius misericordiae est, non meriti illorum, quibus autem noluerit, <lb/>
             ueritatis est. iusta namque peccatoribus poena debetur, quoniam<lb n="20"/>
             misericordiam et ueritatem diligit dominus deus <lb/>
-            et: miserieordia et ueritas occurrerunt sibi et: uniuersae <lb/>
+            et: <choice><sic>miserieordia</sic><corr>misericordia</corr></choice> et ueritas occurrerunt sibi et: uniuersae <lb/>
             uiae domini misericordia et ueritas. et quis explicet quam <lb/>
             crebro haec duo coniuncta diuina scriptura commemoret? aliquando
 
@@ -5249,7 +5250,7 @@ Quamuis in mediis et magnis curarum aestibus atque taediorum, <lb/>
             Hebreos scripta est, in lumbis Abrahae Leui potuit decimari</hi>? hoc qui <lb n="15"/>
             dicunt adtendant non propterea Leui postea non fuisse decimatum, <lb/>
             quia iam fuerat decimatus in lumbis Abrahae, sed quia sic ordinatus <lb/>
-            est honore saeerdotii, ut acciperet decimas, non praeberet; alioquin nec <lb/>
+            est honore <choice><sic>saeerdotii</sic><corr>sacerdotii</corr></choice>, ut acciperet decimas, non praeberet; alioquin nec <lb/>
             ceteri fratres eius, qui ei praebebant, decimarentur, quia et ipsi in <lb/>
             lumbis Abrahae a Melchisedech iam fuerant decimati. <lb n="20"/>
             
@@ -5452,7 +5453,7 @@ Quamuis in mediis et magnis curarum aestibus atque taediorum, <lb/>
             ex reliquiis uetustatis earnaliter gignunt et filii ex parentum reliqua <lb/>
             uetustate toti uetusti in peccati carne propagati damnationem ueteri <lb n="15"/>
             homini debitam sacramento spiritalis regenerationis et renouationis <lb/>
-            cuadunt. illud namque praecipue propter quaestiones, quae de hac <lb/>
+            <choice><sic>cuadunt</sic><corr>euadunt</corr></choice>. illud namque praecipue propter quaestiones, quae de hac <lb/>
             re motae sunt uel moueri adhuc possunt, adtendere ac meminisse <lb/>
             debemus tantummodo peccatorum omnium plenam- perfectamque <lb/>
             remissionem baptismo fieri, hominis uero ipsius qualitatem non <lb n="20"/>
@@ -5645,7 +5646,7 @@ Quamuis in mediis et magnis curarum aestibus atque taediorum, <lb/>
             iuuenis fuisset occisus. quae tamen mors in carne peccati inoboedientiae <lb n="15"/>
             debita redditur, in similitudine autem carnis peccati oboedientiae <lb/>
             uoluntate suscepta est. ad eam quippe iturus eamque passurus hoc <lb/>
-            ait: ecce ucnit princeps mundi huius et in me nihil inueniet; <lb/>
+            ait: ecce <choice><sic>ucnit</sic><corr>uenit</corr></choice> princeps mundi huius et in me nihil inueniet; <lb/>
             sed ut sciant omnes, quia uoluntatem patris <lb/>
             mei facio. surgite, eamus hinc. his dictis perrexit ad indebitam <lb n="20"/>
             mortem factus oboediens usque ad mortem. 
@@ -5740,7 +5741,7 @@ Quamuis in mediis et magnis curarum aestibus atque taediorum, <lb/>
             et omnes, inquit, testimonium consecuti per fidem non <lb/>
             tulerunt promissiones dei; pro nobis enim meliora prouiderunt, <lb/>
             ne sine nobis perfecti perficerentur. haec laus <lb/>
-            fidei non esset nec omnino, ut iam dixi, fides esset, si homines in eredendo <lb/>
+            fidei non esset nec omnino, ut iam dixi, fides esset, si homines in <choice><sic>eredendo</sic><corr>credendo</corr></choice> <lb/>
             praemia uisibilia sequerentur, hoc est, si fidelibus merces <lb n="20"/>
             inmortalitatis in hoc saeculo redderetur. 
 </p>
@@ -6273,7 +6274,7 @@ Quamuis in mediis et magnis curarum aestibus atque taediorum, <lb/>
             dixisset: <hi rend="italic">si Adae, inquiunt, peccatum etiam non peccantibus nocuit, <lb/>
             ergo et Christi iustitia etiam non credentibus prodest</hi> — quod in his quae <lb/>
             respondi cernis quam non solum non expugnet quod dicimus, sed<lb n="5"/>
-            etiarn nos admoneat quid dicamus -, secutus adiunxit: <hi rend="italic">deinde aiunt: <lb/>
+            <choice><sic>etiarn</sic><corr>etiam</corr></choice> nos admoneat quid dicamus -, secutus adiunxit: <hi rend="italic">deinde aiunt: <lb/>
             si baptismus mundat antiquum illud delictum, qui de duobus baptizatis <lb/>
             nati fuerint debent hoc carere peccato; non enim potuerunt ad posteros <lb/>
             transmittere quod ipsi minime habuerunt. illud quoque accedit,</hi> inquit, <lb/>
@@ -6319,7 +6320,7 @@ Quamuis in mediis et magnis curarum aestibus atque taediorum, <lb/>
             non potest introire in regnum dei, atque ita uel in aeternam <lb/>
             mortem sine peccato praecipitetur aut, quod est absurdius, extra <lb/>
             regnum dei habeat uitam aeternam, cum dominus praedicens quid <lb/>
-            suis in fine dicturus sit: ucnitc, benedicti patris mei, percipite <lb/>
+            suis in fine dicturus sit: <choice><sic>ucnitc</sic><corr>uenite</corr></choice>, benedicti patris mei, percipite <lb/>
             regnum quod uobis paratum est ab initio mundi, <lb n="5"/>
             manifestauerit etiam quid sit ipsum regnum quod dicebat ita concludens: <lb/>
             sic ibunt illi in ambustionem aeternam, iusti <lb/>
@@ -6482,7 +6483,7 @@ Quamuis in mediis et magnis curarum aestibus atque taediorum, <lb/>
             de hac uita? unde, si iam nihil aliud diceret, intellegere nostrum fuit <lb/>
             sine peccato animam perire non posse. sed uide paulo post defendens<lb n="20"/>
             innocentiam paruulorum quid tamen de illis apertissime fateatur: <lb/>
-            ceterum si hominesinquit, inpedire aliquid ad consecutionem <lb/>
+            ceterum si <choice><sic>hominesinquit</sic><corr>homines inquit</corr></choice>, inpedire aliquid ad consecutionem <lb/>
             gratiae possetmagis adultos et prouectos et maiores <lb/>
             natu possent inpedire peccata grauiora. porro autem si <lb/>
             etiam grauissimis delictoribus et in deum multum ante<lb n="25"/>
@@ -6521,12 +6522,12 @@ Quamuis in mediis et magnis curarum aestibus atque taediorum, <lb/>
             ante octauum diem, ex quo die natus esset infans, cum, si afferretur, <lb/>
             baptizare nemo dubitaret, per haec firmamenta probaretur. neque <lb/>
             enim hoc tunc quasi nouum aut quasi aliqua cuiusquam contradictione <lb/>
-            pulsatum concilio statuebatur scu firmabatur, quod ob?tricti <lb n="15"/>
+            pulsatum concilio statuebatur <choice><sic>scu</sic><corr>seu</corr></choice> firmabatur, quod ob?tricti <lb n="15"/>
             originali peccato tenerentur infantes, sed cum illic illa consultatio <lb/>
             uersaretur et disceptaretur, propter legem carnalis circumcisionis <lb/>
             utrum eos et ante octauum diem baptizari oporteret. ideo ei qui hoc <lb/>
             negabatnemo consensit, quia iam non consulendum necdisceptandum, <lb/>
-            sed firmum certumque habebatur animam saluti aeternae pcrituram, <lb n="20"/>
+            sed firmum certumque habebatur animam saluti aeternae <choice><sic>pcrituram</sic><corr>perituram</corr></choice>, <lb n="20"/>
             si hanc uitam sine illius sacramenti consecutione finiret, quamuis <lb/>
             ab utero recentissimi paruuli solo reatu essent peccati originalis obstricti; <lb/>
             quare illis etsi multo facilior, quod alienorum, sed tamen esset <lb/>
@@ -6601,7 +6602,7 @@ Quamuis in mediis et magnis curarum aestibus atque taediorum, <lb/>
             utrumque accipiunt testamentum, non solum in catholica ecclesia, <lb n="5"/>
             uerum etiam in qualibet heresi uel schismate constitutis, non memini <lb/>
             me aliud legisse apud eos, quos de his rebus aliquid scribentes <lb/>
-            legere potui quiscriptura. canonicas sequerentur uel sequi se crederent <lb/>
+            legere potui <choice><sic>quiscriptura</sic><corr>qui scriptura</corr></choice>. canonicas sequerentur uel sequi se crederent <lb/>
             crediue uoluissent. unde nobis hoc negotium repente emerserit nescio. <lb/>
             nam ante paruum tempus a quibusdam transitorie conloquentibus <lb n="10"/>
             cursim mihi aures perstrictae sunt, cum illic apud Carthaginem <lb/>
@@ -6640,8 +6641,8 @@ Quamuis in mediis et magnis curarum aestibus atque taediorum, <lb/>
             meritorem <hi rend="italic">Lml</hi> 25 ei hoc <hi rend="italic">bd</hi> commenta <hi rend="italic">Vml</hi> </note><lb/>
              
 <pb n="140"/>
-            procliuius uellcnt feminae nubere fetus mundissimos pariturae. huius <lb/>
-            sane scripta — nam et scribere ausus est — cum fratres adHieronymum <lb/>
+            procliuius <choice><sic>uellcnt</sic><corr>uellent</corr></choice> feminae nubere fetus mundissimos pariturae. huius <lb/>
+            sane scripta — nam et scribere ausus est — cum fratres <choice><sic>adHieronymum</sic><corr>ad Hieronymum</corr></choice> <lb/>
             refellenda misissent, non solum in eis nihil tale conperit, uerum etiam <lb/>
             ad quaedam eius uana refutanda hoc tamquam certissimum de hominis <lb/>
             originali peccato, unde utique nec ipsum dubitare credebat,<lb n="5"/>
@@ -7017,7 +7018,7 @@ Quamuis in mediis et magnis curarum aestibus atque taediorum, <lb/>
             uero peccati lex. peccauimusin uno omnes, ut moreremur in uno <lb/>
             omnes; accepimus legem, non ut emendatione finiremus peccatum, <lb/>
             sed ut transgressione augeremus. lex enim subintrauit, ut abundaret <lb/>
-            peccatumet: conclusit scriptura omnia sub peccato.<lb n="5"/>
+            <choice><sic>peccatumet</sic><corr>peccatum et</corr></choice>: conclusit scriptura omnia sub peccato.<lb n="5"/>
             sed deo gratias, qui dedit nobis uictoriam per dominum <lb/>
             nostrum legum Christum, ut, ubi abundauit peccatum, <lb/>
             superabundaret gratia atque ut promissio ex fide Iesu Christi <lb/>

@@ -88,6 +88,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 2 mots collés.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -374,7 +375,7 @@
              
 <pb n="171"/>
             est beatissimorum Maurici, Exuperi, Candidi atque Uictoris, <lb/>
-            cetera uero nobis quidem incognita, sed in libro uitae scriptasunt. <lb/>
+            cetera uero nobis quidem incognita, sed in libro uitae <choice><sic>scriptasunt</sic><corr>scripta sunt</corr></choice>. <lb/>
              ex hac eadem legione fuisse dicuntur etiam illi martyres <lb/>
             Ursus et Uictor quos Salodoro passos fama confirmat. <lb/>
             Salodorum uero castrum est supra Arulam flumen neque <lb n="5"/>
@@ -482,7 +483,7 @@
           </head>
           <p rend="script">Misi ad beatitudinem tuam scriptam nostrorum martyrum <lb/>
             passionem. uerebar namque ne per incuriam tam gloriosi <lb/>
-            gesta martyrii ab hominum memoria tempus aboleret. porroab <lb/>
+            gesta martyrii ab hominum memoria tempus aboleret. <choice><sic>porroab</sic><corr>porro ab</corr></choice> <lb/>
             idoneis auctoribus rei ipsius ueritatem quaesiui, ab his <lb/>
             utique qui adfirmabant se ab episcopo Genauensi sancto Isaac <lb/>
             hunc quem praetuli passionis ordinem cognouisse, qui credo <lb/>

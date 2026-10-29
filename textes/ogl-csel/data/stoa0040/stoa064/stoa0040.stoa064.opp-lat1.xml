@@ -86,7 +86,8 @@
       </langUsage>
     </profileDesc>
     
-  </teiHeader>
+  <revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 1 mot mal lu.</change></revisionDesc>
+</teiHeader>
   <text><body><div type="edition" xml:lang="lat" n="urn:cts:latinLit:stoa0040.stoa064.opp-lat1">
             
           <ab>
@@ -95,7 +96,7 @@
 <div type="textpart" subtype="chapter" n="1"><milestone unit="altchapter" n="1"/>
 
           <p rend="script">Si mihi, Honorate, unum atque idem uideretur esse haere. <lb/>
-            ticus et credens haereticis homo, tam lingua quam stilo in <lb/>
+            <choice><sic>ticus</sic><corr>ficus</corr></choice> et credens haereticis homo, tam lingua quam stilo in <lb/>
             hac causa conquiescendum mihi esse arbitrarer. nunc uero <lb n="5"/>
             cum inter haec duo plurimum intersit, quandoquidem haereticus <lb/>
             est, ut mea fert opinio, qui alicuius temporalis commodi <lb/>

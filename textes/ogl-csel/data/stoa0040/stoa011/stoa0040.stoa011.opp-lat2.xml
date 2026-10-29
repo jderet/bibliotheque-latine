@@ -95,7 +95,8 @@
     </profileDesc>
  <revisionDesc>
   <change when="2021-11-23" who="Alison Babeu">Merged three files; incorporated stoa0040.stoa011.opp-lat3 and stoa0040.stoa011.opp-lat4 into this file.</change>
- </revisionDesc>  
+ <change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 30 mots collés, 76 mots mal lus, 9 mots coupés, 7 césures.</change>
+</revisionDesc>  
 </teiHeader>
 <text>
 <body>
@@ -5494,7 +5495,7 @@
             in aeternam uitam ad se uenisse laetatus est. postremo <lb/>
             etiam dixi certum esse me et fidere in eum, qui mentiri <lb/>
             nescit, qui per os prophetae sui pollicitus est de domino <lb/>
-            nostroIesu Christo dicens: Si reliquerint filii eius legem <lb/>
+            <choice><sic>nostroIesu</sic><corr>nostro Iesu</corr></choice> Christo dicens: Si reliquerint filii eius legem <lb/>
             meam et in praeceptis meis non ambulauerint, si<lb n="25"/>
             iustificationes meas profanauerint, uisitabo in <lb/>
             uirga facinora eorum et in flagellis delicta eorum; <lb/>
@@ -5644,7 +5645,7 @@
 <pb n="122"/>
             metuendum, qui tamquam primum sectantur, quod aliquando <lb/>
             destruetur, cum quisque comes efficiatur eius rei, quam colit, <lb/>
-            insultaritque apostolus talibus dicens: Quorum deusuenter, <lb/>
+            insultaritque apostolus talibus dicens: Quorum <choice><sic>deusuenter</sic><corr>deus uenter</corr></choice>, <lb/>
             cum idem alio loco dixerit: Esca uentri et uenter escis; <lb/>
             deus autem et hunc et illas euacuabit. nos proinde<lb n="5"/>
             oportere id sequi, quod non euacuatur, quod remotissimum a <lb/>
@@ -7197,7 +7198,7 @@
 </p>
           </div>
 
-<div n="2" subtype="section" type="textpart"><p> Qnod ergo me consulis, utrum liceat sabbato leiunare. <lb/>
+<div n="2" subtype="section" type="textpart"><p> <choice><sic>Qnod</sic><corr>Quod</corr></choice> ergo me consulis, utrum liceat sabbato leiunare. <lb/>
             respondeo: si nullo modo liceret, profecto quadraginta continuos <lb n="5"/>
             dies nec Moyses nec Helias nec ipse dominus ieiunasset. <lb/>
             uerum ista ratione concluditur etiam dominico die non inlicitum <lb/>
@@ -8251,7 +8252,7 @@
 
 <div n="27" subtype="section" type="textpart"><p><milestone n="XII" unit="altchapter"/> Et de die quidem sabbati facilior causa est, quia et Romana<lb n="5"/>
             ieiunat ecclesia et aliae nonnullae etiam si paucae siue illi <lb/>
-            proximae siue longinquae. die autem dominico ieiunare scaudalum <lb/>
+            proximae siue longinquae. die autem dominico ieiunare <choice><sic>scaudalum</sic><corr>scandalum</corr></choice> <lb/>
             est magnum, maxime postea quam innotuit detestabilis <lb/>
             multumque fidei catholicae scripturisque diuinis apertissime <lb/>
             contraria haeresis Manichaeorum, qui suis auditoribus ad<lb n="10"/>
@@ -10232,7 +10233,7 @@
 </p>
           </div>
 
-<div n="18" subtype="section" type="textpart"><p> Quibus omnibus rebus cum eos non ueros iudices sed inimieos <lb/>
+<div n="18" subtype="section" type="textpart"><p> Quibus omnibus rebus cum eos non ueros iudices sed <choice><sic>inimieos</sic><corr>inimicos</corr></choice> <lb/>
             atque corruptos Caecilianus conuenisse cognosceret, <lb/>
             quando fieri posset, ut uel ipse uellet uel populus, cui praesidebat, <lb/>
             permitteret, ut relicta ecclesia iret in domum priuatam <lb/>
@@ -11329,7 +11330,7 @@
 <pb n="125"/>
             
 </p>
-          <p>III. Item ab alio audini, quod conductori non iuratur a <lb/>
+          <p>III. Item ab alio <choice><sic>audini</sic><corr>audiui</corr></choice>, quod conductori non iuratur a <lb/>
             barbaro, et alter dixit, quia iuratur conductori. si etiam falsum <lb/>
             mihi dixit ille, qui dixit iurari conductori, si iam pro <lb/>
             hoc, quod solum audiui, non debeo uti de ipsis frugibus uel <lb/>
@@ -14207,7 +14208,7 @@
             perueniant ad id, quod amant, plurimum nesciunt; nec aliquid <lb n="5"/>
             appetunt etiam ipsa corpora ponderibus suis, nisi quod animae <lb/>
             amoribus suis. nam sicut corpus tam diu nititur pondere siue <lb/>
-            decrsum uersus siue sursum uersus, donec ad locum, quo <lb/>
+            <choice><sic>decrsum</sic><corr>deorsum</corr></choice> uersus siue sursum uersus, donec ad locum, quo <lb/>
             nititur, ueniens conquiescat — pondus quippe olei si dimittatur <lb/>
             in aere, deorsum, si autem sub aquis, sursum nititur —. sic <lb n="10"/>
             animae ad ea. quae amant, propterea nituntur, ut perueniendo <lb/>
@@ -14286,7 +14287,7 @@
             tertium <hi rend="italic">PP[P2M</hi> et tertium eorum (eorum <hi rend="italic">exp.) B</hi> 24 coli <hi rend="italic">ont. P</hi> </note> <lb/>
              
 <pb n="191"/>
-            non quia non habet imaginem deus, sed quia nulla imagoeius <lb/>
+            non quia non habet imaginem deus, sed quia nulla <choice><sic>imagoeius</sic><corr>imago eius</corr></choice> <lb/>
             coli debet nisi illa, quae et noc est, quod ipse, nec <lb/>
             ipsa pro illo sed cum illo; et quia creatura mutabilis est ac <lb/>
             propterea dicitur: Omnis creatura uanitati subiecta <lb/>
@@ -14295,7 +14296,7 @@
             iam putaret esse creaturam, sequitur aliud praeceptum: Non <lb/>
             accipias in uanum nomen domini dei tui; spiritus autem <lb/>
             sanctus, in quo nobis requies illa tribuitur, quam <lb/>
-            ubique amamus, sed nisi deum amando non inuenimus, cumcaritas <lb n="10"/>
+            ubique amamus, sed nisi deum amando non inuenimus, <choice><sic>cumcaritas</sic><corr>cum caritas</corr></choice> <lb n="10"/>
             eius diffunditur in cordibus nostris per <lb/>
             spiritum sanctum, qui datus est nobis, quia sanctificauit <lb/>
             deus diem septimum, in quo requieuit, tertio <lb/>
@@ -15694,7 +15695,7 @@
 <ab> <title>LXI.  DILECTISSIMO FRATRI THEODORO AUGUSTINUS. </title> </ab>
 
           <div n="1" subtype="section" type="textpart"><milestone n="I" unit="altchapter"/>
-<p> Cum beniuoleutia tua mecum loqueretur, quo modo susceperimus <lb/>
+<p> Cum <choice><sic>beniuoleutia</sic><corr>beniuolentia</corr></choice> tua mecum loqueretur, quo modo susceperimus <lb/>
             clericos ex parte Donati, si uoluerint esse catholici. <lb/>
             placuit mihi illud, quod tibi respondi, etiam hac ad te data
 
@@ -19270,7 +19271,7 @@
             </p>
           </div>
 
-<div n="13" subtype="section" type="textpart"><p> Haec ergo summa est quaestionis, imrno sententiae tuae, <lb/>
+<div n="13" subtype="section" type="textpart"><p> Haec ergo summa est quaestionis, <choice><sic>imrno</sic><corr>immo</corr></choice> sententiae tuae, <lb/>
             ut post euangelium Christi bene faciant credentes Iudaei, si <lb/>
             legis mandata custodiant, hoc est si sacrificia offerant, quae <lb n="5"/>
             obtulit Paulus, si filios circumcidant, si sabbatum seruent, ut <lb/>
@@ -19659,8 +19660,7 @@
             pericu : sum P1 esse intellegis <hi rend="italic">S</hi> intellegens <hi rend="italic">B</hi> rursus P3 </note> <lb/>
              
 <pb n="312"/>
-            superfluis uerbis temperare conaris: \'Sine ulla salutis necessi-  <lb/>
-            tate, sicut Iudaei celebrandas putabant, aut fallaci simulatione, <lb/>
+            superfluis uerbis temperare conaris: \'Sine ulla salutis necessi<lb break="no"/>tate, sicut Iudaei celebrandas putabant, aut fallaci simulatione, <lb/>
             quod in Petro reprehenderat\'. 
 </p>
           </div>
@@ -20274,7 +20274,7 @@
 <pb n="326"/>
             e ius. si hoc non uultis intellegere, audite euangelium iam <lb/>
             per os proprium loquente ipso domino et dicente: Quia <lb/>
-            oportebat de Christo compleri omnia, quae de iilo <lb/>
+            oportebat de Christo compleri omnia, quae de <choice><sic>iilo</sic><corr>illo</corr></choice> <lb/>
             scripta sunt in lege et prophetis et psalmis, et <lb/>
             praedicari in nomine eius paenitentiam et remissionem<lb n="5"/>
             peccatorum per omnes gentes incipiens <lb/>
@@ -22050,7 +22050,7 @@
             uerissime diceret, quod gentes iudaizare cogebat. quod Paulus <lb/>
             utique non cogebat ob hoc illa uetera ueraciter, ubi opus <lb/>
             esset, obseruans, ut damnanda non esse monstraret, praedicans <lb/>
-            tamen instanter non eis sed reuelata gratia fidei salnos <lb/>
+            tamen instanter non eis sed reuelata gratia fidei <choice><sic>salnos</sic><corr>saluos</corr></choice> <lb/>
             fieri fideles, ne ad ea quemquam uelut necessaria suscipienda<lb n="5"/>
             compelleret. sic autem credo apostolum Paulum ueraciter <lb/>
             cuncta illa gessisse nec tamen nunc quemquam factum ex <lb/>
@@ -24109,7 +24109,7 @@
             uisuri, quid respondere deberetis, deinde quid postea, cum <lb/>
             propter suam promissionem denuo conuentus esset, actis <lb/>
             eipresserit recusans pacificam conlationem, ipsa gesta instruant <lb n="15"/>
-            granitatem tuam. deinde cum uestrorum clericorum et Circumcellionum <lb/>
+            <choice><sic>granitatem</sic><corr>grauitatem</corr></choice> tuam. deinde cum uestrorum clericorum et Circumcellionum <lb/>
             notissima omnibus non cessaret immanitas, dicta <lb/>
             causa est cum Crispino iudicatus haereticus nec poena decem <lb/>
             librarum auri, quae in haereticos ab imperatoribus fuerat <lb/>
@@ -24153,7 +24153,7 @@
 <div n="8" subtype="section" type="textpart"><p rend="script"> Non solum autem non fecistis, sed peiora mala nobis <lb/>
             uestri nunc faciunt. non tantum nos fustibus quassant ferroque<lb n="15"/>
             concidunt, uerum etiam in oculos extinguendos calcem <lb/>
-            mixto aceto incredibili excogitatione sceleris mittuut. domus <lb/>
+            mixto aceto incredibili excogitatione sceleris <choice><sic>mittuut</sic><corr>mittunt</corr></choice>. domus <lb/>
             nostras insuper compilantes arma sibi ingentia et terribilia <lb/>
             fabricarunt, quibus armati per diuersa discurrunt comminantes <lb/>
             atque anhelantes caedes, rapinas, incendia, caecitates. <lb n="20"/>
@@ -24603,7 +24603,7 @@
 </p>
           </div>
 
-<div n="8" subtype="section" type="textpart"><p> Quae cum ita sint, nonerit benignitas tua homines uestros. <lb/>
+<div n="8" subtype="section" type="textpart"><p> Quae cum ita sint, <choice><sic>nonerit</sic><corr>nouerit</corr></choice> benignitas tua homines uestros. <lb/>
             qui in regione Hipponiensi sunt, adhuc esse Donatistas nec
 
 <note type="footnote"> 2 noli, <hi rend="italic">corr. m. 1</hi> nolunt <hi rend="italic">M</hi> ligori, <hi rend="italic">corr. m. ut uid. 1</hi> ligari <hi rend="italic">F</hi> <lb/>
@@ -26643,7 +26643,7 @@
             esse perhibetis, nec blasphemare nos dignarentur, sed <lb/>
             numquam ridere cessarent. non timetis, ne uobis dicant Iudaei: <lb n="20"/>
             Ubi est, quod Paulus uester ecclesiam uestram intellegit, <lb/>
-            ubidictumest:Laetare sterilis, quae non paris, erumpe <lb/>
+            <choice><sic>ubidictumest</sic><corr>ubi dictum est</corr></choice>:Laetare sterilis, quae non paris, erumpe <lb/>
             et clama, quae non parturis, quoniam multi filii
 
 <note type="footnote"> 5 Pa. 47, 3 7 Cant. 1, 6 10 Ios. 22, 9-12 22 Gal. 4, 27 </note>
@@ -28193,8 +28193,7 @@
 <pb n="507"/>
             nostra facit nobis neque secundum iniquitates <lb/>
             nostras retribuit nobis, qui tanta solatia doloribus <lb/>
-            miscet agitque mirabili medicina, ne amemus mundum, ne de- <lb/>
-            ficiamus in mundo. 
+            miscet agitque mirabili medicina, ne amemus mundum, ne de<lb break="no"/>ficiamus in mundo. 
 </p>
           </div>
 
@@ -28743,7 +28742,7 @@
              praesens et hominum diem robore cordis ualentiore contemnere. <lb n="20"/>
             commonitorium, quod misi, fratribus episcopis, si, ut <lb/>
             puto, nondum ibi sunt, ab eximietate tua illis tradatur, cum <lb/>
-            nenerint. tantam quippe tui sincerissimi pectoris habemus
+            <choice><sic>nenerint</sic><corr>uenerint</corr></choice>. tantam quippe tui sincerissimi pectoris habemus
 
 <note type="footnote"> 2 quod <hi rend="italic">JR</hi> animo, <hi rend="italic">m. 2</hi> animum P* 3 principes, <hi rend="italic">m. 2</hi> principis <hi rend="italic">P</hi> <lb/>
             prouinciam <hi rend="italic">M (m. 2</hi> prouinciamq;) <hi rend="italic">FACP1</hi> (m <hi rend="italic">eras.)</hi> nouerint <hi rend="italic">M</hi> <lb/>
@@ -32021,7 +32020,7 @@
 <div n="16" subtype="section" type="textpart"><p> Conuenienter itaque apud nos pro ciuibus tuis agis ingerendo <lb/>
             nobis misericordiam Christianorum non duritiam Stoicorum, <lb/>
              quae causae a te susceptae non modo nihil suffragatur, <lb n="15"/>
-            uerum etiam multum adnersatur. nam ipsam misericordiam, <lb/>
+            uerum etiam multum <choice><sic>adnersatur</sic><corr>aduersatur</corr></choice>. nam ipsam misericordiam, <lb/>
             quam si non habeamus, nulla tua petitione, nullis illorum <lb/>
             precibus flecti poterimus, in uitio Stoici ponunt eamque a <lb/>
             sapientis animo penitus expellunt, quem prorsus ferreum et <lb/>
@@ -33591,7 +33590,7 @@
             pedes ueloces ad effundendum sanguinem et rursus <lb/>
             abluendus iudicaretur. cur ergo de nostra concordia desperandum <lb/>
             est? deus diaboli auertat inuidiam et pax Christi <lb/>
-             uiucat in cordibus nostris ac, sicut idem apostolus <lb n="15"/>
+             <choice><sic>uiucat</sic><corr>uincat</corr></choice> in cordibus nostris ac, sicut idem apostolus <lb n="15"/>
             dicit, donemus nobismet ipsis, si quis aduersus <lb/>
             aliquem habet querelam, sicut et deus in Christo <lb/>
             donauit nobis, ut, quod iam dixi et saepe dicendum est, <lb/>
@@ -34268,7 +34267,7 @@
             quando complentur, sed potius et illi, qui increduli fuerant, <lb/>
             cum haec in sanctis libris conscripta legerent uel audirent,  <lb n="10"/>
             nunc saltem credere debent, cum compleri iam uident, ut de <lb/>
-            his tam magnis pressuris tamquam in torculari domini deinostri, <lb/>
+            his tam magnis pressuris tamquam in torculari domini <choice><sic>deinostri</sic><corr>dei nostri</corr></choice>, <lb/>
             sicut amurca infidelium murmurantium et blasphemantium <lb/>
             fluit, ita oleum quoque fidelium confitentium et <lb/>
             orantium exprimi et liquari non cesset. illis enim, qui contra <lb/>
@@ -40067,7 +40066,7 @@
             sola remansisse parte Donati, si hoc, ut dictum est, demonstrare <lb/>
             potuerint, nullos apud eos honores episcopalis muneris <lb n="5"/>
             requiremus, sed eorum sequemur pro sola aeterna salute consilium, <lb/>
-            quibus tanti gratiam beneficii pro cognita ueritato debebimus. <lb/>
+            quibus tanti gratiam beneficii pro cognita <choice><sic>ueritato</sic><corr>ueritate</corr></choice> debebimus. <lb/>
             si autem nos potius ualuerimus ostendere ecclesiam <lb/>
             Christi omnium non solum Africanarum uerum etiam transmarinarum <lb/>
             prouinciarum multarumque gentium spatia feracissima <lb n="10"/>
@@ -40585,7 +40584,7 @@
 <pb n="43"/>
             solacium uerum, pacem super pacem, sine quo s)lacio, <lb/>
             quaecumque sunt terrena solacia, magis in eis desolatio quam <lb/>
-            consolatio reperitur. diuitiae quippo atque fastigia dignitatum <lb/>
+            consolatio reperitur. diuitiae <choice><sic>quippo</sic><corr>quippe</corr></choice> atque fastigia dignitatum <lb/>
             ceteraque huius modi, quibus se felices putant esse mortales <lb/>
             uerae illius felicitatis expertes, quid adferunt consolationis, <lb n="5"/>
             cum sit eis non indigere quam eminere praestantius, quae plus <lb/>
@@ -40597,7 +40596,7 @@
 </p>
           </div>
 
-<div n="4" subtype="section" type="textpart"><p> Homines autem boni etiam in hac uita uidentur praestarenon <lb/>
+<div n="4" subtype="section" type="textpart"><p> Homines autem boni etiam in hac uita uidentur <choice><sic>praestarenon</sic><corr>praestare non</corr></choice> <lb/>
             parua solacia. nam si paupertas angit, si luctus maestificat: <lb/>
             si dolor corporis inquietat, si contristat exilium, si ulla <lb/>
             alia calamitas uexat, adsint boni homines, qui non solum <lb n="15"/>
@@ -40669,7 +40668,7 @@
             18 ueniret <hi rend="italic">(tn</hi>. 3 ueniat) dominus : <hi rend="italic">iparua ras.) P1</hi> </note> <lb/>
              
 <pb n="45"/>
-            tenebrarum et manifestet cogitationes cordis et tunclaus <lb/>
+            tenebrarum et manifestet cogitationes cordis et <choice><sic>tunclaus</sic><corr>tunc laus</corr></choice> <lb/>
             erit unicuique a deo. 
 </p>
           </div>
@@ -42685,7 +42684,7 @@
 </p>
           <p>Inter uictrices hederam tibi serpere laurus. <lb n="10"/>
             dicebatur ergo, quantus oeconomiae esset ornatus, quae metaphorarum <lb/>
-            uenustas, quanta in comparatione sublimitas; iamleues <lb/>
+            uenustas, quanta in comparatione sublimitas; <choice><sic>iamleues</sic><corr>iam leues</corr></choice> <lb/>
             enodesque uersus atque, ut ita dixerim, caesurarum modulata <lb/>
             uariatio. tunc ad familiarem tuam philosophiam sermo deflectit, <lb/>
             quam ipse Aristoteleo more tamquam esotericam fouere
@@ -44461,7 +44460,7 @@
             adhibeatur, quid quando impertiat, addat, auferat, <lb/>
             detrahat, augeat minuatue inmutabilis mutabilium sicut creator <lb/>
             ita moderator, donec uniuersi saeculi pulchritudo, cuius parti. <lb/>
-            culae sunt, quae suis quibusque temporibus apta sunt, uelut<lb n="10"/>
+            <choice><sic>culae</sic><corr>gulae</corr></choice> sunt, quae suis quibusque temporibus apta sunt, uelut<lb n="10"/>
             magnum carmen cuiusdam ineffabilis modulatoris excurrat <lb/>
             atque inde transeant in aeternam contemplationem speciei, qui <lb/>
             deum rite colunt, etiam cum tempus est fidei. 
@@ -46644,8 +46643,7 @@
             caelestibus terrena contemnere non respicientes, quae uidentur, <lb/>
             sed quae non uidentur? quae enim uidentur, <lb/>
             temporalia sunt, quae autem non uidentur, aeterna. <lb n="5"/>
-            quos in se illis uocibus transfigurare dignatus est? nam quan-  <lb/>
-            tum ad ipsum adtinet, quo modo uellet liberari ab illa hora, <lb/>
+            quos in se illis uocibus transfigurare dignatus est? nam quan<lb break="no"/>tum ad ipsum adtinet, quo modo uellet liberari ab illa hora, <lb/>
             qui propterea uenerat in illam horam? aut quo modo sic <lb/>
             loquebatur, quasi ei, quod nollet, accideret, cum potestatem <lb/>
             habuerit ponendi animam suam et iterum sumendi <lb n="10"/>
@@ -47147,7 +47145,7 @@
             gratiam. uide, illius derelictionis, tribulationis, deprecationis <lb/>
             fructu quid agatur, quid insinuetur, quid commendetur, quid <lb/>
             inlustretur. intuere, quid legamus tanto ante prophetatum, <lb/>
-            quid iam cernamus impletum. narrabo, inquit, nomentuum <lb n="20"/>
+            quid iam cernamus impletum. narrabo, inquit, <choice><sic>nomentuum</sic><corr>nomen tuum</corr></choice> <lb n="20"/>
             fratribus meis; in medio ecclesiae cantabo te. fratres <lb/>
             illi sunt, de quibus in euangelio ait: Vade et dic fratribus <lb/>
             meis. ecclesia illa est, quam modo dixit unicam suam; haec
@@ -47314,7 +47312,7 @@
             commemorauit praefigurationem noui testamenti in eo, quod <lb/>
             scriptum est: In Isaac uocabitur tibi semen, non utique <lb/>
             in Ismahel. ancillae filio. in quibus duobus filiis Abrahae, <lb/>
-            serno et libero, et duabus mulieribus, ancilla et libera, <lb/>
+            <choice><sic>serno</sic><corr>seruo</corr></choice> et libero, et duabus mulieribus, ancilla et libera, <lb/>
             scribens ad Galatas duo testamenta dicit in allegoria praefigurata. <lb n="10"/>
             unde dicit: Non hi, qui filii carnis, hi sunt <lb/>
             filii dei, sed filii promissionis deputantur in <lb/>
@@ -47360,7 +47358,7 @@
 </p>
           </div>
 
-<div n="49" subtype="section" type="textpart"><p><milestone n="XX" unit="altchapter"/> Deinde sequitur et dicit: Timeat eum omne semeu <lb/>
+<div n="49" subtype="section" type="textpart"><p><milestone n="XX" unit="altchapter"/> Deinde sequitur et dicit: Timeat eum omne <choice><sic>semeu</sic><corr>semen</corr></choice> <lb/>
             Israhel. quia Iacob ipse et Israhel unus homo erat habens<lb n="5"/>
             duo nomina, non in paruo sacramento — sed uno libro non <lb/>
             possumus dicere omnia, in quo iam multum progressi sumus <lb/>
@@ -47921,7 +47919,7 @@
             iterum: Iudicia tua uelut multa abyssus. hinc igitur <lb/>
             est illud apostoli, quod requirendum inter cetera posuisti: <lb/>
             Huius rei gratia, inquit, flecto genua mea ad patrem <lb/>
-             domini nostri Iesu Christi, exquo omnis paternitas <lb n="5"/>
+             domini nostri Iesu Christi, <choice><sic>exquo</sic><corr>ex quo</corr></choice> omnis paternitas <lb n="5"/>
             in caelis et in terra nominatur, ut det uobis <lb/>
             secundum diuitias gloriae suae uirtute corroborari <lb/>
             per spiritum eius, in interiore homine habitare <lb/>
@@ -49713,8 +49711,7 @@
             iucunditas tangat, unde respuat amaritudinem diuisionis mens, <lb/>
             quae diligit dulcedinem caritatis? potens est autem et misericors <lb n="5"/>
             deus, quem pro illis oramus, ut quibuslibet occasionibus <lb/>
-            etiam ipsos adtrahat ad salutem. dominus uos in pace con-  <lb/>
-            seruet. 
+            etiam ipsos adtrahat ad salutem. dominus uos in pace con<lb break="no"/>seruet. 
 </p>
 
 </div>
@@ -54280,7 +54277,7 @@
             saepe autem, quod habet illa lingua (in illis*, nostri interpretantur <lb/>
             (inter illos,) ubi uidetur sententiae conuenire. accipiamus ergo: <lb/>
             Sanctis, qui in terra sunt eius, mirificauit omnes uoluntates <lb/>
-            suas illis, quodplerique codices habent, et intellegamus <lb n="10"/>
+            suas illis, <choice><sic>quodplerique</sic><corr>quod plerique</corr></choice> codices habent, et intellegamus <lb n="10"/>
             uoluntates eius munera gratiae, quae gratis data est, id est quia. <lb/>
             uoluit, non quia debebatur. unde est: Scuto bonae uoluntatis <lb/>
             coronasti nos et: In uoluntate tua deduxisti et: <lb/>
@@ -54895,7 +54892,7 @@
 
 <div n="21" subtype="section" type="textpart"><p> Cum autem dixisset: Secundum electionem propter <lb/>
             patres, addidit: Sine paenitentia enim sunt dona <lb/>
-            et uocatio dei. uides certe illos siguificari, qui pertinent <lb/>
+            et uocatio dei. uides certe illos <choice><sic>siguificari</sic><corr>significari</corr></choice>, qui pertinent <lb/>
             ad numerum praedestinatorum. de quibus alio loco dicit: <lb/>
             Scimus, quia diligentibus deumnia cooperantur <lb n="10"/>
             in bonum his, qui secundum propositum uocati <lb/>
@@ -55030,7 +55027,7 @@
             fuerant et quicumque non uiderant faciem eius in <lb/>
             carne, ut cordibus consolarentur copulati in caritate <lb/>
             et in omnibus diuitiis plenitudinis intelectus <lb/>
-            ad cognoscendum mysterium dei, quodest Christus. <lb/>
+            ad cognoscendum mysterium dei, <choice><sic>quodest</sic><corr>quod est</corr></choice> Christus. <lb/>
             in quo sunt omnes thesauri sapientiae et scientiae <lb n="10"/>
             absconditi, hoc dico, inquit, ut nemo uos circumueniat <lb/>
             in uerisimili sermone. quia ueritatis amore <lb/>
@@ -58570,7 +58567,7 @@
              
 <pb n="450"/>
             ut dei misericordiam possint mereri, compescant se etiam ab <lb/>
-            aliis decipiendis, quibus hanc superbiam persuadero conantur. <lb/>
+            aliis decipiendis, quibus hanc superbiam <choice><sic>persuadero</sic><corr>persuadere</corr></choice> conantur. <lb/>
             omnibus enim necessaria est oratio dominica, quam etiam ipsis <lb/>
             arietibus gregis, id est apostolis suis dominus dedit, ut unusquisque <lb/>
             deo dicat: Dimitte nobis debita nostra, sicut et<lb n="5"/>
@@ -60524,7 +60521,7 @@
           </div>
 
 <div n="9" subtype="section" type="textpart"><p> Ex quibus alia nascitur quaestio. non enim modo phantasiam <lb/>
-            ego curo, quam sibi cor ineruditum fiugit, uisitationes loquor. <lb n="25"/>
+            ego curo, quam sibi cor ineruditum <choice><sic>fiugit</sic><corr>fingit</corr></choice>, uisitationes loquor. <lb n="25"/>
             quo modo apparuit Ioseph per somnium, quo modo plerique <lb/>
             uisitati sunt, sic ergo et nostri, quos praemisimus, aliquando <lb/>
             ueniunt, ipsi apparent per somnium et loquuntur. nam memini <lb/>
@@ -60587,7 +60584,7 @@
             solutus est idem presbyter. nec taceo, et in hoc ipso die, quo <lb/>
             puer soluebatur, petit patrem ad pacem et petit tertio et in <lb/>
             singulis osculis dicebat patri: \'Pares dicamus deo gratias\' et<lb n="5"/>
-            patrem cogebat, ut pariter secum dixisset, quasi communern <lb/>
+            patrem cogebat, ut pariter secum dixisset, quasi <choice><sic>communern</sic><corr>communem</corr></choice> <lb/>
             exhortans ad migrandum ex hac uita. nam inter utrosque <lb/>
             septem dies medii numerantur. quid fiet de tantis rebus? quis <lb/>
             erit occultarum istarum causarum fidelissimus magister? <lb/>
@@ -65149,7 +65146,7 @@
             ubi. cum dixisset: Ecce pietas est sapientia, continuo <lb/>
             subiunxit: Abstinere uero a malis scientia est. cur <lb n="5"/>
             ergo non dicimus, qui hanc uirtutem habet, habere omnes, <lb/>
-            cum ple nit u dol e g is sit caritas? an quanto magis est <lb/>
+            cum ple nit u <choice><sic>dol e</sic><corr>dole</corr></choice> g is sit caritas? an quanto magis est <lb/>
             in homine, tanto magis est uirtute praeditus, quanto autem <lb/>
             minus. tanto minus inest uirtus, quia ipsa est uirtus, et <lb/>
             quanto minus inest uirtus, tanto magis est uitium? ubi ergo <lb n="10"/>
@@ -67906,7 +67903,7 @@
              
 <pb n="660"/>
             quicquid eis a domino precamur, ut recte ac pie uiuendo illi placeant, <lb/>
-            uelilla, quae pro fidelibus precatur apostolus dicens: Flecto <lb/>
+            <choice><sic>uelilla</sic><corr>uel illa</corr></choice>, quae pro fidelibus precatur apostolus dicens: Flecto <lb/>
             genua mea ad patrem domini nostri Iesu Christi\' ex <lb/>
             quo omnis paternitas in caelo et in terra nominatur. <lb/>
             ut det uobis secundum diuitias gloriae suae uirtute  <lb/>
@@ -68554,7 +68551,7 @@
             inproperat, et dabitur ei. iubetur, ut habeamus continentiam, <lb/>
             ubi dicitur: ........................... <hi rend="italic">et tamen oratur,  <lb/>
             ut habeamus continentiam, ubi dicitur:</hi> Cum scirem, quia <lb/>
-            nemo potest esse continens, nisi deus det, et hocipsum <lb/>
+            nemo potest esse continens, nisi deus det, et <choice><sic>hocipsum</sic><corr>hoc ipsum</corr></choice> <lb/>
             erat sapientiae scire, cuius esset hoc donum, adii <lb/>
             dominum et deprecatus sum illum. postremo, ne nimium <lb/>
             longum sit cuncta percurrere, iubetur, ut non faciamus malum.  <lb n="10"/>
@@ -69409,7 +69406,7 @@
              faciat in caritate inuicem et in omnes et det  <lb n="10"/>
             eis secundum diuitias gloriae suae uirtute corroborari <lb/>
             per spiritum eius et impleat eos omni gaudio <lb/>
-            et pace in credendo et abundent in speet potentia <lb/>
+            et pace in credendo et abundent in <choice><sic>speet</sic><corr>spe et</corr></choice> potentia <lb/>
             spiritus sancti. ut quid eis ista petimus, quae populis a <lb/>
              domino petisse apostolum nouimus, si iam natura nostra  <lb n="15"/>
             creata cum libero arbitrio omnia haec sibi potest sua uoluntate <lb/>
@@ -71267,7 +71264,7 @@ Duas accepi simul epistulas dilectionis tuae, quarum in una facis tertiae mentio
             immolant, uel certe, ubi dicit: Coluerunt et seruierunt <lb/>
              creaturae potius quam creatori, decem uolumina non  <lb n="10"/>
             parua confeci, quorum priora quinque illos redarguunt, qui <lb/>
-            propter adipiscendam uel retinendam bumanarum rerum istam <lb/>
+            propter adipiscendam uel retinendam <choice><sic>bumanarum</sic><corr>humanarum</corr></choice> rerum istam <lb/>
             terrenam temporalemque felicitatem non unius summi et ueri <lb/>
             sed multorum deorum cultum necessarium esse contendunt. <lb/>
              posteriora uero alia quinque contra illos sunt, qui se aduersus  <lb n="15"/>
@@ -71414,7 +71411,7 @@ Duas accepi simul epistulas dilectionis tuae, quarum in una facis tertiae mentio
             super uestem meam miserunt sortem, et nolunt agnoscere <lb/>
             ecclesiam in eo, quod post paululum sequitur: Commemorabuntur <lb/>
             et conuertentur ad dominum uniuersi <lb n="25"/>
-            fines terrae et adorabunt in conspectu eins
+            fines terrae et adorabunt in conspectu <choice><sic>eins</sic><corr>eius</corr></choice>
 
 <note type="footnote">6 I Cor. 11, 19 19 Ps. 21. 17-19 24 Ps. 21, 28—29 </note>
 
@@ -71431,7 +71428,7 @@ Duas accepi simul epistulas dilectionis tuae, quarum in una facis tertiae mentio
             uniuersae patriae gentium, quoniam domini est regnum <lb/>
             et ipse dominabitur gentium. agnoscunt nobiscum Christum <lb/>
             in eo, quod legitur: Dominus dixit ad me: \'Filius <lb/>
-            meus es tu, ego hodie genui te\', et noluut agnoscere <lb/>
+            meus es tu, ego hodie genui te\', et <choice><sic>noluut</sic><corr>nolunt</corr></choice> agnoscere <lb/>
             ecclesiam in eo, quod sequitur: Postula a me et dabo tibi <lb n="5"/>
             gentes hereditatem tuam et possessionem tuam <lb/>
             terminos terrae. agnoscunt nobiscum Christum in eo, quod <lb/>
@@ -72017,7 +72014,7 @@ Duas accepi simul epistulas dilectionis tuae, quarum in una facis tertiae mentio
             quicumque aduersus eorum rabiem pacem catholicam praedicarent <lb n="20"/>
             eorumque dementiam perspicua ueritate conuincerent. <lb/>
             usque adeo prorsus non solum laicis uel quibuslibet clericis <lb/>
-            sedipsis quoque episcopis catholicis quodam modo proponebatur <lb/>
+            <choice><sic>sedipsis</sic><corr>sed ipsis</corr></choice> quoque episcopis catholicis quodam modo proponebatur <lb/>
             dura condicio; aut enim tacenda erat ueritas aut eorum immanitas <lb/>
             perferenda. sed si ueritas taceretur, non solum nemo<lb n="25"/>
             fuerat eius silentio liberandus sed multi etiam illorum seductione <lb/>
@@ -72664,7 +72661,7 @@ Duas accepi simul epistulas dilectionis tuae, quarum in una facis tertiae mentio
 </p>
           </div>
 
-<div n="34" subtype="section" type="textpart"><p> Si autem diligentius rem, de qua loquimnr, cogitemus, <lb n="10"/>
+<div n="34" subtype="section" type="textpart"><p> Si autem diligentius rem, de qua <choice><sic>loquimnr</sic><corr>loquimur</corr></choice>, cogitemus, <lb n="10"/>
             puto. quod, si plurimi essent in domo ruitura et inde saltem <lb/>
             unus liberari posset atque, id cum facere conaremur, alii se <lb/>
             ipsos praecipitio necarent, dolorem de ceteris nostrum de unius <lb/>
@@ -73049,7 +73046,7 @@ Duas accepi simul epistulas dilectionis tuae, quarum in una facis tertiae mentio
              
 <pb n="40"/>
             sed populorum -strages iacent, detrahendum est aliquid seueritati. <lb/>
-            ut maioribus malis sanandis caritas sincera snbueniat. 
+            ut maioribus malis sanandis caritas sincera <choice><sic>snbueniat</sic><corr>subueniat</corr></choice>. 
 </p>
           </div>
 
@@ -73139,7 +73136,7 @@ Duas accepi simul epistulas dilectionis tuae, quarum in una facis tertiae mentio
              
 <pb n="42"/>
             domino: Qui peccauerit in spiritum sanctum, non <lb/>
-            remittetur ei nequein hoc saeculo neque in futuro? <lb/>
+            remittetur ei <choice><sic>nequein</sic><corr>neque in</corr></choice> hoc saeculo neque in futuro? <lb/>
             non adtendunt, quia secundum istum sensum nemo liberandus <lb/>
             est. quis enim non loquitur aduersus spiritum sanctum et <lb/>
             peccat in eum, siue qui nondum est Christianus siue qui est<lb n="5"/>
@@ -73606,10 +73603,10 @@ Duas accepi simul epistulas dilectionis tuae, quarum in una facis tertiae mentio
 </p>
           </div>
 
-<div n="9" subtype="section" type="textpart"><p> Xam cur iIlam iustitiam, quae ex lege est, suam dixit <lb/>
+<div n="9" subtype="section" type="textpart"><p> Xam cur <choice><sic>iIlam</sic><corr>illam</corr></choice> iustitiam, quae ex lege est, suam dixit <lb/>
             apostolus, non ei deo? quasi lex non sit ex deo? quis hoc <lb/>
             nisi impius senserit? sed quia lex per litteram iubet, non per<lb n="10"/>
-            spiritum inuat. quicumque sic audit litteram legis. ut ei sufficere <lb/>
+            spiritum <choice><sic>inuat</sic><corr>iuuat</corr></choice>. quicumque sic audit litteram legis. ut ei sufficere <lb/>
             uideatur cognouisse, quid iubeat aut prohibeat, atque id <lb/>
             se arbitrii sui uirtute impleturum esse confidat nec fide confugiat <lb/>
             adiuuandus ad spiritum uiuificantem, ne reum factum <lb/>
@@ -73625,7 +73622,7 @@ Duas accepi simul epistulas dilectionis tuae, quarum in una facis tertiae mentio
 </p>
           </div>
 
-<div n="10" subtype="section" type="textpart"><p> aec dieat sibi: \'Si ex fide, quo modo gratis? quod enim
+<div n="10" subtype="section" type="textpart"><p> aec <choice><sic>dieat</sic><corr>dicat</corr></choice> sibi: \'Si ex fide, quo modo gratis? quod enim
 
 <note type="footnote"> 4 Phil. 3f 9 14 II Cor. 3, 6 15 Rom. 10, 2-4 20 II Cor. <lb/>
             3, 21 Rom. 5, I 22 Rom. 3, 24 </note>
@@ -73700,11 +73697,11 @@ Duas accepi simul epistulas dilectionis tuae, quarum in una facis tertiae mentio
             uel praemittatur uel adiungatur uel subsequatur. quando quidem <lb/>
             tantum beneficium non solum non libentibus uerum etiam<lb n="15"/>
             reluctantibus datur, quod eis ad magnum inputaretur sacrilegium. <lb/>
-            si iam in his aliquid uaieret uoluntatis arbitrium
+            si iam in his aliquid <choice><sic>uaieret</sic><corr>ualeret</corr></choice> uoluntatis arbitrium
 </p>
           </div>
 
-<div n="12" subtype="section" type="textpart"><p> Hoc diximus propter eos, qui non nalentes in causa gratiae <lb/>
+<div n="12" subtype="section" type="textpart"><p> Hoc diximus propter eos, qui non <choice><sic>nalentes</sic><corr>ualentes</corr></choice> in causa gratiae <lb/>
             inscrutabilia dei indicia perscrutari, . cur ex Adam massa. <lb/>
             quae profecto ex uno in condemnationem tota conlapsa est. <lb n="20"/>
             illud uas faciat in honorem illud in contumeliam, tamen audent
@@ -73821,7 +73818,7 @@ Duas accepi simul epistulas dilectionis tuae, quarum in una facis tertiae mentio
             enim natis, inquit, nec aliquid agentibus boni aut <lb/>
             mali, ut secundum electionem dei maneret, <lb/>
             non ex operibus sed ex uocante dictum est, <lb/>
-            quiamaior seruiet minori? deinde adiungens testimonium <lb n="5"/>
+            <choice><sic>quiamaior</sic><corr>quia maior</corr></choice> seruiet minori? deinde adiungens testimonium <lb n="5"/>
             prophetae longe post quidem ista dicentis sed tamen de hac <lb/>
             re antiquum dei consilium declarantis: Sicut scriptum <lb/>
             est, inquit, Iacob dilexi, Esau autem odio habui. 
@@ -73884,7 +73881,7 @@ Duas accepi simul epistulas dilectionis tuae, quarum in una facis tertiae mentio
             constituti\' — quo modo enim hoc diceret, qui iam dixerat de <lb n="15"/>
             nondum natis et de his, qui nihil adhuc egerint boni aut <lb/>
             mali, quod non ex operibus sed ex uocante dictum <lb/>
-            sit: Maior seruiet minori? — sed cumuellet ostendere, cur <lb/>
+            sit: Maior seruiet minori? — sed <choice><sic>cumuellet</sic><corr>cum uellet</corr></choice> ostendere, cur <lb/>
             in his non sit iniquitas apud deum: Moysi enim dicit, <lb/>
             inquit: (Miserebor, cui misertus ero, et mis ericordiam<lb n="20"/>
             praestabo, cui misericors fuero\'. quid nos hic <lb/>
@@ -74258,7 +74255,7 @@ Duas accepi simul epistulas dilectionis tuae, quarum in una facis tertiae mentio
             redemptoris tamquam saluam et liberam naturam defendit <lb/>
             humanam et Christiano tamen censeri uocabulo affectat, quid <lb/>
             de paruulorum discretione dicturus est, cur alius in uitam <lb/>
-            de sccundi hominis adsnmatur, alius in morte primi hominis
+            de <choice><sic>sccundi</sic><corr>secundi</corr></choice> hominis adsnmatur, alius in morte primi hominis
 
 <note type="footnote">2 Rom. 9, 16 12 Rom. 3, 19 13 I Cor. 1, 31; II 10, 17 <lb/>
             2 Rom. 9, 1616 Luc. 19, 10; Matth. 18, 11 </note>
@@ -75841,7 +75838,7 @@ Duas accepi simul epistulas dilectionis tuae, quarum in una facis tertiae mentio
             om. <hi rend="italic">P</hi> inde liberationibus <hi rend="italic">AP1 (m. 2 corr.)</hi> </note> <lb/>
              
 <pb n="102"/>
-            guis etiam asinina expectare consilia. quocirca nec, quod factum <lb/>
+            <choice><sic>guis</sic><corr>quis</corr></choice> etiam asinina expectare consilia. quocirca nec, quod factum <lb/>
             est in Iohanne, contemno nec inde regulam, quid sentiendum <lb/>
             sit de paruulis, figo; immo id in illo propterea mirabiliter <lb/>
             praedico, quia in aliis non inuenio. habet quidem aliquid simile <lb/>
@@ -76319,7 +76316,7 @@ Duas accepi simul epistulas dilectionis tuae, quarum in una facis tertiae mentio
             del. % ab illi <hi rend="italic">T ab aliis MAP1N</hi> \'"-"* </note> <lb/>
              
 <pb n="113"/>
-            non est enim aliud dei my sterium nisi Christus, in quo oportet <lb/>
+            non est enim aliud dei <choice><sic>my sterium</sic><corr>mysterium</corr></choice> nisi Christus, in quo oportet <lb/>
             uiuificari mortuos in Adam. quia, sicut in Adam omnes <lb/>
             moriuntur, sic et in Christo omnes uiuificabuntur, <lb/>
             quem ad modum superius disseruimus. 
@@ -76384,7 +76381,7 @@ Duas accepi simul epistulas dilectionis tuae, quarum in una facis tertiae mentio
 </p>
           </div>
 
-<div n="37" subtype="section" type="textpart"><p> Nam illa, priusquam exiret de uulna. sanctificatio Hieremiae, <lb/>
+<div n="37" subtype="section" type="textpart"><p> Nam illa, priusquam exiret de <choice><sic>uulna</sic><corr>uulua</corr></choice>. sanctificatio Hieremiae, <lb/>
             quamquam nonnulli hoc in typum saluatoris accipiant, qui <lb/>
             regeneratione non eguit, tamen, etiam si de ipso propheta accipiatur,<lb n="15"/>
             potest et secundum praedestinationem non inconuenienter <lb/>
@@ -77062,7 +77059,7 @@ Duas accepi simul epistulas dilectionis tuae, quarum in una facis tertiae mentio
             leguntur a plurimis, apertam confessionem illius gratiae reperiri, <lb/>
             quam uehementer commendat apostolus, qui etiam ipsius <lb n="20"/>
             mensuram fidei, sine qua impossibile est deo placere, ex qua <lb/>
-            iustus uiuit, quae per dilectiouem operatur, ante quam <lb/>
+            iustus uiuit, quae per <choice><sic>dilectiouem</sic><corr>dilectionem</corr></choice> operatur, ante quam <lb/>
             et sine qua omnino nulla cuiusquam bona opera existimanda <lb/>
             sunt, quoniam omne, quod non est ex fide, peccatum <lb/>
              est, deum dicit unicuique partitum nec sola reuelatione
@@ -77270,12 +77267,12 @@ Duas accepi simul epistulas dilectionis tuae, quarum in una facis tertiae mentio
             elemosynae tuae et exauditae sunt orationes tuae: <lb/>
             ubi eum admonuit, ut ad beatum Petrum apostolum mitteret <lb/>
             et ab illo audiret, quae facere deberet; ad quem apostolum, <lb/>
-            ut ad eum ueniret, etiam reiigiosum militem misit. in his <lb/>
+            ut ad eum ueniret, etiam <choice><sic>reiigiosum</sic><corr>religiosum</corr></choice> militem misit. in his <lb/>
             erant et illi, qui baptizandi cum uenissent ad lohannem, sanctum<lb n="5"/>
             domini praecursorem et amicum sponsi. de quo ipse <lb/>
             dominus ait: In natis mulierum non exsurrexit maior <lb/>
             Iohanne Baptista, et quaesissent ab eo. quid facerent. <lb/>
-            respondit eis: Neminem concusseritis, nulli c alumniam <lb/>
+            respondit eis: Neminem concusseritis, nulli <choice><sic>c alumniam</sic><corr>calumniam</corr></choice> <lb/>
             feceritis. sufficiat uobis stipendium uestrum. non<lb n="10"/>
             eos utique sub armis militare prohibuit, quibus suum stipen <lb/>
             dium sufficere debere praecepit. 
@@ -77413,7 +77410,7 @@ Duas accepi simul epistulas dilectionis tuae, quarum in una facis tertiae mentio
             <title type="sub">CXC. DOMINO BEATISSIMU ET SINCEHA DILECTIOXE DESIDERABJLI FRATRI ET COEPISCOPO OPTATO AUGUSTINUS IN DOMINO SALUTEM. </title>
           </ab>
 <div n="1" subtype="section" type="textpart">
-          <p><milestone n="I" unit="altchapter"/> Qnamuis tuae sanctitatis nullas ad me ipsum datas acceperim <lb/>
+          <p><milestone n="I" unit="altchapter"/> <choice><sic>Qnamuis</sic><corr>Quamuis</corr></choice> tuae sanctitatis nullas ad me ipsum datas acceperim <lb/>
             litteras, tamen, quia illae, quas ad Mauretaniam Caesariensem <lb/>
             misisti, me apud Caesaream praesente uenerunt, quo
 
@@ -77516,7 +77513,7 @@ Duas accepi simul epistulas dilectionis tuae, quarum in una facis tertiae mentio
              per hominem mors et per hominem resurrectio <lb n="10"/>
             mortuorum: sicut enim in Adam omnes moriuntur. <lb/>
             ita et in Christo omnes uiuificabuntur : et quod per <lb/>
-            unum m hominem peccatum in hunc mundum i ntrauit <lb/>
+            unum m hominem peccatum in hunc mundum <choice><sic>i ntrauit</sic><corr>intrauit</corr></choice> <lb/>
             et per peccatum mors et ita in omnes homines mors <lb/>
             pertransiit, in quo omnes peccauerunt; et quod iudicium <lb n="15"/>
             quidem ex uno in condemnationem, gratia <lb/>
@@ -77654,7 +77651,7 @@ Duas accepi simul epistulas dilectionis tuae, quarum in una facis tertiae mentio
             sed per gratiam domini Iesu credimus nos saluos <lb/>
             fieri, quem ad modum et illi. si ergo et illi, id est <lb/>
             patres portare iugum legis ueteris; non ualentes per gratiam<lb n="15"/>
-            domini Iesu salnos se fieri crediderunt, manifestum est. quod <lb/>
+            domini Iesu <choice><sic>salnos</sic><corr>saluos</corr></choice> se fieri crediderunt, manifestum est. quod <lb/>
             haec gratia etiam antiquos iustos uiuere fecit ex fide; iustus <lb/>
             enim ei fide uiuit. 
 </p>
@@ -77837,7 +77834,7 @@ Duas accepi simul epistulas dilectionis tuae, quarum in una facis tertiae mentio
 </p>
           </div>
 
-<div n="12" subtype="section" type="textpart"><p> Tam multos autem oreando nasci uoluit, quos ad suam <lb/>
+<div n="12" subtype="section" type="textpart"><p> Tam multos autem <choice><sic>oreando</sic><corr>creando</corr></choice> nasci uoluit, quos ad suam <lb/>
             gratiam non pertinere praesciuit. ut multitudine incomparabili <lb/>
             plures sint eis, quos in sui regni gloriam filios promissionis <lb/>
             praedestinare dignatus est, ut etiam ipsa reiectorum multitudine<lb n="15"/>
@@ -77873,7 +77870,7 @@ Duas accepi simul epistulas dilectionis tuae, quarum in una facis tertiae mentio
             peccato multa addunt malae uoluntatis arbitrio. uerum etiam <lb/>
             in tam multis paruulis, qui tantum modo uinculo peccati <lb/>
             originalis obstricti sine gratia mediatoris ex hac luce rapiuntur. <lb n="5"/>
-            tota quippe ista massa lustae damnationis reciperet debitum. <lb/>
+            tota quippe ista massa <choice><sic>lustae</sic><corr>iustae</corr></choice> damnationis reciperet debitum. <lb/>
             nisi ei ea faceret non solum iustus sed etiam misericors <lb/>
             figulus alia uasa in honorem secundum gratiam non secundum <lb/>
             debitum, dum et paruulis subuenit. quorum nulla merita <lb/>
@@ -79078,7 +79075,7 @@ Duas accepi simul epistulas dilectionis tuae, quarum in una facis tertiae mentio
             certe melius homo corrigitur paruus, quam frangitur durus. <lb/>
             cum his, quae scripsimus. ita nostra uel aliorum exerceatur et <lb/>
             erudiatur infirmitas, ut tamen in eis nulla uelut canonica constituatur <lb/>
-            anctoritas. <lb n="5"/>
+            <choice><sic>anctoritas</sic><corr>auctoritas</corr></choice>. <lb n="5"/>
             
 </p>
           </div>
@@ -79223,7 +79220,7 @@ Duas accepi simul epistulas dilectionis tuae, quarum in una facis tertiae mentio
 </p>
           </div>
 
-<div n="2" subtype="section" type="textpart"><p> Itaque te, frater carissime, quamuis non uideamus ocnlis <lb/>
+<div n="2" subtype="section" type="textpart"><p> Itaque te, frater carissime, quamuis non uideamus <choice><sic>ocnlis</sic><corr>oculis</corr></choice> <lb/>
             carnis, animo tamen in fide Christi, in gratia Christi, in <lb n="10"/>
             membris Christi tenemus, amplectimur. osculamur et remeante <lb/>
             a nobis ad te nostrorum inuicem conloquiorum sanctissimo <lb/>
@@ -79357,7 +79354,7 @@ Duas accepi simul epistulas dilectionis tuae, quarum in una facis tertiae mentio
             diuitiarum sapientiae et scientiae dei. quam inscrutabilia <lb/>
             sunt iudicia eius et inuestigabiles <lb/>
             uiae eius! quis enim cognouit sensum domini? aut <lb/>
-            quis consiliarius eiusfuit?autquis prior dedit illi<lb n="5"/>
+            quis consiliarius <choice><sic>eiusfuit</sic><corr>eius fuit</corr></choice>?<choice><sic>autquis</sic><corr>aut quis</corr></choice> prior dedit illi<lb n="5"/>
             et retribuetur ei? quoniam ex ipso et per ipsum <lb/>
             et in ipso sunt omnia, ipsi gloria in saecula saeculorum! <lb/>
             </p>
@@ -79757,7 +79754,7 @@ Duas accepi simul epistulas dilectionis tuae, quarum in una facis tertiae mentio
             dictum est: Interpellat gemitibus inenarrabilibus, <lb/>
             sed spiritum sanctum, quo nostra infirmitas adiuuatur, satis <lb/>
             ipse demonstrat apostolus. inde enim coepit: Spiritus, inquit. <lb/>
-            adiuuat infi rmitatem nostram; deinde ista subiunxit: <lb/>
+            adiuuat <choice><sic>infi rmitatem</sic><corr>infirmitatem</corr></choice> nostram; deinde ista subiunxit: <lb/>
              Quid enim oremus, sicut oportet, nescimus, et cetera. <lb n="10"/>
             de hoc quippe spiritu apertius alibi dicit: Non enim <lb/>
             accepistis spiritum seruitutis iterum in timore. <lb/>
@@ -79800,7 +79797,7 @@ Duas accepi simul epistulas dilectionis tuae, quarum in una facis tertiae mentio
             orationis salubriter oraturus, non quia tot sunt spiritus. sed <lb/>
             omnia haec operatur unus atque idem spiritus <lb/>
             diuidens propria unicuique, prout uult, quia spiritus, <lb/>
-            ubiuult, spirat. sed, quod fatendum est. aliter adiuuat <lb/>
+            <choice><sic>ubiuult</sic><corr>ubi uult</corr></choice>, spirat. sed, quod fatendum est. aliter adiuuat <lb/>
             nondum inhabitans aliter inhabitans; nam nondum inhabitans<lb n="10"/>
             adiuuat. ut sint fideles, inhabitans adiuuat iam fideles. 
 </p>
@@ -79986,7 +79983,7 @@ Duas accepi simul epistulas dilectionis tuae, quarum in una facis tertiae mentio
             annon habet potestatem figulus luti ex eadem<lb n="10"/>
             massa. utique merito recteque damnata facere aliud uas <lb/>
             in honorem indebitum propter misericordiae gratiam, aliud <lb/>
-            in contumeliam debitam propter irae iustitiam et ut n otas <lb/>
+            in contumeliam debitam propter irae iustitiam et ut <choice><sic>n otas</sic><corr>notas</corr></choice> <lb/>
             faciat diuitias gloriae suae in uasa misericordiae <lb/>
             sic ostendens, quid eis largiatur, cum id supplicium<lb n="15"/>
             recipient uasa irae, quod pariter omnibus debebatur? satis sit <lb/>
@@ -81121,7 +81118,7 @@ Duas accepi simul epistulas dilectionis tuae, quarum in una facis tertiae mentio
 <pb n="219"/>
             ut autem sit spiritalis. qui legem impleat spiritalem. non fit <lb/>
             ipsa lege sed gratia, hoc est non imperio sed beneficio, non <lb/>
-            inbente littera sed iuuante spiritu. incipit autem homo secundum <lb/>
+            <choice><sic>inbente</sic><corr>iubente</corr></choice> littera sed iuuante spiritu. incipit autem homo secundum <lb/>
             gratiam in interiore homine renouari, ut mente agat, <lb/>
             quod amat, nec carni consentiat agenti, quod odit, id est non <lb n="5"/>
             ut omnino non concupiscat, sed ut post concupiscentias suas <lb/>
@@ -81235,7 +81232,7 @@ Duas accepi simul epistulas dilectionis tuae, quarum in una facis tertiae mentio
             dicendus sit, merito quaeritur. quod quidem si non carne sed <lb/>
             spiritu hoc esse intellegitur, non debet ipsum nomen sibi <lb/>
             in consuetudine sermonis inponere, sed spiritali intellegentia <lb/>
-            retinere. ne propter ambiguitatem uocabnli, quam non discernit <lb n="25"/>
+            retinere. ne propter ambiguitatem <choice><sic>uocabnli</sic><corr>uocabuli</corr></choice>, quam non discernit <lb n="25"/>
             cotidiana locutio, illud profiteri uideatur, quod est inimicum <lb/>
             nomini Christiano. hanc autem quaestionem, id est utrum. <lb/>
             qui Christianus est, etiam Iudaeus uel Israhelita possit
@@ -81921,7 +81918,7 @@ Duas accepi simul epistulas dilectionis tuae, quarum in una facis tertiae mentio
              
 <pb n="237"/>
             credentibus praestat. malus enim seruus sic reprehenditur: Quod <lb/>
-            si dixerit malus seruns: \'Moram facit dominus <lb/>
+            si dixerit malus <choice><sic>seruns</sic><corr>seruus</corr></choice>: \'Moram facit dominus <lb/>
             meus uenire\', ueniet dominus eius in die, qua nescit, <lb/>
             et hora, qua ignorat, et reliqua. item arguit, quare <lb/>
             tempus non cognoscatur, dicendo: Hypocritae, faciem <lb n="5"/>
@@ -82915,8 +82912,7 @@ Duas accepi simul epistulas dilectionis tuae, quarum in una facis tertiae mentio
             tam longae diei hora nouissima; non dico, si uicesima quarta <lb/>
             pars eius, qui sunt anni paulo amplius quadraginta, sed si <lb n="5"/>
             duodecima deputetur, quae illos annos duplos habet. unde <lb/>
-            conuenientius ille apostolus creditur horam posuisse pro tem- <lb/>
-            pore, quae hora quam longa sit, ignoramus, quia non est <lb/>
+            conuenientius ille apostolus creditur horam posuisse pro tem<lb break="no"/>pore, quae hora quam longa sit, ignoramus, quia non est <lb/>
             nostrum scire tempora. quae pater posuit in sua potestate. <lb/>
             quamuis eam nouissimam nouerimus multo magis <lb n="10"/>
             utique nos, quam qui fuerunt ante nos, ex quo esse uel diei <lb/>
@@ -82977,7 +82973,7 @@ Duas accepi simul epistulas dilectionis tuae, quarum in una facis tertiae mentio
             domini hodie computantur anni ferme quadringenti uiginti, a<lb n="15"/>
             resurrectione autem uel ascensione eius anni plus minus trecenti <lb/>
             nonaginta. ac per hoc, si, ex quo natus est. computetur, <lb/>
-            septnaginta sunt reliqui, si, ex quo passus est, circiter centum <lb/>
+            <choice><sic>septnaginta</sic><corr>septuaginta</corr></choice> sunt reliqui, si, ex quo passus est, circiter centum <lb/>
             remanent, intra quos Danihelis omnes hebdomades, si de <lb/>
             nouissimo eius aduentu prophetatae sunt, implebuntur. qui <lb n="20"/>
             ergo dicit: \'Intra tot annos erit\', tunc falsum dicit, si ultra <lb/>
@@ -83312,7 +83308,7 @@ Duas accepi simul epistulas dilectionis tuae, quarum in una facis tertiae mentio
 <div n="28" subtype="section" type="textpart"><p> Unde autem ad hoc uentum est, Matthaeus ita scribit: <lb/>
             Cum ergo uideritis abominationem desolationis, <lb/>
             quae dicta est a Danihele propheta, stantem in <lb n="5"/>
-            loco sancto, quilegit, intellegat. tunc, qui in Iudaea <lb/>
+            loco sancto, <choice><sic>quilegit</sic><corr>qui legit</corr></choice>, intellegat. tunc, qui in Iudaea <lb/>
             sunt, fugiant in montes et, qui in tecto. non descendat <lb/>
             tollere aliquid de domo sua et, qui in agro, <lb/>
             non reuertatur tollere tunicam suam. uae autem <lb/>
@@ -85834,7 +85830,7 @@ Duas accepi simul epistulas dilectionis tuae, quarum in una facis tertiae mentio
 
 <div n="2" subtype="section" type="textpart"><p rend="script"> Quaeris, utrum nunc corpus domini ossa et sanguinem <lb/>
             habeat aut reliqua carnis liniamenta. quid, si adderes, utrum <lb/>
-            etiam uestimeuta, nonne augeretur quaestio? qua causa. nisi <lb/>
+            etiam <choice><sic>uestimeuta</sic><corr>uestimenta</corr></choice>, nonne augeretur quaestio? qua causa. nisi <lb/>
             quia ea, quae in usu uitae huius nostrae corruptibilia nouimus. <lb/>
             sine corruptione cogitare uix possumus, cum diuinorum<lb n="15"/>
             miraculorum quaedam documenta iam data sint, ex quibus <lb/>
@@ -86541,7 +86537,7 @@ Duas accepi simul epistulas dilectionis tuae, quarum in una facis tertiae mentio
 <div n="1" subtype="section" type="textpart">
           <p>Quotienscumque a me petunt homines, ut eos tuae benignitati<lb n="5"/>
             fideique commendem, si non facio, non mihi recte uideor <lb/>
-            de tua uel erga opis indigos misericordia uel erga nos beninolentia <lb/>
+            de tua uel erga opis indigos misericordia uel erga nos <choice><sic>beninolentia</sic><corr>beniuolentia</corr></choice> <lb/>
             iudicare. itaque facio et maxime ministros Christi, <lb/>
             qui ecclesiae curam gerunt, cuius te coheredem et filium esse <lb/>
             gaudemus, tuae praestantiae commendare non dubito, domine<lb n="10"/>
@@ -86973,7 +86969,7 @@ Duas accepi simul epistulas dilectionis tuae, quarum in una facis tertiae mentio
 <div n="5" subtype="section" type="textpart"><p> <lb/>
             Denique sententias nostras sic temperanimus, ut saluo episcopatu <lb n="25"/>
             non tamen omnino inpunita relinquerentur, quae non <lb/>
-            deberent uel eidem ipsi deinceps iternmque facienda uel ceteris <lb/>
+            deberent uel eidem ipsi deinceps <choice><sic>iternmque</sic><corr>iterumque</corr></choice> facienda uel ceteris <lb/>
             imitanda proponi. honorem itaque integrum seruauimus iuueni <lb/>
             corrigendo, sed corripiendo minuimus potestatem, ne scilicet <lb/>
              eis praeesset ulterius, cum quibus sic egerat. ut dolore iusto <lb n="30"/>
@@ -87234,7 +87230,7 @@ Duas accepi simul epistulas dilectionis tuae, quarum in una facis tertiae mentio
             reprehensus est. et, quantum odit peccatum suum, tantum <lb/>
             diligat fratrem, quem sensit hostem peccati sui. si autem de <lb/>
             illo numero est, de quo dictum est: Corripe stultum et <lb/>
-            adiciet, ut oderitte. non de caritate illius dissensio nascitur. <lb/>
+            adiciet, ut <choice><sic>oderitte</sic><corr>oderit te</corr></choice>. non de caritate illius dissensio nascitur. <lb/>
             sed tamen caritatem reprehensoris sui exercet et probat, quia <lb n="15"/>
             non ei rependitur odium, sed dilectio, quae cogit reprehendere. <lb/>
             inperturbata perdurat, etiam cum ille, qui reprehensus est, <lb/>
@@ -87277,7 +87273,7 @@ Duas accepi simul epistulas dilectionis tuae, quarum in una facis tertiae mentio
             <title type="sub">CCXI. </title>
           </ab>
 <div n="1" subtype="section" type="textpart">
-          <p> Sicut parata est seueritas peccata, quae iuuenerit, uindicare, <lb/>
+          <p> Sicut parata est seueritas peccata, quae <choice><sic>iuuenerit</sic><corr>inuenerit</corr></choice>, uindicare, <lb/>
             ita non uult caritas, quod uindicet, inuenire. haec causa fecit,<lb n="5"/>
             ut non uenirem ad uos, cum meam praesentiam quaereretis non <lb/>
             ad pacis uestrae gaudium sed ad dissensionis uestrae augmentum. <lb/>
@@ -87523,7 +87519,7 @@ Duas accepi simul epistulas dilectionis tuae, quarum in una facis tertiae mentio
 </p>
           </div>
 
-<div n="9" subtype="section" type="textpart"><p> Quae infirmae sunt ex pristina consuetudine, si aliter traetantur <lb/>
+<div n="9" subtype="section" type="textpart"><p> Quae infirmae sunt ex pristina consuetudine, si aliter <choice><sic>traetantur</sic><corr>tractantur</corr></choice> <lb/>
             in uictu, non debet aliis molestum esse nec iniustum <lb/>
             uideri. quas fecit alia consuetudo fortiores. nec illas putent
 
@@ -87863,7 +87859,7 @@ Duas accepi simul epistulas dilectionis tuae, quarum in una facis tertiae mentio
 </p>
           </div>
 
-<div n="15" subtype="section" type="textpart"><p> Praepositae tamquam matri oboediatur honore sernato. ne <lb/>
+<div n="15" subtype="section" type="textpart"><p> Praepositae tamquam matri oboediatur honore <choice><sic>sernato</sic><corr>seruato</corr></choice>. ne <lb/>
             in illa offendatur deus, multo magis presbytero, qui omnium <lb/>
             uestrum curam gerit. ut ergo cuncta ista seruentur et. si quid <lb/>
              seruatum non fuerit, non neglegenter praetereatur, sed
@@ -88494,7 +88490,7 @@ Duas accepi simul epistulas dilectionis tuae, quarum in una facis tertiae mentio
 <div n="4" subtype="section" type="textpart"><p> Propter quod ego in hac epistula, quae ad uos peruenit, <lb/>
             probaui per testimonia scripturarum sanctarum, quae ibi potestis <lb n="10"/>
             inspicere, et bona opera nostra et pias orationes et <lb/>
-            rectam fidem nullo modo in nobis esse potuisse, nisi baec <lb/>
+            rectam fidem nullo modo in nobis esse potuisse, nisi <choice><sic>baec</sic><corr>haec</corr></choice> <lb/>
             acciperemus ab illo, de quo dicit apostolus Iacobus: Omne <lb/>
             datum optimum et omne donum perfectum desursum <lb/>
             est descendens a patre luminum, ne quisquam <lb n="15"/>
@@ -88538,7 +88534,7 @@ Duas accepi simul epistulas dilectionis tuae, quarum in una facis tertiae mentio
             totam ipsam causam, quae conciliis episcopalibus acta est<lb n="10"/>
             aduersus eosdem Pelagianos haereticos, diligentius et plenius <lb/>
             nosse possetis, sed festinauerunt fratres, qui ex numero uestro <lb/>
-            ad nos nenerant, per quos uobis non rescripsimus ista, sed <lb/>
+            ad nos <choice><sic>nenerant</sic><corr>uenerant</corr></choice>, per quos uobis non rescripsimus ista, sed <lb/>
             scripsimus, nullas enim ad nos uestrae caritatis litteras adtulerant; <lb/>
             tamen suscepimus eos, quoniam simplicitas eorum<lb n="15"/>
             satis indicabat nihil illos nobis potuisse confingere. ideo autem <lb/>
@@ -88948,7 +88944,7 @@ Duas accepi simul epistulas dilectionis tuae, quarum in una facis tertiae mentio
 
 <div n="7" subtype="section" type="textpart"><p> Sed respondetur nobis: \'Cur ergo dixit: Ne declines in <lb/>
             dextram neque in sinistram, cum potius dicere debuisse <lb/>
-            nideatur: Tene dextram et ne declines in sinistram". si bonae <lb/>
+            <choice><sic>nideatur</sic><corr>uideatur</corr></choice>: Tene dextram et ne declines in sinistram". si bonae <lb/>
             sunt uiae. quae a dextris sunt?\' cur, putamus. nisi quia ita <lb n="15"/>
             sunt uiae bonae, quae a dextris sunt, ut in dextram tamen <lb/>
             declinare non sit bonum? declinare quippe ille est intellegendus <lb/>
@@ -89941,7 +89937,7 @@ Duas accepi simul epistulas dilectionis tuae, quarum in una facis tertiae mentio
             contingit, quod sequitur: Qui autem non crediderit, condemnabitur. <lb/>
             unde et ipsi, sicut dixi, si in ilia parua aetate <lb/>
             moriuntur, utique secundum ea, quae per corpus gesserunt, <lb n="20"/>
-            id est tempore, quo in corpore fnerunt, quando per corda et <lb/>
+            id est tempore, quo in corpore <choice><sic>fnerunt</sic><corr>fuerunt</corr></choice>, quando per corda et <lb/>
             ora gestantium crediderunt uel non crediderunt, quando baptizati <lb/>
             uel non baptizati sunt, quando carnem Christi manducarunt <lb/>
             uel non manducarunt, quando sanguinem biberunt uel <lb/>
@@ -90169,7 +90165,7 @@ Duas accepi simul epistulas dilectionis tuae, quarum in una facis tertiae mentio
 
 <div n="24" subtype="section" type="textpart"><p rend="script"> Quo modo deus expectat uoluntates hominum, ut praeueniant <lb/>
             eum, quibus det gratiam. cum gratias ei non inmerito agamus <lb/>
-            de his, quibus non ei credentibus et eius doctrinam uoluutate <lb/>
+            de his, quibus non ei credentibus et eius doctrinam <choice><sic>uoluutate</sic><corr>uoluntate</corr></choice> <lb/>
             impia persequentibus misericordiam praerogauit eosque ad se <lb/>
             ipsum omnipotentissima facilitate conuertit et uolentes ex<lb n="15"/>
             nolentibus fecit? ut quid ei inde gratias agimus, si hoc ipse <lb/>
@@ -90456,7 +90452,7 @@ Duas accepi simul epistulas dilectionis tuae, quarum in una facis tertiae mentio
             dicas humiliter et fideliter: Diligam te, domine, uirtus <lb/>
             mea, quia et ipsa caritas dei, quae perfecta foras <lb/>
             mittit timorem, non per uires nostras, id est humanas<lb n="25"/>
-            diffunditurin cordibus nostris sed, sicut dicit apostolus, <lb/>
+            <choice><sic>diffunditurin</sic><corr>diffunditur in</corr></choice> cordibus nostris sed, sicut dicit apostolus, <lb/>
             per spiritum sanctum, qui datus est nobis.
 
 <note type="footnote"> 6 Sap. 8, 21 7 Ps. 36, 5-6 9 Prou. 4, 27 11 Ps. 43. 7 <lb/>
@@ -90845,7 +90841,7 @@ Duas accepi simul epistulas dilectionis tuae, quarum in una facis tertiae mentio
 </p>
           </div>
 
-<div n="6" subtype="section" type="textpart"><p> De quibus ut uiium aliquid dicam, quis non uideat, quod <lb/>
+<div n="6" subtype="section" type="textpart"><p> De quibus ut <choice><sic>uiium</sic><corr>ullum</corr></choice> aliquid dicam, quis non uideat, quod <lb/>
             multi homines tibi cohaereant ad tuendam tuam potentiam <lb/>
             uel salutem, qui. etiam si tibi omnes fideles sint nec ab aliquo <lb n="10"/>
             eorum ullae timeantur insidiae, nempe tamen ad ea bona, <lb/>
@@ -91031,7 +91027,7 @@ Duas accepi simul epistulas dilectionis tuae, quarum in una facis tertiae mentio
 </p>
           </div>
 
-<div n="11" subtype="section" type="textpart"><p> Quis enim nesciat, quis ita sit stultns, ut non uideat. quod <lb/>
+<div n="11" subtype="section" type="textpart"><p> Quis enim nesciat, quis ita sit <choice><sic>stultns</sic><corr>stultus</corr></choice>, ut non uideat. quod <lb/>
             salus huius mortalis corporis et membrorum corruptibilium <lb/>
             uirtus et uictoria de hominibus inimicis et honor atque potentia <lb/>
             temporalis et cetera ista bona terrena et bonis dentur et malis <lb n="20"/>
@@ -91406,7 +91402,7 @@ Duas accepi simul epistulas dilectionis tuae, quarum in una facis tertiae mentio
 <pb n="448"/>
             definire difficile est et ideo cauendum, cum omnes in numerum <lb/>
             redigere conamur, ne praetermittamus aliquas, quamuis haereses <lb/>
-            sint, aut adnumeremus aliquas, cum haereses non siut. uide <lb/>
+            sint, aut adnumeremus aliquas, cum haereses non <choice><sic>siut</sic><corr>si ut</corr></choice>. uide <lb/>
             ergo, ne forte librum sancti Epiphanii tibi mittere debeam; <lb/>
             ipsum enim arbitror Philastrio doctius hinc locutum. qui<lb n="5"/>
             possit apud Carthaginem in Latinam linguam uerti facilius <lb/>
@@ -91684,7 +91680,7 @@ Duas accepi simul epistulas dilectionis tuae, quarum in una facis tertiae mentio
             <hi rend="italic">om, B2</hi> 17 id aestimas <hi rend="italic">BBl</hi> eiistimas id <hi rend="italic">M</hi> </note> <lb/>
              
 <pb n="454"/>
-            sinceriter dilectissime frater. commeudo iterum perlatorem et <lb/>
+            sinceriter dilectissime frater. <choice><sic>commeudo</sic><corr>commendo</corr></choice> iterum perlatorem et <lb/>
             negotium, propter quod eo perrexit. cum cognoueris. apud <lb/>
             quem agendum sit, peto, ne pigeat adiuuare; non enim possumus <lb/>
             necessitates hominum eius modi deserere. qui nostri <lb/>
@@ -92014,7 +92010,7 @@ Duas accepi simul epistulas dilectionis tuae, quarum in una facis tertiae mentio
 </p>
           </div>
 
-<div n="5" subtype="section" type="textpart"><p rend="script"> Cumque inter haec innumerabilium illis multitudo obicitnr <lb/>
+<div n="5" subtype="section" type="textpart"><p rend="script"> Cumque inter haec innumerabilium illis multitudo <choice><sic>obicitnr</sic><corr>obicitur</corr></choice> <lb/>
             paruulorum, qui utique excepto originali peccato, sub quo <lb/>
             omnes homines similiter in primi hominis damnatione nascuntur, <lb/>
             nullas adhuc habentes uoluntates, nullas proprias actiones <lb/>
@@ -92271,7 +92267,7 @@ Duas accepi simul epistulas dilectionis tuae, quarum in una facis tertiae mentio
 
 <div n="9" subtype="section" type="textpart"><p rend="script"> Quibus omnibus enodatis et multis insuper, quae altiore <lb/>
             intuitu ad causam hanc pertinentia magis potes uidere, discussis <lb/>
-            credimus et speramus non solum tennitatem nostram <lb/>
+            credimus et speramus non solum <choice><sic>tennitatem</sic><corr>tenuitatem</corr></choice> nostram <lb/>
             disputationum tuarum praesidio roborandam sed etiam ipsos, <lb n="10"/>
             quos meritis atque honoribus claros caligo istius opinionis <lb/>
             obscurat. defaecatissimum lumen gratiae recepturos. nam unum <lb/>
@@ -92801,7 +92797,7 @@ Duas accepi simul epistulas dilectionis tuae, quarum in una facis tertiae mentio
 </p>
           </div>
 
-<div n="10" subtype="section" type="textpart"><p rend="script"> Libros, cum editi fuerint, quos de nniuerso opere moliris, <lb/>
+<div n="10" subtype="section" type="textpart"><p rend="script"> Libros, cum editi fuerint, quos de <choice><sic>nniuerso</sic><corr>uniuerso</corr></choice> opere moliris, <lb/>
             quaeso habere mereamur, maxime ut per eorum auctoritatem, <lb n="15"/>
             si qua tibi in tuis displicent, a dignitate tui nominis iam non <lb/>
             trepidi sequestremus. librum etiam de gratia et libero arbitrio <lb/>
@@ -93250,7 +93246,7 @@ Duas accepi simul epistulas dilectionis tuae, quarum in una facis tertiae mentio
 </p>
           </div>
 
-<div n="7" subtype="section" type="textpart"><p> Quod autem ad eos adtinet, qui in bac re non falluntur <lb n="15"/>
+<div n="7" subtype="section" type="textpart"><p> Quod autem ad eos adtinet, qui in <choice><sic>bac</sic><corr>hac</corr></choice> re non falluntur <lb n="15"/>
             errore, sed formidine superantur, quare non potius contra suum <lb/>
             timorem domino miserante atque adiuuante fortiter dimicant, <lb/>
             ne mala sine comparatione grauiora, quae multo amplius sunt <lb/>
@@ -94206,7 +94202,7 @@ Duas accepi simul epistulas dilectionis tuae, quarum in una facis tertiae mentio
             mihi scripta miserunt, hoc tantum miror, quod non suo potius <lb/>
             quam ordinis nomine. si autem re uera omnes aut prope omnes <lb/>
             ordinis uiri ad me dignati estis litteras dare, miror, quod \'patri\' <lb/>
-            et \'in domino salutem\' scripsistis, querum mihi superstitiosus <lb/>
+            et \'in domino salutem\' scripsistis, <choice><sic>querum</sic><corr>quorum</corr></choice> mihi superstitiosus <lb/>
             cultus idolorum, contra quae idola facilius templa uestra quam <lb n="10"/>
             corda clauduntur uel potius quae idola non magis in templis <lb/>
             quam in uestris cordibus includuntur, cum magno est dolore <lb/>
@@ -94720,7 +94716,7 @@ Duas accepi simul epistulas dilectionis tuae, quarum in una facis tertiae mentio
             uallatus in illum summum deum omnium creatorem ire <lb/>
             festinet, nisi etiam sacrorum antiquorum piis praeceptis expiationibusque<lb n="20"/>
             purgetur. quam ob rem uelim scire, quid arbitreris <lb/>
-            esse per sacra pnrgandum in eo, qui pie, iuste, pure <lb/>
+            esse per sacra <choice><sic>pnrgandum</sic><corr>purgandum</corr></choice> in eo, qui pie, iuste, pure <lb/>
             ueraciterque uiuendo promeretur deos et per eos unum illum <lb/>
             deorum deum. si enim adhuc sacris purgandus est, utique <lb/>
             mundus non est et, si mundus non est, pie, iuste, pure
@@ -95004,7 +95000,7 @@ Duas accepi simul epistulas dilectionis tuae, quarum in una facis tertiae mentio
 
 <div n="5" subtype="section" type="textpart"><p> Dein le quid causae est, nt eundem hymnum isti secundum <lb/>
             scripturas canonicas conentur exponere? si enim propterea non <lb n="30"/>
-            est in scr ipturis canonicis. quia illae scripturae carnalibus <lb/>
+            est in <choice><sic>scr ipturis</sic><corr>scripturis</corr></choice> canonicis. quia illae scripturae carnalibus <lb/>
             hymnus autem iste spiritalibus scriptus est, quo modo de
 
 <note type="footnote"> 11 Matth. 26. 30; Marc. 14. 26 12; 17; 20 Rom. 8,5 14 Tob. 12, 7 <lb/>
@@ -95129,7 +95125,7 @@ Duas accepi simul epistulas dilectionis tuae, quarum in una facis tertiae mentio
             introibit rex gloriae; si, quod ait in isto hymno: ‛Qui <lb n="25"/>
             uides, quod ago, tace opera mea\', hoc significat, quod scriptum <lb/>
             est in libro Tobiae: Sacramentum regis bonum est abscondere. <lb/>
-            cur iste hymuus non esse in canone propterea <lb/>
+            cur iste <choice><sic>hymuus</sic><corr>hymnus</corr></choice> non esse in canone propterea <lb/>
             dicitur, ut sacramentum regis abscondatur carnalibus, cum ea, <lb/>
             <lb n="30"/>
             quae in isto hymno exponuntur, etiam in canone legantur et
@@ -95358,7 +95354,7 @@ Duas accepi simul epistulas dilectionis tuae, quarum in una facis tertiae mentio
 <div n="6" subtype="section" type="textpart"><p> Quibus dictis, quid hinc tibi uideretur, adtendi, ut audirem, <lb/>
             et aisti recte factum esse, ut ingenitus pater in scripturis <lb/>
             sanctis non diceretur, ne illi uel tali uerbo fieret iniuria. &lt;ergo\\ <lb/>
-            inquam, \'modo facta est iuiuria deo et hoc manu tua\'. quo
+            inquam, \'modo facta est <choice><sic>iuiuria</sic><corr>iniuria</corr></choice> deo et hoc manu tua\'. quo
 
 <note type="footnote"> 1 homousion (h <hi rend="italic">del.) T</hi> omo asyon <hi rend="italic">A; cetera ut in p. 535, 12</hi> tunc <lb/>
             R 2 inuenietur, <hi rend="italic">m. 1 corr</hi>. inueniretur <hi rend="italic">T inueneretur, m. 3 (?) corr</hi>. in- <lb/>
@@ -95649,7 +95645,7 @@ Duas accepi simul epistulas dilectionis tuae, quarum in una facis tertiae mentio
           </div>
 
 <div n="14" subtype="section" type="textpart"><p> Homines autem minus intellegentes, quid propter quid dicatur, <lb n="5"/>
-            praecipites uoluut habere sententias et scripturis non <lb/>
+            praecipites <choice><sic>uoluut</sic><corr>uolunt</corr></choice> habere sententias et scripturis non <lb/>
             diligenter scrutatis arripiunt defensionem cuiusque opinionis et <lb/>
             ab ea uel numquam uel difficile deflectuntur, dum docti atque <lb/>
             sapientes magis putari quam esse concupiscunt; ea quippe, <lb/>
@@ -96594,8 +96590,7 @@ Duas accepi simul epistulas dilectionis tuae, quarum in una facis tertiae mentio
              
 <pb n="564"/>
             totius erroris caligines libellum cuiusdam episcopi uestri ingenio <lb/>
-            et uiribus elaboratum ad me perferendum sollicita be- <lb/>
-            nignitate curasti, quanto est aequius te bono animo accipere. <lb/>
+            et uiribus elaboratum ad me perferendum sollicita be<lb break="no"/>nignitate curasti, quanto est aequius te bono animo accipere. <lb/>
             quod, ea, quae nulla humana ope et uiribus dari possunt, a <lb/>
             domino deo tibi ut concedantur, optaui! apostolus enim inquit:<lb n="5"/>
             Non spiritum huius mundi accepimus sed spiritum, <lb/>
@@ -96969,7 +96964,7 @@ Duas accepi simul epistulas dilectionis tuae, quarum in una facis tertiae mentio
             dicit, in parentes quoque potest congruentissime conuenire: <lb/>
             Qui amat, inquit. animam suam, perdet eam. dicam etiam <lb/>
             fidenter: Qui amat parentes suos, perdet eos. de anima quippe<lb n="10"/>
-            ibi dixit \'oderit\', quod hic \'perdet\'. sicutautem hoc praeceptum, <lb/>
+            ibi dixit \'oderit\', quod hic \'perdet\'. <choice><sic>sicutautem</sic><corr>sicut autem</corr></choice> hoc praeceptum, <lb/>
             quo perdere iubemur animam nostram, non ad id ualet. ut se <lb/>
             quisque interimat, quod inexpiabile nefas est, et tamen ualet, ut <lb/>
             interimat in se carnalem animae affectum, quo cum impedimento <lb/>
@@ -97150,7 +97145,7 @@ Duas accepi simul epistulas dilectionis tuae, quarum in una facis tertiae mentio
             discipulis suis commemorans, quo sibi rursum consortio generis <lb/>
             cum ceteris sanctis uirgo illa cohaereret, ostendit. et ne <lb/>
             isto saluberrimo magisterio, quo contemni carnalem affectum <lb/>
-            in parentibus docuit. adminiculum error ac ciperet. quo matrem <lb/>
+            in parentibus docuit. adminiculum error <choice><sic>ac ciperet</sic><corr>acciperet</corr></choice>. quo matrem <lb/>
             habuisse a quibusdam negatur, alio loco discipulos monuit,<lb n="15"/>
             ne se patrem in terris dicant habere, ut. quo modo illos <lb/>
             habuisse manifestum est patres, sic se habuisse matrem manifestaret, <lb/>
@@ -97679,8 +97674,7 @@ Duas accepi simul epistulas dilectionis tuae, quarum in una facis tertiae mentio
 
 <div n="3" subtype="section" type="textpart"><p> Iterum dicturus es: Non eis iussi, ut darent Ponticano. <lb/>
             respondetur tibi: Sed iussisti, ut seruirent Ponticano; nec <lb n="15"/>
-            possent distinguere. quousque seruirent et quousque non ser- <lb/>
-            uirent. maxime cum ea peteret, quae se debere sciebant. tuas <lb/>
+            possent distinguere. quousque seruirent et quousque non ser<lb break="no"/>uirent. maxime cum ea peteret, quae se debere sciebant. tuas <lb/>
             autem litteras habere debuerunt, quas proferrent actori, si te <lb/>
             nolente exigebat, et relegerent ei non se debere dare, nisi cum <lb/>
             tuas litteras accepissent. nam si uerbo aliquando iussisti, ne <lb n="20"/>
@@ -98210,7 +98204,7 @@ Duas accepi simul epistulas dilectionis tuae, quarum in una facis tertiae mentio
             <hi rend="italic">V</hi> </note> <lb n="15"/>
              
 <pb n="599"/>
-            nnlli ingerit poenam: per eum quippe diffunditur caritas in <lb/>
+            <choice><sic>nnlli</sic><corr>nulli</corr></choice> ingerit poenam: per eum quippe diffunditur caritas in <lb/>
             cordibus nostris, quae non agit perperam. 
 </p>
 
@@ -99159,7 +99153,7 @@ Duas accepi simul epistulas dilectionis tuae, quarum in una facis tertiae mentio
             sed quaeritur inter dispensatores, ut fidelis quis <lb/>
             inueniatur, et inter ipsos fideles, in quorum me numero <lb/>
             ille, qui non fallitur, computet, alius est sic alius autem <lb/>
-            sic, s icut unicuique deus partitus est mensuram <lb n="10"/>
+            sic, <choice><sic>s icut</sic><corr>sicut</corr></choice> unicuique deus partitus est mensuram <lb n="10"/>
             fidei. 
 </p>
           </div>
@@ -99327,7 +99321,7 @@ Duas accepi simul epistulas dilectionis tuae, quarum in una facis tertiae mentio
              
 <pb n="623"/>
             adulterii damnabile flagitium caderes, maritalem tibi concubitum <lb/>
-            non negaret; quanto magis te, quam magis snbiectam esse <lb/>
+            non negaret; quanto magis te, quam magis <choice><sic>snbiectam</sic><corr>subiectam</corr></choice> esse <lb/>
             decuerat, ne ipse quoque in adulterium diabolica temptatione <lb/>
             traheretur. in reddendo huius modi debito uoluntati eius obtemperare <lb/>
             conuenerat, cum tibi uoluntatem continendi acceptaret <lb n="5"/>
@@ -99526,7 +99520,7 @@ Duas accepi simul epistulas dilectionis tuae, quarum in una facis tertiae mentio
             professionem an ecclesiasticum ministerium an coniugalis necessitudinis <lb n="10"/>
             uinculum? quamuis enim ad meliora excitandi et erudiendi <lb/>
             sint filii sanctorum, unusquisque tamen proprium <lb/>
-            donum habet adeo alius sic aliusautemsic, nisi forte <lb/>
+            donum habet adeo alius sic <choice><sic>aliusautemsic</sic><corr>alius autem sic</corr></choice>, nisi forte <lb/>
             talia prospiciens et praecauens reprehendendus est pater, cum <lb/>
             beatus apostolus dicat: Quisquis autem suis et maiime <lb n="15"/>
             domesticis non prouidet, fidem denegat et est infideli <lb/>
@@ -99564,7 +99558,7 @@ Duas accepi simul epistulas dilectionis tuae, quarum in una facis tertiae mentio
             suggereres uiro reuerenter eiusdemque auctoritatem <lb/>
             tamquam tui capitis sequereris oboedienter. ut omnes, qui<lb n="5"/>
             sanum sapiunt, ad quos posset hoc bonum uestrum fama perferre, <lb/>
-            de domus uestrae fructu ac pace gauderent et aduersarins <lb/>
+            de domus uestrae fructu ac pace gauderent et <choice><sic>aduersarins</sic><corr>aduersarius</corr></choice> <lb/>
             reuereretur nihil habens de uobis dicere praui. 
 </p>
           </div>
@@ -100379,7 +100373,7 @@ Duas accepi simul epistulas dilectionis tuae, quarum in una facis tertiae mentio
 </p>
           </div>
 
-<div n="8" subtype="section" type="textpart"><p> Est etiam paenitentia bonorum et humilium tidelium paene <lb/>
+<div n="8" subtype="section" type="textpart"><p> Est etiam paenitentia bonorum et humilium <choice><sic>tidelium</sic><corr>fidelium</corr></choice> paene <lb/>
             cotidiana, in qua pectora tundimus dicentes: Dimitte nobis <lb/>
             debita nostra, sicut et nos dimittimus debitoribus<lb n="5"/>
             nostris. neque enim ea nobis dimitti uolumus. quae dimissa <lb/>
@@ -100390,7 +100384,7 @@ Duas accepi simul epistulas dilectionis tuae, quarum in una facis tertiae mentio
             naufragium, utrum uno grandi fluctu nauis operiatur et obruatur, <lb/>
             an paulatim subrepens aqua in sentinam et per neglegentiam <lb/>
             derelicta atque contempta impleat nauem atque submergat\'? <lb/>
-            propter hoc ieiunia et elemosynae et orationes inuigilant. inquibus <lb/>
+            propter hoc ieiunia et elemosynae et orationes inuigilant. <choice><sic>inquibus</sic><corr>in quibus</corr></choice> <lb/>
             cum dicimus: Dimitte nobis, sicut et nos dimittimus.<lb n="15"/>
             manifestamus habere nos. quod nobis dimittatur, atque <lb/>
             in his uerbis humiliantes animas nostras cotidianam quodam <lb/>

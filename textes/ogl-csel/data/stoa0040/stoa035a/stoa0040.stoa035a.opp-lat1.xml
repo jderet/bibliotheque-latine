@@ -88,6 +88,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 2 mots mal lus.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -391,7 +392,7 @@
             unde loquens apostolus Petrus ait: uiri, uxoribus uestris <lb/>
             tamquam uasi infirmiori et subiecto tribuite honorem <lb/>
             quasi coheredibus gratiae, et illas adloquens <lb/>
-            2 cf. Tert. de monog. et 1. II ad uxorem 3 I Cor. 7, 8 16 I <lb/>
+            2 cf. <choice><sic>Tert</sic><corr>fert</corr></choice>. de monog. et 1. II ad uxorem 3 I Cor. 7, 8 16 I <lb/>
             Cor. 7, 38. 40 21. I Petr. 3, 7 <lb/>
             1 condemnauimus <hi rend="italic">Z</hi> condemnamus <hi rend="italic">I</hi> condemnabit JP1 catafryges <hi rend="italic">OJ Z</hi> <lb/>
             catafriges <hi rend="italic">PyHAB*TD</hi> catafruges B1 catafrige <hi rend="italic">M</hi> catafrige <hi rend="italic">ENX</hi> <lb/>
@@ -401,7 +402,7 @@
             <hi rend="italic">T</hi> dixi <hi rend="italic">T</hi> 10 esse] est <hi rend="italic">PI TMENX om. AD</hi> 11 est esse <hi rend="italic">T</hi> <lb/>
             12 quod 8. <hi rend="italic">l. T</hi> honesto] honestum <hi rend="italic">P?HATMENX</hi> 13 honestius <lb/>
             (i 8. <hi rend="italic">l. m. 2) B</hi> 14 est honestum <hi rend="italic">AD</hi> 15 illud <hi rend="italic">BD</hi> 17 nuptum <lb/>
-            <hi rend="italic">om. ENX</hi> per hoc <hi rend="italic">N</hi> 18 permanserint <hi rend="italic">N</hi> sicut ergo] sut et <lb/>
+            <hi rend="italic">om. ENX</hi> per hoc <hi rend="italic">N</hi> 18 permanserint <hi rend="italic">N</hi> sicut ergo] <choice><sic>sut</sic><corr>aut</corr></choice> et <lb/>
             ego JP1 sicut et ego <hi rend="italic">P\'ĮrHADTMENX</hi> 19 sic] si <hi rend="italic">AD</hi> honestus <hi rend="italic">A</hi> <lb/>
             22 uaso <hi rend="italic">PyHI.ABtMEX</hi> tribuit <hi rend="italic">E</hi> <lb/>
              

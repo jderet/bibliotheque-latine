@@ -83,6 +83,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 1 mot mal lu, 1 mot collé.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -1347,7 +1348,7 @@ Ciuitas Burdigala, ubi est fluuius Garonna, per quem facit mare Oceanum accessa 
 
 <div n="585" subtype="section" type="textpart">
  
-<p>1 Ibi est mons Carmelus, ubiHelias sacrificium faciebat,
+<p>1 Ibi est mons Carmelus, <choice><sic>ubiHelias</sic><corr>ubi Helias</corr></choice> sacrificium faciebat,
 </p>
 <p>2 mutatio Certha................................mil VIII
 </p>
@@ -2291,7 +2292,7 @@ Ciuitas Burdigala, ubi est fluuius Garonna, per quem facit mare Oceanum accessa 
 </p>
 <p>9 Ciuitas Mutena.................................mil III
 </p>
-<p>10 mutatio Ponte Secies...........................mil V
+<p>10 mutatio Ponte <choice><sic>Secies</sic><corr>Socios</corr></choice>...........................mil V
 </p>
 <p>11 Ciuitas Regio..................................mil VIII
 </p>

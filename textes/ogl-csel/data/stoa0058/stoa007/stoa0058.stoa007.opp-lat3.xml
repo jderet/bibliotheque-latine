@@ -89,7 +89,8 @@
                 <language ident="lat">Latin</language>
             </langUsage>
         </profileDesc>
-    </teiHeader>
+    <revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 11 mots mal lus, 1 mot collé.</change></revisionDesc>
+</teiHeader>
     
     <text>
         <body><div type="edition" xml:lang="lat" n="urn:cts:latinLit:stoa0058.stoa007.opp-lat3">          
@@ -1061,7 +1062,7 @@ difficilia haereat qui in tanta hac disciplina uigilantissimo in-
 genio et sollertissimo labore sudauerit. fit enim demonstratio, id
 est alicuius quaesitae rei certa rationis collectio, ex ante cognitis
 naturaliter, ex conuenientibus, ex primis, ex causa, ex neces-
-sariis, ex per se inhaerentibus, sed genera speciebus propriis
+<choice><sic>sariis</sic><corr>sanis</corr></choice>, ex per se inhaerentibus, sed genera speciebus propriis
 priora naturaliter sunt; ex generibus enim species fluunt, item
 <lb n="15"/>
 species sub se positis uel speciebus uel indiuiduis priores
@@ -1196,7 +1197,7 @@ nam quoniam omne quod est, aut corporeum aut incorporeum
 esse necesse est, genus et species in aliquo horum esse opor-
 <lb n="15"/>
 tebit. quale erit igitur id quod genus dicitur, utrumne cor-
-poreum an uero incorporeum? neque enim quid sit diligenter
+<choice><sic>poreum</sic><corr>porcum</corr></choice> an uero incorporeum? neque enim quid sit diligenter
 intenditur, nisi in quo horum poni debeat agnoscatur, sed
 neque cura haec soluta fuerit quaestio, omne excludetur ambi-
 guum. subest enim aliquid quod, si incorporalia esse genus
@@ -1567,7 +1568,7 @@ pretati sumus, antiquos autem ait de eisdem disputasse rebus,
 sed &lt;se&lt; eorum illum maxime tractatum insequi quem Peri-
 patetici Aristotele duce reliquerint, ut tota disputatio ad
 <lb n="5"/>
-Praedicamenta conneniat.</p>
+Praedicamenta <choice><sic>conneniat</sic><corr>conueniat</corr></choice>.</p>
 <note type="footnote">2 eisdem] <hi rend="italic">E</hi> (eis <hi rend="italic">in ras</hi>.) hisdem <hi rend="italic">cett</hi>. disputasse <hi rend="italic">post</hi> rebus <hi rend="italic">C</hi>, <hi rend="italic">ante</hi>
 de eisdem <hi rend="italic">L</hi>, disputare <hi rend="italic">N</hi> 3 se <hi rend="italic">post</hi> illum <hi rend="italic">add</hi>. <hi rend="italic">brm</hi>, <hi rend="italic">post</hi> sed <hi rend="italic">Brandt</hi>
 sequi <hi rend="italic">CEm2HN</hi> 4 reliquerint] <hi rend="italic">Gm1HPp.r</hi>. relinquerint <hi rend="italic">FSm1P a.r</hi>.
@@ -1837,7 +1838,7 @@ accipit <hi rend="italic">C</hi> est <hi rend="italic">om. G</hi> 19 <hi rend="i
 <pb n="176"/>
 quemadmodum et pater. sed quoniam in significationibus
 euenit fere, ut sit aliquid quod intellectui significatae rei pro-
-pinquius esse uideatur, quoniam duas generis apposuit signi-
+<choice><sic>pinquius</sic><corr>pinguius</corr></choice> esse uideatur, quoniam duas generis apposuit signi-
 ficationes, multitudinis scilicet et procreantis, cui generis
 nomen conuenientius aptetur, iudicat atque discernit dicens
 <lb n="5"/>
@@ -2964,7 +2965,7 @@ non fuit apponendum. cui quaestioni occurrit dicens :
 <lb n="15"/></p>
 							<p>Nosse autem oportet &lt;quod&gt;, quoniam et genus ali-
 cuius est genus et species alicuius est species, idcirco
-necesse est et in utrorumque rationibus ntrisque uti.</p>
+necesse est et in utrorumque rationibus <choice><sic>ntrisque</sic><corr>utrisque</corr></choice> uti.</p>
 							<p>Omnia quaecumque ad aliquid praedicantur, ex his de quibus
 praedicantur, substantiam sortiuntur; quodsi definitio unius
 <lb n="20"/>
@@ -4154,7 +4155,7 @@ species, collectiuum atque adunatiuum.
 utrumque, et genere quidem uno, speciebus uero
 pluribus — semper enim in plures species diuisio
 <lb n="10"/>
-generisest —, genus quidem semper de specie prae-
+<choice><sic>generisest</sic><corr>generis est</corr></choice> —, genus quidem semper de specie prae-
 dicatur et omnia superiora de inferioribus, species
 autem neque de proximo sibi genere neque de supe-
 rioribus; neque enim conuertitur. oportet autem
@@ -4758,7 +4759,7 @@ non modo alteratum, quod est commune uel substantiali uel
 accidenti differentiae, sed etiam aliud faciunt, quod ea sola
 <lb n="10"/>
 retinet differentia quae substantiam continet formamque sub-
-iecti. atque hae quidem differentiae quae faciunt aliud, speci-
+<choice><sic>iecti</sic><corr>lecti</corr></choice>. atque hae quidem differentiae quae faciunt aliud, speci-
 ficae nuncupantur idcirco, quod ipsae efficiunt speciem; quam
 cum substantialibus differentiis informauerint, faciunt ab aliis
 ita esse diuersam, ut non alterata solum sit, uerum etiam
@@ -5192,7 +5193,7 @@ hae differentiae specificae nuncupantur, generum enim specierum-
 que differentiae sunt, sed generum quidem diuisiuae, specierum
 autem constitutiuae. id autem probatur hoc modo. substantiam
 quippe corporei atque incorporei differentiae partiuntur, cor-
-poreum uero animati atque inanimati, animatum sensibilis
+<choice><sic>poreum</sic><corr>porcum</corr></choice> uero animati atque inanimati, animatum sensibilis
 atque insensibilis. ita igitur genera substantiales differentiae
 <lb n="15"/>
 partiuntur et dicuntur generum diuisiuae. at uero si eaedem
@@ -5361,7 +5362,7 @@ enim praedicatio diuiditur animalis, omne enim quod animal
 <lb n="10"/>
 est, aut rationale aut inrationale aut mortale aut inmortale
 est. sed istae differentiae quae diuidunt genus quod est animal,
-speciei substantiam formamqne constituunt, nam cum sit homo
+speciei substantiam <choice><sic>formamqne</sic><corr>formamque</corr></choice> constituunt, nam cum sit homo
 animal, efficitur rationali mortalique differentiis, quae dudum
 animal partiebantur, item cum sit equus animal, inrationali
 <lb n="15"/>
@@ -6282,7 +6283,7 @@ praedicantur; homo enim risibilis est et risibile homo.</p>
 								<title>DE ACCIDENTI.</title>
 							</head>
 							<p>Accidens uero est quod adest et abest praeter sub-
-iecti corruptionem, diuiditur autem in duo, in separa-
+<choice><sic>iecti</sic><corr>lecti</corr></choice> corruptionem, diuiditur autem in duo, in separa-
 <lb n="15"/>
 bile et in inseparabile, namque dormire est separabile
 accidens, nigrum uero esse inseparabiliter coruo et
@@ -8508,7 +8509,7 @@ sunt inseparabilia accidentia, praedicantur. ambulare enim uel
 stare, dormire ac uigilare de eisdem dicimus, quae sunt acci-
 dentia separabilia, reliqua uero communitas ea tantum acci-
 dentia uidetur includere quae sunt inseparabilia. nam sicut
-differentia somper subiectis speciebus adhaerescit, ita etiam
+differentia <choice><sic>somper</sic><corr>semper</corr></choice> subiectis speciebus adhaerescit, ita etiam
 inseparabilia accidentia numquam uidentur deserere subiectum.
 <lb n="20"/>
 ut enim bipes, quod est differentia, numquam coruorum spe-
@@ -8621,7 +8622,7 @@ tineantur <hi rend="italic">HN</hi> 23 <hi rend="italic">ad</hi> constituunt <hi
 accidentia, cum de speciebus pluribus dicuntur, differentiae
 uero maxime. quae enim quorumlibet uniuersalia sunt, ea
 neoesee est eorum quorum sunt uniuersalia, etiam substantiam
-continere. qno fit ut quia differentiae substantiam monstrant,
+continere. <choice><sic>qno</sic><corr>quo</corr></choice> fit ut quia differentiae substantiam monstrant,
 intentione ac remissione careant — una enim quaeque substantia
 <lb n="5"/>
 neque contrahi neque remitti potest —, at uero accidentia quoniam

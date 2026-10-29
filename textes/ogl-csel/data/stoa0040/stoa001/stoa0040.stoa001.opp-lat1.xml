@@ -88,6 +88,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 10 mots mal lus.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -186,7 +187,7 @@
 </p>
           </div>
 
-<div n="3" subtype="section" type="textpart"><p> <milestone n="3" unit="altchapter"/>  Oapiunt ergone te caelum et terra, quoniam tu imples  <lb/>
+<div n="3" subtype="section" type="textpart"><p> <milestone n="3" unit="altchapter"/>  <choice><sic>Oapiunt</sic><corr>capiunt</corr></choice> ergone te caelum et terra, quoniam tu imples  <lb/>
             
 ea* an imples et restat, quoniam non te capiunt et quo <lb n="5"/>
             refundes quidquid impleto caelo et terra restat ex te? an <lb/>
@@ -2813,7 +2814,7 @@ ea* an imples et restat, quoniam non te capiunt et quo <lb n="5"/>
 </p>
           </div>
 
-<div n="17" subtype="section" type="textpart"><p rend="script">  <milestone n="9" unit="altchapter"/>  Sed inter fiagitia et facinora et tam multas iniquitates <lb/>
+<div n="17" subtype="section" type="textpart"><p rend="script">  <milestone n="9" unit="altchapter"/>  Sed inter <choice><sic>fiagitia</sic><corr>flagitia</corr></choice> et facinora et tam multas iniquitates <lb/>
             sunt peccato proficientium, quae bene indicantibus et
 
 <note type="footnote">1] cf. Ps. 143,9. 5] cf. Ps. 26,12. 8] Rora. 1, 26. 10] cf. Act. 9,5. <lb/>
@@ -5035,7 +5036,7 @@ ea* an imples et restat, quoniam non te capiunt et quo <lb n="5"/>
             eorum, quorum e numero erat etiam is, in cuius domo <lb n="5"/>
             aegrotaueram et conualueram, sed eis etiam, quos electos <lb/>
             uocant. adhuc enim mihi uidebatur non esse nos, qui peccamus, <lb/>
-            sed nescio quam aliam in nobis peecare naturam et delectabat <lb/>
+            sed nescio quam aliam in nobis <choice><sic>peecare</sic><corr>peccare</corr></choice> naturam et delectabat <lb/>
             superbiam meam extra culpam esse et, cum aliquid <lb/>
             mali fecissem, non confiteri me fecisse, ut sanares animam <lb n="10"/>
             meam, quoniam peccabat tibi, sed excusare me amabam et <lb/>
@@ -5778,7 +5779,7 @@ ea* an imples et restat, quoniam non te capiunt et quo <lb n="5"/>
 </p>
           </div>
 
-<div n="8" subtype="section" type="textpart"><p rend="script">Sed m credebam aiiquando robustius, aliquando exilius, semper  <lb/>
+<div n="8" subtype="section" type="textpart"><p rend="script">Sed m credebam <choice><sic>aiiquando</sic><corr>aliquando</corr></choice> robustius, aliquando exilius, semper  <lb/>
             tamen credidi et esse te et curam nostri gerere, etiamsi ignorabam <lb/>
             uel quid sentiendum esset de substantia tua uel quae <lb/>
             uia duceret aut reduceret ad te. ideoque cum essemus infirmi <lb/>
@@ -7416,7 +7417,7 @@ ea* an imples et restat, quoniam non te capiunt et quo <lb n="5"/>
 </p>
           </div>
 
-<div n="16" subtype="section" type="textpart"><p rend="script"> <milestone n="10" unit="altchapter"/>  Et inde admonitus redire ad memet ipsum intrani in  <lb/>
+<div n="16" subtype="section" type="textpart"><p rend="script"> <milestone n="10" unit="altchapter"/>  Et inde admonitus redire ad memet ipsum <choice><sic>intrani</sic><corr>intraui</corr></choice> in  <lb/>
             intima mea duce te et potui, quoniam factus es adiutor <lb n="5"/>
             meus. intraui et uidi qualicumque oculo animae meae supra <lb/>
             eundem oculum animae meae, supra mentem meam lucem <lb/>
@@ -9866,7 +9867,7 @@ relicto rure Mediolanium remeauimus. placuit et Alypio renasci <lb/>
 </p>
           </div>
 
-<div n="17" subtype="section" type="textpart"><p rend="script">  <milestone n="8" unit="altchapter"/>  Qui habitarc facis uiianimes in domo, consociasti <lb/>
+<div n="17" subtype="section" type="textpart"><p rend="script">  <milestone n="8" unit="altchapter"/>  Qui <choice><sic>habitarc</sic><corr>habitare</corr></choice> facis uiianimes in domo, consociasti <lb/>
             nobis et <sic>Kuodiuni</sic> iuuenem ex nostro municipio. qui cum agens <lb/>
             in rebus militaret, prior nobis ad te conuersus est et baptizatus <lb/>
             et relicta militia saeculari accinctus in tua. simul eramus, simul <lb/>
@@ -10733,7 +10734,7 @@ relicto rure Mediolanium remeauimus. placuit et Alypio renasci <lb/>
 <div n="4" subtype="section" type="textpart"><p rend="script"> Verum tamen tu, medice meus intime, quo fructu ista faciam, <lb/>
             eliqua mihi. nam confessiones praeteritorum malorum meorum,<lb n="10"/>
             quae remisisti et texisti, ut beares me in te, mutans animam <lb/>
-            meam fide et sacramento tuo, cum leguntur et andiuntur, excitant <lb/>
+            meam fide et sacramento tuo, cum leguntur et <choice><sic>andiuntur</sic><corr>audiuntur</corr></choice>, excitant <lb/>
             cor, ne dormiat in desperatione et dicat: "non possum", <lb/>
             sed euigilet in amore misericordiae tuae et dulcedine gratiae <lb/>
             tuae, qua potens est omnis infirmus, qui sibi per ipsam fit<lb n="15"/>
@@ -12441,7 +12442,7 @@ cum audierint, quantum ad te accedam munere tuo, et orare <lb/>
             omnibus, in silentio. ipsa enim regina colorum lux ista perfundens <lb/>
             cuncta, quae cernimus, ubiubi per diem fuero, multimodo <lb/>
             adlapsu blanditur mihi aliud agenti et ad eam non <lb/>
-            aduertenti. insinuat autem se ita nehementer, ut si repente <lb/>
+            aduertenti. insinuat autem se ita <choice><sic>nehementer</sic><corr>uehementer</corr></choice>, ut si repente <lb/>
             subtrahatur, cum desiderio requiratur; et si diu absit, contristat <lb n="10"/>
             animum. 
 </p>
@@ -13143,7 +13144,7 @@ cum audierint, quantum ad te accedam munere tuo, et orare <lb/>
           <div n="1" subtype="section" type="textpart">
 <p>  <milestone n="1" unit="altchapter"/>  Numquid, domine, cum tua sit aeternitas, ignoras, quae <lb/>
             tibi dico, aut ad tempus uides quod fit in tempore? cur ergo <lb n="5"/>
-            tibi tot rerum narrationes digero? non utique per me noneris <lb/>
+            tibi tot rerum narrationes digero? non utique per me <choice><sic>noneris</sic><corr>noueris</corr></choice> <lb/>
             ea, sed affectum meum excito in te et eorum, qui haec legunt, <lb/>
             ut dicamus omnes: magnus dominus et laudabilis ualde. <lb/>
             iam dixi et dicam: amore amoris tui facio istuc. nam et oramus, <lb/>
@@ -17511,7 +17512,7 @@ et facta est lux, non incongruenter hoc intellego in creatura <lb/>
 </p>
           </div>
 
-<div n="34" subtype="section" type="textpart"><p rend="script"> Ideoque homo, quem fecisti ad imaginem tuam, non aecepit <lb/>
+<div n="34" subtype="section" type="textpart"><p rend="script"> Ideoque homo, quem fecisti ad imaginem tuam, non <choice><sic>aecepit</sic><corr>accepit</corr></choice> <lb/>
             potestatem luminarium caeli neque ipsius occulti caeli <lb/>
             neque diei et noctis, quae ante caeli constitutionem uocasti, <lb n="15"/>
             neque congregationis aquarum, quod est mare, sed accepit <lb/>

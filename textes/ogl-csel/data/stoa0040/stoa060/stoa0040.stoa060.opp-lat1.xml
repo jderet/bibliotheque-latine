@@ -87,6 +87,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 1 césure, 1 mot coupé.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -392,7 +393,7 @@
             etiam carnis conparari potest. neque enim et ipsa, quia uir- <lb/>
             19 cf. Gal. 5, 6 <lb/>
             1 tota .41 utraque <hi rend="italic">C1R71\':</hi> utraeque <hi rend="italic">C2PKIZHSDB TJ.1IENbd</hi> <lb/>
-            utr aeque <hi rend="italic">A</hi> utraeque <hi rend="italic">X</hi> 2 uirgines ut uos sitis <hi rend="italic">MENX</hi> sitis] scitis <lb/>
+            <choice><sic>utr aeque</sic><corr>utraeque</corr></choice> <hi rend="italic">A</hi> utraeque <hi rend="italic">X</hi> 2 uirgines ut uos sitis <hi rend="italic">MENX</hi> sitis] scitis <lb/>
             JR 3 scimus B desit <hi rend="italic">GMBENX72b</hi> defuit 82 Csulitur <hi rend="italic">S</hi> <lb/>
             seruata] et lata <hi rend="italic">Z</hi> e.lata <hi rend="italic">I</hi> et lata <hi rend="italic">ex</hi> solata <hi rend="italic">(an</hi> saluata?) <hi rend="italic">C</hi> 4 pplis <hi rend="italic">T</hi> <lb/>
             amissa. <hi rend="italic">A</hi> 5 uox] uos <hi rend="italic">T</hi> 6 solum <hi rend="italic">GX</hi> 7 carnis xpi <hi rend="italic">R</hi> 8 menbrorum <lb/>
@@ -836,8 +837,7 @@
             nupserit uirgo non peccat. et paulo post: beatior <lb/>
             autem erit, si sic permanserit, secundum meam <lb/>
             sententiam. et ne humana sententia putaretur, adiungit: <lb/>
-            puto autem, et ego spiritum dei habeo. haec domi- <lb/>
-            nica, haec apostolica, haec uera, haec sana doctrina est, <lb n="10"/>
+            puto autem, et ego spiritum dei habeo. haec domi<lb break="no"/>nica, haec apostolica, haec uera, haec sana doctrina est, <lb n="10"/>
             sic eligere dona maiora, ne minora damnentur. melior est <lb/>
             in scriptura dei ueritas dei quam in cuiusquam mente aut <lb/>
             carne uirginitas hominis. quod castum est sic ametur, ut <lb/>

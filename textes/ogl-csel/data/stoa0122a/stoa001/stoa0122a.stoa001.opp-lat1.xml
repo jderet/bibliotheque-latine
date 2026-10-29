@@ -87,6 +87,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 5 mots mal lus, 3 mots coupés, 2 mots collés.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -764,7 +765,7 @@
             consequi. Unde et aiunt Pythonissam illam beati Samuhelis <lb/>
             animam ab inferis excitasse atque inde maxime credi <hi rend="italic">(id&gt;</hi> <lb/>
             posse homines usque hodie plurimi suspicantur, quia quae <lb/>
-            dixerat regi Sauli superstcs propheta beatissimus, ea etiam <lb/>
+            dixerat regi Sauli <choice><sic>superstcs</sic><corr>superstes</corr></choice> propheta beatissimus, ea etiam <lb/>
             in excitatione quasi dei iterum responsa dixisse cognoscitur <lb n="10"/>
             uera;</p></div>
 
@@ -3437,7 +3438,7 @@
             sexum, sed animae dominantis et subiacentis declarat  <lb/>
             indicium.</p></div>
 
-<div n="4" subtype="section" type="textpart"><p>Et quod non corpora ante sint facta lacentia, li sicut <lb/>
+<div n="4" subtype="section" type="textpart"><p>Et quod non corpora ante sint facta <choice><sic>lacentia</sic><corr>iacentia</corr></choice>, li sicut <lb/>
             quidam aestimant inprudentes, non est ambiguum, cum caro <lb/>
             Adae ac mulieris postea facta sit; nam septimo die dicit
 
@@ -3521,7 +3522,7 @@
             animam, ut cognoscatur quod per ipsum cuncta facta sint et  <lb/>
             sine ipso nihil factum sit.</p></div>
 
-<div n="4" subtype="section" type="textpart"><p>Nullius ratioms est ltaque ut uelit<lb n="10"/>
+<div n="4" subtype="section" type="textpart"><p>Nullius ratioms est <choice><sic>ltaque</sic><corr>itaque</corr></choice> ut uelit<lb n="10"/>
             quis aestimare inspirationem esse animam, cum facta cognos <milestone unit="vbar"/> <lb/>
             citur anima, quae sub legis condicione posita iudicio obnoxia <lb/>
             repperitur, de qua ait: Nolite timere eos qui occidunt <lb/>
@@ -5214,7 +5215,7 @@
             ante tribunal Christi, ut recipiat unusquisque ea <lb/>
             quae gessit in hoc corpore. Et iterum: Quod non <lb/>
             derelinques animam meam in infernum. <hi rend="italic">&lt; Et iterum: &gt;</hi> <lb n="15"/>
-            In in fernum autem quis confitebitur tibi?</p></div>
+            In <choice><sic>in fernum</sic><corr>infernum</corr></choice> autem quis confitebitur tibi?</p></div>
 
 <div n="3" subtype="section" type="textpart"><p>Animae  <lb/>
             itaque natura non uertitur in naturam alteram, sed, cum <lb/>
@@ -6203,7 +6204,7 @@
             autem non omnium, sed sanctorum et Christianorum  <lb/>
             esse tantummodo declarauit.</p></div>
 
-<div n="6" subtype="section" type="textpart"><p>Qui in iide, uita et bono opere <lb/>
+<div n="6" subtype="section" type="textpart"><p>Qui in <choice><sic>iide</sic><corr>ii de</corr></choice>, uita et bono opere <lb/>
             permanentes angelorum caelestia merita in futurum consequi<lb n="5"/>
             promittuntur, ut patriarchae, prophetae, sacerdotes, iudices, <lb/>
             apostoli atque euangelistae et martyres, qui trinitati credentes <lb/>
@@ -6221,7 +6222,7 @@
             in a uestra in caelo scripta sunt. Et quod in die<lb n="15"/>
             iudicii eos sicut angelos demonstrabat futuros, dominus dicit <lb/>
             <hi rend="italic">&lt;idem iterum) de regno</hi> caelesti: V en i te, percipite regnum  <lb/>
-            quod quod bis paratum est a b origin e mundi.</p></div>
+            quod quod bis paratum est a b <choice><sic>origin e</sic><corr>origine</corr></choice> mundi.</p></div>
 
 <div n="9" subtype="section" type="textpart"><p>ISimilitudo <lb/>
             itaque ex fide sanctae trinitatis et uita bona et opere sequenti <lb/>
@@ -6331,7 +6332,7 @@
             fecunditas, in sacerdotibus labor fortis pertinax concertatio  <lb/>
             cerneretur:</p></div>
 
-<div n="4" subtype="section" type="textpart"><p>in apostolis uolatus sublimis in caelumet <lb/>
+<div n="4" subtype="section" type="textpart"><p>in apostolis uolatus sublimis in <choice><sic>caelumet</sic><corr>caelum et</corr></choice> <lb/>
             eminens dignitas monstraretur, ut, quae formarum ante <lb/>
             diuersitas nuntiabat, diuersarum quippe uirtutum caelestia <lb/>
             merita in Christi praesentia manifestarentur in saeculo, ab eo <lb n="20"/>
@@ -6479,7 +6480,7 @@
             rerum perfectione praediti deque hoc exeuntes saeculo, resurrectionis <lb/>
             illic promissam gloriam se posse consequi caelestisque <lb/>
             dignitatis consortio copulari non desperarunt, quod <lb/>
-            dominus dignatus est dicere: Tunc eritis sicut angel n gel i <lb n="10"/>
+            dominus dignatus est dicere: Tunc eritis sicut angel n <choice><sic>gel i</sic><corr>geli</corr></choice> <lb n="10"/>
             iustis omnibus et perfectis hoc praedicans, quod et Dauid <lb/>
             dixit pro o c tau a adnuntians.1I
 </p>
@@ -6903,7 +6904,7 @@
             et <hi rend="italic">B</hi> 17 isrt 18 exultatione A ai <hi rend="italic">om A</hi> 19 mensia A. </note> <lb/>
              
 <pb n="121"/>
-            praedicanit, ut mysteria Christianitatis in ipsis. quattuor ieiuniis <lb/>
+            <choice><sic>praedicanit</sic><corr>praedicauit</corr></choice>, ut mysteria Christianitatis in ipsis. quattuor ieiuniis <lb/>
             nuntiata cognosceremus.</p></div>
 
 <div n="3" subtype="section" type="textpart"><p>Nam per annum quattuor ieiunia in  <lb/>
@@ -7348,7 +7349,7 @@
             eis auibus magis inueniretur esse ratio quaedam lenitatis <lb n="25"/>
             motu quodam a deo concessa uelut rationabilis.</p></div>
 
-<div n="8" subtype="section" type="textpart"><p>Nam omnia buiusmodi  <lb/>
+<div n="8" subtype="section" type="textpart"><p>Nam omnia <choice><sic>buiusmodi</sic><corr>huiusmodi</corr></choice>  <lb/>
             creata a domino subiecta sunt homini, ut regi ac rationabili, <lb/>
             dominoque <hi rend="italic">orbis &lt; terrarum, &gt;</hi> uniuersitatis pecudum,
 

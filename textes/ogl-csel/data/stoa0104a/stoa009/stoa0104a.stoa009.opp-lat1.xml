@@ -85,6 +85,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 1 mot mal lu.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -596,7 +597,7 @@
 </p>
           </div>
 
-<div n="14" subtype="section" type="textpart"><p> Erras et falleris quisque te in saecnlo diuitem credis. audi in <lb/>
+<div n="14" subtype="section" type="textpart"><p> Erras et falleris quisque te in <choice><sic>saecnlo</sic><corr>saeculo</corr></choice> diuitem credis. audi in <lb/>
             Apocalypsi Domini tui uocem eiusmodi homines iustis obiurgationibus <lb/>
             increpantem. dicis, inquit, diues sum et ditatus <lb/>
             sum et nullius rei egeo: et nescis quoniam tu es <lb/>

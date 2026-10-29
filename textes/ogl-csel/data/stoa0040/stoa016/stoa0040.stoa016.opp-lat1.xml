@@ -89,6 +89,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 7 mots collés, 1 mot coupé, 2 mots mal lus.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -288,7 +289,7 @@
             quidquam exspectetis. — Quod ei cum concessum esset ab omnibus <lb/>
             et ego rogationem repetissem: Beati certe, inquit Trygetius, esse <lb/>
             uolumus, et si ad hanc rem possumus absque ueritate peruenire, <lb/>
-            quaerenda nobis ueritasnon est. — Quid hoc ipsum? inquam; existimatisne <lb n="5"/>
+            quaerenda nobis <choice><sic>ueritasnon</sic><corr>ueritas non</corr></choice> est. — Quid hoc ipsum? inquam; existimatisne <lb n="5"/>
             beatos nos esse posse etiam non inuenta ueritate ? — Tunc <lb/>
             Licentius: Possumus, inquit, si uerum quaeramus. — Hic cum ego <lb/>
             ceterorum sententiam nutu flagitassem: Mouet me, inquit Nauigius, <lb/>
@@ -614,7 +615,7 @@
 
 <div n="13" subtype="section" type="textpart">
 <p><milestone n="5" unit="altchapter"/> Hic Trygetius: Dasne, inquit, sapientiam rectam uiam <lb/>
-            esse uitae? — Do, inquit, sine dubio; sedtamenuolo mihi sapientiam <lb/>
+            esse uitae? — Do, inquit, sine dubio; <choice><sic>sedtamenuolo</sic><corr>sed tamen uolo</corr></choice> mihi sapientiam <lb/>
             definias, ut sciam, utrum quae mihi eadem tibi esse uideatur. — Et<lb n="5"/>
             ille: Parum tibi, ait. uidetur definita hoc ipso, quod nunc interrogatus <lb/>
             es? etiam quod uolui concessisti. si enim non fallor, recta uia <lb/>
@@ -630,7 +631,7 @@
             rectam secutus est? et eam sapientiam nominat nemo? quomodo <lb/>
             igitur omnis recta uitae uia sapientia est ? — Concessi enim esse, sed <lb/>
             non solam. — Definitio autem nihil conplecti debuit, quod esset alienum. <lb/>
-            itaque rursus defini, siplacet: quid tibi uidetur esse sapientia? <lb n="20"/>
+            itaque rursus defini, <choice><sic>siplacet</sic><corr>si placet</corr></choice>: quid tibi uidetur esse sapientia? <lb n="20"/>
             
 </p>
           
@@ -642,7 +643,7 @@
             ducat. — Similiter et hoc, inquit ille, refellitur; nam cum apud Uergilium <lb/>
             Aeneae dictum est a matre: <lb/>
             perge modo et, qua te ducit uia, dirige gressum,<lb n="25"/>
-            sequens hancuiam ad id, quod dictumerat, id est ad uerum, peruenit. <lb/>
+            sequens hancuiam ad id, quod <choice><sic>dictumerat</sic><corr>dictum erat</corr></choice>, id est ad uerum, peruenit. <lb/>
             contende, si placet, ubi pedem ille incedens posuit. sapientiam
 
 <note type="footnote">25 Uerg. Aen. I 401 </note>
@@ -1072,7 +1073,7 @@
             uel peruicacia uel, ut ego interdum arbitror, congrua illi tempori <lb/>
             ratio simul cum ipso tempore et cum ipsius Carneadis Ciceronisque <lb n="15"/>
             corporibus sepulta foret. sed quia siue uitae huius multis uariisqueiactationibus,Romamaneut <lb/>
-            in eodem teprobas, siue ingeniorum <lb/>
+            in eodem <choice><sic>teprobas</sic><corr>te probas</corr></choice>, siue ingeniorum <lb/>
             quodam stupore uel socordia uel tarditate torpentium siue desperatione <lb/>
             inueniendi — quia non quam facile oculis ista lux, tam facile <lb/>
             mentibus sapientiae sidus oboritur — siue etiam, qui error omnino <lb n="20"/>
@@ -1774,7 +1775,7 @@
 <pb n="38"/>
             quidem credant humanis, nedum famae mille quidem, ut poetae <lb/>
             fingunt, sed monstrosis tamen luminibus. nam quis ego tandem sum <lb/>
-            Academiae defensor? an in quacstione ista inuidetis securitati <lb/>
+            Academiae defensor? an in <choice><sic>quacstione</sic><corr>quaestione</corr></choice> ista inuidetis securitati <lb/>
             meae? en habes Alypium, cuius aduentus nobis quaeso ferias <lb/>
             dederit, quem te iam dudum non frustra formidare arbitremur. <lb n="5"/>
             
@@ -1990,7 +1991,7 @@
             sit, de uerbis nulla.- calumnias commouere. quare uide potius, quid <lb/>
             huic respondeas, qui nos liberauit, in quos tu impulsus temtas iterum <lb/>
             inruere. — Et Licentius: Mane, ait, quaeso; nam mihi sublucet nescio <lb/>
-            quid, quod uideam non tibi tam facile tantum argumentum cripi <lb n="20"/>
+            quid, quod uideam non tibi tam facile tantum argumentum <choice><sic>cripi</sic><corr>eripi</corr></choice> <lb n="20"/>
             debuisse. et cum defixus 111 cogitatione siluisset aliquantum: <lb/>
             Rogo, inquit, nihil esse uidetur absurdius quam dicere se ueri <lb/>
             simile sequi eum, qui uerum quid sit ignoret; nec illa me tua similitudo <lb/>
@@ -2500,7 +2501,7 @@
             iam recedendum erit ab Academicis et tecum ista quaestio, <lb/>
             quantum ualemus, diligenter cauteque uersanda. nam illis placuit <lb/>
             uel potius uisum est et esse posse hominem sapientem et tamen in <lb n="5"/>
-            hominem scientiam caderenonposse — quareilli sapientem nihil scire <lb/>
+            hominem scientiam caderenonposse — <choice><sic>quareilli</sic><corr>quare illi</corr></choice> sapientem nihil scire <lb/>
             adfirmarunt — tibi autem uidetur scire sapientiam, quod non est utique <lb/>
             nihil scire. simul enim placuit inter nos, quod etiam inter omnes <lb/>
             ueteres interque ipsos Academicos, scire falsa neminem posse; unde <lb/>
@@ -3726,7 +3727,7 @@
              
 <pb n="79"/>
             illis armis et Philo restitit, donec moreretur, et omnes eius reliquias <lb/>
-            Tullius noster oppressit se uiuo impatiens la befactari uel contaminari <lb/>
+            Tullius noster oppressit se uiuo impatiens <choice><sic>la befactari</sic><corr>labefactari</corr></choice> uel contaminari <lb/>
             quidquid amauisset. adeo post illa tempora non longo interuallo <lb/>
             omni peruicacia pertinaciaque demortua os illud Platonis. quod in <lb/>
             philosophia purgatissimum est et lucidissimum, dimotis nubibus <lb n="5"/>
@@ -3973,7 +3974,7 @@
             libro Ecclesiastae scriptum est: spiritus reuertatur ad <lb/>
             deum, qui dedit illum m. quod utique sic intellegendum est, <lb/>
             ut non resistatur apostolo dicenti nondum natos nihil egisse<lb n="10"/>
-            boniaut mali. sine controuersia ergo quaedam originalis regio <lb/>
+            <choice><sic>boniaut</sic><corr>boni aut</corr></choice> mali. sine controuersia ergo quaedam originalis regio <lb/>
             beatitudinis animi deus ipse est, qui cum non quidem de se ipso <lb/>
             genuit, sed de nulla re alia condidit, sicut condidit corpus e terra. nam <lb/>
             quod adtinet ad eius originem, qua fit, ut sit in corpore, utrum <lb/>

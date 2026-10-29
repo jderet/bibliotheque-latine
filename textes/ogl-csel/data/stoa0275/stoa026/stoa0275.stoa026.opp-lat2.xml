@@ -86,6 +86,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 3 mots collés, 1 mot coupé, 2 mots mal lus.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -196,7 +197,7 @@
             deorum. sic multos inretitos uidemus, dum ante de resurrectione <lb/>
             carnis eliduntur quam de unione diuinitatis. [elidunt] <lb/>
             igitur quantum ad haereticos demonstrauimus, quo <lb n="25"/>
-            cunco occurrendum sit a nobis. et occursum est iam 800 <lb/>
+            <choice><sic>cunco</sic><corr>cuneo</corr></choice> occurrendum sit a nobis. et occursum est iam 800 <lb/>
             quoque titulo: de deo quidem unico et Christo eius aduersus <lb/>
             Marcionem, de carne uero domini etiam aduersus quatuor
 
@@ -467,7 +468,7 @@
              
 <pb n="34"/>
             summum saeculi numen, non quia elephantus, sed quia <lb/>
-            Phidias tantus: deus uiuus, deus uerus quamcumque materise <lb/>
+            Phidias tantus: deus uiuus, deus uerus quamcumque <choice><sic>materise</sic><corr>materiae</corr></choice> <lb/>
             uilitatem non de sua operatione purgasset et ab omni <lb/>
             infirmitate sanasset? an hoc supererit, ut honestius homo <lb/>
             deum quam hominem deus finxerit? nunc etsi scandalum<lb n="5"/>
@@ -1392,7 +1393,7 @@
             commouebuntur, et tunc uidebunt filium hominis uenientem <lb/>
             in nubibus cum plurimo potentatu et gloria. ubi <lb n="20"/>
             autem coeperint ista fieri, emergetis et eleuabitis <lb/>
-            capita uestraquod redemptio uestra adpropinquauerit. <lb/>
+            capita <choice><sic>uestraquod</sic><corr>uestra quod</corr></choice> redemptio uestra adpropinquauerit. <lb/>
             et tamen adpropinquare eam dixit, non adesse iam, <lb/>
             et cum coeperint ista fieri, non cum facta fuerint, quia <lb/>
             cum facta fuerint, tunc aderit redemptio nostra, quae eo <lb n="25"/>
@@ -1464,7 +1465,7 @@
             ut tamen et corporaliter quandoque morituros agnoscat, <lb/>
             utique et resuscitatos proinde spiritaliter deputans aeque non <lb/>
             negat etiam corporaliter resurrecturos. denique: si resurrexistis, <lb/>
-            inquit, c u ill C h ri s to, e a qua e sursum sum sunt t qua erite, <lb/>
+            inquit, c u ill C h ri s to, e a qua e sursum sum sunt t <choice><sic>qua erite</sic><corr>quaerite</corr></choice>, <lb/>
             ubi est Christus in dextera dei residens; ea <lb n="10"/>
             quae sursum sunt sapite, non quae deorsum. ita <lb/>
             animo ostendit resurgere, quo solo adhuc possumus caelestia <lb/>
@@ -1541,7 +1542,7 @@
              
 <pb n="59"/>
             caelis filium eius, quem suscitauit ex mortuis, <lb/>
-            Iesum. et rursus: quae enim spes nostra uelgaudium <lb/>
+            Iesum. et rursus: quae enim spes nostra <choice><sic>uelgaudium</sic><corr>uel gaudium</corr></choice> <lb/>
             uel exultationis corona, quam ut et uos coram <lb/>
             domino nostro Iesu Christo in aduentu ipsius? <lb/>
             item: coram deo et patre nostro in aduentu domini <lb n="5"/>
@@ -2664,7 +2665,7 @@
             caelis, id est: pro hoc, quod dissoluetur caro nostra per <lb/>
             passiones, domicilium consecuturi sumus in caelis. meminerat <lb/>
             euangelicae definitionis: beati, qui persecutionem patiuntur <lb/>
-            propteriustitiam, quia illorum est regnum caelorum <lb n="10"/>
+            <choice><sic>propteriustitiam</sic><corr>propter iustitiam</corr></choice>, quia illorum est regnum caelorum <lb n="10"/>
             m. non tamen carnis restitutionem negauit, si.. compensationem <lb/>
             mercedis opposuit, cum ipsi compensatio debeatur, <lb/>
             cui dissolutio reputatur, scilicet carni. sed quia domum dixerat <lb/>

@@ -89,6 +89,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 17 mots collés, 5 mots mal lus, 3 mots coupés.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -245,7 +246,7 @@ Nostis nos saepe uoluisse Donatistarum haereticorum <lb/>
             incerta sit. et cum fieri possit ita esse conscientiam dantis, ut <lb/>
             scelerata atque maculosa sit et hoc ignoret accipiens, consequenter <lb/>
             fit, ut scelerata origine, scelerata radice, scelerato capite spes <lb/>
-            quoque baptizati uana etinanis existat, quippe cum iste in epistula<lb n="10"/>
+            quoque baptizati uana <choice><sic>etinanis</sic><corr>et inanis</corr></choice> existat, quippe cum iste in epistula<lb n="10"/>
             sua ponat et dicat: <hi rend="italic">omnis res enim origine et radice consistit,<lb/>
              et si caput non habet aliquid nihil est,</hi> cumque originem et <lb/>
             radicem et caput baptizati hominem a quo baptizatur uelit <lb/>
@@ -977,7 +978,7 @@ Nostis nos saepe uoluisse Donatistarum haereticorum <lb/>
 
 <div n="28" subtype="section" type="textpart">
 <p><milestone n="26" unit="altchapter"/> Nisi forte expectatis a me, ut etiam de Manicheo <lb/>
-             quae interposuit refellantur. qua in re nobis non displicetnisi <lb n="25"/>
+             quae interposuit refellantur. qua in re nobis non <choice><sic>displicetnisi</sic><corr>displicet nisi</corr></choice> <lb n="25"/>
             quia pestilentiosissimum et perniciosissimum errorem, id <lb/>
             est Manicheorum haeresem, omnino leuissima et prope nulla <lb/>
             reprehensione culpauit, quem ueritatis fortissimis documentis <lb/>
@@ -1271,7 +1272,7 @@ Nostis nos saepe uoluisse Donatistarum haereticorum <lb/>
             30 non de—ministrat <hi rend="italic">om. PQ</hi> </note> <lb n="30"/>
              
 <pb n="27"/>
-            praedicataut ministrat, sed deputabitur in eis de quibus dictum <lb/>
+            <choice><sic>praedicataut</sic><corr>praedicat aut</corr></choice> ministrat, sed deputabitur in eis de quibus dictum <lb/>
             est: quae dicunt facite, quae autem faciunt facere <lb/>
             nolite. dicunt enim quae dei sunt, faciunt autem quae sua <lb/>
             sunt. nam si ita est, ut dicis, id est fructus baptizantium <lb/>
@@ -1351,7 +1352,7 @@ Nostis nos saepe uoluisse Donatistarum haereticorum <lb/>
             illo concilio uestro, quo Maximianum cum suis auctoribus uel <lb/>
             suis ministris damnastis, excidit tibi quam eloquenter dixeritis: <lb/>
             Aegyptiorum admodum exemplo pereuntium funeribus<lb n="25"/>
-            plena suntlitora, quibus in ipsa morte maior <lb/>
+            plena <choice><sic>suntlitora</sic><corr>sunt litora</corr></choice>, quibus in ipsa morte maior <lb/>
             est poena, quod post extortam aquis ultricibus <lb/>
             animam nec ipsam inueniunt sepulturam? et amen <lb/>
             unus eorum Felicianus utrum reuixerit uos uideritis, secum
@@ -1471,7 +1472,7 @@ Nostis nos saepe uoluisse Donatistarum haereticorum <lb/>
             mouere deberet, quomodo fieri posset, ut nos testamentum <lb/>
             incenderemus et in ea hereditate consisteremus quae illo testamento <lb n="25"/>
             conscripta est; uos autem mirum est testamentum <lb/>
-            seruasse et hereditatem perdidisse. nonne in eo testamento scripturn <lb/>
+            seruasse et hereditatem perdidisse. nonne in eo testamento <choice><sic>scripturn</sic><corr>scriptum</corr></choice> <lb/>
             est: postula a me et dabo tibi gentes <lb/>
             hereditatem tuam et possessionem tuam terminos <lb/>
              terrae? huic hereditati communica et obice mihi de testamento <lb n="30"/>
@@ -1697,7 +1698,7 @@ Nostis nos saepe uoluisse Donatistarum haereticorum <lb/>
             quod ipse posuisti, ut de diabolo diceres: <hi rend="italic">ille accusator<lb/>
              fuit e t in ueritate non stetit,</hi> uide in quos conueniat. <lb/>
             accusatis enim orbem terrarum criminibus aliorum, quos etiam <lb/>
-            ipsos acousare potius quam conuincere potuistis et in ueritate<lb n="5"/>
+            ipsos <choice><sic>acousare</sic><corr>accusare</corr></choice> potius quam conuincere potuistis et in ueritate<lb n="5"/>
             Christi non stetistis. ille enim dicit ecclesiam per omnes gentes <lb/>
             incipientem ab Hierusalem, uos autem in parte Donati. 
 </p>
@@ -2826,7 +2827,7 @@ Nostis nos saepe uoluisse Donatistarum haereticorum <lb/>
             aram quandam in qua scriptum erat: ignoto deo, et <lb/>
             hoc testimonium ad illos in Christo aedificandos assumpsit, ita <lb/>
             ut hoc commemoraret in sermone suo atque subiungeret: quem <lb/>
-            uosignorantes colitis hunc uobis nos adnuntiamus. <lb/>
+            <choice><sic>uosignorantes</sic><corr>uos ignorantes</corr></choice> colitis hunc uobis nos adnuntiamus. <lb/>
             numquid quia uel inter idolorum aras uel a sacrilegis erectam <lb n="25"/>
             aram illam repperit, propterea quod in ea uerum erat damnauit <lb/>
             aut respuit, aut propter uerum quod in ea legerat etiam sacrilegia <lb/>
@@ -4380,7 +4381,7 @@ Nostis nos saepe uoluisse Donatistarum haereticorum <lb/>
 <p>Augustinus respondit: Agnoscimus uerba domini. hinc <lb/>
             et apostolus ait: si fidem habeam ita ut montes transferam, <lb/>
             caritatem autem non habeam, nihil sum. hoc <lb/>
-            ergo quaerendum est, quis habeat caritatem; inuenies non essenisi <lb/>
+            ergo quaerendum est, quis habeat caritatem; inuenies non <choice><sic>essenisi</sic><corr>esse nisi</corr></choice> <lb/>
             eos qui diligunt unitatem. nam de exclusione daemonum <lb n="10"/>
             et de potentia miraculorum, quoniam plerique talia non faciunt <lb/>
             -et tamen ad regnum dei pertinent, plerique autem faciunt et <lb/>
@@ -4614,7 +4615,7 @@ Nostis nos saepe uoluisse Donatistarum haereticorum <lb/>
             qui autem fecerit et sic docuerit, magnus <lb/>
             uocabitur in regno caelorum. et continuo secutus ait: <lb/>
             dico enim uobis, quia nisi abundauerit iustitia <lb/>
-             uestrasuper scribarum etPharisaeorum, non intrabitis <lb n="25"/>
+             <choice><sic>uestrasuper</sic><corr>uestra super</corr></choice> scribarum <choice><sic>etPharisaeorum</sic><corr>et Pharisaeorum</corr></choice>, non intrabitis <lb n="25"/>
             in regnum caelorum. alibi enim Pharisaeos ostendit <lb/>
             et arguit. quoniam dicunt et non faciunt. hos ergo et hic <lb/>
             significauit, cum diceret: qui soluerit et sic docuerit, <lb/>
@@ -4859,8 +4860,8 @@ Nostis nos saepe uoluisse Donatistarum haereticorum <lb/>
             discipulorum praebens inde coepit: pax uobiscum, inquit. <lb/>
             et quomodo esset tenenda pax ipsa, sequentibus uerbis aperuit. <lb n="25"/>
             ibi enim aperuit eis sensum, ut intellegerent scripturas, <lb/>
-            etdixiteis: quoniam sic scriptum est et sic oportebatChristum <lb/>
-            pati et resurgere tertiadie, etpraedicari <lb/>
+            <choice><sic>etdixiteis</sic><corr>et dixit eis</corr></choice>: quoniam sic scriptum est et sic <choice><sic>oportebatChristum</sic><corr>oportebat Christum</corr></choice> <lb/>
+            pati et resurgere tertiadie, <choice><sic>etpraedicari</sic><corr>et praedicari</corr></choice> <lb/>
             in nomine eius paenitentiam et remissionem <lb/>
              peccatorum per omnes gentes, incipientibus ab
 
@@ -5928,7 +5929,7 @@ Nostis nos saepe uoluisse Donatistarum haereticorum <lb/>
             negare ad se pertinere quod fecerint. donet nobis dominus <lb/>
             canticum graduum quo dicere possimus: cum his qui oderant <lb/>
             pacem eram pacificus; cum loquebar eis, deb <lb/>
-            e II a ban t me gratis. dicit enim hoc corpus Christi, quod <lb/>
+            e II a <choice><sic>ban t</sic><corr>bant</corr></choice> me gratis. dicit enim hoc corpus Christi, quod <lb/>
             per totam terram ab aliis hic, ab aliis alibi et ab omnibus <lb n="20"/>
             aliis atque aliis ubicumque sunt haereticis oppugnatur. 
 </p>
@@ -6362,7 +6363,7 @@ Nostis nos saepe uoluisse Donatistarum haereticorum <lb/>
             <hi rend="italic">offi cium facere</hi>? neque enim hoc de paganis dici potuit, <lb/>
             qui non propter deum, sed propter idola christianos persequebantur.\' <lb/>
             non uidetis, si hoc de his imperatoribus dictum esset <lb/>
-            qui gaudent de nomine christiano, hoc eos utique praeeipue <lb/>
+            qui gaudent de nomine christiano, hoc eos utique <choice><sic>praeeipue</sic><corr>praecipue</corr></choice> <lb/>
             fuisse iussuros, ut occideremini? quod numquam omnino iusserunt, <lb n="5"/>
             sed uestri hostili more legibus repugnando poenas <lb/>
             debitas luunt et uoluntarias mortes suas, dum nobis inuidiosas <lb/>
@@ -7334,7 +7335,7 @@ Nostis nos saepe uoluisse Donatistarum haereticorum <lb/>
             esse dei deprecatorem aut aperiunt peccatorem. eant nunc <lb/>
             et osculentur tibi caput qui abs te baptizati sunt, quorum capita <lb/>
              oleo tuo perierunt. sed tu uide quid sis uel quid de te sentias. itane <lb n="25"/>
-            uero Optatus, quem pagani Iudaei christiani nostri uestri per Afr icam <lb/>
+            uero Optatus, quem pagani Iudaei christiani nostri uestri per <choice><sic>Afr icam</sic><corr>Africam</corr></choice> <lb/>
             totam furem raptorem proditorem oppressorem separatorem <lb/>
             et illius, quem quidam uestrum eius dixit comitem deum, non <lb/>
             amicum, non clientem, sed satellitem clamant, non fuit uel <lb/>
@@ -7531,9 +7532,9 @@ Nostis nos saepe uoluisse Donatistarum haereticorum <lb/>
             plebes orare non uultis! tune iustior Paulo, tu perfectior <lb/>
             tanto apostolo, qui eorum quos docebat orationibus se commendabat? <lb/>
             orationi, inquit, instate, uigilantes in illa <lb/>
-            in gratiarum actione, orantessimul etpro nobisut <lb/>
+            in gratiarum actione, orantessimul <choice><sic>etpro</sic><corr>et pro</corr></choice> <choice><sic>nobisut</sic><corr>nobis ut</corr></choice> <lb/>
             deus aperiat nobis ostium uerbi ad loquendum mysterium Christi,<lb n="5"/>
-            pro pter quod et uinctus sum, utmanifestem <lb/>
+            <choice><sic>pro pter</sic><corr>propter</corr></choice> quod et uinctus sum, utmanifestem <lb/>
             illud ita ut oportet me loqui. ecce oratur pro <lb/>
             apostolo, quod fieri non uis pro episcopo. uidesne quam sit ista <lb/>
             diabolica superbia? oratur pro apostolo, ut manifestet mysterium <lb/>
@@ -7860,7 +7861,7 @@ Nostis nos saepe uoluisse Donatistarum haereticorum <lb/>
             ministros Christi et dispensatores mysteriorum dei. <lb/>
             \'hic iam quaeritur inter dispensatores ut fidelis <lb/>
             quis inueniatur. mihi autem minimo est ut a uobis <lb/>
-            iudicer autab humano die; sed neque ego me ipsum <lb/>
+            iudicer <choice><sic>autab</sic><corr>aut ab</corr></choice> humano die; sed neque ego me ipsum <lb/>
             iudico. iam quod sequitur etsi mihi non audeo coaptare, ut <lb n="5"/>
             dicam: nihil enim mihi conscius sum, fidenter tamen <lb/>
             in conspectu dei dico: nihil eorum, quibus Petilianus tempus <lb/>
@@ -8794,14 +8795,14 @@ Nostis nos saepe uoluisse Donatistarum haereticorum <lb/>
             baptismum, si dantis polluta conscientia est et hoc ille <lb/>
             qui est accepturus ignorat?\' illud autem alterum quod additur <lb/>
             \'sciens\', ut non dicatur: nam qui fidem a perfido <lb/>
-            sumpserit,\' sed: gui fidem sciens a perfido sumpserit non <lb/>
+            sumpserit,\' sed: <choice><sic>gui</sic><corr>qui</corr></choice> fidem sciens a perfido sumpserit non <lb/>
             fidem percipit sed reatum,\' fateor, tamquam deesset, me nonnulla <lb n="25"/>
             dixisse quorum iacturam facile patior, quoniam magis <lb/>
             moram meae facilitati afferebant quam adiutorium facultati. <lb/>
             quanto enim expeditius, quanto plenius et breuius sic interrogo: <lb/>
             si conscientia sancte dantis attenditur quae abluat accipientis <lb/>
             et qui fidem sciens a perfido sumpserit non fidem <lb n="30"/>
-            pereipit sed reatum, unde abluitur quem latet non sancte <lb/>
+            <choice><sic>pereipit</sic><corr>percipit</corr></choice> sed reatum, unde abluitur quem latet non sancte <lb/>
             dantis maculosa conscientia, et unde ueram percipit fidem qui
 
 <note type="footnote"> 1 insinuat <hi rend="italic">PQ, cf</hi>. calnmniatar <hi rend="italic">p</hi>. 179, <hi rend="italic">21. 184, 5</hi> 2 cui] cur <hi rend="italic">0</hi> <lb/>
@@ -9696,10 +9697,10 @@ Nostis nos saepe uoluisse Donatistarum haereticorum <lb/>
             fidem, ubi est origo de qua oritur, ubi radix unde <lb/>
             germinat, ubi caput unde incipit? an forte, cum baptizantem <lb/>
             perfidum ille qui baptizatur ignorat, tunc <lb n="15"/>
-            Christus dat fidem, tunc Christus estorigo et radix <lb/>
+            Christus dat fidem, tunc Christus <choice><sic>estorigo</sic><corr>est origo</corr></choice> et radix <lb/>
             et caput? hoc ergo et nunc dico et exclamo, sicut etiam illic <lb/>
             exclamaui: o humana temeritas et superbia! cur non <lb/>
-            sinis potius ut semper Christus det fidem, christianum dando facturus curnon sinis ut semper sit <lb/>
+            sinis potius ut semper Christus det fidem, christianum dando facturus <choice><sic>curnon</sic><corr>cur non</corr></choice> sinis ut semper sit <lb/>
             <lb n="20"/>
             Christus origo christiani, in Christo radicem Christianus <lb/>
             infigat, Christus christiani sit caput?neque <lb/>
@@ -9823,7 +9824,7 @@ Nostis nos saepe uoluisse Donatistarum haereticorum <lb/>
             subieci, quam uesanus error etiam istam sententiam consequatur, <lb/>
             et repetiui illud, licet aliis uerbis, quod paulo ante <lb/>
             dixeram: si, cum occulta est arbor mala, quicumque<lb n="10"/>
-            ab illa fueritbaptizatus non de illa, sed deChristo <lb/>
+            ab illa fueritbaptizatus non de illa, sed <choice><sic>deChristo</sic><corr>de Christo</corr></choice> <lb/>
             nascitur,- sanctius iustificantur qui baptizantur <lb/>
             ab occultis malis quam qui baptizantur a manifestis <lb/>
             bonis. Petilianus ergo his tam uehementibus coartatus <lb/>

@@ -85,7 +85,8 @@
             </langUsage>
         </profileDesc>
         
-  </teiHeader>
+  <revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 3 mots collés, 2 mots mal lus.</change></revisionDesc>
+</teiHeader>
 <text>
 <body>
 <div type="edition" xml:lang="lat" n="urn:cts:latinLit:stoa0203.stoa001.opp-lat2">
@@ -343,7 +344,7 @@
 
 
 <div n="3" subtype="section" type="textpart"><p>et illam ocnloram etiam in seriis hilaritatem requiro. tum <lb n="5"/>
-            ille: Iam dudum meOctaui nostri acriter angit et remordet oratio, <lb/>
+            ille: Iam dudum <choice><sic>meOctaui</sic><corr>me Octaui</corr></choice> nostri acriter angit et remordet oratio, <lb/>
             qua in te inuectus obiurgauit neglegentiae, ut me dissimulanter  <lb/>
             grauius argueret inscientiae.. 
 </p>
@@ -820,7 +821,7 @@
 </div>
 
 
-<div n="5" subtype="section" type="textpart"><p>            sacerdotum, honores etpurpuras despiciunt, ipsi seminudi, pro <lb/>
+<div n="5" subtype="section" type="textpart"><p>            sacerdotum, honores <choice><sic>etpurpuras</sic><corr>et purpuras</corr></choice> despiciunt, ipsi seminudi, pro <lb/>
             mira stultitia et incredibilis audacia! spernunt tormenta praesentia,<lb/>
             dum incerta metuunt et futura, et dum mori post mortem <lb/>
             timent, interim mori non timent: ita illis pauorem fallax spes <lb n="20"/>
@@ -2118,7 +2119,7 @@
 </div>
 
 
-<div n="4" subtype="section" type="textpart"><p>quid lllas aniles fabulas, de hominibus <lb/>
+<div n="4" subtype="section" type="textpart"><p>quid <choice><sic>lllas</sic><corr>illas</corr></choice> aniles fabulas, de hominibus <lb/>
             aues et feras, t homines et de hominibus arbores atque flores ? <lb/>
             quae si essent facta, fierent: quia fieri non possunt, ideo nec facta  <lb/>
             sunt. 
@@ -3452,7 +3453,7 @@
 </div>
 
 
-<div n="31" subtype="chapter" type="textpart"><div n="1" subtype="section" type="textpart"><p> Et de incesto conniuio fabulam grandem aduersum nos daemonum<lb/>
+<div n="31" subtype="chapter" type="textpart"><div n="1" subtype="section" type="textpart"><p> Et de incesto <choice><sic>conniuio</sic><corr>conuiuio</corr></choice> fabulam grandem aduersum nos daemonum<lb/>
             coitio mentita est, ut gloriam pudicitiae deformis infamiae <lb/>
             aspersione macularet, ut ante exploratam ueritatem homines a  <lb/>
             nobis terrore infandae opinionis auerteret. 
@@ -4167,7 +4168,7 @@ aut  <lb/>
 </div>
 
 
-<div n="5" subtype="section" type="textpart"><p>uiros cumMucio uel cum Aquilio aut Regulo comparo? <lb/>
+<div n="5" subtype="section" type="textpart"><p>uiros <choice><sic>cumMucio</sic><corr>cum Mucio</corr></choice> uel cum Aquilio aut Regulo comparo? <lb/>
             pueri et mulierculae nostrae cruces et tormenta, feras et omnes  <lb/>
             suppliciorum terriculas inspirata patientia doloris inludunt. 
 </p>

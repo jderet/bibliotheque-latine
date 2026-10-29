@@ -84,6 +84,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 42 mots mal lus, 9 mots coupés, 9 césures, 12 mots collés.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -158,8 +159,7 @@
           <p>11. De causis originalibus creaturarum naturalium, quas <lb/>
             mundo creator inseruit. ex eodem libro III. de trinitate. 
 </p>
-          <p>_12. De simplo saluatoris nostri, quod ad duplum no- <lb/>
-            strum concurrit et congruit. ex libro de trinitate IIII. 
+          <p>_12. De simplo saluatoris nostri, quod ad duplum no<lb break="no"/>strum concurrit et congruit. ex libro de trinitate IIII. 
 </p>
           <p>13. De mediatore ad mortem diabolo et mediatore ad <lb n="20"/>
             uitam Christo Iesu. ex eodem libro de trinitate IIII. 
@@ -446,7 +446,7 @@
 </p>
           <p>LIII. 68. Quod requies sabbati etiam in sepultura dominica <lb n="30"/>
             possit intellegi et octaui diei circumcisio exspoliationem <lb/>
-            mortalitatis siguificet. in XVI.
+            mortalitatis <choice><sic>siguificet</sic><corr>significet</corr></choice>. in XVI.
 
 <note type="footnote"> 26 Deut. 21, 23 28 Deut. 28, 66 </note>
 
@@ -806,7 +806,7 @@
 </p>
 <pb n="18"/>
             
-          <p>CXLIIII. 160. De promissione aeternae beatitndinis sanctorum <lb/>
+          <p>CXLIIII. 160. De promissione aeternae <choice><sic>beatitndinis</sic><corr>beatitudinis</corr></choice> sanctorum <lb/>
             et perpetuis suppliciis impiorum. 
 </p>
           <p>CXLV. 161. Contra sapientes mundi, qui putant terrena hominum <lb/>
@@ -919,7 +919,7 @@
             gaudere uoluerunt; ubi quae sit uera ciborum parsimonia <lb/>
             pulcherrima oratio. 
 </p>
-          <p>[185. De uoracitate etiam in uilissimis cibis aita.nda.]<lb n="5"/>
+          <p>[185. De uoracitate etiam in uilissimis cibis <choice><sic>aita</sic><corr>alta</corr></choice>.nda.]<lb n="5"/>
             
 </p>
           <p>CLXVIIII. 186. De impossibilitate ieiunandi sub praesentia <lb/>
@@ -1176,7 +1176,7 @@
             
 </p>
           <p>CCXXX. 251. De his scripturae locis, de quibus dubium est <lb/>
-            an propter assumtam creaturam minorem patre indicant <lb/>
+            an propter <choice><sic>assumtam</sic><corr>assum tam</corr></choice> creaturam minorem patre indicant <lb/>
             filium, an uero hoc tantum, quod licet aequalem patri, <lb/>
             tamen quia de patre sit doceant. 
 </p>
@@ -2244,7 +2244,7 @@
             <hi rend="italic">T</hi> 30 sine m. inquit <hi rend="italic">T</hi> </note> <lb n="30"/>
              
 <pb n="48"/>
-            non fecit misericordiam. hinc enim et dominus: dimi ttite, <lb/>
+            non fecit misericordiam. hinc enim et dominus: <choice><sic>dimi ttite</sic><corr>dimittite</corr></choice>, <lb/>
             inquit, et dimittetur uobis; date, et dabitur <lb/>
             uobis. superexsultat autem misericordia iudicio. <lb/>
             non dictum est: uincit misericordia iudicium; non enim <lb/>
@@ -2495,7 +2495,7 @@
             hanc esset in carceribus caliginosi huius aeris aeterno suppli <lb/>
             destinatus. haec enim uitia, quae tenent in diabolo principatu <lb/>
             carni tribuit apostolus, quam certum est diabolum non habe? <lb/>
-            dicit enim inimicitias, contentiones, aemulationes, animositat? <lb/>
+            dicit enim inimicitias, contentiones, aemulationes, <choice><sic>animositat</sic><corr>animo sit at</corr></choice>? <lb/>
             inuidias opera esse carnis. quorum omnium malorum ca? <lb/>
             atque origo superbia est, quae sine carne regnat in diabo? <lb/>
             quis autem illo est inimicior sanctis? quis aduersus eos cc <lb/>
@@ -5166,8 +5166,7 @@ V            securus esse debet in ista uita, quae tota temtatio nominatur, <lb/
             deum temtationibus uisibiliter diuina explorare <lb/>
             molientibus: non temtabis, inquit, dominum deum <lb n="25"/>
             tuum. quam ob rem quisquis intus dei uerbo pascitur, non <lb/>
-            quaerit in ista heremo uoluptatem; qui uni deo tantum sub- <lb/>
-            iectus est, non quaerit in monte, id est in terrena elatione
+            quaerit in ista heremo uoluptatem; qui uni deo tantum sub<lb break="no"/>iectus est, non quaerit in monte, id est in terrena elatione
 
 <note type="footnote"> 4 I Io. 2, 16 11 Matth. 4, 1-10 et LucI 4, 2-12 </note>
 
@@ -5193,7 +5192,7 @@ V            securus esse debet in ista uita, quae tota temtatio nominatur, <lb/
           <p> Nos in terra laboramus et cum magno dedecore superamur <lb/>
             ab omnibus quae nos commouere ac perturbare potuerint. <lb/>
             itaque nolumus ab hominibus uinci et iram non possumus <lb/>
-            uinoere. qua turpitudine quid execrabilius dici potest? fatemur <lb/>
+            <choice><sic>uinoere</sic><corr>uincere</corr></choice>. qua turpitudine quid execrabilius dici potest? fatemur <lb/>
             hominem hoc esse quod nos sumus, qui tametsi habeat <lb n="10"/>
             uitia non est tamen ipse uitium. quanto igitur honestius <lb/>
             homo nos uincit quam uitium? quis autem dubitet immane <lb/>
@@ -6298,7 +6297,7 @@ V            securus esse debet in ista uita, quae tota temtatio nominatur, <lb/
             26 pterea <hi rend="italic">P</hi> 28 ferebatur <hi rend="italic">v</hi> aquas P </note> <lb/>
              
 <pb n="145"/>
-            riae aquae nomine appellare uotuit totam corporalem materiam, <lb/>
+            riae aquae nomine appellare <choice><sic>uotuit</sic><corr>uetuit</corr></choice> totam corporalem materiam, <lb/>
             ut eo modo insinuaret unde facta et formam. sint omnia, <lb/>
             quae in suis generibus iam dinoscere possumus, appellans <lb/>
             aquam, quia ex humida natura uidemus omnia in terra per <lb/>
@@ -6314,7 +6313,7 @@ V            securus esse debet in ista uita, quae tota temtatio nominatur, <lb/
             in ipso exordio inchoatae creaturae quae caeli et <lb/>
             terrae nomine i. propter id quod ( de illa perficiendum erat <lb n="15"/>
             commemorata est trinitas insinuatur creatoris- nam- ; di,.. <lb/>
-            cente. scriptura, in principio fecit deus caelum et <lb/>
+            <choice><sic>cente</sic><corr>gente</corr></choice>. scriptura, in principio fecit deus caelum et <lb/>
             terram, intellegimus patrem in dei nomine et filium in <lb/>
             principii nomine, qui non patri, sed per se ipsum creatae <lb/>
             primitus ac potissimum spiritali creaturae et consequenter <lb n="20"/>
@@ -6399,7 +6398,7 @@ V            securus esse debet in ista uita, quae tota temtatio nominatur, <lb/
             deum esse credimus. quod autem deus fecerit. mundum nulli <lb/>
             potius credimus quam ipsi deo. ubi eum audimus P nusquam <lb/>
             interim nos melius quam in scripturis sanctis, ubi dixit propheta <lb/>
-            eius: in principio feoit deus caelum et terram. <lb/>
+            eius: in principio <choice><sic>feoit</sic><corr>fecit</corr></choice> deus caelum et terram. <lb/>
             numquidnam ibi fuit iste propheta, quando fecit deus caelum <lb n="15"/>
             et terram? non; sed ibi fuit sapientia dei, per quam facta <lb/>
             sunt omnia, quae in animas etiam sanctas se transfert, amicos <lb/>
@@ -6547,8 +6546,8 @@ V            securus esse debet in ista uita, quae tota temtatio nominatur, <lb/
             modo laeta dicatur, quo significamus per id quod continet id <lb/>
             quod continetur; sicut "theatra plaudunt"  "prata mugiunt",cum <lb/>
             in iliis homines plaudant, in his boues mugiant; sed etiam<lb n="5"/>
-            illo quo signifieatur per efficientem id quod efficitur, sicut <lb/>
-            laeta epistula dicitur, significans eerum laetitiam quos legentes <lb/>
+            illo quo <choice><sic>signifieatur</sic><corr>significatur</corr></choice> per efficientem id quod efficitur, sicut <lb/>
+            laeta epistula dicitur, significans <choice><sic>eerum</sic><corr>eorum</corr></choice> laetitiam quos legentes <lb/>
             efficit laetos. conuenientissime itaque, cum deum requieuisse <lb/>
             prophetica narrat auctoritas, significatur requies eorum qui in <lb/>
             illo requiescunt et quos facit ipse requiescere ; hoc etiam<lb n="10"/>
@@ -6832,9 +6831,9 @@ V            securus esse debet in ista uita, quae tota temtatio nominatur, <lb/
 <pb n="160"/>
             finem fuerant ha-bitura. quae si diligentius dicta intellegantur, <lb/>
             ea fortasse I quae illis sacramentis significabantur finem non <lb/>
-            erant babitura: ita «nim, ne longius ab eam, dioimus aeternum <lb/>
+            erant <choice><sic>babitura</sic><corr>habitura</corr></choice>: ita «nim, ne longius ab eam, dioimus aeternum <lb/>
             deum, non utique duas istas breuissimas syllabas, sed quod <lb/>
-            eis significatur; dixit apostolus tempora aeterna priera ei<lb n="5"/>
+            eis significatur; dixit apostolus tempora aeterna <choice><sic>priera</sic><corr>priora</corr></choice> ei<lb n="5"/>
             antiqua, quod: in graeco legitur <hi rend="italic"><foreign xml:lang="grc">πϱό χϱόνων αἰωνίων</foreign>;</hi> ad Titum <lb/>
             enim scribens ait: spem uitae aeternae, quam promisit <lb/>
             non mendax deus ante tempora aeterna.cum<lb/>
@@ -6848,7 +6847,7 @@ V            securus esse debet in ista uita, quae tota temtatio nominatur, <lb/
             ibunt illi in ambustionem aeternam iusti autem <lb/>
             in uitam aeternam: in utroque graecus <foreign xml:lang="grc">αἰωνίων</foreign>.si misericordia <lb/>
             nos prouocat credere non futurum impiorum sine fine <lb/>
-            supplicium, quid de praemio iusterum credituri sumus, cum <lb/>
+            supplicium, quid de praemio <choice><sic>iusterum</sic><corr>iustorum</corr></choice> credituri sumus, cum <lb/>
             in utraque . parte eodem loco eadem sententia, - eodem uerbo <lb n="20"/>
             praenuntietur aeternitas ? an iterum etiam iustos ex illa <lb/>
             sanctificatione et uita aeterna in peccatorum immunditiam atque <lb/>
@@ -7640,7 +7639,7 @@ V            securus esse debet in ista uita, quae tota temtatio nominatur, <lb/
             auertit superbia tumidus et propriae potestatis delectatione <lb n="20"/>
             corruptus, unde beatae atque angelicae uitae dulcedinem non <lb/>
             gustauit, quam non utique acceptam fastidiuit, sed nolendo <lb/>
-            aocipere deseruit et amisit. proinde nec sui casus praescius <lb/>
+            <choice><sic>aocipere</sic><corr>accipere</corr></choice> deseruit et amisit. proinde nec sui casus praescius <lb/>
             esse potuit, quoniam sapientia pietatis est fructus. ille autem <lb/>
             continuo impias, consequenter et mente caecatus non ex eo <lb n="25"/>
             quod acceperat cecidit, sed ex eo quod acciperet, si subdi
@@ -7667,8 +7666,7 @@ V            securus esse debet in ista uita, quae tota temtatio nominatur, <lb/
             
 </p>
           <p>Quod ergo per Esaiam prophetam in eum dicitur: quomodo <lb/>
-            cecidit de caelo lueifer mane oriens, con- <lb/>
-            tritus est in terram qui mittebat ad omnes gentes? <lb/>
+            cecidit de caelo <choice><sic>lueifer</sic><corr>lucifer</corr></choice> mane oriens, con<lb break="no"/>tritus est in terram qui mittebat ad omnes gentes? <lb/>
             tu autem dixisti sensu tuo: in caelum ascendam, <lb/>
             super sidera caeli ponam thronum meum, sedebo <lb n="10"/>
             in monte excelso super montes excelsos, qui sunt <lb/>
@@ -7867,7 +7865,7 @@ V            securus esse debet in ista uita, quae tota temtatio nominatur, <lb/
             ac <hi rend="italic">P* in ras</hi>. proficiunt P.\' </note> <lb/>
              
 <pb n="185"/>
-            non orearet deus quos praesciebat malos futuros. cur enim <lb/>
+            non <choice><sic>orearet</sic><corr>crearet</corr></choice> deus quos praesciebat malos futuros. cur enim <lb/>
             non crearet quos praesciebat bonis profuturos, ut et utiles <lb/>
             eorum bonis uoluntatibus exercendis admonendisque nascantur <lb/>
             et iuste pro sua mala uoluntate puniantur? 
@@ -8242,7 +8240,7 @@ V            securus esse debet in ista uita, quae tota temtatio nominatur, <lb/
 <pb n="194"/>
             quamuis eam casta et bona iura nuptiarum non sinant ualere, <lb/>
             nisi quantum ex ea possunt generi substituendo prospicere. <lb/>
-            non autem et ille ibi decimatus est cuius caro inde non fernorem <lb/>
+            non autem et ille ibi decimatus est cuius caro inde non <choice><sic>fernorem</sic><corr>feruorem</corr></choice> <lb/>
             uulneris, sed materiem medicaminis traxit. nam cum <lb/>
             ipsa decimatio ad praefigurandam medicinam pertinuerit, illud<lb n="5"/>
             in Abrahae carne decimabatur quod curabatur, non illud unde <lb/>
@@ -9238,7 +9236,7 @@ V            securus esse debet in ista uita, quae tota temtatio nominatur, <lb/
              
 <pb n="218"/>
             superiorum - et haec appellauit tricamerata — ut ab ineo <lb/>
-            sursum uersus tertia consurgeret habitatio: possuut hic intellegi <lb/>
+            sursum uersus tertia consurgeret habitatio: <choice><sic>possuut</sic><corr>possunt</corr></choice> hic intellegi <lb/>
             et tria illa quae commendat apostolus, fides, spes, <lb/>
             caritas; possunt etiam multo conuenientius tres illae ubertates <lb/>
             euangelicae, tricena, sexagena, centena, ut in infimo habitet<lb n="5"/>
@@ -10451,7 +10449,7 @@ V            securus esse debet in ista uita, quae tota temtatio nominatur, <lb/
             resurrexisse nouerat et ultra ei mortem non dominaturam. et <lb/>
             quia omnes in illo, etsi nondum re, iam tamen spe hoc sumus, <lb/>
             sequitur et dicit: si qua igitur in Christo, nona creatura; <lb/>
-            netera transierunt, ecce facta sunt omnia <lb/>
+            <choice><sic>netera</sic><corr>uetera</corr></choice> transierunt, ecce facta sunt omnia <lb/>
             noua; omnia autem ex deo, qui reconciliauit nos <lb n="5"/>
             sibi per Christum. omnis ergo nona creatura — id est populus <lb/>
             innouatus per fidem, ut habeat interim in spe quod in re <lb/>
@@ -10462,7 +10460,7 @@ V            securus esse debet in ista uita, quae tota temtatio nominatur, <lb/
             nona secundum eandem spem, ut regnum caelorum, ubi nulla <lb/>
             erit mors atque corruptio, promissum teneamus. in resurrectione <lb/>
             autem mortuorum non iam secundum spem, sed secundum <lb/>
-            rem et netera transibunt, cum inimica nouissima <lb n="15"/>
+            rem et <choice><sic>netera</sic><corr>uetera</corr></choice> transibunt, cum inimica nouissima <lb n="15"/>
             destruetur mors; et fient omnia noua,, cum corruptibile <lb/>
             hoc induerit incorruptionem et mortale hoc induerit immortalitatem. <lb/>
             quod iam factum est in Christo, quem secundum <lb/>
@@ -10705,7 +10703,7 @@ V            securus esse debet in ista uita, quae tota temtatio nominatur, <lb/
             sunt salutem nostram crucifigendo Christum, qui mortuus est <lb/>
             propter delicta nostra. nec eis dedit eadem terra uirtutem <lb/>
             suam, quia non iustificati sunt uirtute resurrectionis eius qui <lb/>
-            resnrrexit propter iustificationem nostram; quia etsi crucifixus <lb/>
+            <choice><sic>resnrrexit</sic><corr>resurrexit</corr></choice> propter iustificationem nostram; quia etsi crucifixus <lb/>
             est in infirmitate, sed uiuit in uirtute dei, <lb n="15"/>
             sicut dicit apostolus. haec ergo est uirtus terrae illius, quam <lb/>
             non ostendit impiis et incredulis. unde nec resurgens eis a <lb/>
@@ -13967,8 +13965,7 @@ V            securus esse debet in ista uita, quae tota temtatio nominatur, <lb/
             nihil a Sodomitis tale paterentur, utrum admittenda sit compensatio <lb/>
             flagitiorum uel quorumque peccatorum, ut nos faciamus <lb n="10"/>
             mali aliquid, ne alius grauius malum faciat, an potius <lb/>
-            perturbationi Loth, non consilio- tribuendum sit quia hoc di- <lb/>
-            xerit, merito quaeritur. et nimirum periculosissime admittitur <lb/>
+            perturbationi Loth, non consilio- tribuendum sit quia hoc di<lb break="no"/>xerit, merito quaeritur. et nimirum periculosissime admittitur <lb/>
             haec compensatio. si autem perturbationi humanae tribuitur <lb/>
             et menti tanto malo permotae, nullo modo imitanda est. <lb n="15"/>
             
@@ -14042,7 +14039,7 @@ V            securus esse debet in ista uita, quae tota temtatio nominatur, <lb/
           </ab>
           <p>Vox angeli de caelo ad Abraham: ne inicias manum  <lb n="5"/>
             in puerum neque facias ei quicquam; modo enim <lb/>
-            cognoni quoniam times deum tu. etiam ista quaestio <lb/>
+            <choice><sic>cognoni</sic><corr>cognoui</corr></choice> quoniam times deum tu. etiam ista quaestio <lb/>
             simili locutione soluitur. hoc est enim: nunc cognoui <lb/>
             quoniam times deum tu, quod significat: "nunc te feci <lb/>
             cognoscere". in consequentibus autem hoc genus locutionis <lb n="10"/>
@@ -15207,7 +15204,7 @@ V            securus esse debet in ista uita, quae tota temtatio nominatur, <lb/
             est posteaquam ex Aegypto liberati sunt; ut hyperbaton hic <lb/>
             intellegatur et ordo uerborum sit: sciendo scies, quia <lb n="5"/>
             peregrinum erit semen tuum in terra non propria <lb/>
-            quadringen tis annis; illud autem interpositum intellegatur: <lb/>
+            <choice><sic>quadringen tis</sic><corr>quadringentis</corr></choice> annis; illud autem interpositum intellegatur: <lb/>
             et in seruitutem redigent eos et nocebunt <lb/>
             illis, ita ut ad quadringentos annos ista interpositio non pertineat <lb/>
             in extrema enim parte annorum summae huius, hoc <lb n="10"/>
@@ -15722,7 +15719,7 @@ V            securus esse debet in ista uita, quae tota temtatio nominatur, <lb/
             plaga et grauior mors. multi mortui ambulant et multi <lb/>
             facinorosi de diuitiis exsultant. denique seruum dei scriptura <lb/>
             intus dicit locupletem: absconditus, inquit, cordis uestri <lb/>
-            homo, qui est ante deumdiues. non ante homines diues, <lb/>
+            homo, qui est ante <choice><sic>deumdiues</sic><corr>deum diues</corr></choice>. non ante homines diues, <lb/>
             sed ante deum diues; ubi deus uidet, ibi diues. quid ergo <lb n="15"/>
             tibi prodest? ubi homo non uidet furaris, et ubi deus uidet <lb/>
             grandinaris. 
@@ -16502,14 +16499,14 @@ V            securus esse debet in ista uita, quae tota temtatio nominatur, <lb/
             sententiae dominus quoque attestatur dicens: baptismo habeo <lb/>
             baptizari, quem uos nescitis. hoc enim ait, cum <lb/>
             dixisset: ignem ueni mittere in mundum. dicit enim <lb/>
-            Iohannes: ipse uos baptizabit in spiritu sanoto et <lb/>
+            Iohannes: ipse uos baptizabit in spiritu <choice><sic>sanoto</sic><corr>sancto</corr></choice> et <lb/>
             igni, quod intellegitur et purgatione sanctificationis et pro-10 <lb n="10"/>
             batione tribulationis. eundem ignem significauit etiam ipse, <lb/>
             cum ad passionem duceretur; ubi dixit illis qui eum plangebant, <lb/>
             quod super se potius plangere deberent. ita enim terminauit, <lb/>
             ut diceret: si in uiridi ligno hoc faciunt, in <lb/>
             arido quid facient? monentur enim boni, ne ad Christum <lb n="15"/>
-            crucifigendum malis consentiant. dictus est enim a gnus dei, <lb/>
+            crucifigendum malis consentiant. dictus est enim <choice><sic>a gnus</sic><corr>agnus</corr></choice> dei, <lb/>
             qui tollet peccata mundi. non ergo coques agnum <lb/>
             in lacte matris suae: non ingeres Christo ignem passionis <lb/>
             in illo die, quo conceptus est; tunc enim et passus traditur, <lb/>
@@ -17956,7 +17953,7 @@ V            securus esse debet in ista uita, quae tota temtatio nominatur, <lb/
              cruci <hi rend="italic">PTv</hi> </note> <lb/>
              
 <pb n="427"/>
-            et simul nos excitanit et simul sedere fecit in caelestibus. <lb/>
+            et simul nos <choice><sic>excitanit</sic><corr>excitauit</corr></choice> et simul sedere fecit in caelestibus. <lb/>
             unde est illa exhortatio: quae sursum sunt sapite, non <lb/>
             quae super terram. sed quia sequitur et dicit: mortui <lb/>
             enim estis, et uita uestra abscondita est cum Christo <lb/>
@@ -18165,7 +18162,7 @@ V            securus esse debet in ista uita, quae tota temtatio nominatur, <lb/
              om, n 24 terrae] om. v 28 putabamus <hi rend="italic">V:</hi> aestimabamua <hi rend="italic">PTfJ</hi> </note> <lb/>
              
 <pb n="432"/>
-            insan iam. ac per hoc spiritus sanctus de uisibilibus ad <lb/>
+            <choice><sic>insan iam</sic><corr>insaniam</corr></choice>. ac per hoc spiritus sanctus de uisibilibus ad <lb/>
             inuisibilia et de corporalibus ad spiritalia sacramenta similitudinem <lb/>
             ducens transitum illum de alia uita in aliam uitam, <lb/>
             quod pascha nominatur, a XIIII luna uoluit obseruari, ut non <lb/>
@@ -19170,8 +19167,7 @@ V            securus esse debet in ista uita, quae tota temtatio nominatur, <lb/
             commemoras, iusti fulgebunt sicut sol in regno<lb n="5"/>
             patris sui. et quod propheta dicit: ecce enim caligo et <lb/>
             tenebrae operient terram super gentes, in te uero <lb/>
-            apparebit dominus et maiestas eius in te uide- <lb/>
-            bitur. item quod scriptum est: qui uero exspectant <lb/>
+            apparebit dominus et maiestas eius in te uide<lb break="no"/>bitur. item quod scriptum est: qui uero exspectant <lb/>
             dominum, exsultabunt cum uirtute, producent pinnas<lb n="10"/>
             sicut aquilae, current et non laborabunt, ambulabunt <lb/>
             et non esurient. hoc plane piissime et uerissime <lb/>
@@ -19502,7 +19498,7 @@ V            securus esse debet in ista uita, quae tota temtatio nominatur, <lb/
 </p>
           <p rend="script">Ait ipse dominus Iesus Christus: nemo potest introire <lb n="10"/>
             in domum fortis et uasa eius eripere, nisi primo <lb/>
-            all iga uerit fortem, diabolum uolens intellegi fortem, quia <lb/>
+            <choice><sic>all iga</sic><corr>alliga</corr></choice> uerit fortem, diabolum uolens intellegi fortem, quia <lb/>
             ipse genus humanum potuit tenere captiuum; uasa uero eius, <lb/>
             quae fuerat erepturus, fideles suos futuros, quos ille in diuersis <lb/>
             peccatis atque impietatibus possidebat. ut ergo alligaretur<lb n="15"/>
@@ -19988,7 +19984,7 @@ V            securus esse debet in ista uita, quae tota temtatio nominatur, <lb/
             quod ait in epistula sua Iohannes euangelista: <lb/>
             pueri, nouissima hora est; et sicut audistis, quod <lb/>
             antichristus sit uenturus, nunc autem antichristi <lb/>
-            multi facti sunt; unde cognoscimus, quod nonissima <lb/>
+            multi facti sunt; unde cognoscimus, quod <choice><sic>nonissima</sic><corr>nouissima</corr></choice> <lb/>
             sit hora. ex nobis exierunt, sed non erant ex<lb n="10"/>
             nobis; quod si fuissent ex nobis, permansissent <lb/>
             utique nobiscum. sicut ergo ante finem in hac hora, <lb/>
@@ -20247,8 +20243,7 @@ V            securus esse debet in ista uita, quae tota temtatio nominatur, <lb/
             ante aduentum iudicis saluatoris non immerito speratur esse <lb/>
             uenturus, quia etiam nunc uiuere non immerito creditur. <lb/>
             curru namque igneo raptus est de rebus humanis, quod euidentissime <lb/>
-            sancta scriptura testatur. cum uenerit ergo expo- <lb/>
-            nendo legem spiritaliter, quam nunc Iudaei carnaliter sapiunt,<lb n="20"/>
+            sancta scriptura testatur. cum uenerit ergo expo<lb break="no"/>nendo legem spiritaliter, quam nunc Iudaei carnaliter sapiunt,<lb n="20"/>
             conuertet cor patris ad filium, id est cor patrum ad filios. <lb/>
             singularem quippe pro numero plurali interpretes septuaginta <lb/>
             posuerunt; et est sensus, ut etiam filii sic intellegant legem, <lb/>
@@ -20782,7 +20777,7 @@ V            securus esse debet in ista uita, quae tota temtatio nominatur, <lb/
             quibus affliguntur quorum uita uel non inde fit melior uel <lb/>
              potius inde fit prior; sed illis sunt purgatoriae qui eis coherciti <lb n="20"/>
             corriguntur. ceterae omnes poenae siue temporariae siue <lb/>
-            sempiternae, sicut unusquisque diuina prouidontia tractandus <lb/>
+            sempiternae, sicut unusquisque diuina <choice><sic>prouidontia</sic><corr>prouidentia</corr></choice> tractandus <lb/>
             est, inferuntur uel pro peccatis siue praeteritis siue in quibus <lb/>
             adhuc uiuit ille qui plectitur, uel pro exercendis declarandisque <lb/>
             uirtutibus per homines et angelos seu bonos seu malos. <lb n="25"/>
@@ -21555,7 +21550,7 @@ V            securus esse debet in ista uita, quae tota temtatio nominatur, <lb/
 <note type="footnote"> 33 </note> <lb/>
              
 <pb n="514"/>
-            iustum in nomine iusti, meroedem iusti accipiet. <lb/>
+            iustum in nomine iusti, <choice><sic>meroedem</sic><corr>mercedem</corr></choice> iusti accipiet. <lb/>
             nam cum Elysios campos poeta ille describeret, ubi putant <lb/>
             habitare animas beatorum, non solum ibi posuit eos qui <lb/>
             propriis meritis ad illas sedes peruenire potuerunt, sed adiecit <lb/>
@@ -22225,7 +22220,7 @@ V            securus esse debet in ista uita, quae tota temtatio nominatur, <lb/
             quaestio uertebatur, ut eam negato sexu muliebri celeriore <lb/>
             facilitate dissolueret, si eum ibi praenosceret non futurum;<lb n="20"/>
             immo etiam futurum esse firmauit dicendo: non nubent, <lb/>
-            quod ad feminas pertinet, nec uxo res ducent, quod ad <lb/>
+            quod ad feminas pertinet, nec <choice><sic>uxo res</sic><corr>uxores</corr></choice> ducent, quod ad <lb/>
             uiros. erunt ergo quae uel nubere hic solent uel ducere <lb/>
             uxores; sed ibi hoc non facient.
 
@@ -22307,8 +22302,7 @@ V            securus esse debet in ista uita, quae tota temtatio nominatur, <lb/
             fame depastas atque consumtas perire potuisse. quibus <lb/>
             omnibus pro nostro modulo consideratis atque tractatis haec <lb/>
             summa conficitur, ut in resurrectione carnis in aeternum eas <lb/>
-            mensuras habeat corporum magnitudo, quas habebat per- <lb n="20"/>
-            ficiendae siue perfectae cuiusque indita corporis ratio iuuentutis, <lb/>
+            mensuras habeat corporum magnitudo, quas habebat per<lb n="20" break="no"/>ficiendae siue perfectae cuiusque indita corporis ratio iuuentutis, <lb/>
             in membrorum quoque omnium modulis congruo decore <lb/>
             seruato. quod decus ut seruetur, si aliquid demtum fuerit <lb/>
             indecenti alicui granditati in parte aliqua constitutae, quod <lb/>
@@ -22939,7 +22933,7 @@ V            securus esse debet in ista uita, quae tota temtatio nominatur, <lb/
             in carne mea uidebo deum, ac si dixisset: "in carne mea <lb/>
             ero, cum uidebo deum". et illud quod ait apostolus: facie <lb/>
             ad faciem non cogit, ut deum per hanc faciem corporalem, <lb n="25"/>
-            ubi sunt oculi corporales, nos nisuros esse credamus, quem
+            ubi sunt oculi corporales, nos <choice><sic>nisuros</sic><corr>uisuros</corr></choice> esse credamus, quem
 
 <note type="footnote"> 1 Eph. 1, 18 3 Matth. 5, 8 7 Luc. 3, 6 14 Luc. <lb/>
             2, 29 sq. 18 (et 23) Iob. 19, 26 24 I Cor. 13, 12 </note>
@@ -22998,7 +22992,7 @@ V            securus esse debet in ista uita, quae tota temtatio nominatur, <lb/
             22 audiat (i ita e <hi rend="italic">corr. m. 2) G</hi> 24 oculus P1 </note> <lb/>
              
 <pb n="549"/>
-            propheta non per corpus, sed per spiritum nidit. sicut ergo <lb/>
+            propheta non per corpus, sed per spiritum <choice><sic>nidit</sic><corr>uidit</corr></choice>. sicut ergo <lb/>
             constat corpora uideri spiritu, quid, si tanta erit potentia <lb/>
             spiritalis corporis, ut corpore uideatur et spiritus? spiritus <lb/>
             enim est deus. deinde uitam quidem suam, qua nunc uiuit <lb/>
@@ -23757,7 +23751,7 @@ V            securus esse debet in ista uita, quae tota temtatio nominatur, <lb/
             <hi rend="italic">A</hi> 24 petrus (s <hi rend="italic">a m. 2</hi> in <hi rend="italic">ras.) P</hi> </note> <lb n="25"/>
              
 <pb n="567"/>
-            factamesse uocem de nube; quod illi non dixerunt, sed nec contradixerunt. <lb/>
+            <choice><sic>factamesse</sic><corr>factam esse</corr></choice> uocem de nube; quod illi non dixerunt, sed nec contradixerunt. <lb/>
             </p>
           </div>
 
@@ -24659,7 +24653,7 @@ V            securus esse debet in ista uita, quae tota temtatio nominatur, <lb/
             25 cupediae] cupidiae P cupiditati <hi rend="italic">Gl</hi> cupiditatis <hi rend="italic">G\'fJ</hi> </note> <lb n="25"/>
              
 <pb n="589"/>
-            sapiens utatur, insipiens autem foedissima gnlae flamma in <lb/>
+            sapiens utatur, insipiens autem foedissima <choice><sic>gnlae</sic><corr>gulae</corr></choice> flamma in <lb/>
             uilissimum ardescat. et sanius quisque maluerit more domini <lb/>
             pisce uesci quam lenticula more Esau nepotis Abraham, aut <lb/>
             hordeo more iumentorum. non enim propterea continentiores <lb/>
@@ -24995,7 +24989,7 @@ V            securus esse debet in ista uita, quae tota temtatio nominatur, <lb/
             praecepto A praecepta P 24 cadoa (o in i corr.) <hi rend="italic">P</hi> </note> <lb/>
              
 <pb n="597"/>
-            de centum choris tritici LXXX, ad nihil aliud nalere arbitror, <lb/>
+            de centum choris tritici LXXX, ad nihil aliud <choice><sic>nalere</sic><corr>ualere</corr></choice> arbitror, <lb/>
             nisi ut ea quae similiter in sacerdotes atque in leuitas Iudaeus <lb/>
             quisque operatur in Christi ecclesia abundet iustitia eius super <lb/>
             scribarum et Pharisaeorum, ut cum illi decimas darent, isti <lb/>
@@ -28243,8 +28237,7 @@ V            securus esse debet in ista uita, quae tota temtatio nominatur, <lb/
             testamentum nascuntur. 
 </p>
           <p rend="script">Itaque siue intus uersari uideantur siue aperte foris sint, <lb n="5"/>
-            quod caro est, caro est; siue in area in sua sterilitate perse- <lb/>
-            uerent siue occasione temtationis tamquam uento extra tollantur, <lb/>
+            quod caro est, caro est; siue in area in sua sterilitate perse<lb break="no"/>uerent siue occasione temtationis tamquam uento extra tollantur, <lb/>
             quod palea est, palea est, et semper ab illius ecclesiae, <lb/>
             quae sine macula et ruga est, unitate diuisus est etiam qui <lb/>
             congregationi sanctorum in carnali obduratione miscetur. de <lb n="10"/>
@@ -31240,7 +31233,7 @@ V            securus esse debet in ista uita, quae tota temtatio nominatur, <lb/
 <pb n="747"/>
             aliquid, sed ipsum dedisse, ut haberet, genuisse est, ut esset. <lb/>
             non enim sicut creatura, ita dei filius ante incarnationem et <lb/>
-            ante assumtam creaturam unigenitus, per quem facta sunt <lb/>
+            ante <choice><sic>assumtam</sic><corr>assum tam</corr></choice> creaturam unigenitus, per quem facta sunt <lb/>
             omnia, aliud est et aliud habet, sed hoc ipsum est, quod est <lb/>
             id quod habet. quod illo loco manifestius dicitur, si quis ad <lb n="5"/>
             capiendum sit idoneus, ubi ait: sicut habet pater uitam <lb/>
@@ -31568,7 +31561,7 @@ V            securus esse debet in ista uita, quae tota temtatio nominatur, <lb/
             <title type="sub">CCXXX. DE HIS SCRIPTVRAE LOCIS, DE QVIBVS DVBIVM EST, AN PROPTER ASSVMTAM CREATVRAM MINOREM PATRE INDICANT FILIVM, AN VERO HOC TANTVM QVOD, LICET AEQVALEM PATRI, TAMEN QVIA DE PATRE SIT DOCEANT. EX LIBRO DE TRINI- TATE n, T. n. </title>
           </ab>
           <p>Sunt quaedam in scripturis ita posita, ut ambiguum sit,  <lb/>
-            quonam referenda sint, utrum ad illud, quod propter assumtam <lb/>
+            quonam referenda sint, utrum ad illud, quod propter <choice><sic>assumtam</sic><corr>assum tam</corr></choice> <lb/>
             creaturam minor est filius, an ad illud, quod, quamuis aequalis, <lb/>
             tamen quia de patre sit indicatur. et mihi quidem uidetur, <lb n="10"/>
             si eo modo ambiguum est, ut explicari discernique non possit, <lb/>
@@ -31665,7 +31658,7 @@ V            securus esse debet in ista uita, quae tota temtatio nominatur, <lb/
             pater. quod si ille qui glorificat eo quem glorificat <lb/>
             maior est, sinant, ut aequales sint qui se inuicem glorificant. <lb/>
             scriptum est autem, quod et filius glorificet patrem. ego, inquit, <lb n="25"/>
-            te glorificau i super terram. sane caueant, ne putetur <lb/>
+            te <choice><sic>glorificau i</sic><corr>glorificaui</corr></choice> super terram. sane caueant, ne putetur <lb/>
             spiritus sanctus maior ambobus, qui glorificat filium, <lb/>
             quem glorificat pater, ipse autem nec a patre nec a filio <lb/>
             glorificatur.
@@ -32071,7 +32064,7 @@ V            securus esse debet in ista uita, quae tota temtatio nominatur, <lb/
             mutator, ut ea sint accidentia relatiua, quae cum aliqua <lb n="25"/>
             mutatione rerum, de quibus dicuntur, accidunt? sicut amicus <lb/>
             relatiue dicitur; neque enim esse incipit, nisi cum amare <lb/>
-            coeperit; fit ergo aliqua mutatio uoluutatis, ut amicus dicatur. <lb/>
+            coeperit; fit ergo aliqua mutatio <choice><sic>uoluutatis</sic><corr>uoluntatis</corr></choice>, ut amicus dicatur. <lb/>
             nummus autem cum dicitur pretium, relatiue dicitur, nec <lb/>
             tamen mutatus est, cum esse coepit pretium; neque cum <lb n="30"/>
             dicitur pignus et si qua similia. si ergo nummus potest nulla
@@ -32696,7 +32689,7 @@ V            securus esse debet in ista uita, quae tota temtatio nominatur, <lb/
             inuicem diligamus atque ita in nobis deus maneat, quia utique <lb/>
             dilectionem deum dixerat: statim nolens de hac re apertius <lb/>
             aliquid loqui: in hoc, inquit, cognoscimus, quia in ipso <lb/>
-            manemus et ipse innobis, quiade spiritu suo dedit <lb n="5"/>
+            manemus et ipse <choice><sic>innobis</sic><corr>in nobis</corr></choice>, <choice><sic>quiade</sic><corr>quia de</corr></choice> spiritu suo dedit <lb n="5"/>
             nobis. sanctus itaque spiritus, de quo dedit nobis, facit nos <lb/>
             in deo manere et ipsum in nobis; hoc autem facit dilectio. <lb/>
             ipse est igitur deus dilectio. denique paulo post, cum hoc ipsum <lb/>
@@ -32709,7 +32702,7 @@ V            securus esse debet in ista uita, quae tota temtatio nominatur, <lb/
             qui procedit ex deo, cum datus fuerit homini, accendit eum <lb n="15"/>
             in dilectione dei et proximi, et ipse dilectio est. non enim <lb/>
             habet homo unde deum diligat nisi ex deo. propter quod paulo <lb/>
-            post dicit: nos diligimus, quia ipse prior dilexitnos. <lb/>
+            post dicit: nos diligimus, quia ipse prior <choice><sic>dilexitnos</sic><corr>dilexit nos</corr></choice>. <lb/>
             apostolus quoque Paulus: dilectio, inquit, dei diffusa <lb/>
             est in cordibus nostris per spiritum sanctum, qui <lb n="20"/>
             datus est nobis. 
@@ -33529,7 +33522,7 @@ V            securus esse debet in ista uita, quae tota temtatio nominatur, <lb/
             iungente. quam quidem uoluntatem de cognitione procedere <lb/>
             — nemo enim uult quod omnino quid uel quale sit nescit — <lb/>
             non tamen esse cognitionis imaginem et ideo quandam in <lb n="5"/>
-            hac re intellegibili natinitatis et processionis insinuari distantiam, <lb/>
+            hac re intellegibili <choice><sic>natinitatis</sic><corr>natiuitatis</corr></choice> et processionis insinuari distantiam, <lb/>
             quoniam non hoc est cogitatione conspicere quod <lb/>
             appetere uel etiam perfrui uoluntate, cernit discernitque qui <lb/>
             potest. potuisti et tu, quamuis non potueris neque possis <lb/>
@@ -33738,7 +33731,7 @@ V            securus esse debet in ista uita, quae tota temtatio nominatur, <lb/
             mundo erat et mundus per eum factus est. sed quoniam <lb/>
             cupiditate fruendi pro ipso creatore creatura homines configurati <lb/>
             huic mundo et mundi nomine congruentissime uocati <lb/>
-            non eam cognouerunt, propterea dixit euangelista: et m undus <lb/>
+            non eam cognouerunt, propterea dixit euangelista: et <choice><sic>m undus</sic><corr>mundus</corr></choice> <lb/>
             eum non cognouit. itaque in sapientia dei non poterat<lb n="10"/>
             mundus per sapientiam cognoscere deum. cur ergo uenit, cam <lb/>
             hic esset, nisi quia placuit deo per stultitiam praedicationis <lb/>
@@ -34402,7 +34395,7 @@ V            securus esse debet in ista uita, quae tota temtatio nominatur, <lb/
             transferre. oues etiam iocundissime agnosco detonsas,<lb n="10"/>
             oneribus saecularibus tamquam uelleribus positis, et ascendentes <lb/>
             de lauacro, id est de baptismate, creaturas omnes geminos, <lb/>
-            duo praecepta dilectionis, et nullam esseab isto sancto fructu <lb/>
+            duo praecepta dilectionis, et nullam <choice><sic>esseab</sic><corr>esse ab</corr></choice> isto sancto fructu <lb/>
             sterilem uideo. sed quare suauius uideam, quam si nulla de <lb/>
             diuinis libris talis similitudo promeretur, cum res eadem sit<lb n="15"/>
             eademque cognitio, difficile est dicere et alia quaestio est. <lb/>
@@ -34880,7 +34873,7 @@ V            securus esse debet in ista uita, quae tota temtatio nominatur, <lb/
             sed placito et consensione significandi, et ideo qui utramque <lb/>
             linguam nouit, si homini Graeco uelit aliquid significare scribendo, <lb/>
             non in ea significatione ponit hanc litteram, in qua eam <lb/>
-            ponit, eum homini soribit Latino; et beta uno eodemque sono <lb n="25"/>
+            ponit, eum homini <choice><sic>soribit</sic><corr>scribit</corr></choice> Latino; et beta uno eodemque sono <lb n="25"/>
             apud Graecos litterae, apud Latinos holeris nomen est; et cum <lb/>
             dico: "lege", in his duabus syllabis aliud Graecus, aliud Latinus <lb/>
             intellegit - sicut ergo hae omnes significationes pro sua
@@ -35306,7 +35299,7 @@ V            securus esse debet in ista uita, quae tota temtatio nominatur, <lb/
             enim sentit, quamuis de Aegypto diues exeat, tamen, nisi <lb/>
             pascha egerit, saluum se esse non posse. pascha autem nostrum <lb/>
             immolatus est Christus nihilque magis immolatio christianos <lb/>
-            doeet, quam illud quod ipse clamat tamquam ad eos quos in <lb/>
+            <choice><sic>doeet</sic><corr>docet</corr></choice>, quam illud quod ipse clamat tamquam ad eos quos in <lb/>
             Aegypto sub Pharaone uidet laborare: uenite ad me qui<lb n="5"/>
             laboratis et onerati estis, et ego uos reficiam. tollite <lb/>
             iugum meum super uos et discite a me, quia <lb/>
@@ -35594,7 +35587,7 @@ V            securus esse debet in ista uita, quae tota temtatio nominatur, <lb/
           </ab>
           <p>Sed uerborum translatorum ambiguitates, de quibus deinceps  <lb n="5"/>
             loquendum est, non mediocrem curam industriamque desiderant. <lb/>
-            nam in principio eauendum est, ne figuratam locutionem ad <lb/>
+            nam in principio <choice><sic>eauendum</sic><corr>cauendum</corr></choice> est, ne figuratam locutionem ad <lb/>
             litteram accipias. et ad hoc enim pertinet quod ait apostolus: <lb/>
             littera occidit, spiritus autem uiuificat. cum enim <lb/>
             figurate dictum sic accipitur. tamquam proprie dictum sit, <lb n="10"/>
@@ -37919,7 +37912,7 @@ V            securus esse debet in ista uita, quae tota temtatio nominatur, <lb/
             firmat carnem bracchii sui, et a domino discedit. <lb/>
             cor eius. intellegite, fratres, hoc propheticum testimonium. <lb/>
             quia enim non dixit propheta: "maledictus homo, qui <lb/>
-            spem habet in semet ipso", posset allcui uideri ideo dictum <lb n="20"/>
+            spem habet in semet ipso", posset <choice><sic>allcui</sic><corr>alicui</corr></choice> uideri ideo dictum <lb n="20"/>
             esse: maledictus homo, qui spem habet in homine, ut <lb/>
             nemo habeat spem in altero homine, sed in se. ut ergo ostenderet <lb/>
             sic se admonuisse neminem, ut nec in se ipso haberet <lb/>
@@ -37948,7 +37941,7 @@ V            securus esse debet in ista uita, quae tota temtatio nominatur, <lb/
             sed ei dicat: adiutor meus esto, ne derelinquas me. 
 </p>
           <p>Meminerimus eum dicere: et conuertimini et uiuetis, <lb/>
-            cui dicitur conuertenos, deus. meminerimus deum dicere: <lb/>
+            cui dicitur <choice><sic>conuertenos</sic><corr>conuerte nos</corr></choice>, deus. meminerimus deum dicere: <lb/>
             proicite a uobis omnes impietates uestras, cum ipse <lb/>
             iustificet impium. meminerimus ipsum dicere: facite uobis<lb n="10"/>
             cor nouum et spiritum nouum, qui dicit: dabo uobis <lb/>
@@ -38111,7 +38104,7 @@ V            securus esse debet in ista uita, quae tota temtatio nominatur, <lb/
             sarcina quippe illa, quae infirmitati grauis est, leuis efficitur <lb/>
             caritati. talibus enim dominus dixit esse suam sarcinam leuem, <lb/>
             qualis Petrus fuit, quando passus est pro Christo, non qualis <lb/>
-            fuit, quando negauit Christum. istam caritatem, id est dinino <lb/>
+            fuit, quando negauit Christum. istam caritatem, id est <choice><sic>dinino</sic><corr>diuino</corr></choice> <lb/>
             amore ardentissimam uoluntatem, commendans apostolus dicit:<lb n="5"/>
             quis nos separabit a caritate Christi? et cetera. 
 </p>
@@ -38574,7 +38567,7 @@ V            securus esse debet in ista uita, quae tota temtatio nominatur, <lb/
             sic credidit Abraham, sed credidit dans gloriam deo, <lb n="5"/>
             quoniam quae promisit potens est et facere. non <lb/>
             ait: "praedicere" non ait: "praescire". nam et aliena facta potens <lb/>
-            est praedicere atque praescire; sedait:potensestetfacere, <lb/>
+            est praedicere atque praescire; <choice><sic>sedait</sic><corr>sed ait</corr></choice>:potensestetfacere, <lb/>
             ac per hoc facta non aliena, sed sua. 
 </p>
           <p>An forte opera bona gentium deus promisit Abrahae in <lb n="10"/>
@@ -42214,8 +42207,7 @@ V            securus esse debet in ista uita, quae tota temtatio nominatur, <lb/
             ac sic Moses ex praecepto domini exaltauit in deserto aeneum <lb/>
             serpentem admonuitque populum, ut illum exaltatum quisquis, <lb/>
             a serpente morderetur attenderet; hoc facientes continuo sana<lb n="15"/>
-            bantur. quid est exaltatus serpens nisi mors Christi eo signi- <lb/>
-            ficandi modo, quo per efficientem id quod efficitur significatur?I <lb/>
+            bantur. quid est exaltatus serpens nisi mors Christi eo signi<lb break="no"/>ficandi modo, quo per efficientem id quod efficitur significatur?I <lb/>
             a serpente quidem mors uenit, qui peccatum, quo moreretur <lb/>
             homini persuasit. dominus autem in carnem suam non peccatum <lb/>
             transtulit tamquam uenenum serpentis, sed tamen transtulit<lb n="20"/>
@@ -42759,7 +42751,7 @@ V            securus esse debet in ista uita, quae tota temtatio nominatur, <lb/
             unum corpus est? erunt enim, inquit, duo in carne <lb/>
             una. qui autem adhaeret domino, unus spiritus <lb/>
             est. fugite fornicationem, atque ibi subiungit: omne <lb/>
-            p eccatum, quodcumque fecerit homo, extra corpus <lb n="15"/>
+            <choice><sic>p eccatum</sic><corr>peccatum</corr></choice>, quodcumque fecerit homo, extra corpus <lb n="15"/>
             est; qui autem fornicatur, in corpus proprium <lb/>
             peccat. an nescitis, quia corpus uestrum templum <lb/>
             in uobis spiritus sancti est, quem habetis a deo, <lb/>
@@ -43709,7 +43701,7 @@ V            securus esse debet in ista uita, quae tota temtatio nominatur, <lb/
             <title type="sub">DE CAECO DVCE CAECI. </title>
           </ab>
           <p>Quod dominus dicit: numquid potest caecus caecum  <lb/>
-            dncere? nonne ambo in foueam cadent? fortasse hoc <lb/>
+            <choice><sic>dncere</sic><corr>ducere</corr></choice>? nonne ambo in foueam cadent? fortasse hoc <lb/>
             ideo subiunxerit, ne sperarent a Lenitis (se) esse accepturos <lb/>
             mensuram illam, de qua dixit: dabunt in sinum uestrum, <lb n="5"/>
             quoniam ipsis decimas dabant. quos caecos dixit, quia euangelium <lb/>
@@ -43783,7 +43775,7 @@ V            securus esse debet in ista uita, quae tota temtatio nominatur, <lb/
             subiugauerint priuato illo iure etiam miraculorum aliquid <lb/>
             praestent in his rebus exhibendorum, quibus sunt infimo, sed <lb/>
             tamen ordinatissimo potestatum gradu praepositae. sed ubi <lb/>
-            diuiua tamquam publica lex iubet, uincit utique priuatam <lb n="30"/>
+            <choice><sic>diuiua</sic><corr>diuina</corr></choice> tamquam publica lex iubet, uincit utique priuatam <lb n="30"/>
             licentiam, quamquam et ipsa priuata licentia nisi uniuersalis <lb/>
             diuinae potestatis permissione nulla esset. ideoque fit, ut sancti
 
@@ -44149,7 +44141,7 @@ V            securus esse debet in ista uita, quae tota temtatio nominatur, <lb/
             benignitatis et patientiae eius et longanimitatis <lb/>
             contemnis, ignorans, quoniam patientia dei ad <lb n="10"/>
             paenitentiam te adducit? secundum duritiam antem <lb/>
-            cordis tni et cor impaenitens thesaurizas tibi <lb/>
+            cordis <choice><sic>tni</sic><corr>tui</corr></choice> et cor impaenitens thesaurizas tibi <lb/>
             iram in diem irae et renelationis iusti iudicii dei, <lb/>
             qui reddet unicuique secundum opera sua. 
 </p>
@@ -44663,7 +44655,7 @@ V            securus esse debet in ista uita, quae tota temtatio nominatur, <lb/
             dubitatione dubitandum est. uides, quemadmodum apostolus <lb/>
             de se ipso dubitare non dubitet, utrum in corpore an <lb/>
             extra corpus raptus sit in tertium caelum; siue hoc siue <lb/>
-            illud, nescio, inquit, deus soit. cum ergo mihi, quamdiu <lb n="5"/>
+            illud, nescio, inquit, deus <choice><sic>soit</sic><corr>scit</corr></choice>. cum ergo mihi, quamdiu <lb n="5"/>
             nescio, dubitare non liceat, utrum anima mea in istam uitam <lb/>
             ex propagine an sine propagine uenerit, cum eam utrolibet <lb/>
             modo a summo et uero deo factam esse non dubitem, cur <lb/>
@@ -45074,7 +45066,7 @@ V            securus esse debet in ista uita, quae tota temtatio nominatur, <lb/
 <pb n="1079"/>
             moriuntur; non autem in aeternum eis qui fuerint per gratiam <lb/>
             spiritaliter regenerati in eaque permanserint usque in finem. <lb/>
-            quamuis et illud merito quaeri possit, si redduntur pecoata <lb/>
+            quamuis et illud merito quaeri possit, si redduntur <choice><sic>pecoata</sic><corr>peccata</corr></choice> <lb/>
             in filios his qui oderunt deum, cur in tertiam et quartam <lb/>
              generationem uel praetermissa prima et secunda uel non <lb n="5"/>
             etiam in ceteras permanente impietate et imitatione malorum <lb/>

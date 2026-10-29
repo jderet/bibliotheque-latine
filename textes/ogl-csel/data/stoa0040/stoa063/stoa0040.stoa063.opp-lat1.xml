@@ -88,6 +88,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 1 mot coupé.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -1422,7 +1423,7 @@
             isti innocentes a traditionis iniquitate monstrentur. melius enim <lb/>
             audimus sanctam scripturam, quam uel cuiquam calumniamur <lb/>
             de peccatis alienis uel cuiusquam similem calumniam formidamus. <lb/>
-            anima enim quae peccat ipsa morie tur et unus quis que proprium<lb n="25"/>
+            anima enim quae peccat ipsa <choice><sic>morie tur</sic><corr>morietur</corr></choice> et unus quis que proprium<lb n="25"/>
             onus portabit et qui manducat et bibit it indigne, non
 
 <note type="footnote"> 14 cf. Optat. I 14. Cresc. III 27, 30 15 cf. Optat. I 13 25 Ezech. <lb/>

@@ -86,6 +86,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 9 mots mal lus, 1 mot collé.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -124,7 +125,7 @@
             dixit: cuius dignitatis es? Uictor dixit: patre decurione Constantiniensium, <lb/>
             auo milite; in comitatu militauerat; nam origo <lb/>
             nostra de sanguine Mauro descendit. Zenophilus uir clarissimus <lb/>
-            consularis dixit: memor fidei et honestatis tuae simplicitor designa, <lb/>
+            consularis dixit: memor fidei et honestatis tuae <choice><sic>simplicitor</sic><corr>simpliciter</corr></choice> designa, <lb/>
             quae causa fuerit dissensionis inter christianos. Uictor dixit: ego <lb n="15"/>
             dissensionis originem nescio; unus sum de populo christianorum. <lb/>
             siquidem cum essem apud Carthaginem, Secundus episcopus cum <lb/>
@@ -153,7 +154,7 @@
              
 <pb n="186"/>
             Siluanus traditor sit; de eo confitere. Uictor respondit: hoc nescio. <lb/>
-            Zenophilus n. c. consnlaris Nnndinario diacono dixit: negat se <lb/>
+            Zenophilus n. c. <choice><sic>consnlaris</sic><corr>consularis</corr></choice> Nnndinario diacono dixit: negat se <lb/>
             Uictor scire, quod Siluanus traditor sit. Nundinarius diaconus <lb/>
             dixit: scit ipse, nam tradidit codices. Uictor respondit: fugeram. <lb/>
             hanc tempestatem et, si mentior, peream. cum incursum pateremur<lb n="5"/>
@@ -161,8 +162,8 @@
             cum Marte diacono et Uictor presbyter. cum ab eodem Marte <lb/>
             quaererentur omnes codices, negauit se habere. tunc Uictor dedit <lb/>
             nomina omnium lectorum. uentum est ad domum meam, cum absens <lb/>
-            essem. ascensum est a magistratibus et snblati sunt codices<lb n="10"/>
-            mei. eum ego uenissem, inneni codices sublatos. Nnndinarins <lb/>
+            essem. ascensum est a magistratibus et <choice><sic>snblati</sic><corr>sublati</corr></choice> sunt codices<lb n="10"/>
+            mei. eum ego uenissem, <choice><sic>inneni</sic><corr>inueni</corr></choice> codices sublatos. Nnndinarins <lb/>
             diaconus dixit: tu ergo respondisti apud acta, quoniam dedisti <lb/>
             codices. quare negantur haec, quae prodi possunt? Zenophilus <lb/>
             u. c. consularis Uictori dixit: simpliciter confitere, ne strictius <lb/>
@@ -174,7 +175,7 @@
 </p>
           <p>"Diocletiano VIII et Maximiano VII consulibus XI111 Kal. Iunias <lb/>
             ex actis Mnnati Felicis flaminis perpetui, curatoris coloniae Cirtensium. <lb/>
-            cum uentum esset ad domum, in qua christiani conneniebant,<lb/>
+            cum uentum esset ad domum, in qua christiani <choice><sic>conneniebant</sic><corr>conueniebant</corr></choice>,<lb/>
             Felix flamen perpetuus curator Paulo episcopo dixit:  <milestone n="1sa" unit="altpage"/> proferte  <lb n="20"/>
             scripturas legis et, si quid aliud hic habetis, ut praeceptum est, <lb/>
             ut iussioni parere possitis. Paulus episcopus dixit: scripturas lectores <lb/>
@@ -296,7 +297,7 @@
              August. c. Crescon</hi>. III, 29), legitur <hi rend="italic">scripsi</hi> </note> <lb/>
              
 <pb n="189"/>
-            a Nundinario diacono: "testis est Christus etangeli ei us, quoniam <lb/>
+            a Nundinario diacono: "testis est Christus <choice><sic>etangeli</sic><corr>et angeli</corr></choice> ei us, quoniam <lb/>
             tradiderunt, quibus communicastis, id est Siluanus a Cirta traditor <lb/>
             est et fur rerum pauperum; quod omnes uos episcopi, presbyteri, <lb/>
             diacones, seniores scitis de quadringentis follibus Lucillae, clarissimae <lb/>
@@ -367,7 +368,7 @@
             expediat, [ne] fiat. nunc ergo petite eum, ut, quod potest, cum <lb/>
             ipso pax domini saluatoris Christi sit, non ad publicum ueniamus<lb n="20"/>
             et a gentibus damnemur. scriptum est enim: uidete, ne, dum <lb/>
-            mordetis et consumamini inuicem, ab innicem consumamini. <lb/>
+            mordetis et consumamini inuicem, ab <choice><sic>innicem</sic><corr>inuicem</corr></choice> consumamini. <lb/>
             ergo peto dominum, ut tollatur de medio nostrum  <milestone n="20b" unit="altpage"/> hoc  <lb/>
             scandalum, ut possit res dei cum gratiarum actione celebrari domino <lb/>
             dicente: pacem meam do nobis, pacem meam relinquo <lb/>
@@ -635,7 +636,7 @@
 <note type="footnote"> 13* </note> <lb/>
              
 <pb n="196"/>
-            est Casti confessio, quod folles, quos Lucilla donanit, populo <lb/>
+            est Casti confessio, quod folles, quos Lucilla <choice><sic>donanit</sic><corr>donauit</corr></choice>, populo <lb/>
             diuisos esse nesciret, et ideo amoueatur. 
 </p>
           <p>Item inducto et adplicito Crescentiano subdiacono Zenophilus <lb/>
@@ -659,7 +660,7 @@
             peruenisset, et filii Aelionis dicebant. Zenophilus n. c.  <milestone n="24b" unit="altpage"/> consularis   <lb/>
             Crescentiano dixit: quid audisti? Crescentianus dixit: acetum sublatum <lb/>
             a sene Siluano et Dontio et Superio presbyteris et Luciano diacono. Zenophilus a. c. consularis Crescentiano dixit: ex CCCC <lb n="25"/>
-            follibus, quos Lucilla donanit, populus aliquid accepit? Crescentianus <lb/>
+            follibus, quos Lucilla <choice><sic>donanit</sic><corr>donauit</corr></choice>, populus aliquid accepit? Crescentianus <lb/>
             dixit: nihil inde nemo accepit, nescio, nec quis illos erogauerit. <lb/>
             Nundinarius dixit: aniculae numquam inde aliquid acceperunt? <lb/>
             Crescentianus dixit: nihil. Zenophilus n. c. consularis dixit:certe quotiens aliquid tale donatur, omnes inde populares publice <lb n="30"/>
@@ -1372,7 +1373,7 @@
             VI 23 atque] ad quem <hi rend="italic">C</hi> 26 integre <hi rend="italic">C</hi> 27 <hi rend="italic">inter</hi> si <hi rend="italic">et</hi> ibidem <hi rend="italic">ras. C</hi> </note><lb n="35"/>
              
 <pb n="211"/>
-            nniuersa, quae ei intenditis, probata esse uideantur. deus- omnipotens <lb/>
+            <choice><sic>nniuersa</sic><corr>uniuersa</corr></choice>, quae ei intenditis, probata esse uideantur. deus- omnipotens <lb/>
             perpetuam tribuat securitatem. 
 </p>
 

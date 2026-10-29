@@ -88,6 +88,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 2 mots mal lus, 1 césure.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -1049,11 +1050,10 @@
             29 cum <hi rend="italic">om. C</hi> mala <hi rend="italic">b</hi> </note> <lb/>
              
 <pb n="927"/>
-            est, censensio uero eius non est substantia. iam cernis, ut <lb/>
+            est, <choice><sic>censensio</sic><corr>consensio</corr></choice> uero eius non est substantia. iam cernis, ut <lb/>
             arbitror, in qua substantia sit, id est, in anima esse istam <lb/>
             consensionem profecto uides, quam consensionem peccatum <lb/>
-            esse- ac per hoc malum esse non dubitas. ex quo iam intel- <lb/>
-            legis fieri posse, ut in bona substantia, sicuti est anima, sit <lb n="5"/>
+            esse- ac per hoc malum esse non dubitas. ex quo iam intel<lb break="no"/>legis fieri posse, ut in bona substantia, sicuti est anima, sit <lb n="5"/>
             aliquod malum, quod non est substantia, sicuti est ista consensio, <lb/>
             ex quo malo appelletur etiam anima mala. peccatrix <lb/>
             enim utique mala est; peccat autem. cum consentit malo. <lb/>
@@ -1524,7 +1524,7 @@
             dixisti et haec a Christo appellari dextram et sinistram , nouimus <lb/>
             sic appellare Christum dextram et sinistram. ut non<lb n="5"/>
             corporalia sic. sed beatitudinem miseriamque sui cuiusque <lb/>
-            meriti ue-lit intellegi. sed carnalis uestra cegitatio usque adeo <lb/>
+            meriti ue-lit intellegi. sed carnalis uestra <choice><sic>cegitatio</sic><corr>cogitatio</corr></choice> usque adeo <lb/>
             a locis corporalibus non recedit, ut solem istum uisibilem ac <lb/>
             per hoe corporeum, qui contineri nisi corporali loco non potest, <lb/>
             et deum et partem di esse dicatis. uerum de his uobiscum<lb n="10"/>

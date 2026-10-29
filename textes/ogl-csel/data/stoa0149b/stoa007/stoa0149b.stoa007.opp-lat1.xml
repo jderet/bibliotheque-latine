@@ -85,6 +85,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 1 mot coupé.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -106,7 +107,7 @@
             nefarium, a fratribus nostris.</p></div>
 
 <div n="2" subtype="section" type="textpart"><p>prouideat et decernat clementia tua,  <lb/>
-            ut omnes ubique iudices, quibus prouinciarum auntem mu tationis <lb/>
+            ut omnes ubique iudices, quibus prouinciarum auntem <choice><sic>mu tationis</sic><corr>mutationis</corr></choice> <lb/>
             creditae sunt, ad quos sola cura et sollicitudo publicorum negotiorum <lb n="15"/>
             pertinere debet, a religiosa se obseruantia abstineant neque posthac <lb/>
             praesumant atque usurpent et putent se causas cognoscere

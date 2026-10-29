@@ -93,6 +93,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 21 mots mal lus, 3 mots coupés, 7 mots collés.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -104,7 +105,7 @@
             intermissis paululum, quae in manibus erant, cursim quidem, sed <lb/>
             non mediocri intentione perlegi et uidi hominem zelo ardentissimo <lb/>
             accensum aduersus eos, qui cum in suis peccatis humanam uoluntatem <lb/>
-            debcant accusare. naturam potius accusantes hominum per <lb n="5"/>
+            <choice><sic>debcant</sic><corr>debeant</corr></choice> accusare. naturam potius accusantes hominum per <lb n="5"/>
             illam st excusare conantur. nimis exarsit aduersus hanc pestilentiam. <lb/>
             quam etiam litterarum saccularium auctores grauiter arguerunt <lb/>
             exclamantes: falso queritur de natura sua <lb/>
@@ -165,11 +166,11 @@
             orbis terrae uerba eorum. sed antequam hoc inciperet <lb/>
             fieri, antequam denique usque ad fines totius orbis terrae praedicatio<lb n="20"/>
             ipsa perueniat — quoniam non desunt adhuc ultimae gentes, <lb/>
-            licet ut perhibetur paucissimae, quibus hoc nondum fuerit praedicatumquid <lb/>
+            licet ut perhibetur paucissimae, quibus hoc nondum fuerit <choice><sic>praedicatumquid</sic><corr>praedicatum quid</corr></choice> <lb/>
             faciat humana natura uel quid fecit, quae uel ante non <lb/>
             audierat hoc futurum uel adhuc non comperit factum nisi credendo <lb/>
             in deum, qui fecit caelum et terram, a quo et se factam<lb n="25"/>
-            naturaliter sentit et recte uiuendo eius inpleat uoluntatcm nulla <lb/>
+            naturaliter sentit et recte uiuendo eius inpleat <choice><sic>uoluntatcm</sic><corr>uoluntatem</corr></choice> nulla <lb/>
             fide passionis Christi et resurrectionis imbuta? quod si fieri potuit <lb/>
             aut potest, hoc et ego dico, quod de lege dixit apostolus: ergo
 
@@ -315,7 +316,7 @@
             est. esso potuerit, non est autem consequens, ut quod esse potest <lb/>
             etiam sit. quia enim dominus Lazarum suscitauit. sine dubio <lb/>
             potuit; quia uero ludam non suscitauit, numquid dicendum est: <lb/>
-            \'non potuit\'? potuit ergo, sed noluit. nam si uoluisset, cadem etiam <lb n="15"/>
+            \'non potuit\'? potuit ergo, sed noluit. nam si uoluisset, <choice><sic>cadem</sic><corr>eadem</corr></choice> etiam <lb n="15"/>
             hoc potestate fecisset, quia et filius quos uult uiuificat. sed hac <lb/>
             distinctione uera atque manifesta quo tendat et quid efficere <lb/>
             conetur aduertite. <hi rend="italic">nos,</hi> inquit, <hi rend="italic">de sola possibilitate tractamus; de<lb/>
@@ -419,7 +420,7 @@
             non solum consentire quod possit esse, uerum etiam quomodo uel qualiter<lb/>
              possit ostendere? nullus itaque magis alicuius rei possibilitatem<lb/>
              probat quam qui eius etiam qualitatem fatetur, quia nec absque re esse <lb/>
-            qualitas potest</hi>. his dictis iterum sibi obieit: <hi rend="italic">sed tu, inquies, hoc in <lb/>
+            qualitas potest</hi>. his dictis iterum sibi <choice><sic>obieit</sic><corr>obicit</corr></choice>: <hi rend="italic">sed tu, inquies, hoc in <lb/>
             loco dei gratiam, quando quidem eam non commemoras, uideris abnuere<lb n="20"/>
              </hi>. deinde respondit: <hi rend="italic">egone abnuo, qui rem confitendo confitear<lb/>
              necesse est et per quod effici res potest. an tu, qui rem negando et quicquid <lb/>
@@ -508,7 +509,7 @@
 </div>
 
 <div n="14" subtype="section" type="textpart">
-<p><milestone n="13" unit="altchapter"/> lam uero illud quod eis dicitur: \'ipso tu sine peceato <lb/>
+<p><milestone n="13" unit="altchapter"/> lam uero illud quod eis dicitur: \'ipso tu sine <choice><sic>peceato</sic><corr>peccato</corr></choice> <lb/>
             es?\' reuera non pertinet ad eam rem do qua uertitur quaestio. <lb n="10"/>
             sed quod dicit \'neglegentiae suae potius inputari, quod non est sine <lb/>
             peccato\', bono quidem dicit, sed dignetur inde et orare dominum, <lb/>
@@ -696,7 +697,7 @@
 <pb n="245"/>
             esse non cos, qui nondum de corpore exierunt, sed cos, qui secundum <lb/>
             carnem uiuunt. significatos esse nianifestum est. non antem ibi est <lb/>
-            quaestio quac uersatur. illud est quod expccto ah isto audire, si <lb/>
+            quaestio quac uersatur. illud est quod <choice><sic>expccto</sic><corr>expecto</corr></choice> ah isto audire, si <lb/>
             possim. cos qui secundum spiritum uiuunt et ob hoc etiam hic adhuc <lb/>
             uiuentes iam quodam modo in carne non sunt, utrum gratia dei <lb n="5"/>
             uiuant secundum spiritum an sibi sufficiant iam data cum creantur <lb/>
@@ -795,7 +796,7 @@
              
 <pb n="247"/>
             dicat: \'o tu qui clamas: sana animam meam, q u oniam <lb/>
-            peccaui tibi. quid est pcccatum? <hi rend="italic">substantia aliqua<lb/>
+            peccaui tibi. quid est <choice><sic>pcccatum</sic><corr>peccatum</corr></choice>? <hi rend="italic">substantia aliqua<lb/>
              an omni substantia carens nomen, quo non res, non existentia, <lb/>
             non corpus aliquod, sed tantum perperam facti actus exprimitur?˙</hi> <lb/>
             respondet ille: \'ita est ut dicis; non est peccatum aliqua substantia, <lb n="5"/>
@@ -819,7 +820,7 @@
             disputatio ? ut omnino frustra dictum putetur: uocabis nomen <lb/>
             eius Iesum; ipse enim saluum faciet populum <lb/>
             suum a peccatis corum. quomodo enim saluum faciet. <lb/>
-            ubi nulla est aegritude? peccata quippe, a quibus dicit euangelium <lb n="20"/>
+            ubi nulla est <choice><sic>aegritude</sic><corr>aegritudo</corr></choice>? peccata quippe, a quibus dicit euangelium <lb n="20"/>
             saluum faciendum populum Christi, substantiae non sunt et saluum <lb/>
             istumstumitiarenon possunt. o frater, bonum est ut memineris <lb/>
             te esse Christianum. credere ista fortasse suffecerit; sed tamen <lb/>
@@ -852,7 +853,7 @@
             uerus rationalis creaturae cibus. a quo per inoboedientiam recedendo <lb/>
             et per infirmitatem non ualendo capere, quo debuit<lb n="10"/>
             et gaudere, audis quemadmodum dicat: percussum est <lb/>
-            sicut faenum et aruit cor meu m, quoniam <lb/>
+            sicut faenum et aruit cor <choice><sic>meu m</sic><corr>meum</corr></choice>, quoniam <lb/>
             oblitus sum manducare panem meum? 
 </p>
           
@@ -911,7 +912,7 @@
             uexatusque non surgat, ut ideo tantum andiat uocem legis, quo <lb n="15"/>
             ammoneatur implorare gratiam saluatoris. an nulla poena est eorum, <lb/>
             de quibus dicit apostolus: quia cum cognouissent <lb/>
-            deum, non sicut deum glorifi cauerunt aut <lb/>
+            deum, non sicut deum <choice><sic>glorifi cauerunt</sic><corr>glorificauerunt</corr></choice> aut <lb/>
             gratias egerunt, sed euanuerunt in cogitationibus <lb/>
             suis et obscuratum est insi sius cor <lb n="20"/>
             corum? utique ista obscuratio uindicta et poena iam fuit; et <lb/>
@@ -921,7 +922,7 @@
             sunt. grauis haec poena est, si quis intellegat, et ex hac poena <lb n="25"/>
             uide quo ierunt: et inmutauerunt, inquit, gloria <lb/>
             incorruptibilis dei in similitudinem imaginis <lb/>
-            corruptibilis hominiset uolucrum et quadrupedum <lb/>
+            corruptibilis <choice><sic>hominiset</sic><corr>hominis et</corr></choice> uolucrum et quadrupedum <lb/>
             et serpentium. ista fecerunt ex peccati poena, qua
 
 <note type="footnote"> 1. 11 Pelagins 7 cf. Matth. 1, 21 17 Rom. 1, 21 24 Rom. 1, 22 <lb/>
@@ -1038,7 +1039,7 @@
             sine qua bene non possumus uiuere, nescio quare omnino iste nihil <lb/>
             dicit; immo etiam uelut sibi ad iustitiam sufficientem, si sola uoluntas <lb/>
             adsit, defendendo naturam gratiae Christi, qua iustificamur, <lb/>
-            apertissime contradicit. cur autem soluto per gratiam peceati reatu<lb n="15"/>
+            apertissime contradicit. cur autem soluto per gratiam <choice><sic>peceati</sic><corr>peccati</corr></choice> reatu<lb n="15"/>
             ad exercitationem fidei mors corporis maneat, quamuis uenerit de <lb/>
             peccato, iam et hoc in illis ad sanctae memoriae Marcellinum libris, <lb/>
             ut ualui, disserui. 
@@ -1151,7 +1152,7 @@
             incessus, sic mala nostra non ad hoc solum supernus medicus sanat,<lb n="20"/>
             ut illa iam non sint, sed ut de cetero recte ambulare possimus; quod <lb/>
             quidem etiam sani non nisi illo adiuuante poterimus. nam medicus homo <lb/>
-            cumsanauerit hominem, iam de cetero sustentandum elementiset <lb/>
+            cumsanauerit hominem, iam de cetero sustentandum <choice><sic>elementiset</sic><corr>elementis et</corr></choice> <lb/>
             alimentis corporalibus, ut eadem sanitas apto subsidio conualescat <lb/>
             atque persistat, deo dimittit, qui praebet ista in carne uiuentibus. <lb n="25"/>
             cuius erant etiam illa quae, dum curaret, adhibebat. non enim quemquam <lb/>
@@ -1297,7 +1298,7 @@
             ut dixi, non in peccatis. sed in ipsis recte factis pede celeriore <lb n="20"/>
             superueniat et obrepat. sed ideo uerissime dictum est, quod iste <lb/>
             aliter intellexit: i initium o mnis peccati superbia. <lb/>
-            quoniam diabolum. a quo extitit origo peccati, ipsa deieeit et subsequente <lb/>
+            quoniam diabolum. a quo extitit origo peccati, ipsa <choice><sic>deieeit</sic><corr>deiecit</corr></choice> et subsequente <lb/>
             inuidentia hominem stantem unde ipse cecidit inde subuertit. <lb/>
             nam utique iaetatiae ianuam. qua intraret. serpens ille <lb n="25"/>
             quaesiuit, quando ait: critis sicut d i i. ideo dictum est: <lb/>
@@ -1381,7 +1382,7 @@
             subsequetur ut cum illo semper uiuamus, quia sine illo nihil facere <lb n="5"/>
             possumus. utrumque enim scriptum est et: deus meus, <lb/>
             misericordia eius praeueniet me, et: miser ordia <lb/>
-            tua subse q quetur me per omnes dies <lb/>
+            tua <choice><sic>subse</sic><corr>sub se</corr></choice> q quetur me per omnes dies <lb/>
             uitae meae. reuelemus ergo ad eum uiam nostram confessione, <lb/>
             non defensione laudemus. si enim non est ipsius uia, sed nostra, <lb n="10"/>
             procul dubio non est recta. reuelemus eam confitendo, quia non <lb/>
@@ -1399,7 +1400,7 @@
             ipse faciat. ipsa est enim uia iusta. quam ignorantes qui <lb/>
             zelumdei habent, sed non secun d um sc i entiam, <lb/>
             et suam uolentes constituere iustitiae <lb n="20"/>
-            dei non sunt subieeti. finis enim legis <lb/>
+            dei non sunt <choice><sic>subieeti</sic><corr>subiecti</corr></choice>. finis enim legis <lb/>
             (\'Christus ad iustitiam omni credenti, qui dixit: <lb/>
             ego sum u i a. in qua iam ambulantes tamen terruit <lb/>
             uox diuina, ne quasi de propriis in ea uiribus extollantur. uam <lb/>
@@ -1524,7 +1525,7 @@
 <pb n="262"/>
             saluator eius. non ergo debemus sic laudare creatorem, ut cogamur, <lb/>
             immo uere conuincamur dicere superfluum saluatorem. naturam <lb/>
-            itaque hominis dignis laudibus honoremus casque laudes ad creatoris <lb/>
+            itaque hominis dignis laudibus honoremus <choice><sic>casque</sic><corr>easque</corr></choice> laudes ad creatoris <lb/>
             gloriam referamus; sed quia nos creauit, ita simus grati, ut <lb/>
             non simus, quia sanat, ingrati. uitia sane nostra, quae sanat, non<lb n="5"/>
             diuino operi, sed humanae uoluntati iustaeque illius uindictae tribuamus; <lb/>
@@ -1764,7 +1765,7 @@
             peccatum, et iusti fuerunt et sine peccato non fuerunt. postremo <lb/>
             si in Abel insto caritas dei, qua una uere iustus est quicumque iustus <lb/>
             est, adhue erat quo posset et deberet augeri, quicquid minus erat <lb/>
-            ex uitio erat. ut cui non miuus sit, donec ad illam eius fortitudinem <lb n="5"/>
+            ex uitio erat. ut cui non <choice><sic>miuus</sic><corr>minus</corr></choice> sit, donec ad illam eius fortitudinem <lb n="5"/>
             ueniatur, ubi tota hominis absorbeatur infirmitas? 
 </p>
           
@@ -1873,7 +1874,7 @@
             uitae, nullus praetermissus est, 11011 quia omnes in eum <lb/>
             credunt et baptismo eius abluuntur, sed quia nemo iustificatur nisi <lb/>
             in eum credat et baptismo eius abluatur. itaque \'omnes\' dictum <lb/>
-            est. ne aliquo modo alio praeter ipsum quisquam saluns fieri posse <lb/>
+            est. ne aliquo modo alio praeter ipsum quisquam <choice><sic>saluns</sic><corr>saluus</corr></choice> fieri posse <lb/>
             credatur. sicut uno litterarum magistro in ciuitate constituto <lb n="15"/>
             rectissime dicimus: \'omnes iste hic litteras docet\', non quia omnes <lb/>
             ciues litteras discunt, sed quia nemo discit, nisi quem ille docuerit, <lb/>
@@ -2227,7 +2228,7 @@
 
 <div n="59" subtype="section" type="textpart">
 <p><milestone n="51" unit="altchapter"/> Vt autem declinetur inuidia, qua (\'christianis pro salute <lb/>
-            sua clamant et dicunt: \'quare sine adiutorio gratiaedei dicishominem<lb n="10"/>
+            sua clamant et dicunt: \'quare sine adiutorio <choice><sic>gratiaedei</sic><corr>gratiae dei</corr></choice> dicishominem<lb n="10"/>
             posse non peccare ?\' <hi rend="italic">ipsa,</hi> inquit, <hi rend="italic">non peccandi possibilitas non tam <lb/>
             in arbitrii potestate quam in naturae necessitate est. quicquid in naturae <lb/>
             necessitate positum est, ad naturae pertinere non dubitatur auctorem,<lb/>
@@ -2331,7 +2332,7 @@
             nomine nuncupantur, ccco tamen etiam baptizatis caro contraria <lb/>
             est. et quomodo contraria? ut non quod uolunt faciant. ecce adest <lb/>
             uoluntas in homine; ubi est possibilitas illa naturae? fateamur <lb/>
-            gratiam nccessariam, clamemus: miser ego homo! quis<lb n="20"/>
+            gratiam <choice><sic>nccessariam</sic><corr>necessariam</corr></choice>, clamemus: miser ego homo! quis<lb n="20"/>
             me liberabit de corpore mortis huius? et <lb/>
             respondeatur nobis: gratia dei per Iesum Christum <lb/>
             dominum nostrum. 
@@ -2390,7 +2391,7 @@
             unde non est controuersia, \'quod caro ab illo ita saepe nominetur, <lb/>
             ut uelit intellegi non substantiam, sed opera carnis\'. quid hoc ad <lb n="25"/>
             rem? uitia carnis contraria sunt uoluntati hominis; non natura <lb/>
-            accusatur, sed uitiis medieus quaeritur. quid est quod interrogat: <lb/>
+            accusatur, sed uitiis <choice><sic>medieus</sic><corr>medicus</corr></choice> quaeritur. quid est quod interrogat: <lb/>
             <hi rend="italic">uitiis fecit homini spiritum</hi>? et respondet sibi: <hi rend="italic">sine dubio deus</hi>. et <lb/>
             item interrogat: <hi rend="italic">carnem quis creauit</hi>? itemque respondet: <hi rend="italic">idem. <lb/>
             credo, deus</hi>. interrogat tertio: <hi rend="italic">bonus est qui utrumque creauit deus </hi>?
@@ -2475,7 +2476,7 @@
             nondum tale beneficium perceperunt, quorum in se uoces figurabat <lb/>
             apostolus; si tamen uel hoc dicunt</hi>. sed naturae ista defensio nec illis <lb n="20"/>
             hac uoce exclamare permittit. neque enim in baptizatis natura est <lb/>
-            et in non baptizatis natura non est. aut si uel in illis nitiata esse <lb/>
+            et in non baptizatis natura non est. aut si uel in illis <choice><sic>nitiata</sic><corr>uitiata</corr></choice> esse <lb/>
             conceditur, ut non sine causa clament: infelix homo! quis <lb/>
             me liberabit de corpore mortis huius ? eisque <lb/>
             subueniatur in eo quod sequitur: gratia dei per Iesum <lb n="25"/>
@@ -2563,7 +2564,7 @@
              concupiscit aduersus spiritum, non de carnis substantia,<lb/>
              sed de operibus sentire necesse est</hi>. hoc et nos dicimus non de <lb/>
             carnis substantia, sed de operibus dictum, quae ueniunt de carnali <lb/>
-            coucupiscentia, de peccto scilicet, de quo praecipit ut non regnet <lb/>
+            <choice><sic>coucupiscentia</sic><corr>concupiscentia</corr></choice>, de peccto scilicet, de quo praecipit ut non regnet <lb/>
             in nostro mortali corpore ad oboediendum desideriis eius. <lb n="15"/>
             
 </p>
@@ -2575,13 +2576,13 @@
             caro concupiscit aduersus spiritum et spiritus <lb/>
             aduersus carnem, ut non ea quaenultis <lb/>
             faciatis. et ne ab ipsa pugna desides faceret et per hanc sententiam <lb/>
-            laxamentum peccandi dedisse uideretur, adiungit: quodsispiritu <lb n="20"/>
+            laxamentum peccandi dedisse uideretur, adiungit: <choice><sic>quodsispiritu</sic><corr>quod si spiritu</corr></choice> <lb n="20"/>
             ducimini, non ad huc estis sub lege. <lb/>
             sub lege est enim, qui timore supplicii quod lex minatur, non amore <lb/>
             iustitiae sc sentit abstinere ab opere peccati, nondum liber nec alienus <lb/>
             a uoluntate peccandi. in ipsa enim uoluntate reus est, qua mallet, <lb/>
             si fieri posset, non esse quod timeat ut libere faciat quod occulte <lb n="25"/>
-            desiderat. ergo sispiritu. inquit, ducimini, non ad huc <lb/>
+            desiderat. ergo <choice><sic>sispiritu</sic><corr>si spiritu</corr></choice>. inquit, ducimini, non ad huc <lb/>
             estis sublege, utique lege, quae timorem incutit, non tribuit <lb/>
             caritatem, quae caritas dei diffusa est in cordibus nostris non per
 
@@ -3049,7 +3050,7 @@
             alioquin ubi necessitas, nec corona est, quis <lb/>
             non agnoscat, quis non toto corde suscipiat, quis aliter conditam <lb/>
             humanam neget esse naturam ? sed in recte faciendo ideo nullum <lb n="5"/>
-            est uinculum necessitatis, quia libertas est earitatis. 
+            est uinculum necessitatis, quia libertas est <choice><sic>earitatis</sic><corr>caritatis</corr></choice>. 
 </p>
           
 </div>
@@ -3157,7 +3158,7 @@
             habet arbitrium liberum uoluntatis ad e 1 igendum <lb n="10"/>
             quid recte faciat uel resistente carnali <lb/>
             consuetudine, quae uiolentia mortalis <lb/>
-            succession i s quodam modo naturaliter i nolenuit, <lb/>
+            <choice><sic>succession i</sic><corr>successioni</corr></choice> s quodam modo naturaliter i nolenuit, <lb/>
             uideat quid recte faciendum sit et <lb/>
             uelit nec possit inplere. illa est enim peccati <lb n="15"/>
             poena iustissima, ut amittat quisque quo <lb/>
@@ -3203,7 +3204,7 @@
             quod neglegis quaerere quod ignoras; neque <lb/>
             illud quod uulnerata membra non colligis,<lb n="15"/>
             sed quod nolentem sanare contemnis. ita et exhortatus <lb/>
-            sum, quantum potui, ad recte uinendum et gratiam dei <lb/>
+            sum, quantum potui, ad recte <choice><sic>uinendum</sic><corr>uiuendum</corr></choice> et gratiam dei <lb/>
             non euacuaui, sine qua natura humana iam contenebrata atque <lb/>
             uitiata inluminari non potest et sanari. de qua re cum istis tota <lb/>
             uertitur quaestio, ne gratiam dei, quae est in Christo Ipso domino<lb n="20"/>
@@ -3328,7 +3329,7 @@
             <hi rend="italic">(alt. loco) s. I</hi>. Vm2Em2 27 ubicuque (cu <hi rend="italic">s. I. m2) VE</hi> </note> <lb/>
              
 <pb n="299"/>
-            cordibus nostris uel naturac ucl uoluntatis opibus quae sunt in nobis, <lb/>
+            cordibus nostris uel <choice><sic>naturac</sic><corr>naturae</corr></choice> ucl uoluntatis opibus quae sunt in nobis, <lb/>
             sed per spiritum sanctum qui datus est nobis, qui et infirmitati <lb/>
             nostrae opitulatur et sanitati cooperatur. ipsa est enim gratia <lb/>
             dei per lesum Christum dominum nostrum, cui est cum patre et <lb/>

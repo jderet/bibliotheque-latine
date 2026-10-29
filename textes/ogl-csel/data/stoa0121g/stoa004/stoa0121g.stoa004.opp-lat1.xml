@@ -88,6 +88,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 1 mot mal lu.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -1808,7 +1809,7 @@
             uae uobis, qui ridetis nunc, quia lugebitis et flebitis. <lb n="10"/>
             sic enim fecit ille diues infelix, qui purpura induebatur et <lb/>
             bysso. gaudium quidem habuit in mundo, sed flammas inuenire <lb/>
-            meruit in inferno. Lazarus, qui iaeebat ad ianuam eius, <lb/>
+            meruit in inferno. Lazarus, qui <choice><sic>iaeebat</sic><corr>iacebat</corr></choice> ad ianuam eius, <lb/>
             tristitiam habuit in uia, sed uerum gaudium recepit in patria. 
 </p>
           <p>Nos uero, fratres carissimi, quantum possimus, dei misericordiam <lb n="15"/>

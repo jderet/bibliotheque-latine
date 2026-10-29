@@ -94,6 +94,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 29 mots mal lus, 7 mots collés, 2 mots coupés.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -416,7 +417,7 @@
             qui regenerantur in Christo, nullis eorum praecedentibus meritis <lb/>
             gratuita liberat gratia; alioquin gratia iam non est <lb/>
             gratia. proinde iste homo ualde intellegens, cui displicet in <lb/>
-            tanta profunditate etsi non docta, tamen cauta nostra cunetatio. <lb n="25"/>
+            tanta profunditate etsi non docta, tamen cauta nostra <choice><sic>cunetatio</sic><corr>cunctatio</corr></choice>. <lb n="25"/>
             dicat, si potest, in hanc poenam quo peruenerit anima merito, <lb/>
             de qua poena liberat gratia sine merito; dicat, ut quod dixit
 
@@ -457,7 +458,7 @@
 
 <div n="10" subtype="section" type="textpart">
 <p><milestone n="9" unit="altchapter"/> De illis autem paruulis qui morte praeueniuntur, <lb/>
-            priusquam baptizentur in Christo, cum respondere uoluissct,<lb n="20"/>
+            priusquam baptizentur in Christo, cum respondere <choice><sic>uoluissct</sic><corr>uoluisset</corr></choice>,<lb n="20"/>
             ausus est \'cis promittere non solum paradisum, uerum etiam <lb/>
             regnum caelorum\' non inueniens, qua exiret, ne deum animas <lb/>
             innocentes dicere cogeretur aeterna morte damnare, quas nullo <lb/>
@@ -489,7 +490,7 @@
             in regnum d e i, et alio loco: qui perdiderit <lb/>
             animam suam propter m e, inueniet e a m, nemo <lb/>
             fit membrum Christi nisi aut baptismate in Christo aut morte <lb/>
-            pro Cliristo. 
+            pro <choice><sic>Cliristo</sic><corr>Christo</corr></choice>. 
 </p>
           
 </div>
@@ -531,13 +532,13 @@
             fide, quanta spe, quanta caritate mortem pro Christo uiuente <lb/>
             suscipere potuit, qui uitam in moriente quaesiuit? hue accedit, <lb/>
             quia non incredibiliter dicitur latronem qui tunc credidit iuxta <lb/>
-            dominum crucifixum aqua illa, quae de unlnere lateris eius emicuit, <lb/>
+            dominum crucifixum aqua illa, quae de <choice><sic>unlnere</sic><corr>uulnere</corr></choice> lateris eius emicuit, <lb/>
             tamquam sacratissimo baptismo fuisse perfusum, ut omittam quod <lb n="5"/>
             eum, antequam damnaretur, baptizatum non fuisse, quoniam <lb/>
             nemo nostrum nouit, nemo conuincit. uerum haec ut uolet <lb/>
             quisque accipiat, dum tamen de baptismo non praescribatur <lb/>
             saluatoris praecepto huius latronis exemplo et non baptizatis <lb/>
-            parunlis nemo promittat inter damnationem regnumque caelorum<lb n="10"/>
+            <choice><sic>parunlis</sic><corr>paruulis</corr></choice> nemo promittat inter damnationem regnumque caelorum<lb n="10"/>
             quietis uel felicitatis cuiuslibet atque ubilibet quasi medium <lb/>
             locum. hoc enim eis etiam heresis Pelagiana promisit, quia nec <lb/>
             damnationem metuit paruulis, quos nullum putat habere originale <lb/>
@@ -643,7 +644,7 @@
             hinc sine lauacro regenerationis abscedunt et pro quibus nullum <lb/>
             sacrificium corporis dominici offertur, a nexu peccati originalis<lb n="15"/>
             absolui, cum apostolus doceat ex uno ire omnes in condemnationem, <lb/>
-            quibus utique non subucnit gratia, ut per unum eruantur <lb/>
+            quibus utique non <choice><sic>subucnit</sic><corr>subuenit</corr></choice> gratia, ut per unum eruantur <lb/>
             in redemptionem, an dicat animas non habentes ullum <lb/>
             uel proprium uel originale peccatum et omni modo innocentes, <lb/>
             simplices, puras a iusto deo, cum eas ipse non liberandas carni<lb n="20"/>
@@ -789,7 +790,7 @@
             demonstrantur ambigua. certum est enim deum dedisse hominibus <lb/>
             flatum et spiritum dicente propheta: sic dicit d ominus, <lb n="20"/>
             qui fecit caelum et fundauit terram et <lb/>
-            quae sunt inea, qui dat flatum populo super <lb/>
+            quae sunt <choice><sic>inea</sic><corr>in ea</corr></choice>, qui dat flatum populo super <lb/>
             eam et spiritum calcantibus cam. hoc testimonium <lb/>
             iste in eam sententiam uult accipi, quam defendit, ut, quod <lb/>
             ait, \'dat flatum populo\', non ex propagine facere animas <lb n="25"/>
@@ -829,11 +830,11 @@
             posset significari spiritus sanctus, non dominus post resurrectionem <lb/>
             insufflasset discipulis et dixisset: accipite spiritum sanctum, <lb/>
             neque scriptum esset in Actibus apostolorum: factus <lb/>
-            est subito de caelo sonus, quasiferretur flatus <lb/>
+            est subito de caelo sonus, <choice><sic>quasiferretur</sic><corr>quasi ferretur</corr></choice> flatus <lb/>
             uehemens, et uisae sunt illis linguae diuisae<lb n="15"/>
             sicut ignis, qui et insedit super unumquemque <lb/>
             eorum, et inpleti sunt omnes spiritu <lb/>
-            sancto. quid si hoc propheta praenuntiauit dicens: quidat <lb/>
+            sancto. quid si hoc propheta praenuntiauit dicens: <choice><sic>quidat</sic><corr>quid at</corr></choice> <lb/>
             flatum populo super eam et tamquam exponens quid <lb/>
             dixerit flatum repetiuit atque ait: et spiritum calcantibus<lb n="20"/>
             eam ? tunc enim euidentissime factum est, quando <lb/>
@@ -1121,7 +1122,7 @@
             non <hi rend="italic">erubuit: homo in honore positus non intellexit: <lb/>
             comparatus est pecoribus insensatis<lb n="10"/>
              e t s i mil is f actus est e i s</hi>. ecce ista mulier dixit de <lb/>
-            filiis suis: neseio quomodo paruistis in uentrem <lb/>
+            filiis suis: <choice><sic>neseio</sic><corr>nescio</corr></choice> quomodo paruistis in uentrem <lb/>
             meum, nec tamen comparatur pecoribus insensatis. nescio, <lb/>
             dixit; et quasi quaererent ab ea cur nesciret adiunxit: neque <lb/>
             enim ego spiritum et animam donaui uobis<lb n="15"/>
@@ -1251,7 +1252,7 @@
             secundum ipsum atque omnes, qui animarum propaginem destruunt. <lb/>
             corpus tantum masculinum et femininum significarit apostolus <lb/>
             dicens: sicut enim mulier ex uiro ita et uir per <lb/>
-            mu lierem. quia mulier ex uiro facta est, ut etiam uir per <lb/>
+            <choice><sic>mu lierem</sic><corr>mulierem</corr></choice>. quia mulier ex uiro facta est, ut etiam uir per <lb/>
             mulierem postea nasceretur. si ergo haec apostolus dicens non <lb n="5"/>
             etiam animas et spiritus, sed tantum corpora utriusque sexus <lb/>
             uolebat intellegi, cur continuo subiunxit: omnia autem ex <lb/>
@@ -1484,7 +1485,7 @@
             uerbum caro factum est. \'si enim et anima\', inquiunt,<lb n="5"/>
             \'ibi esset, debuit dici: uerbum homo factum est\'. sed istis propterea <lb/>
             dicitur carnis nomine solere scripturam totum hominem <lb/>
-            nuncupare — sieuti est: et uidebit omnis caro salut <lb/>
+            nuncupare — <choice><sic>sieuti</sic><corr>sicuti</corr></choice> est: et uidebit omnis caro salut <lb/>
             a r e d e i; non enim caro sine anima uidere aliquid potest —, <lb/>
             quia plurimis aliis sanctarum scripturarum locis non solam<lb n="10"/>
             carnem, uerum etiam animam humanam, id est rationalem, <lb/>
@@ -2155,7 +2156,7 @@
             quid est \'meruit\' et \'non potuit\', cum mereri hoc non posset,<lb n="10"/>
             nisi peccatrix fuisset, non autem fuisset, nisi esse potuisset, ut <lb/>
             ante omne malum meritum peccans inde sibi meritum faceret, <lb/>
-            unde ad alia peccata deserente domino perueuiret? an ideo dixit: <lb/>
+            unde ad alia peccata deserente domino <choice><sic>perueuiret</sic><corr>perueniret</corr></choice>? an ideo dixit: <lb/>
             <hi rend="italic">quae peccatrix esse non potuit,</hi> quia, nisi in carnem ueniret, peccatrix <lb/>
             esse non posset ? quid ergo meruit, ut eo mitteretur,<lb n="15"/>
             ubi peccatrix esse posset, quo nisi uenisset alibi peccatrix esse <lb/>
@@ -2582,7 +2583,7 @@
             per unum hominem peccatum intrauit in <lb/>
             mundum et per peccatum mors et ita in <lb n="15"/>
             omnes homines pertransiit, in quo omnes <lb/>
-            peccauerun t, nec dictum est \'in quo omnium caro <lb/>
+            <choice><sic>peccauerun t</sic><corr>peccauerunt</corr></choice>, nec dictum est \'in quo omnium caro <lb/>
             peccauit\'. itemque sicut illos uidetur iuuare quod dictum est: <lb/>
             hoc nunc os ex ossibus meis et caro de carne <lb/>
             m e a, quia pars est dicta, non totum, sic iterum istos, quodibi<lb n="20"/>
@@ -2641,7 +2642,7 @@
             de quibus si fuerit interrogatus, eorum animae quid meruerint, ut <lb/>
             illas deus nec abluendas baptismo nec expiandas Christi corporis et<lb n="25"/>
             sanguinis sacrificio et in aeternum damnandas carni inseruerit peccatrici, <lb/>
-            aut omnino haerebit et ei nostra cunetatio uel sero placebit <lb/>
+            aut omnino haerebit et ei nostra <choice><sic>cunetatio</sic><corr>cunctatio</corr></choice> uel sero placebit <lb/>
             aut simul pro omnibus paruulis, qui toto orbe terrarum sine christiano <lb/>
             baptismate moriuntur, etiam eorum nominibus tacitis, quoniam <lb/>
             nesciuntur in ecclesia Christi, non incorporatis corpori Christi <lb n="30"/>
@@ -2664,7 +2665,7 @@
 
 <div n="22" subtype="section" type="textpart">
 <p><milestone n="16" unit="altchapter"/> Absit a to, îratrr, ut haec tibi placeant, absit, ut ista . <lb/>
-            uel didieisse gaudeas uel docere praesumas; alioquin longe melior <lb/>
+            uel <choice><sic>didieisse</sic><corr>didicisse</corr></choice> gaudeas uel docere praesumas; alioquin longe melior <lb/>
             inuenietur ipse quam tu, quia in exordio primi sui libri modeste <lb/>
             atque humiliter praelocutus est dicens: <hi rend="italic">cum tibi parere desidero, <lb/>
             notam praesumtionis incurri;</hi> et paulo post: <hi rend="italic">quando quidem,</hi> inquit, <lb n="5"/>
@@ -2712,7 +2713,7 @@
 <pb n="358"/>
             . osculis tuis, id est assentatio indecens adulantis deceptoria lenitudo <lb/>
             blandientis. quodsi emendare neglegis cum uideas emendandum, <lb/>
-            aduersus earitatem facis; si autem tibi emendandus propterea non <lb/>
+            aduersus <choice><sic>earitatem</sic><corr>caritatem</corr></choice> facis; si autem tibi emendandus propterea non <lb/>
             uidetur, quia putas eum recte ista sensisse, aduersus ueritatem sapis. <lb/>
             et ideo ille melior, qui emendari est paratior, si non defuerit emendator,<lb n="5"/>
             quam tu, si uel sciens inridenter contemnis errantem uel <lb/>
@@ -2720,7 +2721,7 @@
             te scriptis et tibi traditis sobrie uigilanterque considera, et plura <lb/>
             quam ego inuenies fortasse culpanda. et quaecumque ibi sunt adprobanda <lb/>
             atque laudanda, si quid in eis reuera forsitan ignorabas<lb n="10"/>
-            atque isto disserente didieisti, euidenter profitere quid illud sit, ut <lb/>
+            atque isto disserente <choice><sic>didieisti</sic><corr>didicisti</corr></choice>, euidenter profitere quid illud sit, ut <lb/>
             de hoc te gratias egisse, non de his quae illic inprobanda tam multa <lb/>
             sunt, omnes nouerint, qui uel recitante illo tecum simul audierunt <lb/>
             uel eosdem postea libros legerunt, ne in eius ornato eloquio tamquam <lb/>
@@ -2859,7 +2860,7 @@
             hereticum mortuum sic diligis, ut eius uelis te iactare adhuc <lb/>
             nomine, cuius iam non teneris errore? nolumus te habere tale cognomentum, <lb/>
             tamquam sis heretici mortui monumentum; nolumus talem <lb/>
-            titulum habere librum tuum, qualem falsum esse dieeremus, si in <lb n="10"/>
+            titulum habere librum tuum, qualem falsum esse <choice><sic>dieeremus</sic><corr>diceremus</corr></choice>, si in <lb n="10"/>
             eius sepulcro legeremus. non enim Vincentium uictorem scimus esse. <lb/>
             sed uictum; et utinam fructuose, sicut te uinei nolumus ueritate! <lb/>
             astute autem putaris et callide, cum libros tuos, quos credi cupis <lb/>
@@ -3213,7 +3214,7 @@
             meritum nec malum potuit habere nec bonum. quomodo igitur <lb/>
             dicis: <hi rend="italic">anima itaque si peccatrix esse meruit, quae peccatrix esse<lb n="20"/>
             non potuit, neque in peccato remansit, quia in Christo praefigurata <lb/>
-            in peccato esse non debuit, sicut esse non potuit</hi>? attende quid dieas <lb/>
+            in peccato esse non debuit, sicut esse non potuit</hi>? attende quid <choice><sic>dieas</sic><corr>dicas</corr></choice> <lb/>
             et desiste iam dicere. quomodo enim meruit et quomodo non potuit <lb/>
             esse peccatrix? quomodo, quaeso te, peccatrix esse meruit, quae <lb/>
              male non uixit? quomodo, quaeso te, peccatrix facta est, quae <lb n="25"/>
@@ -3292,7 +3293,7 @@
             fuerit baptizatus potuisse ab impio patre ad gentilium sacrilegia <lb/>
             reuocari et ob hoe fuisse in poenis, de quibus sorore orante liberatus<lb n="5"/>
             est, nescio. neque enim et ipsum uel numquam fuisse Christianum <lb/>
-            uel catechumenum defunetum fuisse legisti, quamquam ipsa lectio <lb/>
+            uel catechumenum <choice><sic>defunetum</sic><corr>defunctum</corr></choice> fuisse legisti, quamquam ipsa lectio <lb/>
             non sit in eo canone scripturarum, unde in huiusmodi quaestionibus <lb/>
             testimonia proferenda sunt. 
 </p>
@@ -3750,7 +3751,7 @@
             si possim, hoc est, si ille donauerit, in cuius manu sunt et nos et sermones <lb/>
             nostri. reprehendisti enim me bis numero exprimens etiam <lb/>
             meum nomen et cum te in principio libri tui inperitiae tuae ammodum <lb n="15"/>
-            conseium et doctrinae amminiculo destitutum, me uero ubi <lb/>
+            <choice><sic>conseium</sic><corr>conscium</corr></choice> et doctrinae amminiculo destitutum, me uero ubi <lb/>
             nominasti doctissimum ac peiitissimum dixeris, tamen quibus in <lb/>
             rebus tibi uisus os nosse quod ego uel nescire me fateor uel, quamuis <lb/>
             nesciam, scire praesumo, libertate qua oportebat non tantum senem <lb/>
@@ -3786,7 +3787,7 @@
             uitia pastorum, si qua cognouerint, eisdem occultare pastoribus. <lb/>
             o si illa reprehenderes mea, quae iusta reprehensione sunt digna! <lb/>
             neque enim negare debeo sieut in ipsis moribus ita multa esse in tam<lb n="10"/>
-            multis opusculis meis, quae possint recto iudieio et nulla temeritate <lb/>
+            multis opusculis meis, quae possint recto <choice><sic>iudieio</sic><corr>iudicio</corr></choice> et nulla temeritate <lb/>
             culpari. ex quibus si aliqua ipse reprehenderes, illic tibi fortassis <lb/>
             ostenderem, qualem te esse in quibus non perperam reprehenderis <lb/>
             uellem meque tibi iuniori maior et praepositus subdito correctionis <lb/>
@@ -3920,7 +3921,7 @@
             appellantur anatomici, per membra, per uenas, per neruos, per ossa, <lb/>
             per medullas, per interiora uitalia etiam uiuos homines quamdiu <lb/>
             inter manus rimantium uiuere potuerunt dissiciendo scrutati sunt, <lb/>
-            ut naturam corporis nossent, nec tamen nos, quia ista neseimus, <lb/>
+            ut naturam corporis nossent, nec tamen nos, quia ista <choice><sic>neseimus</sic><corr>nescimus</corr></choice>, <lb/>
             pecoribus compararunt. nisi forte dicturus es eos pecoribus comparandos, <lb n="10"/>
             qui animae naturam, non qui corporis nesciunt. non ergo <lb/>
             ita praeloqui debuisti. neque enim aisti: \'quid differt homo pecore, <lb/>
@@ -4106,7 +4107,7 @@
             utrum de corde an de cerebro an dispertite de corde motibus, <lb/>
             de cerebro sensibus an de cerebro et sensibus et uoluntariis motibus, <lb n="5"/>
             de corde autem non uoluntariis uenarum pulsibus, et si de cerebro <lb/>
-            illa duo facit, cur sentiat etsi nolit, membra uero non moucat nisi <lb/>
+            illa duo facit, cur sentiat etsi nolit, membra uero non <choice><sic>moucat</sic><corr>moueat</corr></choice> nisi <lb/>
             uelit? cum igitur haec in corpore nisi ipsa non faciat, cur nescit <lb/>
             quod facit uel unde facit ? nec ei turpe est ista quod nescit et turpe <lb/>
             esse existimas, si nesciat unde uel quomodo facta sit. cum se ipsa <lb n="10"/>
@@ -4311,7 +4312,7 @@
             omnia quae nescimus? ubi potius exclamare debemus ad deum, <lb/>
             quod ille exclamauit in psalmo: mirificata est scientia <lb/>
             tua ex in e; inualuit, non potero ad illam. cur enim <lb n="10"/>
-            adiecit \'ex me\' nisi quia ex seipso quam inconprehensibilis esset dei <lb/>
+            adiecit \'ex me\' nisi quia ex <choice><sic>seipso</sic><corr>se ipso</corr></choice> quam inconprehensibilis esset dei <lb/>
             scientia coniciebat, quando quidem se ipsum conprehendere non <lb/>
             ualebat? rapiebatur apostolus in tertium caelum et audiebat ineffabilia <lb/>
             uerba, quae non licet homini loqui, et utrum in corpore <lb/>
@@ -4397,7 +4398,7 @@
             est \'clamare facientem\', ut ipso faciente clamemus. doceat ergo et <lb/>
             hoc me quando uoluerit, si hoc mihi expedire nouit, ut sciam unde <lb n="5"/>
             secundum animam originem ducam. sed ille hoc me doceat spiritus, <lb/>
-            qui altitudines dei serutatur, non homo, qui spiritum nescit, unde <lb/>
+            qui altitudines dei <choice><sic>serutatur</sic><corr>scrutatur</corr></choice>, non homo, qui spiritum nescit, unde <lb/>
             uter inflatur. absit tamen, ut ego hinc te pecoribus comparem; <lb/>
             non enim hoc quia non poteras, sed quia non aduerteras nesciebas. 
 </p>
@@ -4495,7 +4496,7 @@
             secundum carnem uiuentes et post mortem nihil sperantes ueluti <lb/>
             pecora, non de his, qui neque negant se scire quod sciunt et confitentur <lb/>
             se nescire quod nesciunt et tutius intellegunt infirmitatem <lb/>
-            suam quam de sua uirtutc confidunt. <lb n="10"/>
+            suam quam de sua <choice><sic>uirtutc</sic><corr>uirtute</corr></choice> confidunt. <lb n="10"/>
             
 </p>
           
@@ -4564,7 +4565,7 @@
             caelum nec lapis nec aqua nec sidera nec si quid huiusmodi est; si <lb/>
             autem corpus est quicquid maioribus et minoribus suis partibus <lb/>
             maiora et minora spatia locorum obtinentibus constat, corpora<lb n="25"/>
-            suntetiam ista quae commemoraui: corpus est aer, corpus est lux ista <lb/>
+            <choice><sic>suntetiam</sic><corr>sunt etiam</corr></choice> ista quae commemoraui: corpus est aer, corpus est lux ista <lb/>
             uisibilis et omnia, sicut dicit apostolus, corpora caelestia <lb/>
             et corpora terrestria.
 
@@ -4679,7 +4680,7 @@
 <pb n="399"/>
             una eademque natura? quid quod ista tua ratione etiam spiritum <lb/>
             corpus esse cogeris dicere? alioquin si spiritus corpus non est et <lb/>
-            anima corpus est, non sunt spiritus et anima unius ciusdemque <lb/>
+            anima corpus est, non sunt spiritus et anima unius <choice><sic>ciusdemque</sic><corr>eiusdemque</corr></choice> <lb/>
             substantiae; tu autem utrumque, quamuis duo quaedam sentias, <lb/>
             unam fateris habere substantiam: ergo et spiritus corpus est, si <lb n="5"/>
             anima corpus est; neque enim aliter possunt unius eiusdemque esse <lb/>
@@ -4791,7 +4792,7 @@
             putas sine corporis forma, ut noueris te ipsum, credo quod assidue <lb/>
             speculum adtendis, ne, si fueris oblitus faciem tuam. non te possis <lb/>
             agnoscere. rogo te, quem magis hominem nouit homo quam se <lb/>
-            ipsum et cuius minus potest faeiem uidere quam suam ? quis autem <lb/>
+            ipsum et cuius minus potest <choice><sic>faeiem</sic><corr>faciem</corr></choice> uidere quam suam ? quis autem <lb/>
             potest cognoscere deum, quem tu quoque incorporeum esse non <lb n="20"/>
             dubitas, si praeter corporis formam, sicut putas, non potest cognitio <lb/>
             prouenire, id est si corpora possunt sola cognosci? quis autem <lb/>
@@ -4870,7 +4871,7 @@
             lanas se <hi rend="italic">CEm1</hi> linguas <hi rend="italic">II</hi> fauces C per om. A </note> <lb n="25"/>
              
 <pb n="403"/>
-            manum\', quia dictum est: mitteLazarum, utintinguat <lb/>
+            manum\', quia dictum est: <choice><sic>mitteLazarum</sic><corr>mitte Lazarum</corr></choice>, utintinguat <lb/>
             extremum digiti sui in aquam, ut refrigeret <lb/>
             linguam meam. tamen, ne per membrorum nomina de deo <lb/>
             tibi corporeo praescribatur, dicis \'per haec incorporeas intellegendas <lb/>
@@ -5044,7 +5045,7 @@
             corpora confiteris. uerum tamen Dinocratcs frater eius mortuus <lb/>
             erat; hunc uidit cum illo uulnere quod uiuus habuit et unde est <lb/>
             perductus ad mortem. ubi est quod tantis conatibus laborasti, <lb/>
-            cum ageres de praecisione membrorum, ne simul concidi anima putarctur?<lb n="25"/>
+            cum ageres de praecisione membrorum, ne simul concidi anima <choice><sic>putarctur</sic><corr>putaretur</corr></choice>?<lb n="25"/>
             ccce uulnus erat in anima Dinocratis, quod eam ui sua, <lb/>
             quando erat in eius corpore, exclusit e corpore. quomodo ergo <lb/>
             secundum tuam opinionem, \'quando membra corporis praeciduntur,
@@ -5064,7 +5065,7 @@
              
 <pb n="407"/>
             ab ictu se subtrahit et in alias partes densendo se colligit, ne aliqua <lb/>
-            pars eius uulncre corporis amputetur\', etiamsi dormienti atque <lb/>
+            pars eius <choice><sic>uulncre</sic><corr>uulnere</corr></choice> corporis amputetur\', etiamsi dormienti atque <lb/>
             nescienti membrorum aliquid praecidatur? tantam quippe illi <lb/>
             tribuis uigilantiam. ut etiam uisis occupata somniorum, si plaga <lb/>
             inruerit ignoranti, qua caro feriatur. se illa prouidenter perniciterque <lb n="5"/>
@@ -5209,7 +5210,7 @@
             plane uidemus et in ea tamen aliquam corporis similitudinem non <lb/>
             uidemus, hanc in alio quamuis praesente non cernimus, etiam cuius <lb/>
             absentis faciem nouimus, recolimus, cogitamus. nostram uero <lb/>
-            faeiem eo modo nosse, recolere, cogitare non possumus et tamen nos <lb/>
+            <choice><sic>faeiem</sic><corr>faciem</corr></choice> eo modo nosse, recolere, cogitare non possumus et tamen nos <lb/>
             ipsos nobis magis quam illum cognitum uerissime dicimus. ita<lb n="5"/>
             clarum est, ubi sit potior hominis ueriorque notitia. 
 </p>
@@ -5274,7 +5275,7 @@
             omnino non pertinet. resurrectionem quippe illa significat corporum, <lb/>
             non sexum destruit animarum, si tamen, ut creditur, de sua morte <lb/>
             renascitur. sed arbitror, quod tuum sermonem parum putaueris <lb/>
-            fore plausibilem, si non multa de phocnice more adulescentium <lb n="10"/>
+            fore plausibilem, si non multa de <choice><sic>phocnice</sic><corr>phoenice</corr></choice> more adulescentium <lb n="10"/>
             declamares. numquid enim sunt in eius corpore genitalia masculina, <lb/>
             et non est masculus, uel feminina, et non est femina? tu autem <lb/>
             adtende, quid dicas, quid adstruere, quid persuadere coneris. <lb/>
@@ -5411,7 +5412,7 @@
             contentio est, praesertim quia illud etiam ego dico proprie uocari <lb/>
             spiritum quod et tu dicis, id est quo ratiocinamur et intellegimus, <lb/>
             quando ita distincte ista dicuntur, quemadmodum apostolus ait:<lb n="5"/>
-            etinteger spiritus uester et anima et corpus. <lb/>
+            <choice><sic>etinteger</sic><corr>et integer</corr></choice> spiritus uester et anima et corpus. <lb/>
             hunc autem spiritum etiam mentem uidetur appellare, cum dicit: <lb/>
             mente seruio legi dei, carne autem legi peccati. <lb/>
             nam ipsa sententia est: et caro concupiscit aduersus <lb/>
@@ -5539,7 +5540,7 @@
             quaecumque habent spiritum uitae, ubi remotis omnibus <lb/>
             dubitationis ambagibus generale animae nomen esse intellegimus <lb/>
             spiritum. cuius quidem nominis significa.tio tam late patet, ut <lb/>
-            etiam deus uoeetur spiritus; et iste flatus aerius, quamuis sit <lb/>
+            etiam deus <choice><sic>uoeetur</sic><corr>uocetur</corr></choice> spiritus; et iste flatus aerius, quamuis sit <lb/>
              corporeus, appellatur in psalmo spiritus tempestatis. quapropter <lb n="25"/>
             eam quae anima est etiam spiritum nuncupari puto (secundum <lb/>
             illud: auferes spiritum eorum, et deficient, <lb/>

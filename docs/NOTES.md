@@ -61,6 +61,13 @@ Le bruit reste de l'ordre de quelques pour cent du total. Ces corpus sont toutef
 même corrigé : Noscemus (39 % des mots), une partie de Wikisource, PL et CSEL. Ils devront
 être signalés comme tels dans l'interface de lecture.
 
+**CSEL corrigé (29/10/2026).** 3 280 erreurs évidentes ont été corrigées en TEI
+(`<choice><sic/><corr/></choice>`, `<lb break="no"/>`) : lettres mal lues, mots collés ou coupés,
+césures. Aucune n'est démentie par les 20 œuvres communes avec Perseus. Méthode, limites et
+résultats : [scripts/ocr/README.md](../scripts/ocr/README.md). Deux défauts restent : dans
+quelques volumes, l'apparat critique est mêlé au texte principal (Lactance, *De mortibus*), et le
+*Liber apologeticus* d'Orose reste très bruité.
+
 ## 2. Démarche de recherche des sources
 
 Une recherche large a été menée : Digital Classicist Wiki, liste

@@ -87,6 +87,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 4 mots mal lus, 2 mots collés.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -2367,7 +2368,7 @@ T2L1V2E
 </p></div>
 
 <div n="7" subtype="section" type="textpart"><p> <lb/>
-              guisque limitibus artata? Adde, quod hoc ipsum brevis <lb/>
+              <choice><sic>guisque</sic><corr>quisque</corr></choice> limitibus artata? Adde, quod hoc ipsum brevis <lb/>
               habitaculi saeptum plures incolunt nationes lingua. moribus <lb n="15"/>
               totius vitae ratione distantes, ad quas tum difficultate itinerum, <lb/>
               tum loquendi diversitate, tum commercii insolentia <lb/>
@@ -3133,7 +3134,7 @@ T2L1V2E
             consulatu functus in barbaras nationes forte devenerit, <lb/>
             venerandumne barbaris honor faciet?</p></div>
 
-<div n="12" subtype="section" type="textpart"><p>Atqui si hoc naturate  <lb/>
+<div n="12" subtype="section" type="textpart"><p>Atqui si hoc <choice><sic>naturate</sic><corr>natura te</corr></choice>  <lb/>
             munus dignitatibus foret, ab officio suo quoquo gentium <lb/>
             nullo modo cessarent, sicut ignis ubique terrarum numquam <lb n="25"/>
             tamen calere desistit.</p></div>
@@ -4945,7 +4946,7 @@ T2L1V2E
             valentior existimari potest? — Contexe, inquam, cetera; <lb/>
 </p></div>
 
-<div n="23" subtype="section" type="textpart"><p>            in naturalis ofticii potens eo, qui idem nequeat,  <lb n="20"/>
+<div n="23" subtype="section" type="textpart"><p>            in naturalis <choice><sic>ofticii</sic><corr>officii</corr></choice> potens eo, qui idem nequeat,  <lb n="20"/>
             valentior sit, nullus ambigat. - Sed summum bonum, quod <lb/>
             aeque malis bonisque propositum boni quidem naturali <lb/>
             officio virtutum petunt, mali vero variam per cupiditatem. <lb/>
@@ -5357,7 +5358,7 @@ T2L1V2E
 <div n="5" subtype="section" type="textpart"><p>Itaque cum sua singuliS  <lb/>
             miseria sit, triplici infortunio necesse est urgueantur, <lb/>
             <lb/>
-            quos viaeas scelus velle posse perficere.</p></div>
+            quos <choice><sic>viaeas</sic><corr>via eas</corr></choice> scelus velle posse perficere.</p></div>
 
 <div n="6" subtype="section" type="textpart"><p>— Accedo, inquam,               <lb/>
             sed, uti hoc infortunio cito careant patrandi sceleris possibilitate <lb n="15"/>
@@ -5593,7 +5594,7 @@ T2L1V2E
             ducerent defensorumque operam repudiarent ac se totos <lb/>
             accusatoribus iudicibusque permitterent.</p></div>
 
-<div n="41" subtype="section" type="textpart"><p>Quo fLt, ut apud  <lb/>
+<div n="41" subtype="section" type="textpart"><p>Quo <choice><sic>fLt</sic><corr>fit</corr></choice>, ut apud  <lb/>
             sapientes nullus prorsus odio locus relinquatur. — nam <lb/>
             bonos quis nisi stultissimus oderit? — malos vero odisse <lb/>
             ratione caret.</p></div>
@@ -5952,7 +5953,7 @@ T2L1V2E
             unicuique conveniat, agnoscit et, quod convenire novit, <lb n="15"/>
             accommodat.</p></div>
 
-<div n="31" subtype="section" type="textpart"><p>Hic iam 6t illud fatalis ordinis insigne miracuium,  <lb/>
+<div n="31" subtype="section" type="textpart"><p>Hic iam 6t illud fatalis ordinis insigne <choice><sic>miracuium</sic><corr>miraculum</corr></choice>,  <lb/>
             cum ab sciente geritur, quod stupeant ignorantes. 
 </p>
           </div>

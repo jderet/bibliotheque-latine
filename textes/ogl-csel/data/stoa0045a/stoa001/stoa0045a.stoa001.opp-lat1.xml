@@ -86,7 +86,8 @@
     </profileDesc>
   <revisionDesc>
     <change when="2021-11-23" who="Alison Babeu">Merged two files; incorporated stoa0045a.stoa002.opp.lat-1 into this file.</change>
-  </revisionDesc>  
+  <change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 13 mots collés, 24 mots mal lus, 1 mot coupé.</change>
+</revisionDesc>  
 </teiHeader>
 <text>
 <body>
@@ -148,7 +149,7 @@
             quem omnis multitudo fidelium et proceres de urbe iterum  <lb/>
             cum magno dedecore proiecerunt.</p></div>
 
-<div n="4" subtype="section" type="textpart"><p>post aunos octo Ualentiniano <lb/>
+<div n="4" subtype="section" type="textpart"><p>post <choice><sic>aunos</sic><corr>annos</corr></choice> octo Ualentiniano <lb/>
             et Ualente consulibus X Kalendarum Decembrium die <lb/>
             defunctus est Felix. Liberius misericordiam fecit in clericos, <lb n="15"/>
             qui peiurauerant, eosque locis propriis suscepit. itemque <lb/>
@@ -1029,7 +1030,7 @@
             praesertim dei uocem dicentis: qui perseuerauerit usque <lb/>
             in finem, hic saluus erit?</p></div>
 
-<div n="54" subtype="section" type="textpart"><p>sed etapostoli Pauli uasis electionis  <lb n="5"/>
+<div n="54" subtype="section" type="textpart"><p>sed <choice><sic>etapostoli</sic><corr>et apostoli</corr></choice> Pauli uasis electionis  <lb n="5"/>
             a Christo domino pronuntiati, cuius ad Galatas scribentis haec <lb/>
             uerba sunt: sed etsi nos aut angelus de caelo euangelizauerit <lb/>
             praeterquam euangelizauimus uobis, <lb/>
@@ -1283,7 +1284,7 @@
             diuini iudicii nolebant communicare cum perfidis uel sociis  <lb n="25"/>
             perfidorum.</p></div>
 
-<div n="73" subtype="section" type="textpart"><p>in Hispania Uincentius presbyter uerae tidei <lb/>
+<div n="73" subtype="section" type="textpart"><p>in Hispania Uincentius presbyter uerae <choice><sic>tidei</sic><corr>fidei</corr></choice> <lb/>
             antistes quas non atrocitates praeuaricatorum passus est, eo <lb/>
             quod nollet esse socius impiae praeuaricationis illorum. eo <lb/>
             quod beatissimo Gregorio communicaret. illi Gregorio, cuius <lb/>
@@ -2098,7 +2099,7 @@
             sanctius gesseritis, tanto gloriosius et hic et in perpetuum  <lb/>
             Christi fauore regnabitis.</p></div>
 
-<div n="124" subtype="section" type="textpart"><p>ego Marcellinus preshyter optans<lb n="20"/>
+<div n="124" subtype="section" type="textpart"><p>ego Marcellinus <choice><sic>preshyter</sic><corr>presbyter</corr></choice> optans<lb n="20"/>
             felicissimo imperio uestro securam quietem et in regno Christi <lb/>
             et dei perpetuam beatitudinem, piissimi imperatores. ego <lb/>
             Faustinus, qui non possum dignus uocari presbyter dei, optans <lb/>
@@ -5550,7 +5551,7 @@
             perfuderint, quid homo nitatur loqui, quod non potest eloqui? <lb/>
             quia nec te ipsum satis nosse arbitror, sed nobis crede <lb/>
             quantum boni feceris talia nobis scripta mittendo. sicut enim<lb n="15"/>
-            tu testis es animi tui, ita nos nostui, quemadmodum sit affectus  <lb/>
+            tu testis es animi tui, ita nos <choice><sic>nostui</sic><corr>nos tui</corr></choice>, quemadmodum sit affectus  <lb/>
             illarum sinceritate luculentissima litterarum.</p></div>
 
 <div n="4" subtype="section" type="textpart"><p>si enim <lb/>
@@ -6021,7 +6022,7 @@
             et de prouectibus pacis saepe, quantum fieri potest, sollicitudini <lb/>
             nostrae mittantur indicia, ut per alterna colloquia <lb/>
             sentiamus, quia caritas dei diffusa est in cordibus <lb n="20"/>
-            nostris per spiritum sanctum, qui datus estnobis. <lb/>
+            nostris per spiritum sanctum, qui datus <choice><sic>estnobis</sic><corr>est nobis</corr></choice>. <lb/>
             Data XV. Kal. Septbr. Magno et Apollonio consulibus. 
 </p>
           
@@ -9457,7 +9458,7 @@
             crucifixum dicent scandalum esse credere Christo auertentes <lb/>
             se et dicentes: \'dei nostri, qui apud Christianos falsi sunt, <lb/>
             inmortales a nobis enuntiantur. et quomodo (deus) eorum<lb n="5"/>
-            immoitalis exsistens mortuus est? palam est ergo, quia falsa <lb/>
+            <choice><sic>immoitalis</sic><corr>immo italis</corr></choice> exsistens mortuus est? palam est ergo, quia falsa <lb/>
             est haec dictio; si enim mortuus est, iam non est immortalis  <lb/>
             neque fortis sed infirmus, ab immortalitate conuersus\'.</p></div>
 
@@ -11095,7 +11096,7 @@
             sacerdotes pacem et sanctificationem sequi cum omnibus oportet, <lb n="5"/>
             sine quibus nemo secundum apostolum uidebit dominum. et <lb/>
             nos igitur apostolicam sequentes doctrinam et festinantes concordiam <lb/>
-            ecclesiarum seruari pracsentem facimus libellum.</p></div>
+            ecclesiarum seruari <choice><sic>pracsentem</sic><corr>praesentem</corr></choice> facimus libellum.</p></div>
 
 <div n="4" subtype="section" type="textpart"><p>in primis  <lb/>
             quattuor sanctas synodos patresque, qui in isdem synodis consederunt, <lb/>
@@ -11460,7 +11461,7 @@
             omnino ex uirgine natum deum esse et ex deo consubstantialem  <lb/>
             patri.</p></div>
 
-<div n="31" subtype="section" type="textpart"><p>nam si non hoino est, sicut dicis, adsumptus, qui natus<lb n="10"/>
+<div n="31" subtype="section" type="textpart"><p>nam si non <choice><sic>hoino</sic><corr>homo</corr></choice> est, sicut dicis, adsumptus, qui natus<lb n="10"/>
             est ex uirgine, deus uero incarnatus: quomodo, qui natus est, <lb/>
             deus ex deo et consubstantialis diceretur patri carne non potente <lb/>
             hanc uocem suscipere? nam est quidem dementia deum ex uirgine <lb/>
@@ -11539,7 +11540,7 @@
 
           <p> Et per tempus quidem ad baptisma ducens, post illud autem <lb/>
             ad mortem, deinde secundum suam pronuntiationem resuscitans, <lb/>
-            ducens in caelum, collocans eum ad dexteram dei per suam coniunctioncm, <lb n="25"/>
+            ducens in caelum, collocans eum ad dexteram dei per suam <choice><sic>coniunctioncm</sic><corr>coniunctionem</corr></choice>, <lb n="25"/>
             ex qua sedet et adoratur ah omnibus et omnibus indicabit. <lb/>
             istorum autem omnium finem apud so habebat deus uerbum. <lb/>
             cum in eo erat, et omnia per ordinem complebat. quem ordinem <lb/>
@@ -11588,7 +11589,7 @@
             non hoc faciebat locum sensus deitatem optinere.</p></div>
 
 <div n="40" subtype="section" type="textpart"><p>sed si doitas <lb/>
-            pro sensn fiebat illi, qui adsumptus est, secundum uestra uerba: <lb/>
+            pro <choice><sic>sensn</sic><corr>sensu</corr></choice> fiebat illi, qui adsumptus est, secundum uestra uerba: <lb/>
             quomodo timorem in passione suscipiebat? quid uehementioribus <lb/>
             orationibus ad inminentem necessitatem indigebat. quas cum magna <lb/>
             quidem et clamosa uoce, cum plurimis autem lacrimis secundum<lb n="25"/>
@@ -11693,7 +11694,7 @@
             quod decebat docebatur, ab eo cogitationibus corroborabatur, ut <lb/>
             ad tantum certamen sufficeret, sicut et beatus dicit Paulus: quicumque<lb n="15"/>
             enim spiritu dei aguntur, hi sunt filii dei, <lb/>
-            dnci spiritu dicens illos, qui ab eo gubernantur, ab eo docentur. <lb/>
+            <choice><sic>dnci</sic><corr>duci</corr></choice> spiritu dicens illos, qui ab eo gubernantur, ab eo docentur. <lb/>
             ab eo ad melius constituuntur, ab eo competentium doctrinam  <lb/>
             accipiunt.</p></div>
 
@@ -12522,7 +12523,7 @@
              <lb n="30"/>
             peccatum non fecit:</p></div>
 
-<div n="100" subtype="section" type="textpart"><p>longe a salute mea uerba delietorum <lb/>
+<div n="100" subtype="section" type="textpart"><p>longe a salute mea uerba <choice><sic>delietorum</sic><corr>delictorum</corr></choice> <lb/>
             meorum. et ideo, qui haec &lt;ita&gt; sapit docet credit <lb/>
             aut praedicat et non ea, in quibus delictorum meminit, ad <lb/>
             corpus ipsius, quod est ecclesia, quae in hoc mundo sine <lb/>
@@ -14156,7 +14157,7 @@
             sunt, anathemati subdi aut nominatim alicuius <lb n="20"/>
             feci mentionem?</p></div>
 
-<div n="209" subtype="section" type="textpart"><p>et post pauca: et llla capitula, quae <lb/>
+<div n="209" subtype="section" type="textpart"><p>et post pauca: et <choice><sic>llla</sic><corr>illa</corr></choice> capitula, quae <lb/>
             subiecta sunt, reppuli utpote suptilitatem non <lb/>
             habentia pietatis: neque autem de Theodoro
 
@@ -14187,7 +14188,7 @@
             litteras didici nunc, quia Theodori Mopsuesteni <lb/>
             et aliorum quorundam nomina praeposita sunt <lb/>
             capitulis ad anathematizandum, cum illi ad deum <lb/>
-            iam migrauerunt eteos, quiiam uitam reliquerunt, <lb n="10"/>
+            iam migrauerunt <choice><sic>eteos</sic><corr>et eos</corr></choice>, <choice><sic>quiiam</sic><corr>qui iam</corr></choice> uitam reliquerunt, <lb n="10"/>
             superuacuum est iniuriari post mortem, quos nec <lb/>
             uiuos aliquando culpauimus? et post pauca: post <lb/>
             suscriptionem autem tomi et post abiectionem <lb/>
@@ -14302,7 +14303,7 @@
             in sanctorum Iohannis Constantinopolitani episcopi, quem <lb/>
             Chrysostomum uocant, atque Flauiani eiusdem ciuitatis episcopi <lb/>
             ueneranda memoria constat esse seruatam, quia licet uiolenter <lb/>
-            exclusi sunt, non tamem pro damnatis sunt habiti, eo quod <lb n="25"/>
+            exclusi sunt, non <choice><sic>tamem</sic><corr>famem</corr></choice> pro damnatis sunt habiti, eo quod <lb n="25"/>
             semper inuiolatam eorum communionem Romani praesules <lb/>
             seruauerunt nec abscidi ab ecclesia dici potuerunt uel poterunt, <lb/>
             quos sibi inconuulse unitos apostolica iudicauit auctoritas.</p></div>
@@ -14697,7 +14698,7 @@
 </p>
           </div>
 
-<div n="245" subtype="section" type="textpart"><p>Diogenes reuorentissimus episcopus Cyzici dixit: \'Definitionem, 
+<div n="245" subtype="section" type="textpart"><p>Diogenes <choice><sic>reuorentissimus</sic><corr>reuerentissimus</corr></choice> episcopus Cyzici dixit: \'Definitionem, 
 
 <note type="footnote"> 1 suscipimus r <hi rend="italic">et Uigilius l. c. 478 D:</hi> suscepimus <hi rend="italic">ClN</hi> peruideo <lb/>
             <hi rend="italic">N (cf. infra p. 306, 23):</hi> praeuideo <hi rend="italic">V et Uigilius l. c. 478 E</hi>. <lb/>
@@ -14779,7 +14780,7 @@
 </p>
           </div>
 
-<div n="249" subtype="section" type="textpart"><p>Iohannes uenerabilis episcopus Sebastiae et Seleucus nenerabilis  <lb/>
+<div n="249" subtype="section" type="textpart"><p>Iohannes uenerabilis episcopus Sebastiae et Seleucus <choice><sic>nenerabilis</sic><corr>uenerabilis</corr></choice>  <lb/>
             episcopus Amasiae et Constantinus uenerabilis episcopus Melitenus <lb/>
             et Patricius uenerabilis episcopus Tyanorum et Petrus &lt;uenerabilis&gt; <lb/>
             episcopus Gangrorum et Atarbius uenerabilis episcopus Trapezuntis <lb/>
@@ -15713,7 +15714,7 @@
 </p>
           </div>
 
-<div n="313" subtype="section" type="textpart"><p> Quoduultdeus episeopus ecclesiae Numanae huic constituto <lb/>
+<div n="313" subtype="section" type="textpart"><p> Quoduultdeus <choice><sic>episeopus</sic><corr>episcopus</corr></choice> ecclesiae Numanae huic constituto <lb/>
             consentiens suscripsi. 
 </p>
           <p>Theophanius archidiaconus sanctae ecclesiae Romanae huic <lb/>
@@ -16057,7 +16058,7 @@
 <div n="24" subtype="section" type="textpart"><p>posuerunt mendacium spem suam et<lb n="10"/>
             mendacio operiri sperauerunt, et iterum, qui secundum <lb/>
             prophetam dicunt domino: recede a nobis, uias tuas <lb/>
-            scire nolumus, proter quod Salomon dicit: semitas <lb/>
+            scire nolumus, <choice><sic>proter</sic><corr>profer</corr></choice> quod Salomon dicit: semitas <lb/>
             propriae culturae errauerunt, colligunt autem  <lb/>
             manibus infructuosa.</p></div>
 
@@ -17900,7 +17901,7 @@
             damnati; tollant ergo de medio nescio quem ipsi tertium, <lb/>
             quem decipiendis paruulis faciunt, locum et, quia non nisi <lb/>
             dextram partem legimus et sinistram, non illos faciant in <lb/>
-            siuistra regione sine baptismate remanere sed baptizatos<lb n="10"/>
+            <choice><sic>siuistra</sic><corr>sinistra</corr></choice> regione sine baptismate remanere sed baptizatos<lb n="10"/>
             sinant ad dexteram salutarem sacra regeneratione transferri. 
 </p>
           </div>
@@ -20336,7 +20337,7 @@
             angelus satanae, qui me colafizet. propter quod <lb/>
             ter dominum rogaui, ut discederet a me, et dixit <lb n="25"/>
             mihi \'sufficit tibi gratia mea, nam uirtus in <lb/>
-            infirmitate perficitur'. lib enter igitur gloriabor <lb/>
+            infirmitate perficitur'. <choice><sic>lib enter</sic><corr>libenter</corr></choice> igitur gloriabor <lb/>
             in infirmitatibus meis, ut inhabitet in me uirtus <lb/>
             Christi, et item ipse: uanitati enim creatura subiecta  <lb/>
             est:</p></div>
@@ -21931,7 +21932,7 @@ sibimet suffragari, quo uideantur adserere in uirilem formam <lb n="10"/>
             apostolica sede damnari, post tot damnationes Tyriorum <lb/>
             miserit ecclesiae praesidere.</p></div>
 
-<div n="27" subtype="section" type="textpart"><p>postquam ergo nou solum niliil  <lb/>
+<div n="27" subtype="section" type="textpart"><p>postquam ergo nou solum <choice><sic>niliil</sic><corr>nihil</corr></choice>  <lb/>
             profecisse litteras decessoris sui sanctus Felix papa cognouit <lb/>
             et ludibria quaedam ab Acacio fieri in euersionem fidei et <lb n="10"/>
             totius ecclesiasticae disciplinae, electis Uitali episcopo Troentinati <lb/>
@@ -22143,7 +22144,7 @@ sibimet suffragari, quo uideantur adserere in uirilem formam <lb n="10"/>
             tanto sollicitius examinandus est quanto magis propinquus est, <lb n="25"/>
             tanto magis reus est quanto in illo ministerio constitutus, et <lb/>
             haec facere minime debuisset. ecce censura non deest: auditur <lb/>
-            et. si conuictus fuerit, uiudictae consequenter addicitur. age
+            et. si conuictus fuerit, <choice><sic>uiudictae</sic><corr>uindictae</corr></choice> consequenter addicitur. age
 
 <note type="footnote"> 2 loh, 8, 7 7 Ioh. 8, 10 sq. 13 cf.Dig. XLVIII 1.5; C.Th. <lb/>
             IX 1, 12; C. Iust. IX 1. 19 14 Matth. 7, 3 </note>
@@ -24465,7 +24466,7 @@ sibimet suffragari, quo uideantur adserere in uirilem formam <lb n="10"/>
             secundum prophetam pax multa diligentibus nomen tuum <lb/>
             et non est illis scandalum.</p></div>
 
-<div n="7" subtype="section" type="textpart"><p>non suntincognita apudmansuetudinem  <lb/>
+<div n="7" subtype="section" type="textpart"><p>non <choice><sic>suntincognita</sic><corr>sunt incognita</corr></choice> <choice><sic>apudmansuetudinem</sic><corr>apud mansuetudinem</corr></choice>  <lb/>
             uestram, quae nos ab ea, quam redintegrare cupimus, <lb/>
             unitate discernant. date operam, ut laudando, quae profitemini, <lb/>
             compleantur effectu, et apostoli, cuius communionem creditis <lb n="25"/>
@@ -24474,7 +24475,7 @@ sibimet suffragari, quo uideantur adserere in uirilem formam <lb n="10"/>
             religiosis impios portionem nec ullum fidei cum perfidia esse <lb/>
             consortium.</p></div>
 
-<div n="8" subtype="section" type="textpart"><p>consequens est, ut qui errorum detestatur prineipes,  <lb/>
+<div n="8" subtype="section" type="textpart"><p>consequens est, ut qui errorum detestatur <choice><sic>prineipes</sic><corr>principes</corr></choice>,  <lb/>
              oderit sectatores; exsecrabile habeatur in flore, quod
 
 <note type="footnote"> 2 cf. Matth. 11, 12 6 Philipp. 1, 6 10 Act. 4, 32 15 cf. <lb/>
@@ -24902,7 +24903,7 @@ sibimet suffragari, quo uideantur adserere in uirilem formam <lb n="10"/>
 </p>
           </div>
 
-<div n="5" subtype="section" type="textpart"><p rend="script"> Praesentati itaque lmperaton htteras porrigite cum tali allocutione <lb/>
+<div n="5" subtype="section" type="textpart"><p rend="script"> Praesentati itaque lmperaton <choice><sic>htteras</sic><corr>litteras</corr></choice> porrigite cum tali allocutione <lb/>
             \'salutat pater uester, deum cotidie rogans et confessionibus <lb/>
             sanctorum apostolorum Petri et Pauli uestrum regnum <lb/>
             commendans, ut deus, qui nobis tale desiderium dedit, ut pro <lb/>
@@ -26630,7 +26631,7 @@ sibimet suffragari, quo uideantur adserere in uirilem formam <lb n="10"/>
             nonne hoc ante oculos habens discipulum ita gentium doctor <lb/>
             instituit, ut oportune inoportune euangelizare non cesset. <lb/>
             admonens: adtende tibi et doctrinae, insta in illis; <lb/>
-            hoc enim faciens et te ipsum saluum facies eteos <lb/>
+            hoc enim faciens et te ipsum saluum facies <choice><sic>eteos</sic><corr>et eos</corr></choice> <lb/>
             qui te audiunt?</p></div>
 
 <div n="11" subtype="section" type="textpart"><p>ergo uel propheticis stimulis excitati  <lb n="5"/>
@@ -28349,7 +28350,7 @@ sibimet suffragari, quo uideantur adserere in uirilem formam <lb n="10"/>
             </p></div>
 
 <div n="19" subtype="section" type="textpart"><p>et quidem nobis cura non defuit, nam geminae legationis <lb/>
-            officio quicquid in precibus humile, quicquidin allegationibus rationabile, <lb/>
+            officio quicquid in precibus humile, <choice><sic>quicquidin</sic><corr>quicquid in</corr></choice> allegationibus rationabile, <lb/>
             quicquid in mandatis salubre, detulimus. sed numquid <lb/>
             ideo neglegenda est iustitiae uia, quia errores suos diligit cum<lb n="20"/>
             obstinatione perfidia? non sunt iungendi cum cadentibus lapsus: <lb/>
@@ -30986,7 +30987,7 @@ sibimet suffragari, quo uideantur adserere in uirilem formam <lb n="10"/>
             praeterire nequiuimus et ideo salutationis honorificentiam <lb/>
             praeloquentes eos, qui in rem destinati sunt, commendamus,<lb n="10"/>
             postulantes, ut domino nostro auctore sub uestra dispositione <lb/>
-            celeriter ad destinata perueuiant, ut sacratissimus et religiosissimus <lb/>
+            celeriter ad destinata <choice><sic>perueuiant</sic><corr>perueniant</corr></choice>, ut sacratissimus et religiosissimus <lb/>
             imperator meritorum suorum gloriam possit sine <lb/>
             dilatione cognoscere. 
 </p>
@@ -34697,7 +34698,7 @@ sibimet suffragari, quo uideantur adserere in uirilem formam <lb n="10"/>
             duabus personis et substantiis per unitionem sumus edocti  <lb/>
 </p></div>
 
-<div n="9" subtype="section" type="textpart"><p>            eundemque acimus unigenitum filium dei et ante incarnationem <lb/>
+<div n="9" subtype="section" type="textpart"><p>            eundemque <choice><sic>acimus</sic><corr>agimus</corr></choice> unigenitum filium dei et ante incarnationem <lb/>
             eius et post, id est deum simul et hominem, passibilem<lb n="5"/>
             carne impassibilem deitate, circumscriptum corpore non <lb/>
             circumscriptum spiritu, id est terrenum et caelestem, quem <lb/>
@@ -36321,7 +36322,7 @@ sibimet suffragari, quo uideantur adserere in uirilem formam <lb n="10"/>
 <div n="2" subtype="section" type="textpart"><p>sic erat  <lb/>
             congruum, karissimi nobis, sic se circa proximum patefacere <lb/>
             decebat affectum, ut per uos sedi apostolicae innotescat, quod <lb/>
-            moribus et sanctitate fulgeret, quod usque adeo se oiim bonis <lb/>
+            moribus et sanctitate fulgeret, quod usque adeo se <choice><sic>oiim</sic><corr>olim</corr></choice> bonis <lb/>
             sicut et uos asseritis, imbuit institutis, ut non sit fortius <lb n="25"/>
             meriti testimonium quam in honorem\' sacerdotis adscitum. <lb/>
             quid est enim, quod de eo habeatur ambiguum, in quo de
@@ -36694,7 +36695,7 @@ sibimet suffragari, quo uideantur adserere in uirilem formam <lb n="10"/>
             uel Libyrtino, alii uero dicunt amygdalino, alii susino, praecepisse <lb/>
             montem rigare;</p></div>
 
-<div n="13" subtype="section" type="textpart"><p>alii uero nequaquam, sed aiuut Neronem  <lb/>
+<div n="13" subtype="section" type="textpart"><p>alii uero nequaquam, sed <choice><sic>aiuut</sic><corr>aiunt</corr></choice> Neronem  <lb/>
             uel Domitianum oleum in uasis aeneis Nicaenis inmittere. <lb/>
             quod ex aeris ipsius aerugine per tempus uiridesceret, et sic <lb n="10"/>
             ex eo montem rigare petramque suscipientem hoc oleum plus <lb/>
@@ -37861,14 +37862,14 @@ sibimet suffragari, quo uideantur adserere in uirilem formam <lb n="10"/>
             eorum non sunt scripti iuxta ueterem formam, quae tunc in <lb/>
             tabulis lapideis constat insculpta. haec igitur forma, quam <lb/>
             nunc tenent Iudaei, uocatur somahirenus. Samaritani uero <lb/>
-            seruant deessenon, quae forma fuit olim, ut diximus, in <lb n="5"/>
+            seruant <choice><sic>deessenon</sic><corr>deesse non</corr></choice>, quae forma fuit olim, ut diximus, in <lb n="5"/>
             tabulis impressa lapideis.</p></div>
 
 <div n="96" subtype="section" type="textpart"><p>at Hesdra ascendens a Babylone  <lb/>
             nolensque discernere Israhel a reliquis gentibus, ut genus <lb/>
             Abrahae non uideretur esse permixtum cura habitatoribus <lb/>
             terrae, qui tenent quidem legem, non tamen et prophetas, <lb/>
-            immutauit pristinam formam relinquens deessenon, propter <lb n="10"/>
+            immutauit pristinam formam relinquens <choice><sic>deessenon</sic><corr>deesse non</corr></choice>, propter <lb n="10"/>
             quod ea forma a Samaritanis praeoccupata iam fuerat, ut per <lb/>
             hoc Abrahae semen distingueretur a nationibus reliquis. sed <lb/>
             nos his peruenientes in locis coacti sumus ob occasionem <lb/>
@@ -39054,7 +39055,7 @@ sibimet suffragari, quo uideantur adserere in uirilem formam <lb n="10"/>
             etiam Nestorium dudum in ecclesia res sacrilegas praedicantem  <lb/>
 </p></div>
 
-<div n="5" subtype="section" type="textpart"><p>            reprehendierat, ipse quoque ineptias Euthicis detulit et ad <lb/>
+<div n="5" subtype="section" type="textpart"><p>            <choice><sic>reprehendierat</sic><corr>reprehendi erat</corr></choice>, ipse quoque ineptias Euthicis detulit et ad <lb/>
             Flauianum Constantinopolitane sedis catholicum episcopum et <lb/>
             ad iudicium prouocauit. dicta causa damnatus est Euthices. <lb/>
             offenditur imperator Theodosius, cuius iussione fere trecenti<lb n="20"/>

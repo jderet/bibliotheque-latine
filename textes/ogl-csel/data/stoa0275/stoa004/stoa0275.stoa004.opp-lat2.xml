@@ -87,6 +87,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 2 mots mal lus.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -1460,7 +1461,7 @@
             praeparauit eum. segregatis enim aquis in cauatiorem <lb/>
             sinum emicantior facta est arida, quae antehac aquis tegebatur. <lb/>
             exinde itaque et uisibilis efficitur dicente deo: congregetur <lb n="10"/>
-            aquain congregatione una, et uideatur arida. <lb/>
+            <choice><sic>aquain</sic><corr>aquam</corr></choice> congregatione una, et uideatur arida. <lb/>
             (uideatur,) inquit, non \'fiat.\' iam enim facta erat, sed, inuisibilis <lb/>
             usque tunc, uideri sustinebat. \'arida\' autem, quod erat futura <lb/>
             ei diuortio humoris, iam terra: et uocauit deus aridam <lb/>
@@ -1871,7 +1872,7 @@
             quae tibi nihil certi renuntiare consueuit. nam sicut nec <lb/>
             corporalem nec incorporalem infers materiam, ita nec bonam <lb n="20"/>
             nec malam adlegas et proinde superargumentans: \'si enim\', <lb/>
-            inquis, \'esset bona, quae semper hoc fuerat non dosideraret <lb/>
+            inquis, \'esset bona, quae semper hoc fuerat non <choice><sic>dosideraret</sic><corr>desideraret</corr></choice> <lb/>
             compositionem dei: si esset natura mala, non accepisset <lb/>
             translationem in melius, nec quicquam compositionis suae <lb/>
             adplicuisset illi deus, tali natura; in uacuum enim laborasset\'.

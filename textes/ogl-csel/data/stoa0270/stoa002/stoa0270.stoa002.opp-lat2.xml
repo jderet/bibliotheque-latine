@@ -85,6 +85,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 1 mot mal lu.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -1220,7 +1221,7 @@
 <div n="7" subtype="section" type="textpart"><p>quo uiso rustici, cum se intellegerent <lb n="20"/>
             diuino nutu obstupefactos adque perterritos, ne episcopo repugnarent,<lb/>
             omnes fere Iesum Dominum crediderunt, clamantes palam <lb/>
-            et confitentes, Deum Martini colendum, idola autem neclegenda, <lb/>
+            et confitentes, Deum Martini colendum, idola autem <choice><sic>neclegenda</sic><corr>neglegenda</corr></choice>, <lb/>
             quae nec sibi <hi rend="italic">nec aliis</hi> adesse possent.
 
 

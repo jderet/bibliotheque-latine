@@ -85,6 +85,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 12 mots mal lus, 2 mots collés.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -1264,7 +1265,7 @@
             custos ingressus clausis uisceribus et conceptus est et creatus. <lb n="5"/>
             quae nouae lucis illa tunc claritas mundi totius oras impleuit! <lb/>
             quae caelo laetitia! quis ille nitor effulsit, cum Christus splendore <lb/>
-            sidereo<foreign xml:lang="grc">ό</foreign>, uelutsponsus procedens de thalamo suo, <lb/>
+            sidereo<foreign xml:lang="grc">ό</foreign>, <choice><sic>uelutsponsus</sic><corr>uelut sponsus</corr></choice> procedens de thalamo suo, <lb/>
             Mariae processit ex utero! cuius ita species diuina uidebatur <lb/>
             gratia praenitere, ut Dauiticus ipsum psalmus ita pronuntiet:<lb n="10"/>
             speciosus forma prae filiis hominum diffusa est <lb/>
@@ -1837,7 +1838,7 @@
 </p>
           </div>
 
-<div n="13" subtype="section" type="textpart"><p rend="script">Euangelioae leetionis ergo teitus ita prosequitur: baptizatus  <lb/>
+<div n="13" subtype="section" type="textpart"><p rend="script">Euangelioae <choice><sic>leetionis</sic><corr>lectionis</corr></choice> ergo teitus ita prosequitur: baptizatus  <lb/>
             autem confestim ascendit de aqua, et ecce. <lb/>
             aperti sunt caeli, et uidit Spiritum Dei descendentem <lb n="5"/>
             sicut columbam uenientem super se. et <lb/>
@@ -2092,7 +2093,7 @@
 </p>
           </div>
 
-<div n="16" subtype="section" type="textpart"><p rend="script">Eiin diseipulos ex piscatoribus quosdam sibimet sociauit  <lb/>
+<div n="16" subtype="section" type="textpart"><p rend="script">Eiin <choice><sic>diseipulos</sic><corr>discipulos</corr></choice> ex piscatoribus quosdam sibimet sociauit  <lb/>
             accitos, humanas deinceps animas piscaturos, quae lubricam <lb/>
             sectantes mundi laetitiam tamquam natantes uias ponti fluctuantis <lb n="5"/>
             incertas per uoluptuosos lapsus uagis cursibus errauerunt, <lb/>
@@ -3649,7 +3650,7 @@
 
 <div n="1" subtype="section" type="textpart"><p rend="script">Iam cum Iordanis denuo fluenta transgrediens Iudaeae  <lb/>
             semitam praeteriret, passim uulgus inmensum, et cateruas ab <lb/>
-            omni uarietate languoris sine nomine curauit innumeras, inflrmos <lb/>
+            omni uarietate languoris sine nomine curauit innumeras, <choice><sic>inflrmos</sic><corr>infirmos</corr></choice> <lb/>
             accipiens et incolomes remeare concedens. nil igitur <lb/>
             summo conferre difficile est de se sperantibus Deo, cui facultas. <lb n="5"/>
             prona subpeditat ardua planare, curua dirigere, quod est <lb/>
@@ -3940,7 +3941,7 @@
 </p>
           </div>
 
-<div n="10" subtype="section" type="textpart"><p rend="script">Tu quoque Dominicae nirtntis dona sensisti, cuius in oculis  <lb/>
+<div n="10" subtype="section" type="textpart"><p rend="script">Tu quoque Dominicae <choice><sic>nirtntis</sic><corr>uirtutis</corr></choice> dona sensisti, cuius in oculis  <lb/>
             tartarea caecitate compressis Christus expuit, speciem ilico
 
 <note rend="script" type="footnote"> 1 Cnr eiectos e corpore daemonas Christus loqui non sinebat <hi rend="italic">inscrib</hi>. <lb/>
@@ -4112,7 +4113,7 @@
 </p>
           </div>
 
-<div n="15" subtype="section" type="textpart"><p rend="script">Interea cninsdam Pharisaeorum principis ueniens obsecratns  <lb/>
+<div n="15" subtype="section" type="textpart"><p rend="script">Interea <choice><sic>cninsdam</sic><corr>cuiusdam</corr></choice> Pharisaeorum principis ueniens obsecratns  <lb/>
             ad epulas, non magis uescendi gratia quam eius domum <lb n="10"/>
             clarificare festinans, uidit hominem falsae crassitudinis tumore <lb/>
             distentum, cuius uenter aqua redundante perspicuus utris putabatur <lb/>
@@ -4348,7 +4349,7 @@
 </p>
           </div>
 
-<div n="21" subtype="section" type="textpart"><p rend="script"> Bethaniam deinde sollicitns salutiferis greesibus clementer <lb/>
+<div n="21" subtype="section" type="textpart"><p rend="script"> Bethaniam deinde <choice><sic>sollicitns</sic><corr>sollicitus</corr></choice> salutiferis greesibus clementer <lb/>
             aduenerat, ubi Lazarus humana finem condicione sortitus<lb n="20"/>
             sepulchrali sub lapide quartae iacebat lucis cursu iam fetidus.
 
@@ -4391,7 +4392,7 @@
 </p>
           </div>
 
-<div n="22" subtype="section" type="textpart"><p rend="script">Vtque Dominus saeoularis ambitus caduca contemnens Deum:  <lb/>
+<div n="22" subtype="section" type="textpart"><p rend="script">Vtque Dominus <choice><sic>saeoularis</sic><corr>saecularis</corr></choice> ambitus caduca contemnens Deum:  <lb/>
             sese celsissimum magis humilitate monstraret, non altis curribus, <lb/>
             qui pompae mortalis amor ostenditur, quadriiuga
 
@@ -4465,7 +4466,7 @@
           </head>
 
 
-<div n="1" subtype="section" type="textpart"><p rend="script">Inter has dinitum copias sine fine uirtutum pascha coeperat  <lb/>
+<div n="1" subtype="section" type="textpart"><p rend="script">Inter has <choice><sic>dinitum</sic><corr>diuitum</corr></choice> copias sine fine uirtutum pascha coeperat  <lb/>
             esse iam proximum, quo gloriosa Christi potentia mortalem <lb/>
             nellet exponere resumptura carnem perpetuo iam uiuacem, <lb/>
             non alteram, sed eandem, quam remuneratione lucis impletam <lb/>
@@ -5012,7 +5013,7 @@
 </p>
           </div>
 
-<div n="14" subtype="section" type="textpart"><p>Nec illud a consortio dininitatis abscedit, quod datum sibi  <lb/>
+<div n="14" subtype="section" type="textpart"><p>Nec illud a consortio <choice><sic>dininitatis</sic><corr>diuinitatis</corr></choice> abscedit, quod datum sibi  <lb/>
             uinum tristi felle mixtum labris tetigit et ab ore proiecit. <lb/>
             signum fuit quippe mirabile, amaram mortem Dominum degustare <lb/>
             confestimque uirus eius horribile reducis uultus auersione <lb n="10"/>
@@ -5060,7 +5061,7 @@
 </p>
           </div>
 
-<div n="16" subtype="section" type="textpart"><p> Cumque milites eius sibi nestimenta diuiderent, tunicam <lb/>
+<div n="16" subtype="section" type="textpart"><p> Cumque milites eius sibi <choice><sic>nestimenta</sic><corr>uestimenta</corr></choice> diuiderent, tunicam <lb/>
             sortiti sunt quis haberet, quoniam suta non fuerat, sed de <lb/>
             superioribus texta per omnia, nefariumque duxerunt speciem<lb n="10"/>
             tanti uiolare miraculi. legant haec scismatici profecto doctores <lb/>
@@ -5290,7 +5291,7 @@
             talia cernerent euenire pericula qui Dominum ligno crucis <lb/>
             affixerant, nequaquam expauere tot signa, tot praesentis metus <lb/>
             inaudita prodigia. quin insuper cum potum sitiens postularet, <lb/>
-            unus de plebe nequissima spongiam calamo nexuit et acetumeius <lb n="10"/>
+            unus de plebe nequissima spongiam calamo nexuit et <choice><sic>acetumeius</sic><corr>acetum eius</corr></choice> <lb n="10"/>
             ori porrexit. o quam Iudaeorum menti nequissimae liquor <lb/>
             fuit ille conueniens, qui deteriora secuti uel infima pro culpa <lb/>
             scilicet infidelitatis manzeres sunt uocati! sicut enim uina <lb/>
@@ -5345,7 +5346,7 @@
             tunc illud quoque templum mirabile, plenum religionis antiquae, <lb/>
             maioris templi culmina cecidisse conspiciens, uelut alumnus <lb/>
             tristis et ingemens proprium defleret auctorem, discisso<lb n="15"/>
-            protinus uelo nudum ounctis pectus ostendit, interiora scilicet <lb/>
+            protinus uelo nudum <choice><sic>ounctis</sic><corr>cunctis</corr></choice> pectus ostendit, interiora scilicet <lb/>
             euidenter arcana gentibus reseranda significans et populis <lb/>
             fideliter adfuturis, quoniam lex, quae sub Moyse uelamine diu <lb/>
             tecta permansit, Christo nobis adueniente perclaruit. dic age, <lb/>
@@ -5598,7 +5599,7 @@
 </p>
           </div>
 
-<div n="30" subtype="section" type="textpart"><p> Mox deinde conuiuio cum quibusdam nelnt praeteriens uiator <lb/>
+<div n="30" subtype="section" type="textpart"><p> Mox deinde conuiuio cum quibusdam <choice><sic>nelnt</sic><corr>uelut</corr></choice> praeteriens uiator <lb/>
             interfuit, atque confractione panis eorum se sensibus et<lb n="5"/>
             oculis publicauit, quia. cum uerus ipse sit panis, illis luminibus <lb/>
             innotescit, quos fides interior reserans ac detegens ad  <lb/>

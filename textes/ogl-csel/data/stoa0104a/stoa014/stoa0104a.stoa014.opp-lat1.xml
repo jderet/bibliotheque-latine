@@ -85,6 +85,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 6 mots collés, 2 mots coupés.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -478,7 +479,7 @@
 <pb n="43"/>
             usque in hodiernum, si quando legitur Moyses, uelamen est super <lb/>
             cor eorum. mox autem conuersus est ad Dominum, auferetur uelamen.Item <lb/>
-            in euangelioDominus post resurrectionem: <lb/>
+            in <choice><sic>euangelioDominus</sic><corr>euangelio Dominus</corr></choice> post resurrectionem: <lb/>
             Isti sunt sermones, quos locutus sum ad uos, cum adhuc essem <lb/>
             uobiscum, quia oportet adimpleri omnia scripta in lege Moysi et <lb n="5"/>
             prophetis et psalmis de me. tunc adaperuit illis sensum, ut intellegerent <lb/>
@@ -841,7 +842,7 @@
 <div n="17" subtype="section" type="textpart"><ab>
             <title type="sub">QVOD SACERDOTIVM VETVS CESSARET ET KOVVS SACERDOS VENIRET, QVI IN AETEHNVM FVTVRVS ESSET. </title>
           </ab>
-          <p> In psalmo CVIIII: Ante luciferum genui te. iurauitDominus,<lb n="15"/>
+          <p> In psalmo CVIIII: Ante luciferum genui te. <choice><sic>iurauitDominus</sic><corr>iurauit Dominus</corr></choice>,<lb n="15"/>
             nec paenitebit eum, tu es sacerdos in aeternum secundum ordinem <lb/>
             Melchisedech. Item in Regnorum primo Deus adHeli sacerdotem: <lb/>
             Et suscitabo mihi sacerdotem fidelem, qui omnia
@@ -2533,7 +2534,7 @@
             se, quod scilicet sponsus non ipse esset erat <lb/>
             enim in lege, ut quisque nuptias recusaret calciamentum <lb/>
             deponeret, calciaretur uero ille qui sponsus <lb n="10"/>
-            fu turus esset — Et factum est, quomodo fuit Iesus in Ierico, <lb/>
+            <choice><sic>fu turus</sic><corr>futurus</corr></choice> esset — Et factum est, quomodo fuit Iesus in Ierico, <lb/>
             circumspexit oculis et uidit hominem stantem ante faciem suam <lb/>
             et frameam haerentem in manu eius et dixit: noster es aut aduersariorum? <lb/>
             ille autem dixit: ego sum dux uirtutis Domini, <lb/>
@@ -4693,7 +4694,7 @@
             Item illic: Amen dico uobis, nemo est qui reliquerit domum <lb n="10"/>
             aut parentes aut fratres aut uxorem aut filios propter regnum Dei et <lb/>
             non recipiat septies tantum in isto tempore, in saeculo autem uenturo <lb/>
-            uitam aeternam. Item in Apocaly psi: Et cum aperuisset <lb/>
+            uitam aeternam. Item in <choice><sic>Apocaly psi</sic><corr>Apocalypsi</corr></choice>: Et cum aperuisset <lb/>
             quintum signum, uidi sub ara Dei animas occisorum propter uerbum <lb/>
             Dei et martyrium suum, et clamauerunt magna uoce dicentes:<lb n="15"/>
             quousque, Domine sanctus et uerus, non iudicas et uindicas <lb/>
@@ -5208,7 +5209,7 @@
             mittetur. Item illic: Multi mihi dicent in illa die: Domine, <lb/>
             Domine, nonne in tuo nomine prophetauimus et in tuo nomine <lb n="10"/>
             daemonia exclusimus et in tuo nomine uirtutes multas fecimus? <lb/>
-            et tunc dicam illis: nonuosnoui, recedite a me, operarii iniquitatis. <lb/>
+            et tunc dicam illis: <choice><sic>nonuosnoui</sic><corr>non uos noui</corr></choice>, recedite a me, operarii iniquitatis. <lb/>
             Item illic: Luceat lux uestra coram hominibus, ut <lb/>
             uideant bona opera uestra et clarificent patrem uestrum qui est <lb/>
             in caelis. Item Paulus apostolus ad Philippenses: Lucete <lb n="15"/>
@@ -5343,7 +5344,7 @@
 
 
 <pb n="144"/>
-            Item in Actibus apostolorum: InpleuitSatanas cor tuum, <lb/>
+            Item in Actibus apostolorum: <choice><sic>InpleuitSatanas</sic><corr>Inpleuit Satanas</corr></choice> cor tuum, <lb/>
             mentiri te apud Spiritum sanctum, cum esset fundus in tua potestate? <lb/>
             non hominibus mentitus es sed Deo. Item in Hierem <lb/>
             i a: Maledictus qui facit opera Dei neglegenter. 
@@ -5400,7 +5401,7 @@
             significat, quomodo dicit in rubo Dominum Deum Abraham et <lb/>
             Deum Isaac et Deum Iacob. Deus non est mortuorum sed uiuorum. <lb/>
             omnes enim illi uiuunt. Item in epistula Pauli apostoli <lb n="5"/>
-            ad Corinthios prima: Bonum esthomini.mulierem non tangere. <lb/>
+            ad Corinthios prima: Bonum <choice><sic>esthomini</sic><corr>est homini</corr></choice>.mulierem non tangere. <lb/>
             propter fornicationem autem unusquisque uxorem suam habeat <lb/>
             et unaquaeque suum uirum habeat. uxori uir debitum reddat, <lb/>
             similiter et uxor uiro. uxor corporis sui potestatem non <lb/>
@@ -7373,7 +7374,7 @@ deos, quibus neque oculorum uisus est ad uidendum neque <lb/>
             si autem uexabitis eos et uociferantes exclamauerint ad me, exaudiam <lb/>
             exclamationes eorum et irascar animo et occidam uos gladio: <lb/>
             et erunt uxores uestrae uiduae et filii uestri orphani. Item apud <lb/>
-            Esaiam: Iudicate pupillo et iustificate uiduam: etuenite, disputemus, <lb/>
+            Esaiam: Iudicate pupillo et iustificate uiduam: <choice><sic>etuenite</sic><corr>et uenite</corr></choice>, disputemus, <lb/>
             dicit Dominus. Item apud Iob: Conseruaui egenum <lb n="5"/>
             de manu potentis et pupillo cui non erat adiutor auxiliatus sum: <lb/>
             os uiduae benedixit me. Item in psalmo LXVII: Patris orphanorum <lb/>

@@ -93,6 +93,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 1 mot mal lu.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -1338,7 +1339,7 @@
             et tranquillitati dederunt, in ea gaudent, in ea auoca<add>ntur</add>, in <lb/>
             ea etiam gloriantur. tu mihi metas et scaenam et puluerem <lb/>
             et harenam suspiras. dicas uelim: non possumus u<add>iuere</add> sine <lb/>
-            uoluptate, qui mori cum uoluptate debemus. tnam quod, est <lb/>
+            uoluptate, qui mori cum uoluptate debemus. <choice><sic>tnam</sic><corr>tuam</corr></choice> quod, est <lb/>
             aliud uotum nostrum quam quod et apostoli, exire de saeculo<lb n="15"/>
             et recipi apud dominum? hic uoluptas, ubi et uotum. 
 </p>

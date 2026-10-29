@@ -84,7 +84,8 @@
             </langUsage>
         </profileDesc>
         
-  </teiHeader>
+  <revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 1 mot collé.</change></revisionDesc>
+</teiHeader>
 <text>
 <body>
 <div type="edition" xml:lang="lat" n="urn:cts:latinLit:stoa0089a.stoa002.opp-lat1">
@@ -274,7 +275,7 @@
             maxime nobilibus studiis prouecta est atque orbem paene totum <lb/>
             multiplicibus conplexa doctrinis, quoniam nemo illic omnium <lb n="5"/>
             fuit, qui quidquam bonae frugis ferret, cui non par merito <lb/>
-            honossiet. hinc nonnulli mortales naturam paene supergressi <lb/>
+            <choice><sic>honossiet</sic><corr>honos si et</corr></choice>. hinc nonnulli mortales naturam paene supergressi <lb/>
             mortalium extentis usquequaque excellentium ingeniorum uiribus <lb/>
             infatigabilibus curis rerum abdita rimantes repositas <lb/>
             originalium primordiorum causas et temporaliter fluentium <lb n="10"/>

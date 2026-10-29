@@ -85,6 +85,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 3 mots mal lus, 1 césure.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -511,7 +512,7 @@
             humanitate et beniuolentia quanto potestate atque natura? <lb/>
 </p></div>
 
-<div n="20" subtype="section" type="textpart"><p>            paratum, ut ait Liuins, inter Romanos Sabinosque bellum, et,  <lb/>
+<div n="20" subtype="section" type="textpart"><p>            paratum, ut ait <choice><sic>Liuins</sic><corr>Liuius</corr></choice>, inter Romanos Sabinosque bellum, et,  <lb/>
             quod difficilius sedari potest, coeptum preces quondam et <lb/>
             interuentus carorum pignorum sustulerunt; cumque una eorum <lb/>
             gens esset natura ferox alia dolore feruens, tantum tamen <lb n="25"/>
@@ -824,8 +825,7 @@
             esse cognouit, terram me, ut sum, squalidam et insincerum <lb/>
             cinerem iudicabo dicamque: illud semel locutus sum\' non <lb/>
             adiciam. nec inmerito: incidere enim in falsae opinionis errorem, <lb n="25"/>
-            priusquam uera cognoscas, inperiti animi est et sim- <lb/>
-            plicis, perseuerare uero in eo, postquam agnoueris, contumacis. <lb/>
+            priusquam uera cognoscas, inperiti animi est et sim<lb break="no"/>plicis, perseuerare uero in eo, postquam agnoueris, contumacis. <lb/>
             ualete.\'
 
 <note type="footnote"> 25 Iob. 39, 35 </note>
@@ -974,7 +974,7 @@
             ullum omnino tempus sit, quo praeferri aliquid deo debeat, <lb/>
             aut qui persecutionis tempore pretiosiorem omnibus rebus <lb/>
             Christum habere debet reliquo omni tempore habere debeat <lb/>
-            uiliorem. quod si ita est, amerem dei persecutioni debebimus<lb n="25"/>
+            uiliorem. quod si ita est, <choice><sic>amerem</sic><corr>amorem</corr></choice> dei persecutioni debebimus<lb n="25"/>
             non fidei, et tunc tantum pii erimus, quando nos impii persequentur, <lb/>
             cum utique aut maiorem aut certe non minorem <lb/>
             tranquillis quam asperis rebus affectum domino debeamus. 
@@ -1017,7 +1017,7 @@
             ipsas res non habentia et nihil uirtutum uerba sine uiribus. <lb/>
 </p></div>
 
-<div n="10" subtype="section" type="textpart"><p>            plurimi namque ac paene cuncti et rerum abnndantes et conscii  <lb n="20"/>
+<div n="10" subtype="section" type="textpart"><p>            plurimi namque ac paene cuncti et rerum <choice><sic>abnndantes</sic><corr>abundantes</corr></choice> et conscii  <lb n="20"/>
             criminum ac flagitiorum suorum non modo ea quae admiserunt <lb/>
             exomologesi ac satisfactione, sed ne hoc quidem, <lb/>
             quod facillimum est, donis saltim ac misericordiis redimere <lb/>

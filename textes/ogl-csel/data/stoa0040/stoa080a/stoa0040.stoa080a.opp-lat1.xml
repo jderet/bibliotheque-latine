@@ -84,6 +84,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 2 mots mal lus, 1 mot collé.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -4449,7 +4450,7 @@
              Ferrum uulnerans lingua eorum, dolosa uerba oris eorum: <lb/>
             proximo suo loquuntur pacifica et inter semet ipsos habent <lb/>
             inimicitiam. in his ergo non uisitabo, dicit dominus, aut in <lb/>
-            populum talemnon uindicabit anima mea? Item in <sic>Bolomone</sic>: <lb/>
+            populum <choice><sic>talemnon</sic><corr>talem non</corr></choice> uindicabit anima mea? Item in <sic>Bolomone</sic>: <lb/>
             Verba callidorum mollia sunt, feriunt autem interiora uiscerum. <lb n="10"/>
             
 </p>
@@ -10464,7 +10465,7 @@
             enarrem omnia promissa tua in portis filiae sion. Item in <lb/>
             osee propheta: Principes adulteria committentes omnes <lb/>
             sicut clibanus ardens ad coquendum, conbustio flammae. <lb/>
-            ltem in euangelio secundum matthaeum: Audistis <lb n="10"/>
+            <choice><sic>ltem</sic><corr>item</corr></choice> in euangelio secundum matthaeum: Audistis <lb n="10"/>
             quia dictum est: non moechaberis. ego autem dico uobis, <lb/>
             quia omnis qui uiderit mulierem ad concupiscendam eam <lb/>
             iam moechatus est in corde suo. Item illic: Omnis qui <lb/>
@@ -13791,7 +13792,7 @@ CONTENTIONEBVS LEGIS. In hieremia cap. Et dixit dominus <lb/>
             et introibit in domum furis et in domum periurantis in <lb/>
             nomine meo in mendacio, et requiescet in media domo eius, <lb/>
             et consummabit eum et materiam eius et lapidem eius. <lb/>
-            ltem in exodo: Quod si quis <sic>inuolaueirt</sic> uitulum aut ouem <lb n="10"/>
+            <choice><sic>ltem</sic><corr>item</corr></choice> in exodo: Quod si quis <sic>inuolaueirt</sic> uitulum aut ouem <lb n="10"/>
             et occiderit eum aut uendiderit, quinque uitulos reddet pro <lb/>
             uno uitulo et quattuor oues pro una one. Item illic: Quod <lb/>
             si pauper est et non habet unde reddat, ueneat pro furto. <lb/>

@@ -93,6 +93,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 1 mot coupé, 1 mot collé.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -1764,7 +1765,7 @@
 </div>
 
 <div n="39" subtype="section" type="textpart">
-<p><milestone n="18" unit="altchapter"/> \'Item dicunt\', inquit, \'si dixerimus quiapeccatum <lb/>
+<p><milestone n="18" unit="altchapter"/> \'Item dicunt\', inquit, \'si dixerimus <choice><sic>quiapeccatum</sic><corr>quia peccatum</corr></choice> <lb/>
             non habemus, ipsi nos seducimus. et ueritas in nobis <lb/>
             non est\\ et huic euidentissimo testimonio quasi contrariis
 
@@ -2102,7 +2103,7 @@
             post acceptam remissionem peccatorum ita quemquam hominem <lb/>
             iuste uixisse in hac carne uel uiuere, ut nullum habeat omnino <lb/>
             peccatum, contradicit apostolo Iohanni, qui ait: si dixerimus <lb/>
-            quia p peccatum a turn non hab em u s, nos i psos s seducimus et us et u ueritas <lb/>
+            quia p peccatum a turn non hab em u s, nos <choice><sic>i psos</sic><corr>ipsos</corr></choice> s seducimus et us et u ueritas <lb/>
             in nobis non est, non enim ait \'habuimus\', sed habemus. <lb n="15"/>
             quod si quisquam asserit de illo peccato dictum, quod habitat <lb/>
             in carne mortali nostra secundum uitium quod peccantis <lb/>

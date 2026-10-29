@@ -88,6 +88,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 1 césure, 5 mots mal lus, 1 mot collé.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -1203,7 +1204,7 @@
             erudito et industrio uiro munda omnia, quia sapientia exercitati<lb n="10"/>
             uiri et uirtus firmamentum his uirile transfundit. iudicio <lb/>
             ergo prudentis et proposito gubernantis ex inferioris sexus <lb/>
-            qualitate in fortiorem substantiam transferuntur. uslida enim <lb/>
+            qualitate in fortiorem substantiam transferuntur. <choice><sic>uslida</sic><corr>ualida</corr></choice> enim <lb/>
             sapientis et fixa sententia est, non mutabilis, ut insipientis et <lb/>
             stulti, qui consilio nutat incerto, ut inprobi, qui non quod<lb n="15"/>
             uerum et iustum sit eligit, sed quod sibi commodum uel <note type="margin"> F </note> <lb/>
@@ -2151,7 +2152,7 @@
             inter astutias istius mundi et saecularium fluctus cupiditatum <lb n="5"/>
             portum solet inuenire simplicitas.</p></div>
 
-<div n="65" subtype="section" type="textpart"><p>itaque sicut uirtns uelut <lb/>
+<div n="65" subtype="section" type="textpart"><p>itaque sicut <choice><sic>uirtns</sic><corr>uirtus</corr></choice> uelut <lb/>
             uisendi gratia progressa paulisper ad mentem optimam redire <lb/>
             festinat nec longius discedit a iusto, ita etiam iustus et <lb/>
             studiosus uirtutis, ubi uirtutem adpropinquare cognouerit, <lb/>
@@ -2363,7 +2364,7 @@
             concupiscunt nec satiantur adsiduitate potandi. ita fonte sapientiae <lb/>
             certatim repleri desiderant, quem ante fugere gestiebant. quem <note type="margin"> B </note> <lb/>
             fontem? audi dicentem: si quis sitit, ueniat ad me et <lb/>
-            bibat. qui credit in me, sicut dixit scriptura, fiumina <lb/>
+            bibat. qui credit in me, sicut dixit scriptura, <choice><sic>fiumina</sic><corr>flumina</corr></choice> <lb/>
             de uentre eius fluent aquae uiuae. <lb n="5"/>
             
 </p>
@@ -2636,7 +2637,7 @@
 <pb n="471"/>
             super mala a iuuentute. uide quomodo studiose nos <lb/>
             delinquere deus significet dicendo permanere super mala <lb/>
-            sensum hominis diligenter, quo dicto siguificare uidetur diligenter <lb/>
+            sensum hominis diligenter, quo dicto <choice><sic>siguificare</sic><corr>significare</corr></choice> uidetur diligenter <lb/>
             cor hominis ad peccata propendere et inesse principali <lb/>
             nostro lubricum delinquendi et quod peius est studium non <lb n="5"/>
             deesse. ideo enim ait diligenter, quasi solliciti simus, ne <note type="margin"> F </note> <lb/>
@@ -2680,7 +2681,7 @@
 
 <note type="footnote"> c </note> <lb/>
             comimpuntur tempora, corrumpuntur etiam illa quae temporibus <lb/>
-            suis quaeque gignuntur. si autem confusio sittemporum, <lb/>
+            suis quaeque gignuntur. si autem confusio <choice><sic>sittemporum</sic><corr>sit temporum</corr></choice>, <lb/>
             quomodo possunt confusione facta etiam ea quae sunt gignentia <lb/>
             permanere? ergo tempora sunt quae aut corrumpunt aut<lb n="5"/>
             reseruant, prout ipsa sui habuerint qualitatem. ideoque annus <lb/>
@@ -2695,7 +2696,7 @@
             futurum.</p></div>
 
 <div n="83" subtype="section" type="textpart"><p>altior autem sensus hoc habet, ut per semen intellegamus <lb n="15"/>
-            principium, per messem inteliegamus finem. in utroque <note type="margin"> E </note> <lb/>
+            principium, per messem <choice><sic>inteliegamus</sic><corr>intellegamus</corr></choice> finem. in utroque <note type="margin"> E </note> <lb/>
             salutis est causa. alterum sine altero inperfectum est, quia <lb/>
             ait: \'ubi principium est, finis quaeritur nec potest esse sublato <lb/>
             fine principium et finis in principium recumt.\' ergo semper <lb/>
@@ -3673,8 +3674,7 @@
             qua ratione, cum filius eius Cham peccauerit, non ipsum, sed <lb/>
             filium eius seruituti addixit? et fortasse ideo quod plus afficitur <lb/>
             pater iniuriis filii sui, maxime quarum ipse reus et <lb/>
-            auctor exsistat, et uehementius contristatur sui peccati dam- <lb/>
-            nationem a filio persolutam, qui non tam suo quam patris<lb n="5"/>
+            auctor exsistat, et uehementius contristatur sui peccati dam<lb break="no"/>nationem a filio persolutam, qui non tam suo quam patris<lb n="5"/>
             merito puniretur: deinde quia, cum doctrinae paternae <note type="margin">276 A </note> discipulus  <lb/>
             esset filius et pessimarum aemulus cogitationum, uno <lb/>
             corpore uterque uteretur et mente eademque malitia. indifferenter <lb/>

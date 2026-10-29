@@ -89,6 +89,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 9 mots collés, 9 mots mal lus, 1 mot coupé.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -687,7 +688,7 @@
             in Charran. in medio autem, id est inter egressum <lb/>
             de terra Chaldaeorum et habitationem in Charran, ei locutus<lb n="25"/>
             est deus. postea uero quod adiungit Stephanus: et inde <lb/>
-            postquam mortuus est patereius, conlocauit illum
+            postquam mortuus est <choice><sic>patereius</sic><corr>pater eius</corr></choice>, conlocauit illum
 
 <note type="footnote"> 3 Act. 7, 4 </note>
 
@@ -1518,7 +1519,7 @@
             quaestio simili locutione soluitur; hoc est enim: nunc cognoui, <lb/>
             quoniam times deum tu, quod significat: "nunc <lb/>
             te feci cognoscere". in consequentibus autem hoc genus locutionis <lb/>
-            euidenter adparet, ubi dicitur: et uocauitAbraham <lb/>
+            euidenter adparet, ubi dicitur: et <choice><sic>uocauitAbraham</sic><corr>uocauit Abraham</corr></choice> <lb/>
              nomen loci illius "dominus uidit", ut dicant hodie: <lb n="5"/>
             in monte dominus adparuit. "uidit" pro eo quod est <lb/>
             <sic>fadparuit</sic>", hoc est uidit" pro eo quod est" uideri fecit", <lb/>
@@ -2491,7 +2492,7 @@
 <div n="96" subtype="chapter" type="textpart">
 
 <p>Sumsit autem lacob lapidem et constituit<lb n="10"/>
-            eum titulum. diligenter auimaduertendum est, quomodo <lb/>
+            eum titulum. diligenter <choice><sic>auimaduertendum</sic><corr>animaduertendum</corr></choice> est, quomodo <lb/>
             istos titulos in rei cuiusque testimonio constituebant, non ut <lb/>
             eos pro dis colerent, sed ut eis aliquid significarent. 
 </p>
@@ -2599,7 +2600,7 @@
             factus sum in duo castra. erue me de manu fratris <lb/>
             mei, de manu Esau, quia ego timeo illum, ne cum <lb n="5"/>
             uenerit feriat me et matres super filios. tu autem <lb/>
-            dixisti: benefaciam tibi et ponam semen tuumtamquam <lb/>
+            dixisti: benefaciam tibi et ponam semen <choice><sic>tuumtamquam</sic><corr>tuum tamquam</corr></choice> <lb/>
             arenam maris, quae non dinumerabitur prae <lb/>
             multitudine. satis in his uerbis et humana infirmitas et <lb/>
             fides pietatis adparet. <lb n="10"/>
@@ -2751,7 +2752,7 @@
             statuit illic tabernaculum suum, ab Emmor patre <lb n="5"/>
             Sychem centum agnis; et statuit ibi aram, et <lb/>
             inuocauit deum Israhel. exiit autem Dina filia <lb/>
-            Liae. quam peperitipsi Iacob, ut condisceret filias <lb/>
+            Liae. quam <choice><sic>peperitipsi</sic><corr>peperit ipsi</corr></choice> Iacob, ut condisceret filias <lb/>
             regionis eius cetera. adparet ergo his uerbis non transeunter, <lb/>
             sicut uiator solet, illic mansisse Iacob, sed agrum <lb n="10"/>
             emisse. tabernaculum constituisse, aram instruxisse ac per <lb/>
@@ -3015,7 +3016,7 @@
 </p>
           <p>Hic modus est in hoc eodem libro, ubi Emmor pro filio <lb/>
             suo Sychem, ut acciperet Dinam filiam Iacob, exiit loqui <lb/>
-            cum eodum Iacob et uenerunt etiam filii eius qui absentes<lb n="20"/>
+            cum <choice><sic>eodum</sic><corr>eo dum</corr></choice> Iacob et uenerunt etiam filii eius qui absentes<lb n="20"/>
             erant, et ad omnes dicit Emmor: Sychem filius meus <lb/>
             elegit animo filiam uestram; date ergo illi eam <lb/>
             uxorem. quia enim potior erat patris persona, per synecdochen <lb/>
@@ -3437,7 +3438,7 @@
 
 <div n="132" subtype="chapter" type="textpart">
 
-<p>Quod putabat se starePharao super flumen. <lb/>
+<p>Quod putabat se <choice><sic>starePharao</sic><corr>stare Pharao</corr></choice> super flumen. <lb/>
             quemadmodum seruus Abrahae dixit: ecce ego sto super <lb/>
             fontem aquae; nam et ibi graecus <foreign xml:lang="grc">έπί τῆς πηγῆς</foreign> dixit <lb/>
             quemadmodum hic <foreign xml:lang="grc">ἐπὶ τοὐ ποταμοῦ</foreign>. haec locutio si intellegatur <lb/>
@@ -5429,7 +5430,7 @@
             deus meus demonstrabit <lb/>
             mihi &lt;in&gt; inimicis meis. nouit ergo deus bene uti malis, <lb n="20"/>
             in quibus tamen humanam naturam non ad malitiam creat, <lb/>
-            sed perfert eos patienter, quonsque scit oportere: non inaniter, <lb/>
+            sed perfert eos patienter, <choice><sic>quonsque</sic><corr>quousque</corr></choice> scit oportere: non inaniter, <lb/>
             sed utens eis ad admonitionem uel exercitationem bonorum. <lb/>
             ecce enim, ut adnuntiaretur nomen dei in uniuersa terra,
 
@@ -5592,7 +5593,7 @@
             aurum, argentum et uestem, praesertim quia ubi <lb/>
             primum hoc mandatur per Moysen, sic positum est: et <lb n="25"/>
             mulier a uicina sua et concellaria uel concellanea<lb/>
-            — si ita dicendum est — uel cohabitatrice suaunde <lb/>
+            — si ita dicendum est — uel cohabitatrice <choice><sic>suaunde</sic><corr>sua unde</corr></choice> <lb/>
             intellegendum est etiam in terra Gessem non solos
 
 <note type="footnote"> 3 Ex. 10, 21 6 Ex. 10, 12 11 Ex. 11, 2 25 Ex. 3, 22 </note>
@@ -9748,7 +9749,7 @@
             dilectionem operatur, atque illo digito dei, hoc est spiritu dei <lb/>
             intus eam in corde scribente, non foris in lapide. unde dicit <lb/>
             apostolus: non in tabulis lapideis, sed in tabulis cordis <lb/>
-            carnalibus, quoniam caritas dei, qua ueracitcr inpletur <lb/>
+            carnalibus, quoniam caritas dei, qua <choice><sic>ueracitcr</sic><corr>ueraciter</corr></choice> inpletur <lb/>
             praeceptum, diffusa est in cordibus nostris per spiritum <lb n="5"/>
             sanctum, qui datus est nobis. hoc est ergo: primo data <lb/>
             est lex — ubi significatur uetus testamentum, quod est opus <lb/>
@@ -10054,7 +10055,7 @@
             Cherubin iussit in aulaeis fieri, quorum aulaeorum longitudinem <lb n="10"/>
             esse praecepit cubitorum uiginti octo et latitudinem <lb/>
             cubitorum quattuor; cohaerere autem inuicem aulaea et coniungi <lb/>
-            iuter se quinque hinc et quinque inde, ut spatium, <lb/>
+            <choice><sic>iuter</sic><corr>inter</corr></choice> se quinque hinc et quinque inde, ut spatium, <lb/>
             quod eis cingeretur, hoc esset tabernaculi spatium. quomodo <lb/>
             autem inter se conecterentur eadem quina aulaea, ita praecepit. <lb n="15"/>
             &lt;et&gt; facies illis. inquit, ansas hyacinthinas super <lb/>
@@ -13107,7 +13108,7 @@
             uno in condemnationem, et quia per unum hominem <lb/>
             peccatum intrauit in mundum et per peccatum <lb/>
             mors et ita in omnes homines pertransiit? et hic<lb n="10"/>
-            satis adparet quemadmodum dictum sit: ego enim in i niquitatibus <lb/>
+            satis adparet quemadmodum dictum sit: ego enim in <choice><sic>i niquitatibus</sic><corr>iniquitatibus</corr></choice> <lb/>
             conceptus sum et in peccatis mater <lb/>
             mea in utero me aluit. cur ergo non illud quod natum <lb/>
             est purgari dicit scriptura per hoc sacrificium, sed ipsam <lb/>
@@ -15675,7 +15676,7 @@ bd</hi> <lb/>
             Heliam operabatur, non ab illo recedens, ut istum posset inplere, <lb/>
             aut dispertitus minus esset in illo, ut posset ex aliqua <lb/>
             parte et in isto esse? deus est enim qui possit esse in omnibus<lb n="25"/>
-            tantus, in quibus per illam gratiam esse uoluerit. uunc autem <lb/>
+            tantus, in quibus per illam gratiam esse uoluerit. <choice><sic>uunc</sic><corr>nunc</corr></choice> autem <lb/>
             cum ita scriptum sit: et auferam de spiritu qui est <lb/>
             super te, nec dictum sit: de spiritu tuo, facilior est absolutio <lb/>
             quaestionis, quia intellegimus nihil aliud deum
@@ -16332,7 +16333,7 @@ bd</hi> <lb/>
             enim caro in hac uita sine peccato nisi illa sola quae non <lb/>
             habet in se uitium? et non est superpositum super <lb/>
             eam iugum. non enim subiugata est iniquitati, cui subiugatos <lb/>
-            inueniens liberauit et eorum uincnla disrupit, ut ei <lb/>
+            inueniens liberauit et eorum <choice><sic>uincnla</sic><corr>uincula</corr></choice> disrupit, ut ei <lb/>
             dicatur: disrupisti uincula mea, tibi sacrificabo <lb n="5"/>
             hostiam laudis. super illius quippe carnem non est positum <lb/>
             iugum, qui potestatem habuit ponendi animam suam <lb/>
@@ -17665,7 +17666,7 @@ bd</hi> <lb/>
             significari in hebraea lingua dicunt qui eam nouerunt. unde <lb n="5"/>
             quod habent plerique codices "derelictus est a Raphain", <lb/>
             planius utique dicitur: reliquus factus est, ut ipse ex <lb/>
-            illis remansisse iutellegatur, cuius etiam consequenter longitudo <lb/>
+            illis remansisse <choice><sic>iutellegatur</sic><corr>intellegatur</corr></choice>, cuius etiam consequenter longitudo <lb/>
             et latitudo ferrei lecti commemoratur ad eius magnitudinem <lb/>
             commendandam. <lb n="10"/>
             
@@ -19255,7 +19256,7 @@ bd</hi> <lb/>
             etsi frater non fuisset, et] propinquus ducebat uxorem eius. <lb/>
             qui sine filiis mortuus esset, ad suscitandum semen fratri suo; <lb/>
             sicut fecit Booz ducendo Ruth, ut semen excitaret propinquo <lb n="5"/>
-            suo, cuius fnerat illa uxor nec de illo pepererat. et tamen <lb/>
+            suo, cuius <choice><sic>fnerat</sic><corr>fuerat</corr></choice> illa uxor nec de illo pepererat. et tamen <lb/>
             qui de illa natus est ex nomine quidem defuncti constitutus <lb/>
             est, quia filius eius est dictus — atque ita factum est, ut <lb/>
             nomen defuncti non deleretur ex Israhel — nec tamen eius <lb/>
@@ -21691,7 +21692,7 @@ bd</hi> <lb/>
             uocatur. et quoniam istae linguae non multum inter se differunt, <lb/>
             merito creditur hic de filiis Israhel hoc dicere scriptura, <lb/>
             quod Baal seruierunt et Astartibus, quia Ioui et Iunonibus. <lb/>
-            nec mouere debet, quod non dixit Astarti, id est lunoni, sed,<lb n="10"/>
+            nec mouere debet, quod non dixit Astarti, id est <choice><sic>lunoni</sic><corr>iunoni</corr></choice>, sed,<lb n="10"/>
             tamquam multae sint Iunones, pluraliter hoc nomen posuit. <lb/>
             ad simulacrorum enim multitudinem referri uoluit intellectum, <lb/>
             quoniam unumquodque Iunonis simulacrum Iuno uocabatur; <lb/>
@@ -21711,7 +21712,7 @@ bd</hi> <lb/>
 
 <div n="17" subtype="chapter" type="textpart">
 
-<p>Et uendiditeosin manu inimicorum suorum <lb n="25"/>
+<p>Et <choice><sic>uendiditeosin</sic><corr>uendidit eos in</corr></choice> manu inimicorum suorum <lb n="25"/>
             in circuitu. quaeri solet quare dixerit "uendidit" tamquam <lb/>
             aliquod pretium intellegatur datum. sed et in psalmo legitur: <lb/>
             uendidisti populum tuum sine pretio, et apud
@@ -22995,7 +22996,7 @@ bd</hi> <lb/>
             ubi de illo ista narrantur, quod tale uouerit et inpleuerit <lb/>
             uotum, praemisit scriptura dicens: et factus est super <lb/>
             Iephte spiritus domini; et perrexit Galaad et <lb/>
-            Manasse ettransiit speculam Galaad et de specula<lb n="15"/>
+            Manasse <choice><sic>ettransiit</sic><corr>et transiit</corr></choice> speculam Galaad et de specula<lb n="15"/>
             Galaad ad trans filios Ammon. et uouit Iephte <lb/>
             uotum domino et cetera ad hoc ipsum uotum pertinentia. <lb/>
             ut omnia, quae deinceps facta sunt, tamquam opera spiritus <lb/>

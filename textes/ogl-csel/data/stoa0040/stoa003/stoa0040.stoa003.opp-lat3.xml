@@ -89,6 +89,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 9 mots mal lus, 3 mots collés, 4 césures.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -5571,7 +5572,7 @@
             ipsumque scelus auersione etiam diurni luminis indicatum;<lb n="10"/>
             sicut re uera factum est, cum Dominus crucifixus est crudelitate <lb/>
             adque inpietate Iudaeorum. Quam solis obscurationem <lb/>
-            non ex canonico sideruin cursu accidisse satis ostendit, quod <lb/>
+            non ex canonico <choice><sic>sideruin</sic><corr>siderum</corr></choice> cursu accidisse satis ostendit, quod <lb/>
             tunc erat pascha Iudaeorum; nam plena luna sollemniter agitur, <lb/>
             regularis autem solis defectio non nisi lunae fine contingit. <lb n="15"/>
             Satis et Cicero illam inter deos Romuli receptionem putatam <lb/>
@@ -9070,7 +9071,7 @@
           <p>Frustra itaque adfertur nobile illud commentum de figuli <lb n="10"/>
             rota, quod respondisse ferunt Nigidium hac quaestione turbatum, <lb/>
             unde et Figulus appellatus est. Dum enim rotam <lb/>
-            figuli ui quanta potuit intor?isset, currente illa bis numero <lb/>
+            figuli ui quanta potuit <choice><sic>intor</sic><corr>inter</corr></choice>?isset, currente illa bis numero <lb/>
             de atramento tamquam uno eius loco summa celeritate percussit; <lb/>
             deinde inuenta sunt signa, quae fixerat, desistente <lb n="15"/>
             motu, non paruo interuallo in rotae illius extremitate distantia. <lb/>
@@ -9619,8 +9620,7 @@
             redarguendum. Quid enim eum adiuuat, quod dicit nihil <lb/>
             quidem fieri sine causa, sed non omnem causam esse fatalem, <lb/>
             quia est causa fortuita, est naturalis, est uoluntaria? Sufficit, <lb/>
-            quia omne, quod fit, non nisi causa praecedente fieri con- <lb/>
-            fitetur. Nos enim eas causas, quae dicuntur fortuitae, unde <lb n="20"/>
+            quia omne, quod fit, non nisi causa praecedente fieri con<lb break="no"/>fitetur. Nos enim eas causas, quae dicuntur fortuitae, unde <lb n="20"/>
             etiam fortuna nomen accepit, non esse dicimus nullas, sed <lb/>
             latentes, easque tribuimus uel Dei ueri uel quorumlibet spirituum <lb/>
             uoluntati, ipsasque naturales nequaquam ab illius uoluntate <lb/>
@@ -17053,7 +17053,7 @@
             quae solent medicinae arte praeberi.\' Ecce dixit mortuum coli <lb/>
             pro deo in eo loco, ubi habebat sepulcrum, falsus ac fallens, <lb/>
             quod remeauit in caelum. Adiungens deinde aliud (Hermes, <lb n="20"/>
-            inquit, cuius auitum mihi ncmen est, nonne in sibi cognomine <lb/>
+            inquit, cuius auitum mihi <choice><sic>ncmen</sic><corr>nomen</corr></choice> est, nonne in sibi cognomine <lb/>
             patria consistens omnes mortales undique uenientes <lb/>
             adiuuat adque conseruat?\' Hic enim Hermes maior, id est <lb/>
             Mercurius, quem dicit auum suum fuisse, in Hermopoli, hoc <lb/>
@@ -20623,8 +20623,7 @@
 <pb n="490"/>
             diligunt, ut et nos cum ipsis beati simus, plus nobis fauent, <lb/>
             plus adiuuant, quando unum Deum cum illis colimus. Patrem <lb/>
-            et Filium et Spiritum sanctum, quam si eos ipsos per sacri- <lb/>
-            ficia coleremus. 
+            et Filium et Spiritum sanctum, quam si eos ipsos per sacri<lb break="no"/>ficia coleremus. 
 </p>
           
 </div>
@@ -20776,8 +20775,7 @@
             intellectualem animam, hoc est mentem nostram, dicis posse <lb/>
             purgari, et ipsam spiritalem, id est nostrae animae partem <lb/>
             mente inferiorem, quam tali arte purgari posse adseris, inmortalem <lb n="25"/>
-            tamen aeternamque non posse hac arte fieri con- <lb/>
-            fiteris. Christus autem uitam promittit aeternam; unde ad eum <lb/>
+            tamen aeternamque non posse hac arte fieri con<lb break="no"/>fiteris. Christus autem uitam promittit aeternam; unde ad eum <lb/>
             mundus uobis quidem stomachantibus, mirantibus tamen
 
 <note type="footnote"> 5 Verg. Eclog. 4, 13 sq. </note>
@@ -21076,7 +21074,7 @@
             malis animam et cum Patre constitutam numquam iam mala <lb/>
             mundi huius passuram esse confessus est. Qua sententia profecto <lb/>
             abstulit, quod esse Platonicum maxime perhibetur, ut <lb/>
-            mortuos ex uiuis, ita uiuos ex mertuis semper fieri; falsumque <lb/>
+            mortuos ex uiuis, ita uiuos ex <choice><sic>mertuis</sic><corr>mortuis</corr></choice> semper fieri; falsumque <lb/>
             esse ostendit, quod Platonice uidetur dixisse Vergilius, <lb n="5"/>
             in campos Elysios purgatas animas missas (quo nomine <lb/>
             tamquam per fabulam uidentur significari gaudia beatorum) <lb/>
@@ -24508,7 +24506,7 @@
             cohercetur. magnitudine quantacumque tendatur, conparatum<lb n="10"/>
             illi, quod initium non habet, nescio utrum pro minimo an <lb/>
             potius pro nullo deputandum est. Hinc enim si a fine uel breuissima <lb/>
-            siugillatim momenta detrahantur, decrescente numero <lb/>
+            <choice><sic>siugillatim</sic><corr>singillatim</corr></choice> momenta detrahantur, decrescente numero <lb/>
             licet tam ingenti, ut uocabulum non inueniat, retrorsum redeundo <lb/>
             (tamquam si hominis dies ab illo, in quo nunc uiuit, usque<lb n="15"/>
             ad illum, in quo natus est, detrahas) quandoque ad initium illa <lb/>
@@ -27492,7 +27490,7 @@
             ut non moreretur, nisi homo peccasset. Nam illud, quod <lb/>
             spiritu uiuificante spiritale erit et inmortale, mori omnino <lb/>
             non poterit, sicut anima creata est inmortalis, quae licet <lb/>
-            peccato mortua perhibeatur carens quaiam uita sua, hoc est <lb/>
+            peccato mortua perhibeatur carens <choice><sic>quaiam</sic><corr>qua iam</corr></choice> uita sua, hoc est <lb/>
             dei Spiritu, quo etiam sapienter et beate uiuere poterat, <lb n="25"/>
             tamen propria quadam, licet misera, uita sua non desinit <lb/>
             uiuere, quia inmortalis est creata; sicut etiam desertores <lb/>
@@ -27518,7 +27516,7 @@
             ciues sanctorum angelorum in beata uita manentium, ita <lb/>
             spiritalibus corporibus induentur, ut neque peccent amplius <lb/>
             neque. moriantur; ea tamen inmortalitate uestiti, quae. sicut <lb/>
-            angelerum, nec peccato possit auferri; natura quidem manente<lb n="10"/>
+            <choice><sic>angelerum</sic><corr>angelorum</corr></choice>, nec peccato possit auferri; natura quidem manente<lb n="10"/>
             ca s, sed nulla omnino carnali corruptibilitate uel tarditate <lb/>
             remanente. 
 </p>
@@ -37839,7 +37837,7 @@
             Locus ergo iste, qui promittitur tam pacatae ac securae <lb/>
             habitationis, aeternus est aeternisque debetur in matre Hierusalem <lb/>
             libera, ubi erit ueraciter populus Israel; hoc enim nomen <lb n="10"/>
-            interpretatur cuidens Deum\'; cuius praemii desiderio pia per <lb/>
+            interpretatur <choice><sic>cuidens</sic><corr>euidens</corr></choice> Deum\'; cuius praemii desiderio pia per <lb/>
             fidem uita in hac aerumnosa peregrinatione ducenda est. 
 </p>
           
@@ -39208,7 +39206,7 @@
 </p>
           <p>Nam ut Athenae uocarentur, quod certe nomen a Minerua <lb n="20"/>
             est, quae Graece \'<sic>Adijva</sic> dicitur, hanc causam Varro indicat. <lb/>
-            Cum apparuisset illic repeute oliuae arbor et alio loco aqua <lb/>
+            Cum apparuisset illic <choice><sic>repeute</sic><corr>repente</corr></choice> oliuae arbor et alio loco aqua <lb/>
             erupisset, regem prodigia ista mouerunt, et misit ad Apollinem <lb/>
             Delphicum sciscitatum quid intellegendum esset quidue <lb/>
             faciendum. Ille respondit, quod olea Mineruam significaret, <lb n="25"/>
@@ -42837,7 +42835,7 @@
             <title type="main">LIBER XVIIII. </title>
           </head>
 <div n="1" subtype="chapter" type="textpart">
-          <p>Quod in quaestione, quam de finibus bonorum etmalorum <lb/>
+          <p>Quod in quaestione, quam de finibus bonorum <choice><sic>etmalorum</sic><corr>et malorum</corr></choice> <lb/>
             philosophica disputatio uentilauit, ducentas octo- « <lb/>
             ginta et octo sectas esse posse Varro perspexerit. <lb n="25"/>
             
@@ -42866,8 +42864,7 @@
             nostri, propter quod adpetenda sunt cetera, ipsum autem <lb/>
             propter se ipsum; et illud finis mali, propter quod uitanda <lb/>
             sunt cetera, ipsum autem propter se ipsum. Finem boni ergo <lb/>
-            nunc dicimus, non quo consumatur, ut non sit, sed quo per- <lb/>
-            ficiatur, ut plenum sit; et finem mali, non quo esse desinat, <lb n="15"/>
+            nunc dicimus, non quo consumatur, ut non sit, sed quo per<lb break="no"/>ficiatur, ut plenum sit; et finem mali, non quo esse desinat, <lb n="15"/>
             sed quo usque nocendo perducat. Fines itaque isti sunt summum <lb/>
             bonum et summum malum. De quibus inueniendis <lb/>
             adque in hac uita summo bono adipiscendo, uitando autem <lb/>
@@ -45750,7 +45747,7 @@
             praedixit. <lb n="10"/>
             
 </p>
-          <p>Item discipulis suis: Arnen, inquit, dicouobis, quod <lb/>
+          <p>Item discipulis suis: Arnen, inquit, <choice><sic>dicouobis</sic><corr>dico uobis</corr></choice>, quod <lb/>
             uos, qui secuti estis me, in regeneratione, cum <lb/>
             sederit filius hominis in sede maiestatis suae, <lb/>
             sedebitis et uos super sedes duodecim iudicantes <lb/>
@@ -51629,7 +51626,7 @@
           <ab> <title type="sub">Contra eorum persuasionem, qui putant sibi non obfutura peccata, in quibus, cum elemosynas facerent, permanserunt. </title> </ab>
           <p>Restat eis respondere, qui dicunt aeterno igne illos tantummodo <lb/>
             arsuros, qui pro peccatis suis facere dignas elemosynas <lb/>
-            neglegunt, propter illud quod ait apostolus Iacobus: ludicium <lb n="10"/>
+            neglegunt, propter illud quod ait apostolus Iacobus: <choice><sic>ludicium</sic><corr>iudicium</corr></choice> <lb n="10"/>
             autem sine misericordia illi, qui non fecit <lb/>
             misericordiam. Qui ergo fecit, inquiunt, quamuis non <lb/>
             correxerit perditos mores, sed nefarie ac nequiter inter ipsas <lb/>

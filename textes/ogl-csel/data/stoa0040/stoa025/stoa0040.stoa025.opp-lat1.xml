@@ -88,6 +88,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 2 mots collés.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -2804,7 +2805,7 @@
             colligimus ea?, de quibus ditum erat: cum creuisset <lb/>
             herba et fructum fecisset, tunc apparuerunt zizania. <lb n="5"/>
             quibus respondit: non, ne forte, dum uultis colligere <lb/>
-            zizania, simul eradicetis ettriticum, et: sinite <lb/>
+            zizania, simul eradicetis <choice><sic>ettriticum</sic><corr>et triticum</corr></choice>, et: sinite <lb/>
             utraque crescere usque ad messem. et tamen tu dicis <lb/>
             - ubi quid aliud quam domino contradicis? — sola per <lb/>
             mundum creuisse zizania et toto paene mundo diminuta perisse <lb n="10"/>
@@ -3005,7 +3006,7 @@
             quae in scripturis similiter dicta sunt, dum haec, inquam, <lb/>
             non spiritaliter, sed carnaliter sapitis, tales omnino apparetis, <lb/>
             quales eorum ipso propheta praedicante damnantur dicentes: <lb/>
-            noli me tangere, quoniam mundus sum.deniquequando <lb/>
+            noli me tangere, quoniam mundus sum.<choice><sic>deniquequando</sic><corr>denique quando</corr></choice> <lb/>
             aliena peccata uos peruerse deuitanda esse censuistis, alia<lb n="25"/>
             uestra fecistis, sacrilegum schisma populos diuidendo et sacrilegam <lb/>
             haeresim contra dei manifesta promissa et inpleta de <lb/>

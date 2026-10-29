@@ -94,6 +94,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 2 mots collés, 2 mots coupés.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -1094,11 +1095,11 @@
             a me; erant qui dicerent: credidi propter quod locutus<lb n="20"/>
             sum. eadem quippe et ipsi mundabantur fide qua et nos, unde <lb/>
             et apostolus dicit: habentes autem eundem spiritum <lb/>
-            fidei secundum quod scriptum est: cr edidi, propter <lb/>
+            fidei secundum quod scriptum est: <choice><sic>cr edidi</sic><corr>credidi</corr></choice>, propter <lb/>
             quod et locutus sum, et nos credimus, propter quod <lb/>
             et loquimur. ex ipsa fide dicebatur: ecce uirgo in utero<lb n="25"/>
             accipiet et pariet filium, et uocabunt nomen eius <lb/>
-            Emmanuel, quod est in terpretatum \'nobiscum deus\':
+            Emmanuel, quod est <choice><sic>in terpretatum</sic><corr>interpretatum</corr></choice> \'nobiscum deus\':
 
 <note type="footnote"> 1 cl. Ual. Z, VI 8 ct. Koni. 5, W y ct. Kom.«7, 24 14 Ts. <lb/>
             50, 7 15 Ps. 37, 4 17—20 Ps. 50, 7. 12. 14. 13 20 Ps. 115, 1 <lb/>
@@ -1438,8 +1439,8 @@
             est sine peccato, qui tamen de peccato damnaret peccatum; <lb/>
             factus est enim pro nobis peccatum. unde dicit apostolus: <lb/>
             obsecramus pro Christo, reconciliamini deo. eum <lb/>
-            qui non nouerat peccatumpro nobis peccatum fecit,<lb n="5"/>
-            utnos simusiustitia in ipso in ipso. deus ergo, cui per eum <lb/>
+            qui non nouerat <choice><sic>peccatumpro</sic><corr>peccatum pro</corr></choice> nobis peccatum fecit,<lb n="5"/>
+            <choice><sic>utnos</sic><corr>ut nos</corr></choice> simusiustitia in ipso in ipso. deus ergo, cui per eum <lb/>
             reconciliamur, fecit eum pro nobis peccatum, id est sacrificium <lb/>
             per quod dimitterentur nostra peccata, quoniam peccata uocantur <lb/>
             sacrificia pro peccatis. et utique ipse pro peccatis nostris est <lb/>

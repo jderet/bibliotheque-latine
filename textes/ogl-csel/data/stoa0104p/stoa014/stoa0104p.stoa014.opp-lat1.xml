@@ -85,6 +85,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 1 mot collé.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -268,7 +269,7 @@
             apparebit, qui disciplinae laborem in adulescentia non sustinuerit? <lb/>
             quodcumque etenim homo laborauerit, hoc et metet. omnia namque <lb/>
             disciplina in praesenti non uidetur esse gaudii <lb/>
-            sedmaeroris: postea autem fructum pacatissimum exercitatio <lb/>
+            <choice><sic>sedmaeroris</sic><corr>sed maeroris</corr></choice>: postea autem fructum pacatissimum exercitatio <lb/>
             per eam reddit iustitiae. sicut ergo fructus non inuenitur<lb n="5"/>
             in arbore in qua pampinus aut flos prius non apparuerit, sic et <lb/>
             in senectute honorem legitimum consequi non poterit qui in adulescentia <lb/>

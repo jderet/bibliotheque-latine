@@ -84,6 +84,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 3 mots mal lus, 3 mots collés.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -328,7 +329,7 @@
              
 <pb n="337"/>
             quem numquam ad indignationem uis ulla conpulerat. at ille <lb/>
-            supplicantem prohibebat, se sibi inuidiam regando concitaret, <lb/>
+            supplicantem prohibebat, se sibi inuidiam <choice><sic>regando</sic><corr>rogando</corr></choice> concitaret, <lb/>
             ne se non merentem delati honoris sarcinis inpediret turbata <lb/>
             est repente ciuitas, omnium Christianorum in furorem uersae <lb/>
             mentes. Burco ad exitium poscebatur et in tanta hominum <lb n="5"/>
@@ -514,7 +515,7 @@
             aliquos tamen magnarum urbium incolas edax consumebat <lb n="15"/>
             inuidia, quod tantum oppidi Ticinensis angustia habere meruisset <lb/>
             antistitem, eam apud ipsos sola pontifices metropolitanae <lb/>
-            iactantiae uocabuia tuerentur. 
+            iactantiae <choice><sic>uocabuia</sic><corr>uocabula</corr></choice> tuerentur. 
 </p>
           <p n="12" rend="script">Exacto ergo dedicationis suae die Ticinum rediit conuocatisque <lb/>
             uniuersis presbyteris presbyteris ministris talibus eos instruxit <lb n="20"/>
@@ -624,7 +625,7 @@
              
 <pb n="344"/>
             ab Anthemio principe habenis rempublicam gubernabat, detulit. <lb/>
-            num imperatore Romae posito seminariuminter cos iecit <lb/>
+            num imperatore Romae posito <choice><sic>seminariuminter</sic><corr>seminarium inter</corr></choice> cos iecit <lb/>
             scandali illa quae dominates sequestrat inuidia et par dignitas <lb/>
             causa discordiae. surrexerat enim tanta rabies atque dissensio, <lb/>
             ut mutuo belia praepararent, et praeterquam origo irarum<lb n="5"/>
@@ -640,7 +641,7 @@
             pollicetur. "sed qui" ait "potissimum huius legationis pondus<lb n="15"/>
             excipiet? quem tantae molis cura maneat ? quis est qui <lb/>
             Galatam concitatum reuocare possit et principem? nam semper, <lb/>
-            cum regatur., exuperat qui iram naturali moderationenon <lb/>
+            cum regatur., exuperat qui iram naturali <choice><sic>moderationenon</sic><corr>moderatione non</corr></choice> <lb/>
             terminat". tunc uno omnes ore responderunt: "uester tantummodo <lb/>
             ad pacem declinetur adsensus est nobis persona nuper <lb n="20"/>
             ad sacerdotium Tioinensis urbis adscita, cui. et beluae rabidae <lb/>
@@ -1340,7 +1341,7 @@
           <p n="28" rend="script">Post hinc digressis Gothis ciuitas Ticinensis Rugis est tradita, <lb/>
             hominibus omni feritate inmanibus, quos atrox et acerba <lb n="15"/>
             uis animorum ad cotidiana scelera sollicitabat: diem putabant <lb/>
-            perisse, qui illos sinefacinore casu aliquo interueniente fugisset. <lb/>
+            perisse, qui illos <choice><sic>sinefacinore</sic><corr>sine facinore</corr></choice> casu aliquo interueniente fugisset. <lb/>
             quos tamen beatissimus antistes sermonum suorum melle <lb/>
             delinibat, ut effera corda auctoritati se submitterent sacerdotis <lb/>
             et amare discerent quorum pectora odiis semper fuisse <lb n="20"/>
@@ -1409,7 +1410,7 @@
             duxit illi potissimum perorandi copiam dari, cuius uestigia <lb/>
             frequentium legationum laboriosus callis adtriuerat et per <lb n="5"/>
             tramitem huiuscemodi itineris cursitantem non semel hispidum <lb/>
-            castrensis puiuis effecerat. qui tali publicas petitiones est <lb/>
+            castrensis <choice><sic>puiuis</sic><corr>puluis</corr></choice> effecerat. qui tali publicas petitiones est <lb/>
             orditus eloquio. "quantus, inuictissime princeps, per innumerabiles <lb/>
             successus felicitatem tuam fauor diuinus euexerit, si <lb/>
             per ordinem relegam, agnoscis te uotorum parcum maiora <lb n="10"/>

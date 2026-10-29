@@ -86,7 +86,8 @@
             </langUsage>
         </profileDesc>
         
-  </teiHeader>
+  <revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 6 mots collés, 23 mots mal lus.</change></revisionDesc>
+</teiHeader>
 <text>
 <body>
 <div type="edition" xml:lang="lat" n="urn:cts:latinLit:stoa0104a.stoa012.opp-lat1">
@@ -1716,7 +1717,7 @@
 </p>
           </div>
 
-<div n="6" subtype="section" type="textpart"><p> Denique ad minimum famnlum suum et in delictis licet plnrimis <lb/>
+<div n="6" subtype="section" type="textpart"><p> Denique ad minimum <choice><sic>famnlum</sic><corr>famulum</corr></choice> suum et in delictis licet plnrimis <lb/>
             constitutum et dignatione eius indignum tamen ille pro <lb/>
             sua circa nos bonitate mandare dignatus est. dic illi, inquit,<lb n="10"/>
             securus sit, quia pax uentura est, sed quod interim morula est, <lb/>
@@ -1727,7 +1728,7 @@
             </p>
           </div>
 
-<div n="7" subtype="section" type="textpart"><p rend="script"> Dissimnlare haec singula et apnd conseientiam meam solus <lb/>
+<div n="7" subtype="section" type="textpart"><p rend="script"> Dissimnlare haec singula et apnd <choice><sic>conseientiam</sic><corr>conscientiam</corr></choice> meam solus <lb/>
             occultare non debui, quibus unusquisque nostrum et instrui et <lb/>
             regi possit nec ipsi denique apud nos hanc epistulam teneatis <lb/>
             occultam, sed legendam fratribus suggeratis. intercipere enim<lb n="20"/>
@@ -1816,7 +1817,7 @@ nomine salutate et ut nostri meminerint admonete ualete.
           </ab>
           <p rend="script"> Quamquam sciam uos, fratres carissimi litteris meis frequenter <lb/>
             admonitos esse ut gloriosa uoce Dominum confessis et in <lb/>
-            carcere constitutis omnis dillgentia praebeatur. tamen identidem <lb/>
+            carcere constitutis omnis <choice><sic>dillgentia</sic><corr>diligentia</corr></choice> praebeatur. tamen identidem <lb/>
             uobis incumbo, ne quid ad curam desit his quibus ad gloriam <lb/>
             nihil deest. adque utinam loci et gradus mei condicio permitteret <lb n="10"/>
             ut ipse nunc praesens esse possem: promptus et libens sollemni <lb/>
@@ -3530,7 +3531,7 @@ nomine salutate et ut nostri meminerint admonete ualete.
             quae res cum omnium nostrum consilium et sententiam spectet, <lb/>
             praeiudicare ego et solum mihi rem communem uindicare non <lb/>
             audeo. et ideo instetur interim epistulis quas ad uos proximis <lb/>
-            feceram, quarum exemplum coilegis quoque multis iam misi: <lb/>
+            feceram, quarum exemplum <choice><sic>coilegis</sic><corr>collegis</corr></choice> quoque multis iam misi: <lb/>
              qui perscripserunt placere sibi quod statuimus nec ad uos recedendum <lb n="15"/>
             esse, donec pace nobis a Domino reddita in unum conuenire <lb/>
             et singulorum causas examinare possimus. sed et quid <lb/>
@@ -4119,7 +4120,7 @@ nomine salutate et ut nostri meminerint admonete ualete.
 </p>
           </div>
 
-<div n="5" subtype="section" type="textpart"><p> In quo loco marimafi tibi adque nberes gratias referre debemos <lb n="15"/>
+<div n="5" subtype="section" type="textpart"><p> In quo loco marimafi tibi adque <choice><sic>nberes</sic><corr>uberes</corr></choice> gratias referre debemos <lb n="15"/>
             et reddimus quod illorum carceris tenebras litteris tuis inluminasti, <lb/>
             quod ad illos uenisti quomodo introire potuisti, quod <lb/>
             illorum animos sua fide et confessione robustos tuis adlocutionibus <lb/>
@@ -4916,7 +4917,7 @@ nomine salutate et ut nostri meminerint admonete ualete.
 </p>
           </div>
 
-<div n="3" subtype="section" type="textpart"><p> Vos itaque secundum litteras meas fideliter et salnbriter consnlentes <lb/>
+<div n="3" subtype="section" type="textpart"><p> Vos itaque secundum litteras meas fideliter et <choice><sic>salnbriter</sic><corr>salubriter</corr></choice> consnlentes <lb/>
             a consiliis melioribus ne recedatis. legite uero has easdem <lb/>
             litteras et collegis meis, si qui ant praesentes fuerint aut<lb n="5"/>
             superuenerint, ut unanimes et concordes ad fouenda et sananda <lb/>
@@ -4936,7 +4937,7 @@ nomine salutate et ut nostri meminerint admonete ualete.
             solum debere sententiam dare, cum multi adhuc de clero absentes <lb/>
             sint nec locum suum uel sero repetendum putauerint et cognitio <lb/>
             haec singulorum tractanda sit et limanda plenius, non tantum <lb/>
-            cum coilegis meis, sed cum plebe ipsa uniuersa. expensa enim <lb n="20"/>
+            cum <choice><sic>coilegis</sic><corr>collegis</corr></choice> meis, sed cum plebe ipsa uniuersa. expensa enim <lb n="20"/>
             moderatione libranda et pronuntianda res est quae in posterum
 
 <note type="footnote"> 1 blandientes <hi rend="italic">Twz,</hi> blandimęntis <hi rend="italic">Zv</hi> decipiat <hi rend="italic">Z</hi> 2 incelebra <hi rend="italic">T</hi> <lb/>
@@ -5204,7 +5205,7 @@ nomine salutate et ut nostri meminerint admonete ualete.
             <title type="sub">CVPRIANVS MOVSI ET MAXIMO PRESBVTERIS ET CETERIS CONFESSORIBVS FRATRIBVS S. </title>
           </ab>
           <p rend="script"> Et cunctos uos pariter et singulos repraesentauit adfectibus <lb/>
-            nostris, fratres carissimi, Celerinus aduenieus, fidei ac uirtutis <lb n="5"/>
+            nostris, fratres carissimi, Celerinus <choice><sic>aduenieus</sic><corr>adueniens</corr></choice>, fidei ac uirtutis <lb n="5"/>
             uestrae comes et gloriosis congressibus Dei miles. uniuersos nos <lb/>
             in illo ueniente conspeximus, et cum caritatem circa me uestram <lb/>
             dulciter ac saepe loqueretur, in eius sermonibus uos audiebamus. <lb/>
@@ -6395,7 +6396,7 @@ nomine salutate et ut nostri meminerint admonete ualete.
 <div n="3" subtype="section" type="textpart"><p> Quod autem scripta collegarum nostrorum qui illic ordinationi <lb/>
             tuae adfuerant desiderauimus, non ueteres mores obliti nouum <lb n="5"/>
             aliquid quacrebamus nam satis est ut te episcopum factis litteris <lb/>
-            nuntiares, nisi esset M diucrso discrepans factio quae criminosis <lb/>
+            nuntiares, nisi esset M <choice><sic>diucrso</sic><corr>diuerso</corr></choice> discrepans factio quae criminosis <lb/>
             et calumniosis commentis suis collegarum pariter ac fratrum <lb/>
             plurimorum turbaret mentes et corda confunderet cui rei sopiendae <lb/>
             necessarium duximus at scribentium nobis uobis collegarum <lb n="10"/>
@@ -8231,7 +8232,7 @@ Cum frequenter, carissimi, cognoueritis ex litteris meis quem <lb/>
 <note type="footnote"> 41 </note> <lb/>
              
 <pb n="642"/>
-            paeniteutia sed mortis urgentis admonitio conpellit, nec dignus est ia <lb/>
+            <choice><sic>paeniteutia</sic><corr>paenitentia</corr></choice> sed mortis urgentis admonitio conpellit, nec dignus est ia <lb/>
             morte accipere solacium qui se non cogitauit esse moriturum. 
 </p>
           </div>
@@ -9527,7 +9528,7 @@ Cum frequenter, carissimi, cognoueritis ex litteris meis quem <lb/>
             conceditur, ut quisque sacerdoti eius et ad tempus hic iudicanti <lb/>
             non obtemperaret statim necaretur P in Deuteronomio <lb/>
             loquitur Dominus Deus dicens: et homo quicumque fecerit <lb/>
-            in superbia, ut non exaudiat sacerdotem autiudicem, <lb n="20"/>
+            in superbia, ut non exaudiat sacerdotem <choice><sic>autiudicem</sic><corr>aut iudicem</corr></choice>, <lb n="20"/>
             quicumque fuerit in diebus illis, morietur <lb/>
             homo ille, et omnis populus cum audierit timebit <lb/>
             et non agent impie etiam nunc. item ad Samuelem cum <lb/>
@@ -9639,12 +9640,12 @@ Cum frequenter, carissimi, cognoueritis ex litteris meis quem <lb/>
             ea contaminabuntur. et per Esaiam quoque spiritus <lb/>
             sanctus clamat ac dicit: uae uobis, filii desertores. <lb/>
             haec dicit Dominus: habuistis consilium, non per <lb/>
-            me: et fecistis conuentionem, non per spiritummeum, <lb n="5"/>
+            me: et fecistis conuentionem, non per <choice><sic>spiritummeum</sic><corr>spiritum meum</corr></choice>, <lb n="5"/>
             adicere peccata super peccata. 
 </p>
           </div>
 
-<div n="6" subtype="section" type="textpart"><p>Ceteium — dico eniin prouooatus, dico dolens, dico conpulsus quando  <lb/>
+<div n="6" subtype="section" type="textpart"><p>Ceteium — dico <choice><sic>eniin</sic><corr>enim</corr></choice> <choice><sic>prouooatus</sic><corr>prouocatus</corr></choice>, dico dolens, dico conpulsus quando  <lb/>
             episcopus in locum defuncti substituitur, quando populi <lb/>
             uniuersi suffragio in pace deligitur, quando Dei auxilio in persecutione <lb/>
             protegitur, collegis omnibus fideliter iunctus, plebi <lb n="10"/>
@@ -10042,7 +10043,7 @@ Cum frequenter, carissimi, cognoueritis ex litteris meis quem <lb/>
             parua et modica delicta, quod per illos non rogatur maiestas <lb/>
             indignantis Dei, quod non timetur ira et ignis et dies Domini, <lb/>
             quod inminente antichristo exarmatur fides militantis populi, dum <lb n="5"/>
-            tollitur uigor ettimor Christi ? uiderint laici hoc quomodo curent. <lb/>
+            tollitur uigor <choice><sic>ettimor</sic><corr>et timor</corr></choice> Christi ? uiderint laici hoc quomodo curent. <lb/>
             sacerdotibus labor maior incumbit in adserenda et procuranda <lb/>
             Dei maiestate, ne quid uideamur in hac parte neglegere, <lb/>
             quando admoneat Dominus et dicat: et nunc praeceptum <lb/>
@@ -10589,7 +10590,7 @@ Cum frequenter, carissimi, cognoueritis ex litteris meis quem <lb/>
             durus saecularis philosophiae prauitate quam sophiae dominicae <lb/>
             lenitate pacificus, desertor ecclesiae, misericordiae hostis, interfector <lb/>
             paenitentiae, doctor superbiae, ueritatis corruptor, perditor <lb n="5"/>
-            caritatis ? adgnoscitne iam qui sit sacerdos Dei, quae sit ecclosia <lb/>
+            caritatis ? adgnoscitne iam qui sit sacerdos Dei, quae sit <choice><sic>ecclosia</sic><corr>ecclesia</corr></choice> <lb/>
             et domus Christi, qui sint Dei serui quos diabolus infestet, qui <lb/>
             sint christiani quos antichristus inpugnet? neque enim quaerit <lb/>
             illos quos iam subegit aut gestit euertere quos iam suos fecit. <lb/>
@@ -10608,7 +10609,7 @@ Cum frequenter, carissimi, cognoueritis ex litteris meis quem <lb/>
 </p>
           </div>
 
-<div n="5" subtype="section" type="textpart"><p rend="script"> Hortamnr plane quantum possnmns, frater carissime, pro caritate <lb/>
+<div n="5" subtype="section" type="textpart"><p rend="script"> Hortamnr plane quantum <choice><sic>possnmns</sic><corr>possumus</corr></choice>, frater carissime, pro caritate <lb/>
             mutua qua nobis inuicem cohaeremus ut, quoniam prouidentia <lb n="20"/>
             Domini monentis instmimur et diuinae misericordiae <lb/>
             consiliis salubribus admonemur adpropinquare iam certaminis et <lb/>
@@ -10938,7 +10939,7 @@ Cum frequenter, carissimi, cognoueritis ex litteris meis quem <lb/>
             uel simpliciter in calice dominico sanctificando et plebi <lb/>
             ministrando non hoc faciunt quod Iesus Christus Dominus et. <lb/>
             Deus noster sacrificii huius auctor et doctor fecit et docuit, religiosum <lb/>
-            pariter ac necessarium duxi de hoc ad uos litteras facereut <lb n="20"/>
+            pariter ac necessarium duxi de hoc ad uos litteras <choice><sic>facereut</sic><corr>facerent</corr></choice> <lb n="20"/>
             si qui in isto errore adhuc tenebatur, ueritatis luce perspecta <lb/>
             ad radicem adque originem traditionis dominicae reuertatur. nec <lb/>
             hoc putes, frater carissime, <hi rend="italic">nos</hi> nostra et humana conscribere aut
@@ -11357,7 +11358,7 @@ Cum frequenter, carissimi, cognoueritis ex litteris meis quem <lb/>
 </p>
           </div>
 
-<div n="12" subtype="section" type="textpart"><p rend="script"> Quam nero pernersum est quamque contrarium, at cum Dominus <lb/>
+<div n="12" subtype="section" type="textpart"><p rend="script"> Quam nero <choice><sic>pernersum</sic><corr>peruersum</corr></choice> est quamque contrarium, at cum Dominus <lb/>
             in nuptiis de aqua uinum fecerit, nos de uino aquam faciamus, <lb/>
             cum sacramentum quoque rei illius admonere et instruere <lb/>
             nos debeat, ut in sacrificiis dominicis uinum potius offeramus. nam
@@ -11426,7 +11427,7 @@ Cum frequenter, carissimi, cognoueritis ex litteris meis quem <lb/>
              
 <pb n="712"/>
             utrumque miscetur et adunatione confusa sibi inuicem copulatur, <lb/>
-            tunc sacramentum spiritale et caeieste perficitur sic uero <lb/>
+            tunc sacramentum spiritale et <choice><sic>caeieste</sic><corr>caeleste</corr></choice> perficitur sic uero <lb/>
             calix Domini non est aqua sola aut uinum solum nisi utrumque <lb/>
             sibi misceatur, quomodo nec corpus Domini potest esse farina <lb/>
             sola aut aqua sola, nisi utrumque adunatum fuerit et copulatum <lb n="5"/>
@@ -12657,7 +12658,7 @@ Cum frequenter, carissimi, cognoueritis ex litteris meis quem <lb/>
 </p>
           </div>
 
-<div n="5" subtype="section" type="textpart"><p>Propter quod diligenter de traditione diuina et apostolioa obseruatione  <lb/>
+<div n="5" subtype="section" type="textpart"><p>Propter quod diligenter de traditione diuina et <choice><sic>apostolioa</sic><corr>apostolica</corr></choice> obseruatione  <lb/>
             seruandum est et tenendum quod apud nos quoque et <lb/>
             fere per prouincias uniuersas tenetur, ut ad ordinationes rite <lb/>
             celebrandas ad eam plebem cui praepositus ordinatur episcopi <lb n="10"/>
@@ -13030,7 +13031,7 @@ Cum frequenter, carissimi, cognoueritis ex litteris meis quem <lb/>
             auertam eos ut non pascant oues meas: et iam non <lb/>
             pascent eas, et extraham eas de ore eorum, et <lb/>
             pascam eas cum iudicio. cum ergo pastoribus talibus per <lb/>
-            quos dominicae oues necleguntur et pereunt sic Dominus comminetur, <lb/>
+            quos dominicae oues <choice><sic>necleguntur</sic><corr>nec leguntur</corr></choice> et pereunt sic Dominus comminetur, <lb/>
             quid nos aliud facere oportet, frater carissime, quam <lb n="15"/>
             colligendis et refouendis Christi ouibus exhibere diligentiam <lb/>
             plenam et curandis lapsorum uulneribus paternae pietatis adhibere <lb/>
@@ -13612,7 +13613,7 @@ Cum frequenter, carissimi, cognoueritis ex litteris meis quem <lb/>
             itaque qui haereticis siue schismaticis patrocinantur, respondeant <lb/>
             nobis habeantne spiritum sanctum an non habeant si habent, <lb/>
             cor illic baptizatis quando ad nos ueniunt manus inponitur <lb/>
-            ad accipiendum spiritum, quando iam utique aceeptus sit ubi <lb/>
+            ad accipiendum spiritum, quando iam utique <choice><sic>aceeptus</sic><corr>acceptus</corr></choice> sit ubi <lb/>
             si fuit dari potuit? si autem foris cuncti haeretici et schismatici<lb n="5"/>
             non dant spiritum sanctum et ideo apud nos manus inponitur <lb/>
             ut hic accipiatur quod illic nec est nec dari potest, manifestum <lb/>
@@ -13972,7 +13973,7 @@ Cum frequenter, carissimi, cognoueritis ex litteris meis quem <lb/>
 </p>
           </div>
 
-<div n="2" subtype="section" type="textpart"><p rend="script"> Sed et ipsa interrogatio quae fit in baptismo testis est neritatis. <lb/>
+<div n="2" subtype="section" type="textpart"><p rend="script"> Sed et ipsa interrogatio quae fit in baptismo testis est <choice><sic>neritatis</sic><corr>ueritatis</corr></choice>. <lb/>
             nam cum dicimus: credis in uitam aeternam et <lb/>
             remissionem peccatorum per sanctam ecclesiam, <lb/>
             intellegimus remissionem peccatorum non nisi in ecclesia dari, <lb/>
@@ -14222,7 +14223,7 @@ Cum frequenter, carissimi, cognoueritis ex litteris meis quem <lb/>
             consilium ueritatis admisit et rationi legitimae quam Paulus <lb/>
             uindicabat facile consensit, documentum scilicet nobis et concordiae <lb/>
             et patientiae tribuens, ut non pertinaciter nostra amemus, <lb/>
-            sed quae aliquando a fratribus et coilegis nostris utiliter et salubriter <lb n="20"/>
+            sed quae aliquando a fratribus et <choice><sic>coilegis</sic><corr>collegis</corr></choice> nostris utiliter et salubriter <lb n="20"/>
             suggeruntur, si sint uera et legitima, ista potius nostra <lb/>
             ducamus. cui rei Paulus quoque prospiciens et concordiae et <lb/>
             paci fideliter consulens in epistula sua posuit dicens: prophetae
@@ -15358,7 +15359,7 @@ Cum frequenter, carissimi, cognoueritis ex litteris meis quem <lb/>
 </p>
           </div>
 
-<div n="26" subtype="section" type="textpart"><p rend="script"> Haec tibi brenibus pro nostra mediocritate rescripsimus, frater <lb/>
+<div n="26" subtype="section" type="textpart"><p rend="script"> Haec tibi <choice><sic>brenibus</sic><corr>breuibus</corr></choice> pro nostra mediocritate rescripsimus, frater <lb/>
             carissime, nemini praescribentes aut praeiudicantes quo minus<lb n="10"/>
             unusquisque episcoporum quod putat faciat, habens arbitrii sui <lb/>
             liberam potestatem. nos, quantum in nobis est, propter haereticos <lb/>
@@ -15866,7 +15867,7 @@ Cum frequenter, carissimi, cognoueritis ex litteris meis quem <lb/>
             unitatem mandauit et monuit per unum solum baptisma <lb n="5"/>
             unius ecclesiae saluari nos posse, in arca, inquit, Noe pauci, <lb/>
             id est octo animae hominum saluae factae sunt per <lb/>
-            aquam, quodetuos similiter saluos faciet baptisma. <lb/>
+            aquam, <choice><sic>quodetuos</sic><corr>quod et uos</corr></choice> similiter saluos faciet baptisma. <lb/>
             quo breui et spiritali conpendio unitatis sacramentum manifestato. <lb/>
             nam ut in illo mundi baptismo quo iniquitas antiqua purgata <lb n="10"/>
             est, qui in area Noe non fuit non potuit per aquam saluus <lb/>
@@ -16648,7 +16649,7 @@ Cum frequenter, carissimi, cognoueritis ex litteris meis quem <lb/>
 </p>
           </div>
 
-<div n="25" subtype="section" type="textpart"><p> Haec apostoli mandata et monita salntaria quam diligenter <lb/>
+<div n="25" subtype="section" type="textpart"><p> Haec apostoli mandata et monita <choice><sic>salntaria</sic><corr>salutaria</corr></choice> quam diligenter <lb/>
             Stephanus impleuit, humilitatem sensus et lenitatem primo in <lb/>
             loco seruans. quid enim humilius aut lenius quam cum tot <lb/>
             episcopis per totum mundum dissensisse, pacem cum singulis <lb/>
@@ -16665,7 +16666,7 @@ Cum frequenter, carissimi, cognoueritis ex litteris meis quem <lb/>
             rebellare. apud talem potest esse unum corpus et unus spiritus, <lb n="15"/>
             apud quem fortasse ipsa anima una non est sic lubrica et mobilis <lb/>
             et incerta? sed quantum ad illum pertinet, relinquamus. excutiamus <lb/>
-            potius id de quo cummaxima quaestio est. qui contendunt <lb/>
+            potius id de quo <choice><sic>cummaxima</sic><corr>cum maxima</corr></choice> quaestio est. qui contendunt <lb/>
             ab haereticis baptizatos sic recipi oportere tamquam legitimi <lb/>
             baptismi gratiam consecutos, unum nobis atque illis baptisma<lb n="20"/>
             dicunt esse et in nullo discrepare. sed quid ait apostolus Paulus? <lb/>

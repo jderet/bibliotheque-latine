@@ -87,6 +87,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 2 mots collés, 1 mot mal lu.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -196,7 +197,7 @@
 
 <div n="2" subtype="section" type="textpart"><p>et statim ministris  <lb/>
             suis praecepit, ut mihi et uestem hanc et margaritam ostenderent <lb/>
-            et confestim itafit. hanc primum uestem uidi; uidifiliauidi, <lb/>
+            et confestim <choice><sic>itafit</sic><corr>ita fit</corr></choice>. hanc primum uestem uidi; uidifiliauidi, <lb/>
             quod eloqui non possum. numquid non sericum secundum subtilitatem <lb/>
             eius spartum erat? numquid candori eius niues comparatae <lb n="5"/>
             non nigrescebunt? numquid aurum iuxta fulgorem eius <lb/>
@@ -310,7 +311,7 @@
             et caelestis est, non dignatur ibi esse, ubi aliae sunt. <lb n="10"/>
             non enim rebus meis conuenit cum rebus hominis, quia, qui ueste mea <lb/>
             et margarita utitur, in aeternum sanus est non febre exardescit, <lb/>
-            non uulncri patet, non annis demutatur, non morte dissoluitur—,
+            non <choice><sic>uulncri</sic><corr>uulneri</corr></choice> patet, non annis demutatur, non morte dissoluitur—,
 
 <note type="footnote">5 cf. Hieron. ep. XXII ad Eustochium 13 </note>
 
@@ -418,7 +419,7 @@
             et qualis sit et quid uelit et quid promittat et quid possit, indicabo. <lb/>
             </p></div>
 
-<div n="2" subtype="section" type="textpart"><p>interim tibi hymnum matutinum et serotinum misi, utmemor  <lb n="15"/>
+<div n="2" subtype="section" type="textpart"><p>interim tibi hymnum matutinum et serotinum misi, <choice><sic>utmemor</sic><corr>ut memor</corr></choice>  <lb n="15"/>
             mei semper esses. tu uero, si quid minus per aetatem hymnum et
 
 <note type="footnote">3 cf. Hieron. ep. VII ad Laetam 5 </note>

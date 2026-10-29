@@ -84,6 +84,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 14 mots mal lus, 3 mots collés.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -622,7 +623,7 @@
             ad optatae copiam gratiae peruenturum. si Abrahae meritis <lb/>
             Loth sanctorum turbis adsciscitur, si hi qui caruere propriis <lb n="5"/>
             propinquorum ad celsa perduci meruere uirtutibus: annus iste <lb/>
-            familiae, uestrae pariet dignitates. nam siuobis cordi sum, <lb/>
+            familiae, uestrae pariet dignitates. nam <choice><sic>siuobis</sic><corr>si uobis</corr></choice> cordi sum, <lb/>
             facile ad caelestem gratiam optata inpetratione perducor. domine <lb/>
             mi, salutationis, reuerentiam soluens ueniam, , postulo. de <lb/>
             prolixitate sermonis quia difficile est magna gaudentem parua <lb n="10"/>
@@ -2748,7 +2749,7 @@
             eorum. quid etiam sibi uult uniuersa prophetae<lb n="20"/>
             quasi sertis redimita elocutio: nolite aemulari inter malignantes. <lb/>
             nolite confidere in principibus. nolite <lb/>
-            fieri sicut equus et mulus, etapostolus: nolite fieri <lb/>
+            fieri sicut equus et mulus, <choice><sic>etapostolus</sic><corr>et apostolus</corr></choice>: nolite fieri <lb/>
             serui hominum? totiens \'noli in superna admonitione quo <lb/>
             respicit, si aliud uelle non licuit? deinde quamuis in persona <lb n="25"/>
             Christi tamen pro arbitrii adstipulatur eiusdem prophetae nobis
@@ -2767,7 +2768,7 @@
             <hi rend="italic">BL Y</hi> nobis 1. t. ut facerem ita <hi rend="italic">tcxtu om</hi>. in <hi rend="italic">mg. inf. add. L</hi> </note> <lb/>
              
 <pb n="63"/>
-            libertate testimonium: ut facerem em uoluutatem tuam, <lb/>
+            libertate testimonium: ut facerem em <choice><sic>uoluutatem</sic><corr>uoluntatem</corr></choice> tuam, <lb/>
             . deus meus, uolui, et alibi: uoluntarie sacrificabo <lb/>
             tibi, et: uota mea domino reddam, et iterum: uouete <lb/>
             et reddite. illud autem beati apostoli quo se muniri credit <lb/>
@@ -2777,7 +2778,7 @@
             a ueritate descisceret, sapiens architectus adiunxit: abundantius <lb/>
             omnibus laboraui et gratia dei in me egena non <lb/>
             fu i t, quod dixisse est: Christus in me quem digne aut abundanter <lb n="10"/>
-            muneraretur inueuit. non enim pauper est diuina gratia, sed <lb/>
+            muneraretur <choice><sic>inueuit</sic><corr>inuenit</corr></choice>. non enim pauper est diuina gratia, sed <lb/>
             meritorum nostrorum putatur quadam macie aut exilitate tenuari. <lb/>
             quae tunc non suis aestimatur meatibus fluere, quando <lb/>
             de eius cursibus ariditatis nostrae uena nil recipit. o si <lb/>
@@ -3803,7 +3804,7 @@ tui dispendio peruenire. discamus non odisse quod adiuuat. <lb n="5"/>
             bonae lingua commendat: non indiget prolixitate sermonum <lb/>
             qui suis apud magnitudinem uestram dotibus adiuuatur. sublimem <lb n="10"/>
             uirum Vitalem loquitur praefata concinnatio, quem 08 <lb/>
-            uestram fecit sacri consortio gandere collegii. ergo extraneis <lb/>
+            uestram fecit sacri consortio <choice><sic>gandere</sic><corr>gaudere</corr></choice> collegii. ergo extraneis <lb/>
             munietur epistulis qui orationis uestrae beneficio curiam non <lb/>
             ut peregrinus ingreditur et cui reserastis libertatis penetralia, <lb/>
             illi pectoris arcana claudentur? ego autem gaudeo scriptione <lb n="15"/>
@@ -3837,8 +3838,8 @@ tui dispendio peruenire. discamus non odisse quod adiuuat. <lb n="5"/>
             uii ad consilium reducitur pio amore pectus obsessum ? putat <lb/>
             remedia et quae conperit nil iuuisse. salutati ergo obsequium <lb/>
             reuerentia exhibens consueta commendo praesentium perlatorem <lb/>
-            ipsum Constantinum, cui snffragium honestas et pudor est, <lb/>
-            cui quamuis plnra per affectum debeam, maiora tamen coactus<lb n="5"/>
+            ipsum Constantinum, cui <choice><sic>snffragium</sic><corr>suffragium</corr></choice> honestas et pudor est, <lb/>
+            cui quamuis <choice><sic>plnra</sic><corr>plura</corr></choice> per affectum debeam, maiora tamen coactus<lb n="5"/>
             soluo per iudicium. 
 </p>
 </div><div n="23" subtype="letter" type="textpart">   <ab>
@@ -3848,9 +3849,9 @@ tui dispendio peruenire. discamus non odisse quod adiuuat. <lb n="5"/>
             promptu est nec ulla preces cui praestandi mos est tarditate<lb n="10"/>
             depretiat. Virgilius sublimis uir, tam sangoine quam honeetate <lb/>
             pracipuus; inponi sibi ab inlustri uiro sacrarum \'comite Banennam <lb/>
-            ezcnrrendi neoessitatem plurimum deflet, cnins si hoc <lb/>
+            ezcnrrendi <choice><sic>neoessitatem</sic><corr>necessitatem</corr></choice> plurimum deflet, cnins si hoc <lb/>
             haberent desideria, obuias manus aetas adferret. qui apud nos <lb/>
-            me precatore utitur, ut ab eo huiusmodi saroina fiat aliena,<lb n="15"/>
+            me precatore utitur, ut ab eo huiusmodi <choice><sic>saroina</sic><corr>sarcina</corr></choice> fiat aliena,<lb n="15"/>
             quia relationibus frequenter quid egerit instructam praedicti <lb/>
             suggerit potestatem. domini, honorem salutati ezhibens precor, <lb/>
             ut consideratione mei in testimonium diligentiae postulatis <lb/>
@@ -3861,7 +3862,7 @@ tui dispendio peruenire. discamus non odisse quod adiuuat. <lb n="5"/>
           </ab>
           <p>Noao me genio infncata pectoris uestri ornauit diligentia: <lb/>
             eliciti utor stili testimonio qui doctis supra inscitiam garrulitate <lb/>
-            displiceo. coaotus sermo pretium, quod non habet ex
+            displiceo. <choice><sic>coaotus</sic><corr>coactus</corr></choice> sermo pretium, quod non habet ex
 
 
 
@@ -6406,7 +6407,7 @@ tui dispendio peruenire. discamus non odisse quod adiuuat. <lb n="5"/>
             <title>I. ENNODIVS PARTENIO. </title>
           </ab>
           <p rend="script">Nisi te efflictim diligerem et pii amoris soliditas indemutabili <lb/>
-            radice constaret, possem iuiuriarum dolore prouocatus, uel cum pueriliter irasceris uel cum adroganter supplicas, con- a <lb n="5"/>
+            radice constaret, possem <choice><sic>iuiuriarum</sic><corr>iniuriarum</corr></choice> dolore prouocatus, uel cum pueriliter irasceris uel cum adroganter supplicas, con- a <lb n="5"/>
             moneri : nihil enim inuenio, quod sit fabricata humilitate superbius. <lb/>
             praefero contumelias fucatae frontis obsequiis: transit <lb/>
             amaritudinem dulcedo simulata. non opus est deprecationibus, <lb/>
@@ -8808,7 +8809,7 @@ tui dispendio peruenire. discamus non odisse quod adiuuat. <lb n="5"/>
             labore et pretio constitissent, adicio quae secuntur. una inter <lb/>
             ipsas et ingenua et sine filiis est et puto, quod fit sanctis uicinum <lb/>
             desideriis, nec habebit... enim in christia?is hominibus <lb/>
-            fecunda sterilitas et maximum solacium saeouli adiutoria non <lb/>
+            fecunda sterilitas et maximum solacium <choice><sic>saeouli</sic><corr>saeculi</corr></choice> adiutoria non <lb/>
             habere. sed ne forte animus uester in occupationes publicas<lb n="5"/>
             debeat de anagnostici prolixitate fastidium, quamuis bona in <lb/>
             principiis locate uos animent et quemlibet rancorem detergeat <lb/>
@@ -8847,7 +8848,7 @@ tui dispendio peruenire. discamus non odisse quod adiuuat. <lb n="5"/>
 <note type="footnote"> VI. 24 exspecto <hi rend="italic">LV</hi> 25 praestulatur <hi rend="italic">B</hi> </note> <lb n="25"/>
              
 <pb n="205"/>
-            exemple. expugnat ealcaribus tarditatem qui formam ministrat <lb/>
+            exemple. expugnat <choice><sic>ealcaribus</sic><corr>calcaribus</corr></choice> tarditatem qui formam ministrat <lb/>
             officii. his. ergo salutationis munus inpertiens sanum me esse<lb/>
              post inaequalitatem, quam pro peccatis sum passus, enuntio et <lb/>
             statum uestrae prosperitatis inquiro, sperans ut in huius rei <lb/>
@@ -8872,7 +8873,7 @@ tui dispendio peruenire. discamus non odisse quod adiuuat. <lb n="5"/>
           </ab>
           <p rend="script">Quibus modis fraternitatom tuam ad scribendum quaue arte <lb/>
             sollicitem, quando homo uerborum locuples in me silentia <lb n="20"/>
-            peregrina custodis? elegi, ut loqui te loquendo faciam etillam <lb/>
+            peregrina custodis? elegi, ut loqui te loquendo faciam <choice><sic>etillam</sic><corr>et illam</corr></choice> <lb/>
             Atticam eruditionem ad epistolas alia garrulitate producam. <lb/>
             iustum fuit ut tot diebus a promissione desisteres et qualiter
 
@@ -9744,7 +9745,7 @@ tui dispendio peruenire. discamus non odisse quod adiuuat. <lb n="5"/>
 </div><div n="38" subtype="letter" type="textpart">    <ab>
             <title type="sub">XXXVIII. ENNODIVS SVMMACHO. </title>
           </ab>
-          <p>Non inefficaciter poseit qui parenti omnium peregrinos <lb/>
+          <p>Non inefficaciter <choice><sic>poseit</sic><corr>poscit</corr></choice> qui parenti omnium peregrinos <lb/>
             insinuat: nobilibus generalis debetur adsertio, maxime apud <lb/>
             eos qui beneficia tribuunt non rogati. Beatum sublimem <lb n="5"/>
             adulescentem praesentium baiulum si corona uestra dignanter <lb/>
@@ -10696,7 +10697,7 @@ tui dispendio peruenire. discamus non odisse quod adiuuat. <lb n="5"/>
           <p>Gratum mihi est ad magnitudinem uestram litterarum munera <lb/>
             promulgare, quia et generi et conscientiae uestrae non tam <lb/>
             exhibetur honor iste quam redditur. iustum eat ut religiosi <lb n="5"/>
-            homo propositi sanctam niduam et nobilem ueneretur ingenuus. <lb/>
+            homo propositi sanctam <choice><sic>niduam</sic><corr>uiduam</corr></choice> et nobilem ueneretur ingenuus. <lb/>
             ago deo meo gratias, quia bonus opinionis uestrae ad nos odor <lb/>
             emanauit ille usque ad consummationem uitae fructus tribuat <lb/>
             qui bonam radicem in hac saeculi conuersatione plantauit. <lb/>
@@ -10777,7 +10778,7 @@ tui dispendio peruenire. discamus non odisse quod adiuuat. <lb n="5"/>
             suis iura necessitudinis incrementis et accessione piae dignitatis <lb/>
             et generis et diligentiae uincla dissolui ? ergo decuit<lb/>
              euectionem meriti uestri: instabili mihi esse rumore conpertam<lb/>
-             et de communibus gaudiis adhuc pendere opinione eontentum? <lb/>
+             et de communibus gaudiis adhuc pendere opinione <choice><sic>eontentum</sic><corr>contentum</corr></choice>? <lb/>
             electus sum, cui bonum generale taceretur, at rem aurei <lb n="5"/>
             saeculi solus pro conscientiae meae obscuritate nescirem. nobilis<lb/>
              uita uel genere apicem ecclesiastic honoris ascendit, et me <lb/>

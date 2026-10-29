@@ -86,6 +86,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 11 mots mal lus, 5 césures, 1 mot collé.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -210,7 +211,7 @@
             maior fuerit aegritudo, tanto instantior debet esse curatio, potens <lb/>
             est dominus deus noster, ut, quod de morte hydrae illius <lb/>
              gentilium falsitas finxit, hoc in ecclesiarum bellis ueritas peragat, <lb n="20"/>
-            et ignitus sancti spiritus gladius ita in extinguenda nonella <lb/>
+            et ignitus sancti spiritus gladius ita in extinguenda <choice><sic>nonella</sic><corr>nouella</corr></choice> <lb/>
             haeresi omnes penitus medullas perniciosae generationis <lb/>
             exurat, ut tandem prodigiosa fecunditas emorientibus uenis <lb/>
             parere desistat. 
@@ -354,7 +355,7 @@ NMp heresin Np heresim M 29 heresim NMp </note>
             meruisset.</p></div>
 
 <div n="2" subtype="section" type="textpart"><p>quo factum est nt in maiorem quoque ac monstruosiorem <lb/>
-            iusaniam prorumpentes dicerent dominum nostrum Iesum <lb n="5"/>
+            <choice><sic>iusaniam</sic><corr>insaniam</corr></choice> prorumpentes dicerent dominum nostrum Iesum <lb n="5"/>
             Christum in hunc mundum non ad praestandam humano generi <lb/>
             redemptionem, sed ad praebenda bonorum actuum exempla <lb/>
             uenisse, uidelicet ut disciplinam eius sequentes homines, dum <lb/>
@@ -518,7 +519,7 @@ NMp heresin Np heresim M 29 heresim NMp </note>
             diminutio eius sit accipienda substantiae. <lb/>
 </p></div>
 
-<div n="5" subtype="section" type="textpart"><p>            rnouit deus sine sui corruptione misceri et tamen in  <lb/>
+<div n="5" subtype="section" type="textpart"><p>            <choice><sic>rnouit</sic><corr>mouit</corr></choice> deus sine sui corruptione misceri et tamen in  <lb/>
             ueritate misceri, et ita suscipere, ut nihil ei crescat <lb/>
             augmenti, sicut se ipsum totum nouit infundere, ut <lb n="15"/>
             nihil ei accidat detrimenti. non ergo ad intellegentiam <lb/>
@@ -1032,7 +1033,7 @@ ad ueritatem probandam ueritatis testimonia <sic n="poss">conuocemus</sic>. ubi 
             ostendendum nouae gratiae et generationis aduentum sermone <lb/>
             usus est. dicens enim apparuit ortum nonas gratiae ac natiuitatis <lb/>
             expressit, quia exinde apparere donum gratiae no <unclear>e</unclear> <lb/>
-            coepit, ex quo deus in mundo natus apparuit. digna ergc» et <lb n="5"/>
+            coepit, ex quo deus in mundo natus apparuit. digna <choice><sic>ergc</sic><corr>ergo</corr></choice>» et <lb n="5"/>
             congrua hanc nouae gratiae lucem uerbi proprietate quasi digito <lb/>
             indicante monstrauit. hoc enim rectissime apparuisse <lb/>
             dicitur, quod subita quasi apparitionis luce monstratur, sicut <lb/>
@@ -1082,8 +1083,7 @@ ad ueritatem probandam ueritatis testimonia <sic n="poss">conuocemus</sic>. ubi 
             inquit idem apostolus, beatam spem et aduentum gloriae <lb n="5"/>
             magni dei et saluatoris nostri Iesu Christi. uidit profecto <lb/>
             ille diuinae sapientiae doctor ad insidiosas calliditatis <lb/>
-            diabolicae captiones simplicem tantummodo non sufficere doctri- <lb/>
-            nam, nisi sanctam fidei praedicationem munimine cautionis armasset. <lb/>
+            diabolicae captiones simplicem tantummodo non sufficere doctri<lb break="no"/>nam, nisi sanctam fidei praedicationem munimine cautionis armasset. <lb/>
             et ideo, cum superius nomen dei saluatorisque posuisset, <lb n="10"/>
             hic addidit Iesu Christi, scilicet ne ad significandum dominum <lb/>
             Iesum Christum sufficere tibi forsan nomen solum non crederes <lb/>
@@ -1127,7 +1127,7 @@ ad ueritatem probandam ueritatis testimonia <sic n="poss">conuocemus</sic>. ubi 
             quaerere discrepantiam potestatis et pro uarietate appellationis  <lb/>
             diuersitatem facere personae.</p></div>
 
-<div n="8" subtype="section" type="textpart"><p>nou lieet dieere: <lb/>
+<div n="8" subtype="section" type="textpart"><p>nou lieet <choice><sic>dieere</sic><corr>dicere</corr></choice>: <lb/>
             Christus ei Maria natus est, et non deus. apostolus enim <lb/>
             proclamat: deus. non licet dicere: Iesus ei Maria natus est, <lb/>
 \t    et non deus. apostolus enim testatur: deus. non licet dicere: <lb n="5"/>
@@ -1322,7 +1322,7 @@ quemadmodum et illi.</p></div>
               <lb/>
             altissimi cooperante concepit.</p></div>
 
-<div n="5" subtype="section" type="textpart"><p>ac per lioc intellegis quod domini <lb/>
+<div n="5" subtype="section" type="textpart"><p>ac per <choice><sic>lioc</sic><corr>hoc</corr></choice> intellegis quod domini <lb/>
             saluatorisque nostri inde est origo, unde conceptus: et <lb/>
             cum descendente uirginem totius diuinitatis plenitudine natus <lb/>
             sit, filius hominis esse non potuerat, nisi prius dei filius fuisset, <lb/>
@@ -2034,7 +2034,7 @@ quemadmodum et illi.</p></div>
             non minus illi grauis illa est persecutio, in qua eum in suis <lb/>
             impii persequuntur.</p></div>
 
-<div n="3" subtype="section" type="textpart"><p>sed offendit te domiuicae crucis nomen:  <lb n="30"/>
+<div n="3" subtype="section" type="textpart"><p>sed offendit te <choice><sic>domiuicae</sic><corr>dominicae</corr></choice> crucis nomen:  <lb n="30"/>
             hoc et Iudaeos semper offendit. exhorrescis deum audire
 
 <note rend="script" type="footnote"> -3 gentibus <hi rend="italic">Mv</hi> A munquam <hi rend="italic">M</hi> a <hi rend="italic">om. Np</hi> gentibus <hi rend="italic"><foreign xml:lang="grc">Μυ</foreign></hi> å crucifigvas <lb/>
@@ -2503,7 +2503,7 @@ quid N: <sic n="poss">om</sic>. M 9 euangelista testantur M 10 apostolum mentiri
             caro an spiritus? negare utique non potes Christum fuisse. <lb/>
 </p></div>
 
-<div n="4" subtype="section" type="textpart"><p>            homo ergo ille ex homine ac deo natos, spiritu sancto m uirsine  <lb/>
+<div n="4" subtype="section" type="textpart"><p>            homo ergo ille ex homine ac deo natos, spiritu sancto m <choice><sic>uirsine</sic><corr>uir sine</corr></choice>  <lb/>
             descendente et uirtute altissimi obumbrante conceptus, ac <lb/>
             sic hominis et dei filius, ille utique, ut negare non potes, baptizatus <lb/>
             est. si ergo ille baptizatus est, ille et nominatus, quia <lb/>
@@ -3496,8 +3496,7 @@ et non a peccatis, sed ab hostibus saluauerunt. <lb/>
              
 <pb n="303"/>
             Christum hominem tantummodo solitarium ex uirgine natum <lb/>
-            esse, et ideo Mariam Christotocon, non theotocon esse appel- <lb/>
-            landam, quia sit Christi mater, non dei. addit praeterea sacrilegae <lb/>
+            esse, et ideo Mariam Christotocon, non theotocon esse appel<lb break="no"/>landam, quia sit Christi mater, non dei. addit praeterea sacrilegae <lb/>
             assertioni quam praua argumenta tam friuola, dicens: <lb/>
             nemo anteriorem se parit. quasi uero unigeniti dei natiuitas <lb n="5"/>
             a prophetis praedicta, a saeculis praenuntiata humanis <lb/>
@@ -4525,8 +4524,7 @@ sit postea profundioris uia.
 <pb n="324"/>
             man (sine illud: deus ab austro) ueniet. dauid quoque: <lb/>
             deus manifeste ueniet, et iterum: qui sedes super <lb/>
-            Cherubin , appare. alii aduentum eius quem mundo prae-   <lb/>
-            stitit annuntiabant, alii postulabant.</p></div>
+            Cherubin , appare. alii aduentum eius quem mundo prae<lb break="no"/>stitit annuntiabant, alii postulabant.</p></div>
 
 <div n="2" subtype="section" type="textpart"><p>nonnulli specie dispari, <lb/>
             sed omnes affectu pari, intellegentes utique aliquatenus quantam<lb n="5"/>
@@ -4644,7 +4642,7 @@ sit postea profundioris uia.
             non deficere in uia saturatos, per hunc quoque faciat non deuiare  <lb/>
             saturandos.</p></div>
 
-<div n="3" subtype="section" type="textpart"><p>sed tamen quia illic, ubi parno quidem esa, <lb/>
+<div n="3" subtype="section" type="textpart"><p>sed tamen quia illic, ubi <choice><sic>parno</sic><corr>paruo</corr></choice> quidem esa, <lb/>
             sed magno munere innumera plebs dei pasta est, additi quinque <lb n="15"/>
             illis panibus duo pisces leguntur, par est ut nos quoque, <lb/>
             qui offerri per nos omnibus sequentibus deum populis spiritalis <lb/>
@@ -5965,7 +5963,7 @@ dici possunt colligere aut enarrare temptauero: et satis haec quae nunc diximus 
           <div n="1" subtype="chapter" type="textpart">
 <div n="1" subtype="section" type="textpart">
 <p>Quod euenire his solet qui, cum pelagus iam euasertut, <lb/>
-            25 aut praetentas portubus syrtes aut uiciua litoribus saxa
+            25 aut praetentas portubus syrtes aut <choice><sic>uiciua</sic><corr>uicina</corr></choice> litoribus saxa
 
 <note type="footnote">2] Pa. 8, 5. 6] loh. 1, 30. </note>
 
@@ -6661,8 +6659,7 @@ dici possunt colligere aut enarrare temptauero: et satis haec quae nunc diximus 
 
 <div n="3" subtype="section" type="textpart"><p>numquid inter fulgura se ei et  <lb/>
             tonitrua deus protulit aut reserato intrinsecus caelo coruscans <lb/>
-            se ei facies diuinitatis ostendit? nihil utique eorum, sed e di- <lb n="20"/>
-            uerso magis uidit hominem et agnouit deum. o uere dignus <lb/>
+            se ei facies diuinitatis ostendit? nihil utique eorum, sed e di<lb n="20" break="no"/>uerso magis uidit hominem et agnouit deum. o uere dignus <lb/>
             indepto nomine et qui interioribus magis quam exterioribus <lb/>
             oculis uocabuli a deo dati meruit dignitatem. luctantem secum <lb/>
             humanam speciem uidebat et uidere se deum protestabatur. <lb/>
@@ -6905,8 +6902,7 @@ dici possunt colligere aut enarrare temptauero: et satis haec quae nunc diximus 
             27 ut <hi rend="italic">om. M</hi> 28 blaphemas <hi rend="italic">M</hi> </note> <lb/>
              
 <pb n="370"/>
-            praeruptum ieceris, ut, quod nemo adhuc a saeculis nisi in- <lb/>
-            sanus fortasse dixit, dum filium dei matrem non habuisse <lb/>
+            praeruptum ieceris, ut, quod nemo adhuc a saeculis nisi in<lb break="no"/>sanus fortasse dixit, dum filium dei matrem non habuisse <lb/>
             dicis, etiam patrem ipsius denegares. et hoc tamen nescio <lb/>
             impietate maiore an ineptia, quia quid stultius, quid ineptius <lb/>
             quam filii nomen ponere et patris nomen uelle reticere? sed <lb n="5"/>
@@ -7438,7 +7434,7 @@ dici possunt colligere aut enarrare temptauero: et satis haec quae nunc diximus 
             qui de caelo descendit, filius hominis qui est in  <lb/>
             caelo?</p></div>
 
-<div n="4" subtype="section" type="textpart"><p>agnosce ergo quam ridicule et stulte putes non potnisse <lb/>
+<div n="4" subtype="section" type="textpart"><p>agnosce ergo quam ridicule et stulte putes non <choice><sic>potnisse</sic><corr>potuisse</corr></choice> <lb/>
             eum caelum ascendere, qui, cum descendisset in terris, numquam<lb n="25"/>
             afuisse dicatur e caelo, et an possibile ei fuerit linquenti <lb/>
             inferos caelum ascendere, cui promptum fuerit etiam in terris
@@ -7837,7 +7833,7 @@ dici possunt colligere aut enarrare temptauero: et satis haec quae nunc diximus 
             cum esset in utero, exultauit in gaudio uoce Mariae   <lb/>
             theotoci.</p></div>
 
-<div n="3" subtype="section" type="textpart"><p>deum ntique, dei filium, qui, ut uerbis ipsius fidem \' <lb/>
+<div n="3" subtype="section" type="textpart"><p>deum <choice><sic>ntique</sic><corr>utique</corr></choice>, dei filium, qui, ut uerbis ipsius fidem \' <lb/>
             uniuersorum loquar, uerbum est et lumen et sapientia <lb n="10"/>
             patris, propter nos carnem sumpsisse dicit, et ideo theotocon <lb/>
             uirginem Mariam, quia sit dei mater, appellat. 

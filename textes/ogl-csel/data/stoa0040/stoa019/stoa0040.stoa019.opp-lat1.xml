@@ -89,6 +89,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 6 mots collés, 3 mots mal lus, 1 césure.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -2432,7 +2433,7 @@
             lauacri uisibilis, antequam esset resurgendo clarificatus, iam<lb n="10"/>
             baptizauerat plures quam Iohannes, sicut ipsum loquitur euangelium. <lb/>
             unde dicit discipulis suis: Iohannes quidem baptizauit <lb/>
-            aqua, uos autemspiritu sancto baptizabimini <lb/>
+            aqua, uos <choice><sic>autemspiritu</sic><corr>autem spiritu</corr></choice> sancto baptizabimini <lb/>
             quem et accepturi estis non post multos dies hos <lb/>
             usque ad pentecosten. hic sanctus spiritus ueniens in<lb n="15"/>
             eos tale signum primitus dedit, ut, qui eum acceperant, linguis omnium <lb/>
@@ -3868,7 +3869,7 @@
             cum coeperit frumentum dominicis horreis condi. <lb/>
             fructum pro opere nostro et labore capiamus. apostolus <lb/>
             in epistula sua dicit: (in domo autem magna<lb n="15"/>
-            non solum uasa sunt aurea etargentea, sed et lignea <lb/>
+            non solum uasa sunt aurea <choice><sic>etargentea</sic><corr>et argentea</corr></choice>, sed et lignea <lb/>
             et fictilia. et quaedam quidem honorata, quaedam <lb/>
             inhonorata.\' nos operam demus et quantum possumus <lb/>
             laboremus, ut uas aureum et argenteum simus. <lb/>
@@ -5318,7 +5319,7 @@
 <pb n="440"/>
             publicum, id est Edesius et lunius exceptore.Felix <lb/>
             flamen perpetuus curator dixit: manente ratione <lb/>
-            delectoribus. quos monstrabit officium. et uosquod <lb/>
+            delectoribus. quos monstrabit officium. et <choice><sic>uosquod</sic><corr>uos quod</corr></choice> <lb/>
             hie habetis date. sedente Paulo episcopo et Montano <lb/>
             et Uictore de Castello Memor presbyteris, adstante<lb n="5"/>
             Marte cum Aelio et Marte diacono, proferente Marcuclio <lb/>
@@ -6329,7 +6330,7 @@
             boni et legibus bonis emendantur mali. rex Nabuchodonosor <lb/>
             peruersus legem saeuam dedit, ut simulacrum adoraretur. <lb/>
             idem correctus seueram, ne deus uerus blasphemaretur. in <lb n="25"/>
-            hoc enim reges, sicut eis diuiuitus praecipitur, deo seruiunt <lb/>
+            hoc enim reges, sicut eis <choice><sic>diuiuitus</sic><corr>diuinitus</corr></choice> praecipitur, deo seruiunt <lb/>
             in quantum reges sunt, si in suo regno bona iubeant, mala <lb/>
             prohibeant, non solum quae pertinent ad humanam societatem, <lb/>
             uerum etiam quae ad diuinam religionem.
@@ -6557,7 +6558,7 @@
             ecclesiae catholicae sanctitatem uir <lb n="20"/>
             memoriae uenerabilis ab errore perfidiae Donatus <lb/>
             adsereret, in eius nomen et cultum mundi paene <lb/>
-            totius obseruantia nutrita coaluit. sedcum
+            totius obseruantia nutrita coaluit. <choice><sic>sedcum</sic><corr>sed cum</corr></choice>
 
 <note type="footnote"> 9 <hi rend="italic">post consulatum</hi>I anno 394 14 Postulatio apud Herodem proconaolem <lb/>
             (anno 895) </note>
@@ -7498,8 +7499,7 @@
             ab imperatore Caecilianum tamen temere non dico audiendum <lb/>
             uel dicendum, sed etiam scribendum putas. uerumtamen secundum <lb/>
             uerba tua ecce uideo in exilio Caecilianum imperatore <lb/>
-            damnante: saltem responde quo accusante et modo me inter- <lb/>
-            roga, quod in epistula tua post multa (inania) similiter inane<lb n="10"/>
+            damnante: saltem responde quo accusante et modo me inter<lb break="no"/>roga, quod in epistula tua post multa (inania) similiter inane<lb n="10"/>
             posuisti: <hi rend="italic">quis prolato testamento minus consentit. qui persecutionem <lb/>
             patitur a" qui (ar\'it</hi>? haec certe uerba tua sunt. <lb/>
             aspice ergo Caecilianum persecutionem passum et. sisut ipse <lb/>
@@ -8311,7 +8311,7 @@
             sacrilego schismate baptizarunt, qui cum eis ad uos inde redierunt, <lb/>
             in uestra communione accepisse credidistis, atque ita <lb/>
             uos etiam accepto baptismo Christi esse puniendos, si unitatem <lb/>
-            eatholicae ecclesiae non tenueritis, sicut in Maximiani schismate <lb/>
+            <choice><sic>eatholicae</sic><corr>catholicae</corr></choice> ecclesiae non tenueritis, sicut in Maximiani schismate <lb/>
             baptizatos procul dubio puniendos non dubitaretis, si uestrae<lb n="10"/>
             communioni non copularentur, in quibus ad uos inde uenientibus <lb/>
             non rescindendum baptismum iudicastis. uides itaque <lb/>
@@ -8677,7 +8677,7 @@
             potuisti, quando seducti a nobis rebaptizantur a uestris, <lb/>
             in quibus eadem sacramenta esse et sentis et dicis et scribis. <lb n="15"/>
             qua igitur sceleris inpudentia non seruatur in eis, quos in <lb/>
-            sancta unitate baptizat orbis christianus, quod sernatum est <lb/>
+            sancta unitate baptizat orbis christianus, quod <choice><sic>sernatum</sic><corr>seruatum</corr></choice> est <lb/>
             in eis, quos in sacrilego schismate baptizarunt Praetextatus <lb/>
             et Felicianus? causam itaque nostram, quam uobiscum habemus, <lb/>
             uestro iam iudicio terminastis, cum eos, qui a uobis<lb n="20"/>
@@ -9965,7 +9965,7 @@
             VIII Et Ian, VIII menses numerantur. in hoc tam longo temporis <lb/>
             interuallo illi. quibus dilatio data est, maculabantur societate <lb/>
             damnati Maximiani an non maculabantur? si maculabantur,<lb n="20"/>
-            quomododicitur:eos autem, quos sacrilegi surculi non polluere plantaria, ad <lb/>
+            <choice><sic>quomododicitur</sic><corr>quomodo dicitur</corr></choice>:eos autem, quos sacrilegi surculi non polluere plantaria, ad <lb/>
             matrem ecclesiam redire permisimus? <lb/>
             si non maculabantur, quomodo nos atque omnes quae ubique sunt <lb/>
             Christianas gentes potuit ignotorum, non dicam falsorum, maculare <lb/>
@@ -10050,7 +10050,7 @@
             reditu gratulamur\': (ac ne angustum redeuntibus <lb/>
             tempus spem salutis artatae diei pressura <lb/>
             subducat, usque in ilium diem agnitionispandimus <lb n="20"/>
-            ianuam, utintegri honoris ac fidei regressi habeant <lb/>
+            ianuam, <choice><sic>utintegri</sic><corr>ut integri</corr></choice> honoris ac fidei regressi habeant <lb/>
             fundamenta. quam quisquam si ingredi nequiuerit <lb/>
             pigra segnitia, sciat sibi ad omnes ueniales aditus <lb/>
             uiam esse subductam\': (et post praestitutum diem <lb/>

@@ -89,7 +89,8 @@
                 <language ident="lat">Latin</language>
             </langUsage>
         </profileDesc>
-    </teiHeader>
+    <revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 11 mots mal lus, 1 césure.</change></revisionDesc>
+</teiHeader>
     
     <text>
         <body>
@@ -274,8 +275,7 @@ tibusque tractare.</p>
 </div>
 
 <div type="textpart" subtype="chapter" n="3">
-<p>Hic Fabius : Expedisti, inquit, de intentione, nunc utili- <lb n="5"/>
-tatem explica. — Varia, inquam, et multiplex in hoc corpore
+<p>Hic Fabius : Expedisti, inquit, de intentione, nunc utili<lb n="5" break="no"/>tatem explica. — Varia, inquam, et multiplex in hoc corpore
 commoditas utilitasque uersatur. primum enim in Aristotelis
 Categorias perquam uberrime prodest. quid autem prosit, dice-
 mus, cum de eius libri inscriptione tractabimus, sed in quibus
@@ -842,7 +842,7 @@ cognoscere qui potis est, cum, haec sola generum specierum-
 <lb n="5"/>
 que cognitio si amissa sit, nihil de generibus speciebusque
 noscatur? in illis igitur in quibus genus aliud superius inue-
-niri non potest, nullus umquam terminus definitionis aptabitur
+<choice><sic>niri</sic><corr>uiri</corr></choice> non potest, nullus umquam terminus definitionis aptabitur
 et in ipsius definitione genera speciesque cessabunt et solae
 differentiae propriaque illius terminum definitionis informant.
 <lb n="10"/>
@@ -2535,7 +2535,7 @@ est species, hoc abundat, quod nomen generis etiam in equum
 atque bouem atque in alia ualet aptari. ergo si quis ad quam-
 libet rem abundantem fecerit maioremque definitionem quam
 ipsa res fuerit quam definit, non erit integra propriaque defi-
-nitio, quoniam non solum illam rem amplectitur quam definit,
+<choice><sic>nitio</sic><corr>uitio</corr></choice>, quoniam non solum illam rem amplectitur quam definit,
 <note type="footnote">12 s.] Porph. p. 3, 19 s.</note>
 <note type="footnote">2 specie] proprium specie <hi rend="italic">C</hi> proprium <hi rend="italic">GS</hi> 4 eadem] in eadem <hi rend="italic">D</hi>
 a genere una <hi rend="italic">GPS</hi> 6 qualis <hi rend="italic">GP, post add.</hi> sit <hi rend="italic">GPS</hi> est <hi rend="italic">C</hi> 7 con-
@@ -2954,7 +2954,7 @@ rum et magis specierum, sunt alia mixta. magis ge-
 nera sunt supra quae nullum aliud genus poterit
 <lb n="10"/>
 inueniri, magis species rursus. sub qua nulla species
-reperifur. horum interualla quae possident, et genera
+<choice><sic>reperifur</sic><corr>reperitur</corr></choice>. horum interualla quae possident, et genera
 et species sunt, singula superioribus inferioribusque
 collata, ut alteri genus, alteri species appellentur.</p>
 							<p>Huiusmodi sunt, inquit, quaedam quorum genera inueniri
@@ -3045,7 +3045,7 @@ sortitus est, sed tantum sola species appellatur.</p>
 </div>
 
 <div type="textpart" subtype="chapter" n="24">
-<p>Sed hanc diuisionem sieubi in aliis rebus transferri et <lb n="15"/>
+<p>Sed hanc diuisionem <choice><sic>sieubi</sic><corr>sicubi</corr></choice> in aliis rebus transferri et <lb n="15"/>
 aptari placeat, ita considerandum est, ut quicquid fuerit
 cuius genus inueniri non potest. magis id genus appelletur,
 et quicquid cuius nulla species fuerit, id est ut super indi-
@@ -4216,7 +4216,7 @@ quattuor <hi rend="italic">C, post</hi> modis <hi rend="italic">P</hi> 25 geomet
 geometros <hi rend="italic">Ca.c.Gm1</hi> 26 hominis <hi rend="italic">F</hi> non tamen] etsi non <hi rend="italic">P</hi></note>
 <pb n="99"/>
 enim omnes homines grammatici uel rhetores uel geometres
-sunt, atque ideo uocahitur hoc proprium quod uni sit, etiamsi
+sunt, atque ideo <choice><sic>uocahitur</sic><corr>uocabitur</corr></choice> hoc proprium quod uni sit, etiamsi
 non omnibus. est item alia proprietas quae est omnibus,
 etiamsi non soli. nam bipes omni homini accidit, omnis enim
 <lb n="5"/>
@@ -4345,7 +4345,7 @@ uertitur <hi rend="italic">GPST</hi> 21 dicimus] monstratur <hi rend="italic">K<
 ratione <hi rend="italic">F</hi> 24 accipiuntur] ueniunt <hi rend="italic">T</hi> perueniuntur <hi rend="italic">(sic) P</hi> 27 homo
 <hi rend="italic">om. G</hi> irrationabilis <hi rend="italic">edd.</hi> irrationalitas <hi rend="italic">P</hi> 28 alia] illa <hi rend="italic">K</hi></note>
 <pb n="102"/>
-nitio, accidens esse illud quod neque genus sit
+<choice><sic>nitio</sic><corr>uitio</corr></choice>, accidens esse illud quod neque genus sit
 neque species neque differentia neque proprium. nam
 quoniam genus, species, differentia et proprium in substantia
 sunt et cuiuscumque illius rei substantiam monstrant. idcirco
@@ -4852,7 +4852,7 @@ tur et ad eas genus illud appellatur, sicut propria ad ea prae-
 dicantur quae sui participare possunt. namque aequaliter genus
 <lb n="20"/>
 animal de homine dicitur et de equo et de boue et de ceteris
-animantibus, quemadmodnm et risibile, id est proprium, de
+animantibus, <choice><sic>quemadmodnm</sic><corr>quemadmodum</corr></choice> et risibile, id est proprium, de
 Hortensio dicitur et Cicerone et de singulis indiuiduis quae
 sub eadem specie continentur, ad quam speciem proprium, id
 est risibile, poterit praedicari.</p>
@@ -5141,7 +5141,7 @@ tur <hi rend="italic">CPST</hi></note>
 								<title>[DE COMMUNIBUS DIFFERENTIAE ET SPECIEI.]</title>
 							</head>
 							<p>Et est communio differentiae et speciei quod aequaliter species
-sub se indiuiduis se permittit et aequaliter iudiuidua specie
+sub se indiuiduis se permittit et aequaliter <choice><sic>iudiuidua</sic><corr>indiuidua</corr></choice> specie
 ipsa participant; namque omnes homines aequaliter homines
 sunt et hominis participatione aeque participant, eodem modo
 <lb n="5"/>
@@ -5207,7 +5207,7 @@ hominis unius speciem reddiderunt, iunctae uero species num-
 quam aliquam ex se speciem constituent, si enim iungas
 hominem boui, nulla ex his species informabitur, sed fortasse
 <lb n="20"/>
-dicat quis : asini atque equi coniuuctione mulus nascitur, sed
+dicat quis : asini atque equi <choice><sic>coniuuctione</sic><corr>coniunctione</corr></choice> mulus nascitur, sed
 non ita est : namque indiuidui coniunctione natum est aliquid
 indiuiduum. si autem sic simpliciter speciem ipsam asini
 atque equi coniungas, nulla ex bis uraquam species consti-
@@ -5472,7 +5472,7 @@ tiens potestate.</p>
 Deinde quorum definitiones diuersae sunt, neces-
 sario etiam ipsa quoque diuersa sunt, omnis definitio sub-
 stantiam definit, ergo si qua eiusdem substantiae fuerint,
-eadem etiam definitione monstrantur, si qua eadem definitiono
+eadem etiam definitione monstrantur, si qua eadem <choice><sic>definitiono</sic><corr>definitione</corr></choice>
 fuerint, eadem substantia praedicantur, at uero si qua defini-
 <lb n="15"/>
 tionibus differant, differunt etiam substantiis, quae substantiis
@@ -5653,7 +5653,7 @@ continens est et illi speciei soli aequalis est, at uero
 accidens conuersim praedicari non potest, quia plures
 sub se species habet, non enim potes dicere id esse nigrum
 quod hebenum, cum dicas hoc esse hebenum quod nigrum;
-potest enim esse nigrum et non esse hebenum. delnde omne
+potest enim esse nigrum et non esse hebenum. <choice><sic>delnde</sic><corr>deinde</corr></choice> omne
 <lb n="10"/>
 proprium aequaliter se his rebus quae sub se fuerint dat
 et ab his aequaliter participatur — Socrates enim et

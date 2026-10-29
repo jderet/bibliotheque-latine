@@ -87,6 +87,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 1 mot collé.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -1646,7 +1647,7 @@
             quod dimisi eam. et alius propheta dicit: iudicamini ad <lb/>
             matrem uestram, quia non sum uir eius. hic est enim <lb/>
             Christus filius dei iustus, de quo et Salomon in persona Iudaeorum <lb/>
-            prophetauit dicens:circumueniamus ergo iustumquia <lb/>
+            prophetauit dicens:circumueniamus ergo <choice><sic>iustumquia</sic><corr>iustum quia</corr></choice> <lb/>
             inutilis est nobis et contrarius est operibus nostris<lb n="15"/>
             et inproperat nobis peccata legis, diffamat in nos <lb/>
             peccata disciplinae nostrae, promittit scientiam dei

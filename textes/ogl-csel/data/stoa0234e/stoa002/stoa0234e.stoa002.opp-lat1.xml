@@ -88,6 +88,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 5 mots collés, 4 mots mal lus.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -125,10 +126,10 @@
              tamen, quia zabolica obtrectatione pulsata in eo quod percutitur <lb n="5"/>
             plus probatur, gloriosum nobis uidimus, beatissimi sacerdotes, <lb/>
             ut non redarguente conscientia, quamuis frequentibus <lb/>
-            libellis locuti fidem nostram hereticorum omnium docmata damnauerimus <lb/>
+            libellis locuti fidem nostram hereticorum omnium <choice><sic>docmata</sic><corr>dogmata</corr></choice> damnauerimus <lb/>
             et libello fratrum nostrorum Tiberiani, Asarbi et ceterorum, <lb/>
              cum quibus nobis una fides et unus est sensus, cuncta <lb n="10"/>
-            docmata quae contra Christum uideantur esse I damnata sint <lb/>
+            <choice><sic>docmata</sic><corr>dogmata</corr></choice> quae contra Christum uideantur esse I damnata sint <lb/>
             et probata quae pro Christo, tamen etiam nunc, quia id uultis,. <lb/>
             sicut scribtum est parati semper ad confessionem omni
 
@@ -902,7 +903,7 @@
             uiam matris uestrae sudibus et non aedificabo <lb/>
             iter eius et semitas suas non inueniet; persequetur <lb/>
             amatores suos et non conprehendet eos et dicet cibo <lb/>
-            etreuertar ad uirum meum priorem quia melius mihi<lb n="20"/>
+            <choice><sic>etreuertar</sic><corr>et reuertar</corr></choice> ad uirum meum priorem quia melius mihi<lb n="20"/>
             tunc erat quam modo\'. In quo nos intellegentes, liberati <lb/>
             sicut scribtum est ab utero matris nostrae nec adquiescentes <lb/>
             carni et sanguini, elaboramus et sicut eramus <lb/>
@@ -940,7 +941,7 @@
             dixit et in eo, quod in nobis ipse sibi fecerat, habitare in nobis <lb/>
             uoluit, sicut et profeta Iob ait: manus tuae finxerunt et <lb/>
             fecerunt me; posthaec demutans deiecisti me; memor <lb n="15"/>
-            esto quoniam de luto finctum a terra iterum reuocasti <lb/>
+            esto quoniam de luto <choice><sic>finctum</sic><corr>tinctum</corr></choice> a terra iterum reuocasti <lb/>
             me et sicut lac me mulsisti et coagolasti sicut <lb/>
             caseum; pelle et carne me induisti, ossa et ner disposuisti; <lb/>
             uitam uero et misericordiam posuisti aput <lb/>
@@ -2676,7 +2677,7 @@
 
           <div n="80" type="textpart" subtype="section">
 <p> Hii sunt enim dies quos Moyses <lb/>
-            quadragensimo nummero ieiunans ad accipiendam legem diuini <lb/>
+            quadragensimo <choice><sic>nummero</sic><corr>num mero</corr></choice> ieiunans ad accipiendam legem diuini <lb/>
             sermonis meruit eloquium, cum adnuntiatum pascha domini<lb n="20"/>
             mare timuit et potentissimum in terris aelementum cui <lb/>
             ipsa pro tempestate natura est diuisis aquis puluereum populo
@@ -3397,7 +3398,7 @@
             esset in caelo siue in terra siue in aquis, detestans militiam <lb/>
             principatum saeculi quae operatur in cogitationibus nociuis <lb/>
             et castificans in his opus carnis, ne quid homo extra unum deum <lb n="5"/>
-            uelut deum uellet, praecepti fine conpescuit et, cum unumquid <lb/>
+            uelut deum uellet, praecepti fine conpescuit et, cum <choice><sic>unumquid</sic><corr>unum quid</corr></choice> <lb/>
             in sacrificium peteret, occidi non pecorum sanguinem uoluit, <lb/>
             sed occidi in nobis ea quae uitiorum natura idolicis in carne <lb/>
   formis occupauerat, dicente de huiusmodi apostolo:</p></div>
@@ -4287,7 +4288,7 @@
           <div n="134" type="textpart" subtype="section">
 <p> sic Rebecca, felicis mater uteri <lb/>
             et diuinae promissionis decreta parturiens, conluctantia inter se <lb/>
-            mundi et dei in nobis opera demonstrans, dum pugnantiam <lb/>
+            mundi et dei in nobis opera demonstrans, dum <choice><sic>pugnantiam</sic><corr>pugnant iam</corr></choice> <lb/>
             uiscerum inpatienter acciperet, in profetiam liberi doloris erupit<lb n="5"/>
             dicens: quo mihi ista, si sic sunt? Cui uox domini respondit <lb/>
             et docuit: duo populi sunt et duae gentes in utero tuo. <lb/>
@@ -4450,7 +4451,7 @@
             in Christo et sanctificati hominis iter monstrat, quoniam Sicima <lb/>
             uincitur et tabernaculorum conuallia metiuntur, si credentibus <lb/>
             nobis nato per uirginem Christo et ea, quae corruptelae <lb n="25"/>
-            causa exstitit, concupiscentiae carnalis natura uinca et
+            causa exstitit, concupiscentiae carnalis natura <choice><sic>uinca</sic><corr>uinea</corr></choice> et
 
 <note type="footnote"> 6 Ps. 59, 8. 10. 8 Iacob .. filia] Dina, cf. Gen. 34 et Iudic. 19 <lb/>
             (u. 29). 13 Ps. 59, 9. 15. 16 ibid. 17 cf. Ruth 4,17. 18 Ps. 59, 10. <lb/>
@@ -4584,7 +4585,7 @@
             usum, deinde m post mE affix. et in prox. uers. initio (T) del.; cf. 98, 2 </note> <lb/>
              
 <pb n="105"/>
-            tui sermo disponeret et unumquid uocans nomine suo, si <lb/>
+            tui sermo disponeret et <choice><sic>unumquid</sic><corr>unum quid</corr></choice> uocans nomine suo, si <lb/>
             sublimaret erecta, diuexa uergeret, praessa plenaret, aperiret <lb/>
             campestria, siluarum tegeret occulta, tibi soli ad agnitionem <lb/>
             scientiae tuae factorum gloria tota concineret, cui etsi confiteri <lb/>

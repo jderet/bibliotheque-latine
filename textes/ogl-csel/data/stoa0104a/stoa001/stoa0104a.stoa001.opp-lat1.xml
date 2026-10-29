@@ -85,6 +85,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 1 mot mal lu.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -560,7 +561,7 @@
 </p>
           </div>
 
-<div n="12" subtype="section" type="textpart"><p>Sed et quos diuites opinaris continuantes saltibus saitus et de  <lb/>
+<div n="12" subtype="section" type="textpart"><p>Sed et quos diuites opinaris continuantes saltibus <choice><sic>saitus</sic><corr>saltus</corr></choice> et de  <lb/>
             confinio pauperibus exclusis infinita ac sine terminis rura latius <lb/>
             porrigentes, quibus argenti etauri maximum pondus et pecuniarum <lb/>
             ingentium uel exstructi aggeres uel defossae strues, hos etiam inter <lb n="20"/>

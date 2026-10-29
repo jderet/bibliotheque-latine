@@ -85,6 +85,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 12 mots mal lus, 5 mots collés.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -1475,7 +1476,7 @@
 <p rend="script">Cognoscis in qua peruersitate hodie tu sis manens, <lb/>
             in qua manserit et Achab; de tantis etenim signis ac prodigiis <lb/>
             exhibitis non dignatur gaudere cum populo, sed dolet, <lb/>
-            cur Helias sacerdotes ac prophetas fuerit idolorum ausus interfioere, <lb n="25"/>
+            cur Helias sacerdotes ac prophetas fuerit idolorum ausus <choice><sic>interfioere</sic><corr>interficere</corr></choice>, <lb n="25"/>
             nec post tanta dignatur semet uertere ad deum, sed <lb/>
             magis adhuc eius persequitur cultorem. uidet quia est deus <lb/>
             in Helia, et magis quaerit eius animam. conspicit prophetas. <lb/>
@@ -1499,7 +1500,7 @@
 <pb n="98"/>
             acerrime persequens. pauca de multis gestis inter Achab et Heliam <lb/>
             idcirco duxi tibi ingerenda, ut possis noscere nos, ex quo <lb/>
-            deum derelinquitis, neque signis neque prodigiis facile connerti <lb/>
+            deum derelinquitis, neque signis neque prodigiis facile <choice><sic>connerti</sic><corr>conuerti</corr></choice> <lb/>
             ad eum, sed magis in uestris durantes erroribus ut <lb/>
             bestias inmanes saeuire in (cer)uicem dei cultorum. deprecamur<lb n="5"/>
             te, Constanti, ne adhuc in his tuis malis digneris <lb/>
@@ -1599,7 +1600,7 @@
             interemerunt dei domesticos, religionem dei tulerunt<lb n="10"/>
             et idololatriam statuerunt, populum auerterunt a deo. et to <lb/>
             haec omnia fecisti ac facis. sic nos tu uocas inimicos tuos, <lb/>
-            quomodo et Achab Heliam, qui cum audisset ore prophcta? <lb/>
+            quomodo et Achab Heliam, qui cum audisset ore <choice><sic>prophcta</sic><corr>propheta</corr></choice>? <lb/>
             domini indignationem, dixerit: H <hi rend="italic">immisti</hi> me, inimicus <hi rend="italic">Achab<lb/>
             regi</hi>? nempe quia diceres. noli <hi rend="italic">idolis</hi> seruire <hi rend="italic">sed des</hi> soli <lb n="15"/>
             <hi rend="italic">Abrahae Isaac et Israel</hi>. et ?uno quia tibi dicatur: noli esse <lb/>
@@ -2646,7 +2647,7 @@
             corrompistis.. </note> <lb n="30"/>
              
 <pb n="124"/>
-            nostri. quis tam necors est, qui nelit corruptus a te in aeternum <lb/>
+            nostri. quis tam <choice><sic>necors</sic><corr>uecors</corr></choice> est, qui nelit corruptus a te in aeternum <lb/>
             perire? qui nolit manendo in integritate proximus fieri deo? <lb/>
             cur haec ant ipse fecisti aut nos facere fueras conpellere ausos? <lb/>
             numquid non legeras dixisse in libro Sapientiae Salomonem <lb/>
@@ -2657,7 +2658,7 @@
             iudicet,</hi> et iterum: <hi rend="italic">docuisti populum tuum per alia opera, <lb/>
             quoniam oportet iustum esse et humanum, et bonae spei fecisti<lb n="10"/>
             filios tuos</hi>? non, inquam, haec scripta inueneras, (ut) auderes <lb/>
-            ad tantam pronocare nos inhumanitatem? quomodo bonae <lb/>
+            ad tantam <choice><sic>pronocare</sic><corr>prouocare</corr></choice> nos inhumanitatem? quomodo bonae <lb/>
             spei filii erimus? quomodo iustos nos et humanos ante <lb/>
             deum seruos illius exhibebimus, cum praeuaricatores legis <lb/>
             neque iusti neque filii dei dicantur? cognosce itaque a quali<lb n="15"/>
@@ -2731,7 +2732,7 @@
             Latinius</hi> cur es <hi rend="italic">scripsi,</hi> cum res <hi rend="italic">V,</hi> cum ea <hi rend="italic">v</hi> </note> <lb/>
              
 <pb n="126"/>
-            ; nos retines in careere? cur mittis ad exilia? nisi quia sis <lb/>
+            ; nos retines in <choice><sic>careere</sic><corr>carcere</corr></choice>? cur mittis ad exilia? nisi quia sis <lb/>
             metuens ne uos lupos Arrianos rapaces canes rabidos atque <lb/>
             : antichristos esse temporis nostri manifestemus sacris reuelan- <lb/>
             ;\' tibus scripturis. sacrae enim scripturae probant uos ex actibus <lb/>
@@ -2745,7 +2746,7 @@
             et tu iniustitiam nos urgueres facere, quid aliud essemus, si <lb/>
             fecissemus quod tuae maliuolentiae fuerat uisum, nisi conscelerati <lb/>
             tui, nisi totius iniquitatis fontes ? hi scilicet, qui deponentes <lb/>
-            iustitiae officium iniustitiae, uttibi placeremus, essemus <lb n="15"/>
+            iustitiae officium iniustitiae, <choice><sic>uttibi</sic><corr>ut tibi</corr></choice> placeremus, essemus <lb n="15"/>
             suscepturi. persequeris dei domum, Constanti, ignorans te ipsum <lb/>
             deum persequi in domo eius; domus etenim dei est ecclesia, <lb/>
             in qua est inhabitans dominus, sicut scriptum est in eodem <lb/>
@@ -3084,7 +3085,7 @@
              
 <pb n="134"/>
             coapostatas tuos? nos odio apud te laboramus, quia tibi <lb/>
-            uera dicamus, quia te uiuere nobiscum uelimusin aeternum; <lb/>
+            uera dicamus, quia te uiuere nobiscum <choice><sic>uelimusin</sic><corr>uelimus in</corr></choice> aeternum; <lb/>
             illos uero es diligens qui ad te transitum fecerint, illos <lb/>
             qui cum tibi primum contra&lt;di)xerint, postea tamen seruire <lb/>
             nefariis meditationibus tuis quam dei parere praeceptis maluerint.<lb n="5"/>
@@ -4390,7 +4391,7 @@
             et absentem damnari cogebas catholicum, utique iam uideri<lb n="5"/>
             coeperat scenae tuae machina. sed iam accipe quid praestitum <lb/>
             sit Susannae pudicae ab innocentium defensore, ab oppressorum <lb/>
-            uindiee. accipe quae referat Danihel liber de uindicta Susannae. <lb/>
+            <choice><sic>uindiee</sic><corr>uindice</corr></choice>. accipe quae referat Danihel liber de uindicta Susannae. <lb/>
             <hi rend="italic">exclamauit autem Susanna uoce magna et dixit: deus aeternus, <lb/>
             qui occultorum cognitor es, qui scis omnia ante generationem<lb n="10"/>
             eorum, tu scis quoniam falsum testimonium aduersum me <lb/>
@@ -4431,7 +4432,7 @@
             uirtute dei mortifioata, siquidem omnis anima Christiana sit <lb/>
             exorans deum, ut sicut Susannam dignetur Athanasium falso <lb/>
             eripere crimine, eripere a gladio tuo carnificis, a tua saeuitia <lb/>
-            homicidae, interea iterum atque iterum urgeo, ut uideas quaeuos <lb n="10"/>
+            homicidae, interea iterum atque iterum urgeo, ut uideas <choice><sic>quaeuos</sic><corr>quae uos</corr></choice> <lb n="10"/>
             Arrianos ceperit dementia, quae conprehenderit insania, <lb/>
             ut auderetis haec machinari in innocentis necem, quando <lb/>
             sciretis deum scire omnia priusquam fiant. sed non mirandum <lb/>
@@ -4587,7 +4588,7 @@
             <hi rend="italic">Abel usque ad sanguinem Zachariae, qui periit inter</hi> altare <lb/>
             <hi rend="italic">et aedem. ita dico uobis: requiretur ab hac generatione</hi>. esse <lb/>
             ex illis hinc intellegeris, quod enim, cum sis memorias martyrum <lb/>
-            beatorum instaurans, tamen seruorum unioi filii dei <lb/>
+            beatorum instaurans, tamen seruorum <choice><sic>unioi</sic><corr>unici</corr></choice> filii dei <lb/>
             cruorem fundas. redi, Constanti, ad domum dei, esto
 
 <note type="footnote"> 6 Luc. 11, 44 19 ib. 11, 47—51 </note>
@@ -4650,7 +4651,7 @@
             huiusmodi hominem satanae in interitum carnis, ut spiritus <lb/>
             saluus sit in die domini nostri Iesu Christi</hi>. dicis, credo: <lb/>
             <hi rend="italic">et ego idcirco uobis mandaueram damnare absentem, quia<lb n="5"/>
-            damnauerat et apostolus</hi>. primo omnium beato apostolo ca??olici <lb/>
+            damnauerat et apostolus</hi>. primo omnium beato apostolo ca??<choice><sic>olici</sic><corr>elici</corr></choice> <lb/>
             nuntiauerant hi, quos norat fideles, quos deo probauerat <lb/>
             deuotos, et testem sciebat esse omnem Corinthiorum sanctam <lb/>
             ecclesiam. tu contra, tenebra, te atque consaerilegis tuis <lb/>
@@ -4804,7 +4805,7 @@
 <div n="15" subtype="chapter" type="textpart">
 
 <p rend="script">Hortatur item sanctissimus apostolus, ut iustitiae iter <lb/>
-            tenentes in perpetuam mereamur constitui requiem; ettuuir <lb/>
+            tenentes in perpetuam mereamur constitui requiem; <choice><sic>ettuuir</sic><corr>et tu uir</corr></choice> <lb/>
             sapientissimus conpellis nos ad aeternos uenire tecum cruciatus. <lb n="30"/>
             \\ \'
 
@@ -4866,7 +4867,7 @@
             filius dicatur diaboli, homicida, Cain denique fratricidae comparetur, <lb n="5"/>
             in mortem manere designetur, cur me hoc opus <lb/>
             implere compellebas, quod me ut Cain fecisset fratricidam <lb/>
-            etfilium diaboli, quod me in mortem perpetuam fecisset manere? <lb/>
+            <choice><sic>etfilium</sic><corr>et filium</corr></choice> diaboli, quod me in mortem perpetuam fecisset manere? <lb/>
             cum iam uideas me transitum fecisse de morte ad uitam, cum <lb/>
             inter eos quos filios appellare dignatus est me iam constituerit <lb n="10"/>
             deus, quam ob causam me Cain fieri uoluisti, tenebras <lb/>
@@ -5344,7 +5345,7 @@
 
 <p rend="script">Nec dubites etenim te uenturum ad exteriores tenebras, <lb n="10"/>
             quandoquidem iam totus in tenebras sis conuersus. illi <lb/>
-            etenim, qui iustorum fuderunt sanguiuem prophetarum, qui <lb/>
+            etenim, qui iustorum fuderunt <choice><sic>sanguiuem</sic><corr>sanguinem</corr></choice> prophetarum, qui <lb/>
             unicum dei negauerunt filium, et tenebrae et filii diaboli <lb/>
             uocantur. quia haec sis et ipse agens, utique et tenebrarum<lb/>
             et diaboli filius eris perseueraturus, nisi tibi consulueris. quo- <lb n="15"/>
@@ -5698,7 +5699,7 @@
             <hi rend="italic">per me intrauerit, saluus erit et</hi> intrabit <hi rend="italic">et pascua inueniet; <lb/>
             fur non uenit, nisi ut furedur</hi>. o tu itaque fur, qui ad hoc<lb n="15"/>
             intrasse dei inueniaris ouile, ut uidelicet fuisses furatus et in terficeres, <lb/>
-            qua adhuc uoce poteris dioere: <hi rend="italic">debet non esse episcopus<lb/>
+            qua adhuc uoce poteris <choice><sic>dioere</sic><corr>dicere</corr></choice>: <hi rend="italic">debet non esse episcopus<lb/>
              Athanasius Alexandrinorum, sed Georgius,</hi> quando <lb/>
             uideas te et Georgium uel cunctos consacrilegos uestros non <lb/>
             esse aliud nisi fares ac latrones? suos deus seruos pastores <lb n="20"/>
@@ -6234,7 +6235,7 @@
             noctem perit. ego autem non parcam in Nineue ciuitatem <lb/>
             magnam, in qua habitant plus quam centum uiginti millia <lb/>
             hominum qui non sciueruant dexteram aut sinistram</hi>? et tuam, <lb/>
-            Constanti, operam malignam si reiecisse te niderit deus, si
+            Constanti, operam malignam si reiecisse te <choice><sic>niderit</sic><corr>uiderit</corr></choice> deus, si
 
 <note type="footnote"> 28 Ion. 4, 9-11 </note>
 

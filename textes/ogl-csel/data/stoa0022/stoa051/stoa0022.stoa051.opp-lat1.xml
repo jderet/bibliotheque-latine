@@ -94,6 +94,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 8 mots mal lus, 3 mots coupés, 6 mots collés.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -731,7 +732,7 @@
             tantummodo qui diuinam meruerunt gratiam sunt recepti. <note type="margin"> E </note>  <lb/>
 </p></div>
 
-<div n="11" subtype="section" type="textpart"><p>            uisum est inquit etmihi adsecuto aprincipio omnia <note type="margin"><bibl n="urn:cts:greekLit:tlg0031.tlg003:1.3">1,3</bibl></note> <lb/>
+<div n="11" subtype="section" type="textpart"><p>            uisum est inquit <choice><sic>etmihi</sic><corr>et mihi</corr></choice> adsecuto aprincipio omnia <note type="margin"><bibl n="urn:cts:greekLit:tlg0031.tlg003:1.3">1,3</bibl></note> <lb/>
             diligenter ex ordine. prolixiorem hunc euangelii librum <lb/>
             quam ceteros esse nemo dubitauerit. et ideo non ea quae <lb n="20"/>
             falsa sunt, sed quae uera sibi uindicat. denique etiam a sancto <lb/>
@@ -1126,7 +1127,7 @@
             est potestates: unigenitus filius, qui est in sinu <lb/>
             patris, ipse enarrauit. aut adquiescatur igitur necesse est, <lb/>
             si deum patrem nemo uidit umquam, filium uisum esse in <lb/>
-            neteri testamento et desinant haeretici ex uirgine ei principium<lb n="15"/>
+            <choice><sic>neteri</sic><corr>ueteri</corr></choice> testamento et desinant haeretici ex uirgine ei principium<lb n="15"/>
             dare, qui antequam nasceretur ex uirgine uidebatur, aut <lb/>
             certe refelli non potest uel patrem uel filium uel certe spiritum <lb/>
             sanctum, si tamen est sancti spiritus uisio, ea specie <note type="margin"> E </note> <lb/>
@@ -5369,7 +5370,7 @@
             manipulos, sicut scriptum est, colligens et socrui fructus <lb/>
             reseruans et non post iuuenem abiit, sed uirum perfectum <lb/>
             secuta est, unde et meruit audire: quia mulier uirtutis <note type="margin"> 1326A </note> <lb/>
-            es tu uel: quia bene fecisti misericordiam tuam nonissimam <lb/>
+            es tu uel: quia bene fecisti misericordiam tuam <choice><sic>nonissimam</sic><corr>nouissimam</corr></choice> <lb/>
             plus quam primam; nouissima enim misericordia<lb n="15"/>
             ecclesiae congregatae praestat priori. quod breuius hic dicimus, <lb/>
             quia plenius in libris digessimus quos de fide scripsi. <lb/>
@@ -6561,7 +6562,7 @@
             munitum. non enim quasi deus utitur potestate - quid enim <lb/>
             mihi proderat? - sed quasi homo conmune sibi arcessit <lb n="5"/>
             auxilium, ut diuinae pabulo lectionis intentus famem corporis <lb/>
-            neclegat, alimentum uerbi caelestis adquirat. huic intentus <lb/>
+            <choice><sic>neclegat</sic><corr>nec legat</corr></choice>, alimentum uerbi caelestis adquirat. huic intentus <lb/>
             Moyses panem non desiderauit, huic intentus Helias famem <note type="margin"> F </note> <lb/>
             prolixioris non sensit ieiunii. non enim potest qui uerbum <lb/>
             sequitur panem desiderare terrenum, cum panis substantiam <lb n="10"/>
@@ -6608,7 +6609,7 @@
 
 <div n="24" subtype="section" type="textpart"><p>disce ergo et tu diabolum uincere. agit te spiritus, <lb/>
             sequere spiritum. non te reuocet carnis inlecebra; spiritu <lb n="5"/>
-            plenus disce contemnere uoluptates. ieiuna, si uis uiucere. <lb/>
+            plenus disce contemnere uoluptates. ieiuna, si uis <choice><sic>uiucere</sic><corr>uincere</corr></choice>. <lb/>
             consequens est ut per hominem diabolus te putet esse <note type="margin"> c </note> temtandum; <lb/>
             Christus quasi fortior faciem ad faciem temtatur, tu <lb/>
             per hominem. et illud diaboli uerbum est, cum dicit homo: <lb/>
@@ -7983,7 +7984,7 @@
 
 <div n="6" subtype="section" type="textpart"><p rend="script"> , Offerre autem iuxta legem se praecipitur sacerdoti non ut <note type="margin"><bibl n="urn:cts:greekLit:tlg0031.tlg003:5.14">5,14</bibl></note> <lb/>
             alium deferat, sed ut se ipsum deo offerat spiritale sacrificium, <lb/>
-            ut actus praeteriti conluuione deters a per cognitionem fidei et <note type="margin"> E </note> <lb/>
+            ut actus praeteriti conluuione <choice><sic>deters a</sic><corr>detersa</corr></choice> per cognitionem fidei et <note type="margin"> E </note> <lb/>
             sapientiae disciplinam placitura deo hostia consecretur; omnis <lb/>
             enim uictima sale salietur. unde et Paulus ait: obsecro<lb n="25"/>
             ergo uos, fratres, per misericordiam dei, ut <lb/>
@@ -8917,7 +8918,7 @@
 <div n="49" subtype="section" type="textpart"><p rend="script"> Beati pauperes, quia uestrum est regnum dei. <note type="margin"><bibl n="urn:cts:greekLit:tlg0031.tlg003:6.20">6,20</bibl>—22 </note> <lb/>
             beati qui nunc esuriunt et sitiunt, quia saturabuntur. <lb/>
             beati, qui nunc fletis, quia ridebitis. beati <lb n="5"/>
-            eritis, cum uos oderin t homines. quattuor tantum beatitudines <lb/>
+            eritis, cum uos <choice><sic>oderin t</sic><corr>oderint</corr></choice> homines. quattuor tantum beatitudines <lb/>
             sanctus Lucas dominicas posuit, octo uero sanctus <lb/>
             Matthaeus. sed in istis octo illae quattuor sunt et in his  <lb/>
             quattuor illae octo.</p></div>
@@ -9247,7 +9248,7 @@
             eritis, cum uos oderint homines. habes fortitudinem, <lb/>
             sed eam quae non odium mereatur ex crimine, sed <note type="margin"> D </note> persecutionem <lb/>
             patiatur ex fide; sic enim ad passionis peruenitur <lb/>
-            coronam, si gratiam hominum neclegas, diuinam sequaris. <lb n="15"/>
+            coronam, si gratiam hominum <choice><sic>neclegas</sic><corr>nec legas</corr></choice>, diuinam sequaris. <lb n="15"/>
             denique ut scias consummationem esse fortitudinis passionem, <note type="margin"><bibl n="urn:cts:greekLit:tlg0031.tlg003:6.23">6,23</bibl></note> <lb/>
             secundum haec inquit faciebant prophetis patres <lb/>
             eorum, quia prophetas Iudaei usque ad mortem corporis persecuti <lb/>
@@ -9627,7 +9628,7 @@
           <p><note type="margin"><bibl n="urn:cts:greekLit:tlg0031.tlg003:7.12">7,12</bibl>—14 </note> Cum adpropiaret autem portae ciuitatis, et ecce <lb/>
             efferebatur defunctus filius unicus matris suae, et <lb/>
             haec erat uidua, et turba multa cum illa. quam cum <lb/>
-            uideret dominus, misericordia motus dixitilli: noli  <lb n="20"/>
+            uideret dominus, misericordia motus <choice><sic>dixitilli</sic><corr>dixit illi</corr></choice>: noli  <lb n="20"/>
             flere.</p></div>
 
 <div n="89" subtype="section" type="textpart"><p>et accessit et tetigit loculum. et luc locus ad <note type="margin"> D </note> <lb/>
@@ -11419,7 +11420,7 @@ corporalium non subiit consortium passionum.</p></div>
             qui non fideliter tangit. denique ut fidem tangentis exprimeret, <note type="margin"> B </note>  <lb/>
             ait: tetigit me aliquis;</p></div>
 
-<div n="58" subtype="section" type="textpart"><p>nam ego cogrioui de me <note type="margin"><bibl n="urn:cts:greekLit:tlg0031.tlg003:8.46">8,46</bibl></note> uirtntem <lb/>
+<div n="58" subtype="section" type="textpart"><p>nam ego <choice><sic>cogrioui</sic><corr>cognoui</corr></choice> de me <note type="margin"><bibl n="urn:cts:greekLit:tlg0031.tlg003:8.46">8,46</bibl></note> uirtntem <lb/>
             exisse. quod est euidentis indicii quia non intra possibilitatem <lb/>
             condicionis humanae atque intra corporis claustrum <lb/>
             inclusa sapientia, diuinitas coartata est, non capitur angustiis <lb n="20"/>
@@ -12130,7 +12131,7 @@ onis, his medicinam suam libenter indulget.</p></div>
 </p>
           </div>
 
-<div n="89" subtype="section" type="textpart"><p> Cur autem quinque milibus hominum plus redundat, quattucr <lb n="10"/>
+<div n="89" subtype="section" type="textpart"><p> Cur autem quinque milibus hominum plus redundat, <choice><sic>quattucr</sic><corr>quattuor</corr></choice> <lb n="10"/>
             milibus minus? quia quattuor milia ista triduo cum <lb/>
             Christo fuerunt et ideo amplius caelestis pabuli receperunt. 
 </p></div>
@@ -14723,7 +14724,7 @@ dicationis saluos facere credentes.</p></div>
 </p>
           </div>
 
-<div n="109" subtype="section" type="textpart"><p> Nonne quinque passeres ueniuntdepondio etunus <note type="margin"> F </note> <note type="margin"><bibl n="urn:cts:greekLit:tlg0031.tlg003:12.6">12,6</bibl>tq. </note> <lb/>
+<div n="109" subtype="section" type="textpart"><p> Nonne quinque passeres ueniuntdepondio <choice><sic>etunus</sic><corr>et unus</corr></choice> <note type="margin"> F </note> <note type="margin"><bibl n="urn:cts:greekLit:tlg0031.tlg003:12.6">12,6</bibl>tq. </note> <lb/>
             ex illis non est in obliuione coram domino? sed et <lb n="20"/>
             capilli capitis uestri omnes numerati sunt. nolite <lb/>
             timere, multis passeribus plures estis. pulcherrimum <lb/>
@@ -16788,7 +16789,7 @@ dicationis saluos facere credentes.</p></div>
             uendentes Noe, ut legisti, tempore diluuia sorbuerunt — et ille <lb/>
             qui iugum potius legis quam gratiae munus elegit et ille qui <note type="margin"><bibl n="urn:cts:greekLit:tlg0031.tlg003:14.26">14,26</bibl></note> <lb n="25"/>
             propter ducendam excusat uxorem; scriptum est enim: si <note type="margin"> D </note> <lb/>
-            quis uenit ad me et non odit patrem suum etmatrem
+            quis uenit ad me et non odit patrem suum <choice><sic>etmatrem</sic><corr>et matrem</corr></choice>
 
 <note type="footnote"> 5 Rom. 1, 29 7 Ephes. 5, 5 9 Act. 15, 10 11 Ps. 2, 3 <lb/>
             13 Matth. 11, 30 16 Ioh. 4, 18 23 Matth. 21, 21 24 Luc. 17, 27 </note>
@@ -16996,7 +16997,7 @@ dicationis saluos facere credentes.</p></div>
 </p>
           </div>
 
-<div n="211" subtype="section" type="textpart"><p> Non otiosum etiam quod mulier illa dragma laetatur innenta. <note type="margin"><bibl n="urn:cts:greekLit:tlg0031.tlg003:15.8">15,8</bibl> sq. </note> <lb/>
+<div n="211" subtype="section" type="textpart"><p> Non otiosum etiam quod mulier illa dragma laetatur <choice><sic>innenta</sic><corr>inuenta</corr></choice>. <note type="margin"><bibl n="urn:cts:greekLit:tlg0031.tlg003:15.8">15,8</bibl> sq. </note> <lb/>
             non mediocris haec dragma est, in qua principis est figura. <lb/>
             et ideo imago regis census ecclesiae est. oues sumus, oremus <lb n="10"/>
             ut super aquam refectionis nos conlocare dignetur; oues inquam <lb/>
@@ -17745,7 +17746,7 @@ dicationis saluos facere credentes.</p></div>
             et apta rerum omnium dicitur conmissa conexio. armonia <lb/>
             est, cum fistulae organi per ordinem copulatae legitimae tenent <lb/>
             gratiam cantilenae cordarumque aptus seruat ordo concordiam. , <lb n="5"/>
-            itaque non habent armoniam suam nuptiae, quando Christiano <note type="margin"> 1471 A </note> <lb/>
+            itaque non habent <choice><sic>armoniam</sic><corr>armeniam</corr></choice> suam nuptiae, quando Christiano <note type="margin"> 1471 A </note> <lb/>
             uiro gentilis mulier non legitime copulatur. ergo, ubi nuptiae, <lb/>
             armonia? ubi armonia, deus iungit, ubi armonia non est, <lb/>
             pugna atque dissensio est, quae non est a deo, quia deus <lb/>
@@ -18481,7 +18482,7 @@ dicationis saluos facere credentes.</p></div>
 
 <div n="39" subtype="section" type="textpart"><p rend="script"> Adest itaque iudicii dies. si uis non conprehendi, cottidie <lb/>
             tunc, cottidie fuge. quaeris quo fugias? ascende in montem <note type="margin"> F </note> <lb n="10"/>
-            qui euangeliz as Sion, ut excelsorum uertice possis eminere <lb/>
+            qui <choice><sic>euangeliz as</sic><corr>euangelizas</corr></choice> Sion, ut excelsorum uertice possis eminere <lb/>
             meritorum; deus enim montium et non deus uallium est. <lb/>
             ascende eo, ubi Christus sedet ad dexteram dei, cuius fundamenta <lb/>
             in montibus sanctis et montes in circuitu eius. <lb/>
@@ -20267,7 +20268,7 @@ dicationis saluos facere credentes.</p></div>
             remedium Christus aduenit, tum quoniam qui heredem negat. <lb/>
             de auctore desperat. heres autem Christus idemque testator: <lb/>
             heres, quia morti propriae superuiuit et testamentorum quae <lb/>
-            ipse condidit tamquam hereditaria in nostris profectibus emo- lumenta  <lb/>
+            ipse condidit tamquam hereditaria in nostris profectibus emo- <choice><sic>lumenta</sic><corr>iumenta</corr></choice>  <lb/>
             consequitur.</p></div>
 
 <div n="28" subtype="section" type="textpart"><p>pulchre ergo interrogat, ut sua se ipsi<note type="margin"><bibl n="urn:cts:greekLit:tlg0031.tlg003:20.15">20,15</bibl></note> <lb n="10"/>

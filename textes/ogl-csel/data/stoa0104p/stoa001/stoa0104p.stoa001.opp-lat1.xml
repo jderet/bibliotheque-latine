@@ -85,6 +85,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 1 mot collé, 1 mot mal lu.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -273,7 +274,7 @@
 </p>
           </div>
 
-<div n="5" subtype="section" type="textpart"><p> Illa area. figuram ecclesiae, sicut superius diximns, portabat, quae <lb/>
+<div n="5" subtype="section" type="textpart"><p> Illa area. figuram ecclesiae, sicut superius <choice><sic>diximns</sic><corr>diximus</corr></choice>, portabat, quae <lb/>
             uerberabatur hinc atque inde aquis insurgentibus tantum. cataclysmus <lb/>
             ergo ille qui sub Noe factus est figuram persecutionis quae per <lb/>
             totum orbem nunc nuper supereffusa ostendit. aquis autem diruptis<lb n="20"/>
@@ -764,7 +765,7 @@
             ad indicium sedit et libri aperti sunt. Iohannes autem <lb/>
             manifestius et de die iudicii et de consummatione saeculi declarat <lb/>
             dicens: et cum aperuisset, inquit, sigillum sextum, ecce <lb/>
-            terrae motus factus est magnus et sol factus estniger <lb n="25"/>
+            terrae motus factus est magnus et sol factus <choice><sic>estniger</sic><corr>est niger</corr></choice> <lb n="25"/>
             ut saccus cilicinus, et luna tota sanguinea facta est, <lb/>
             et stellae ceciderunt in terram, quomodo ficus a uento
 

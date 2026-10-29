@@ -87,7 +87,8 @@
       </langUsage>
     </profileDesc>
     
-  </teiHeader>
+  <revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 1 mot mal lu.</change></revisionDesc>
+</teiHeader>
   <text><body><div type="edition" xml:lang="lat" n="urn:cts:latinLit:stoa0040.stoa017.opp-lat1">
 
           <head>
@@ -1482,7 +1483,7 @@
             ignem, quem parauit haereticis deus. 
 </p>
           <p rend="script">Quod enim Adimantus elegit de euangelio locum. quem <lb/>
-            huic legis capitulo tamquam contrarium apud inperitos obicerct,
+            huic legis capitulo tamquam contrarium apud inperitos <choice><sic>obicerct</sic><corr>obiceret</corr></choice>,
 
 <note type="footnote"> 13 Luc. 12, 49 16 Deut. 4, 24; 9, 3 21 Lue. 24. 32 </note>
 

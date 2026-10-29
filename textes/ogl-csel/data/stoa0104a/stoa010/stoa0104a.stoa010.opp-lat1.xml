@@ -85,6 +85,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 1 mot collé, 1 mot mal lu.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -568,7 +569,7 @@
             omnis qui ambulat errore cordis sui non uenient <lb/>
             super te mala. non locutus sum ad eos, et ipsi prophetauerunt. <lb/>
             si stetissent in substantia mea et <lb/>
-            andissent uerba mea et si docuissent populum meum, <lb/>
+            <choice><sic>andissent</sic><corr>audissent</corr></choice> uerba mea et si docuissent populum meum, <lb/>
              conuertissem eos a malis cogitationibus eorum. hos <lb n="15"/>
             eosdem denuo Dominus designat et denotat dicens: me dereliquerunt <lb/>
             fontem aquae uitae et effoderunt sibi lacus <lb/>
@@ -614,7 +615,7 @@
             continget nobis a patre meo qui in caelis est. ubicumque <lb/>
             enim fuerint duo aut tres collecti in nomine <lb/>
             meo, ego cum eis sum, ostendens non multitudini <lb/>
-            sed unanimitati deprecantium plurimum tribui. siduobus, inquit,<lb n="15"/>
+            sed unanimitati deprecantium plurimum tribui. <choice><sic>siduobus</sic><corr>si duobus</corr></choice>, inquit,<lb n="15"/>
             ex uobis conuenerit in terra: unanimitatem prius <lb/>
             posuit, concordiam pacis ante praemisit: ut conueniat nobis, fideliter <lb/>
             et firmiter docuit. quomodo autem potest ei cum aliquo <lb/>

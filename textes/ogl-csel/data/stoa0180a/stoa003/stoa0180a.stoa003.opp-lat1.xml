@@ -84,6 +84,7 @@
       </langUsage>
     </profileDesc>
     
+<revisionDesc><change when="2026-10-29"><!-- corrections OCR bibliotheque-latine -->Corrections OCR automatiques (bibliotheque-latine, scripts/ocr/corriger_csel.py) : 5 mots mal lus.</change></revisionDesc>
 </teiHeader>
 <text>
 <body>
@@ -807,7 +808,7 @@
             cum aliis triginta duobus regibus, iaotitans adeo tamquam <lb/>
             nihil se habere Israelitas, ut unum se hominem omnem multitudinem <lb/>
             Israelitarum superaturum. hunc alienigenam fecit nihil <lb/>
-            ante Israel deus. cui uieit deus regi? nempe Achab, ei qui <lb/>
+            ante Israel deus. cui <choice><sic>uieit</sic><corr>uicit</corr></choice> deus regi? nempe Achab, ei qui <lb/>
             eum dereliquerat, qui Baali et omnibus daemoniis seruire <lb n="5"/>
             Israel fecerat, cui propterea auxiliatus est, nempe ut crederet <lb/>
             quia sit deus solus iste cuius erat populus Israel et non alius <lb/>
@@ -848,8 +849,8 @@
             omnibus regi similis, sed sic tibi contra merita tua exhibitam <lb/>
             misericordiam ab eo, quem dereliquisti, ut fuerit Achab exhibita. <lb/>
             si enim dixeris propterea te uincere aduersarios tuos, <lb/>
-            quia bene sis credens, potuit et Achab dixisse idolerum cultor <lb n="5"/>
-            et prophetarum sanctorum interemptor. ad hoc ergo te reser. <lb/>
+            quia bene sis credens, potuit et Achab dixisse <choice><sic>idolerum</sic><corr>idolorum</corr></choice> cultor <lb n="5"/>
+            et prophetarum sanctorum interemptor. ad hoc ergo te <choice><sic>reser</sic><corr>refer</corr></choice>. <lb/>
             uatum, ut errores corrigeres tuos, non uides? ilico ut occupasti <lb/>
             Italiam, ecclesiam eius temptasti uertere; dixisti deum <lb/>
             patrem non esse uerum -deum patrem, unicum negans eius <lb/>
@@ -979,7 +980,7 @@
             <hi rend="italic">et</hi> aedificauit <hi rend="italic">excelsa quae destruxerat Escchias</hi> pater <hi rend="italic">ipsius,</hi> <lb/>
             d <hi rend="italic">aedificauit</hi> sacrarium <hi rend="italic">Baal et fecit lucos sicut fecit</hi> Achab <lb/>
             <hi rend="italic">rex Israel, et adorauit omnem</hi> militiam caeli <hi rend="italic">et</hi> seruiuit illis. <lb n="10"/>
-            <hi rend="italic">et</hi> aedificauit <hi rend="italic">sacrarium</hi> in ducbus aedibus domus domini <hi rend="italic">et <lb/>
+            <hi rend="italic">et</hi> aedificauit <hi rend="italic">sacrarium</hi> in <choice><sic>ducbus</sic><corr>duobus</corr></choice> aedibus domus domini <hi rend="italic">et <lb/>
             induxit filios suos in ignem et augurabatur et fecit pythones <lb/>
             et diuinos multos, ut faceret quod malignum est im oculis <lb/>
             animae suae, ut exacerbaret dominum</hi> deum. <hi rend="italic">et fecit</hi> sculptilia <lb/>
@@ -1191,7 +1192,7 @@
             malignum, tamen pepercerit eis et non statim ut deliquerunt <lb n="5"/>
             eos puniuerit. ae igitur dicas: <hi rend="italic">si non bene agerem, numquam <lb/>
             profecto mihi deus pepercisset,</hi> quando uideas consceleratis tuis <lb/>
-            diu paenitentiae locum exhibitum, ut tandem malerum factorum <lb/>
+            diu paenitentiae locum exhibitum, ut tandem <choice><sic>malerum</sic><corr>malorum</corr></choice> factorum <lb/>
             suorum uiderent causas et satis pro delicto fecissent deo. <lb/>
             eris ergo et tu, si minime conuersus fueris ad deum, unus <lb n="10"/>
             ex illo maledicto genere, de quo ad deum dicitur: <hi rend="italic">nota ignorans <lb/>
