@@ -4,7 +4,7 @@ Une collection de textes latins **sous licence libre**, de l'Antiquité au néo-
 pour servir de base à une bibliothèque latine en ligne, sur le modèle de
 [The Greek Library](https://thegreeklibrary.pages.lisn.upsaclay.fr/).
 
-Le dépôt rassemble 22 corpus produits par des projets universitaires et communautaires
+Le dépôt rassemble 23 corpus produits par des projets universitaires et communautaires
 (Perseus, Open Greek and Latin, MGH, CAMENA, CroALa, digilibLT, EDH, Wikisource…).
 Chaque corpus garde sa licence d'origine : **lisez [LICENCES.md](LICENCES.md) avant toute
 réutilisation.**
@@ -35,6 +35,7 @@ réutilisation.**
 | [`latinise`](textes/latinise) | LatinISE, corpus lemmatisé | Toutes périodes | CC BY-SA 4.0 |
 | [`wikisource-la`](textes/wikisource-la) | Vicifons (Wikisource latine) | Toutes périodes | CC BY-SA 4.0 |
 | [`gutenberg-latin`](textes/gutenberg-latin) | Project Gutenberg | Toutes périodes | Domaine public (États-Unis) |
+| [`eebo-tcp`](textes/eebo-tcp) | EEBO-TCP, trois livres latins (Galilée, Herbert de Cherbury, Hobbes) | XVIIe s. | Domaine public |
 
 Le détail (producteur, nombre de textes, format, remarques) se trouve dans
 [`catalogue/sources.csv`](catalogue/sources.csv).

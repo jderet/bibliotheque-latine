@@ -16,7 +16,7 @@ Relevé effectué le 22 octobre 2026.
 | Licence | Usage commercial | Corpus |
 |---|---|---|
 | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) | oui | neolatdracor |
-| Domaine public | oui | vulgata-clementina, gutenberg-latin (domaine public aux États-Unis) |
+| Domaine public | oui | vulgata-clementina, gutenberg-latin (domaine public aux États-Unis), eebo-tcp |
 | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | oui, avec attribution | croala, openmgh, noscemus, isicily-latin, formulae-litterae-chartae (en majorité), pta-latin (en partie) |
 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | oui, avec attribution et partage à l'identique | perseus-canonical-latinlit, ogl-latin, ogl-csel, ogl-patrologia-latina, camena, dll-caesar-bellum-alexandrinum, dll-problemata, edh-inscriptions, latinise, wikisource-la, pta-latin (en partie) |
 | [CC BY-NC-SA 3.0 IT](https://creativecommons.org/licenses/by-nc-sa/3.0/it/) / [4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) | **non** | digiliblt, notre-dame-latin, epistolae |
@@ -52,6 +52,7 @@ Pour un usage commercial, excluez les corpus marqués NC.
 | `noscemus` | [Noscemus Digital Sourcebook](https://zenodo.org/records/15040256) | CC BY 4.0 | notice Zenodo |
 | `vulgata-clementina` | [Vulgate clémentine, eBible.org](https://ebible.org/Bible/details.php?id=latVUC) | Domaine public | notice eBible.org |
 | `gutenberg-latin` | [Project Gutenberg](https://www.gutenberg.org) | Domaine public (États-Unis) | [licence Project Gutenberg](https://www.gutenberg.org/policy/license.html) incluse dans chaque fichier |
+| `eebo-tcp` | [EEBO-TCP](https://textcreationpartnership.org) (Text Creation Partnership, phase I), un dépôt GitHub par livre | Domaine public | [déclaration du TCP](https://textcreationpartnership.org/faq/) : textes de la phase I versés au domaine public le 1er janvier 2015 |
 
 ## Sources examinées mais non téléchargées
 

@@ -39,6 +39,10 @@ clone DigitalLatin/pgls-data digiliblt-data
 
 fetch() { [ -s "$2" ] || curl -sSL -A "bibliotheque-latine" -o "$2" "$1"; }
 
+# EEBO-TCP : un dépôt par livre, seulement les livres latins choisis
+TCP_LIVRES="A41890 A03054 A44008"
+for id in $TCP_LIVRES; do clone "textcreationpartnership/$id"; done
+
 mkdir -p "$W/openmgh" "$W/latinise" "$W/wikisource" "$W/noscemus" "$W/vulgata" "$W/gutenberg/txt"
 
 # openMGH : liste des volumes publiée par les MGH
@@ -140,6 +144,14 @@ python3 -I -m zipfile -e "$W/noscemus/Noscemus_Digital_Sourcebook.zip" "$CACHE/n
 mkdir -p "$TEXTES/vulgata-clementina/usfx" "$TEXTES/vulgata-clementina/chapitres"
 unzip -oq "$W/vulgata/latVUC_usfx.zip" -d "$TEXTES/vulgata-clementina/usfx"
 unzip -oq "$W/vulgata/latVUC_readaloud.zip" -d "$TEXTES/vulgata-clementina/chapitres"
+
+# EEBO-TCP
+mkdir -p "$TEXTES/eebo-tcp"
+: > "$TEXTES/eebo-tcp/.version-amont"
+for id in $TCP_LIVRES; do
+  cp "$G/textcreationpartnership_$id/$id.xml" "$TEXTES/eebo-tcp/"
+  echo "$id $(git -C "$G/textcreationpartnership_$id" log -1 --format='%H %cI')" >> "$TEXTES/eebo-tcp/.version-amont"
+done
 
 # Project Gutenberg
 mkdir -p "$TEXTES/gutenberg-latin/txt"
